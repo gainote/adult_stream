@@ -1,103 +1,40 @@
 {
   "items": [
     {
-      "id": 17142844,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7612b40-95e6-4e4f-842e-2f35532e73a9/width=832/f7612b40-95e6-4e4f-842e-2f35532e73a9.jpeg",
-      "hash": "UQIg};NH?^%2XnWBnij[I;s:RPRk%2ofRPR*",
-      "width": 832,
-      "height": 1216,
+      "id": 5547320,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6cb10b59-d01b-4114-b426-ddea6cd5891b/width=1088/6cb10b59-d01b-4114-b426-ddea6cd5891b.jpeg",
+      "hash": "UJFOZC~V564.57IooJR*9tRj%2%LM{R*n+%2",
+      "width": 1088,
+      "height": 1920,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-25T13:30:41.060Z",
-      "postId": 3842897,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-29T12:32:29.089Z",
+      "postId": 1208158,
       "stats": {
-        "cryCount": 274,
-        "laughCount": 684,
-        "likeCount": 4794,
+        "cryCount": 395,
+        "laughCount": 694,
+        "likeCount": 4960,
         "dislikeCount": 0,
-        "heartCount": 3333,
-        "commentCount": 4
+        "heartCount": 2980,
+        "commentCount": 12
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1791819964,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, chun li, intense pleasure, headshot, worried, embarrassed, biting lip, blushing, cleavage, topless, breast grab, sky above, looking away",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-06-25T1328:12.4435669Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 333607,
-            "modelVersionName": "Smooth Anime 2"
-          },
-          {
-            "type": "lora",
-            "weight": 1.5,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
+        "seed": 2540306418,
+        "steps": 22,
+        "prompt": "*name of a real person*, age 20, (facial:1.2), (cum:1.2), cum on eyes, (from above), <lora:facialized:0.95>",
+        "sampler": "DPM++ 3M SDE",
+        "cfgScale": 5,
+        "negativePrompt": "cgi, cartoon, doll, jewelry"
       },
-      "username": "screwball808",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        290640,
-        333607,
-        382152,
-        398847,
-        436219
-      ]
+      "username": "MishGUN",
+      "baseModel": "SD 1.5",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "14|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=14%7C1744925392028"
+    "nextCursor": "15|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=15%7C1744925392028"
   }
 }
