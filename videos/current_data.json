@@ -1,96 +1,80 @@
 {
   "items": [
     {
-      "id": 18002131,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/633e5e16-26c8-49fd-a057-38d00b218aff/width=832/633e5e16-26c8-49fd-a057-38d00b218aff.jpeg",
-      "hash": "UUK0vi?b~qo~xuxtS2R*RORPD%RPtlkD%MWC",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 26825159,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63586d23-65d0-488f-8b99-e850e13405b0/width=1664/63586d23-65d0-488f-8b99-e850e13405b0.jpeg",
+      "hash": "UUHd{foMR%kB~CrrRjtR9ZnORPkCozW=RjRj",
+      "width": 1664,
+      "height": 2432,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-01T15:18:14.135Z",
-      "postId": 4025339,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-08T11:42:04.990Z",
+      "postId": 5998503,
       "stats": {
-        "cryCount": 254,
-        "laughCount": 534,
-        "likeCount": 4061,
+        "cryCount": 265,
+        "laughCount": 643,
+        "likeCount": 4307,
         "dislikeCount": 0,
-        "heartCount": 2662,
-        "commentCount": 2
+        "heartCount": 2269,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1096553790,
-        "steps": 41,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, 18 years old, medium breasts, eyes closed, (detailed:1.8), intense pleasure, relaxed, worried, breast grab, realistic, in bed, curly hair, redhead, thin, source_anime, ponytail, light brown eyes, (freckles:1.4), (small pink nipples:1.5), cute, naked breasts, perky breasts, sexy expression, indoors, dramatic lighting, pretty girl, cowgirl position, vaginal penetration, pov from below looking up,",
-        "sampler": "Heun",
-        "cfgScale": 4,
+        "seed": 3359855756,
+        "Model": "hassakuXLHentai_v13BetterEyesVersion",
+        "steps": 30,
+        "hashes": {
+          "model": "bbad3bea96",
+          "lora:Washing vehicle 2-000016": "e90b46626f2f"
+        },
+        "prompt": "score_9, score_7_up,  washing vehicle, breast press, against glass, car interior, sponge, 1girl , steering wheel, makima \\(chainsaw man\\), bikini,    <lora:Washing vehicle 2-000016:1>",
+        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
+        "sampler": "Euler A Comfy",
+        "cfgScale": 6,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-01T1458:51.7419784Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, zPDXL2, wispy hair, airbrushed, (glowing eyes:1.2), (young:1.2), (painted:1.4), flat chested",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 531417,
-            "modelVersionName": "pony-no-score_v4.0"
+            "hash": "e90b46626f2f",
+            "name": "Washing vehicle 2-000016",
+            "type": "lora"
           },
           {
-            "type": "lora",
-            "weight": 1.5,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 509253,
-            "modelVersionName": "High Quality V2"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "bbad3bea96",
+            "name": "hassakuXLHentai_v13BetterEyesVersion",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "bbad3bea96",
+        "Hires upscale": "2",
+        "Schedule type": "Align Your Steps",
+        "Hires upscaler": "4xNomos8kDAT",
+        "negativePrompt": "simple background,",
+        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
+        "ADetailer version": "24.8.0",
+        "Denoising strength": "0.13",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "automatic_cfg_preset_enabled": "False",
+        "automatic_cfg_simple_enabled": "False",
+        "ADetailer inpaint only masked": "True",
+        "automatic_cfg_dynamic_enabled": "False",
+        "automatic_cfg_warp_drive_enabled": "False",
+        "automatic_cfg_post_cfg_rescale_enabled": "False"
       },
-      "username": "screwball808",
+      "username": "Kojimbomber",
       "baseModel": "Pony",
       "modelVersionIds": [
-        382152,
-        398847,
-        436219,
-        509253,
-        531417
+        575495
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "32|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=32%7C1744925392028"
+    "nextCursor": "33|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=33%7C1744925392028"
   }
 }
