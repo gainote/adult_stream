@@ -1,103 +1,84 @@
 {
   "items": [
     {
-      "id": 91264547,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e727da9-54dd-4343-9342-22438a93257a/width=1280/2e727da9-54dd-4343-9342-22438a93257a.jpeg",
-      "hash": "URJ*VU-;_NNG?vxuxuV@.8t7MxaeR5V@bIR*",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 17041078,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/61b5e8bb-4cd0-4f60-a477-c3a5814b7ab2/width=832/61b5e8bb-4cd0-4f60-a477-c3a5814b7ab2.jpeg",
+      "hash": "UCG*~G*JC8Gv5S0Lj=ozPB=E,B,.R$M{rq$i",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-29T23:34:21.993Z",
-      "postId": 20243879,
+      "browsingLevel": 16,
+      "createdAt": "2024-06-24T19:23:42.763Z",
+      "postId": 3821533,
       "stats": {
-        "cryCount": 299,
-        "laughCount": 499,
-        "likeCount": 4065,
+        "cryCount": 176,
+        "laughCount": 436,
+        "likeCount": 3722,
         "dislikeCount": 0,
-        "heartCount": 1756,
-        "commentCount": 1
+        "heartCount": 2256,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 283650739,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
-        "extra": {},
-        "steps": 19,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, \nfull body, solo, 1girl, contrapposto, magisa_\\(granblue_fantasy\\), \nssktmm888",
-        "process": "img2img",
+        "Size": "832x1216",
+        "seed": 1762275921,
+        "steps": 35,
+        "prompt": "(score_9, score_8_up, score_7_up), 1girl, small detailed cock, 20 year old, solo, 1male out of frame, black hair, tight ass, thick bangs, braids, small perky breasts, narrow waist, pretty face, petite body, wet skin, long legs, red eyes, looking up lustfully, blush on nose, exhausted expression, plump lips, wearing skimpy green bikini top, luxurious pool, poolside, girl inside pool, cute pose, male sitting on edge of pool, tongue out, both hands on cock, cum leaking from mouth, cock slumped over girl face, cum on face, cock worship, tongue out, penis on face tight innie pussy, volumetric lighting, vibrant colors, lilandavastyle, OverallDetail, Expressiveh, full body shot from above, depth of field,",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4.5,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/N2N4STY7A9F1YSM6SPPNA63S30.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, text, ",
+        "resources": [],
+        "Created Date": "2024-06-24T1850:08.0131146Z",
+        "negativePrompt": "(deformed, distorted, disfigured:1.3), monochrome background, furry, loli, poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, missing fingers, (mutated hands and fingers:1.5), elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, background characters, SimpleNegativeV3, pussy, vagina massive penis, massive cock, muscular, cross eyed, three people, (threesome)",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1761560
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 2061549
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1761560
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 2061549
-          }
-        ],
-        "additionalResources": [
+            "modelVersionId": 287973,
+            "modelVersionName": "V3"
+          },
           {
-            "name": "urn:air:sdxl:lora:civitai:1821697@2061549",
             "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 0.75,
+            "modelVersionId": 378684,
+            "modelVersionName": "v2.0 (Max. Compatibility)"
+          },
+          {
+            "type": "lora",
+            "weight": 1.4,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "comicmonkey",
-      "baseModel": "Illustrious",
+      "username": "WiseBurrito",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1761560,
-        2061549
+        287973,
+        290640,
+        378684,
+        382152
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "53|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=53%7C1744925392028"
+    "nextCursor": "54|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=54%7C1744925392028"
   }
 }
