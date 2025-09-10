@@ -1,40 +1,99 @@
 {
   "items": [
     {
-      "id": 5547320,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6cb10b59-d01b-4114-b426-ddea6cd5891b/width=1088/6cb10b59-d01b-4114-b426-ddea6cd5891b.jpeg",
-      "hash": "UJFOZC~V564.57IooJR*9tRj%2%LM{R*n+%2",
-      "width": 1088,
-      "height": 1920,
+      "id": 19999740,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97797f61-afd2-45a2-b06a-fafe14e894b4/width=1280/97797f61-afd2-45a2-b06a-fafe14e894b4.jpeg",
+      "hash": "U28pZS530O0eAw0J=y=|0K=}}@t6s}}[0e9u",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-04-29T12:32:29.089Z",
-      "postId": 1208158,
+      "createdAt": "2024-07-15T21:44:30.724Z",
+      "postId": 4462960,
       "stats": {
-        "cryCount": 395,
-        "laughCount": 694,
-        "likeCount": 4960,
+        "cryCount": 259,
+        "laughCount": 519,
+        "likeCount": 5101,
         "dislikeCount": 0,
-        "heartCount": 2980,
-        "commentCount": 12
+        "heartCount": 3049,
+        "commentCount": 3
       },
       "meta": {
-        "seed": 2540306418,
-        "steps": 22,
-        "prompt": "*name of a real person*, age 20, (facial:1.2), (cum:1.2), cum on eyes, (from above), <lora:facialized:0.95>",
-        "sampler": "DPM++ 3M SDE",
-        "cfgScale": 5,
-        "negativePrompt": "cgi, cartoon, doll, jewelry"
+        "seed": 3610192022,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "steps": 40,
+        "width": 1280,
+        "height": 1856,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, (score_9, score_8_up, score_7_up), 1girl, 20 year old, 1male out of frame, long black hair, hime cut, perky breasts, cleavage, pretty face, long legs, purple eyes, light freckles, oversized hoodie, cloth black skirt, striped thigh-high socks, gothic boots, lustful, looking up, heavy blushing, petite ass, tight pussy, anal doggstyle sex, full penetration,on the floor, detailed background, inside, futuristic, neon lights, volumetric lighting, vivid colours,  g0thicPXL, glowing, neon, ass focus",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "modelIds": [],
+        "scheduler": "simple",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:222256@250712, embedding:urn:air:sd1:embedding:civitai:87243@287973, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, furry, loli, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes, background characters, muscular, lipstick, massive ass, massive penis,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:352581@398847",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@239420",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "MishGUN",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": []
+      "username": "WiseBurrito",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        239420,
+        290640,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "15|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=15%7C1744925392028"
+    "nextCursor": "16|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=16%7C1744925392028"
   }
 }
