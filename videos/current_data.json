@@ -1,63 +1,67 @@
 {
   "items": [
     {
-      "id": 234845,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc00cfce-393c-476e-c71f-562722b77c00/width=512/cc00cfce-393c-476e-c71f-562722b77c00.jpeg",
-      "hash": "UFK,,857O?-o1iS~Ejj@~Wxu}?IASh9F4nod",
-      "width": 512,
-      "height": 1024,
+      "id": 82226459,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ebd5cce5-73ac-4031-b2bc-310d2c0622b8/width=832/ebd5cce5-73ac-4031-b2bc-310d2c0622b8.jpeg",
+      "hash": "UBG@V:E30e=d|ERjE%-A03Jo-:bb%LJ7bbR+",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2023-03-12T06:29:56.461Z",
-      "postId": 116584,
+      "createdAt": "2025-06-18T03:57:00.000Z",
+      "postId": 18262364,
       "stats": {
-        "cryCount": 152,
-        "laughCount": 411,
-        "likeCount": 3410,
+        "cryCount": 267,
+        "laughCount": 507,
+        "likeCount": 4157,
         "dislikeCount": 0,
-        "heartCount": 2794,
-        "commentCount": 9
+        "heartCount": 1827,
+        "commentCount": 15
       },
       "meta": {
-        "ENSD": "31337",
-        "Size": "512x1024",
-        "seed": 3984980528,
-        "Model": "chilloutmix_NiPrunedFp32Fix",
-        "steps": 25,
-        "prompt": "<lora:virtualgirlRin_v30:0.3>, <lora:upshirtUnderboob_v10:1.35>,\n(RAW photo:1.2),(photorealistic:1.4),(masterpiece:1.3),(best quality:1.4),ultra high res, HDR,8k resolution,\ndreamlike, check commentary, commentary request, scenery,((no text)),\n1girl,  (cleavage:1.5), (large breasts:1.5), (pubic hair:1.5),(lifting shirt), (detailed laced underpants:1.4), (full body), (looking down:1.5), (close up), look at the viewer, naughty face, (touching self hair:1.3), (tattoo:1.3), topless, arm, (close up:1.5), (focus on breasts),\n(detailed eyes),(detailed facial features), (detailed clothes features), (breast blush)\n\ntrending on cg society, plasticine,  bob hair, (strong and toned abs), ((beautiful woman)), wearing  choker, thigh choker, very pale white skin, in snow, feminine and muscular, smiling, wet skin, female focus,",
-        "sampler": "DPM++ SDE Karras",
-        "cfgScale": 8,
-        "Clip skip": "2",
-        "resources": [
+        "Size": "832x1216",
+        "seed": 1651555218,
+        "steps": 19,
+        "prompt": "pirate ship,1girl, solo, beautiful eyes,detailed, beautiful lighting, nami, long hair, orange hair, brown eyes, jewelry, swimsuit, bikini, earrings, pants, high heels, bracelet, denim, bikini top only, jeans, tattoo, closeup, dynamic angle, looking at viewer,\nwhite borders, closeup",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-06-14T0612:34.6726288Z",
+        "negativePrompt": "easynegative",
+        "civitaiResources": [
           {
-            "name": "virtualgirlRin_v30",
-            "type": "lora",
-            "weight": 0.3
+            "type": "checkpoint",
+            "modelVersionId": 1697082,
+            "modelVersionName": "v2.2"
           },
           {
-            "name": "upshirtUnderboob_v10",
-            "type": "lora",
-            "weight": 1.35
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
-            "hash": "fc2511737a",
-            "name": "chilloutmix_NiPrunedFp32Fix",
-            "type": "model"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1900876,
+            "modelVersionName": "V1"
           }
-        ],
-        "Model hash": "fc2511737a",
-        "negativePrompt": "EasyNegative,bad_prompt,ng_deepnegative_v1_75t,(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, glans,",
-        "Face restoration": "GFPGAN"
+        ]
       },
-      "username": "noevils",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": []
+      "username": "unempty",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        9208,
+        1697082,
+        1900876
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "47|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=47%7C1744925392028"
+    "nextCursor": "48|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=48%7C1744925392028"
   }
 }
