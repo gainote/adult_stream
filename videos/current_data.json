@@ -1,42 +1,77 @@
 {
   "items": [
     {
-      "id": 83039867,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/40c86b13-7316-4a9b-8627-5fb5778c4c11/width=1280/40c86b13-7316-4a9b-8627-5fb5778c4c11.jpeg",
-      "hash": "UHIXT~NK00~WIURkxuV@00D%xt%2xaM{Rj%M",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 91263293,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5775666-dab0-4307-b748-da1f56364de1/width=1296/a5775666-dab0-4307-b748-da1f56364de1.jpeg",
+      "hash": "UTKn0ixZY5xu~pRjXSozF3i^wcbc%Lf,WVjF",
+      "width": 1296,
+      "height": 1800,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-20T12:49:28.404Z",
-      "postId": 18442428,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-29T23:29:05.104Z",
+      "postId": 20243573,
       "stats": {
-        "cryCount": 245,
-        "laughCount": 456,
-        "likeCount": 3932,
+        "cryCount": 347,
+        "laughCount": 703,
+        "likeCount": 3843,
         "dislikeCount": 0,
-        "heartCount": 2022,
+        "heartCount": 1745,
         "commentCount": 1
       },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
+      "meta": {
+        "Size": "832x1152",
+        "seed": 570144833357743,
+        "Model": "cyberrealisticXL_v60",
+        "steps": 8,
+        "prompt": "photorealistic, sharp focus, depth of field, bokeh, vivid, vibrant, high contrast,\n(full body, full shot, full frame shot:1.1),    25 year old, detailed skin, realistic skin,\n  pale skin, freckles, freckles on body, brunette hair, petite,    \neye contact,   shocked,  (shocked, surprised, mouth wide open, eyes wide open, eyebrows raised:1.3), \n    btstrbrbo, stripping bra, holding bra straps, \n    (in a changing room, dressing room), blue jeans,\n(turned to the side:1.2),",
+        "Version": "ComfyUI",
+        "sampler": "DPM++ SDE",
+        "cfgScale": 2,
+        "clipSkip": 2,
+        "resources": [],
+        "negativePrompt": "watermark,\nsdxl_cyberrealistic_simpleneg-neg,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1962475
+          },
+          {
+            "type": "lora",
+            "weight": 3.5,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 2,
+            "modelVersionId": 251954
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 547581
+          },
+          {
+            "type": "embedding",
+            "weight": 1,
+            "modelVersionId": 1753690
+          }
+        ]
+      },
+      "username": "pixel8er",
+      "baseModel": "SDXL 1.0",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        333245,
-        372639,
-        1412563,
-        1425924,
-        1490781
+        135867,
+        251954,
+        547581,
+        1753690,
+        1962475
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "50|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=50%7C1744925392028"
+    "nextCursor": "51|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=51%7C1744925392028"
   }
 }
