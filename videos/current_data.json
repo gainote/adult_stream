@@ -1,104 +1,85 @@
 {
   "items": [
     {
-      "id": 60941454,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1e5b199e-64b9-4bb3-b150-37650b08dc6e/width=1280/1e5b199e-64b9-4bb3-b150-37650b08dc6e.jpeg",
-      "hash": "UMJ7RF~p%g$*?HI;IoofMIITD%S40KaK-VR+",
+      "id": 25751845,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9e1a0a6e-475f-42f6-a9cb-a8df6c54cd6e/width=1280/9e1a0a6e-475f-42f6-a9cb-a8df6c54cd6e.jpeg",
+      "hash": "UOHwol~VoyV@W;NGRjRjI;IVn+t8M|IpNGbH",
       "width": 1280,
       "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-02T00:37:43.483Z",
-      "postId": 13631484,
+      "browsingLevel": 8,
+      "createdAt": "2024-08-24T00:05:00.000Z",
+      "postId": 5756991,
       "stats": {
-        "cryCount": 270,
-        "laughCount": 538,
-        "likeCount": 3925,
+        "cryCount": 206,
+        "laughCount": 400,
+        "likeCount": 3889,
         "dislikeCount": 0,
-        "heartCount": 2529,
-        "commentCount": 10
+        "heartCount": 2616,
+        "commentCount": 2
       },
       "meta": {
-        "nsfw": true,
+        "seed": 3876255434,
         "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1410435",
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
         "extra": {
-          "remixOfId": 45876054
+          "remixOfId": 23307246
         },
-        "steps": 48,
-        "width": 832,
-        "height": 1216,
+        "steps": 40,
         "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1410435"
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
         ],
-        "prompt": "safe_pos, masterpiece, best quality, absurdres, ultra-detailed, detailed skin, footworship, 1girl, 2boys, (((anal sex))), massive penis, (((yor briar))), (arched back:2), nude, (black hair:4), earrings, long hair, bare shoulders, collarbone, dress, long sleeves, off shoulder, off-shoulder dress, off-shoulder sweater, pantyhose, red sweater, sweater, sweater dress, thighs, (loose-fitting dress:1.5), (((breast grab))), (((nude medium breast))), (yanguire girl:2), (pussy juice:1.5), (pantyhose feet:2), (pantyhose:2), nipple, head back, on back, suck large penis, (((fellatio))), (((spread pussy))), foreshortening, feet, feet focus, detailed feet, from high up, hair ornament, perspective, foreshortening, leaning to the side, round ass, legs up, top view",
-        "denoise": 0.45,
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, score_6_up, gorgeous 2 girls, topless, cute, one with short black bun hair, puffy nipples, one with long brown hair, (riding on another girl:1.1), kissing, love, black panties, whitepanties, large breast, sexy thighs, very intimate, bangles, choker, lacey, thighhigh, wide hip, thick, large ass focus , bubble ass, (slim fit), bedroom, onbed, Expressiveh, clothes on bed, detailed room and background, vase, plant, lamp, photo hanging on the wall, posters, nicely decorated room, bohemian curtain",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 9,
         "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
         "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
         "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
+          "urn:air:multi:upscaler:civitai:147759@164821"
         ],
         "versionIds": [],
         "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/NVJQ68K0G8BENXYRMA30EDHKC0",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "safe_neg, bad quality, worst quality, worst detail, sketch, censure, censured, displeasing, ugly, poorly drawn, displeasing, very displeasing, bad quality, deformed limbs, bad anatomy, simple background, glasses, comic, frames, negative_hand, bokeh, blur, weapon, green hair",
+        "negativePrompt": "safe_neg, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1410435
+            "strength": 1,
+            "modelVersionId": 290640
           },
           {
-            "weight": 1,
-            "modelVersionId": 1410435
+            "strength": 0.55,
+            "modelVersionId": 398847
           },
           {
-            "weight": 1.35,
+            "strength": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "strength": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "strength": 0.75,
             "modelVersionId": 135867
           },
           {
-            "weight": 0.35,
-            "modelVersionId": 1171421
+            "strength": 1,
+            "modelVersionId": 239420
           },
           {
-            "weight": 0.8,
-            "modelVersionId": 1402984
+            "strength": 0.7,
+            "modelVersionId": 382152
           },
           {
-            "weight": 0.3,
-            "modelVersionId": 1253442
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 1399405
-          },
-          {
-            "weight": 0.2,
-            "modelVersionId": 695827
-          },
-          {
-            "weight": 1,
             "modelVersionId": 250708
           },
           {
-            "weight": 1,
             "modelVersionId": 250712
           },
           {
             "type": "checkpoint",
-            "modelVersionId": 1410435
+            "modelVersionId": 290640
           },
           {
             "type": "upscaler",
@@ -106,90 +87,79 @@
           },
           {
             "type": "lora",
-            "weight": 1.35,
+            "weight": 0.55,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
             "modelVersionId": 135867
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 1171421
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.8,
-            "modelVersionId": 1402984
+            "weight": 1,
+            "modelVersionId": 239420
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1253442
-          },
-          {
-            "type": "lycoris",
             "weight": 0.7,
-            "modelVersionId": 1399405
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 695827
+            "modelVersionId": 382152
           }
         ],
         "additionalResources": [
           {
+            "name": "urn:air:sdxl:lora:civitai:352581@398847",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
             "name": "urn:air:sdxl:lora:civitai:122359@135867",
             "type": "lora",
-            "strength": 1.35,
+            "strength": 0.75,
             "strengthClip": 1
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:946498@1171421",
+            "name": "urn:air:sdxl:lora:civitai:212532@239420",
             "type": "lora",
-            "strength": 0.35,
+            "strength": 1,
             "strengthClip": 1
           },
           {
-            "name": "urn:air:sdxl:lycoris:civitai:1241933@1402984",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1107767@1253442",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lycoris:civitai:985385@1399405",
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
             "type": "lora",
             "strength": 0.7,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:478319@695827",
-            "type": "lora",
-            "strength": 0.2,
             "strengthClip": 1
           }
         ]
       },
-      "username": "Pixelimba",
-      "baseModel": "Illustrious",
+      "username": "smth_uncanny",
+      "baseModel": "Pony",
       "modelVersionIds": [
+        290640,
+        382152,
+        398847,
+        436219,
+        9208,
         135867,
         164821,
-        695827,
-        1171421,
-        1253442,
-        1399405,
-        1402984,
-        1410435
+        239420
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "38|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=38%7C1744925392028"
+    "nextCursor": "39|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=39%7C1744925392028"
   }
 }
