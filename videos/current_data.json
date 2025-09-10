@@ -1,133 +1,58 @@
 {
   "items": [
     {
-      "id": 51589725,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b0c77bd-4da3-4fa9-ba6c-7320ac7badfa/width=832/4b0c77bd-4da3-4fa9-ba6c-7320ac7badfa.jpeg",
-      "hash": "UGGRL|~U6z9uoy}?$%5701RP,txa-pS}X8xt",
-      "width": 832,
-      "height": 1216,
+      "id": 70982446,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da62e2a2-9406-4999-beb8-a907fdd96a73/width=512/da62e2a2-9406-4999-beb8-a907fdd96a73.jpeg",
+      "hash": "UDF#gl0Mo|-o~oMyxukV={R*IpWB9a-:Ipaf",
+      "width": 512,
+      "height": 896,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-14T14:55:37.808Z",
-      "postId": 11601582,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-19T06:14:10.857Z",
+      "postId": 15766878,
       "stats": {
-        "cryCount": 244,
-        "laughCount": 429,
-        "likeCount": 4237,
+        "cryCount": 199,
+        "laughCount": 490,
+        "likeCount": 3965,
         "dislikeCount": 0,
-        "heartCount": 2627,
-        "commentCount": 7
+        "heartCount": 2866,
+        "commentCount": 18
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1210694158,
-        "draft": false,
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, \nclose up,\nplaying billiards,\ncue in hand,\nhand on table,\n(((sexy))),\n(neon:1.35),\nBREAK\n(brown girl  :1.6),\n(one shoulder off:1.2),\n(blonde :1.5),\n(huge braid :1.5),\n(freckles:1.2),\nview from side behind,\n(thigh gap:1.2),\n(got caught:1.4),\n(blush),\nfocus on ass,\nback head,\n(mini skirt close up:1.4),\n(pussy slip:0.9),\nelbow gloves,\npanties,\ncamisole,\nbent over,\nBREAK",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-01-13T0830:52.6033741Z",
-        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
-        "civitaiResources": [
+        "seed": 1071649667700075,
+        "vaes": [
+          "wan_2.1_vae.safetensors"
+        ],
+        "comfy": "{\"prompt\": {\"3\": {\"inputs\": {\"seed\": 1071649667700075, \"steps\": 20, \"cfg\": 6.0, \"sampler_name\": \"uni_pc\", \"scheduler\": \"simple\", \"denoise\": 1.0, \"model\": [\"58\", 0], \"positive\": [\"50\", 0], \"negative\": [\"50\", 1], \"latent_image\": [\"50\", 2]}, \"class_type\": \"KSampler\", \"_meta\": {\"title\": \"KSampler\"}}, \"6\": {\"inputs\": {\"text\": \"A woman is straddling an old man and having sex with him. She bounces up and down on top of the man's thick erect penis and her breasts are jiggling. You can the man's erect penis sliding in and out of woman's pussy.\\n\\n(Static camera). the camera is stationary, camera is fixed,\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Positive Prompt)\"}}, \"7\": {\"inputs\": {\"text\": \"Overexposure, static, blurred details, subtitles, paintings, pictures, still, overall gray, worst quality, low quality, JPEG compression residue, ugly, mutilated, redundant fingers, poorly painted hands, poorly painted faces, deformed, disfigured, deformed limbs, fused fingers, cluttered background, three legs, a lot of people in the background, upside down\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Negative Prompt)\"}}, \"8\": {\"inputs\": {\"samples\": [\"3\", 0], \"vae\": [\"39\", 0]}, \"class_type\": \"VAEDecode\", \"_meta\": {\"title\": \"VAE Decode\"}}, \"28\": {\"inputs\": {\"filename_prefix\": \"Wan\", \"fps\": 16.0, \"lossless\": false, \"quality\": 90, \"method\": \"default\", \"images\": [\"8\", 0]}, \"class_type\": \"SaveAnimatedWEBP\", \"_meta\": {\"title\": \"SaveAnimatedWEBP\"}}, \"37\": {\"inputs\": {\"unet_name\": \"wan2.1_i2v_480p_14B_fp8_e4m3fn.safetensors\", \"weight_dtype\": \"default\"}, \"class_type\": \"UNETLoader\", \"_meta\": {\"title\": \"Load Diffusion Model\"}}, \"38\": {\"inputs\": {\"clip_name\": \"umt5_xxl_fp8_e4m3fn_scaled.safetensors\", \"type\": \"wan\", \"device\": \"default\"}, \"class_type\": \"CLIPLoader\", \"_meta\": {\"title\": \"Load CLIP\"}}, \"39\": {\"inputs\": {\"vae_name\": \"wan_2.1_vae.safetensors\"}, \"class_type\": \"VAELoader\", \"_meta\": {\"title\": \"Load VAE\"}}, \"49\": {\"inputs\": {\"clip_name\": \"clip_vision_h.safetensors\"}, \"class_type\": \"CLIPVisionLoader\", \"_meta\": {\"title\": \"Load CLIP Vision\"}}, \"50\": {\"inputs\": {\"width\": 512, \"height\": 896, \"length\": 73, \"batch_size\": 1, \"positive\": [\"6\", 0], \"negative\": [\"7\", 0], \"vae\": [\"39\", 0], \"clip_vision_output\": [\"51\", 0], \"start_image\": [\"52\", 0]}, \"class_type\": \"WanImageToVideo\", \"_meta\": {\"title\": \"WanImageToVideo\"}}, \"51\": {\"inputs\": {\"crop\": \"none\", \"clip_vision\": [\"49\", 0], \"image\": [\"52\", 0]}, \"class_type\": \"CLIPVisionEncode\", \"_meta\": {\"title\": \"CLIP Vision Encode\"}}, \"52\": {\"inputs\": {\"image\": \"00118-988817209958123.png\"}, \"class_type\": \"LoadImage\", \"_meta\": {\"title\": \"Load Image\"}, \"is_changed\": [\"d485b236bc29154e55a7d354229ec24b8ddc6ff27114204bf75359151562ab18\"]}, \"55\": {\"inputs\": {\"unet_name\": \"wan2.1-i2v-14b-480p-Q4_0.gguf\"}, \"class_type\": \"UnetLoaderGGUF\", \"_meta\": {\"title\": \"Unet Loader (GGUF)\"}}, \"58\": {\"inputs\": {\"lora_name\": \"wan_cowgirl_v1.3.safetensors\", \"strength_model\": 1.0, \"model\": [\"55\", 0]}, \"class_type\": \"LoraLoaderModelOnly\", \"_meta\": {\"title\": \"LoraLoaderModelOnly\"}}}, \"workflow\": {\"3\": {\"inputs\": {\"seed\": 1071649667700075, \"steps\": 20, \"cfg\": 6.0, \"sampler_name\": \"uni_pc\", \"scheduler\": \"simple\", \"denoise\": 1.0, \"model\": [\"58\", 0], \"positive\": [\"50\", 0], \"negative\": [\"50\", 1], \"latent_image\": [\"50\", 2]}, \"class_type\": \"KSampler\", \"_meta\": {\"title\": \"KSampler\"}}, \"6\": {\"inputs\": {\"text\": \"A woman is straddling an old man and having sex with him. She bounces up and down on top of the man's thick erect penis and her breasts are jiggling. You can the man's erect penis sliding in and out of woman's pussy.\\n\\n(Static camera). the camera is stationary, camera is fixed,\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Positive Prompt)\"}}, \"7\": {\"inputs\": {\"text\": \"Overexposure, static, blurred details, subtitles, paintings, pictures, still, overall gray, worst quality, low quality, JPEG compression residue, ugly, mutilated, redundant fingers, poorly painted hands, poorly painted faces, deformed, disfigured, deformed limbs, fused fingers, cluttered background, three legs, a lot of people in the background, upside down\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Negative Prompt)\"}}, \"8\": {\"inputs\": {\"samples\": [\"3\", 0], \"vae\": [\"39\", 0]}, \"class_type\": \"VAEDecode\", \"_meta\": {\"title\": \"VAE Decode\"}}, \"28\": {\"inputs\": {\"filename_prefix\": \"Wan\", \"fps\": 16.0, \"lossless\": false, \"quality\": 90, \"method\": \"default\", \"images\": [\"8\", 0]}, \"class_type\": \"SaveAnimatedWEBP\", \"_meta\": {\"title\": \"SaveAnimatedWEBP\"}}, \"37\": {\"inputs\": {\"unet_name\": \"wan2.1_i2v_480p_14B_fp8_e4m3fn.safetensors\", \"weight_dtype\": \"default\"}, \"class_type\": \"UNETLoader\", \"_meta\": {\"title\": \"Load Diffusion Model\"}}, \"38\": {\"inputs\": {\"clip_name\": \"umt5_xxl_fp8_e4m3fn_scaled.safetensors\", \"type\": \"wan\", \"device\": \"default\"}, \"class_type\": \"CLIPLoader\", \"_meta\": {\"title\": \"Load CLIP\"}}, \"39\": {\"inputs\": {\"vae_name\": \"wan_2.1_vae.safetensors\"}, \"class_type\": \"VAELoader\", \"_meta\": {\"title\": \"Load VAE\"}}, \"49\": {\"inputs\": {\"clip_name\": \"clip_vision_h.safetensors\"}, \"class_type\": \"CLIPVisionLoader\", \"_meta\": {\"title\": \"Load CLIP Vision\"}}, \"50\": {\"inputs\": {\"width\": 512, \"height\": 896, \"length\": 73, \"batch_size\": 1, \"positive\": [\"6\", 0], \"negative\": [\"7\", 0], \"vae\": [\"39\", 0], \"clip_vision_output\": [\"51\", 0], \"start_image\": [\"52\", 0]}, \"class_type\": \"WanImageToVideo\", \"_meta\": {\"title\": \"WanImageToVideo\"}}, \"51\": {\"inputs\": {\"crop\": \"none\", \"clip_vision\": [\"49\", 0], \"image\": [\"52\", 0]}, \"class_type\": \"CLIPVisionEncode\", \"_meta\": {\"title\": \"CLIP Vision Encode\"}}, \"52\": {\"inputs\": {\"image\": \"00118-988817209958123.png\"}, \"class_type\": \"LoadImage\", \"_meta\": {\"title\": \"Load Image\"}, \"is_changed\": [\"d485b236bc29154e55a7d354229ec24b8ddc6ff27114204bf75359151562ab18\"]}, \"55\": {\"inputs\": {\"unet_name\": \"wan2.1-i2v-14b-480p-Q4_0.gguf\"}, \"class_type\": \"UnetLoaderGGUF\", \"_meta\": {\"title\": \"Unet Loader (GGUF)\"}}, \"58\": {\"inputs\": {\"lora_name\": \"wan_cowgirl_v1.3.safetensors\", \"strength_model\": 1.0, \"model\": [\"55\", 0]}, \"class_type\": \"LoraLoaderModelOnly\", \"_meta\": {\"title\": \"LoraLoaderModelOnly\"}}}}",
+        "steps": 20,
+        "width": 512,
+        "height": 896,
+        "models": [],
+        "denoise": 1,
+        "sampler": "UniPC",
+        "cfgScale": 6,
+        "modelIds": [],
+        "scheduler": "simple",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "additionalResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
+            "name": "wan_cowgirl_v1.3.safetensors",
             "type": "lora",
-            "weight": -0.45,
-            "modelVersionId": 530596,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 983142,
-            "modelVersionName": "v1.4-pony"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 98441,
-            "modelVersionName": "V2"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "strength": 1
           }
         ]
       },
-      "username": "vovkkabanko",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        98441,
-        128461,
-        135867,
-        290640,
-        298238,
-        382152,
-        436219,
-        530596,
-        983142
-      ]
+      "username": "magemingo951",
+      "baseModel": null,
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "30|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=30%7C1744925392028"
+    "nextCursor": "31|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=31%7C1744925392028"
   }
 }
