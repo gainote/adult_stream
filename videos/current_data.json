@@ -1,36 +1,39 @@
 {
   "items": [
     {
-      "id": 16488123,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3db00576-dce1-4639-a360-694a24f44303/width=832/3db00576-dce1-4639-a360-694a24f44303.jpeg",
-      "hash": "UNHT?V01_N9FaeD*xtsl^kWXbboKs:M{xus:",
-      "width": 832,
-      "height": 1216,
+      "id": 65625217,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2fe6185-4e57-48b6-8b9b-a8172d95b2cc/width=1024/f2fe6185-4e57-48b6-8b9b-a8172d95b2cc.jpeg",
+      "hash": "UMFE+SNG4.%g~WM{IU-px]Rjr=xuw]bbW;s:",
+      "width": 1024,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-20T14:57:24.161Z",
-      "postId": 3698366,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-29T01:22:55.663Z",
+      "postId": 13794317,
       "stats": {
-        "cryCount": 205,
-        "laughCount": 555,
-        "likeCount": 4556,
+        "cryCount": 444,
+        "laughCount": 664,
+        "likeCount": 4419,
         "dislikeCount": 0,
-        "heartCount": 3148,
-        "commentCount": 3
+        "heartCount": 2587,
+        "commentCount": 4
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1370200561,
-        "steps": 36,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, Kim Possible, redhead, long hair, perfect face, perfect eyes, sexy, sexy girl, beautiful eyes, petite body, wide hips, perfect cute face, standing, large breasts, cleavage, oversized top, seductive look, pink panties, takes off panties, girl pulling down underwear to knees, clothes pulled down, leaning forward, pussy visible, perfect hands, blush, close up, dynamic angle",
+        "Size": "1024x1024",
+        "seed": 163362491,
+        "extra": {
+          "remixOfId": 64937931
+        },
+        "steps": 34,
+        "prompt": "score_9, score_8_up, score_8, score_7_up, 1girl, 1futa Arab thief, futanari Jasmine masturbating, harem pants, pants pulled down, Bed Canopy With Tie up French Style Canopy Curtain, blushing,  motion lines, movement lines, moving hips lines, cock motion lines, futa watching, watching from away, netorare, duo, bedroom, futa ntr,",
         "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-06-20T1456:32.3098682Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative, bad hands",
+        "Created Date": "2025-03-21T1823:41.1751381Z",
+        "negativePrompt": "easynegative, worst quality, femboy, low quality, text, censored, deformed, bad hand, blurry, (watermark),  extra hands, extra limbs, missing limbs, extra hands, missing hands, muscles, ugly face, deformed face, inverted limbs,  ugly nose, deformed nose, ",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -45,13 +48,7 @@
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
@@ -63,26 +60,32 @@
           },
           {
             "type": "lora",
-            "weight": 0.3,
+            "weight": 0.75,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 447620,
+            "modelVersionName": "Futa NTR (Ver. 2) [Pony]"
           }
         ]
       },
-      "username": null,
+      "username": "revenge623",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        239420,
         290640,
         382152,
         398847,
-        436219
+        436219,
+        447620
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "20|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=20%7C1744925392028"
+    "nextCursor": "21|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=21%7C1744925392028"
   }
 }
