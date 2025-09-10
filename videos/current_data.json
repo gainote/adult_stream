@@ -1,39 +1,36 @@
 {
   "items": [
     {
-      "id": 34854503,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/314ea556-42e8-4db5-948c-7203aa47e3a4/width=832/314ea556-42e8-4db5-948c-7203aa47e3a4.jpeg",
-      "hash": "U4FD#m0f010g00jF%gxt1J=dM{tR0z-V~B0f",
+      "id": 17142844,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7612b40-95e6-4e4f-842e-2f35532e73a9/width=832/f7612b40-95e6-4e4f-842e-2f35532e73a9.jpeg",
+      "hash": "UQIg};NH?^%2XnWBnij[I;s:RPRk%2ofRPR*",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-16T05:11:40.196Z",
-      "postId": 7965560,
+      "browsingLevel": 8,
+      "createdAt": "2024-06-25T13:30:41.060Z",
+      "postId": 3842897,
       "stats": {
-        "cryCount": 332,
-        "laughCount": 700,
-        "likeCount": 4846,
+        "cryCount": 274,
+        "laughCount": 684,
+        "likeCount": 4794,
         "dislikeCount": 0,
-        "heartCount": 3221,
-        "commentCount": 66
+        "heartCount": 3333,
+        "commentCount": 4
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3051737371,
-        "extra": {
-          "remixOfId": 34319249
-        },
-        "steps": 29,
-        "prompt": "Expressiveh, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, godrays, 1girl, Makima (Chainsaw man), red room, lingerie, thick thighs, narrow waist, big hips, elbow gloves, pose, closeup, dynamic angle, closeup, hearts, sound effects, sexy, 1man, blush, handjob, licking cock, smeared makeup, sweat, cum on face, from side, looking up",
-        "sampler": "Euler a",
+        "seed": 1791819964,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, chun li, intense pleasure, headshot, worried, embarrassed, biting lip, blushing, cleavage, topless, breast grab, sky above, looking away",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-10-16T0502:07.0880848Z",
-        "negativePrompt": "easynegative, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, mixed characters",
+        "Created Date": "2024-06-25T1328:12.4435669Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -48,13 +45,13 @@
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 0.8,
+            "modelVersionId": 333607,
+            "modelVersionName": "Smooth Anime 2"
           },
           {
             "type": "lora",
-            "weight": 0.65,
+            "weight": 1.5,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
@@ -72,6 +69,11 @@
           },
           {
             "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
             "modelVersionId": 250708,
             "modelVersionName": "safe_pos"
           },
@@ -82,12 +84,12 @@
           }
         ]
       },
-      "username": "Bancin",
+      "username": "screwball808",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        239420,
         290640,
+        333607,
         382152,
         398847,
         436219
@@ -95,7 +97,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "13|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=13%7C1744925392028"
+    "nextCursor": "14|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=14%7C1744925392028"
   }
 }
