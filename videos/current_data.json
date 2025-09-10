@@ -1,99 +1,81 @@
 {
   "items": [
     {
-      "id": 19999740,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97797f61-afd2-45a2-b06a-fafe14e894b4/width=1280/97797f61-afd2-45a2-b06a-fafe14e894b4.jpeg",
-      "hash": "U28pZS530O0eAw0J=y=|0K=}}@t6s}}[0e9u",
-      "width": 1280,
-      "height": 1856,
+      "id": 14452591,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76f3214e-f5ee-4eda-a53a-732608a28b22/width=832/76f3214e-f5ee-4eda-a53a-732608a28b22.jpeg",
+      "hash": "U8FYJhD%00_N^QR*MdM|ITxH.9J601-;wg01",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-15T21:44:30.724Z",
-      "postId": 4462960,
+      "browsingLevel": 8,
+      "createdAt": "2024-06-03T10:08:55.484Z",
+      "postId": 3209394,
       "stats": {
-        "cryCount": 259,
-        "laughCount": 519,
-        "likeCount": 5101,
+        "cryCount": 255,
+        "laughCount": 573,
+        "likeCount": 4837,
         "dislikeCount": 0,
-        "heartCount": 3049,
-        "commentCount": 3
+        "heartCount": 3262,
+        "commentCount": 5
       },
       "meta": {
-        "seed": 3610192022,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "Size": "832x1216",
+        "seed": 1214255954,
         "steps": 40,
-        "width": 1280,
-        "height": 1856,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, (score_9, score_8_up, score_7_up), 1girl, 20 year old, 1male out of frame, long black hair, hime cut, perky breasts, cleavage, pretty face, long legs, purple eyes, light freckles, oversized hoodie, cloth black skirt, striped thigh-high socks, gothic boots, lustful, looking up, heavy blushing, petite ass, tight pussy, anal doggstyle sex, full penetration,on the floor, detailed background, inside, futuristic, neon lights, volumetric lighting, vivid colours,  g0thicPXL, glowing, neon, ass focus",
-        "denoise": 0.4,
+        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, one sexy dark-skinned Mexican girl, long wet hair, female focus, lustrous skin, parted lips, slender, large breasts, through breasts silhouette, blurry body silhouette, naked transparent shirt, oversized shirt, shirt overhang, see-through shirt, see-through silhouette, HD32k, expressiveh, arched back, sexy pose, under an outdoor shower, wet skin, wet hair, perfect body, wide hips, narrow waist, barefoot, bottomless, perfect innie pussy, tight thin labia, hands on own head, wet hair, wet skin, wet shirt, supermodel pose, chest thrust out, outdoors, on the beach, sun high in the sky, well lit, sexy trimmed pubic hair, standing, showering, eyes closed, 3/4 angle view, three quarter view, view from below, (head titled up:1.4), (outdoor shower), arched back, contrapposto pose, (3/4 view:1.5),  (wet hair:1.4)",
         "sampler": "Euler a",
-        "cfgScale": 6,
-        "modelIds": [],
-        "scheduler": "simple",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:222256@250712, embedding:urn:air:sd1:embedding:civitai:87243@287973, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, furry, loli, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes, background characters, muscular, lipstick, massive ass, massive penis,",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-06-03T1008:33.5069424Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, muscular, censored, furry, milf, child, kid, chibi, monochrome, grayscale, bra, panties, upturned eyes",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847
+            "weight": 0.8,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219
+            "weight": 0.3,
+            "modelVersionId": 438481,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:352581@398847",
-            "type": "lora",
-            "strength": 0.55,
-            "strengthClip": 1
+            "weight": 0.9,
+            "modelVersionId": 505635,
+            "modelVersionName": "v1.0"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:300005@436219",
             "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:212532@239420",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 0.7,
+            "modelVersionId": 522995,
+            "modelVersionName": "V1.0"
           }
         ]
       },
-      "username": "WiseBurrito",
+      "username": "Ninjada",
       "baseModel": "Pony",
       "modelVersionIds": [
-        239420,
         290640,
-        398847,
-        436219
+        382152,
+        438481,
+        505635,
+        522995
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "16|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=16%7C1744925392028"
+    "nextCursor": "17|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=17%7C1744925392028"
   }
 }
