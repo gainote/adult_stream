@@ -1,67 +1,98 @@
 {
   "items": [
     {
-      "id": 16383258,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5d52e89-9401-4cb2-9ae7-cd4a63c0f1a7/width=832/c5d52e89-9401-4cb2-9ae7-cd4a63c0f1a7.jpeg",
-      "hash": "UELDli%M80tRF|M{eSs900t8n3WB%#WBtmoL",
+      "id": 18981547,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9229d324-e9dc-4ff3-b8a2-7b24fe810e06/width=832/9229d324-e9dc-4ff3-b8a2-7b24fe810e06.jpeg",
+      "hash": "U8C=b$7f2^%MzUEfVYwcOsIoGG]+}9-A56od",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-06-19T18:36:39.302Z",
-      "postId": 3670669,
+      "createdAt": "2024-07-08T16:19:56.130Z",
+      "postId": 4238203,
       "stats": {
-        "cryCount": 217,
-        "laughCount": 502,
-        "likeCount": 4118,
+        "cryCount": 221,
+        "laughCount": 455,
+        "likeCount": 3950,
         "dislikeCount": 0,
-        "heartCount": 2647,
-        "commentCount": 3
+        "heartCount": 2781,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1054567606,
-        "steps": 35,
-        "prompt": "score_9,score_8_up,score_7_up,score_6_up, 1girl, sleeping on her side, on bed, medium breasts, spider Gwen, multicolored hair,\nexposed breasts, close up,(arched back:1.6), head on pillow, pov, oversized crop top sweater, pussy, ((sheer black panties)), wet spot, grool, (pov hands removing panties, /male hands removing panties/), focus on panties, panties close to viewer, (messy hair, hair covering one eye), sexy hair,",
+        "seed": 2024067631,
+        "steps": 36,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, Kim Possible, redhead, long hair, wet hair, wet black top, wet pink panties, perfect face, green eyes, sexy, sexy girl, beautiful eyes, glossy lips, petite body, wide hips, thigh gap, wet skin, medium breasts, underboob, intense pleasure, headshot, worried, titty fuck, nipples visible, panting, embarrassed, biting lip, blushing, cleavage, breast grab, looking away, dynamic angle,",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-06-19T1832:55.9658664Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face, ((nipples)),",
+        "Created Date": "2024-07-08T1618:57.2998410Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 534642,
-            "modelVersionName": "v2.1 Main + VAE"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 466475,
-            "modelVersionName": "For Pony v0.2"
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 522995,
-            "modelVersionName": "Pony"
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "screwball808",
+      "username": "Cony3D",
       "baseModel": "Pony",
       "modelVersionIds": [
-        466475,
-        522995,
-        534642
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "34|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=34%7C1744925392028"
+    "nextCursor": "35|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=35%7C1744925392028"
   }
 }
