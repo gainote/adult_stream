@@ -1,80 +1,67 @@
 {
   "items": [
     {
-      "id": 26825159,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63586d23-65d0-488f-8b99-e850e13405b0/width=1664/63586d23-65d0-488f-8b99-e850e13405b0.jpeg",
-      "hash": "UUHd{foMR%kB~CrrRjtR9ZnORPkCozW=RjRj",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "Mature",
+      "id": 16383258,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5d52e89-9401-4cb2-9ae7-cd4a63c0f1a7/width=832/c5d52e89-9401-4cb2-9ae7-cd4a63c0f1a7.jpeg",
+      "hash": "UELDli%M80tRF|M{eSs900t8n3WB%#WBtmoL",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-08T11:42:04.990Z",
-      "postId": 5998503,
+      "browsingLevel": 16,
+      "createdAt": "2024-06-19T18:36:39.302Z",
+      "postId": 3670669,
       "stats": {
-        "cryCount": 265,
-        "laughCount": 643,
-        "likeCount": 4307,
+        "cryCount": 217,
+        "laughCount": 502,
+        "likeCount": 4118,
         "dislikeCount": 0,
-        "heartCount": 2269,
-        "commentCount": 0
+        "heartCount": 2647,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3359855756,
-        "Model": "hassakuXLHentai_v13BetterEyesVersion",
-        "steps": 30,
-        "hashes": {
-          "model": "bbad3bea96",
-          "lora:Washing vehicle 2-000016": "e90b46626f2f"
-        },
-        "prompt": "score_9, score_7_up,  washing vehicle, breast press, against glass, car interior, sponge, 1girl , steering wheel, makima \\(chainsaw man\\), bikini,    <lora:Washing vehicle 2-000016:1>",
-        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
-        "sampler": "Euler A Comfy",
-        "cfgScale": 6,
+        "seed": 1054567606,
+        "steps": 35,
+        "prompt": "score_9,score_8_up,score_7_up,score_6_up, 1girl, sleeping on her side, on bed, medium breasts, spider Gwen, multicolored hair,\nexposed breasts, close up,(arched back:1.6), head on pillow, pov, oversized crop top sweater, pussy, ((sheer black panties)), wet spot, grool, (pov hands removing panties, /male hands removing panties/), focus on panties, panties close to viewer, (messy hair, hair covering one eye), sexy hair,",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-06-19T1832:55.9658664Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face, ((nipples)),",
+        "civitaiResources": [
           {
-            "hash": "e90b46626f2f",
-            "name": "Washing vehicle 2-000016",
-            "type": "lora"
+            "type": "checkpoint",
+            "modelVersionId": 534642,
+            "modelVersionName": "v2.1 Main + VAE"
           },
           {
-            "hash": "bbad3bea96",
-            "name": "hassakuXLHentai_v13BetterEyesVersion",
-            "type": "model"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 466475,
+            "modelVersionName": "For Pony v0.2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 522995,
+            "modelVersionName": "Pony"
           }
-        ],
-        "Model hash": "bbad3bea96",
-        "Hires upscale": "2",
-        "Schedule type": "Align Your Steps",
-        "Hires upscaler": "4xNomos8kDAT",
-        "negativePrompt": "simple background,",
-        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
-        "ADetailer version": "24.8.0",
-        "Denoising strength": "0.13",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "automatic_cfg_preset_enabled": "False",
-        "automatic_cfg_simple_enabled": "False",
-        "ADetailer inpaint only masked": "True",
-        "automatic_cfg_dynamic_enabled": "False",
-        "automatic_cfg_warp_drive_enabled": "False",
-        "automatic_cfg_post_cfg_rescale_enabled": "False"
+        ]
       },
-      "username": "Kojimbomber",
+      "username": "screwball808",
       "baseModel": "Pony",
       "modelVersionIds": [
-        575495
+        466475,
+        522995,
+        534642
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "33|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=33%7C1744925392028"
+    "nextCursor": "34|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=34%7C1744925392028"
   }
 }
