@@ -1,119 +1,57 @@
 {
   "items": [
     {
-      "id": 30108878,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d1108038-7cf4-413b-babc-1f5cbd856337/width=832/d1108038-7cf4-413b-babc-1f5cbd856337.jpeg",
-      "hash": "UMGHJEogEMNH0ft7%2WVE1R*nijr}@aeRjn$",
-      "width": 832,
-      "height": 1216,
+      "id": 11712729,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e88ddc21-501e-443b-bec8-9ab0a5c012f1/width=1304/e88ddc21-501e-443b-bec8-9ab0a5c012f1.jpeg",
+      "hash": "U9JjVl{e7MR-~B[TcZK606.S]hx]u%C8jY?b",
+      "width": 1304,
+      "height": 2280,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-09-18T18:04:45.696Z",
-      "postId": 6736759,
+      "createdAt": "2024-05-06T17:20:35.606Z",
+      "postId": 2579406,
       "stats": {
-        "cryCount": 273,
-        "laughCount": 600,
-        "likeCount": 4633,
+        "cryCount": 265,
+        "laughCount": 616,
+        "likeCount": 4486,
         "dislikeCount": 0,
-        "heartCount": 3283,
-        "commentCount": 12
+        "heartCount": 3379,
+        "commentCount": 5
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 812903186,
-        "steps": 35,
-        "prompt": "(score_9, score_8_up, score_7_up), detailed background, night, inside, apartment, volumetric lighting, vivid colours, g0thicPXL, lilandavastyle, Expressiveh, imminent sex, , mating press, from below,\nBREAK 1girl, 20 years old, kawaii, cute face, long silver hair, bangs, pale skin, curvy, glowing light orange eyes, half closed eyes, heavy blush, light makeup, nervous, looking up, nervous, covered small perky breasts, wearing oversized jumper, choker, sweaty skin, thigh-high striped socks, \nBREAK 1male, out of frame, nude, average penis,",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
+        "Size": "768x1344",
+        "seed": 605654760822443,
+        "steps": 25,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "LORA:Styles\\ExpressiveH.safetensors": "7b53da0391",
+          "LORA:Styles\\Twilight Style.safetensors": "2d9ee3fc65",
+          "LORA:Styles\\Disney Princess.safetensors": "80aa67913a",
+          "LORA:Styles\\OfficialPit Style v2.safetensors": "ec0f0a1480"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,  girl gets fuck, top down ass up, hard orgasm face, small waist, grab ass, head on side, dutch angle, low angle,  BREAK biting own lip, naked, cute, bob cut, tan lines, blonde, medium breast press, blush, saliva, eye rolling, half-closed eyes, one eye closed, (smiling:0.85), expressiveH,  <lora:Styles\\Twilight Style.safetensors:0.8> <lora:Styles\\Disney Princess.safetensors:0.8> <lora:Styles\\OfficialPit Style v2.safetensors:0.5> <lora:Styles\\ExpressiveH.safetensors:0.5>",
+        "sampler": "Euler a Karras",
+        "cfgScale": 7,
         "resources": [],
-        "Created Date": "2024-09-18T1758:57.6031532Z",
-        "negativePrompt": "easynegative, (score_6, score_5, score_4), (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), watermark, border, monochrome background, furry, loli, poorly drawn, blurry, blurry eyes, muscular, large penis,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 373439,
-            "modelVersionName": "Lil Andava style PDXL V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 722613,
-            "modelVersionName": "v0.2-pony"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
+        "Model hash": "67ab2fd8ec",
+        "negativePrompt": "score_6, score_5, score_4, muscular, censored, monochrome, small breasts, makeup, dark skin",
+        "PonyV6XL Version": "ComfyUI"
       },
-      "username": "WiseBurrito",
+      "username": "ADPA",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        135867,
         244808,
         290640,
-        373439,
+        330475,
         382152,
-        398847,
-        436219,
-        722613
+        449028
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "18|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=18%7C1744925392028"
+    "nextCursor": "19|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=19%7C1744925392028"
   }
 }
