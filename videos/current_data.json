@@ -1,98 +1,70 @@
 {
   "items": [
     {
-      "id": 18981547,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9229d324-e9dc-4ff3-b8a2-7b24fe810e06/width=832/9229d324-e9dc-4ff3-b8a2-7b24fe810e06.jpeg",
-      "hash": "U8C=b$7f2^%MzUEfVYwcOsIoGG]+}9-A56od",
-      "width": 832,
-      "height": 1216,
+      "id": 295538,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e73216ad-a0a5-4770-37f2-df3dd504f000/width=512/e73216ad-a0a5-4770-37f2-df3dd504f000.jpeg",
+      "hash": "UCI;q[IV0K^+00%2D%?H00%2?b4o~W-p-;t7",
+      "width": 512,
+      "height": 768,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-08T16:19:56.130Z",
-      "postId": 4238203,
+      "browsingLevel": 8,
+      "createdAt": "2024-02-03T12:46:09.622Z",
+      "postId": 108572,
       "stats": {
-        "cryCount": 221,
-        "laughCount": 455,
-        "likeCount": 3950,
+        "cryCount": 212,
+        "laughCount": 418,
+        "likeCount": 3755,
         "dislikeCount": 0,
-        "heartCount": 2781,
-        "commentCount": 0
+        "heartCount": 3005,
+        "commentCount": 15
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2024067631,
-        "steps": 36,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, Kim Possible, redhead, long hair, wet hair, wet black top, wet pink panties, perfect face, green eyes, sexy, sexy girl, beautiful eyes, glossy lips, petite body, wide hips, thigh gap, wet skin, medium breasts, underboob, intense pleasure, headshot, worried, titty fuck, nipples visible, panting, embarrassed, biting lip, blushing, cleavage, breast grab, looking away, dynamic angle,",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-08T1618:57.2998410Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative",
-        "civitaiResources": [
+        "Size": "512x768",
+        "seed": 2668558297,
+        "Model": "chilloutmix_NiPrunedFp32Fix",
+        "steps": 20,
+        "prompt": "(RAW photo, best quality), (realistic, photo-realistic:1.3), best quality ,masterpiece, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,2k wallpaper, Amazing, finely detail, masterpiece, light smile, best quality, extremely detailed CG unity 8k wallpaper, huge filesize , ultra-detailed, highres, extremely detailed, 1girl, maid,(nude:1.2),(moist pussy:1), (spread legs), hair ornament, looking at looking at viewer, small breasts, <lora:japaneseDollLikeness_v10:0.2>, <lora:koreanDollLikeness_v15:0.2>, <lora:cuteGirlMix4_v10:0.4>, <lora:chilloutmixss30_v30:0.2>, pureerosface_v1:0.8",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "name": "japaneseDollLikeness_v10",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 0.2
           },
           {
+            "name": "koreanDollLikeness_v15",
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.2
           },
           {
+            "name": "cuteGirlMix4_v10",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.4
           },
           {
+            "name": "chilloutmixss30_v30",
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.2
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "fc2511737a",
+            "name": "chilloutmix_NiPrunedFp32Fix",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "fc2511737a",
+        "negativePrompt": "bra, covered nipples, underwear,EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,((watermark:2)),(white letters:1), (multi nipples), lowres, bad anatomy, bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worst quality, low qualitynormal quality, jpeg artifacts, signature, watermark, username,bad feet, {Multiple people},lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,extra fingers,fewer digits,extra limbs,extra arms,extra legs,malformed limbs,fused fingers,too many fingers,long neck,cross-eyed,mutated hands,polar lowres,bad body,bad proportions,gross proportions,text,error,missing fingers,missing arms,extra arms,missing legs,wrong feet bottom render,extra digit,abdominal stretch, glans, pants, briefs, knickers, kecks, thong, {{fused fingers}}, {{bad body}}, ((long hair))"
       },
-      "username": "Cony3D",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        239420,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
+      "username": "sEthan",
+      "baseModel": "SD 1.5",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "35|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=35%7C1744925392028"
+    "nextCursor": "36|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=36%7C1744925392028"
   }
 }
