@@ -1,56 +1,88 @@
 {
   "items": [
     {
-      "id": 61066803,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7b77339-a12c-4486-83f0-76cf3640309a/width=832/c7b77339-a12c-4486-83f0-76cf3640309a.jpeg",
-      "hash": "UDIz-a.800R4*Hxvv}NF?[JB^i=w?]xaaJxs",
+      "id": 18697711,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be36f594-6190-467e-a4fa-858aa40064b0/width=832/be36f594-6190-467e-a4fa-858aa40064b0.jpeg",
+      "hash": "U6EAv20j9[w40g5m}?Iq10-SENt60$^hNLtO",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-04T17:48:04.177Z",
-      "postId": 13657365,
+      "browsingLevel": 16,
+      "createdAt": "2024-07-06T15:34:48.850Z",
+      "postId": 4176053,
       "stats": {
-        "cryCount": 196,
-        "laughCount": 435,
-        "likeCount": 3717,
+        "cryCount": 148,
+        "laughCount": 425,
+        "likeCount": 3491,
         "dislikeCount": 0,
-        "heartCount": 1934,
-        "commentCount": 2
+        "heartCount": 2204,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2027363888,
-        "extra": {
-          "remixOfId": 21212666
-        },
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, elf girl, kawaii face, view from front, athletic, skinny, wet, round face, perfect cute face, ponytail, small breasts, facing viewer, closeup of face,  seductive look, cleavage, topless, squeezing tits together, arched back, nude, standing, tiny waist, bubble butt, ((flat stomach)), standing in a waterfall, pinup pose, official art, masterpiece, source_painted_concept_art, (young:1.4)\nBREAK",
-        "sampler": "Euler a",
-        "cfgScale": 6,
+        "seed": 216034423,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, 1girl, solo, native, braided hair, skimpy clothing, tribal clothing, tan skin, ultra detailed,  beautiful fit girl, dark hair, loincloth, small perky breasts, navel, topless, bare shoulders, freckles, blue tattoos, 1boy, (2 girls), tan skin, ((ffm)), (threesome), sex, (dark hair), (red hair), hair in messy braid, long hair, (small perky breasts;1.3), narrow hips, earrings, breasts exposed,  high res image, masterpiece, tribal, tribe background, ritual, native tribe, campfire, 1guy, small man, small penis:1,2, tiny dick, (guy fucking one girl in pussy while other girl watches), vaginal sex, penis in pussy,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5.5,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-09-12T2055:36.9633589Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, monochrome, bad eyes, blue skin, bad teeth, bad arms, missing limbs, (:1.4), tiny waist, poorly drawn face, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, missing fingers, extra fingers, ugly fingers,amputation, square jawline, simple background, mutilated, wide hips, deformed, disconnected limbs, worst quality, low quality, jpeg artifacts, abs, ribs, snow, simple background",
+        "Created Date": "2024-07-06T1506:55.6158577Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 714359,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 0.6,
+            "weight": 1.25,
             "modelVersionId": 135867,
             "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
+            "weight": 0.75,
             "modelVersionId": 244808,
             "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 393998,
+            "modelVersionName": "pony"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "embed",
@@ -64,17 +96,22 @@
           }
         ]
       },
-      "username": "ElvishDreams",
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
         135867,
         244808,
-        714359
+        290640,
+        382152,
+        393998,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "66|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=66%7C1744925392028"
+    "nextCursor": "67|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=67%7C1744925392028"
   }
 }
