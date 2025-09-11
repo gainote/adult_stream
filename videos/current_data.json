@@ -1,40 +1,104 @@
 {
   "items": [
     {
-      "id": 52369764,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97bf007a-6c74-4f54-8628-148ae3d80430/width=1600/97bf007a-6c74-4f54-8628-148ae3d80430.jpeg",
-      "hash": "U4CPI+9a0w004a9Y?D-V00^k^*^*}^WA00%1",
-      "width": 1600,
-      "height": 1600,
-      "nsfwLevel": "Mature",
+      "id": 97347302,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee9a609b-d83d-486b-beed-c09a67bb2472/width=1152/ee9a609b-d83d-486b-beed-c09a67bb2472.jpeg",
+      "hash": "UBE_mu~C01wc5RE1RjIV4maK%NxuMxt7-pSh",
+      "width": 1152,
+      "height": 1728,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-28T14:01:52.648Z",
-      "postId": 11769205,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-01T09:40:36.838Z",
+      "postId": 21595556,
       "stats": {
-        "cryCount": 268,
-        "laughCount": 398,
-        "likeCount": 3722,
+        "cryCount": 238,
+        "laughCount": 414,
+        "likeCount": 3927,
         "dislikeCount": 0,
-        "heartCount": 1983,
-        "commentCount": 10
+        "heartCount": 1788,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 1220123665,
-        "steps": 28,
-        "prompt": "cinematic dark photo, 18 year old model, lying down, large breasts, skirt, bangs, gorgeous, pale skin, beautiful face, goth, (toned:1.5), (abs:1.5), one eye closed, looking away, bedroom, bed\n",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 6,
-        "negativePrompt": "airbrushed, blurry, watermark, text, from above"
+        "seed": 3663625192,
+        "Model": "urn:air:sdxl:checkpoint:civitai:443821@2071650",
+        "extra": {
+          "remixOfId": 96448296
+        },
+        "steps": 34,
+        "width": 768,
+        "height": 1152,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:443821@2071650"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, realistic, low light, , Expressiveh, reddit, high quality, traditional media, amateur, real life photo, raw, film grain, igbaddie, real_beauty, 1girl, rsgrl, russian girl, blonde hair, cute russian girl, solo, young, 20yo, pale skin, white, slavic, ukrainain, flat chest, small breasts, naked, wide hips, thin waist, black hair, straight thin hair, lips, makeup, eyeliner, reflective, shiny skin, climbing out of pool ,light skin, hair strands, dynamic angle, shaved pussy, pussy visible, backyard, deep south , pool, posh,",
+        "denoise": 0.6,
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/86818247177874428447879276959922032685.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQeN-RkF5HYLLAso3ygIXZM1UCVksfYHvmkXcFzfsRaFCiyUarlQu3BLnWSOkvCcZ_3fGhUThqhdtfuG4IX72s54sGdMRVbWgXS-y_eIKD8Rnmc7kH162-co_41inyL-reNJew3yfMoqJfValO8xp7bEc_6BsPSKQh6KCUZUqc7tsICW1EmfZZKUTHayttMXd4uv7tJOavrnuNtezv_5kKcZshTsBbG_rZa1A0g7Fsb5kWgkaTy2wqmIDbWUGrkq2MCaKfZQdVJya7TWaCuxAdnx3gP1wVoNVhgMPCd3Q8JXw&exp=2026-08-30T07:29:58.7802992Z",
+          "width": 768,
+          "height": 1152
+        },
+        "experimental": false,
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), tanned skin, car, old, milf,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 2071650
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 534756
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 556208
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ]
       },
-      "username": "Ah0gaGu",
-      "baseModel": "SDXL 1.0",
-      "modelVersionIds": []
+      "username": "Cumfetishism1",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        164821,
+        382152,
+        534756,
+        556208,
+        596040,
+        2071650
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "61|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=61%7C1744925392028"
+    "nextCursor": "62|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=62%7C1744925392028"
   }
 }
