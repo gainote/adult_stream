@@ -1,62 +1,57 @@
 {
   "items": [
     {
-      "id": 107855,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f4809fce-c20c-439c-d8b4-69a162d81a00/width=896/f4809fce-c20c-439c-d8b4-69a162d81a00.jpeg",
-      "hash": "UCKSn-00b_}[02,[Mx?H0Ki{M{M|?a%Lj]ad",
-      "width": 896,
-      "height": 1344,
+      "id": 12892149,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09d9d08a-2394-43be-b068-f7cb1737c7cf/width=1800/09d9d08a-2394-43be-b068-f7cb1737c7cf.jpeg",
+      "hash": "UDJ6?10101-:~VIUnhxuMbskJC-o9G-:X8M|",
+      "width": 1960,
+      "height": 3424,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2023-09-22T23:29:12.251Z",
-      "postId": 86812,
+      "createdAt": "2024-05-18T22:30:04.434Z",
+      "postId": 2849628,
       "stats": {
-        "cryCount": 121,
-        "laughCount": 292,
-        "likeCount": 2621,
+        "cryCount": 179,
+        "laughCount": 440,
+        "likeCount": 2897,
         "dislikeCount": 0,
-        "heartCount": 2482,
-        "commentCount": 11
+        "heartCount": 1993,
+        "commentCount": 4
       },
       "meta": {
-        "ENSD": "31337",
-        "Size": "512x768",
-        "seed": 1419841275,
-        "steps": 20,
-        "prompt": "(RAW photo:1.2), (photorealistic:1.4),(masterpiece:1.4),(best quality:1.4),ultra high res,((detailed facial features)),HDR,8k resolution,Kpop idol,aegyo sal,<lora:koreanDollLikeness_v10:0.2> ,<lora:aliceNikke_v20:1>,1boy, 1girl, animal ears, bangs, blush, bodysuit, breasts, censored, covered navel, fake animal ears, grey hair, gun, headphones, headset, hetero, jacket, large breasts, latex bodysuit, long hair, looking at viewer, mosaic censoring, open mouth, penis, pink bodysuit, pink eyes, pussy, rifle, sex, simple background, skin tight, solo focus, spread legs, twintails, vaginal, weapon,alice \\(nikke\\),(masterpiece:1.4),(best quality:1.4),(shiny skin),(slime girl)",
-        "sampler": "DPM++ 2M Karras",
+        "Size": "768x1344",
+        "seed": 978018721793778,
+        "steps": 25,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "LORA:Styles\\Kenva": "189804f733",
+          "embed:negativeXL_D": "fff5d51ab6",
+          "LORA:Styles\\ExpressiveH": "7b53da0391",
+          "LORA:Styles\\Disney Princess": "80aa67913a",
+          "LORA:Styles\\Smooth Anime Style": "cb65a31c8b"
+        },
+        "sampler": "Euler a Karras",
         "cfgScale": 7,
-        "Clip skip": "2",
-        "resources": [
-          {
-            "name": "koreanDollLikeness_v10",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "name": "aliceNikke_v20",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Model hash": "7234b76e42",
-        "Hires steps": "15",
-        "Hires upscale": "1.75",
-        "Hires upscaler": "Latent",
-        "Variation seed": "444510907",
-        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, NG_DeepNegative_V1_75T,pubic hair, glans,nsfw,",
-        "Denoising strength": "0.5",
-        "Variation seed strength": "0.01"
+        "resources": [],
+        "Model hash": "67ab2fd8ec",
+        "PonyV6XL Version": "ComfyUI"
       },
-      "username": "tandtdm",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": []
+      "username": "ADPA",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        134583,
+        244808,
+        290640,
+        298238,
+        382152,
+        454703
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "113|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=113%7C1744925392028"
+    "nextCursor": "114|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=114%7C1744925392028"
   }
 }
