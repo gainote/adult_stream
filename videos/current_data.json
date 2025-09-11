@@ -1,88 +1,126 @@
 {
   "items": [
     {
-      "id": 65390809,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee877911-4eb9-4c13-8bee-898da8278262/width=832/ee877911-4eb9-4c13-8bee-898da8278262.jpeg",
-      "hash": "UGO.]~-;Gv-VJ?g3T|i|0=ozTJn3~BtQXSrr",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 91336811,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14274c83-52f6-4c95-9734-0d7cdcb52d76/width=1280/14274c83-52f6-4c95-9734-0d7cdcb52d76.jpeg",
+      "hash": "UEDck5Ne00x^%QNFNMxvIDV;v}af00shZ|RQ",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-23T19:16:02.042Z",
-      "postId": 14561625,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-30T07:42:55.993Z",
+      "postId": 20260801,
       "stats": {
-        "cryCount": 202,
-        "laughCount": 389,
-        "likeCount": 3093,
+        "cryCount": 293,
+        "laughCount": 471,
+        "likeCount": 3276,
         "dislikeCount": 0,
-        "heartCount": 1703,
-        "commentCount": 3
+        "heartCount": 1291,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1646313340,
-        "draft": false,
-        "steps": 24,
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:285852@572204"
+        ],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
+        "extra": {
+          "remixOfId": 86288400
+        },
+        "steps": 30,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, (score_9, score_8_up, score_7_up), 8K,masterpiece \n1girl, breasts, nipples, lollipop, candy, barefoot, feet, food, holding_candy, anus, holding_lollipop, pussy, toes, nude, large_breasts, solo, holding_food, pink_hair, multicolored_hair, stocking_(psg)",
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
+        ],
+        "prompt": " score_9, score_8_up, score_7_up, score_6_up, masterpiece, source_anime, high quality, perfect face, detailed eyes, perfecteyes, detailed face, perfect lighting, detailed background, newest, absurdres, highres, very aesthetic, outdoor, on stage, nightsky, night, stars, \n1girl, shirakami fubuki,\nfbk_elegant, braided ponytail, blue coat, blue ascot, corset, collared shirt, grey skirt, frilled skirt, white gloves, mini top hat, hairband, fox tail, large breasts, gigantic breasts,\nhigh heels, boots, heeled boots,  thighhigh boots, white boots, white footwear, thigh boots, high heels, latex, \n tall woman, 7ft girl, beautiful, (detailed face), Teasing, horny, sexually aroused, aroused, \nlooking at viewer, ,looking_at_viewer,\n beautiful, (detailed face), \ngyaru, make up, eye shadow, mascara, long eye lashes, eye shadow,\n, full body, long legs, larger female, tall female, looking at viewer, long calves, long legs, thin thighs, tall_girl,long_legs, standing, leaning forward, front view, peace sign, peace sign on face\n1girl, skindentation, smile,,  8ft tall, ,\n creases , \n\nchomoran, ((chomoran))",
+        "process": "txt2img",
         "sampler": "Euler a",
         "cfgScale": 5,
         "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
         "quantity": 1,
-        "workflow": "txt2img",
+        "workflow": "txt2img-hires",
         "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-03-23T1829:48.4647845Z",
-        "negativePrompt": "lowres, worst quality, low quality, bad hands, pubic hair",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": " lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name,  monochrome, simple background, lowres, polar lowres, worst quality, low quality, normal quality, gross proportions, blurry, poorly drawn, text, error,  extra digit,  low background,  ((no eye iris)),  watermark, signature,  lowres,  extra digit, fewer digits, worst quality, low quality, normal quality, watermark, artist name, signature,negative_hand, censored, ",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": -0.5,
+            "modelVersionId": 1509461
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1883314
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 572204
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1240288,
-            "modelVersionName": "v1.3 - Style A"
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 572204
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
+            "weight": -0.5,
+            "modelVersionId": 1509461
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
+            "weight": 1,
+            "modelVersionId": 1883314
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1336688@1509461",
+            "type": "lora",
+            "strength": -0.5,
+            "strengthClip": 1
           },
           {
+            "name": "urn:air:sdxl:lora:civitai:1663917@1883314",
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1512573,
-            "modelVersionName": "Couture Craze IL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1140800,
-            "modelVersionName": "ILLUSTRIOUS NOOBAI"
+            "strength": 1,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Big_Master",
+      "username": "ty0905352",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1056404,
-        1140800,
-        1240288,
-        1244133,
-        1512573
+        164821,
+        572204,
+        1509461,
+        1761560,
+        1883314
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "125|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=125%7C1744925392028"
+    "nextCursor": "126|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=126%7C1744925392028"
   }
 }
