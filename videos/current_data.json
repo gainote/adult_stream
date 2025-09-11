@@ -1,74 +1,88 @@
 {
   "items": [
     {
-      "id": 76344566,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a29ebe2-7a61-4bd6-8ed1-c0898c38af55/width=1248/1a29ebe2-7a61-4bd6-8ed1-c0898c38af55.jpeg",
-      "hash": "UPL|T5^~9aER_KwZE1WHR}M_RlE3?HD*njt7",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 65390809,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee877911-4eb9-4c13-8bee-898da8278262/width=832/ee877911-4eb9-4c13-8bee-898da8278262.jpeg",
+      "hash": "UGO.]~-;Gv-VJ?g3T|i|0=ozTJn3~BtQXSrr",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-16T22:05:26.038Z",
-      "postId": 16954998,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-23T19:16:02.042Z",
+      "postId": 14561625,
       "stats": {
-        "cryCount": 209,
-        "laughCount": 423,
-        "likeCount": 3216,
+        "cryCount": 202,
+        "laughCount": 389,
+        "likeCount": 3093,
         "dislikeCount": 0,
-        "heartCount": 1547,
-        "commentCount": 0
+        "heartCount": 1703,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3888654031,
-        "Model": "waiNSFWIllustrious_v140",
-        "steps": 30,
-        "hashes": {
-          "model": "bdb59bac77",
-          "lora:Lativi_V2_epoch_10": "ac4cd23befa8"
-        },
-        "prompt": "masterpiece,best quality,amazing quality,\nbreasts, panty (psg), multiple girls, 2girls, cleavage, jewelry, stocking (psg), skirt, navel, bra, blonde hair, necklace, long hair, pink hair, multicolored hair, earrings, cross, underwear, looking at viewer, large breasts, shorts, bow, bangs, blue eyes, midriff, torn clothes, denim, collarbone, shirt, colored inner hair, choker, hair ornament, belt, sisters, blush, hairclip, blue hair, pleated skirt, denim shorts, siblings, leopard print, two-tone hair, scrunchie, parted lips, wings, heart, sweat, gyaru, thigh strap, bowtie, white shirt, red bow, torn shorts, blunt bangs, smile, cross necklace, black choker, cowboy shot, crop top, black belt, piercing,\n<lora:Lativi_V2_epoch_10:1>",
-        "Version": "f1.1.5-v1.10.1RC-latest-864-g943a2f48",
+        "nsfw": false,
+        "seed": 1646313340,
+        "draft": false,
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, (score_9, score_8_up, score_7_up), 8K,masterpiece \n1girl, breasts, nipples, lollipop, candy, barefoot, feet, food, holding_candy, anus, holding_lollipop, pussy, toes, nude, large_breasts, solo, holding_food, pink_hair, multicolored_hair, stocking_(psg)",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 5,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-03-23T1829:48.4647845Z",
+        "negativePrompt": "lowres, worst quality, low quality, bad hands, pubic hair",
+        "civitaiResources": [
           {
-            "hash": "ac4cd23befa8",
-            "name": "Lativi_V2_epoch_10",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1240288,
+            "modelVersionName": "v1.3 - Style A"
           },
           {
-            "hash": "bdb59bac77",
-            "name": "waiNSFWIllustrious_v140",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1512573,
+            "modelVersionName": "Couture Craze IL"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1140800,
+            "modelVersionName": "ILLUSTRIOUS NOOBAI"
           }
-        ],
-        "Model hash": "bdb59bac77",
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "4x-AnimeSharp",
-        "mswmsa_enabled": "False",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,simple background,transparent background,text,english text, doujin cover,bar censor,censored, mosaic censoring,",
-        "raunet_enabled": "False",
-        "Denoising strength": "0.5",
-        "mswmsa_simple_enabled": "False",
-        "raunet_simple_enabled": "False"
+        ]
       },
-      "username": "Galerd",
+      "username": "Big_Master",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1761560,
-        1790094
+        1056404,
+        1140800,
+        1240288,
+        1244133,
+        1512573
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "124|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=124%7C1744925392028"
+    "nextCursor": "125|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=125%7C1744925392028"
   }
 }
