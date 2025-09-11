@@ -1,36 +1,36 @@
 {
   "items": [
     {
-      "id": 16377398,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0905a1f7-f7bb-4cc9-872b-966869b89da1/width=832/0905a1f7-f7bb-4cc9-872b-966869b89da1.jpeg",
-      "hash": "UGKS^jE+S5%f~Bw1%2R%%LE1ju=|?aWBM|kW",
+      "id": 24090962,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/095eec97-9c16-4438-9057-048a05dd21a7/width=832/095eec97-9c16-4438-9057-048a05dd21a7.jpeg",
+      "hash": "U5AJmAkq0056~XS09Ft700M{^P%2yDsqs+M|",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-06-19T17:39:00.448Z",
-      "postId": 3669099,
+      "browsingLevel": 8,
+      "createdAt": "2024-08-13T09:44:34.122Z",
+      "postId": 5375064,
       "stats": {
-        "cryCount": 163,
-        "laughCount": 367,
-        "likeCount": 3437,
+        "cryCount": 189,
+        "laughCount": 384,
+        "likeCount": 3472,
         "dislikeCount": 0,
-        "heartCount": 2250,
-        "commentCount": 0
+        "heartCount": 2172,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2129342396,
-        "steps": 35,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, Anna frozen, medium breasts, teardrop_boobs, (skinny, tiny waist, small tight ass, narrow hips):2, petite, innocent, small body, small pale pink nipples, tiny areolas, worried look, in pain, nsfw, pinned against wall, legs up, clenching teeth, wild sex, rough sex, vaginal penetration, 1boy, cowboy shot",
+        "seed": 1100700147,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, gorgeous girl , wet gothic girl , long black hair, black , naked, large saggy breast, nipples, ((slim fit)), sexy thighs , legs spread, feet, pose , laying on bed, laying face up, horny girl , face focus , (((from front))), ((selfie)), upside down selfie, on bed , pussy",
         "sampler": "Euler a",
         "cfgScale": 7,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-06-19T1735:19.4755268Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, monochrome, bad eyes, blue skin, bad teeth, bad arms, missing limbs, poorly drawn face, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, missing fingers, extra fingers, ugly fingers,amputation, zPDXL2, mutilated, deformed, disconnected limbs, worst quality, low quality, jpeg artifacts, abs, ribs, snow",
+        "Created Date": "2024-08-13T0942:06.3054048Z",
+        "negativePrompt": "score_6, score_5, score_4, score_3, fat, ugly",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -39,57 +39,37 @@
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 2,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 491364,
-            "modelVersionName": "Darcom v1.0"
+            "weight": 0.8,
+            "modelVersionId": 717026,
+            "modelVersionName": "GTHAN v1.0"
           },
           {
             "type": "embed",
-            "weight": 1,
-            "modelVersionId": 509253,
-            "modelVersionName": "High Quality V2"
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 333607,
-            "modelVersionName": "Smooth Anime 2"
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "screwball808",
+      "username": "blacksnowskill",
       "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
-        244808,
         290640,
-        333607,
-        382152,
-        491364,
-        509253
+        717026
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "69|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=69%7C1744925392028"
+    "nextCursor": "70|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=70%7C1744925392028"
   }
 }
