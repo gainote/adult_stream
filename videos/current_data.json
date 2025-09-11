@@ -1,80 +1,80 @@
 {
   "items": [
     {
-      "id": 95575289,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd5885bc-b65d-424f-8f4b-cfd328ab439d/width=832/bd5885bc-b65d-424f-8f4b-cfd328ab439d.jpeg",
-      "hash": "UHHdmcI:9t?a0LM{RkbH0L-pt7My~Wt6aKt7",
+      "id": 61066803,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7b77339-a12c-4486-83f0-76cf3640309a/width=832/c7b77339-a12c-4486-83f0-76cf3640309a.jpeg",
+      "hash": "UDIz-a.800R4*Hxvv}NF?[JB^i=w?]xaaJxs",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-23T10:00:21.019Z",
-      "postId": 21199264,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-04T17:48:04.177Z",
+      "postId": 13657365,
       "stats": {
-        "cryCount": 292,
-        "laughCount": 463,
-        "likeCount": 3694,
+        "cryCount": 196,
+        "laughCount": 435,
+        "likeCount": 3717,
         "dislikeCount": 0,
-        "heartCount": 1847,
-        "commentCount": 0
+        "heartCount": 1934,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1450927564,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "frostbite, ExpresHGothicNeonIncase, incoth, (incase:0.6), \n(high detail:1.2), perfect eyes, perfect hands, \nBREAK \nnsfw, on her back, ass grab, 1girl, hazel eyes, too cute to be true, no bra, girl next door, cute pink floral tight sundress, downblouse, nip slip, strap off shoulder, 18yo, young, black hair, pigtail braids, pink bows, fit, demure, coquette, dainty, frilly socks, choker, beautiful face, concerned moaning expression, young, coming of age, Slim girl, flat chested, tiny tits, tiny breasts, narrow waist, small ass, tiny, petite, 18 years old, mouth open moaning, moan of pleasure, (youthful face:1.3), bedroom eyes, awe, love, pleasure, girl on table,  ((rough sex, from above, impact lines, \nSticky pussy juice trail, cock visible inside tiny pussy)), detailed labia, hands on table,, light freckles, hint of pubic hair,, in cute girls bedroom, tbp, cartoon, realistic, freckles, natural skin, legs spread open, fingers spreading pussy open, eurasian looking at viewer, (Nubiles magazine photo set:1.2), detailed bedroom interior background,\nBREAK\nmasterpiece, (best quality:1.1), very high detail, hyperdetailed, high resolution, super detailed skin, Highly Visible, 12k, sharp focus, hyper-realistic, photorealism, beautiful, perfect lighting, smooth edges,",
-        "process": "txt2img",
+        "seed": 2027363888,
+        "extra": {
+          "remixOfId": 21212666
+        },
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, elf girl, kawaii face, view from front, athletic, skinny, wet, round face, perfect cute face, ponytail, small breasts, facing viewer, closeup of face,  seductive look, cleavage, topless, squeezing tits together, arched back, nude, standing, tiny waist, bubble butt, ((flat stomach)), standing in a waterfall, pinup pose, official art, masterpiece, source_painted_concept_art, (young:1.4)\nBREAK",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-16T0833:02.6373657Z",
-        "experimental": false,
-        "negativePrompt": "(bad quality:1.2), worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, signature, watermark, (censored;1.3), bad anatomy, oldest, (bar_censor:1.3), conjoined, merging arms, merging legs, merging limbs, (tan lines), artifacts on body, multiple dicks, dick girl, futa, ugly, messy, old, loli, bored, blush, large mouth,",
+        "Created Date": "2024-09-12T2055:36.9633589Z",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, monochrome, bad eyes, blue skin, bad teeth, bad arms, missing limbs, (:1.4), tiny waist, poorly drawn face, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, missing fingers, extra fingers, ugly fingers,amputation, square jawline, simple background, mutilated, wide hips, deformed, disconnected limbs, worst quality, low quality, jpeg artifacts, abs, ribs, snow, simple background",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1714002
+            "modelVersionId": 714359,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 1060368
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1628810
+            "weight": 0.6,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1124566
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Pickledcrab",
-      "baseModel": "Illustrious",
+      "username": "ElvishDreams",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1060368,
-        1124566,
-        1628810,
-        1714002
+        135867,
+        244808,
+        714359
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "65|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=65%7C1744925392028"
+    "nextCursor": "66|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=66%7C1744925392028"
   }
 }
