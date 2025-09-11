@@ -1,71 +1,84 @@
 {
   "items": [
     {
-      "id": 58477785,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7673089f-d7e2-458c-b48d-a318fc0dc6a9/width=896/7673089f-d7e2-458c-b48d-a318fc0dc6a9.jpeg",
-      "hash": "UQOC{gCA15O[%LIp-:bbNtxYM|NH%MNGf+t7",
-      "width": 896,
-      "height": 1152,
+      "id": 91262026,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9059ae25-a001-4308-ac16-a8a34ef12834/width=832/9059ae25-a001-4308-ac16-a8a34ef12834.jpeg",
+      "hash": "UBGkaz0f5,?Ht.01EKxb02n3==-p~WR*NF?b",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-02-19T00:25:01.279Z",
-      "postId": 13084582,
+      "createdAt": "2025-08-03T15:00:00.000Z",
+      "postId": 20243274,
       "stats": {
-        "cryCount": 184,
-        "laughCount": 525,
-        "likeCount": 3157,
+        "cryCount": 304,
+        "laughCount": 461,
+        "likeCount": 3287,
         "dislikeCount": 0,
-        "heartCount": 1602,
-        "commentCount": 0
+        "heartCount": 1413,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "448x576",
-        "seed": 2716514132,
-        "Model": "waiNSFWIllustrious_v100",
-        "steps": 25,
-        "hashes": {
-          "model": "7e87327f89",
-          "lora:kei-karuizawa-anime-s2-ponyxl-lora-nochekaiser": "cb2c3fa687"
-        },
-        "prompt": "masterpiece, best quality, amazing quality,, <lora:kei-karuizawa-anime-s2-ponyxl-lora-nochekaiser:1>, kei karuizawa, long hair, bangs, blunt bangs, purple eyes, blonde hair, hair ornament, ponytail, scrunchie, blue scrunchie, medium breasts, anime screencap, <lora:penis-on-shoulder-illustriousxl-lora-nochekaiser:1>, penis on shoulder, penis over shoulder, hetero, testicles, nervous, huge penis, penis awe, looking at penis, completely nude, navel, nipples, on bed, bed room, hand on another's head,, ,",
-        "Version": "f0.0.15v1.8.0rc-1.7.0",
+        "Size": "832x1216",
+        "seed": 1609678532,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, solo,  pbLieri, purple hair, fully nude, large breasts, big nipple piercing, lactating, pregnant, hairy pussy, ((curvaceous, voluptuous)), (dramatic lighting), looking at viewer, cowboy shot, sitting, legs apart, posing, (spread pussy), size difference, dark spaceship, low angle,",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "resources": [
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-29T2307:54.0891661Z",
+        "experimental": false,
+        "negativePrompt": "score_5, score_4, score_3, score_2, score_1, simple background, blur, low quality, censored, bucktooth, cartoon, anime, ghostly, deformed, dismembered, disembodied, detached, polydactyl, amputated, contorted, semi-realistic, 3d render, watermark, logo, extra hands, extra dicks, tanlines, extra fingers , deformed fingers, bad hands,",
+        "civitaiResources": [
           {
-            "name": "kei-karuizawa-anime-s2-ponyxl-lora-nochekaiser",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1199750,
+            "modelVersionName": "v5.0"
           },
           {
-            "name": "penis-on-shoulder-illustriousxl-lora-nochekaiser",
             "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 529050,
+            "modelVersionName": "v1 (Pony Diffusion XL)"
           }
-        ],
-        "Model hash": "7e87327f89",
-        "Hires upscale": "2",
-        "Hires upscaler": "Latent",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censored,",
-        "Denoising strength": "0.7"
+        ]
       },
-      "username": "nochekaiser881",
-      "baseModel": "Illustrious",
+      "username": "YourFantasy",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        422352,
-        1367422
+        382152,
+        529050,
+        534756,
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "119|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=119%7C1744925392028"
+    "nextCursor": "120|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=120%7C1744925392028"
   }
 }
