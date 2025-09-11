@@ -1,54 +1,59 @@
 {
   "items": [
     {
-      "id": 76344726,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f332d1f9-a07c-42f6-9970-07da9e483c36/width=832/f332d1f9-a07c-42f6-9970-07da9e483c36.jpeg",
-      "hash": "UQMsNI~p%h-=MxxZ-px]57R4R5V@RPofWWo1",
+      "id": 35072528,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9915fb03-a321-46d6-9481-01201cbba053/width=832/9915fb03-a321-46d6-9481-01201cbba053.jpeg",
+      "hash": "UZK^W[oy~qxu?vt7-;xuu4M{-pj[$fRjIUof",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-17T02:41:22.626Z",
-      "postId": 16955024,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-17T13:03:34.128Z",
+      "postId": 8015947,
       "stats": {
-        "cryCount": 208,
-        "laughCount": 455,
-        "likeCount": 3561,
+        "cryCount": 213,
+        "laughCount": 450,
+        "likeCount": 3198,
         "dislikeCount": 0,
-        "heartCount": 1732,
-        "commentCount": 0
+        "heartCount": 2081,
+        "commentCount": 49
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1105190243,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3),  <lora:escoffier-illu-nvwls-v1-000007:1> gsesc, blonde hair, long hair, ahoge, blue eyes, breasts, large breasts, ass, firm perky ass, A digital illustration shoot from a below camera angle about a young woman in a revealing outfit sitting on a bed with her legs spread, ((stretches her feet towards the viewer)). ((wearing white fishnet stockings:1.5)), with a playful expression. the image also shows a soft, pastel color palette. on the middle of the image, a 1girl, who appears to be a young adult, is sitting on the bed, wearing a red velvet, see-through dress with a plunging neckline and white thigh-high stockings. she has long hair, green eyes, and is looking directly at the viewer with a seductive expression, her mouth slightly open. her body is slim. the background is a simple bedroom with a window and curtains. relaxed but provocative, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle:1.5)), ((focus on butt and feet:1.5)) from below, blurry background, bright colors, stunningly artwork",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
+        "seed": 3584437625,
+        "steps": 35,
+        "prompt": "score_9,score_8_up,score_7_up, thong over anus, ass focus, 1girl, anus, stocking (psg), striped, solo, anus peek, huge ass, ass, thong, multicolored hair, striped thighhighs, looking at viewer, thighhighs, panties, black hair, long hair, underwear, white background, striped panties, bangs, simple background, looking back, hair bow, bow, thighs, pink hair, blunt bangs, blue eyes, g-string",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "escoffier-illu-nvwls-v1-000007",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-05-14T0323:59.2947256Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature",
+        "resources": [],
+        "Created Date": "2024-10-16T1738:32.0384373Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1697082,
-            "modelVersionName": "v2.2"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "embed",
@@ -57,66 +62,37 @@
             "modelVersionName": "EasyNegative"
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 211788,
-            "modelVersionName": "v1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
+            "weight": 0.75,
             "modelVersionId": 244808,
             "modelVersionName": "v2.0"
           },
           {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1193082,
-            "modelVersionName": "Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1781851,
-            "modelVersionName": "v1 (Illustrious v0.1)"
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
             "type": "embed",
-            "weight": 1,
-            "modelVersionId": 91028,
-            "modelVersionName": "aid291"
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        60938,
-        91028,
-        135867,
-        211788,
         244808,
-        1193082,
-        1697082,
-        1781851
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "88|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=88%7C1744925392028"
+    "nextCursor": "89|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=89%7C1744925392028"
   }
 }
