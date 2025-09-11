@@ -1,35 +1,90 @@
 {
   "items": [
     {
-      "id": 79190325,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/60980801-9e9b-4f44-b11f-b7357acd9322/width=832/60980801-9e9b-4f44-b11f-b7357acd9322.jpeg",
-      "hash": "U9F=UB0000?a02kWxZ?Hx^Md~WEM0K-oIoIo",
+      "id": 91901172,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bad6f7c1-6e8c-44bb-bb17-4cc9535579cd/width=832/bad6f7c1-6e8c-44bb-bb17-4cc9535579cd.jpeg",
+      "hash": "UNI}ktI;u6^O0$Rk%NRj-=-U%MkXPB-=j[Ri",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-01T09:09:27.052Z",
-      "postId": 17592936,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-05T00:15:35.259Z",
+      "postId": 20388024,
       "stats": {
-        "cryCount": 241,
-        "laughCount": 438,
-        "likeCount": 3510,
+        "cryCount": 278,
+        "laughCount": 428,
+        "likeCount": 3616,
         "dislikeCount": 0,
-        "heartCount": 1801,
-        "commentCount": 3
+        "heartCount": 1668,
+        "commentCount": 2
       },
-      "meta": null,
-      "username": "adroit17084870",
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 832246686,
+        "draft": false,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, absurdres, newest, ultra-detailed, highly detailed, detailed background, perfect quality, best quality, very aesthetic, intricate details, detailed face, beautiful face, perfect eyes, detailed eyes, perfect face, perfect anatomy, dynamic lighting, 2d, sunny day, beach,  water reflection, foreshortening, blurry background, BREAK , (( cana, 1girl, long hair, brown hair, purple eyes, large breasts, brown eyes, patterned criss-cross halter bikini,  thigh, (wet:0.7), seductive face, pupils ,barefoot, seductive smile)), BREAK , motion lines, <lora:dio-brandos-pose-illustriousxl-lora-nochekaiser:1>, dio brandos pose, dio brando's pose (jojo), from behind, jojo pose, standing, dynamic angle, dutch angle, upper body, looking at viewer",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
+          {
+            "name": "dio-brandos-pose-illustriousxl-lora-nochekaiser",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-02T0447:20.1437279Z",
+        "experimental": false,
+        "negativePrompt": "lowres, bad, error, fewer, extra, missing, worst quality, lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],comics, panties, red skin, large aerolas, large nipples, bows, white outline, missing finger, shirt design, chibi characters, bald, cape, Disfigured, kitsch, ugly, oversaturated, grain, low-res, Deformed, blurry, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands,1boy, 2 boys, horns, qu33n",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1873831,
+            "modelVersionName": "v2.0p"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1778929,
+            "modelVersionName": "booru"
+          },
+          {
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 1417184,
+            "modelVersionName": "IXL 2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1783930,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "GEATSZ08",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        534642
+        1417184,
+        1778929,
+        1783930,
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "86|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=86%7C1744925392028"
+    "nextCursor": "87|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=87%7C1744925392028"
   }
 }
