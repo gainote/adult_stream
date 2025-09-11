@@ -1,98 +1,63 @@
 {
   "items": [
     {
-      "id": 36774892,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c275343f-2892-427e-b98e-941dab7f021b/width=832/c275343f-2892-427e-b98e-941dab7f021b.jpeg",
-      "hash": "ULL{oWxS-o~CsWtR%3NFogIoE1Rj$ft5R*t8",
+      "id": 55751379,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/000a99ea-5a95-49c9-a706-1365faf33bbe/width=832/000a99ea-5a95-49c9-a706-1365faf33bbe.jpeg",
+      "hash": "UMGIffEM9a_N_LMyDix].8jFIVae-;k=I:nj",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-10-27T03:34:48.684Z",
-      "postId": 8399700,
+      "createdAt": "2025-02-06T13:45:13.830Z",
+      "postId": 12488419,
       "stats": {
-        "cryCount": 205,
-        "laughCount": 484,
-        "likeCount": 3124,
+        "cryCount": 193,
+        "laughCount": 418,
+        "likeCount": 3274,
         "dislikeCount": 0,
-        "heartCount": 1935,
-        "commentCount": 10
+        "heartCount": 1806,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2595628470,
+        "nsfw": true,
+        "seed": 2008458062,
+        "draft": false,
         "extra": {
-          "remixOfId": 34686961
+          "remixOfId": 38065288
         },
-        "steps": 35,
-        "prompt": "(score_9, score_8_up, score_7_up),  melkor_style,\nViolet Parr, slutty 18yo girl, big ass, dark purple eyes, pink headband, big eyes, perfect eyes, booty, straight dark hair, long hair, large breasts, BREAK, upper body, (eargrab), grabbing another's ears, fist, 1guy, slim male, fit male, faceless male, huge penis, penis on face, aroused, (blush:0.5), looking up, submissive female,  rabbit onesie, rabbit costume, rabbit ears, hood, rabbit tail, bedroom, girly bedroom",
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9,score_8_up,score_7_up,\n1 white pale skin Scandinavian girl, hot girl, sexy girl, skinny girl, perfectly round tits, slim girl, slim legs,\nbeautiful blue eyes, small round face, thin nose, very long hair, hair in loose ponytail, brown hair,\npink dress, dress pulled over tits, pink, soft cute boobs,\n(1 giant boy with face out of frame), (1 boy:1.9), size difference,\n((girl getting fucked from behind)), ((Doggystyle)), Anal sex, penetration, Ass up head down, close up view, ass grab, (screaming:1.3), closed eyes, cum on body, cum on hair, cum on clothes, dripping cum,\nIn livingroom, at table,\nsun rays coming through full size large windows, beautiful natural lighting, natural photo, realistic image, sun rays, dim light, cozy atmosphere, perfect lighting, perfect shadows, shiny skin, perfect reflections, lots of shadows\n<lora:AmateurStyle_v1_PONY_REALISM:1>",
         "sampler": "Euler a",
-        "cfgScale": 6.5,
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-27T0326:28.0169396Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, low quality body , tanned male, earrings, jewlery, headband, bad hand, extra fingers,  tuxedo, old man, formal wear, older man, large man, black man, tanned man, brown hair, cum, creampie, pubic hair",
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [
+          {
+            "name": "AmateurStyle_v1_PONY_REALISM",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "Created Date": "2025-01-16T0732:59.1577586Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1177183,
+            "modelVersionName": "v7"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 781706,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 373076,
-            "modelVersionName": "v3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 411622,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 835055,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 954518,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 534756,
+            "modelVersionName": "Amateur v1.0"
           },
           {
             "type": "embed",
@@ -106,24 +71,16 @@
           }
         ]
       },
-      "username": "DystopianMuse",
+      "username": "jc3841tw",
       "baseModel": "Pony",
       "modelVersionIds": [
-        60938,
-        290640,
-        373076,
-        382152,
-        398847,
-        411622,
-        436219,
-        781706,
-        835055,
-        954518
+        534756,
+        1177183
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "103|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=103%7C1744925392028"
+    "nextCursor": "104|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=104%7C1744925392028"
   }
 }
