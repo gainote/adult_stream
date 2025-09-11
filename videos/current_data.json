@@ -1,83 +1,80 @@
 {
   "items": [
     {
-      "id": 17890718,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f185136-fd86-4233-ab63-12eead928c84/width=864/1f185136-fd86-4233-ab63-12eead928c84.jpeg",
-      "hash": "UAG8Dvx[00IBTdS#MxMxI:V@-Vxu009G~V_2",
-      "width": 864,
-      "height": 1152,
+      "id": 97739441,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/846b5c94-a507-4efa-9045-920bd1e2cc75/width=832/846b5c94-a507-4efa-9045-920bd1e2cc75.jpeg",
+      "hash": "UJK0RCEKIA~W9rE16J=}0fodMdI:kj-p9sRQ",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-30T20:12:56.621Z",
-      "postId": 4001838,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-03T11:01:04.692Z",
+      "postId": 21685312,
       "stats": {
-        "cryCount": 188,
-        "laughCount": 480,
-        "likeCount": 3326,
+        "cryCount": 245,
+        "laughCount": 407,
+        "likeCount": 3610,
         "dislikeCount": 0,
-        "heartCount": 2072,
-        "commentCount": 1
+        "heartCount": 1802,
+        "commentCount": 4
       },
       "meta": {
-        "RNG": "NV",
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "864x1152",
-        "seed": 1571020720,
-        "Model": "autismmixSDXL_autismmixPony",
+        "Size": "832x1216",
+        "seed": 1609052192,
+        "draft": false,
         "steps": 25,
-        "hashes": {
-          "vae": "63aeecb90f",
-          "model": "821aa5537f",
-          "lora:fr1dg3XLP": "55bf579b82fc"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up,  <lora:fr1dg3XLP:0.7> fr1dg3, open fridge, refrigerator, night, 1girl, nude, bent over",
-        "Version": "v1.9.4",
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, very aesthetic, realism, pink hair, long hair, cat girl, cat ears, pink eyes, sparkle in the eyes, cat tail, pink public hair, full face blush, ecstasy, bliss, small breasts, big butt, wide hips, soft skin, deep skin, skindentation, bare breasts, nipples, nude, big eyes, steam breath, horny, black nails, bandages, band-aid, scars all over her body, messy hair, \n(multiple characters , two girls , two girls on picnic:1.3),cute face,pretty woman,young adult,blue eyes,short hair,cute hair,slim figure,tiny waist,big breasts, /, cute panties,pussy slip,skirt,tank top, /, (anal , anal insertion , dildo in ass , gigantic dildo:1.2),xxl_penetration,(deep penetration:1.2),dildo riding,(squatting , knees up , squatting low:1.3),spread legs,(stomach bulge:1.1),(multiple girls squatting on dildos , multiple girls anal:1.4), /, (depth of field:1.1),(cartoon screencap:1.1),cowboy shot,(blush:0.9),side view,park,(slight smile , cute smile:0.9),picnic,on picnic, ,cinematic, epic, masterpiece detailed perfect light, vivid colors, (neon, rim light, cinematic:1.4)",
+        "process": "img2img",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-01T0917:46.2149799Z",
+        "experimental": false,
+        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes, extra toes,",
+        "civitaiResources": [
           {
-            "hash": "55bf579b82fc",
-            "name": "fr1dg3XLP",
-            "type": "lora",
-            "weight": 0.7
+            "type": "checkpoint",
+            "modelVersionId": 1761560
           },
           {
-            "hash": "821aa5537f",
-            "name": "autismmixSDXL_autismmixPony",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1375651
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1552087
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1020899
           }
-        ],
-        "Model hash": "821aa5537f",
-        "Schedule type": "Automatic",
-        "negativePrompt": "watermark, signature, artist name, twitter username, 3d, muscular, cum, bar censor,",
-        "ADetailer model": "FacesV1.pt",
-        "ADetailer version": "24.6.0",
-        "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "pussy_last_v3.pt",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.3",
-        "ADetailer inpaint padding": "32",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer denoising strength 2nd": "0.4",
-        "ADetailer inpaint only masked 2nd": "True"
+        ]
       },
-      "username": "freckledvixon",
-      "baseModel": "Pony",
+      "username": "LordBanji",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        324619
+        1020899,
+        1375651,
+        1552087,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "79|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=79%7C1744925392028"
+    "nextCursor": "80|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=80%7C1744925392028"
   }
 }
