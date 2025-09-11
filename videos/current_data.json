@@ -1,79 +1,62 @@
 {
   "items": [
     {
-      "id": 43282673,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a8836935-e02a-4f47-b217-98cd5c9510f0/width=1024/a8836935-e02a-4f47-b217-98cd5c9510f0.jpeg",
-      "hash": "UAE-N^wy0#yC%z=xoyTJ1JAW}s^6IB$%%1W.",
-      "width": 1024,
-      "height": 1536,
-      "nsfwLevel": "X",
+      "id": 81322620,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d771ab7d-c0cd-4fbc-9ca6-4452ffd816fc/width=1248/d771ab7d-c0cd-4fbc-9ca6-4452ffd816fc.jpeg",
+      "hash": "UAK^d400t+~q_2x]?axu0KM|-pD$~qIBNGDj",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-02T19:25:00.000Z",
-      "postId": 9842525,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-09T14:24:32.546Z",
+      "postId": 18063191,
       "stats": {
-        "cryCount": 206,
-        "laughCount": 348,
-        "likeCount": 3122,
+        "cryCount": 223,
+        "laughCount": 379,
+        "likeCount": 3263,
         "dislikeCount": 0,
-        "heartCount": 1884,
-        "commentCount": 8
+        "heartCount": 1673,
+        "commentCount": 4
       },
       "meta": {
-        "Size": "512x768",
-        "seed": 3827651615,
-        "Model": "re-mixmain.fp16",
-        "steps": 25,
-        "hashes": {
-          "model": "25657b43ea"
-        },
-        "prompt": "1girl, solo, ass, innie pussy, feet, bound, , christmas tree, barefoot, soles, bdsm, bondage, christmas, couch, , ribbon, indoors, nude, pillow, long hair, toes, black hair, from behind, brown hair, naked ribbon, breasts, bound legs, red ribbon, zPDXL3, detailxl,  Score_PnyReal",
-        "Version": "f0.0.17v1.8.0rc-latest-277-g0af28699",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "TI hashes": {
-          "zPDXL3": "1727c6cddf61",
-          "detailxl": "cad765d41c8a",
-          "Score_PnyReal": "63e618ba9fc7"
-        },
-        "resources": [
-          {
-            "hash": "25657b43ea",
-            "name": "re-mixmain.fp16",
-            "type": "model"
-          }
+        "seed": 795724575462623,
+        "vaes": [],
+        "Model": "plantMilkModelSuite_walnut",
+        "comfy": "{\"prompt\": {\"3\": {\"inputs\": {\"seed\": 795724575462623, \"steps\": 20, \"cfg\": 4.5, \"sampler_name\": \"dpmpp_2m\", \"scheduler\": \"normal\", \"denoise\": 1.0, \"model\": [\"15\", 0], \"positive\": [\"6\", 0], \"negative\": [\"7\", 0], \"latent_image\": [\"5\", 0]}, \"class_type\": \"KSampler\"}, \"4\": {\"inputs\": {\"ckpt_name\": \"plantMilkModelSuite_walnut.safetensors\"}, \"class_type\": \"CheckpointLoaderSimple\"}, \"5\": {\"inputs\": {\"width\": 1248, \"height\": 1824, \"batch_size\": 3}, \"class_type\": \"EmptyLatentImage\"}, \"6\": {\"inputs\": {\"text\": [\"11\", 0], \"clip\": [\"15\", 1]}, \"class_type\": \"CLIPTextEncode\"}, \"7\": {\"inputs\": {\"text\": \"bad quality, worst quality, worst detail, sketch, censored, artist name, signature, watermark, patreon username, patreon logo, man, bad quality, worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, \", \"clip\": [\"15\", 1]}, \"class_type\": \"CLIPTextEncode\"}, \"8\": {\"inputs\": {\"samples\": [\"3\", 0], \"vae\": [\"4\", 2]}, \"class_type\": \"VAEDecode\"}, \"9\": {\"inputs\": {\"filename_prefix\": \"2025-06-09_%Title.text%/20250609T013844_%Title.text%_%width%x%height%_795724575462623_plantMilkModelSuite_walnut.safetensors\", \"images\": [\"8\", 0]}, \"class_type\": \"SaveImage\"}, \"10\": {\"inputs\": {\"lora_name\": \"shiny_wet_skin_v1.safetensors\", \"strength_model\": 0, \"strength_clip\": 0}, \"class_type\": \"LoraLoader\"}, \"11\": {\"inputs\": {\"wildcard_text\": \"masterpiece, best quality, amazing quality, 1girl, ((__MangaCharacter__)), breasts, large natural breasts, navel, blush, cleavage, areola peek, nipple bulge, open mouth, bra, high waist thong, color theory, laying on sofa, curtains, female, masterpiece, semi-realism, shadows, cinematic lighting, color theory, sleeping, closed eyes, zzzz, ZZZ \\ud83d\\udca4, pillow, half undressing, undressed, saliva, gorgeous face, cute, perky breasts, sweaty, saliva dripping from mouth, glossy lips, Art8st,  (__angle__), on off, __clothes__, (photorealistic), detailed skin, enormous breasts, pale_skin, one breast out, g-string, \", \"populated_text\": \"masterpiece, best quality, amazing quality, 1girl, ((1girl, perrault \\\\(last origin\\\\), last origin)), breasts, large natural breasts, navel, blush, cleavage, areola peek, nipple bulge, open mouth, bra, high waist thong, color theory, laying on sofa, curtains, female, masterpiece, semi-realism, shadows, cinematic lighting, color theory, sleeping, closed eyes, zzzz, ZZZ \\ud83d\\udca4, pillow, half undressing, undressed, saliva, gorgeous face, cute, perky breasts, sweaty, saliva dripping from mouth, glossy lips, Art8st,  (Narrow Angle), on off, lingerie, (photorealistic), detailed skin, enormous breasts, pale_skin, one breast out, g-string, \", \"mode\": false, \"seed\": 662513699118473, \"Select to add Wildcard\": \"Select the Wildcard to add to the text\"}, \"class_type\": \"ImpactWildcardProcessor\"}, \"15\": {\"inputs\": {\"lora_name\": \"Anime_artist_illustrious_r1.safetensors\", \"strength_model\": 0.7000000000000001, \"strength_clip\": 0.7000000000000001, \"model\": [\"4\", 0], \"clip\": [\"4\", 1]}, \"class_type\": \"LoraLoader\"}}, \"workflow\": {\"last_node_id\": 18, \"last_link_id\": 33, \"nodes\": [{\"id\": 6, \"type\": \"CLIPTextEncode\", \"pos\": [380, 40], \"size\": {\"0\": 420, \"1\": 160}, \"flags\": {}, \"order\": 6, \"mode\": 0, \"inputs\": [{\"name\": \"clip\", \"type\": \"CLIP\", \"link\": 33}, {\"name\": \"text\", \"type\": \"STRING\", \"link\": 16, \"widget\": {\"name\": \"text\"}}], \"outputs\": [{\"name\": \"CONDITIONING\", \"type\": \"CONDITIONING\", \"links\": [18], \"slot_index\": 0}], \"properties\": {\"Node name for S&R\": \"CLIPTextEncode\"}, \"widgets_values\": [\"masterpiece, best quality, amazing quality, absurdres, <lora:micro_panties_ilxl_goofy:1>, micro panties, videl,  1girl, breasts, blue eyes, solo, black hair, swimsuit, bikini, twin tails, thick thighs, navel, large breasts, cleavage, open mouth, curvy, looking at viewer, long hair, ass visible through thighs, simple background, plump, angry, terrified,\\n dragon_ball, (tits slip), self breast grab, ((from below)), __emotion__, \"]}, {\"id\": 9, \"type\": \"SaveImage\", \"pos\": [1610, 120], \"size\": {\"0\": 210, \"1\": 270}, \"flags\": {}, \"order\": 9, \"mode\": 0, \"inputs\": [{\"name\": \"images\", \"type\": \"IMAGE\", \"link\": 9}], \"properties\": {}, \"widgets_values\": [\"%date:yyyy-MM-dd%_%Title.text%/%date:yyyyMMddThhmmss%_%Title.text%_%width%x%height%_%KSampler.seed%_%Load Checkpoint.ckpt_name%\"]}, {\"id\": 3, \"type\": \"KSampler\", \"pos\": [950, 140], \"size\": [320, 470], \"flags\": {}, \"order\": 7, \"mode\": 0, \"inputs\": [{\"name\": \"model\", \"type\": \"MODEL\", \"link\": 31}, {\"name\": \"positive\", \"type\": \"CONDITIONING\", \"link\": 18}, {\"name\": \"negative\", \"type\": \"CONDITIONING\", \"link\": 6}, {\"name\": \"latent_image\", \"type\": \"LATENT\", \"link\": 2}], \"outputs\": [{\"name\": \"LATENT\", \"type\": \"LATENT\", \"links\": [7], \"slot_index\": 0}], \"properties\": {\"Node name for S&R\": \"KSampler\"}, \"widgets_values\": [795724575462623, \"randomize\", 20, 4.5, \"dpmpp_2m\", \"normal\", 1]}, {\"id\": 4, \"type\": \"CheckpointLoaderSimple\", \"pos\": [-870, 340], \"size\": {\"0\": 315, \"1\": 98}, \"flags\": {}, \"order\": 0, \"mode\": 0, \"outputs\": [{\"name\": \"MODEL\", \"type\": \"MODEL\", \"links\": [26], \"slot_index\": 0}, {\"name\": \"CLIP\", \"type\": \"CLIP\", \"links\": [25], \"slot_index\": 1}, {\"name\": \"VAE\", \"type\": \"VAE\", \"links\": [8], \"slot_index\": 2}], \"properties\": {\"Node name for S&R\": \"CheckpointLoaderSimple\"}, \"widgets_values\": [\"plantMilkModelSuite_walnut.safetensors\"]}, {\"id\": 8, \"type\": \"VAEDecode\", \"pos\": [1370, 150], \"size\": {\"0\": 210, \"1\": 46}, \"flags\": {}, \"order\": 8, \"mode\": 0, \"inputs\": [{\"name\": \"samples\", \"type\": \"LATENT\", \"link\": 7}, {\"name\": \"vae\", \"type\": \"VAE\", \"link\": 8}], \"outputs\": [{\"name\": \"IMAGE\", \"type\": \"IMAGE\", \"links\": [9], \"slot_index\": 0}], \"properties\": {\"Node name for S&R\": \"VAEDecode\"}}, {\"id\": 7, \"type\": \"CLIPTextEncode\", \"pos\": [390, 350], \"size\": {\"0\": 425.27801513671875, \"1\": 180.6060791015625}, \"flags\": {}, \"order\": 5, \"mode\": 0, \"inputs\": [{\"name\": \"clip\", \"type\": \"CLIP\", \"link\": 32}], \"outputs\": [{\"name\": \"CONDITIONING\", \"type\": \"CONDITIONING\", \"links\": [6], \"slot_index\": 0}], \"properties\": {\"Node name for S&R\": \"CLIPTextEncode\"}, \"widgets_values\": [\"bad quality, worst quality, worst detail, sketch, censored, artist name, signature, watermark, patreon username, patreon logo, man, bad quality, worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, \"]}, {\"id\": 10, \"type\": \"LoraLoader\", \"pos\": [-30, 500], \"size\": {\"0\": 315, \"1\": 126}, \"flags\": {}, \"order\": 1, \"mode\": 0, \"inputs\": [{\"name\": \"model\", \"type\": \"MODEL\", \"link\": null}, {\"name\": \"clip\", \"type\": \"CLIP\", \"link\": null}], \"outputs\": [{\"name\": \"MODEL\", \"type\": \"MODEL\", \"links\": [], \"shape\": 3, \"slot_index\": 0}, {\"name\": \"CLIP\", \"type\": \"CLIP\", \"links\": [], \"shape\": 3, \"slot_index\": 1}], \"properties\": {\"Node name for S&R\": \"LoraLoader\"}, \"widgets_values\": [\"shiny_wet_skin_v1.safetensors\", 0, 0]}, {\"id\": 15, \"type\": \"LoraLoader\", \"pos\": [-410, 350], \"size\": {\"0\": 315, \"1\": 126}, \"flags\": {}, \"order\": 4, \"mode\": 0, \"inputs\": [{\"name\": \"model\", \"type\": \"MODEL\", \"link\": 26}, {\"name\": \"clip\", \"type\": \"CLIP\", \"link\": 25}], \"outputs\": [{\"name\": \"MODEL\", \"type\": \"MODEL\", \"links\": [31], \"shape\": 3, \"slot_index\": 0}, {\"name\": \"CLIP\", \"type\": \"CLIP\", \"links\": [32, 33], \"shape\": 3, \"slot_index\": 1}], \"properties\": {\"Node name for S&R\": \"LoraLoader\"}, \"widgets_values\": [\"Anime_artist_illustrious_r1.safetensors\", 0.7000000000000001, 0.7000000000000001]}, {\"id\": 5, \"type\": \"EmptyLatentImage\", \"pos\": [473, 609], \"size\": {\"0\": 315, \"1\": 106}, \"flags\": {}, \"order\": 2, \"mode\": 0, \"outputs\": [{\"name\": \"LATENT\", \"type\": \"LATENT\", \"links\": [2], \"slot_index\": 0}], \"properties\": {\"Node name for S&R\": \"EmptyLatentImage\"}, \"widgets_values\": [1248, 1824, 3]}, {\"id\": 11, \"type\": \"ImpactWildcardProcessor\", \"pos\": [-510, -230], \"size\": {\"0\": 700, \"1\": 350}, \"flags\": {}, \"order\": 3, \"mode\": 0, \"outputs\": [{\"name\": \"STRING\", \"type\": \"STRING\", \"links\": [16], \"shape\": 3, \"slot_index\": 0}], \"properties\": {\"Node name for S&R\": \"ImpactWildcardProcessor\"}, \"widgets_values\": [\"masterpiece, best quality, amazing quality, 1girl, ((__MangaCharacter__)), breasts, large natural breasts, navel, blush, cleavage, areola peek, nipple bulge, open mouth, bra, high waist thong, color theory, laying on sofa, curtains, female, masterpiece, semi-realism, shadows, cinematic lighting, color theory, sleeping, closed eyes, zzzz, ZZZ \\ud83d\\udca4, pillow, half undressing, undressed, saliva, gorgeous face, cute, perky breasts, sweaty, saliva dripping from mouth, glossy lips, Art8st,  (__angle__), on off, __clothes__, (photorealistic), detailed skin, enormous breasts, pale_skin, one breast out, g-string, \", \"masterpiece, best quality, amazing quality, 1girl, ((1girl, perrault \\\\(last origin\\\\), last origin)), breasts, large natural breasts, navel, blush, cleavage, areola peek, nipple bulge, open mouth, bra, high waist thong, color theory, laying on sofa, curtains, female, masterpiece, semi-realism, shadows, cinematic lighting, color theory, sleeping, closed eyes, zzzz, ZZZ \\ud83d\\udca4, pillow, half undressing, undressed, saliva, gorgeous face, cute, perky breasts, sweaty, saliva dripping from mouth, glossy lips, Art8st,  (Narrow Angle), on off, lingerie, (photorealistic), detailed skin, enormous breasts, pale_skin, one breast out, g-string, \", false, 662513699118473, \"randomize\", \"Select the Wildcard to add to the text\"]}], \"links\": [[2, 5, 0, 3, 3, \"LATENT\"], [6, 7, 0, 3, 2, \"CONDITIONING\"], [7, 3, 0, 8, 0, \"LATENT\"], [8, 4, 2, 8, 1, \"VAE\"], [9, 8, 0, 9, 0, \"IMAGE\"], [16, 11, 0, 6, 1, \"STRING\"], [18, 6, 0, 3, 1, \"CONDITIONING\"], [25, 4, 1, 15, 1, \"CLIP\"], [26, 4, 0, 15, 0, \"MODEL\"], [31, 15, 0, 3, 0, \"MODEL\"], [32, 15, 1, 7, 0, \"CLIP\"], [33, 15, 1, 6, 0, \"CLIP\"]], \"groups\": [], \"config\": {}, \"extra\": {\"ds\": {\"scale\": 0.9090909090909091, \"offset\": [613.0219879308681, 200.2039013329115]}}, \"version\": 0.4}}",
+        "steps": 20,
+        "width": 1248,
+        "height": 1824,
+        "models": [
+          "plantMilkModelSuite_walnut.safetensors"
         ],
-        "sag_scale": "0.5",
-        "Model hash": "25657b43ea",
-        "sag_enabled": "True",
-        "Hires upscale": "2",
-        "Hires upscaler": "None",
-        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,",
-        "sag_blur_sigma": "2",
-        "ADetailer model": "full_eyes_detect_v1.pt",
-        "ADetailer version": "24.5.1",
-        "Denoising strength": "0.25",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint width": "1024",
-        "ADetailer inpaint height": "1536",
-        "ADetailer inpaint padding": "8",
-        "ADetailer denoising strength": "0.2",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer use inpaint width height": "True"
+        "prompt": "masterpiece, best quality, amazing quality, 1girl, ((1girl, perrault \\(last origin\\), last origin)), breasts, large natural breasts, navel, blush, cleavage, areola peek, nipple bulge, open mouth, bra, high waist thong, color theory, laying on sofa, curtains, female, masterpiece, semi-realism, shadows, cinematic lighting, color theory, sleeping, closed eyes, zzzz, ZZZ \ud83d\udca4, pillow, half undressing, undressed, saliva, gorgeous face, cute, perky breasts, sweaty, saliva dripping from mouth, glossy lips, Art8st,  (Narrow Angle), on off, lingerie, (photorealistic), detailed skin, enormous breasts, pale_skin, one breast out, g-string, ",
+        "denoise": 1,
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "scheduler": "normal",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censored, artist name, signature, watermark, patreon username, patreon logo, man, bad quality, worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, ",
+        "additionalResources": [
+          {
+            "name": "Anime_artist_illustrious_r1.safetensors",
+            "type": "lora",
+            "strength": 0.7000000000000001,
+            "strengthClip": 0.7000000000000001
+          }
+        ]
       },
-      "username": "phinjo",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        1116628
-      ]
+      "username": "ai136312h269",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "111|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=111%7C1744925392028"
+    "nextCursor": "112|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=112%7C1744925392028"
   }
 }
