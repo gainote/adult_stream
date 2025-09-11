@@ -1,80 +1,99 @@
 {
   "items": [
     {
-      "id": 26819864,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee5bbc21-4b52-4466-bf31-1e51ee6eb2c1/width=1664/ee5bbc21-4b52-4466-bf31-1e51ee6eb2c1.jpeg",
-      "hash": "UDHURo00yX%1yYI9S$S4~p4oIUxupxi^-VRj",
-      "width": 1664,
-      "height": 2432,
+      "id": 96351101,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed06a369-1088-4bf3-959d-e5aa52465b56/width=1408/ed06a369-1088-4bf3-959d-e5aa52465b56.jpeg",
+      "hash": "UADm8c.T00-;?w=wMxTe00r=xDM|x^Fzxbvz",
+      "width": 1408,
+      "height": 2064,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-08T11:41:57.050Z",
-      "postId": 5997233,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-26T11:33:57.683Z",
+      "postId": 21369956,
       "stats": {
-        "cryCount": 228,
-        "laughCount": 470,
-        "likeCount": 3414,
+        "cryCount": 266,
+        "laughCount": 402,
+        "likeCount": 3543,
         "dislikeCount": 0,
-        "heartCount": 1904,
-        "commentCount": 1
+        "heartCount": 1780,
+        "commentCount": 5
       },
       "meta": {
+        "TI": {},
         "Size": "832x1216",
-        "seed": 1299158547,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 30,
+        "seed": 2666722476,
+        "Model": "Illv10FSP",
+        "steps": 29,
         "hashes": {
-          "model": "ac006fdd7e",
-          "lora:Ball sucking-000009": "68304416ff6d"
+          "model": "d84b70d3d5",
+          "lora:XmutsixV2": "88b0be86220a",
+          "lora:Real hair for 2D": "69b5f30b1784",
+          "lora:USNR_STYLE_ILL_V1_lokr3": "44586d05878a",
+          "lora:Ultra Lora Detailer and Glow": "8309617bd8f4",
+          "lora:USA37107692-illustriousXL_v01_V2-CAME": "f532ec9d1c73"
         },
-        "prompt": "score_9, score_7_up, ball suck,  1girl, 1boy, pov, penis, makima \\(chainsaw man\\),   <lora:Ball sucking-000009:1>",
-        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
-        "sampler": "Euler A Comfy",
-        "cfgScale": 6,
-        "clipSkip": 2,
+        "prompt": "masterpiece,8k,depth of field,best quality,1girl opening fridge,Kitchen,blank white oversized shirt,white panties,looking into fridge,bent over,Clutter,Detailed Background,low blue light from Fridge,open fridge,low light,slim body,(night:1.2),(dark shadows:0.9),1woman,solo,petite,thigh gap,cameltoe,aroused wet panties,expressive body,dynamic pose,perfect light,look back,<lora:Ultra Lora Detailer and Glow:0.2>,<lora:XmutsixV2:0.2>,x1mtxsx,<lora:USNR_STYLE_ILL_V1_lokr3:0.2>,usnr,<lora:USA37107692-illustriousXL_v01_V2-CAME:0.2>,USA3710,<lora:Real hair for 2D>,hair,detail,",
+        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
+        "sampler": "DPM++ 2M SDE",
+        "cfgScale": 5,
         "resources": [
           {
-            "hash": "68304416ff6d",
-            "name": "Ball sucking-000009",
+            "hash": "88b0be86220a",
+            "name": "XmutsixV2",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "44586d05878a",
+            "name": "USNR_STYLE_ILL_V1_lokr3",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "f532ec9d1c73",
+            "name": "USA37107692-illustriousXL_v01_V2-CAME",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "8309617bd8f4",
+            "name": "Ultra Lora Detailer and Glow",
             "type": "lora"
           },
           {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
+            "hash": "69b5f30b1784",
+            "name": "Real hair for 2D",
+            "type": "lora"
+          },
+          {
+            "hash": "d84b70d3d5",
+            "name": "Illv10FSP",
             "type": "model"
           }
         ],
-        "Model hash": "ac006fdd7e",
-        "Hires upscale": "2",
-        "Schedule type": "Align Your Steps",
-        "Hires upscaler": "4xNomos8kDAT",
-        "negativePrompt": "simple background,",
-        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
-        "ADetailer version": "24.8.0",
-        "Denoising strength": "0.16",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "automatic_cfg_preset_enabled": "False",
-        "automatic_cfg_simple_enabled": "False",
-        "ADetailer inpaint only masked": "True",
-        "automatic_cfg_dynamic_enabled": "False",
-        "automatic_cfg_warp_drive_enabled": "False",
-        "automatic_cfg_post_cfg_rescale_enabled": "False"
+        "Model hash": "d84b70d3d5",
+        "Schedule type": "Karras",
+        "negativePrompt": "easynegative,lazyneg_1760455,sharp,lines,",
+        "Denoising strength": "0.3",
+        "SD upscale overlap": "64",
+        "SD upscale upscaler": "remacri_original"
       },
-      "username": "Kojimbomber",
-      "baseModel": "Pony",
+      "username": "Xmutsix",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        324524
+        1552087,
+        2087008,
+        2101298,
+        2134626,
+        2141638,
+        2144812
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "84|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=84%7C1744925392028"
+    "nextCursor": "85|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=85%7C1744925392028"
   }
 }
