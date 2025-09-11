@@ -1,105 +1,74 @@
 {
   "items": [
     {
-      "id": 18513829,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7d40422-7b6e-4c05-ad4f-864a0b30736e/width=832/c7d40422-7b6e-4c05-ad4f-864a0b30736e.jpeg",
-      "hash": "U5FN-m01GF9F0$-:Vs%201-o%MEM}?NGs:I;",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 76344566,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a29ebe2-7a61-4bd6-8ed1-c0898c38af55/width=1248/1a29ebe2-7a61-4bd6-8ed1-c0898c38af55.jpeg",
+      "hash": "UPL|T5^~9aER_KwZE1WHR}M_RlE3?HD*njt7",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-07-05T07:32:36.757Z",
-      "postId": 4135727,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-16T22:05:26.038Z",
+      "postId": 16954998,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 384,
-        "likeCount": 2903,
+        "cryCount": 209,
+        "laughCount": 423,
+        "likeCount": 3216,
         "dislikeCount": 0,
-        "heartCount": 1972,
-        "commentCount": 2
+        "heartCount": 1547,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 776061490,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, gtssize, scene of two cartoon anime characters together, size difference, \n1girl, gorgeous girl, cute girl , kawai girl , cute face , intricate details, sexy , high quality , posing , thick long brown hair, ponytail, small perky breasts, pretty face, petite, green eyes, eye contact, sexy pose, exited, horny, blushing, heavy freckles, small ass, beach, swimsuit, removing swimsuit, exposed shoulder, one breast exposed, pulling swimsuit to side to reveal pussy, pussy peek, dripping vagina, cameltoe, tan skin, tanlines, pleasure, indoors, bedroom setting, girls bedroom, \nBREAK, (1man, gtssize, scene of two cartoon anime characters together, size difference, one adult man, close up low angle view from behind man looking up, shirtless, size difference, watching, view from behind man, low angle)",
-        "sampler": "DPM++ 2M Karras",
+        "seed": 3888654031,
+        "Model": "waiNSFWIllustrious_v140",
+        "steps": 30,
+        "hashes": {
+          "model": "bdb59bac77",
+          "lora:Lativi_V2_epoch_10": "ac4cd23befa8"
+        },
+        "prompt": "masterpiece,best quality,amazing quality,\nbreasts, panty (psg), multiple girls, 2girls, cleavage, jewelry, stocking (psg), skirt, navel, bra, blonde hair, necklace, long hair, pink hair, multicolored hair, earrings, cross, underwear, looking at viewer, large breasts, shorts, bow, bangs, blue eyes, midriff, torn clothes, denim, collarbone, shirt, colored inner hair, choker, hair ornament, belt, sisters, blush, hairclip, blue hair, pleated skirt, denim shorts, siblings, leopard print, two-tone hair, scrunchie, parted lips, wings, heart, sweat, gyaru, thigh strap, bowtie, white shirt, red bow, torn shorts, blunt bangs, smile, cross necklace, black choker, cowboy shot, crop top, black belt, piercing,\n<lora:Lativi_V2_epoch_10:1>",
+        "Version": "f1.1.5-v1.10.1RC-latest-864-g943a2f48",
+        "sampler": "Euler a",
         "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-04T1222:53.6583391Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, child,",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "hash": "ac4cd23befa8",
+            "name": "Lativi_V2_epoch_10",
             "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 532904,
-            "modelVersionName": "Giantess Shrink Pony v1"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "bdb59bac77",
+            "name": "waiNSFWIllustrious_v140",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "bdb59bac77",
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "4x-AnimeSharp",
+        "mswmsa_enabled": "False",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,simple background,transparent background,text,english text, doujin cover,bar censor,censored, mosaic censoring,",
+        "raunet_enabled": "False",
+        "Denoising strength": "0.5",
+        "mswmsa_simple_enabled": "False",
+        "raunet_simple_enabled": "False"
       },
-      "username": "Sarrassin",
-      "baseModel": "Pony",
+      "username": "Galerd",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        532904
+        1761560,
+        1790094
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "123|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=123%7C1744925392028"
+    "nextCursor": "124|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=124%7C1744925392028"
   }
 }
