@@ -1,104 +1,119 @@
 {
   "items": [
     {
-      "id": 97347302,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ee9a609b-d83d-486b-beed-c09a67bb2472/width=1152/ee9a609b-d83d-486b-beed-c09a67bb2472.jpeg",
-      "hash": "UBE_mu~C01wc5RE1RjIV4maK%NxuMxt7-pSh",
-      "width": 1152,
-      "height": 1728,
-      "nsfwLevel": "X",
+      "id": 92368807,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1e8f809-cd53-4864-bdfb-2e8cab4f6aa4/width=832/f1e8f809-cd53-4864-bdfb-2e8cab4f6aa4.jpeg",
+      "hash": "U6BWVt}?AI4T:OS#0fpco|I;ogrq=GQ-KPtm",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-09-01T09:40:36.838Z",
-      "postId": 21595556,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-05T00:46:12.419Z",
+      "postId": 20490368,
       "stats": {
-        "cryCount": 238,
-        "laughCount": 414,
-        "likeCount": 3927,
+        "cryCount": 247,
+        "laughCount": 401,
+        "likeCount": 3970,
         "dislikeCount": 0,
-        "heartCount": 1788,
+        "heartCount": 1721,
         "commentCount": 0
       },
       "meta": {
-        "seed": 3663625192,
-        "Model": "urn:air:sdxl:checkpoint:civitai:443821@2071650",
-        "extra": {
-          "remixOfId": 96448296
-        },
-        "steps": 34,
-        "width": 768,
-        "height": 1152,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:443821@2071650"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, realistic, low light, , Expressiveh, reddit, high quality, traditional media, amateur, real life photo, raw, film grain, igbaddie, real_beauty, 1girl, rsgrl, russian girl, blonde hair, cute russian girl, solo, young, 20yo, pale skin, white, slavic, ukrainain, flat chest, small breasts, naked, wide hips, thin waist, black hair, straight thin hair, lips, makeup, eyeliner, reflective, shiny skin, climbing out of pool ,light skin, hair strands, dynamic angle, shaved pussy, pussy visible, backyard, deep south , pool, posh,",
-        "denoise": 0.6,
+        "Size": "832x1216",
+        "seed": 410043999,
+        "draft": false,
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_8, score_7_up, score_6_up, \n1girl, solo, sweating, small breasts, blushing, standing, bare midriff, ((flat sexy tummy, skinny, slender, thin, )), navel, breast focus, looking to towards the side, smiling, seductive, posing, looking at viewer, front upper body shot, fitness, at gym, gym locker, locker room, arm up, sweat, sweaty, aqua yoga pants, tight sports bra, aqua sports bra , \n1girl, RslnDef, hair over one eye, crown,",
         "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
+        "quantity": 4,
+        "workflow": "txt2img",
         "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
+        "resources": [],
         "disablePoi": true,
         "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/86818247177874428447879276959922032685.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQeN-RkF5HYLLAso3ygIXZM1UCVksfYHvmkXcFzfsRaFCiyUarlQu3BLnWSOkvCcZ_3fGhUThqhdtfuG4IX72s54sGdMRVbWgXS-y_eIKD8Rnmc7kH162-co_41inyL-reNJew3yfMoqJfValO8xp7bEc_6BsPSKQh6KCUZUqc7tsICW1EmfZZKUTHayttMXd4uv7tJOavrnuNtezv_5kKcZshTsBbG_rZa1A0g7Fsb5kWgkaTy2wqmIDbWUGrkq2MCaKfZQdVJya7TWaCuxAdnx3gP1wVoNVhgMPCd3Q8JXw&exp=2026-08-30T07:29:58.7802992Z",
-          "width": 768,
-          "height": 1152
-        },
+        "Created Date": "2025-08-04T2203:10.1249653Z",
         "experimental": false,
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), tanned skin, car, old, milf,",
+        "negativePrompt": "score_5, score_4, censored, deformed, bad hand, blurry, (watermark), extra hands, extra dicks, futanari, white pupils, small pupils, bright pupils, detached hand, bad anatomy, (((young, loli))). (((futa, t-girl))), six pack, defined muscles, detached sleeves, fingerless glove, elbow gloves,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 2071650
+            "modelVersionId": 770375,
+            "modelVersionName": "MeichiDarkAnimV2_Lust"
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
             "weight": 0.3,
-            "modelVersionId": 534756
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 220262,
+            "modelVersionName": "epiCPhoto"
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 556208
+            "weight": 0.25,
+            "modelVersionId": 708019,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 596040
+            "weight": 0.2,
+            "modelVersionId": 835055,
+            "modelVersionName": "V1"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1029540,
+            "modelVersionName": "Gothic Neon v2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1058404,
+            "modelVersionName": "V2 [Pony XL]"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 414516,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "Cumfetishism1",
+      "username": "MackRibs",
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        382152,
-        534756,
-        556208,
-        596040,
-        2071650
+        9208,
+        220262,
+        414516,
+        436219,
+        708019,
+        770375,
+        835055,
+        1029540,
+        1058404
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "62|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=62%7C1744925392028"
+    "nextCursor": "63|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=63%7C1744925392028"
   }
 }
