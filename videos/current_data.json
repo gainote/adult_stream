@@ -1,126 +1,53 @@
 {
   "items": [
     {
-      "id": 91336811,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14274c83-52f6-4c95-9734-0d7cdcb52d76/width=1280/14274c83-52f6-4c95-9734-0d7cdcb52d76.jpeg",
-      "hash": "UEDck5Ne00x^%QNFNMxvIDV;v}af00shZ|RQ",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 8915879,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2ec0876-f3fa-44b1-b5fa-b4807c1cce8a/width=1632/b2ec0876-f3fa-44b1-b5fa-b4807c1cce8a.jpeg",
+      "hash": "UGE2%,D%ELs.~qIURjxt9uayRPtR9FxuV@kW",
+      "width": 1632,
+      "height": 3912,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-30T07:42:55.993Z",
-      "postId": 20260801,
+      "browsingLevel": 8,
+      "createdAt": "2024-03-31T21:12:59.768Z",
+      "postId": 1926973,
       "stats": {
-        "cryCount": 293,
-        "laughCount": 471,
-        "likeCount": 3276,
+        "cryCount": 166,
+        "laughCount": 396,
+        "likeCount": 2710,
         "dislikeCount": 0,
-        "heartCount": 1291,
-        "commentCount": 1
+        "heartCount": 2044,
+        "commentCount": 2
       },
       "meta": {
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:285852@572204"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
-        "extra": {
-          "remixOfId": 86288400
+        "Size": "640x1536",
+        "seed": 3,
+        "steps": 25,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "LORA:Styles\\Smooth Style 2.safetensors": "5a39036209",
+          "LORA:Styles\\Twilight Style.safetensors": "2d9ee3fc65"
         },
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
-        ],
-        "prompt": " score_9, score_8_up, score_7_up, score_6_up, masterpiece, source_anime, high quality, perfect face, detailed eyes, perfecteyes, detailed face, perfect lighting, detailed background, newest, absurdres, highres, very aesthetic, outdoor, on stage, nightsky, night, stars, \n1girl, shirakami fubuki,\nfbk_elegant, braided ponytail, blue coat, blue ascot, corset, collared shirt, grey skirt, frilled skirt, white gloves, mini top hat, hairband, fox tail, large breasts, gigantic breasts,\nhigh heels, boots, heeled boots,  thighhigh boots, white boots, white footwear, thigh boots, high heels, latex, \n tall woman, 7ft girl, beautiful, (detailed face), Teasing, horny, sexually aroused, aroused, \nlooking at viewer, ,looking_at_viewer,\n beautiful, (detailed face), \ngyaru, make up, eye shadow, mascara, long eye lashes, eye shadow,\n, full body, long legs, larger female, tall female, looking at viewer, long calves, long legs, thin thighs, tall_girl,long_legs, standing, leaning forward, front view, peace sign, peace sign on face\n1girl, skindentation, smile,,  8ft tall, ,\n creases , \n\nchomoran, ((chomoran))",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "txt2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": " lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name,  monochrome, simple background, lowres, polar lowres, worst quality, low quality, normal quality, gross proportions, blurry, poorly drawn, text, error,  extra digit,  low background,  ((no eye iris)),  watermark, signature,  lowres,  extra digit, fewer digits, worst quality, low quality, normal quality, watermark, artist name, signature,negative_hand, censored, ",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1761560
-          },
-          {
-            "weight": -0.5,
-            "modelVersionId": 1509461
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1883314
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 572204
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 572204
-          },
-          {
-            "type": "lora",
-            "weight": -0.5,
-            "modelVersionId": 1509461
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1883314
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1336688@1509461",
-            "type": "lora",
-            "strength": -0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1663917@1883314",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
+        "prompt": "score_9, score_8_up, score_7_up,   closeup, slim girl, ass, from below, behind, small waist, sitting, cameltoe, white thong, looking back, seductive gaze,  <lora:Styles\\Twilight Style.safetensors:0.8> <lora:Styles\\Smooth Style 2.safetensors:0.8>",
+        "sampler": "Euler a Karras",
+        "cfgScale": 7,
+        "resources": [],
+        "Model hash": "67ab2fd8ec",
+        "negativePrompt": "score_6, score_5, score_4, muscular, makeup, censored, 3d, mature,",
+        "PonyV6XL Version": "ComfyUI"
       },
-      "username": "ty0905352",
-      "baseModel": "Illustrious",
+      "username": "ADPA",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        572204,
-        1509461,
-        1761560,
-        1883314
+        290640,
+        330475,
+        333587
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "126|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=126%7C1744925392028"
+    "nextCursor": "127|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=127%7C1744925392028"
   }
 }
