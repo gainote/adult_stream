@@ -1,103 +1,90 @@
 {
   "items": [
     {
-      "id": 18829674,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cdabdb1d-2027-4038-a48b-fd6ff7fe5e45/width=832/cdabdb1d-2027-4038-a48b-fd6ff7fe5e45.jpeg",
-      "hash": "UHGRYgMdTJbb~BxtNbs:01o}WWRPxZM{RQxG",
+      "id": 90827839,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6dbf205a-78dd-4ba0-83f7-4a6191c0c550/width=832/6dbf205a-78dd-4ba0-83f7-4a6191c0c550.jpeg",
+      "hash": "U5J7UNR500R50Lxu?Fxu~Voc4nj[_3s:MeR*",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-07T14:04:01.482Z",
-      "postId": 4205114,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-29T00:13:00.000Z",
+      "postId": 20142168,
       "stats": {
-        "cryCount": 200,
-        "laughCount": 449,
-        "likeCount": 3357,
+        "cryCount": 290,
+        "laughCount": 473,
+        "likeCount": 3677,
         "dislikeCount": 0,
-        "heartCount": 2163,
-        "commentCount": 0
+        "heartCount": 1717,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1003004234,
-        "steps": 35,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo,\nperfect face, perfect eyes, sexy, sexy girl, beautiful eyes, petite body, wide hips, perfect cute face, turtle neck sweater, tight black jeans, boob window, medium breasts, cleavage, kneeling, eyes up, looking on penis, cumshot, cum on face, cum on chest, cum strings, hungry for penis, excited, open mouth, saliva, 1boy, large penis, penis on face, penis worship face focus, from above, male POV, dynamic angle, g0thicPXL, glowing, neon, cum on body, Expressiveh, cum on face, wet massive penis, realistic, photorealism, hd, high definition, cock worship, penis awe, tongue out",
+        "seed": 977170473,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, <BREAK> 1girl, solo,\n<lora:Mais_Mother_Bunny_Senpai_IL_V1:1>, KJOmaimother, black hair, blue eyes, long hair, forehead,   ruby necklace, hoop earrings, nude\ndrunk, blush, cleavage, head tilt, seductive smile, lip gloss, thick lips, \nindoors, bedroom, \nBeautiful, (huge  Breasts:1.0), saggy breasts, mature female, (milf), erect nipples",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-07T1401:59.2302192Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, (black and white), glowing eyes, easynegative",
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
+          {
+            "name": "Mais_Mother_Bunny_Senpai_IL_V1",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-27T1441:07.4099147Z",
+        "experimental": false,
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, simple background, transparent background,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 534642,
-            "modelVersionName": "v2.1 Main + VAE"
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
           },
           {
-            "type": "embed",
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 107234,
-            "modelVersionName": "v2"
+            "modelVersionId": 2013754,
+            "modelVersionName": "V3 M R S"
           },
           {
             "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.5,
+            "modelVersionId": 1529585,
+            "modelVersionName": "Mai-Rio-Shouko"
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 559962,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 571832,
-            "modelVersionName": "Penis Worship"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.9,
+            "modelVersionId": 1200161,
+            "modelVersionName": "V1"
           }
         ]
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "QuickReturn17",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        107234,
-        382152,
-        398847,
-        534642,
-        559962,
-        571832
+        1200161,
+        1529585,
+        1761560,
+        2013754
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "73|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=73%7C1744925392028"
+    "nextCursor": "74|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=74%7C1744925392028"
   }
 }
