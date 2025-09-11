@@ -1,105 +1,107 @@
 {
   "items": [
     {
-      "id": 34673039,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f17117dc-c4dc-4176-ae39-4fc2ca3ca20c/width=832/f17117dc-c4dc-4176-ae39-4fc2ca3ca20c.jpeg",
-      "hash": "UDHT:Q.8yX~W%#?a-:%200IUwIIUMd9FD%E1",
+      "id": 96448296,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1b2ca94b-42a4-4df2-88b0-1b1e89bed9f4/width=832/1b2ca94b-42a4-4df2-88b0-1b1e89bed9f4.jpeg",
+      "hash": "UGFYAQMcX--QJBIVaeNG.TVY-oadtSbHs:Rj",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-15T04:12:42.992Z",
-      "postId": 7922457,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-28T09:46:29.378Z",
+      "postId": 21392364,
       "stats": {
-        "cryCount": 236,
-        "laughCount": 413,
-        "likeCount": 3312,
+        "cryCount": 263,
+        "laughCount": 406,
+        "likeCount": 3647,
         "dislikeCount": 0,
-        "heartCount": 2160,
-        "commentCount": 63
+        "heartCount": 1794,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 913149384,
-        "steps": 29,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_anime, \nBREAK, 1girl, Raven, bedroom, laying on side, ass up, ass focus, from below, pussy focus, naked, pussy focus, wet pussy, pose, sexy, wet, looking back, face focus, closeup, posing, wet hair, dynamic angle, thick thighs, big ass, spreading ass, hand on ass, nail polish, asshole focus, cum in ass, cum in pussy, biting lip, blush, hearts",
+        "Model": "urn:air:sdxl:checkpoint:civitai:443821@2071650",
+        "extra": {
+          "remixOfId": 96365677
+        },
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:443821@2071650"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, realistic, low light, , Expressiveh, reddit, high quality, traditional media, amateur, real life photo, raw, film grain, igbaddie, real_beauty, 1girl, rsgrl, russian girl, blonde hair, cute russian girl, solo, young, 20yo, pale skin, white, slavic, ukrainain, flat chest, small breasts, naked, wide hips, thin waist, black hair, straight thin hair, lips, makeup, eyeliner, reflective, shiny skin, climbing out of pool ,light skin, hair strands, dynamic angle, shaved pussy, pussy visible, backyard, deep south , pool, posh,",
+        "denoise": 0.6,
+        "process": "img2img",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-15T0235:03.8001355Z",
-        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Pony",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/329131849630722431854974308928005875455.jpg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), tanned skin, car, old, milf,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "modelVersionId": 2071650
           },
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 438417,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 382152
           },
           {
             "type": "lora",
             "weight": 0.3,
-            "modelVersionId": 333587,
-            "modelVersionName": "Smooth 2"
+            "modelVersionId": 534756
           },
           {
             "type": "lora",
             "weight": 0.7,
-            "modelVersionId": 373439,
-            "modelVersionName": "Lil Andava style PDXL V1"
+            "modelVersionId": 556208
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 2.1,
+            "modelVersionId": 1242203
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 546832
           }
         ]
       },
-      "username": "Bancin",
+      "username": "Cumfetishism1",
       "baseModel": "Pony",
       "modelVersionIds": [
-        290640,
-        333587,
-        373439,
         382152,
-        398847,
-        436219,
-        438417
+        534756,
+        546832,
+        556208,
+        596040,
+        1242203,
+        2071650
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "76|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=76%7C1744925392028"
+    "nextCursor": "77|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=77%7C1744925392028"
   }
 }
