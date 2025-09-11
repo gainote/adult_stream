@@ -1,97 +1,79 @@
 {
   "items": [
     {
-      "id": 90827840,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0907bb7c-8566-4b5e-8920-5abd684e00d2/width=832/0907bb7c-8566-4b5e-8920-5abd684e00d2.jpeg",
-      "hash": "URIg}:?a9ZWUngn$x]ozI;azjEn$~WbHRPn%",
-      "width": 832,
-      "height": 1216,
+      "id": 43282673,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a8836935-e02a-4f47-b217-98cd5c9510f0/width=1024/a8836935-e02a-4f47-b217-98cd5c9510f0.jpeg",
+      "hash": "UAE-N^wy0#yC%z=xoyTJ1JAW}s^6IB$%%1W.",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-07-29T00:13:00.000Z",
-      "postId": 20142168,
+      "createdAt": "2024-12-02T19:25:00.000Z",
+      "postId": 9842525,
       "stats": {
-        "cryCount": 253,
-        "laughCount": 435,
-        "likeCount": 3396,
+        "cryCount": 206,
+        "laughCount": 348,
+        "likeCount": 3122,
         "dislikeCount": 0,
-        "heartCount": 1476,
-        "commentCount": 1
+        "heartCount": 1884,
+        "commentCount": 8
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 444426630,
-        "draft": false,
-        "steps": 19,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, <BREAK> 1girl, solo,\n<lora:Mais_Mother_Bunny_Senpai_IL_V1:1>, KJOmaimother, black hair, blue eyes, long hair, forehead,   ruby necklace, hoop earrings, naked apron\ndrunk, blush, beckoning, cleavage, head tilt, seductive smile, lip gloss, thick lips, \nindoors, kitchen\nBeautiful, (huge  Breasts:1.0), mature female, milf, erect nipples",
-        "process": "txt2img",
+        "Size": "512x768",
+        "seed": 3827651615,
+        "Model": "re-mixmain.fp16",
+        "steps": 25,
+        "hashes": {
+          "model": "25657b43ea"
+        },
+        "prompt": "1girl, solo, ass, innie pussy, feet, bound, , christmas tree, barefoot, soles, bdsm, bondage, christmas, couch, , ribbon, indoors, nude, pillow, long hair, toes, black hair, from behind, brown hair, naked ribbon, breasts, bound legs, red ribbon, zPDXL3, detailxl,  Score_PnyReal",
+        "Version": "f0.0.17v1.8.0rc-latest-277-g0af28699",
         "sampler": "Euler a",
-        "cfgScale": 6,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "TI hashes": {
+          "zPDXL3": "1727c6cddf61",
+          "detailxl": "cad765d41c8a",
+          "Score_PnyReal": "63e618ba9fc7"
+        },
         "resources": [
           {
-            "name": "Mais_Mother_Bunny_Senpai_IL_V1",
-            "type": "lora",
-            "weight": 1
+            "hash": "25657b43ea",
+            "name": "re-mixmain.fp16",
+            "type": "model"
           }
         ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-27T1437:44.0904979Z",
-        "experimental": false,
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, simple background, transparent background,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2013754,
-            "modelVersionName": "V3 M R S"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1529585,
-            "modelVersionName": "Mai-Rio-Shouko"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1200161,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1518148,
-            "modelVersionName": "IXL 2.0"
-          }
-        ]
+        "sag_scale": "0.5",
+        "Model hash": "25657b43ea",
+        "sag_enabled": "True",
+        "Hires upscale": "2",
+        "Hires upscaler": "None",
+        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,",
+        "sag_blur_sigma": "2",
+        "ADetailer model": "full_eyes_detect_v1.pt",
+        "ADetailer version": "24.5.1",
+        "Denoising strength": "0.25",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint width": "1024",
+        "ADetailer inpaint height": "1536",
+        "ADetailer inpaint padding": "8",
+        "ADetailer denoising strength": "0.2",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer use inpaint width height": "True"
       },
-      "username": "QuickReturn17",
-      "baseModel": "Illustrious",
+      "username": "phinjo",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1200161,
-        1518148,
-        1529585,
-        1761560,
-        2013754
+        1116628
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "110|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=110%7C1744925392028"
+    "nextCursor": "111|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=111%7C1744925392028"
   }
 }
