@@ -1,89 +1,90 @@
 {
   "items": [
     {
-      "id": 91065081,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/302a94d4-c677-436e-9cc3-eafb6c22c168/width=896/302a94d4-c677-436e-9cc3-eafb6c22c168.jpeg",
-      "hash": "ULIXaC~qTd-UK%k=WVs:8_DijZIoIpi^r=XT",
-      "width": 896,
-      "height": 1152,
-      "nsfwLevel": "Mature",
+      "id": 57583288,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5bb1f946-aa46-4a28-9ff9-66bb00362d73/width=1488/5bb1f946-aa46-4a28-9ff9-66bb00362d73.jpeg",
+      "hash": "UVBNc$bwD%ad_NbIIoayxuWBRjW=kqWBniWC",
+      "width": 1488,
+      "height": 2496,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-28T23:35:23.061Z",
-      "postId": 20196742,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-16T00:03:00.000Z",
+      "postId": 12887838,
       "stats": {
-        "cryCount": 242,
-        "laughCount": 477,
-        "likeCount": 3521,
+        "cryCount": 190,
+        "laughCount": 357,
+        "likeCount": 3529,
         "dislikeCount": 0,
-        "heartCount": 1541,
-        "commentCount": 3
+        "heartCount": 1698,
+        "commentCount": 4
       },
       "meta": {
-        "RNG": "CPU",
-        "NGMS": "3",
-        "Size": "896x1152",
-        "seed": 4186949660,
-        "Model": "Babes_Pony_By_Stable_Yogi_CIV_V5.0",
-        "steps": 27,
+        "Size": "768x1280",
+        "seed": 193363031555863,
+        "Model": "waiNSFWIllustrious_v100.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
         "hashes": {
-          "model": "d642af193e",
-          "lora:demo character 005 by stable yogi": "8917e3514f14",
-          "lora:Realism_Lora_By_Stable_Yogi_Pony_V2": "e5acb5e2cb81"
+          "model": "7e87327f89",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
         },
-        "prompt": "Stable_Yogis_PDXL_Positives\n<lora:demo character 005 by stable yogi:0.8>\n99target5a,, 99targetb,   blonde hair,  black eyes,     lipstick,  large breasts, freckles, ,long hair, (realistic:1.3) (photorealistic:1.3)  (solo:1.3) (indoors:1.3) ( Tie-Dye Tube Top and Fringe Shorts :1.3 )  (dynamic lighting:1.5)   (dynamic angle:1.5) (shadows:1.5) ( sitting :1.3)       <lora:Realism_Lora_By_Stable_Yogi_Pony_V2:0.2>",
-        "Version": "1.10.1",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 4.5,
+        "prompt": "masterpiece, best quality, amazing quality, nsfw, explicit, from below, monster girl, 1girl, solo, pale pink hair, long hair, multicolored hair, (heterochromia:1.1), (blue eyes:0.9), pink eyebrows, thick eyelashes, (pointy ears:0.9), small breasts, looking at viewer, exposing blue latex, nude, (magical transparent wings:1.2), multiple wings, large wings, (cameltoe:0.8), one leg on stone, knee up, side view, outdoors, (swirling magic energy:1.3), fallen tree in background, full body, (dark shadows:0.7), (high contrast:0.7), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.9> <lora:klskx_wai:0.8>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "TI hashes": {
-          "Stable_Yogis_PDXL_Positives": "1454a43d6ca2",
-          "Stable_Yogis_Animetoon_Negatives-neg": "28ce9e84e200"
-        },
         "resources": [
           {
-            "hash": "e5acb5e2cb81",
-            "name": "Realism_Lora_By_Stable_Yogi_Pony_V2",
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
-            "weight": 0.2
+            "weight": 1
           },
           {
-            "hash": "8917e3514f14",
-            "name": "demo character 005 by stable yogi",
-            "type": "lora"
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "hash": "d642af193e",
-            "name": "Babes_Pony_By_Stable_Yogi_CIV_V5.0",
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.9
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100.safetensors",
             "type": "model"
           }
         ],
-        "Model hash": "d642af193e",
-        "Schedule type": "Exponential",
-        "NGMS all steps": "True",
-        "negativePrompt": "Stable_Yogis_Animetoon_Negatives-neg",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "25.3.0",
-        "ADetailer mask blur": "4",
-        "Token merging ratio": "0.7",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Downcast alphas_cumprod": "True",
-        "ADetailer inpaint padding": "32",
-        "Discard penultimate sigma": "True",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "Model hash": "7e87327f89",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, (floating hair, messy hair, swirling hair:1.1), hydrokinesis, (white wings:1.0), heels,"
       },
-      "username": "Stable_Yogi",
-      "baseModel": "Pony",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        1779463
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1367422
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "101|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=101%7C1744925392028"
+    "nextCursor": "102|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=102%7C1744925392028"
   }
 }
