@@ -1,85 +1,82 @@
 {
   "items": [
     {
-      "id": 49196902,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a2c7306a-0cb5-4228-a931-16fa1739f460/width=1040/a2c7306a-0cb5-4228-a931-16fa1739f460.jpeg",
-      "hash": "UKGkK}Md57-p~p4:NG%M5n9a-ot7t7IoofxF",
-      "width": 1040,
-      "height": 1520,
-      "nsfwLevel": "Mature",
+      "id": 58800251,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ae3e3c0-5f00-443b-a978-e768dbe3a498/width=832/5ae3e3c0-5f00-443b-a978-e768dbe3a498.jpeg",
+      "hash": "UUKKp35RKG#7ErIoIER5OYROoxxZ?arqSvbc",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-01-03T00:55:00.000Z",
-      "postId": 11085803,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-25T18:27:00.000Z",
+      "postId": 13155219,
       "stats": {
-        "cryCount": 149,
-        "laughCount": 326,
-        "likeCount": 3218,
+        "cryCount": 208,
+        "laughCount": 354,
+        "likeCount": 3341,
         "dislikeCount": 0,
-        "heartCount": 1961,
-        "commentCount": 4
+        "heartCount": 1747,
+        "commentCount": 3
       },
       "meta": {
-        "TI": {},
         "Size": "832x1216",
-        "seed": 1140324919,
-        "Model": "re-mixmain.fp16",
-        "steps": 30,
-        "hashes": {
-          "model": "8658ad9009"
+        "nsfw": true,
+        "seed": 875514776,
+        "draft": false,
+        "extra": {
+          "remixOfId": 58579016
         },
-        "prompt": "1girl, ass, mirror, reflection, , bottomless, breasts, navel, solo, indoors, plant, nipples, potted plant, shirt, ass support, shirt lift, brown hair, white shirt, , long hair, clothes lift, standing, bracelet, medium breasts, head out of frame, jewelry, naked shirt, from behind, no bra, curtains, grabbing own ass, underboob, ass focus, stomach, zPDXL3, detailxl,  Score_PnyReal, (lineless:1.5)",
-        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, volumetric lighting, high contrast, realistic, vibrant colour, (no lineart:1.5), BREAK, 1girl, 25 years old, cute, foreshortening, \nblue eyes,\npink hair, twintails, very long hair, ahoge, black choker, \nwhite camisole, \nsingle thighhigh, striped thighhighs, pink thighhighs, thigh strap, \nblack nails, \nfrom behind, unworn bikini bottom, holding swimsuit, \nblue sky, outdoors, mountains, grass, looking back at viewer, seductive smile, come hither, ass, from above,",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "resources": [
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-02-18T1327:16.5437515Z",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, censored, japanese text,\ncurvy, fat, pubic hair, ugly, water, lake,",
+        "civitaiResources": [
           {
-            "hash": "8658ad9009",
-            "name": "re-mixmain.fp16",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1247042,
+            "modelVersionName": "v6_noobVv1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "8658ad9009",
-        "ControlNet 0": {
-          "Model": "diffusion_pytorch_model [15e6ad5d]",
-          "Module": "normalbae",
-          "Weight": "0.35",
-          "Hr Option": "Both",
-          "Resize Mode": "Crop and Resize",
-          "Threshold A": "0.5",
-          "Threshold B": "0.5",
-          "Control Mode": "Balanced",
-          "Guidance End": "1.0",
-          "Pixel Perfect": "False",
-          "Processor Res": "512",
-          "Guidance Start": "0.0"
-        },
-        "Hires upscale": "1.25",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "None",
-        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,  half-closed eyes,  facial marks, thick lips, lips, parted lips,",
-        "ADetailer model": "full_eyes_detect_v1.pt",
-        "ADetailer steps": "20",
-        "Hires CFG Scale": "7",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "16",
-        "ADetailer denoising strength": "0.25",
-        "ADetailer use separate steps": "True",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "phinjo",
-      "baseModel": "Pony",
-      "modelVersionIds": []
+      "username": "carefull_time",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1247042,
+        1410435
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "105|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=105%7C1744925392028"
+    "nextCursor": "106|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=106%7C1744925392028"
   }
 }
