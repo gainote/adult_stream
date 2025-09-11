@@ -1,111 +1,97 @@
 {
   "items": [
     {
-      "id": 96849568,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/18edf8ba-b715-45be-8644-1e15495ec131/width=1248/18edf8ba-b715-45be-8644-1e15495ec131.jpeg",
-      "hash": "UGGlSO9FK,.9A2oI%hRP0KRiQ,o~?wR*V=XA",
-      "width": 1248,
-      "height": 1824,
+      "id": 90827840,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0907bb7c-8566-4b5e-8920-5abd684e00d2/width=832/0907bb7c-8566-4b5e-8920-5abd684e00d2.jpeg",
+      "hash": "URIg}:?a9ZWUngn$x]ozI;azjEn$~WbHRPn%",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-08-28T18:57:33.201Z",
-      "postId": 21482563,
+      "createdAt": "2025-07-29T00:13:00.000Z",
+      "postId": 20142168,
       "stats": {
-        "cryCount": 219,
-        "laughCount": 367,
-        "likeCount": 3306,
+        "cryCount": 253,
+        "laughCount": 435,
+        "likeCount": 3396,
         "dislikeCount": 0,
-        "heartCount": 1668,
-        "commentCount": 2
+        "heartCount": 1476,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "sdxl_vae.safetensors",
         "Size": "832x1216",
-        "seed": 3703833546,
-        "Model": "plantMilkModelSuite_walnut",
-        "steps": 35,
-        "hashes": {
-          "vae": "51a86cd794",
-          "model": "1704e50726",
-          "lora:perspective": "0xf947ed91b5",
-          "lora:GENESIS_MK0.2": "8e936ac710d4",
-          "lora:DetailedEyes_V3": "91cb46658523",
-          "lora:PowerPuffMixLora": "70a66c1a0734",
-          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
-          "lora:USNR_STYLE_ILL_V1_lokr3": "44586d05878a"
-        },
-        "prompt": "masterpiece, best quality, perspective, full body\n1girl, trap, wide hips, thick thighs, curvy,puffy breasts, neckline, skindentation, solo,\ndawn (pokemon), dark blue eyes, navy blue hair, sidelocks, hair ornament, hairclip, long hair,\nbeanie, white hat, red scarf, black shirt, sleeveless shirt, pink skirt, frills, black socks, pink footwear, boots,\nstanding, legs apart, looks into the far distance, hands on hips, low angle, panties peek, back view,\noutdoors,plains,grass,flowers,bulbasaur,soft lens flare,clouds,(sunlight,soft shadows:1.1)\n<lora:DetailedEyes_V3:1>  <lora:ponyv6_noobV1_2_adamW:0.9>  <lora:GENESIS_MK0.2:0.45> <lora:USNR_STYLE_ILL_V1_lokr3:0.5> usnr   <lora:PowerPuffMixLora:0.35>  <lora:perspective:1>",
-        "Version": "v1.10.1",
+        "seed": 444426630,
+        "draft": false,
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, <BREAK> 1girl, solo,\n<lora:Mais_Mother_Bunny_Senpai_IL_V1:1>, KJOmaimother, black hair, blue eyes, long hair, forehead,   ruby necklace, hoop earrings, naked apron\ndrunk, blush, beckoning, cleavage, head tilt, seductive smile, lip gloss, thick lips, \nindoors, kitchen\nBeautiful, (huge  Breasts:1.0), mature female, milf, erect nipples",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 6,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [
           {
-            "hash": "91cb46658523",
-            "name": "DetailedEyes_V3",
+            "name": "Mais_Mother_Bunny_Senpai_IL_V1",
             "type": "lora",
             "weight": 1
-          },
-          {
-            "hash": "72ea46a2b089",
-            "name": "ponyv6_noobV1_2_adamW",
-            "type": "lora",
-            "weight": 0.9
-          },
-          {
-            "hash": "8e936ac710d4",
-            "name": "GENESIS_MK0.2",
-            "type": "lora",
-            "weight": 0.45
-          },
-          {
-            "hash": "44586d05878a",
-            "name": "USNR_STYLE_ILL_V1_lokr3",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "70a66c1a0734",
-            "name": "PowerPuffMixLora",
-            "type": "lora",
-            "weight": 0.35
-          },
-          {
-            "hash": "0xf947ed91b5",
-            "name": "perspective",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "1704e50726",
-            "name": "plantMilkModelSuite_walnut",
-            "type": "model"
           }
         ],
-        "Model hash": "1704e50726",
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "lowres,bad anatomy,blurry,(worst quality:1.8),low quality,hands bad,(normal quality:1.3),bad hands,mutated hands and fingers,extra legs,extra arms,duplicate,cropped,jpeg,artifacts,long body,multiple breasts,mutated,disfigured,bad proportions,bad feet,ugly,text font ui,missing limb,monochrome,face bad, crown, tiara, jewelry, earring,pubes,pubic hair, censored,black bars, four legs,ugly hands,big earring,hoop earring,sleeves,collar,glasses, extra fingers,sunglasses, (hat:1.3),multiple hands",
-        "Denoising strength": "0.5"
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-27T1437:44.0904979Z",
+        "experimental": false,
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, simple background, transparent background,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 2013754,
+            "modelVersionName": "V3 M R S"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1529585,
+            "modelVersionName": "Mai-Rio-Shouko"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1200161,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1518148,
+            "modelVersionName": "IXL 2.0"
+          }
+        ]
       },
-      "username": "Vasagralem",
+      "username": "QuickReturn17",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        947535,
-        1247042,
-        1456601,
-        1552087,
-        1714002
+        1200161,
+        1518148,
+        1529585,
+        1761560,
+        2013754
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "109|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=109%7C1744925392028"
+    "nextCursor": "110|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=110%7C1744925392028"
   }
 }
