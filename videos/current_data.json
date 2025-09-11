@@ -1,112 +1,112 @@
 {
   "items": [
     {
-      "id": 87183883,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ccf9df2-db65-4939-be9c-f18efdfea9c4/width=832/3ccf9df2-db65-4939-be9c-f18efdfea9c4.jpeg",
-      "hash": "UTKJGP~BOst7NaniRjRk0LVsxCWVEMNdW=of",
+      "id": 18710113,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48fe39eb-fd62-4f90-982c-64287b9e8924/width=832/48fe39eb-fd62-4f90-982c-64287b9e8924.jpeg",
+      "hash": "U5GjT#0g01?F2t0#E2-:0g]k}s-:t+NHZ%%1",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-09T10:33:00.000Z",
-      "postId": 19342378,
+      "createdAt": "2024-07-06T17:31:18.937Z",
+      "postId": 4178793,
       "stats": {
-        "cryCount": 220,
-        "laughCount": 393,
-        "likeCount": 3389,
+        "cryCount": 138,
+        "laughCount": 379,
+        "likeCount": 3241,
         "dislikeCount": 0,
-        "heartCount": 1826,
-        "commentCount": 9
+        "heartCount": 2053,
+        "commentCount": 2
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1307857@1723898",
-        "extra": {},
+        "Size": "832x1216",
+        "seed": 1465620742,
         "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1307857@1723898"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\n\n blonde braid,\n(smooth skin:0.8),\n\nsex,\nblowjob,\npov,\nhigh angle,\nlying,\nbed,\ngrab,\nclosed eyes,\nlips,\npenis,\nthreesome,\nass,\n",
-        "denoise": 0.03,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_cartoon, \nBREAK,  1girl,  Lara croft, tomb raider, jungle, village, fucked by tribe men, interracial, closeup, spread legs, legs up, legs in v, eyes rolling back, wet pussy, sweat, blush,  smirk, sexy, hot, screaming, squirting, squirt, orgasm, shaking, pussy spread,1man, man fingering woman, fingerfuck, from side, man cock",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
-        "baseModel": "Illustrious",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/132060471895900625866008022545472957853.jpg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed), bestiality",
+        "resources": [],
+        "Created Date": "2024-07-06T1650:21.6245333Z",
+        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1723898
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1976924
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1082928
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1723898
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1976924
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 1082928
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:966483@1082928",
             "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 0.2,
+            "modelVersionId": 333587,
+            "modelVersionName": "Smooth 2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 438417,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "vovkkabanko",
-      "baseModel": "Illustrious",
+      "username": "Bancin",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1082928,
-        1723898,
-        1976924
+        9208,
+        244808,
+        290640,
+        333587,
+        382152,
+        398847,
+        436219,
+        438417
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "98|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=98%7C1744925392028"
+    "nextCursor": "99|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=99%7C1744925392028"
   }
 }
