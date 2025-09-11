@@ -1,66 +1,56 @@
 {
   "items": [
     {
-      "id": 57883162,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a27e6c9a-8b9f-4191-bd1e-d66ab4bdd2e7/width=1536/a27e6c9a-8b9f-4191-bd1e-d66ab4bdd2e7.jpeg",
-      "hash": "U7M6ep-=0}~B01aJ_4Sh00sl=YIU000000-:",
-      "width": 1536,
-      "height": 2040,
+      "id": 46044995,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99d1d1c8-e080-4ed8-b62c-060f0af9595a/width=1024/99d1d1c8-e080-4ed8-b62c-060f0af9595a.jpeg",
+      "hash": "UdL:v6E*?v%M9aIUxEWXNbRiWAWA~WxatRkC",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-02-15T02:09:36.574Z",
-      "postId": 12954694,
+      "createdAt": "2024-12-17T16:55:05.261Z",
+      "postId": 10422036,
       "stats": {
-        "cryCount": 204,
-        "laughCount": 468,
-        "likeCount": 3111,
+        "cryCount": 193,
+        "laughCount": 330,
+        "likeCount": 3240,
         "dislikeCount": 0,
-        "heartCount": 1706,
-        "commentCount": 0
+        "heartCount": 1725,
+        "commentCount": 3
       },
       "meta": {
-        "Eta": "0.67",
-        "RNG": "NV",
-        "ENSD": "31337",
-        "Size": "1024x1360",
-        "seed": 2829619350,
-        "Model": "WAI-Nsfw-Illustrious-11",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c"
-        },
-        "prompt": "pov,povhand\nholding calligraphy brush, writing on body,\n1girl, lying on wooden table, incense burner, \ntribal tattoo, \nspread legs,cum on stomach,lying,breast curtains,ofuda on nipples,topless,detached sleeves,sleeves past fingers,very long sleeves,upper body,stomach bulge,single hair bun,hair flower,convenient censoring,covered nipples,\n,masterpiece,best quality,amazing quality,",
-        "Version": "v1.10.1-73-g57e15ec9b",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "c3688ee04c",
-            "name": "WAI-Nsfw-Illustrious-11",
-            "type": "model"
-          }
+        "seed": 1410092212,
+        "vaes": [
+          "sdxl-vae-fp16-fix.safetensors"
         ],
-        "Model hash": "c3688ee04c",
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
-        "Denoising strength": "0.35",
-        "Discard penultimate sigma": "True"
+        "comfy": "{\"prompt\": {\"10001\": {\"class_type\": \"ECHOCheckpointLoaderSimple\", \"inputs\": {\"ckpt_name\": \"EMS-557253-EMS.safetensors\"}, \"_properties\": null}, \"10010\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10001\", 1], \"model\": [\"10001\", 0], \"text\": \"<lora:EMS-601680-EMS.safetensors:1.000000>\"}, \"_properties\": null}, \"10011\": {\"class_type\": \"VAELoader\", \"inputs\": {\"vae_name\": \"sdxl-vae-fp16-fix.safetensors\"}, \"_properties\": null}, \"10012\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"10010\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"10013\": {\"class_type\": \"EmptyLatentImage\", \"inputs\": {\"batch_size\": 2, \"height\": 1152, \"width\": 768}, \"_properties\": null}, \"10024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"1girl, Rei ayanami (evangelion), gothic, spiked choker, sexy, pose, crop tanktop, sweat, looking at viewer, large breasts, bedroom, closeup, face focus, black nail polish, perfect breasts, cowboy shot, upper body, msk12003, masterpiece, best quality, good quality, very aesthetic, newest\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"10025\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11001\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 1.0, \"ensd\": 31337, \"latent_image\": [\"10013\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 1410092212, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11008\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11001\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11011\": {\"class_type\": \"UpscaleModelLoader\", \"inputs\": {\"model_name\": \"RealESRGAN_x4plus_anime_6B.pth\"}, \"_properties\": null}, \"11012\": {\"class_type\": \"ImageUpscaleWithModel\", \"inputs\": {\"image\": [\"11008\", 0], \"upscale_model\": [\"11011\", 0]}, \"_properties\": null}, \"11013\": {\"class_type\": \"ImageScale\", \"inputs\": {\"crop\": \"disabled\", \"height\": 1536, \"image\": [\"11012\", 0], \"upscale_method\": \"nearest-exact\", \"width\": 1024}, \"_properties\": null}, \"11014\": {\"class_type\": \"VAEEncode\", \"inputs\": {\"pixels\": [\"11013\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11015\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 0.35, \"ensd\": 31337, \"latent_image\": [\"11014\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 1410092212, \"seed_mode\": \"A1111\", \"steps\": 20}, \"_properties\": null}, \"11016\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11015\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11018\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10012\", 0], \"model\": [\"10010\", 0], \"text\": \"ECHO_EMPTY\"}, \"_properties\": null}, \"11019\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"11018\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"11021\": {\"class_type\": \"YoloDetectorProvider\", \"inputs\": {\"max_faces\": 5, \"model_name\": \"bbox/face_yolov8n_v2.pt\"}, \"_properties\": null}, \"11022\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"1girl, Rei ayanami (evangelion), gothic, spiked choker, sexy, pose, crop tanktop, sweat, looking at viewer, large breasts, bedroom, closeup, face focus, black nail polish, perfect breasts, cowboy shot, upper body, msk12003, masterpiece, best quality, good quality, very aesthetic, newest\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11025\": {\"class_type\": \"FaceDetector_ad\", \"inputs\": {\"bbox_detector\": [\"11021\", 0], \"bbox_threshold\": 0.5, \"dilate_erode\": 4, \"image\": [\"11016\", 0], \"mask_merge_mode\": \"None\", \"x_offset\": 0, \"y_offset\": 0}, \"_properties\": null}, \"11026\": {\"class_type\": \"InpaintCrop_ad\", \"inputs\": {\"blend_pixels\": 16.0, \"blur_mask\": 4.0, \"context_expand_factor\": 1.0, \"context_expand_pixels\": 32, \"fill_mask_holes\": true, \"force_height\": 1152, \"force_width\": 768, \"images\": [\"11025\", 0], \"invert_mask\": false, \"masks\": [\"11025\", 1], \"mode\": \"forced size\", \"rescale_algorithm\": \"bicubic\"}, \"_properties\": null}, \"11027\": {\"class_type\": \"InpaintModelConditioning\", \"inputs\": {\"mask\": [\"11026\", 2], \"negative\": [\"11024\", 0], \"noise_mask\": true, \"pixels\": [\"11026\", 1], \"positive\": [\"11022\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11028\": {\"class_type\": \"DifferentialDiffusion\", \"inputs\": {\"model\": [\"11018\", 0]}, \"_properties\": null}, \"11029\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"control_after_generate\": \"fixed\", \"denoise\": 0.4, \"ensd\": 31337, \"latent_image\": [\"11027\", 2], \"model\": [\"11028\", 0], \"negative\": [\"11027\", 1], \"positive\": [\"11027\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 1410092212, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11030\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11029\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11031\": {\"class_type\": \"InpaintStitchOneImage_ad\", \"inputs\": {\"inpainted_images\": [\"11030\", 0], \"rescale_algorithm\": \"bicubic\", \"stitchs\": [\"11026\", 0]}, \"_properties\": null}, \"12004\": {\"class_type\": \"SaveImage\", \"inputs\": {\"filename_prefix\": \"802220584460189555\", \"images\": [\"11031\", 0]}, \"_properties\": null}}, \"workflow\": undefined}",
+        "steps": 25,
+        "width": 768,
+        "height": 1152,
+        "models": [],
+        "prompt": "1girl, Rei ayanami (evangelion), gothic, spiked choker, sexy, pose, crop tanktop, sweat, looking at viewer, large breasts, bedroom, closeup, face focus, black nail polish, perfect breasts, cowboy shot, upper body, msk12003, masterpiece, best quality, good quality, very aesthetic, newest",
+        "denoise": 1,
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "modelIds": [],
+        "scheduler": "normal",
+        "upscalers": [
+          "RealESRGAN_x4plus_anime_6B.pth"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames",
+        "additionalResources": []
       },
-      "username": "WAI0731",
+      "username": "Twisowk",
       "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1410435
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "116|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=116%7C1744925392028"
+    "nextCursor": "117|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=117%7C1744925392028"
   }
 }
