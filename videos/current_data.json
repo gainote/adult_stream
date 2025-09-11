@@ -1,57 +1,88 @@
 {
   "items": [
     {
-      "id": 12892149,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09d9d08a-2394-43be-b068-f7cb1737c7cf/width=1800/09d9d08a-2394-43be-b068-f7cb1737c7cf.jpeg",
-      "hash": "UDJ6?10101-:~VIUnhxuMbskJC-o9G-:X8M|",
-      "width": 1960,
-      "height": 3424,
+      "id": 95673361,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cad24a53-80e5-4efd-abc0-c0d6956b4870/width=832/cad24a53-80e5-4efd-abc0-c0d6956b4870.jpeg",
+      "hash": "U7DInu00JC?K00Xrr.Vp9D?K%4ogSI%4NDxw",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-05-18T22:30:04.434Z",
-      "postId": 2849628,
+      "createdAt": "2025-08-23T10:00:42.404Z",
+      "postId": 21221704,
       "stats": {
-        "cryCount": 179,
-        "laughCount": 440,
-        "likeCount": 2897,
+        "cryCount": 267,
+        "laughCount": 413,
+        "likeCount": 3227,
         "dislikeCount": 0,
-        "heartCount": 1993,
-        "commentCount": 4
+        "heartCount": 1602,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "768x1344",
-        "seed": 978018721793778,
-        "steps": 25,
-        "hashes": {
-          "model": "67ab2fd8ec",
-          "LORA:Styles\\Kenva": "189804f733",
-          "embed:negativeXL_D": "fff5d51ab6",
-          "LORA:Styles\\ExpressiveH": "7b53da0391",
-          "LORA:Styles\\Disney Princess": "80aa67913a",
-          "LORA:Styles\\Smooth Anime Style": "cb65a31c8b"
+        "Size": "832x1216",
+        "seed": 367270350,
+        "draft": false,
+        "extra": {
+          "remixOfId": 94839401
         },
-        "sampler": "Euler a Karras",
-        "cfgScale": 7,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, very aesthetic, realism, blond, oshino shinobu, cute petite, long blonde hair, vampire, yellow eyes, narrowed eyes,full face blush, ecstasy, bliss, small breasts, small butt, small hips, soft skin, deep skin, skindentation, bare breasts, small pink nipples, nude, steam breath, horny, \nnipples, navel, (perfect feets), toes, barefoot>,<looking at viewer, partered lips, blush ,female masturbation, huge object insertion, huge dildo grab, arched back>, <lying on side, spread legs, sexy pose>, <indoors, night, old house, detailed background>, <face out of frame, dynamic angle, (feet focus: 1.5)",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Model hash": "67ab2fd8ec",
-        "PonyV6XL Version": "ComfyUI"
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-20T1756:12.5381901Z",
+        "experimental": false,
+        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes, extra toes,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1375651
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1552087
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1020899
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1216138
+          }
+        ]
       },
-      "username": "ADPA",
-      "baseModel": "Pony",
+      "username": "Dju1992159",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        134583,
-        244808,
-        290640,
-        298238,
-        382152,
-        454703
+        1020899,
+        1216138,
+        1375651,
+        1552087,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "114|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=114%7C1744925392028"
+    "nextCursor": "115|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=115%7C1744925392028"
   }
 }
