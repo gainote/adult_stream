@@ -1,96 +1,88 @@
 {
   "items": [
     {
-      "id": 54090763,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e35de9a5-bd03-48b2-a3ca-a5f5811be585/width=1664/e35de9a5-bd03-48b2-a3ca-a5f5811be585.jpeg",
-      "hash": "U4DSXV;f7~02.PD$$$5600.S4o%0D#-o,B~8",
-      "width": 1664,
-      "height": 2432,
+      "id": 13807138,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2dd53bd-7a8c-4fe5-8279-0daf8022c2f2/width=832/e2dd53bd-7a8c-4fe5-8279-0daf8022c2f2.jpeg",
+      "hash": "UZHm_m~Vx[jYt8t7WBNGs:WVRkV[xuxts.M|",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-27T05:10:00.000Z",
-      "postId": 12135842,
+      "browsingLevel": 16,
+      "createdAt": "2024-05-28T05:09:01.292Z",
+      "postId": 3059926,
       "stats": {
-        "cryCount": 171,
-        "laughCount": 350,
-        "likeCount": 3513,
+        "cryCount": 170,
+        "laughCount": 438,
+        "likeCount": 3217,
         "dislikeCount": 0,
-        "heartCount": 1869,
-        "commentCount": 1
+        "heartCount": 2079,
+        "commentCount": 2
       },
       "meta": {
-        "seed": 606589809,
-        "vaes": [],
-        "extra": {},
-        "steps": 48,
-        "models": [],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, (age up:1.0) BREAK \n1girl , (blonde hair, messy bun, wispy bangs), (medium saggy breasts), freckles, cute face, [wrinkles, dimples],(realistic skin:1.3)\u2219(detailed skin:1.3)\u2219(skin texture:1.3)\u2219(perfect skin:1.3).\nleaning back,  in water ,in hotspring, rocks,naked, reflection in water.\n(looking at viewer), [coy smile].\n portrait , breast focus, side view, (closeup:1.2), dappled lighting. (bokeh, shallow depth of field).\n(cinematic lighting:1.3), (chromatic aberration), (4K image quality:1.3), (sharp detail:1.3), (highly realistic:1.3), (dim warm cinematic lighting:1.3)",
-        "sampler": "Euler a",
-        "cfgScale": 6.5,
-        "modelIds": [],
-        "workflow": "img2img-upscale",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, safe_neg, score_5, score_4, low quality, anime,monochrome, deformed, bad lips, bad mouth, pants, bald woman, bald girl, bald woman, bad anatomy, worst face, bad eyes, bad nose, duplicate, twins, mixed style, teeth worst quality, low quality, bad anatomy undetailed CGI render anti airbrushing undetailed eyes and thin and sketch and unclear, duplicate watermark, 3d, Two heads, doll, extra nipples, bad anatomy, blurry, duplicate, fuzzy, extra arms, extra fingers, poorly drawn hands disfigured, deformed, mutated, bad hands, extra hands, extra fingers, too many fingers, fused fingers, bad arm, distorted arms, extra arms, disembodied leg, extra nipples, detached arms, inverted hand, disembodied limb, oversized head, duplicate, ugly, tanlines, rays",
+        "Size": "832x1216",
+        "seed": 1894973517,
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_8_up, moonrays,, moon light hitting face, lit from front, starry sky, city night skyline in the background, chair, g0thicPXL, 2girl,(1girl ducking another girl with strap-on, strap-on sex, lesbian sex, orgasm)), (transparent white top), femdom,  cunilingus, purple pink hair, single braid hair, long hair, brown eyes, cat ears, cute face, (freckles:1.2), ((blush)) highly detailed face, (hard tits), squirting, (blue frilly skirt), high heels, small breasts, freckled breast, perky bust, youthful tits, petite Body, petite figure, slender body shape, perfect slender legs, sweating, summer heat, heat effects, moon rays, sharp outlining, high contrast, vibrant colors,BREAK, standing against wall, getting fucked, legs up, summer night",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-05-27T2339:57.6882782Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender",
         "civitaiResources": [
           {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 1308507
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1308507
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
           },
           {
-            "weight": 0.95,
-            "modelVersionId": 1260971
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "weight": 2.7,
-            "modelVersionId": 1253021
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
-            "weight": 1.55,
-            "modelVersionId": 1242203
-          },
-          {
-            "weight": -0.5,
-            "modelVersionId": 1277544
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "0dang",
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1242203,
-        1253021,
-        1260971,
-        1277544,
-        1308507
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "92|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=92%7C1744925392028"
+    "nextCursor": "93|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=93%7C1744925392028"
   }
 }
