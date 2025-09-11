@@ -1,38 +1,63 @@
 {
   "items": [
     {
-      "id": 91336808,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56cfe415-ed1b-46c5-baff-2261d63d7d88/width=832/56cfe415-ed1b-46c5-baff-2261d63d7d88.jpeg",
-      "hash": "UPOyYG%2?w%2^dbFyDbIyZj]t9bH?vjuI@oL",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 97075879,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2dde8e85-58ca-45aa-a015-3823a3d8a56f/width=1280/2dde8e85-58ca-45aa-a015-3823a3d8a56f.jpeg",
+      "hash": "UGLDfN~qx]NG0gWBELSh01t7xa-p?Hxv9Fn$",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-30T07:31:18.433Z",
-      "postId": 20260799,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-30T20:31:35.693Z",
+      "postId": 21534276,
       "stats": {
-        "cryCount": 296,
-        "laughCount": 544,
-        "likeCount": 3767,
+        "cryCount": 244,
+        "laughCount": 452,
+        "likeCount": 3755,
         "dislikeCount": 0,
-        "heartCount": 1589,
-        "commentCount": 1
+        "heartCount": 1735,
+        "commentCount": 2
       },
-      "meta": null,
-      "username": "Serenity8",
+      "meta": {
+        "Size": "832x1216",
+        "steps": 38,
+        "prompt": "1girl, grey hair, short hair, forehead, tinted eyewear, ahoge, pointy ears, bend one knee,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-08-28T2230:13.2944116Z",
+        "negativePrompt": "translucent glasses, see-through, Simple background, extra sunglasses, worst quality, bad quality, low quality, watermark,chinese text,korean text,signature, blurry, worst quality, low quality, blurry, extra limbs, fused, copyright name, patreon username, patreon logo, twitter username, extra digits, sketch, web_address, head out of frame,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 2010753
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 2127949
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1421404
+          }
+        ]
+      },
+      "username": "yetanotheraccount_xxx",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1429512,
-        1761560,
-        1949794,
-        2060829
+        1421404,
+        2010753,
+        2127949
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "71|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=71%7C1744925392028"
+    "nextCursor": "72|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=72%7C1744925392028"
   }
 }
