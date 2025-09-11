@@ -1,117 +1,95 @@
 {
   "items": [
     {
-      "id": 18697711,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be36f594-6190-467e-a4fa-858aa40064b0/width=832/be36f594-6190-467e-a4fa-858aa40064b0.jpeg",
-      "hash": "U6EAv20j9[w40g5m}?Iq10-SENt60$^hNLtO",
-      "width": 832,
-      "height": 1216,
+      "id": 97528635,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b8af7802-7995-44c4-a153-fc60eb301e72/width=768/b8af7802-7995-44c4-a153-fc60eb301e72.jpeg",
+      "hash": "UKE{LZ~p%#%Nx]xu-;%gXn%MxubbD%NGIUWB",
+      "width": 768,
+      "height": 1152,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-06T15:34:48.850Z",
-      "postId": 4176053,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-02T09:17:33.419Z",
+      "postId": 21637429,
       "stats": {
-        "cryCount": 148,
-        "laughCount": 425,
-        "likeCount": 3491,
+        "cryCount": 228,
+        "laughCount": 407,
+        "likeCount": 3908,
         "dislikeCount": 0,
-        "heartCount": 2204,
-        "commentCount": 1
+        "heartCount": 1675,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 216034423,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, 1girl, solo, native, braided hair, skimpy clothing, tribal clothing, tan skin, ultra detailed,  beautiful fit girl, dark hair, loincloth, small perky breasts, navel, topless, bare shoulders, freckles, blue tattoos, 1boy, (2 girls), tan skin, ((ffm)), (threesome), sex, (dark hair), (red hair), hair in messy braid, long hair, (small perky breasts;1.3), narrow hips, earrings, breasts exposed,  high res image, masterpiece, tribal, tribe background, ritual, native tribe, campfire, 1guy, small man, small penis:1,2, tiny dick, (guy fucking one girl in pussy while other girl watches), vaginal sex, penis in pussy,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5.5,
+        "Model": "urn:air:sdxl:checkpoint:civitai:443821@2071650",
+        "extra": {
+          "remixOfId": 97349776
+        },
+        "steps": 34,
+        "width": 768,
+        "height": 1152,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:443821@2071650"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, realistic, low light, , Expressiveh, reddit, high quality, traditional media, amateur, real life photo, raw, film grain, igbaddie, real_beauty, 1girl, rsgrl, russian girl, blonde hair, cute russian girl, solo, young, 20yo, pale skin, white, slavic, ukrainain, flat chest, small breasts, naked, wide hips, thin waist, black hair, straight thin hair, lips, makeup, eyeliner, reflective, shiny skin, climbing out of pool ,light skin, hair strands, dynamic angle, shaved pussy, pussy visible, backyard, deep south , pool, posh,",
+        "denoise": 0.6,
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-06T1506:55.6158577Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-facefix",
+        "baseModel": "Pony",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/Z942RBW9ZY64ENVEV6224BRJ50?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQEHNSsEAYAz3M8F3auV060GLg4k97uR4jYvCtYDgoLivanDnztNrdfoccucyGo-GJKaY3eEW5-06rvXNq8tKJ0WPRA-kBK7hWSPnBcrla_dA4psEVOe9EDAfEpRlrWphvgsMNoDdtITwrmFNLUs8EcGQXWw88pWxv4q6BStpVL7bvIgmUTssL8uv_-BIK2CcxsknSnCJ9V6S88c66S-J6RuKiw7_SLJzAaWLgvzEwM01P8wfxfDRomH30r-Krk6OxM3Y8gAzmwU55CLUhKYBRk&exp=2026-08-30T14:27:14.7169158Z",
+          "width": 768,
+          "height": 1152
+        },
+        "experimental": false,
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), tanned skin, car, old, milf,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 1.25,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "modelVersionId": 2071650
           },
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "modelVersionId": 382152
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 393998,
-            "modelVersionName": "pony"
+            "weight": 0.3,
+            "modelVersionId": 534756
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.7,
+            "modelVersionId": 556208
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.6,
+            "modelVersionId": 596040
           }
         ]
       },
-      "username": null,
+      "username": "Cumfetishism1",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        135867,
-        244808,
-        290640,
         382152,
-        393998,
-        398847,
-        436219
+        534756,
+        556208,
+        596040,
+        2071650
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "67|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=67%7C1744925392028"
+    "nextCursor": "68|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=68%7C1744925392028"
   }
 }
