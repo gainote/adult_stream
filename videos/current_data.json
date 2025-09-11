@@ -1,98 +1,71 @@
 {
   "items": [
     {
-      "id": 89779440,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5cc6bb8f-faeb-4a81-8559-e5c77f1bdf76/width=832/5cc6bb8f-faeb-4a81-8559-e5c77f1bdf76.jpeg",
-      "hash": "UOIOFS_3_4R*0L%gRi%3=|Rj4.oe_3xu-pIo",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 58477785,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7673089f-d7e2-458c-b48d-a318fc0dc6a9/width=896/7673089f-d7e2-458c-b48d-a318fc0dc6a9.jpeg",
+      "hash": "UQOC{gCA15O[%LIp-:bbNtxYM|NH%MNGf+t7",
+      "width": 896,
+      "height": 1152,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-22T11:22:29.424Z",
-      "postId": 19914420,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-19T00:25:01.279Z",
+      "postId": 13084582,
       "stats": {
-        "cryCount": 165,
-        "laughCount": 375,
-        "likeCount": 3362,
+        "cryCount": 184,
+        "laughCount": 525,
+        "likeCount": 3157,
         "dislikeCount": 0,
-        "heartCount": 1576,
-        "commentCount": 1
+        "heartCount": 1602,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1553863868,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "realistic,HassaKu_illu, artist:moriimee, 748cmstyle, jsyu_style, 2025. 07, \n(1girl, solo, masterpiece, best quality, amazing quality, absurdres, newest),  \ndynamic view, black hair, black eyes, medium hair, high bun, perfect slender body, pointy ears, large breasts, closed mouth, thick lips, bangs, \nincredibly sexy, sexy pose, pose, tattoos, black Qipao, laying, on back, below view, eyes wide, looking at viewer, hips, together knees, hands behind head, white flat background",
-        "process": "txt2img",
+        "Size": "448x576",
+        "seed": 2716514132,
+        "Model": "waiNSFWIllustrious_v100",
+        "steps": 25,
+        "hashes": {
+          "model": "7e87327f89",
+          "lora:kei-karuizawa-anime-s2-ponyxl-lora-nochekaiser": "cb2c3fa687"
+        },
+        "prompt": "masterpiece, best quality, amazing quality,, <lora:kei-karuizawa-anime-s2-ponyxl-lora-nochekaiser:1>, kei karuizawa, long hair, bangs, blunt bangs, purple eyes, blonde hair, hair ornament, ponytail, scrunchie, blue scrunchie, medium breasts, anime screencap, <lora:penis-on-shoulder-illustriousxl-lora-nochekaiser:1>, penis on shoulder, penis over shoulder, hetero, testicles, nervous, huge penis, penis awe, looking at penis, completely nude, navel, nipples, on bed, bed room, hand on another's head,, ,",
+        "Version": "f0.0.15v1.8.0rc-1.7.0",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-22T1101:34.9777829Z",
-        "experimental": false,
-        "negativePrompt": "source_furry, source_Futanari, censored, worst quality, low quality, hands on own face, hands on own cheeks, ugly, deformed fingers, extra fingers, fused fingers, too many fingers, grainy, Sweat, facial mark, tears of blood, tear drop tattoo, tear tattoo",
-        "civitaiResources": [
+        "cfgScale": 7,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
+            "name": "kei-karuizawa-anime-s2-ponyxl-lora-nochekaiser",
+            "type": "lora",
+            "weight": 1
           },
           {
+            "name": "penis-on-shoulder-illustriousxl-lora-nochekaiser",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1809575,
-            "modelVersionName": "v2.4I Illustrious 5/18"
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 1784760,
-            "modelVersionName": "Smooth Booster v3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1580764,
-            "modelVersionName": "v1.0"
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "7e87327f89",
+        "Hires upscale": "2",
+        "Hires upscaler": "Latent",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censored,",
+        "Denoising strength": "0.7"
       },
-      "username": "jsyu",
+      "username": "nochekaiser881",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1056404,
-        1244133,
-        1580764,
-        1761560,
-        1784760,
-        1809575
+        422352,
+        1367422
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "118|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=118%7C1744925392028"
+    "nextCursor": "119|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=119%7C1744925392028"
   }
 }
