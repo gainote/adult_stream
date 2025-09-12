@@ -1,112 +1,92 @@
 {
   "items": [
     {
-      "id": 35858897,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/321f1baa-443b-4df4-b305-ac61f4932d33/width=832/321f1baa-443b-4df4-b305-ac61f4932d33.jpeg",
-      "hash": "U4C$1P01009H00~Art^%00?F=|xa~U0f-oM}",
+      "id": 91163810,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/13a78531-fa78-48ff-9888-36b8313300f5/width=832/13a78531-fa78-48ff-9888-36b8313300f5.jpeg",
+      "hash": "UGF~KqN254%KVCRQFzR.16bD#SNb~pt7bbn#",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-10-22T01:00:00.000Z",
-      "postId": 8193652,
+      "createdAt": "2025-07-29T10:46:21.550Z",
+      "postId": 20219797,
       "stats": {
-        "cryCount": 203,
-        "laughCount": 379,
-        "likeCount": 2868,
+        "cryCount": 260,
+        "laughCount": 439,
+        "likeCount": 3152,
         "dislikeCount": 0,
-        "heartCount": 1679,
-        "commentCount": 5
+        "heartCount": 1256,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3550729709,
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_8_up, 1girl, solo, super detailed, super high resolution, fFaceDetail, 18 year old, sexy, cute goth girl, dark red eyes, (freckles, (body freckles:1.1)), black medium messy hair, (big breasts:1.1), slim dangling earrings, pierced nipple, nipple bulge, middle parted hair, cute smile, round glasses, (half closed eyes:1.2), (sleepy:1.1), tired, modern house background, at night, no lights, mesh hoses, slim waist, sexy wide hips, view from behind, standing, from below, from behind, oiled skin, shiny skin, black thong, micro bikini, big areolae, dark pink areolae, areola bigger than bra, ripping clothes, ripping own clothes, destroying own clothes, white transparent tank top, ripping clothes, ripped clothes, stripping, ripped clothes,",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "seed": 1526242556,
+        "draft": false,
+        "extra": {
+          "remixOfId": 11550387
+        },
+        "steps": 38,
+        "width": 832,
+        "height": 1216,
+        "prompt": "one pretty european girl, solo, blonde hair, long hair, blue eyes, parted lips, curvy, big tits, sagging breasts, cleavage, necklace, jewelry, tank top, (looking at viewer), bokeh, upper body, looking at viewer, film grain, cowboy shot, epiCPhoto, <lora:pytorch_lora_weights:0.5>, <lora:breastsizeslideroffset:0.2>, <lora:picxer_real:0.7>, <lora:InstantPhotoX3:0.4>, <lora:more_details:0.6>",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-21T2352:08.3245443Z",
-        "negativePrompt": "score_4, score_5, score_6, ,extra fingers, distorted hands, distorted fingers, muscular, low quality, lowres, bad anatomy, worst quality, simple background, censored, text, signature, lineless, watermark,signature, logo, FastNegativeEmbedding, low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old lady, sketch, black and white, doujinshi, exaggerated anatomy, penis growing from breasts, red hairs, hands joining into one hand, upside down,",
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [
+          {
+            "name": "pytorch_lora_weights",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "name": "breastsizeslideroffset",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "name": "picxer_real",
+            "type": "lora",
+            "weight": 0.7
+          },
+          {
+            "name": "InstantPhotoX3",
+            "type": "lora",
+            "weight": 0.4
+          },
+          {
+            "name": "more_details",
+            "type": "lora",
+            "weight": 0.6
+          }
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-29T0154:01.2244690Z",
+        "experimental": false,
+        "negativePrompt": "BadDream, worst quality, low quality, normal quality, monochrome, grayscale",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 125014,
-            "modelVersionName": "Female Face Detail"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 330620,
-            "modelVersionName": "1.1 - 000014"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "modelVersionId": 1957537,
+            "modelVersionName": "v12.5"
           }
         ]
       },
-      "username": "SirSteven",
+      "username": "capirocho",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        125014,
-        244808,
-        290640,
-        330620,
-        382152,
-        398847,
-        436219
+        1957537
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "142|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=142%7C1744925392028"
+    "nextCursor": "143|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=143%7C1744925392028"
   }
 }
