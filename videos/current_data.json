@@ -1,98 +1,35 @@
 {
   "items": [
     {
-      "id": 89779431,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cbfac091-4f7c-4150-9753-40ca886c9cf4/width=832/cbfac091-4f7c-4150-9753-40ca886c9cf4.jpeg",
-      "hash": "U8C~rAxa00?b00~C^+4.4.9aIoE1-p9aE1%1",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 58027594,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3562a2fe-722a-4b28-812c-7a8858d4a3db/width=1800/3562a2fe-722a-4b28-812c-7a8858d4a3db.jpeg",
+      "hash": "UMJk1Koz?^xu%gt7ozofNIWBRje.oLV@oeW=",
+      "width": 3072,
+      "height": 5376,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-22T11:21:08.826Z",
-      "postId": 19914420,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-26T00:09:05.841Z",
+      "postId": 12986810,
       "stats": {
-        "cryCount": 160,
-        "laughCount": 361,
-        "likeCount": 3132,
+        "cryCount": 199,
+        "laughCount": 338,
+        "likeCount": 3036,
         "dislikeCount": 0,
-        "heartCount": 1398,
-        "commentCount": 1
+        "heartCount": 1474,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 671611712,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "realistic,HassaKu_illu, artist:moriimee, 748cmstyle, jsyu_style, 2025. 07, \n(1girl, solo, masterpiece, best quality, amazing quality, absurdres, newest),  \nblack hair, black eyes, long hair, dreadlocks, slim fit body, medium breasts, perky breasts, thick lips, incredibly sexy, arm tattoos, cowboy shot, closed eyes, closed mouth, black panties, black bra, dutch angle, standing, side view, \nsimple black background",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-22T1112:03.6589320Z",
-        "experimental": false,
-        "negativePrompt": "source_furry, source_Futanari, censored, worst quality, low quality, hands on own face, hands on own cheeks, ugly, deformed fingers, extra fingers, fused fingers, too many fingers, grainy, Sweat, facial mark, tears of blood, tear drop tattoo, tear tattoo",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1809575,
-            "modelVersionName": "v2.4I Illustrious 5/18"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 1784760,
-            "modelVersionName": "Smooth Booster v3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1580764,
-            "modelVersionName": "v1.0"
-          }
-        ]
+        "prompt": "1girl"
       },
-      "username": "jsyu",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1056404,
-        1244133,
-        1580764,
-        1761560,
-        1784760,
-        1809575
-      ]
+      "username": "Tozi_White",
+      "baseModel": "Flux.1 D",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "149|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=149%7C1744925392028"
+    "nextCursor": "150|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=150%7C1744925392028"
   }
 }
