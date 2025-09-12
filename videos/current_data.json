@@ -1,35 +1,77 @@
 {
   "items": [
     {
-      "id": 51097366,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8d55846d-813d-4793-8c12-b189b20e9ab5/width=1800/8d55846d-813d-4793-8c12-b189b20e9ab5.jpeg",
-      "hash": "UDGH*x?c0Ls=0g%2-o-V4.VtRi-o~V%LRO9F",
-      "width": 3072,
-      "height": 5376,
-      "nsfwLevel": "X",
+      "id": 95304710,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09722c18-da1a-4192-9f51-abfad26cec05/width=1248/09722c18-da1a-4192-9f51-abfad26cec05.jpeg",
+      "hash": "UbNA6iwv_NxuNu.8xuV?4.RkxZt7t7xaofRj",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-26T14:47:08.662Z",
-      "postId": 11493406,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-19T23:21:24.359Z",
+      "postId": 21139516,
       "stats": {
-        "cryCount": 213,
-        "laughCount": 334,
-        "likeCount": 3129,
+        "cryCount": 208,
+        "laughCount": 310,
+        "likeCount": 3106,
         "dislikeCount": 0,
-        "heartCount": 1539,
-        "commentCount": 1
+        "heartCount": 1588,
+        "commentCount": 2
       },
       "meta": {
-        "prompt": "1girl"
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 804088858,
+        "Model": "prefect_illustrious_xl_1.5.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "2bb6bbee58",
+          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, 1girl, small breasts, black hair, short hair, red tank top, nipple slip, simple background, leaning forward, grey background, no bra, nipples, areola slip, looking at viewer, loose clothes, brown eyes, loose shirt, hand on own hip, downblouse, bare shoulders, denim, collarbone, pants, :o, parted lips, from side, upper body",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
+          {
+            "hash": "78d4ccffb16c",
+            "name": "loose_tank_top_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "2bb6bbee58",
+            "name": "prefect_illustrious_xl_1.5.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2bb6bbee58",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Tozi_White",
+      "username": "Goofy_Ai",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        1731647
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "133|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=133%7C1744925392028"
+    "nextCursor": "134|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=134%7C1744925392028"
   }
 }
