@@ -1,36 +1,36 @@
 {
   "items": [
     {
-      "id": 16272537,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae16b983-5a06-43d5-8f5d-aa3a7ad1d79e/width=832/ae16b983-5a06-43d5-8f5d-aa3a7ad1d79e.jpeg",
-      "hash": "UED99h?H?v9a?G~W-p-:EMozRkt7NH9aNHE1",
+      "id": 37000207,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8502af9-7ac1-4712-949e-2a8d8fdf415f/width=832/e8502af9-7ac1-4712-949e-2a8d8fdf415f.jpeg",
+      "hash": "UEHco,F{KP}W02smr=EjKinNtRjs=wtRRPW;",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-06-18T20:16:01.043Z",
-      "postId": 3642117,
+      "createdAt": "2024-10-28T09:00:58.991Z",
+      "postId": 8449380,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 358,
-        "likeCount": 2748,
+        "cryCount": 158,
+        "laughCount": 354,
+        "likeCount": 2850,
         "dislikeCount": 0,
-        "heartCount": 1769,
-        "commentCount": 2
+        "heartCount": 1639,
+        "commentCount": 11
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2113121892,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, kawai girl , cute face, shy, nose blush, mouth taped, mouth covered , big breast ,  nipples , topless , hands raised , seat belt bondage , sitting in car seat, arm raised, boob focus , car , side portrait , boob focus , pov , breast grab , breast fondle , inside car",
-        "sampler": "Euler a",
+        "seed": 3763129541,
+        "steps": 19,
+        "prompt": "Expressiveh, score_9_up, score_8_up, score_7_up, score_6_up, lesbians, 2girl, female, Raven and Starfire (dc), closeup, laying in bed, pussy fingering, mutual masturbation, very intimate, pussy mound, curvaceous, thick, average_breasts, wide hips, seductive, cute, slutty, moaning, partially nude female, intense pleasure, sexy, sweat, expressive eyes, amazing, very aesthetic, bedroom, great lighting, highly detailed",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 6,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-06-17T2011:52.4771729Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, pikachu tail",
+        "Created Date": "2024-10-26T0837:03.8465129Z",
+        "negativePrompt": "extra fingers, easynegative, awful, worst quality, blurry, score_5, score_4, extra fingers, extra limbs, deformed, malformed, ugly, writing, scribbles, (watermark), signature, sign, completely nude",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -46,36 +46,60 @@
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.75,
+            "weight": 0.5,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 910261,
+            "modelVersionName": "Dappled Light"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 407532,
+            "modelVersionName": "v0.2 For SDXL"
+          },
+          {
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "dororooo",
+      "username": "cellarkellar103174",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        135867,
+        60938,
         290640,
-        398847,
-        436219
+        382152,
+        407532,
+        436219,
+        910261
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "154|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=154%7C1744925392028"
+    "nextCursor": "155|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=155%7C1744925392028"
   }
 }
