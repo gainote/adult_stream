@@ -1,87 +1,77 @@
 {
   "items": [
     {
-      "id": 92417823,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a0e3931-a943-4230-980e-2c0d2f1ce87f/width=1024/9a0e3931-a943-4230-980e-2c0d2f1ce87f.jpeg",
-      "hash": "U7LWL%00pvWB00010|M{vN_2J8RPtA~V^Ot8",
-      "width": 1024,
-      "height": 1024,
+      "id": 11198365,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d38d5196-6a09-4413-9245-ab57100144c5/width=832/d38d5196-6a09-4413-9245-ab57100144c5.jpeg",
+      "hash": "UCKTJP?^0z0fIUM{0e9F5lxuM{xaInn$-pM|",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-08-05T06:51:54.292Z",
-      "postId": 20501182,
+      "createdAt": "2024-04-30T22:49:19.891Z",
+      "postId": 2459348,
       "stats": {
-        "cryCount": 280,
-        "laughCount": 438,
-        "likeCount": 2917,
+        "cryCount": 149,
+        "laughCount": 377,
+        "likeCount": 2509,
         "dislikeCount": 0,
-        "heartCount": 1271,
-        "commentCount": 0
+        "heartCount": 1864,
+        "commentCount": 4
       },
       "meta": {
-        "Size": "1024x1024",
-        "seed": 1894522494,
-        "draft": false,
-        "extra": {
-          "remixOfId": 84824027
-        },
-        "steps": 30,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "(masterpiece, detailed:1.2), best quality, detailed eyes, 1 girl, solo, indoors, classroom natsuki, pink hair, short hair, hair ornament, two side up, hairclip, pink eyes, x hair ornament, blazer, brown sweater, collared shirt, neck ribbon, blue skirt, thick thighs, blaash, large breasts, nipples, pussy, ankle grab,sex,vaginal,girl on top,pov,motion lines, amazon position",
-        "process": "txt2img",
+        "Size": "832x1216",
+        "seed": 1005969451,
+        "steps": 60,
+        "prompt": "score_9, score_8_up, score_8, raw, realistic, solo, 1girl, Elsa, pretty 20 year old girl, wearing keyhole super croptop, (oiled:1.8) high socks, pastel colored panties with lace, 2 braids, white hair, leash, blowing cumbubbles, (large bubble of saliva on lips:1.2), pink lips, small breasts, brown eyes, exposed breasts, petite body, flat chest, flared lashes, dynamic sexy pose, small perfect round breasts, petite body, arched neck, (man pulling braids:1.2), showing lots of skin, very little cloths, skimpy clothes, glancing sideways, large penis in right of frame, (large erect penis infront of face), fellatio, deep throat, wide open mouth, penis deep in throat, face fuck, violent. (wide open mouth:1.2), gaping mouth, tongue reaching out, (sticky threads:1.4), submissive look on face, furrowed brow, very sexy, very cute, shiny skin, eager moaning scared look, struggling, runny mascara, (dripping cum from face:1.2), violent sex, slobber, cumbubble, (cheekbulge:1.2), penis inside mouth, fantastical, (massive cock:1.9) huge penis.  size difference, rough oral sex, epic, wide eyes, (dripping stringy saliva:1.3), throat, looking at viewer, salivating, cum overflow, extreme amount of cum, excessive drooling, full body shot, crying tears, extreme amount of dripping cum, score_7_up, 8k, [realistic eyes:5], very detailed, high detailed texture, depth of field, low light, cinematic illumination, volumetric lighting, rating_questionable\nin a dark room",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-07-30T1637:25.1626928Z",
-        "experimental": false,
-        "negativePrompt": ":bad quality,worst quality,worst detail,sketch,censor,text, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, lowres, (worst quality, bad quality:1.2), bad anatomy, jpeg artifacts, signature, watermark, username, signature, simple background, conjoined, multiple penises, ((3d)), no pupils, no irises",
+        "negativePrompt": "score_6, score_5, score_4, pony, muscular, censored,  chibi, 3d, monochrome, elven ears",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
+            "modelVersionId": 399640
           },
           {
-            "type": "lora",
+            "type": "ImageJobNetworkParams { Strength = 0.3, TriggerWord = , Type = lora }",
+            "weight": 0.3,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "ImageJobNetworkParams { Strength = 0.91, TriggerWord = , Type = lora }",
+            "weight": 0.91,
+            "modelVersionId": 285211
+          },
+          {
+            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
             "weight": 1,
-            "modelVersionId": 1040693,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 382152
           },
           {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 1149560,
-            "modelVersionName": "v2.0"
+            "type": "embed",
+            "modelVersionId": 250708
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1488233,
-            "modelVersionName": "Illustrious v1.0"
+            "type": "embed",
+            "modelVersionId": 250712
           }
         ]
       },
-      "username": "epiccool",
-      "baseModel": "Illustrious",
+      "username": null,
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1040693,
-        1149560,
-        1410435,
-        1488233
+        244808,
+        285211,
+        382152,
+        399640
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "171|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=171%7C1744925392028"
+    "nextCursor": "172|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=172%7C1744925392028"
   }
 }
