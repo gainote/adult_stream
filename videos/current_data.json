@@ -1,96 +1,163 @@
 {
   "items": [
     {
-      "id": 97190914,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c0e3ed5-5b64-4f98-96f1-f563633fcf0f/width=1520/2c0e3ed5-5b64-4f98-96f1-f563633fcf0f.jpeg",
-      "hash": "UIIhBB01?^xI.9acx^aeI;s.?aD%~WI;x]-;",
-      "width": 1520,
-      "height": 1952,
+      "id": 86476479,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa844118-7d60-4a5f-9fbb-d967ce0c0b16/width=1280/aa844118-7d60-4a5f-9fbb-d967ce0c0b16.jpeg",
+      "hash": "UUOy-Cof~q%2?Ft7D*Rj?bayD%bHRQRjW?t7",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-31T10:36:20.432Z",
-      "postId": 21560511,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-12T15:58:00.000Z",
+      "postId": 19188307,
       "stats": {
-        "cryCount": 307,
-        "laughCount": 384,
-        "likeCount": 2849,
+        "cryCount": 219,
+        "laughCount": 394,
+        "likeCount": 2888,
         "dislikeCount": 0,
-        "heartCount": 1354,
-        "commentCount": 3
+        "heartCount": 1384,
+        "commentCount": 2
       },
       "meta": {
-        "TI": {},
-        "Size": "1520x1952",
-        "seed": 1581692902,
-        "Model": "Illv10FSP",
-        "steps": 40,
-        "hashes": {
-          "model": "d84b70d3d5",
-          "lora:MAX NSFW": "b1f4be4a252e",
-          "lora:Real hair for 2D": "69b5f30b1784",
-          "lora:USNR_STYLE_ILL_V1_lokr3": "44586d05878a",
-          "lora:Ultra Lora Detailer and Glow": "8309617bd8f4",
-          "lora:USA37107692-illustriousXL_v01_V2-CAME": "f532ec9d1c73"
+        "seed": 962388353,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {
+          "remixOfId": 78414148
         },
-        "prompt": "<lora:MAX NSFW:1>,1nsfwmaxunlocker,masterpiece,best quality,ultra-HD,volumetric lighting,masterpiece,best quality,absurdres,lowlighting,best quality,realistic body,(impressionism:1.5),volumetric lighting,\nmasterpiece,highres,absurdres,(1girl, blond hair, inverted pixie cut, loose oversized athletic shirt, low cut cargo pants, combat boots, big teardrop tits, petite, stiff nipples, covered nipples, ,small ass),sexy pose,tight clothes,bellybutton,standing,arms above head,far shot,zoomed out,eye contact,arms tied,alien monster,monster penis,(gigantic monster cock:1.4),(giant penis:1.2),scared expression,admiring penis)) (sex,penetrated, sex,,spread legs,head down,,anal sex, ,violent sex,saliva),(savage sex,moan,orgasm,gritted teeth),(hand on neck,strangling),anal creampie,cum oozing down cock,cum oozing down balls,wet pussy,<lora:USA37107692-illustriousXL_v01_V2-CAME:0.2>,USA3710,<lora:USNR_STYLE_ILL_V1_lokr3:0.2>,usnr,<lora:Ultra Lora Detailer and Glow:0.2>,<lora:Real hair for 2D:0.2>,",
-        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 3,
-        "resources": [
+        "steps": 50,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "score_9_up, score_8_up, score_7_up, score_9_up, score_8_up, score_7_up, best quality, ultra highres, Casual, Expressiveh, g0thicPXL, fFaceDetail, (plain white background: 1.4)\ndynamic lighting, PLRD, Polaroid photo, authentic Polaroid texture, retro aesthetic, (bright lighting: 1.6)\nBREAK\n1 woman, (black square sunglasses: 1.5) (she's bending over: 1.5) (skirt barely covering top of ass: 1.7) (smirk: .6) middle eastern woman, (ass focus: 1.6)  (takes off panties: 1.2), (girl pulling down underwear to knees: 1.2), clothes pulled down, black hair, (bangs: 1.3),  28 years old, (small breasts), breasts saggy breasts,  (pussy exposed: 1.4) trimmed pubic hair,  perfect lighting, realistic skin, close up,",
+        "sampler": "Euler a",
+        "cfgScale": 10,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality,censored, deformed, bad hand, blurry, (oversized white t-shirt), (weird fingers: 1.3) (long fingers: 1.3), (young: 1.5) (teen: 1.5), pubic hair",
+        "civitaiResources": [
           {
-            "hash": "f532ec9d1c73",
-            "name": "USA37107692-illustriousXL_v01_V2-CAME",
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.35,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 0.55,
+            "modelVersionId": 1280571
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
             "type": "lora",
-            "weight": 0.2
+            "weight": 0.75,
+            "modelVersionId": 244808
           },
           {
-            "hash": "44586d05878a",
-            "name": "USNR_STYLE_ILL_V1_lokr3",
             "type": "lora",
-            "weight": 0.2
+            "weight": 0.45,
+            "modelVersionId": 382152
           },
           {
-            "hash": "b1f4be4a252e",
-            "name": "MAX NSFW",
-            "type": "lora"
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847
           },
           {
-            "hash": "8309617bd8f4",
-            "name": "Ultra Lora Detailer and Glow",
-            "type": "lora"
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219
           },
           {
-            "hash": "69b5f30b1784",
-            "name": "Real hair for 2D",
-            "type": "lora"
-          },
-          {
-            "hash": "d84b70d3d5",
-            "name": "Illv10FSP",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1280571
           }
         ],
-        "Model hash": "d84b70d3d5",
-        "Schedule type": "Karras",
-        "negativePrompt": "easynegative,lazyneg_1760455,text,",
-        "Denoising strength": "0.3"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.75,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888231@398847",
+            "type": "lora",
+            "strength": 0.35,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1138712@1280571",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Xmutsix",
-      "baseModel": "Illustrious",
+      "username": "lemonsandlimes",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1552087,
-        2087008,
-        2101298,
-        2141638,
-        2144812,
-        2159140
+        9208,
+        164821,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219,
+        1280571
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "173|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=173%7C1744925392028"
+    "nextCursor": "174|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=174%7C1744925392028"
   }
 }
