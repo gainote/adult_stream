@@ -1,105 +1,76 @@
 {
   "items": [
     {
-      "id": 37000207,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8502af9-7ac1-4712-949e-2a8d8fdf415f/width=832/e8502af9-7ac1-4712-949e-2a8d8fdf415f.jpeg",
-      "hash": "UEHco,F{KP}W02smr=EjKinNtRjs=wtRRPW;",
-      "width": 832,
-      "height": 1216,
+      "id": 28771546,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/20886f99-a833-49a2-910b-a81aeccef887/width=1248/20886f99-a833-49a2-910b-a81aeccef887.jpeg",
+      "hash": "UGJ%a?_McEJ:D,Egr;IV4n58r=jDRj4oNGs:",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-10-28T09:00:58.991Z",
-      "postId": 8449380,
+      "createdAt": "2024-09-11T02:33:27.802Z",
+      "postId": 6436447,
       "stats": {
-        "cryCount": 158,
-        "laughCount": 354,
-        "likeCount": 2850,
+        "cryCount": 142,
+        "laughCount": 340,
+        "likeCount": 2838,
         "dislikeCount": 0,
-        "heartCount": 1639,
-        "commentCount": 11
+        "heartCount": 1668,
+        "commentCount": 3
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3763129541,
-        "steps": 19,
-        "prompt": "Expressiveh, score_9_up, score_8_up, score_7_up, score_6_up, lesbians, 2girl, female, Raven and Starfire (dc), closeup, laying in bed, pussy fingering, mutual masturbation, very intimate, pussy mound, curvaceous, thick, average_breasts, wide hips, seductive, cute, slutty, moaning, partially nude female, intense pleasure, sexy, sweat, expressive eyes, amazing, very aesthetic, bedroom, great lighting, highly detailed",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-26T0837:03.8465129Z",
-        "negativePrompt": "extra fingers, easynegative, awful, worst quality, blurry, score_5, score_4, extra fingers, extra limbs, deformed, malformed, ugly, writing, scribbles, (watermark), signature, sign, completely nude",
-        "civitaiResources": [
+        "": {},
+        "Size": "1248x1824",
+        "seed": 1709835892,
+        "Model": "prefect_pony_xl_v3.fp16",
+        "steps": 20,
+        "hashes": {
+          "model": "e31a2563f0"
+        },
+        "prompt": "score_9,score_8_up,score_7_up, 1boy, 1girl, arched back, breasts, cowgirl position, cum, cum in pussy, head back, hetero, internal cumshot, long hair, nipples, orgasm, penis, pubic hair, purple hair, sex, straddling, thighhighs, tongue, tongue out, vaginal",
+        "Version": "v1.10.1",
+        "sampler": "DPM++ 2M",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 910261,
-            "modelVersionName": "Dappled Light"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 407532,
-            "modelVersionName": "v0.2 For SDXL"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "e31a2563f0",
+            "name": "prefect_pony_xl_v3.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "e31a2563f0",
+        "Tile Overlap": "48",
+        "Schedule type": "Karras",
+        "Upscale factor": "1.5",
+        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Keep input size": "true}",
+        "Tile batch size": "6",
+        "Tile tile width": "160",
+        "Tiled Diffusion": {},
+        "Tile tile height": "160",
+        "ADetailer version": "24.8.0",
+        "Denoising strength": "0.2",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "Tiled Diffusion upscaler": "4x-UltraSharp",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "Tiled Diffusion scale factor": "1.5",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "cellarkellar103174",
+      "username": "Goofy_Ai",
       "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        60938,
-        290640,
-        382152,
-        407532,
-        436219,
-        910261
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "155|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=155%7C1744925392028"
+    "nextCursor": "156|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=156%7C1744925392028"
   }
 }
