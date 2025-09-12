@@ -1,53 +1,140 @@
 {
   "items": [
     {
-      "id": 8915879,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2ec0876-f3fa-44b1-b5fa-b4807c1cce8a/width=1632/b2ec0876-f3fa-44b1-b5fa-b4807c1cce8a.jpeg",
-      "hash": "UGE2%,D%ELs.~qIURjxt9uayRPtR9FxuV@kW",
-      "width": 1632,
-      "height": 3912,
-      "nsfwLevel": "X",
+      "id": 80888155,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a1266e0-e636-4070-9014-1266759b20e9/width=1280/6a1266e0-e636-4070-9014-1266759b20e9.jpeg",
+      "hash": "U4B{ZHE200^*00xZjE9u00oz~Viw%gae?Goz",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-03-31T21:12:59.768Z",
-      "postId": 1926973,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-07T08:31:00.000Z",
+      "postId": 17966522,
       "stats": {
-        "cryCount": 166,
-        "laughCount": 396,
-        "likeCount": 2710,
+        "cryCount": 202,
+        "laughCount": 582,
+        "likeCount": 2993,
         "dislikeCount": 0,
-        "heartCount": 2044,
+        "heartCount": 1517,
         "commentCount": 2
       },
       "meta": {
-        "Size": "640x1536",
-        "seed": 3,
-        "steps": 25,
-        "hashes": {
-          "model": "67ab2fd8ec",
-          "LORA:Styles\\Smooth Style 2.safetensors": "5a39036209",
-          "LORA:Styles\\Twilight Style.safetensors": "2d9ee3fc65"
-        },
-        "prompt": "score_9, score_8_up, score_7_up,   closeup, slim girl, ass, from below, behind, small waist, sitting, cameltoe, white thong, looking back, seductive gaze,  <lora:Styles\\Twilight Style.safetensors:0.8> <lora:Styles\\Smooth Style 2.safetensors:0.8>",
-        "sampler": "Euler a Karras",
-        "cfgScale": 7,
-        "resources": [],
-        "Model hash": "67ab2fd8ec",
-        "negativePrompt": "score_6, score_5, score_4, muscular, makeup, censored, 3d, mature,",
-        "PonyV6XL Version": "ComfyUI"
+        "seed": 222237990,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
+        "extra": {},
+        "steps": 29,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), (dynamic:1.1), (mature, adult:1.1),  fuyumur4s4ki_illu, 4ur4_illu,shiny, 1woman, fortune teller, (glass sphere, arcane sphere:1.1), brown eyes, wide eyes, brown hair, long hair, surprised, abashed, (blush:0.8), looking at sphere, shady, dark, trapes, inside tent, mage, at table, close up, female hand pov, holding golden coin, ",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, (blurry, 3d render, render:1.2), (kid, loli, child:1.15), monitor, screen, earth",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 0.4,
+            "modelVersionId": 1169143
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1478930
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 1595812
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1169143
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1189052
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1478930
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 1595812
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:389869@1169143",
+            "type": "lora",
+            "strength": 0.4,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1310467@1478930",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1411634@1595812",
+            "type": "lora",
+            "strength": 0.75,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "ADPA",
-      "baseModel": "Pony",
+      "username": "Plantra",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        330475,
-        333587
+        164821,
+        1169143,
+        1189052,
+        1478930,
+        1595812,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "127|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=127%7C1744925392028"
+    "nextCursor": "128|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=128%7C1744925392028"
   }
 }
