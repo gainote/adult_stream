@@ -1,57 +1,41 @@
 {
   "items": [
     {
-      "id": 45104104,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ec1f2de-6748-45a1-829b-07d56157569b/width=832/5ec1f2de-6748-45a1-829b-07d56157569b.jpeg",
-      "hash": "UOJtVYRjtR-=_NV@RktRDit7RjM{aekCaxn$",
+      "id": 16272537,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae16b983-5a06-43d5-8f5d-aa3a7ad1d79e/width=832/ae16b983-5a06-43d5-8f5d-aa3a7ad1d79e.jpeg",
+      "hash": "UED99h?H?v9a?G~W-p-:EMozRkt7NH9aNHE1",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-12-12T12:37:52.104Z",
-      "postId": 10221343,
+      "createdAt": "2024-06-18T20:16:01.043Z",
+      "postId": 3642117,
       "stats": {
-        "cryCount": 124,
-        "laughCount": 273,
-        "likeCount": 2932,
+        "cryCount": 128,
+        "laughCount": 358,
+        "likeCount": 2748,
         "dislikeCount": 0,
-        "heartCount": 1675,
-        "commentCount": 3
+        "heartCount": 1769,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1083174851,
-        "draft": false,
-        "extra": {
-          "remixOfId": 44588658
-        },
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime,1 girl , kawai girl, freckles, body freckles, blonde hair, updo, lace choker, purple lingerie, royal lingerie, sexy, blushing, petite, slim, girl on top, massive natural tits, buttjob, penis, juicy ass, ass grab, cum, smirk, ejaculation, portrait, palace bedroom, detailed drawing, partially illuminated, (cum on back), (cum in hair), (cum on shoulders), (exposed breasts)",
+        "seed": 2113121892,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, kawai girl , cute face, shy, nose blush, mouth taped, mouth covered , big breast ,  nipples , topless , hands raised , seat belt bondage , sitting in car seat, arm raised, boob focus , car , side portrait , boob focus , pov , breast grab , breast fondle , inside car",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-12-12T1232:14.1461940Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "Created Date": "2024-06-17T2011:52.4771729Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, pikachu tail",
         "civitaiResources": [
           {
             "type": "checkpoint",
             "modelVersionId": 290640,
             "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
           },
           {
             "type": "embed",
@@ -62,47 +46,36 @@
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
             "modelVersionId": 398847,
             "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
+            "weight": 0.75,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "solumbragt355",
+      "username": "dororooo",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        244808,
+        135867,
         290640,
-        382152,
         398847,
         436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "153|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=153%7C1744925392028"
+    "nextCursor": "154|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=154%7C1744925392028"
   }
 }
