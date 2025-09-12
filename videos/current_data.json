@@ -1,61 +1,63 @@
 {
   "items": [
     {
-      "id": 94447243,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0379ff18-d5a5-44a0-b8ac-7c011630b385/width=1664/0379ff18-d5a5-44a0-b8ac-7c011630b385.jpeg",
-      "hash": "U7OL.g0019Qm8_%1QT^500s:gL=x?]%3jU%1",
-      "width": 1664,
-      "height": 2432,
+      "id": 97075923,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cad796bc-bd5e-4ee6-b270-7bdecf557685/width=1280/cad796bc-bd5e-4ee6-b270-7bdecf557685.jpeg",
+      "hash": "UGKwe6~q0exG16tmt69FK7RPnhn4.9?GjE9v",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-08-15T17:54:06.988Z",
-      "postId": 20953765,
+      "createdAt": "2025-08-30T20:31:35.693Z",
+      "postId": 21534290,
       "stats": {
-        "cryCount": 249,
-        "laughCount": 366,
-        "likeCount": 2905,
+        "cryCount": 179,
+        "laughCount": 326,
+        "likeCount": 3093,
         "dislikeCount": 0,
-        "heartCount": 1461,
+        "heartCount": 1388,
         "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1274040631,
-        "Model": "JANKU v5.0 By JANXD",
-        "steps": 30,
-        "hashes": {
-          "model": "217daae812",
-          "embed:lazyneg": "ba21023c70",
-          "embed:lazypos": "3086669265"
-        },
-        "prompt": "lazypos, 1girl, fair skin, short blonde hair with pink highlights, blue eyes,  wearing top, short sleeves, pleated skirt, gradient pink thighhighs, stirrup legwear, lying down bed, feet, feet up, one leg straight, one leg bent at the knee, feet focus, soles, grabbing own thighs, pussy, anus, pulled up top, exposed breasts, happy, colorful, medium breast, mature",
-        "Version": "ComfyUI",
-        "sampler": "Euler a",
+        "steps": 38,
+        "prompt": "1girl, cute smile, long hair, crossed bangs, twin braids, blue hair, long hair, blue eyes,",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 3,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2025-08-28T2229:37.7535653Z",
+        "negativePrompt": "Simple background, extra sunglasses, red background, worst quality, bad quality, low quality, watermark,chinese text,korean text,signature, blurry, worst quality, low quality, blurry, extra limbs, fused, copyright name, patreon username, patreon logo, twitter username, extra digits, sketch, web_address, ((head out of frame)),",
+        "civitaiResources": [
           {
-            "hash": "217daae812",
-            "name": "JANKU v5.0 By JANXD",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 2010753
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1421520
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 2127949
           }
-        ],
-        "Model hash": "217daae812",
-        "negativePrompt": "lazyneg, child, loli"
+        ]
       },
-      "username": "janxd",
+      "username": "yetanotheraccount_xxx",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1833157,
-        1860747,
-        1896532
+        1421520,
+        2010753,
+        2127949
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "158|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=158%7C1744925392028"
+    "nextCursor": "159|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=159%7C1744925392028"
   }
 }
