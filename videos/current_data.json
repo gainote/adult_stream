@@ -1,80 +1,95 @@
 {
   "items": [
     {
-      "id": 26632889,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ec8bb10-ec1e-4630-a0c6-8636aafece8b/width=1664/4ec8bb10-ec1e-4630-a0c6-8636aafece8b.jpeg",
-      "hash": "UEL:QCVY0eIqD%V@~BNbELRP^*j[E2RkxGof",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "X",
+      "id": 71452829,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a98d5de3-370d-4396-bb22-6d8f51d110d2/width=832/a98d5de3-370d-4396-bb22-6d8f51d110d2.jpeg",
+      "hash": "UQJG1m%g~VJ.X9-oxaxu0LIUM|s9wvnhRjM{",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-08T11:41:18.323Z",
-      "postId": 5954038,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-22T04:00:00.000Z",
+      "postId": 15872691,
       "stats": {
-        "cryCount": 236,
-        "laughCount": 530,
-        "likeCount": 2821,
+        "cryCount": 159,
+        "laughCount": 350,
+        "likeCount": 2992,
         "dislikeCount": 0,
-        "heartCount": 1454,
-        "commentCount": 2
+        "heartCount": 1517,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1762989391,
-        "Model": "hassakuXLHentai_v13BetterEyesVersion",
-        "steps": 30,
-        "hashes": {
-          "model": "bbad3bea96",
-          "lora:Small Penis humiliation 4-000009": "a80b0274bfcb"
-        },
-        "prompt": "score_9, score_7_up, small penis humiliation, 1girl, 2boys, penis size difference, big penis, huge penis, small penis, uncensored,    <lora:Small Penis humiliation 4-000009:1>",
-        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
-        "sampler": "Euler A Comfy",
-        "cfgScale": 6,
+        "nsfw": false,
+        "seed": 2048172647,
+        "draft": false,
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, masterpiece, Expressiveh, hyper detail, 1girl, brown hair, straight hair, long hair, perfect body, fit, sexy, arms above head, tippytoes, eyes closed, smiling, white tank top, shirt taught, braless, mid drift, navel, pink panties, warm light, kitchen",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-04-18T1106:19.7729484Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, extra arms, bad hands, bad arms,",
+        "civitaiResources": [
           {
-            "hash": "a80b0274bfcb",
-            "name": "Small Penis humiliation 4-000009",
-            "type": "lora"
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "bbad3bea96",
-            "name": "hassakuXLHentai_v13BetterEyesVersion",
-            "type": "model"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           }
-        ],
-        "Model hash": "bbad3bea96",
-        "Hires upscale": "2",
-        "Schedule type": "Align Your Steps",
-        "Hires upscaler": "4xNomos8kDAT",
-        "negativePrompt": "simple background,",
-        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
-        "ADetailer version": "24.8.0",
-        "Denoising strength": "0.16",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "automatic_cfg_preset_enabled": "False",
-        "automatic_cfg_simple_enabled": "False",
-        "ADetailer inpaint only masked": "True",
-        "automatic_cfg_dynamic_enabled": "False",
-        "automatic_cfg_warp_drive_enabled": "False",
-        "automatic_cfg_post_cfg_rescale_enabled": "False"
+        ]
       },
-      "username": "Kojimbomber",
+      "username": "tips29",
       "baseModel": "Pony",
       "modelVersionIds": [
-        575495
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "151|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=151%7C1744925392028"
+    "nextCursor": "152|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=152%7C1744925392028"
   }
 }
