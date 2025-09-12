@@ -1,77 +1,96 @@
 {
   "items": [
     {
-      "id": 11198365,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d38d5196-6a09-4413-9245-ab57100144c5/width=832/d38d5196-6a09-4413-9245-ab57100144c5.jpeg",
-      "hash": "UCKTJP?^0z0fIUM{0e9F5lxuM{xaInn$-pM|",
-      "width": 832,
-      "height": 1216,
+      "id": 97190914,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c0e3ed5-5b64-4f98-96f1-f563633fcf0f/width=1520/2c0e3ed5-5b64-4f98-96f1-f563633fcf0f.jpeg",
+      "hash": "UIIhBB01?^xI.9acx^aeI;s.?aD%~WI;x]-;",
+      "width": 1520,
+      "height": 1952,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-04-30T22:49:19.891Z",
-      "postId": 2459348,
+      "createdAt": "2025-08-31T10:36:20.432Z",
+      "postId": 21560511,
       "stats": {
-        "cryCount": 149,
-        "laughCount": 377,
-        "likeCount": 2509,
+        "cryCount": 307,
+        "laughCount": 384,
+        "likeCount": 2849,
         "dislikeCount": 0,
-        "heartCount": 1864,
-        "commentCount": 4
+        "heartCount": 1354,
+        "commentCount": 3
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1005969451,
-        "steps": 60,
-        "prompt": "score_9, score_8_up, score_8, raw, realistic, solo, 1girl, Elsa, pretty 20 year old girl, wearing keyhole super croptop, (oiled:1.8) high socks, pastel colored panties with lace, 2 braids, white hair, leash, blowing cumbubbles, (large bubble of saliva on lips:1.2), pink lips, small breasts, brown eyes, exposed breasts, petite body, flat chest, flared lashes, dynamic sexy pose, small perfect round breasts, petite body, arched neck, (man pulling braids:1.2), showing lots of skin, very little cloths, skimpy clothes, glancing sideways, large penis in right of frame, (large erect penis infront of face), fellatio, deep throat, wide open mouth, penis deep in throat, face fuck, violent. (wide open mouth:1.2), gaping mouth, tongue reaching out, (sticky threads:1.4), submissive look on face, furrowed brow, very sexy, very cute, shiny skin, eager moaning scared look, struggling, runny mascara, (dripping cum from face:1.2), violent sex, slobber, cumbubble, (cheekbulge:1.2), penis inside mouth, fantastical, (massive cock:1.9) huge penis.  size difference, rough oral sex, epic, wide eyes, (dripping stringy saliva:1.3), throat, looking at viewer, salivating, cum overflow, extreme amount of cum, excessive drooling, full body shot, crying tears, extreme amount of dripping cum, score_7_up, 8k, [realistic eyes:5], very detailed, high detailed texture, depth of field, low light, cinematic illumination, volumetric lighting, rating_questionable\nin a dark room",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, pony, muscular, censored,  chibi, 3d, monochrome, elven ears",
-        "civitaiResources": [
+        "TI": {},
+        "Size": "1520x1952",
+        "seed": 1581692902,
+        "Model": "Illv10FSP",
+        "steps": 40,
+        "hashes": {
+          "model": "d84b70d3d5",
+          "lora:MAX NSFW": "b1f4be4a252e",
+          "lora:Real hair for 2D": "69b5f30b1784",
+          "lora:USNR_STYLE_ILL_V1_lokr3": "44586d05878a",
+          "lora:Ultra Lora Detailer and Glow": "8309617bd8f4",
+          "lora:USA37107692-illustriousXL_v01_V2-CAME": "f532ec9d1c73"
+        },
+        "prompt": "<lora:MAX NSFW:1>,1nsfwmaxunlocker,masterpiece,best quality,ultra-HD,volumetric lighting,masterpiece,best quality,absurdres,lowlighting,best quality,realistic body,(impressionism:1.5),volumetric lighting,\nmasterpiece,highres,absurdres,(1girl, blond hair, inverted pixie cut, loose oversized athletic shirt, low cut cargo pants, combat boots, big teardrop tits, petite, stiff nipples, covered nipples, ,small ass),sexy pose,tight clothes,bellybutton,standing,arms above head,far shot,zoomed out,eye contact,arms tied,alien monster,monster penis,(gigantic monster cock:1.4),(giant penis:1.2),scared expression,admiring penis)) (sex,penetrated, sex,,spread legs,head down,,anal sex, ,violent sex,saliva),(savage sex,moan,orgasm,gritted teeth),(hand on neck,strangling),anal creampie,cum oozing down cock,cum oozing down balls,wet pussy,<lora:USA37107692-illustriousXL_v01_V2-CAME:0.2>,USA3710,<lora:USNR_STYLE_ILL_V1_lokr3:0.2>,usnr,<lora:Ultra Lora Detailer and Glow:0.2>,<lora:Real hair for 2D:0.2>,",
+        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
+        "sampler": "DPM++ 2M SDE",
+        "cfgScale": 3,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 399640
+            "hash": "f532ec9d1c73",
+            "name": "USA37107692-illustriousXL_v01_V2-CAME",
+            "type": "lora",
+            "weight": 0.2
           },
           {
-            "type": "ImageJobNetworkParams { Strength = 0.3, TriggerWord = , Type = lora }",
-            "weight": 0.3,
-            "modelVersionId": 244808
+            "hash": "44586d05878a",
+            "name": "USNR_STYLE_ILL_V1_lokr3",
+            "type": "lora",
+            "weight": 0.2
           },
           {
-            "type": "ImageJobNetworkParams { Strength = 0.91, TriggerWord = , Type = lora }",
-            "weight": 0.91,
-            "modelVersionId": 285211
+            "hash": "b1f4be4a252e",
+            "name": "MAX NSFW",
+            "type": "lora"
           },
           {
-            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
-            "weight": 1,
-            "modelVersionId": 382152
+            "hash": "8309617bd8f4",
+            "name": "Ultra Lora Detailer and Glow",
+            "type": "lora"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708
+            "hash": "69b5f30b1784",
+            "name": "Real hair for 2D",
+            "type": "lora"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712
+            "hash": "d84b70d3d5",
+            "name": "Illv10FSP",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "d84b70d3d5",
+        "Schedule type": "Karras",
+        "negativePrompt": "easynegative,lazyneg_1760455,text,",
+        "Denoising strength": "0.3"
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "Xmutsix",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        244808,
-        285211,
-        382152,
-        399640
+        1552087,
+        2087008,
+        2101298,
+        2141638,
+        2144812,
+        2159140
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "172|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=172%7C1744925392028"
+    "nextCursor": "173|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=173%7C1744925392028"
   }
 }
