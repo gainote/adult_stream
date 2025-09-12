@@ -1,88 +1,80 @@
 {
   "items": [
     {
-      "id": 67732166,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d88c278-d152-436b-9239-d49b8b010060/width=832/7d88c278-d152-436b-9239-d49b8b010060.jpeg",
-      "hash": "UCDv4c^*0fMxagbvIVr?5R%1~V?G%Mxu-oIp",
+      "id": 86440088,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/13924b98-d3b1-415d-984c-dc9c760e9df8/width=832/13924b98-d3b1-415d-984c-dc9c760e9df8.jpeg",
+      "hash": "UGHULM0gJnr]%3IotQ?G~Ar=RQEM01IV-U9u",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-04-03T18:05:11.899Z",
-      "postId": 15057909,
+      "createdAt": "2025-07-05T15:54:00.000Z",
+      "postId": 19180696,
       "stats": {
-        "cryCount": 202,
-        "laughCount": 311,
-        "likeCount": 2872,
+        "cryCount": 153,
+        "laughCount": 355,
+        "likeCount": 2850,
         "dislikeCount": 0,
-        "heartCount": 1574,
-        "commentCount": 6
+        "heartCount": 1592,
+        "commentCount": 8
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 253947270,
-        "draft": false,
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, newest, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k, simple_background, half close-up, sexy pose, blushing, asian girl, small head, pretty girl, korean girl, ((slim body)), (small breasts), dynamic angle, dynamic pose, ear piercings, nswf, portrait, girl, naked, in water, wet skin,",
-        "sampler": "Euler a",
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
+        "extra": {},
+        "steps": 29,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\nass folds,\npink panties,\nblack \nlong black socks,\nlying stomach,\n(small innie pussy:0.7),\nlarge bed,\nbig notebook,\n(pencil:1.1),\n(relaxed:1.2),\nblonde braid,\npillows,\nsleeping,\nlamp,\nsmooth skin,\n(night room:1.1),",
+        "sampler": "DPM++ 2M",
         "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-04-03T1734:03.7076870Z",
-        "negativePrompt": "bad quality, worst quality, worst detail, censor, bad anatomy,",
+        "modelIds": [],
+        "workflow": "img2img",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed) bestiality",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1976924
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1535200,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1761560
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1141520,
-            "modelVersionName": "v1.0 [Illustrious]"
-          },
+            "weight": 1,
+            "modelVersionId": 1976924
+          }
+        ],
+        "additionalResources": [
           {
+            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1157361,
-            "modelVersionName": "96yottea"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1582690,
-            "modelVersionName": "v7_Animv4"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1375651,
-            "modelVersionName": "v1.0"
+            "strength": 1,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Axelros",
+      "username": "vovkkabanko",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1141520,
-        1157361,
-        1375651,
-        1535200,
-        1582690
+        1761560,
+        1976924
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "161|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=161%7C1744925392028"
+    "nextCursor": "162|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=162%7C1744925392028"
   }
 }
