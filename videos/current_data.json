@@ -1,103 +1,88 @@
 {
   "items": [
     {
-      "id": 88144492,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27336b39-ebf3-47af-a2c0-1738bd6730ba/width=1800/27336b39-ebf3-47af-a2c0-1738bd6730ba.jpeg",
-      "hash": "UCJZ*[9u00-o0dsn9aoz00t6~WRj-:xuIUsn",
-      "width": 2496,
-      "height": 3648,
-      "nsfwLevel": "X",
+      "id": 26825167,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccce75f2-35a1-4a9f-b1ea-9506a65a0393/width=1664/ccce75f2-35a1-4a9f-b1ea-9506a65a0393.jpeg",
+      "hash": "UUKd9|o}kWt6~V%1sStR9uWXVrV@-:R+M|Vs",
+      "width": 1664,
+      "height": 2432,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-14T06:03:00.000Z",
-      "postId": 19552241,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-08T11:42:04.990Z",
+      "postId": 5998503,
       "stats": {
-        "cryCount": 204,
-        "laughCount": 349,
-        "likeCount": 3122,
+        "cryCount": 231,
+        "laughCount": 855,
+        "likeCount": 2838,
         "dislikeCount": 0,
-        "heartCount": 1608,
-        "commentCount": 8
+        "heartCount": 1359,
+        "commentCount": 4
       },
       "meta": {
-        "seed": 2064236032,
-        "vaes": [],
-        "extra": {},
-        "steps": 34,
-        "models": [],
-        "prompt": "blonde hair, bangs, blunt bangs, hair bun, double bun, messy hair, yellow eyes, thighs, nude, boobs, pubes,\nfoot focus, crossed-legs,\nlooking at viewer, sadistic smirk,\nforeshortening, low angle, \ndetailed eyes,anime eyes,high detail eyes,multicolored iris,detailed iris,anime style,\n\nblurred_background, indoor, bedroom, night, dark,\n\nvery awa, absurdres, highres, masterpiece,\nKenorland, 748cmstyle, artist:moriimee,\nFlatline, Flat vector illustration,\nlazypos,",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "bad quality,worst quality,worst detail, censor, bad anatomy, patreon, name, lazy eye, bad eyes, skull, merged_hands, odd_hands, too many digits, 6 digits, 4 digits, merged_fingers,\nlazyneg",
-        "civitaiResources": [
+        "Size": "832x1216",
+        "seed": 2241024803,
+        "Model": "hassakuXLHentai_v13BetterEyesVersion",
+        "steps": 30,
+        "hashes": {
+          "model": "bbad3bea96",
+          "lora:elie-pdxl-nvwls-v1": "1f7214c03a16",
+          "lora:Washing vehicle 2-000016": "e90b46626f2f",
+          "lora:concept_aquascreaming_ponyXL": "23db46635353"
+        },
+        "prompt": "score_9, score_7_up,  washing vehicle, breast press, against glass, car interior, sponge, 1girl , steering wheel, swimElie, hairband, hair ribbon, front-tie bikini, floral print, side-tie bikini bottom, soap bubbles, aquascreaming, screaming, open mouth, crying with eyes open     <lora:Washing vehicle 2-000016:1>  <lora:elie-pdxl-nvwls-v1:1> <lora:concept_aquascreaming_ponyXL:1>",
+        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
+        "sampler": "Euler A Comfy",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1410435
+            "hash": "1f7214c03a16",
+            "name": "elie-pdxl-nvwls-v1",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "weight": 0.35,
-            "modelVersionId": 1244133
+            "hash": "23db46635353",
+            "name": "concept_aquascreaming_ponyXL",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "weight": 1,
-            "modelVersionId": 1805073
+            "hash": "e90b46626f2f",
+            "name": "Washing vehicle 2-000016",
+            "type": "lora"
           },
           {
-            "weight": 1,
-            "modelVersionId": 1833157
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1860747
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1747661
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1056404
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1959770
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1914325
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "bbad3bea96",
+            "name": "hassakuXLHentai_v13BetterEyesVersion",
+            "type": "model"
           }
         ],
-        "additionalResources": []
+        "Model hash": "bbad3bea96",
+        "Hires upscale": "2",
+        "Schedule type": "Align Your Steps",
+        "Hires upscaler": "4xNomos8kDAT",
+        "negativePrompt": "simple background,",
+        "Denoising strength": "0.18",
+        "automatic_cfg_preset_enabled": "False",
+        "automatic_cfg_simple_enabled": "False",
+        "automatic_cfg_dynamic_enabled": "False",
+        "automatic_cfg_warp_drive_enabled": "False",
+        "automatic_cfg_post_cfg_rescale_enabled": "False"
       },
-      "username": "Silvana_",
-      "baseModel": "Illustrious",
+      "username": "Kojimbomber",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1056404,
-        1244133,
-        1410435,
-        1747661,
-        1805073,
-        1833157,
-        1860747,
-        1914325,
-        1959770
+        357825,
+        418297,
+        575495
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "129|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=129%7C1744925392028"
+    "nextCursor": "130|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=130%7C1744925392028"
   }
 }
