@@ -1,42 +1,112 @@
 {
   "items": [
     {
-      "id": 83039868,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f6238f82-720d-4d49-ad49-c34a99477bb5/width=1280/f6238f82-720d-4d49-ad49-c34a99477bb5.jpeg",
-      "hash": "UIGRMBIV00-:~VM|9Zxu56WBxuWBNaafxuoJ",
-      "width": 1280,
-      "height": 1856,
+      "id": 35858897,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/321f1baa-443b-4df4-b305-ac61f4932d33/width=832/321f1baa-443b-4df4-b305-ac61f4932d33.jpeg",
+      "hash": "U4C$1P01009H00~Art^%00?F=|xa~U0f-oM}",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-06-20T12:49:28.404Z",
-      "postId": 18442428,
+      "createdAt": "2024-10-22T01:00:00.000Z",
+      "postId": 8193652,
       "stats": {
-        "cryCount": 185,
-        "laughCount": 363,
-        "likeCount": 3223,
+        "cryCount": 203,
+        "laughCount": 379,
+        "likeCount": 2868,
         "dislikeCount": 0,
-        "heartCount": 1377,
-        "commentCount": 1
+        "heartCount": 1679,
+        "commentCount": 5
       },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3550729709,
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_8_up, 1girl, solo, super detailed, super high resolution, fFaceDetail, 18 year old, sexy, cute goth girl, dark red eyes, (freckles, (body freckles:1.1)), black medium messy hair, (big breasts:1.1), slim dangling earrings, pierced nipple, nipple bulge, middle parted hair, cute smile, round glasses, (half closed eyes:1.2), (sleepy:1.1), tired, modern house background, at night, no lights, mesh hoses, slim waist, sexy wide hips, view from behind, standing, from below, from behind, oiled skin, shiny skin, black thong, micro bikini, big areolae, dark pink areolae, areola bigger than bra, ripping clothes, ripping own clothes, destroying own clothes, white transparent tank top, ripping clothes, ripped clothes, stripping, ripped clothes,",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-10-21T2352:08.3245443Z",
+        "negativePrompt": "score_4, score_5, score_6, ,extra fingers, distorted hands, distorted fingers, muscular, low quality, lowres, bad anatomy, worst quality, simple background, censored, text, signature, lineless, watermark,signature, logo, FastNegativeEmbedding, low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old lady, sketch, black and white, doujinshi, exaggerated anatomy, penis growing from breasts, red hairs, hands joining into one hand, upside down,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 125014,
+            "modelVersionName": "Female Face Detail"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 330620,
+            "modelVersionName": "1.1 - 000014"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "SirSteven",
+      "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        111363,
-        164821,
-        333245,
-        372639,
-        1412563,
-        1425924,
-        1490781
+        125014,
+        244808,
+        290640,
+        330620,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "141|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=141%7C1744925392028"
+    "nextCursor": "142|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=142%7C1744925392028"
   }
 }
