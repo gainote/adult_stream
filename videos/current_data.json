@@ -1,69 +1,76 @@
 {
   "items": [
     {
-      "id": 29742847,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c391c2b-6427-4ea6-ad49-c0fecf369646/width=1248/3c391c2b-6427-4ea6-ad49-c0fecf369646.jpeg",
-      "hash": "UTF68{%1%~XT.mxayEaeo}o0Vsof$%kCjFof",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 91742338,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7a2b2045-1f14-42c7-8ca7-f37321b6ca34/width=832/7a2b2045-1f14-42c7-8ca7-f37321b6ca34.jpeg",
+      "hash": "UAMsQOx]0f=tO,0fIo-T009F^+%L|;Mds.NH",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-09-16T17:12:24.172Z",
-      "postId": 6655140,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T10:25:54.705Z",
+      "postId": 20353578,
       "stats": {
-        "cryCount": 135,
-        "laughCount": 334,
-        "likeCount": 2938,
+        "cryCount": 387,
+        "laughCount": 553,
+        "likeCount": 2986,
         "dislikeCount": 0,
-        "heartCount": 1777,
-        "commentCount": 2
+        "heartCount": 1253,
+        "commentCount": 1
       },
       "meta": {
-        "ENSD": "31337",
         "Size": "832x1216",
-        "seed": 2044485205,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 20,
-        "hashes": {
-          "model": "ac006fdd7e",
-          "lora:adjusting_clothes_ass_v0.1-pony": "4595ea6a91b6"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, adjusting swimsuit, 1girl, brown hair, long hair, ass focus, swimsuit, wet, fisheye, from below, dark-skinned female, ,\n<lora:adjusting_clothes_ass_v0.1-pony:1>",
-        "Version": "f2.0.1v1.10.1-previous-525-gefe6fed4",
-        "sampler": "Euler a",
+        "seed": 1365420676,
+        "draft": false,
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(((hyper pregnancy))), (((huge veiny stomach bulge))), masterpiece, good quality, best quality, 1girl, best quality, masterpiece, highly detailed,(((Cynthia_/(pokemon/))), machamp, reverse cowgirl position, legs spread, being fucked roughly, vaginal, extremely huge veiny pregnant belly, ahegao, screaming, hearts around head, (((massive creampie))), Cynthia leaking cum, high angle side view,",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-01T1020:05.9136782Z",
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature,pov",
+        "civitaiResources": [
           {
-            "hash": "4595ea6a91b6",
-            "name": "adjusting_clothes_ass_v0.1-pony",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1873831,
+            "modelVersionName": "v2.0p"
           },
           {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
-            "type": "model"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1282323,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1653366,
+            "modelVersionName": "Illustrious0.12"
           }
-        ],
-        "Model hash": "ac006fdd7e",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "score_4, score_5,",
-        "Denoising strength": "0.25"
+        ]
       },
-      "username": "psoft",
-      "baseModel": "Pony",
+      "username": "RabbiVole",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        324524
+        1282323,
+        1653366,
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "136|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=136%7C1744925392028"
+    "nextCursor": "137|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=137%7C1744925392028"
   }
 }
