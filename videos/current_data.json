@@ -1,91 +1,69 @@
 {
   "items": [
     {
-      "id": 70037106,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/70178115-eec9-4959-86bc-36559a7aaca2/width=1280/70178115-eec9-4959-86bc-36559a7aaca2.jpeg",
-      "hash": "UPJHH,9}uP?HNzbwNMxaIoIpwc$*bxXTNGbc",
-      "width": 1280,
-      "height": 1856,
+      "id": 29742847,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c391c2b-6427-4ea6-ad49-c0fecf369646/width=1248/3c391c2b-6427-4ea6-ad49-c0fecf369646.jpeg",
+      "hash": "UTF68{%1%~XT.mxayEaeo}o0Vsof$%kCjFof",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-04-14T20:24:38.338Z",
-      "postId": 15560775,
+      "createdAt": "2024-09-16T17:12:24.172Z",
+      "postId": 6655140,
       "stats": {
-        "cryCount": 206,
-        "laughCount": 372,
-        "likeCount": 3151,
+        "cryCount": 135,
+        "laughCount": 334,
+        "likeCount": 2938,
         "dislikeCount": 0,
-        "heartCount": 1477,
-        "commentCount": 3
+        "heartCount": 1777,
+        "commentCount": 2
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:565749@1060748",
-        "extra": {},
-        "steps": 36,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:565749@1060748"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, source_explicit, high quality, highly detailed, shiny skin,shiny skin, lips,\n(Peach from Mario), blonde hair, blue eyes, puffy thighs, grey eyes, mascara,\nwearing (polka-dot, pink tied-strings-bikini:1.3), puffy cleavage, (puffy crotch:1.3),\n(beach background, wet), \n(close shot:1.8), volumetric lighting, open mouth, blue earrings, puffy breasts, kneeling,",
+        "ENSD": "31337",
+        "Size": "832x1216",
+        "seed": 2044485205,
+        "Model": "autismmixSDXL_autismmixConfetti",
+        "steps": 20,
+        "hashes": {
+          "model": "ac006fdd7e",
+          "lora:adjusting_clothes_ass_v0.1-pony": "4595ea6a91b6"
+        },
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, adjusting swimsuit, 1girl, brown hair, long hair, ass focus, swimsuit, wet, fisheye, from below, dark-skinned female, ,\n<lora:adjusting_clothes_ass_v0.1-pony:1>",
+        "Version": "f2.0.1v1.10.1-previous-525-gefe6fed4",
         "sampler": "Euler a",
-        "cfgScale": 6.5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "aliasing, extra fingers, signature, distorted fingers, watermark, distorted hands, low-quality, child, worst-quality, distorted, censored, blur, distortion, kid, low-quality, bad, logo, text, muscular, (expressive-hearts:1.5), crown, 3D, bad quality,",
-        "civitaiResources": [
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1060748
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1060748
-          },
-          {
-            "weight": 0.4,
-            "modelVersionId": 726388
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1060748
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
+            "hash": "4595ea6a91b6",
+            "name": "adjusting_clothes_ass_v0.1-pony",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 726388
+            "weight": 1
+          },
+          {
+            "hash": "ac006fdd7e",
+            "name": "autismmixSDXL_autismmixConfetti",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:649266@726388",
-            "type": "lora",
-            "strength": 0.4,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "ac006fdd7e",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "score_4, score_5,",
+        "Denoising strength": "0.25"
       },
-      "username": "MatureOnly",
+      "username": "psoft",
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        726388,
-        1060748
+        324524
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "135|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=135%7C1744925392028"
+    "nextCursor": "136|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=136%7C1744925392028"
   }
 }
