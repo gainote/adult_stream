@@ -1,74 +1,62 @@
 {
   "items": [
     {
-      "id": 16232042,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f8b5aa32-eb60-4481-83cf-a2dd2e2ffcee/width=832/f8b5aa32-eb60-4481-83cf-a2dd2e2ffcee.jpeg",
-      "hash": "U5Gag}Q-6+?^GGEi=c?H7#E1wIt7_3$2Nbrr",
+      "id": 98131675,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9cd2f337-2e46-46af-b568-1ff5f6a9d577/width=832/9cd2f337-2e46-46af-b568-1ff5f6a9d577.jpeg",
+      "hash": "UHIz*UxD4.?a}=IVs:-p4.ozNIV?^iS5Ioax",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-18T11:28:18.843Z",
-      "postId": 3631437,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-05T16:42:51.529Z",
+      "postId": 21772566,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 309,
-        "likeCount": 2923,
+        "cryCount": 260,
+        "laughCount": 416,
+        "likeCount": 3165,
         "dislikeCount": 0,
-        "heartCount": 1883,
-        "commentCount": 3
+        "heartCount": 1388,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 530406880,
-        "steps": 19,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, \nPhotorealistic, real photo,  (((character sheet))), void background, god rays, 1girl, 18yo,realistic, 1girl, cute perfect face, round face, brown hair, braids, tan skin, hazel eyes, freckles, blush, big round eyes, tan skin, nude, side portrait, big breasts, perfect breasts, hands covering chest, hips, (((shibari))), provocative, bdsm rope, submissive pose, dramatic light,\ndramatic pose, dramatic angle, struggling, squirming,",
-        "sampler": "DPM2 a",
-        "cfgScale": 4,
+        "seed": 19300804,
+        "draft": false,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "18yo, score_9, score_8_up, score_7_up, 1girl, blonde, French braid, long legs, wide hips, thin waist, cardboard walls, cardboard floor, white collared shirt, navy vest, navy plaid skirt, profile, no panties, wet pussy, vaginal penetration,  pierced ears, (hair clips:1.3), close up (glory hole penis:1.4) face focus, bag of books, black shoes, white socks,, graffiti, lying on floor, cum running out of pussy, legs spread, exhausted, blank eyes, excessive cum, exposed breasts, nipples, cum on breasts,",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-06-18T1100:10.1856238Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, furry, monochrome, curvy, fat, pubic hair, watermark,\nwhitespace, watermark, signature, artist name, easynegative, ugly, old, plain background, monochrome, (disfigured), stumpy, irregular, ugly face, mutated hands, low res, blurry face, pumped body, bad anatomy, bad eyes, dot eyes, monochrome, unfinished, sketch, greyscale,  crowd, disembodied,  (weird anatomy), bad anatomy, conjoined, mutated, mixed bodied, fused bodies, disembodied, artifacts, jpeg artifacts, empty panel, (deformed), (unfinished), (lots of white-space filling image), teeth",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-03T1158:12.8693129Z",
+        "experimental": false,
+        "negativePrompt": "pony, futa, gaping, censored, deformed hands, multiple fingers, film, video, lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, parody, multiple views, low quality, watermark, blur, 3d, realistic, realism,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 534642,
-            "modelVersionName": "v2.1 VAE"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 438481,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1199750
           }
         ]
       },
-      "username": null,
+      "username": "solumbra_0856",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        382152,
-        438481,
-        534642
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "131|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=131%7C1744925392028"
+    "nextCursor": "132|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=132%7C1744925392028"
   }
 }
