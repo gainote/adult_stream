@@ -1,70 +1,91 @@
 {
   "items": [
     {
-      "id": 64929824,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f604e272-b1aa-4245-9328-99afcb2e64ae/width=816/f604e272-b1aa-4245-9328-99afcb2e64ae.jpeg",
-      "hash": "UMF~EVX.Ng~UyD-;%2Ip%g-:E2Rj?Z%MR.Ri",
-      "width": 816,
+      "id": 97986077,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09193d7c-547d-4813-9172-d7611b09b8e4/width=832/09193d7c-547d-4813-9172-d7611b09b8e4.jpeg",
+      "hash": "UGEV.*~V.79F.6%gX9IUMxngn%RjD%RjIA%f",
+      "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-03-21T17:20:00.370Z",
-      "postId": 14466991,
+      "createdAt": "2025-09-04T10:00:58.833Z",
+      "postId": 21739922,
       "stats": {
-        "cryCount": 179,
-        "laughCount": 325,
-        "likeCount": 2897,
+        "cryCount": 192,
+        "laughCount": 312,
+        "likeCount": 3134,
         "dislikeCount": 0,
-        "heartCount": 1543,
-        "commentCount": 1
+        "heartCount": 1292,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "816x1216",
-        "seed": 2627707882,
-        "Model": "autismmixSDXL_autismmixPony.safetensors",
-        "steps": 25,
-        "hashes": {
-          "model": "821aa5537f",
-          "embed:lazydn": "36c19a142a",
-          "embed:lazyup": "2d56e88bd2",
-          "embed:lazympos": "3a5c2a561b",
-          "lora:TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL": "60b4fd5e4d"
-        },
-        "prompt": "embedding:lazyup, embedding:lazympos, source_anime,1girl, blonde hair, long hair, \nblack leggings, textured leggings,\nass, outdoors, bent over, <lora:TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL:0.5>",
+        "Size": "832x1216",
+        "seed": 709512755,
+        "draft": false,
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up,  (1girl:1.3), 21 years old, (solo:1.2), pretty girl, chestnut brown hair, fringe hair, ponytail, light brown eyes, big eyes, ((freckles)), cute, medium round breasts, short clothes, covered nipples, (sexy expression:1.1), sexy thighs, (focus, depth of field, realistic photo, bokeh), full body view",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-02T1747:16.1859511Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), signature, logo, weights, bunny ears, extra hands, deformed fingers, cross-eyed, extra fingers, bra, panties, man, earrings, simple background,",
+        "civitaiResources": [
           {
-            "hash": "60b4fd5e4d",
-            "name": "TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL",
-            "type": "lora",
-            "weight": 0.5
+            "type": "checkpoint",
+            "modelVersionId": 2071650
           },
           {
-            "hash": "821aa5537f",
-            "name": "autismmixSDXL_autismmixPony.safetensors",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 534756
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 556208
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040
+          },
+          {
+            "type": "lora",
+            "weight": 2.1,
+            "modelVersionId": 1242203
           }
-        ],
-        "Model hash": "821aa5537f",
-        "negativePrompt": "embedding:lazydn"
+        ]
       },
-      "username": "janxd",
+      "username": "melly2245",
       "baseModel": "Pony",
       "modelVersionIds": [
-        324619,
-        1473187,
-        1473204,
-        1557746,
-        1558647
+        382152,
+        534756,
+        556208,
+        596040,
+        1242203,
+        2071650
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "164|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=164%7C1744925392028"
+    "nextCursor": "165|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=165%7C1744925392028"
   }
 }
