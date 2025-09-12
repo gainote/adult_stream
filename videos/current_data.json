@@ -1,108 +1,87 @@
 {
   "items": [
     {
-      "id": 77742180,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ff29572-00fa-468f-9493-1dc623341ccd/width=832/6ff29572-00fa-468f-9493-1dc623341ccd.jpeg",
-      "hash": "UHMGI~M_Gw0,.8H=IpOF01xtD%oHF2^%$y9G",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 92417823,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a0e3931-a943-4230-980e-2c0d2f1ce87f/width=1024/9a0e3931-a943-4230-980e-2c0d2f1ce87f.jpeg",
+      "hash": "U7LWL%00pvWB00010|M{vN_2J8RPtA~V^Ot8",
+      "width": 1024,
+      "height": 1024,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-22T04:30:00.000Z",
-      "postId": 17268796,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-05T06:51:54.292Z",
+      "postId": 20501182,
       "stats": {
-        "cryCount": 176,
-        "laughCount": 372,
-        "likeCount": 2854,
+        "cryCount": 280,
+        "laughCount": 438,
+        "likeCount": 2917,
         "dislikeCount": 0,
-        "heartCount": 1506,
-        "commentCount": 2
+        "heartCount": 1271,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 2057504659,
+        "Size": "1024x1024",
+        "seed": 1894522494,
         "draft": false,
+        "extra": {
+          "remixOfId": 84824027
+        },
         "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:tove-nikke-richy-v1_ixl:1>, tovrd, blue eyes, blonde hair, long hair, braid, large breasts, smokyeyes, lash, pink mascara, glossy pink lips, parted lips, pink nails, long nails, firm perky ass, swimsuit, 1girl, one-piece swimsuit, breasts, tanlines, solo, tan, smile, blue swimsuit, swimsuit pull, large breasts, clothes pull, looking at viewer, wet, smug grin, cheeky, strap slip, bare shoulders, revealing competition swimsuit, cutout swimsuit, coverd nipples, long hair, cleavage, thighs, eyebrows visible through hair, tan lines, collarbone, covered navel, bangs, blue eyes, blush, large hair. relaxed yet provocative, soft ambient glow, dramatic scenery, intricate details, blurry background, depth of field, erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle:1.5)), from side, blurry background, bright colors, stunningly artwork",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "(masterpiece, detailed:1.2), best quality, detailed eyes, 1 girl, solo, indoors, classroom natsuki, pink hair, short hair, hair ornament, two side up, hairclip, pink eyes, x hair ornament, blazer, brown sweater, collared shirt, neck ribbon, blue skirt, thick thighs, blaash, large breasts, nipples, pussy, ankle grab,sex,vaginal,girl on top,pov,motion lines, amazon position",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 1,
         "workflow": "txt2img",
         "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "tove-nikke-richy-v1_ixl",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-05-22T0324:13.6248634Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, (watermark:1.5), ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-07-30T1637:25.1626928Z",
+        "experimental": false,
+        "negativePrompt": ":bad quality,worst quality,worst detail,sketch,censor,text, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, lowres, (worst quality, bad quality:1.2), bad anatomy, jpeg artifacts, signature, watermark, username, signature, simple background, conjoined, multiple penises, ((3d)), no pupils, no irises",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
+            "weight": 1,
+            "modelVersionId": 1040693,
             "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
+            "weight": 0.75,
+            "modelVersionId": 1149560,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 1809862,
-            "modelVersionName": "tove-nikke-richy-v1_ixl"
+            "modelVersionId": 1488233,
+            "modelVersionName": "Illustrious v1.0"
           }
         ]
       },
-      "username": "Chimi83",
+      "username": "epiccool",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        6056,
-        25820,
-        1056404,
-        1135769,
-        1373674,
-        1761560,
-        1809862
+        1040693,
+        1149560,
+        1410435,
+        1488233
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "170|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=170%7C1744925392028"
+    "nextCursor": "171|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=171%7C1744925392028"
   }
 }
