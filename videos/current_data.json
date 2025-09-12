@@ -1,70 +1,42 @@
 {
   "items": [
     {
-      "id": 92417849,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/43d7e2f0-35c5-445a-a66a-5327fdf6f5c5/width=832/43d7e2f0-35c5-445a-a66a-5327fdf6f5c5.jpeg",
-      "hash": "ULIF*NOE7.tREl-;bvRkDjNHw7xt}^nj4.X8",
-      "width": 832,
-      "height": 1216,
+      "id": 83039868,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f6238f82-720d-4d49-ad49-c34a99477bb5/width=1280/f6238f82-720d-4d49-ad49-c34a99477bb5.jpeg",
+      "hash": "UIGRMBIV00-:~VM|9Zxu56WBxuWBNaafxuoJ",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-08-05T06:50:47.094Z",
-      "postId": 20501189,
+      "createdAt": "2025-06-20T12:49:28.404Z",
+      "postId": 18442428,
       "stats": {
-        "cryCount": 259,
-        "laughCount": 398,
-        "likeCount": 3293,
+        "cryCount": 185,
+        "laughCount": 363,
+        "likeCount": 3223,
         "dislikeCount": 0,
-        "heartCount": 1208,
-        "commentCount": 0
+        "heartCount": 1377,
+        "commentCount": 1
       },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1104708824,
-        "draft": false,
-        "steps": 28,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, ultra highres, absurdres, very awa, shadow, anime coloring, nsfw, \nsuzuki sonoko,1girl, female, solo, three quarter view, feet out of frame, \nhead tilt, turning head, hairband, short hair, brown hair, green eyes, medium breasts, thigh, \nsmile, parted lips, \ntennis uniform, black shirt, white pleated skirt, black socks, kneehighs, white footwear, sneakers, pantyshot, black panties, lacy pantie, \nhighest quality, 8K, Ultra-HD, ultra detail, epic scene, natural textures, <lora:suzuki sonoko IL:1>, \ntennis rocket, holding, \noutdoor, tennis court,",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-05T0648:52.5814125Z",
-        "experimental": false,
-        "negativePrompt": "(bad quality, worst quality:1.2), lowres, bad anatomy, jpeg artifacts, ugly, poorly drawn, signature, watermark, username, blurry, 4-koma, sketch, (bad:1.05), error, fewer, extra, missing, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, (blurry, lowres, low quality:1.1), (big head, bad anatomy:1.05), artist name, (watermark:1.1), weibo username, derivative work, one-hour drawing challenge, jaggy lines, female pubichair, address, patreon logo, twitter username, greyscale, oekaki, sepia, curvy, wide hips, (sound effects), futanari, furry, bad hands, deformed, multiple hands, deformed hands, deformed legs, multiple legs, text, words, censored, mosaic, clone,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1612720,
-            "modelVersionName": "v13.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1185506,
-            "modelVersionName": "illustrious v1.0"
-          }
-        ]
-      },
-      "username": "Paleblaze",
+      "meta": null,
+      "username": "Kalrdr",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1185506,
-        1612720
+        9208,
+        111363,
+        164821,
+        333245,
+        372639,
+        1412563,
+        1425924,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "140|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=140%7C1744925392028"
+    "nextCursor": "141|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=141%7C1744925392028"
   }
 }
