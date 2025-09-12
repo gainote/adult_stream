@@ -1,63 +1,131 @@
 {
   "items": [
     {
-      "id": 97075923,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cad796bc-bd5e-4ee6-b270-7bdecf557685/width=1280/cad796bc-bd5e-4ee6-b270-7bdecf557685.jpeg",
-      "hash": "UGKwe6~q0exG16tmt69FK7RPnhn4.9?GjE9v",
-      "width": 1280,
-      "height": 1856,
+      "id": 19692288,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e7a9e7fc-f97a-4bd0-beeb-cf976583cf4f/width=832/e7a9e7fc-f97a-4bd0-beeb-cf976583cf4f.jpeg",
+      "hash": "UEHKe2IoTdNG^jRjIVj[_Nf+R6jZS#kCaes:",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-30T20:31:35.693Z",
-      "postId": 21534290,
+      "browsingLevel": 16,
+      "createdAt": "2024-07-13T20:25:31.579Z",
+      "postId": 4397214,
       "stats": {
-        "cryCount": 179,
-        "laughCount": 326,
-        "likeCount": 3093,
+        "cryCount": 145,
+        "laughCount": 371,
+        "likeCount": 2620,
         "dislikeCount": 0,
-        "heartCount": 1388,
-        "commentCount": 1
+        "heartCount": 1837,
+        "commentCount": 5
       },
       "meta": {
         "Size": "832x1216",
-        "steps": 38,
-        "prompt": "1girl, cute smile, long hair, crossed bangs, twin braids, blue hair, long hair, blue eyes,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3,
+        "seed": 959249496,
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_8. score_9, score_8_up, score_7_up, score_6_up, masterpiece, 4k, high quality, (best quality:1.1),\n1man, masculine, faceless, \n1woman, mature woman, blonde hair, wet hair, wavey hair, (medium chest), \nred hair, bobcut, ExpressiveH, \nnaked, steam, \nhorny, in heat, looking at viewer, seductive look, lip bite,\nshowering, wet, front facing, pressed against glass, muscled, (thick thighs, large round ass, wide hips), anal\nsex, glass shower, (legs straight into the air, whole leg pressed against glass), (carrying woman)), view from front, frontal view, pussy focus, clear glass,\nBREAK\nshower",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2025-08-28T2229:37.7535653Z",
-        "negativePrompt": "Simple background, extra sunglasses, red background, worst quality, bad quality, low quality, watermark,chinese text,korean text,signature, blurry, worst quality, low quality, blurry, extra limbs, fused, copyright name, patreon username, patreon logo, twitter username, extra digits, sketch, web_address, ((head out of frame)),",
+        "Created Date": "2024-07-13T2012:24.6126408Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks. 3 finger, 5 finger, bangs, bad anatomy, big head, artist signature, artist name, intersex, 3d, jewelry, earrings, clothing, choker, hairpins,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 2010753
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 66043,
+            "modelVersionName": "v3.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 77169,
+            "modelVersionName": "BadDream v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1421520
+            "weight": 1,
+            "modelVersionId": 159401,
+            "modelVersionName": "SDXL v1.1"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 2127949
+            "weight": 0.35,
+            "modelVersionId": 381063,
+            "modelVersionName": "Pony V2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.15,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "yetanotheraccount_xxx",
-      "baseModel": "Illustrious",
+      "username": "CandyAddict",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1421520,
-        2010753,
-        2127949
+        6056,
+        9208,
+        66043,
+        77169,
+        159401,
+        290640,
+        381063,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "159|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=159%7C1744925392028"
+    "nextCursor": "160|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=160%7C1744925392028"
   }
 }
