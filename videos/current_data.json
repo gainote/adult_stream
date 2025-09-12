@@ -1,88 +1,74 @@
 {
   "items": [
     {
-      "id": 26825167,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccce75f2-35a1-4a9f-b1ea-9506a65a0393/width=1664/ccce75f2-35a1-4a9f-b1ea-9506a65a0393.jpeg",
-      "hash": "UUKd9|o}kWt6~V%1sStR9uWXVrV@-:R+M|Vs",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "Mature",
+      "id": 16232042,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f8b5aa32-eb60-4481-83cf-a2dd2e2ffcee/width=832/f8b5aa32-eb60-4481-83cf-a2dd2e2ffcee.jpeg",
+      "hash": "U5Gag}Q-6+?^GGEi=c?H7#E1wIt7_3$2Nbrr",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-08T11:42:04.990Z",
-      "postId": 5998503,
+      "browsingLevel": 8,
+      "createdAt": "2024-06-18T11:28:18.843Z",
+      "postId": 3631437,
       "stats": {
-        "cryCount": 231,
-        "laughCount": 855,
-        "likeCount": 2838,
+        "cryCount": 143,
+        "laughCount": 309,
+        "likeCount": 2923,
         "dislikeCount": 0,
-        "heartCount": 1359,
-        "commentCount": 4
+        "heartCount": 1883,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2241024803,
-        "Model": "hassakuXLHentai_v13BetterEyesVersion",
-        "steps": 30,
-        "hashes": {
-          "model": "bbad3bea96",
-          "lora:elie-pdxl-nvwls-v1": "1f7214c03a16",
-          "lora:Washing vehicle 2-000016": "e90b46626f2f",
-          "lora:concept_aquascreaming_ponyXL": "23db46635353"
-        },
-        "prompt": "score_9, score_7_up,  washing vehicle, breast press, against glass, car interior, sponge, 1girl , steering wheel, swimElie, hairband, hair ribbon, front-tie bikini, floral print, side-tie bikini bottom, soap bubbles, aquascreaming, screaming, open mouth, crying with eyes open     <lora:Washing vehicle 2-000016:1>  <lora:elie-pdxl-nvwls-v1:1> <lora:concept_aquascreaming_ponyXL:1>",
-        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
-        "sampler": "Euler A Comfy",
-        "cfgScale": 6,
+        "seed": 530406880,
+        "steps": 19,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, \nPhotorealistic, real photo,  (((character sheet))), void background, god rays, 1girl, 18yo,realistic, 1girl, cute perfect face, round face, brown hair, braids, tan skin, hazel eyes, freckles, blush, big round eyes, tan skin, nude, side portrait, big breasts, perfect breasts, hands covering chest, hips, (((shibari))), provocative, bdsm rope, submissive pose, dramatic light,\ndramatic pose, dramatic angle, struggling, squirming,",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-06-18T1100:10.1856238Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, furry, monochrome, curvy, fat, pubic hair, watermark,\nwhitespace, watermark, signature, artist name, easynegative, ugly, old, plain background, monochrome, (disfigured), stumpy, irregular, ugly face, mutated hands, low res, blurry face, pumped body, bad anatomy, bad eyes, dot eyes, monochrome, unfinished, sketch, greyscale,  crowd, disembodied,  (weird anatomy), bad anatomy, conjoined, mutated, mixed bodied, fused bodies, disembodied, artifacts, jpeg artifacts, empty panel, (deformed), (unfinished), (lots of white-space filling image), teeth",
+        "civitaiResources": [
           {
-            "hash": "1f7214c03a16",
-            "name": "elie-pdxl-nvwls-v1",
+            "type": "checkpoint",
+            "modelVersionId": 534642,
+            "modelVersionName": "v2.1 VAE"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
             "type": "lora",
-            "weight": 1
+            "weight": 0.7,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "hash": "23db46635353",
-            "name": "concept_aquascreaming_ponyXL",
             "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "e90b46626f2f",
-            "name": "Washing vehicle 2-000016",
-            "type": "lora"
-          },
-          {
-            "hash": "bbad3bea96",
-            "name": "hassakuXLHentai_v13BetterEyesVersion",
-            "type": "model"
+            "weight": 0.2,
+            "modelVersionId": 438481,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "bbad3bea96",
-        "Hires upscale": "2",
-        "Schedule type": "Align Your Steps",
-        "Hires upscaler": "4xNomos8kDAT",
-        "negativePrompt": "simple background,",
-        "Denoising strength": "0.18",
-        "automatic_cfg_preset_enabled": "False",
-        "automatic_cfg_simple_enabled": "False",
-        "automatic_cfg_dynamic_enabled": "False",
-        "automatic_cfg_warp_drive_enabled": "False",
-        "automatic_cfg_post_cfg_rescale_enabled": "False"
+        ]
       },
-      "username": "Kojimbomber",
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
-        357825,
-        418297,
-        575495
+        9208,
+        382152,
+        438481,
+        534642
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "130|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=130%7C1744925392028"
+    "nextCursor": "131|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=131%7C1744925392028"
   }
 }
