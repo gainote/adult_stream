@@ -1,131 +1,88 @@
 {
   "items": [
     {
-      "id": 19692288,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e7a9e7fc-f97a-4bd0-beeb-cf976583cf4f/width=832/e7a9e7fc-f97a-4bd0-beeb-cf976583cf4f.jpeg",
-      "hash": "UEHKe2IoTdNG^jRjIVj[_Nf+R6jZS#kCaes:",
+      "id": 67732166,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d88c278-d152-436b-9239-d49b8b010060/width=832/7d88c278-d152-436b-9239-d49b8b010060.jpeg",
+      "hash": "UCDv4c^*0fMxagbvIVr?5R%1~V?G%Mxu-oIp",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-13T20:25:31.579Z",
-      "postId": 4397214,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-03T18:05:11.899Z",
+      "postId": 15057909,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 371,
-        "likeCount": 2620,
+        "cryCount": 202,
+        "laughCount": 311,
+        "likeCount": 2872,
         "dislikeCount": 0,
-        "heartCount": 1837,
-        "commentCount": 5
+        "heartCount": 1574,
+        "commentCount": 6
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 959249496,
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_8. score_9, score_8_up, score_7_up, score_6_up, masterpiece, 4k, high quality, (best quality:1.1),\n1man, masculine, faceless, \n1woman, mature woman, blonde hair, wet hair, wavey hair, (medium chest), \nred hair, bobcut, ExpressiveH, \nnaked, steam, \nhorny, in heat, looking at viewer, seductive look, lip bite,\nshowering, wet, front facing, pressed against glass, muscled, (thick thighs, large round ass, wide hips), anal\nsex, glass shower, (legs straight into the air, whole leg pressed against glass), (carrying woman)), view from front, frontal view, pussy focus, clear glass,\nBREAK\nshower",
+        "nsfw": true,
+        "seed": 253947270,
+        "draft": false,
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, newest, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k, simple_background, half close-up, sexy pose, blushing, asian girl, small head, pretty girl, korean girl, ((slim body)), (small breasts), dynamic angle, dynamic pose, ear piercings, nswf, portrait, girl, naked, in water, wet skin,",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-07-13T2012:24.6126408Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks. 3 finger, 5 finger, bangs, bad anatomy, big head, artist signature, artist name, intersex, 3d, jewelry, earrings, clothing, choker, hairpins,",
+        "Created Date": "2025-04-03T1734:03.7076870Z",
+        "negativePrompt": "bad quality, worst quality, worst detail, censor, bad anatomy,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 66043,
-            "modelVersionName": "v3.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 77169,
-            "modelVersionName": "BadDream v1.0"
+            "modelVersionId": 1535200,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 159401,
-            "modelVersionName": "SDXL v1.1"
+            "weight": 0.6,
+            "modelVersionId": 1141520,
+            "modelVersionName": "v1.0 [Illustrious]"
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 381063,
-            "modelVersionName": "Pony V2.0"
+            "weight": 0.4,
+            "modelVersionId": 1157361,
+            "modelVersionName": "96yottea"
           },
           {
             "type": "lora",
-            "weight": 1.15,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.6,
+            "modelVersionId": 1582690,
+            "modelVersionName": "v7_Animv4"
           },
           {
             "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
+            "weight": 0.6,
+            "modelVersionId": 1375651,
             "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "CandyAddict",
-      "baseModel": "Pony",
+      "username": "Axelros",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        6056,
-        9208,
-        66043,
-        77169,
-        159401,
-        290640,
-        381063,
-        382152,
-        398847,
-        436219
+        1141520,
+        1157361,
+        1375651,
+        1535200,
+        1582690
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "160|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=160%7C1744925392028"
+    "nextCursor": "161|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=161%7C1744925392028"
   }
 }
