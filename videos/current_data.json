@@ -1,92 +1,124 @@
 {
   "items": [
     {
-      "id": 91163810,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/13a78531-fa78-48ff-9888-36b8313300f5/width=832/13a78531-fa78-48ff-9888-36b8313300f5.jpeg",
-      "hash": "UGF~KqN254%KVCRQFzR.16bD#SNb~pt7bbn#",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 88193367,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6db0af2b-2a64-4498-af8b-5c722d18615c/width=1800/6db0af2b-2a64-4498-af8b-5c722d18615c.jpeg",
+      "hash": "U8B3f|000L%M01xu?ani4o_2R5NH~VIoNHRj",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-29T10:46:21.550Z",
-      "postId": 20219797,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-14T12:40:00.000Z",
+      "postId": 19563045,
       "stats": {
-        "cryCount": 260,
-        "laughCount": 439,
-        "likeCount": 3152,
+        "cryCount": 182,
+        "laughCount": 352,
+        "likeCount": 2939,
         "dislikeCount": 0,
-        "heartCount": 1256,
+        "heartCount": 1626,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1526242556,
-        "draft": false,
-        "extra": {
-          "remixOfId": 11550387
-        },
-        "steps": 38,
+        "seed": 492011550,
+        "vaes": [],
+        "extra": {},
+        "steps": 30,
         "width": 832,
         "height": 1216,
-        "prompt": "one pretty european girl, solo, blonde hair, long hair, blue eyes, parted lips, curvy, big tits, sagging breasts, cleavage, necklace, jewelry, tank top, (looking at viewer), bokeh, upper body, looking at viewer, film grain, cowboy shot, epiCPhoto, <lora:pytorch_lora_weights:0.5>, <lora:breastsizeslideroffset:0.2>, <lora:picxer_real:0.7>, <lora:InstantPhotoX3:0.4>, <lora:more_details:0.6>",
-        "process": "txt2img",
+        "models": [],
+        "prompt": "safe_pos, score_9,score_8_up,score_7_up,\n1 tanned curvy italian girl, hot girl, round face, thin nose, long hair, hair in pigtails , brown hair, (oversized huge breasts),  sexy face, narrow face, makeup, view back, ass focus, pussy, anus, \nCute pajamas top ,  pajamas top \npulled over midriff ,  lifting shirt, pierced belly button , close up view, on knees, knees spread wide, all fours, ass up, round ass, creampie,\nIn bedroom, frat house BREAK on bed, \nBy night, pajamas down, anus, pussy, (puffy labia:1.4), beautiful woman, intimate photo, realistic image, dim light, cozy atmosphere, perfect lighting, perfect shadows, shiny skin, perfect reflections, lots of shadows\n",
+        "denoise": 0.55,
+        "process": "img2img",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
+        "cfgScale": 2,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 12,
         "baseModel": "Pony",
-        "resources": [
-          {
-            "name": "pytorch_lora_weights",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "name": "breastsizeslideroffset",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "name": "picxer_real",
-            "type": "lora",
-            "weight": 0.7
-          },
-          {
-            "name": "InstantPhotoX3",
-            "type": "lora",
-            "weight": 0.4
-          },
-          {
-            "name": "more_details",
-            "type": "lora",
-            "weight": 0.6
-          }
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "disablePoi": true,
+        "versionIds": [],
         "aspectRatio": "13:19",
-        "Created Date": "2025-07-29T0154:01.2244690Z",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/5ZXQE7KMM9T8BWMVRHX17TS410.jpeg",
+          "width": 832,
+          "height": 1216
+        },
         "experimental": false,
-        "negativePrompt": "BadDream, worst quality, low quality, normal quality, monochrome, grayscale",
+        "negativePrompt": "civit_nsfw, safe_neg, civit_nsfw, score_6, score_5, score_4, worst quality, low quality, deformed body, child, young, big ass, wide hips, ",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1957537,
-            "modelVersionName": "v12.5"
+            "weight": 1,
+            "modelVersionId": 1971591
+          },
+          {
+            "weight": 3.3,
+            "modelVersionId": 1253021
+          },
+          {
+            "weight": -1.7,
+            "modelVersionId": 1386847
+          },
+          {
+            "weight": 1.25,
+            "modelVersionId": 1420899
+          },
+          {
+            "weight": 2.65,
+            "modelVersionId": 1506035
+          },
+          {
+            "weight": 1.35,
+            "modelVersionId": 1523397
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1594293
+          },
+          {
+            "weight": 3.25,
+            "modelVersionId": 1926656
+          },
+          {
+            "weight": 1.05,
+            "modelVersionId": 1242203
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "capirocho",
+      "username": "Suby432",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1957537
+        164821,
+        333245,
+        1242203,
+        1253021,
+        1386847,
+        1420899,
+        1506035,
+        1523397,
+        1594293,
+        1926656,
+        1971591
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "143|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=143%7C1744925392028"
+    "nextCursor": "144|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=144%7C1744925392028"
   }
 }
