@@ -1,48 +1,57 @@
 {
   "items": [
     {
-      "id": 71452829,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a98d5de3-370d-4396-bb22-6d8f51d110d2/width=832/a98d5de3-370d-4396-bb22-6d8f51d110d2.jpeg",
-      "hash": "UQJG1m%g~VJ.X9-oxaxu0LIUM|s9wvnhRjM{",
+      "id": 45104104,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ec1f2de-6748-45a1-829b-07d56157569b/width=832/5ec1f2de-6748-45a1-829b-07d56157569b.jpeg",
+      "hash": "UOJtVYRjtR-=_NV@RktRDit7RjM{aekCaxn$",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-22T04:00:00.000Z",
-      "postId": 15872691,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-12T12:37:52.104Z",
+      "postId": 10221343,
       "stats": {
-        "cryCount": 159,
-        "laughCount": 350,
-        "likeCount": 2992,
+        "cryCount": 124,
+        "laughCount": 273,
+        "likeCount": 2932,
         "dislikeCount": 0,
-        "heartCount": 1517,
-        "commentCount": 1
+        "heartCount": 1675,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 2048172647,
+        "nsfw": true,
+        "seed": 1083174851,
         "draft": false,
-        "steps": 34,
+        "extra": {
+          "remixOfId": 44588658
+        },
+        "steps": 35,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, masterpiece, Expressiveh, hyper detail, 1girl, brown hair, straight hair, long hair, perfect body, fit, sexy, arms above head, tippytoes, eyes closed, smiling, white tank top, shirt taught, braless, mid drift, navel, pink panties, warm light, kitchen",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime,1 girl , kawai girl, freckles, body freckles, blonde hair, updo, lace choker, purple lingerie, royal lingerie, sexy, blushing, petite, slim, girl on top, massive natural tits, buttjob, penis, juicy ass, ass grab, cum, smirk, ejaculation, portrait, palace bedroom, detailed drawing, partially illuminated, (cum on back), (cum in hair), (cum on shoulders), (exposed breasts)",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 2,
+        "quantity": 4,
         "workflow": "txt2img",
         "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-04-18T1106:19.7729484Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, extra arms, bad hands, bad arms,",
+        "Created Date": "2024-12-12T1232:14.1461940Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
             "modelVersionId": 290640,
             "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "embed",
@@ -52,35 +61,39 @@
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.45,
+            "weight": 0.35,
             "modelVersionId": 398847,
             "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.5,
+            "weight": 0.6,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "tips29",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        239420,
+        244808,
         290640,
         382152,
         398847,
@@ -89,7 +102,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "152|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=152%7C1744925392028"
+    "nextCursor": "153|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=153%7C1744925392028"
   }
 }
