@@ -1,46 +1,52 @@
 {
   "items": [
     {
-      "id": 91410960,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/81e9c6ca-20be-4bd3-879c-4eac0c654dd4/width=832/81e9c6ca-20be-4bd3-879c-4eac0c654dd4.jpeg",
-      "hash": "U5E.O:Cm000$Y5^kRk0$00v{xF0y=u0LH=|:",
+      "id": 48283260,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/40c5a5fb-6295-40c1-992e-81639d1fb6ec/width=832/40c5a5fb-6295-40c1-992e-81639d1fb6ec.jpeg",
+      "hash": "UBG@JO58BB#+sA58~A-903Io^OI;-o^PE20#",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-30T17:23:27.285Z",
-      "postId": 20278578,
+      "createdAt": "2024-12-29T09:02:01.582Z",
+      "postId": 10886417,
       "stats": {
-        "cryCount": 242,
-        "laughCount": 390,
-        "likeCount": 2938,
+        "cryCount": 132,
+        "laughCount": 331,
+        "likeCount": 2786,
         "dislikeCount": 0,
-        "heartCount": 1283,
-        "commentCount": 5
+        "heartCount": 1595,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 292714767,
+        "nsfw": true,
+        "seed": 864165238,
         "draft": false,
-        "steps": 38,
+        "extra": {
+          "remixOfId": 47328154
+        },
+        "steps": 48,
         "width": 832,
         "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up), source_cartoon, (masterpiece), high quality, 4K, high resolution, BREAK, 1 girl, (perfect eyes), detailed face, perfect face, ((Russian woman)), (Slavic woman), ((long blonde hair with bangs, short, green eyes, pale skin, small waist, teardrop shaped breasts, rosy vagina, pink vagina)), blushing, moaning, gentle smile, (wearing a white bunny ears, blue lacy lingerie, blue corset, garters, nylon stockings), sexy, motion blur, motion lines, creampie, cum dripping, ((bent over, looking back, view of ass, low angle)), BREAK, standing doggystyle sex, standing sex, vaginal penetration, BREAK, (asian man, man wearing an expensive suit, big cock, big balls), BREAK, standing in a strip club, gentleman's club, cabaret, dark room, red light, stripper pole, crowds of men",
-        "process": "txt2img",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, ginger hair, short hair in ponytail, orange ginger,  40yo milf, 1boy, cute round bum, round natural large boobs, wide hips, narrow waist, pretty face, sexy woman, kawaii face, horny face, confident , perfect cute face, puffy breasts, freckles, pale skin, self ass opening gesture, spreading own ass cheeks, juicy plump ass, skin indentation, (standing doggy style sex, bent over, bedroom), man in front, looking back at viewer. ANAL. Kneeling, Bedroom, doorway,\nPolka dot cotton panties pinched to side, \nPulled down tight denim jeans, pink frilly bra opened, \nViewer anal fucking girl from behind close up,  \n(ntr), ntred, walk-in, (shiny skin), caught, eyes rolling, moaning, <lora:NTR:1>",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
         "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-30T1132:27.3582369Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, 3d,(anime,manga,source_anime), text, watermark, logo, signature, artist name, patreon, anime, worst quality, low quality, text, ((bad eyes)), (((long neck, throat bulge,neck bulge))), deformed eyes, ((bad iris)), uneven eyes, bad nose, bad mouth, (blurry), (low resolution), censored, deformed, missing legs, extra toes, (extra fingers), bad hand, blurry, (watermark), extra hands, futa, 3D, legs too long, woman with extra limbs, in nose piercing, tan lines, easynegative, misaligned bodies",
+        "resources": [
+          {
+            "name": "NTR",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "Created Date": "2024-12-29T0855:40.8005909Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -48,58 +54,47 @@
             "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
+            "weight": 0.65,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 449738,
-            "modelVersionName": "v2.0"
+            "weight": 0.45,
+            "modelVersionId": 761452,
+            "modelVersionName": "v2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 504032,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "URTF141",
+      "username": "SlapperMePlease",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        244808,
         290640,
-        382152,
-        398847,
         436219,
-        449738
+        504032,
+        761452
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "180|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=180%7C1744925392028"
+    "nextCursor": "181|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=181%7C1744925392028"
   }
 }
