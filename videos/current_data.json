@@ -1,80 +1,84 @@
 {
   "items": [
     {
-      "id": 91804209,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47e6b956-82c3-41bb-840b-0d78fdb1e32f/width=832/47e6b956-82c3-41bb-840b-0d78fdb1e32f.jpeg",
-      "hash": "UKG81P~CEgIoO@OFkWW;x]SiRkxF%MxuxZoJ",
+      "id": 15553813,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d7ec70e7-6129-4e93-9660-7458f6b722a6/width=832/d7ec70e7-6129-4e93-9660-7458f6b722a6.jpeg",
+      "hash": "UNIz@z?a9^$i?^?b-;My0g?a%MRkV@WYof%L",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-01T19:52:34.496Z",
-      "postId": 20367334,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-08T11:30:02.453Z",
+      "postId": 3463587,
       "stats": {
-        "cryCount": 217,
-        "laughCount": 353,
-        "likeCount": 2966,
+        "cryCount": 225,
+        "laughCount": 399,
+        "likeCount": 2791,
         "dislikeCount": 0,
-        "heartCount": 1258,
-        "commentCount": 1
+        "heartCount": 1379,
+        "commentCount": 5
       },
       "meta": {
+        "VAE": "sdxl_vae.safetensors",
         "Size": "832x1216",
-        "seed": 1248411140,
-        "draft": false,
-        "extra": {
-          "remixOfId": 82164748
+        "seed": 4063139810,
+        "Model": "autismmixSDXL_autismmixConfetti",
+        "steps": 30,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "ac006fdd7e",
+          "lora:DAP back-000006": "8296ff1bcbce",
+          "lora:Backless Panties PXL 2-000009": "6be1f77ca115"
         },
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "prompt": "Beautiful painting of  young woman with long brown hair and blue eyes gazes intently at the camera set against a rustic backdrop of worn-out walls and a window, hyper realistic.  Waist up portrait.  flushed red cheeks, glossy lips. long earings. Medium-large perky breasts. erect nipples. Nude.",
-        "process": "txt2img",
+        "prompt": "score_9, score_8_up, score_7_up, source anime,  backless panties, 1girl, double anal, 1girl, 2boys, on back,makima \\(chainsaw man\\), light smile, black panties,   <lora:DAP back-000006:1>   <lora:Backless Panties PXL 2-000009:1>",
+        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
         "sampler": "Euler a",
-        "cfgScale": 4.5,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "SDXL",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-01T1657:55.9470918Z",
-        "experimental": false,
-        "negativePrompt": "deformed, (bad quality:1.3), (worst quality:1.2), grainy, noisy, plastic, hazy, extra leg, bad hands, bad feet, mutation, (low res:1.3), (normal quality:1.2), missing finger, extra finger, mutated fingers, (plastic:1.2)",
-        "civitaiResources": [
+        "Mask blur": "4",
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 686204,
-            "modelVersionName": "V7"
+            "hash": "8296ff1bcbce",
+            "name": "DAP back-000006",
+            "type": "lora"
           },
           {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1835318,
-            "modelVersionName": "Illustrious"
+            "hash": "6be1f77ca115",
+            "name": "Backless Panties PXL 2-000009",
+            "type": "lora"
           },
           {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 705993,
-            "modelVersionName": "booru"
+            "hash": "ac006fdd7e",
+            "name": "autismmixSDXL_autismmixConfetti",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "ac006fdd7e",
+        "Inpaint area": "Only masked",
+        "negativePrompt": "monochrome,",
+        "ADetailer model": "Anzhc Face -seg.pt",
+        "ADetailer version": "24.3.0",
+        "Denoising strength": "0.4",
+        "ADetailer mask blur": "4",
+        "Masked area padding": "32",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Trippple",
-      "baseModel": "SDXL 1.0",
+      "username": "Kojimbomber",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        686204,
-        705993,
-        1835318
+        324524,
+        568588
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "186|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=186%7C1744925392028"
+    "nextCursor": "187|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=187%7C1744925392028"
   }
 }
