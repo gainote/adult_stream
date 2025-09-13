@@ -1,61 +1,76 @@
 {
   "items": [
     {
-      "id": 76309996,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d77c52af-f14d-4637-8a76-a0a3b8fbea94/width=1792/d77c52af-f14d-4637-8a76-a0a3b8fbea94.jpeg",
-      "hash": "UFK12oE1^*-;P:kB4.WUtRxtZ~xZ~WV@Efxu",
-      "width": 1792,
-      "height": 2304,
-      "nsfwLevel": "Mature",
+      "id": 91742339,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c3ef7ed1-d227-467b-b856-4f1e381c103f/width=832/c3ef7ed1-d227-467b-b856-4f1e381c103f.jpeg",
+      "hash": "UEMGCr9Ef#aJt0R$Ip%10057~WR*,:H?%hs,",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-18T08:51:57.588Z",
-      "postId": 16947462,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T10:25:26.304Z",
+      "postId": 20353578,
       "stats": {
-        "cryCount": 224,
-        "laughCount": 448,
-        "likeCount": 2953,
+        "cryCount": 351,
+        "laughCount": 519,
+        "likeCount": 2829,
         "dislikeCount": 0,
-        "heartCount": 1250,
-        "commentCount": 0
+        "heartCount": 1169,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "896x1152",
-        "seed": 46583754215512,
-        "Model": "waiSHUFFLENOOB_vPred20",
-        "steps": 30,
-        "hashes": {
-          "model": "cb576b9fc5",
-          "LORA:illustrious/character/FritzRumeyILSTCAMEq2v1.1 AL.safetensors": "2dde79aab8"
-        },
-        "prompt": "1girl, solo, aoi ogata, toyoman, cle masahiro, exercising, (underboob:0.9), squatting, gym, red eye, grey hair, very long hair, hair intakes, eyepatch, high ponytail, crop top overhang, midriff, gym shorts, looking ahead, sweat, concentrating, serious, blush, clenched teeth, masterpiece, best quality, newest, absurdres, highres, very awa,<lora:illustrious/character/FritzRumeyILSTCAMEq2v1.1 AL.safetensors:1.0>,",
-        "Version": "ComfyUI",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "resources": [
+        "Size": "832x1216",
+        "seed": 1365420676,
+        "draft": false,
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(((hyper pregnancy))), (((huge veiny stomach bulge))), masterpiece, good quality, best quality, 1girl, best quality, masterpiece, highly detailed,(((Cynthia_/(pokemon/))), machamp, reverse cowgirl position, legs spread, being fucked roughly, vaginal, extremely huge veiny pregnant belly, ahegao, screaming, hearts around head, (((massive creampie))), Cynthia leaking cum, high angle side view,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-01T1020:00.2875230Z",
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature,pov",
+        "civitaiResources": [
           {
-            "hash": "cb576b9fc5",
-            "name": "waiSHUFFLENOOB_vPred20",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1873831,
+            "modelVersionName": "v2.0p"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1282323,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1653366,
+            "modelVersionName": "Illustrious0.12"
           }
-        ],
-        "Model hash": "cb576b9fc5",
-        "negativePrompt": "low quality,worst quality,normal quality,text,signature,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,",
-        "adetailer_negative": "low quality/worst quality/normal quality/text/signature/jpeg artifacts/bad anatomy/old/early/copyright name/watermark/artist name/signature/",
-        "adetailer_positive": "1girl/ solo/ aoi ogata/ toyoman/ cle masahiro/ red eye/ grey hair/ very long hair/ hair intakes/ eyepatch/ high ponytail/ close-up/ looking ahead/ sweat/ concentrating/ serious/ blush/ clenched teeth/ masterpiece/ best quality/ newest/ absurdres/ highres/ very awa/",
-        "illustrious/character/FritzRumeyILSTCAMEq2v1.1 AL.safetensors": "1.0>/"
+        ]
       },
-      "username": "Psiph",
-      "baseModel": "NoobAI",
+      "username": "RabbiVole",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        1494366,
-        1787845
+        1282323,
+        1653366,
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "177|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=177%7C1744925392028"
+    "nextCursor": "178|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=178%7C1744925392028"
   }
 }
