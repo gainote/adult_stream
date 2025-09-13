@@ -1,122 +1,36 @@
 {
   "items": [
     {
-      "id": 76343373,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b55d9e90-5289-4c7e-85d2-a735af39009a/width=832/b55d9e90-5289-4c7e-85d2-a735af39009a.jpeg",
-      "hash": "UTL:ZY%3JU~W4.R-R+aK0eWWRPRPIoM{xaxt",
+      "id": 90818416,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07ca5bdc-f66a-4850-b6a5-bbe54f8cb5fc/width=832/07ca5bdc-f66a-4850-b6a5-bbe54f8cb5fc.jpeg",
+      "hash": "UHK1L8~WGa~q%z?H-:xu01sn$*%MtStl%NM{",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-16T19:23:33.615Z",
-      "postId": 16954773,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-27T17:47:23.366Z",
+      "postId": 20140109,
       "stats": {
-        "cryCount": 191,
-        "laughCount": 386,
-        "likeCount": 2994,
+        "cryCount": 253,
+        "laughCount": 417,
+        "likeCount": 2859,
         "dislikeCount": 0,
-        "heartCount": 1262,
-        "commentCount": 0
+        "heartCount": 1296,
+        "commentCount": 1
       },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1488177036,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3),  <lora:escoffier-illu-nvwls-v1-000007:1> gsesc, blonde hair, long hair, ahoge, blue eyes, breasts, large breasts, ass, firm perky ass, A digital illustration shoot from a below camera angle about a young woman in a revealing outfit sitting on a bed with her legs spread, ((stretches her feet towards the viewer)). ((wearing white fishnet stockings:1.5)), with a playful expression. the image also shows a soft, pastel color palette. on the middle of the image, a 1girl, who appears to be a young adult, is sitting on the bed, wearing a red velvet, see-through dress with a plunging neckline and white thigh-high stockings. she has long hair, green eyes, and is looking directly at the viewer with a seductive expression, her mouth slightly open. her body is slim. the background is a simple bedroom with a window and curtains. relaxed but provocative, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle from behind:1.5)), from below, blurry background, bright colors, stunningly artwork",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "escoffier-illu-nvwls-v1-000007",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-05-14T0312:40.0038212Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1412789,
-            "modelVersionName": "v2.90"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 91028,
-            "modelVersionName": "aid291"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 211788,
-            "modelVersionName": "v1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1193082,
-            "modelVersionName": "Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1781851,
-            "modelVersionName": "v1 (Illustrious v0.1)"
-          }
-        ]
-      },
-      "username": "Chimi83",
+      "meta": null,
+      "username": "mgmsaliasout",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        60938,
-        91028,
-        135867,
-        211788,
-        244808,
-        1193082,
-        1412789,
-        1781851
+        1761560,
+        1968420
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "182|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=182%7C1744925392028"
+    "nextCursor": "183|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=183%7C1744925392028"
   }
 }
