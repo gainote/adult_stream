@@ -1,102 +1,75 @@
 {
   "items": [
     {
-      "id": 94812249,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d599e7d4-1e33-4709-bdd9-2128b355f6ae/width=1280/d599e7d4-1e33-4709-bdd9-2128b355f6ae.jpeg",
-      "hash": "UIEVpT00ysVs%#IAtQbvKPMxozjZxCXSnhWX",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 9979458,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dc77d7d7-ff83-4756-9f22-78dd970c3e2a/width=832/dc77d7d7-ff83-4756-9f22-78dd970c3e2a.jpeg",
+      "hash": "URL{}Aa#*J%L^*aKt6g3pds:ofj[%#kWRjof",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-17T19:37:00.000Z",
-      "postId": 21033693,
+      "browsingLevel": 16,
+      "createdAt": "2024-04-16T01:17:39.763Z",
+      "postId": 2171294,
       "stats": {
-        "cryCount": 200,
-        "laughCount": 291,
-        "likeCount": 2858,
+        "cryCount": 153,
+        "laughCount": 336,
+        "likeCount": 2520,
         "dislikeCount": 0,
-        "heartCount": 1444,
-        "commentCount": 6
+        "heartCount": 1775,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 445189152,
-        "Model": "urn:air:sdxl:checkpoint:civitai:623891@2019115",
-        "extra": {},
-        "steps": 28,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:623891@2019115"
-        ],
-        "prompt": "surreal, anime, line art, ((thin lines)), 1girl, 28 year old girl, cute, normal breasts, double braids, bangs, dark hair, blue eyes, look at viewer, sexy, horny, wet, partially submerged, voluptuous , ((tribal cloth, hair ornaments, feather crown)), dark-skinned female, underboob, midriff, standing, open mouth, sexy, blushing, ((open mouth, sucking finger, tongue)), sensual, provocative, seductive pose, flirty expression, teasing, alluring, tempting, sexy look, playful, sultry, erotic gesture, inviting, suggestive, erected nipples, break, close up, face close up, river, waterfall",
-        "denoise": 0.3,
-        "process": "txt2img",
-        "sampler": "Euler a",
+        "Size": "832x1216",
+        "seed": 1883386267,
+        "steps": 49,
+        "prompt": "score_9, score_8_up, score_8_up, 1girl, 1boy, sexy 20yo white caucasian girl, girls licking cock, (((licking cock))),  (red hair), hair in messy updo, long hair, (small breasts;1.3)  narrow hips, breasts exposed, source comic book, pastel colors, high res image, masterpiece, gym equipment in the background, view pov, (man pov), sloppy, (lots of saliva),  (head grab)",
+        "sampler": "DPM++ 2M",
         "cfgScale": 4,
         "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/9ME1BC2125Q4G7JWPN3S5E54W0.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "bad quality, worst quality, worst detail, censor, missing fingers, extra fingers, blurry eyes, poorly drawn eyes, skewed eyes, bad anatomy, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, cencored. signature, watermark, censored, logo, waterprints, title, cropped image, close up, ",
+        "resources": [],
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 2019115
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808
           },
           {
             "type": "lora",
             "weight": 0.9,
-            "modelVersionId": 1394295
+            "modelVersionId": 298238
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1244133
+            "weight": 1,
+            "modelVersionId": 388624
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 2110071
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 1027964
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "weight": 0.5,
+            "modelVersionId": 402062
           }
         ]
       },
-      "username": "Futurabbit",
-      "baseModel": "Illustrious",
+      "username": "yavnnbtanr_94",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1027964,
-        1244133,
-        1394295,
-        2019115,
-        2110071
+        244808,
+        290640,
+        298238,
+        388624,
+        402062
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "188|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=188%7C1744925392028"
+    "nextCursor": "189|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=189%7C1744925392028"
   }
 }
