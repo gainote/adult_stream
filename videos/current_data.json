@@ -1,90 +1,98 @@
 {
   "items": [
     {
-      "id": 60280162,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00d9621e-bfc2-4099-84d2-4c24fd5c73ef/width=1344/00d9621e-bfc2-4099-84d2-4c24fd5c73ef.jpeg",
-      "hash": "USDc5bWExa%1~qNHxZt6tlNbR*R*NdxZNHR*",
-      "width": 1344,
-      "height": 2240,
+      "id": 22048836,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce9035e6-b60f-45de-ac9a-3a5ab7dde2b8/width=832/ce9035e6-b60f-45de-ac9a-3a5ab7dde2b8.jpeg",
+      "hash": "U5G?S7-90M5QBoTI]-IB0~0g}YS~9u}DNbO=",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-02T19:30:00.000Z",
-      "postId": 13482112,
+      "browsingLevel": 16,
+      "createdAt": "2024-07-30T19:48:57.924Z",
+      "postId": 4915218,
       "stats": {
-        "cryCount": 153,
-        "laughCount": 321,
-        "likeCount": 2872,
+        "cryCount": 118,
+        "laughCount": 290,
+        "likeCount": 2606,
         "dislikeCount": 0,
-        "heartCount": 1424,
-        "commentCount": 2
+        "heartCount": 1755,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 318301650995992,
-        "Model": "waiNSFWIllustrious_v90.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "178fc987b2",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, 1girl, (fischl \\(genshin impact\\):1.1), completely nude, full body, outdoors, balcony, medieval castle, direct sun, horizon, scenery, vivid colors, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 4,
+        "Size": "832x1216",
+        "seed": 2801720512,
+        "steps": 29,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up), source_cartoon, 1girl, mabel pines \\(gravity falls)\\ , beautiful, adult, hairband, pose, closeup, stripped bikini, bedroom, posters, shiny, stars, white thighhighs, laying, spread legs, leg up, grabbing leg, vaginal, fucked hard, rough, eyes rolling back, sweat, blush",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-07-30T1936:39.4200127Z",
+        "negativePrompt": "easynegative, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, flat chest, kid, teenager",
+        "civitaiResources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.6
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
             "type": "lora",
-            "weight": 0.7000000000000001
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
-            "hash": "178fc987b2",
-            "name": "waiNSFWIllustrious_v90.safetensors",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 524172,
+            "modelVersionName": "Chipmunking v2.0 PonyXL"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "178fc987b2",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry,"
+        ]
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "Bancin",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        567119,
-        1050644,
-        1283437,
-        1284348,
-        1345990
+        9208,
+        239420,
+        290640,
+        398847,
+        436219,
+        524172
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "191|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=191%7C1744925392028"
+    "nextCursor": "192|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=192%7C1744925392028"
   }
 }
