@@ -1,84 +1,102 @@
 {
   "items": [
     {
-      "id": 15553813,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d7ec70e7-6129-4e93-9660-7458f6b722a6/width=832/d7ec70e7-6129-4e93-9660-7458f6b722a6.jpeg",
-      "hash": "UNIz@z?a9^$i?^?b-;My0g?a%MRkV@WYof%L",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 94812249,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d599e7d4-1e33-4709-bdd9-2128b355f6ae/width=1280/d599e7d4-1e33-4709-bdd9-2128b355f6ae.jpeg",
+      "hash": "UIEVpT00ysVs%#IAtQbvKPMxozjZxCXSnhWX",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-08T11:30:02.453Z",
-      "postId": 3463587,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-17T19:37:00.000Z",
+      "postId": 21033693,
       "stats": {
-        "cryCount": 225,
-        "laughCount": 399,
-        "likeCount": 2791,
+        "cryCount": 200,
+        "laughCount": 291,
+        "likeCount": 2858,
         "dislikeCount": 0,
-        "heartCount": 1379,
-        "commentCount": 5
+        "heartCount": 1444,
+        "commentCount": 6
       },
       "meta": {
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "832x1216",
-        "seed": 4063139810,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "ac006fdd7e",
-          "lora:DAP back-000006": "8296ff1bcbce",
-          "lora:Backless Panties PXL 2-000009": "6be1f77ca115"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, source anime,  backless panties, 1girl, double anal, 1girl, 2boys, on back,makima \\(chainsaw man\\), light smile, black panties,   <lora:DAP back-000006:1>   <lora:Backless Panties PXL 2-000009:1>",
-        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "Mask blur": "4",
-        "resources": [
-          {
-            "hash": "8296ff1bcbce",
-            "name": "DAP back-000006",
-            "type": "lora"
-          },
-          {
-            "hash": "6be1f77ca115",
-            "name": "Backless Panties PXL 2-000009",
-            "type": "lora"
-          },
-          {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
-            "type": "model"
-          }
+        "seed": 445189152,
+        "Model": "urn:air:sdxl:checkpoint:civitai:623891@2019115",
+        "extra": {},
+        "steps": 28,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:623891@2019115"
         ],
-        "Model hash": "ac006fdd7e",
-        "Inpaint area": "Only masked",
-        "negativePrompt": "monochrome,",
-        "ADetailer model": "Anzhc Face -seg.pt",
-        "ADetailer version": "24.3.0",
-        "Denoising strength": "0.4",
-        "ADetailer mask blur": "4",
-        "Masked area padding": "32",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "prompt": "surreal, anime, line art, ((thin lines)), 1girl, 28 year old girl, cute, normal breasts, double braids, bangs, dark hair, blue eyes, look at viewer, sexy, horny, wet, partially submerged, voluptuous , ((tribal cloth, hair ornaments, feather crown)), dark-skinned female, underboob, midriff, standing, open mouth, sexy, blushing, ((open mouth, sucking finger, tongue)), sensual, provocative, seductive pose, flirty expression, teasing, alluring, tempting, sexy look, playful, sultry, erotic gesture, inviting, suggestive, erected nipples, break, close up, face close up, river, waterfall",
+        "denoise": 0.3,
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/9ME1BC2125Q4G7JWPN3S5E54W0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "bad quality, worst quality, worst detail, censor, missing fingers, extra fingers, blurry eyes, poorly drawn eyes, skewed eyes, bad anatomy, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, cencored. signature, watermark, censored, logo, waterprints, title, cropped image, close up, ",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 2019115
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1394295
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1244133
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 2110071
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 1027964
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ]
       },
-      "username": "Kojimbomber",
-      "baseModel": "Pony",
+      "username": "Futurabbit",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        324524,
-        568588
+        164821,
+        1027964,
+        1244133,
+        1394295,
+        2019115,
+        2110071
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "187|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=187%7C1744925392028"
+    "nextCursor": "188|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=188%7C1744925392028"
   }
 }
