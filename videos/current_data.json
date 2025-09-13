@@ -1,60 +1,90 @@
 {
   "items": [
     {
-      "id": 16847021,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90c433af-83b3-4cd1-92ea-2f50282bf67c/width=832/90c433af-83b3-4cd1-92ea-2f50282bf67c.jpeg",
-      "hash": "UADJCpj^4-_NR+ogXTWX9]s.ibNG4Tbv-;i_",
-      "width": 832,
-      "height": 1216,
+      "id": 60280162,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00d9621e-bfc2-4099-84d2-4c24fd5c73ef/width=1344/00d9621e-bfc2-4099-84d2-4c24fd5c73ef.jpeg",
+      "hash": "USDc5bWExa%1~qNHxZt6tlNbR*R*NdxZNHR*",
+      "width": 1344,
+      "height": 2240,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-06-23T08:35:01.247Z",
-      "postId": 3779531,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-02T19:30:00.000Z",
+      "postId": 13482112,
       "stats": {
-        "cryCount": 158,
-        "laughCount": 378,
-        "likeCount": 2539,
+        "cryCount": 153,
+        "laughCount": 321,
+        "likeCount": 2872,
         "dislikeCount": 0,
-        "heartCount": 1699,
-        "commentCount": 5
+        "heartCount": 1424,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 436030500,
-        "steps": 24,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, 1boy, (blonde girl sleeping lying on her side), rear view, ass focus, beautiful pussy (creampie) cumdrip from pussy, anus, pajamas, panties pull, , by nora higuma, lovecraft style,high-detailed,4k",
-        "sampler": "Euler a",
+        "Size": "768x1280",
+        "seed": 318301650995992,
+        "Model": "waiNSFWIllustrious_v90.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "178fc987b2",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, 1girl, (fischl \\(genshin impact\\):1.1), completely nude, full body, outdoors, balcony, medieval castle, direct sun, horizon, scenery, vivid colors, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
         "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-06-23T0825:24.9995188Z",
-        "negativePrompt": "blur,extra finger ,watermark, bad hands, bad fingers, bad anatomy, missing digit, extra digit, fewer digits, interlocked fingers, anatomically incorrect hands, bad quality, worst quality, low res,",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 534642,
-            "modelVersionName": "v2.1 Main + VAE"
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
           },
           {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight"
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "178fc987b2",
+            "name": "waiNSFWIllustrious_v90.safetensors",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "178fc987b2",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry,"
       },
-      "username": "God_Of_Thicc",
-      "baseModel": "Pony",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        330475,
-        534642
+        567119,
+        1050644,
+        1283437,
+        1284348,
+        1345990
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "190|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=190%7C1744925392028"
+    "nextCursor": "191|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=191%7C1744925392028"
   }
 }
