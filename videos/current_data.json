@@ -1,75 +1,60 @@
 {
   "items": [
     {
-      "id": 9979458,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dc77d7d7-ff83-4756-9f22-78dd970c3e2a/width=832/dc77d7d7-ff83-4756-9f22-78dd970c3e2a.jpeg",
-      "hash": "URL{}Aa#*J%L^*aKt6g3pds:ofj[%#kWRjof",
+      "id": 16847021,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90c433af-83b3-4cd1-92ea-2f50282bf67c/width=832/90c433af-83b3-4cd1-92ea-2f50282bf67c.jpeg",
+      "hash": "UADJCpj^4-_NR+ogXTWX9]s.ibNG4Tbv-;i_",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-04-16T01:17:39.763Z",
-      "postId": 2171294,
+      "createdAt": "2024-06-23T08:35:01.247Z",
+      "postId": 3779531,
       "stats": {
-        "cryCount": 153,
-        "laughCount": 336,
-        "likeCount": 2520,
+        "cryCount": 158,
+        "laughCount": 378,
+        "likeCount": 2539,
         "dislikeCount": 0,
-        "heartCount": 1775,
-        "commentCount": 1
+        "heartCount": 1699,
+        "commentCount": 5
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1883386267,
-        "steps": 49,
-        "prompt": "score_9, score_8_up, score_8_up, 1girl, 1boy, sexy 20yo white caucasian girl, girls licking cock, (((licking cock))),  (red hair), hair in messy updo, long hair, (small breasts;1.3)  narrow hips, breasts exposed, source comic book, pastel colors, high res image, masterpiece, gym equipment in the background, view pov, (man pov), sloppy, (lots of saliva),  (head grab)",
-        "sampler": "DPM++ 2M",
+        "seed": 436030500,
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, 1boy, (blonde girl sleeping lying on her side), rear view, ass focus, beautiful pussy (creampie) cumdrip from pussy, anus, pajamas, panties pull, , by nora higuma, lovecraft style,high-detailed,4k",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears",
+        "Created Date": "2024-06-23T0825:24.9995188Z",
+        "negativePrompt": "blur,extra finger ,watermark, bad hands, bad fingers, bad anatomy, missing digit, extra digit, fewer digits, interlocked fingers, anatomically incorrect hands, bad quality, worst quality, low res,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 534642,
+            "modelVersionName": "v2.1 Main + VAE"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 298238
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 388624
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 402062
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
           }
         ]
       },
-      "username": "yavnnbtanr_94",
+      "username": "God_Of_Thicc",
       "baseModel": "Pony",
       "modelVersionIds": [
-        244808,
-        290640,
-        298238,
-        388624,
-        402062
+        330475,
+        534642
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "189|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=189%7C1744925392028"
+    "nextCursor": "190|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=190%7C1744925392028"
   }
 }
