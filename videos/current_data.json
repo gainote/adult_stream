@@ -1,100 +1,122 @@
 {
   "items": [
     {
-      "id": 48283260,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/40c5a5fb-6295-40c1-992e-81639d1fb6ec/width=832/40c5a5fb-6295-40c1-992e-81639d1fb6ec.jpeg",
-      "hash": "UBG@JO58BB#+sA58~A-903Io^OI;-o^PE20#",
+      "id": 76343373,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b55d9e90-5289-4c7e-85d2-a735af39009a/width=832/b55d9e90-5289-4c7e-85d2-a735af39009a.jpeg",
+      "hash": "UTL:ZY%3JU~W4.R-R+aK0eWWRPRPIoM{xaxt",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-29T09:02:01.582Z",
-      "postId": 10886417,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-16T19:23:33.615Z",
+      "postId": 16954773,
       "stats": {
-        "cryCount": 132,
-        "laughCount": 331,
-        "likeCount": 2786,
+        "cryCount": 191,
+        "laughCount": 386,
+        "likeCount": 2994,
         "dislikeCount": 0,
-        "heartCount": 1595,
+        "heartCount": 1262,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
         "nsfw": true,
-        "seed": 864165238,
+        "seed": 1488177036,
         "draft": false,
-        "extra": {
-          "remixOfId": 47328154
-        },
-        "steps": 48,
+        "steps": 30,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, ginger hair, short hair in ponytail, orange ginger,  40yo milf, 1boy, cute round bum, round natural large boobs, wide hips, narrow waist, pretty face, sexy woman, kawaii face, horny face, confident , perfect cute face, puffy breasts, freckles, pale skin, self ass opening gesture, spreading own ass cheeks, juicy plump ass, skin indentation, (standing doggy style sex, bent over, bedroom), man in front, looking back at viewer. ANAL. Kneeling, Bedroom, doorway,\nPolka dot cotton panties pinched to side, \nPulled down tight denim jeans, pink frilly bra opened, \nViewer anal fucking girl from behind close up,  \n(ntr), ntred, walk-in, (shiny skin), caught, eyes rolling, moaning, <lora:NTR:1>",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3),  <lora:escoffier-illu-nvwls-v1-000007:1> gsesc, blonde hair, long hair, ahoge, blue eyes, breasts, large breasts, ass, firm perky ass, A digital illustration shoot from a below camera angle about a young woman in a revealing outfit sitting on a bed with her legs spread, ((stretches her feet towards the viewer)). ((wearing white fishnet stockings:1.5)), with a playful expression. the image also shows a soft, pastel color palette. on the middle of the image, a 1girl, who appears to be a young adult, is sitting on the bed, wearing a red velvet, see-through dress with a plunging neckline and white thigh-high stockings. she has long hair, green eyes, and is looking directly at the viewer with a seductive expression, her mouth slightly open. her body is slim. the background is a simple bedroom with a window and curtains. relaxed but provocative, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle from behind:1.5)), from below, blurry background, bright colors, stunningly artwork",
+        "sampler": "DDIM",
+        "cfgScale": 3.5,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [
           {
-            "name": "NTR",
+            "name": "escoffier-illu-nvwls-v1-000007",
             "type": "lora",
             "weight": 1
           }
         ],
-        "Created Date": "2024-12-29T0855:40.8005909Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers",
+        "Created Date": "2025-05-14T0312:40.0038212Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1412789,
+            "modelVersionName": "v2.90"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 91028,
+            "modelVersionName": "aid291"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
             "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "modelVersionId": 211788,
+            "modelVersionName": "v1"
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 761452,
-            "modelVersionName": "v2"
+            "weight": 0.8,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 504032,
-            "modelVersionName": "v1.0"
+            "weight": 0.3,
+            "modelVersionId": 1193082,
+            "modelVersionName": "Illustrious"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1781851,
+            "modelVersionName": "v1 (Illustrious v0.1)"
           }
         ]
       },
-      "username": "SlapperMePlease",
-      "baseModel": "Pony",
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        436219,
-        504032,
-        761452
+        9208,
+        60938,
+        91028,
+        135867,
+        211788,
+        244808,
+        1193082,
+        1412789,
+        1781851
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "181|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=181%7C1744925392028"
+    "nextCursor": "182|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=182%7C1744925392028"
   }
 }
