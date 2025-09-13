@@ -1,98 +1,76 @@
 {
   "items": [
     {
-      "id": 22048836,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce9035e6-b60f-45de-ac9a-3a5ab7dde2b8/width=832/ce9035e6-b60f-45de-ac9a-3a5ab7dde2b8.jpeg",
-      "hash": "U5G?S7-90M5QBoTI]-IB0~0g}YS~9u}DNbO=",
-      "width": 832,
-      "height": 1216,
+      "id": 64947509,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76764649-a6ed-41a3-9690-bad316fadf50/width=1024/76764649-a6ed-41a3-9690-bad316fadf50.jpeg",
+      "hash": "UFK0{R}9yY0fk?Nw9ukW0}nNVY%3w[?G$4%2",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-07-30T19:48:57.924Z",
-      "postId": 4915218,
+      "createdAt": "2025-03-21T19:18:07.043Z",
+      "postId": 14470677,
       "stats": {
-        "cryCount": 118,
-        "laughCount": 290,
-        "likeCount": 2606,
+        "cryCount": 178,
+        "laughCount": 312,
+        "likeCount": 2742,
         "dislikeCount": 0,
-        "heartCount": 1755,
-        "commentCount": 0
+        "heartCount": 1538,
+        "commentCount": 4
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2801720512,
-        "steps": 29,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up), source_cartoon, 1girl, mabel pines \\(gravity falls)\\ , beautiful, adult, hairband, pose, closeup, stripped bikini, bedroom, posters, shiny, stars, white thighhighs, laying, spread legs, leg up, grabbing leg, vaginal, fucked hard, rough, eyes rolling back, sweat, blush",
+        "Size": "1024x1536",
+        "seed": 2935247351,
+        "Model": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
+        "steps": 30,
+        "hashes": {
+          "model": "8a5c2c7767",
+          "embed:lazyneg": "e56abc0d9e",
+          "embed:lazypos": "5060dec74f",
+          "lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious": "bd7a379343",
+          "lora:FUCKED_SILLY_-_Extreme_Rough_Sex_-_Best_Lewd_Expression_v1.0__Pony_XL": "13be9f6150"
+        },
+        "prompt": "embedding:lazypos, extreme sex, 1girl, 20 years old, black hair, fit, slim, medium breasts, straight hair, blunt bangs, hair over one eye, long hair, red eyes,\neyes crossed, torogao, spitroast, black choker, black jacket, open clothes, long sleeves, big eyes, (((penis over one eye, hetero, penis on face, penis, from above, partial side view, bed room, open mouth, tongue, saliva, blush))), head grab, large  cock, hand on cock, hand squeezing testicles, grabbing balls, squeezing balls, cumshot, cum on hair, cum on face, cum on nose, ((animated, bright colors, hentai)) <lora:FUCKED_SILLY_-_Extreme_Rough_Sex_-_Best_Lewd_Expression_v1.0__Pony_XL:1> <lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious:0.8>",
         "sampler": "Euler a",
-        "cfgScale": 5.5,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-30T1936:39.4200127Z",
-        "negativePrompt": "easynegative, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, flat chest, kid, teenager",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "hash": "13be9f6150",
+            "name": "FUCKED_SILLY_-_Extreme_Rough_Sex_-_Best_Lewd_Expression_v1.0__Pony_XL",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 1
           },
           {
+            "hash": "bd7a379343",
+            "name": "TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious",
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.8
           },
           {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 524172,
-            "modelVersionName": "Chipmunking v2.0 PonyXL"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "8a5c2c7767",
+            "name": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "8a5c2c7767",
+        "negativePrompt": "embedding:lazyneg"
       },
-      "username": "Bancin",
-      "baseModel": "Pony",
+      "username": "janxd",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        239420,
-        290640,
-        398847,
-        436219,
-        524172
+        1448737,
+        1470451,
+        1470501,
+        1520822,
+        1525879
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "192|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=192%7C1744925392028"
+    "nextCursor": "193|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=193%7C1744925392028"
   }
 }
