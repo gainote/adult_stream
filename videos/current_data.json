@@ -1,76 +1,114 @@
 {
   "items": [
     {
-      "id": 64947509,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76764649-a6ed-41a3-9690-bad316fadf50/width=1024/76764649-a6ed-41a3-9690-bad316fadf50.jpeg",
-      "hash": "UFK0{R}9yY0fk?Nw9ukW0}nNVY%3w[?G$4%2",
-      "width": 1024,
-      "height": 1536,
+      "id": 83785390,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ebd2cea-99af-4a86-94f3-31b19bb4db36/width=1800/4ebd2cea-99af-4a86-94f3-31b19bb4db36.jpeg",
+      "hash": "UFHT:Q}sFKAC00NGV@xZO=-p=es:%1wcs;9a",
+      "width": 2688,
+      "height": 3840,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-03-21T19:18:07.043Z",
-      "postId": 14470677,
+      "createdAt": "2025-06-22T22:50:00.000Z",
+      "postId": 18604156,
       "stats": {
-        "cryCount": 178,
-        "laughCount": 312,
-        "likeCount": 2742,
+        "cryCount": 161,
+        "laughCount": 329,
+        "likeCount": 2826,
         "dislikeCount": 0,
-        "heartCount": 1538,
-        "commentCount": 4
+        "heartCount": 1434,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "1024x1536",
-        "seed": 2935247351,
-        "Model": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
-        "steps": 30,
-        "hashes": {
-          "model": "8a5c2c7767",
-          "embed:lazyneg": "e56abc0d9e",
-          "embed:lazypos": "5060dec74f",
-          "lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious": "bd7a379343",
-          "lora:FUCKED_SILLY_-_Extreme_Rough_Sex_-_Best_Lewd_Expression_v1.0__Pony_XL": "13be9f6150"
-        },
-        "prompt": "embedding:lazypos, extreme sex, 1girl, 20 years old, black hair, fit, slim, medium breasts, straight hair, blunt bangs, hair over one eye, long hair, red eyes,\neyes crossed, torogao, spitroast, black choker, black jacket, open clothes, long sleeves, big eyes, (((penis over one eye, hetero, penis on face, penis, from above, partial side view, bed room, open mouth, tongue, saliva, blush))), head grab, large  cock, hand on cock, hand squeezing testicles, grabbing balls, squeezing balls, cumshot, cum on hair, cum on face, cum on nose, ((animated, bright colors, hentai)) <lora:FUCKED_SILLY_-_Extreme_Rough_Sex_-_Best_Lewd_Expression_v1.0__Pony_XL:1> <lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious:0.8>",
+        "nsfw": false,
+        "seed": 637973672,
+        "vaes": [],
+        "draft": false,
+        "extra": {},
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "models": [],
+        "prompt": "score_9, score_8_up, score_7_up,from side, side profile, wi does background, \n1girl, fair skin, 22 years old, short blonde hair with pink highlights, blue eyes, petite, small breasts. wearing top, short sleeves, pleated skirt, gradient pink thighhighs, stirrup legwear, lying on back, pretzel pose, legs behind head, just fucked, penis oullout, ahegao, feet, feet up, soles, grabbing own thighs, pussy, anus, pulled up top, exposed breasts, happy, colorful\n(creampie, cum dripping, orgasm, trembling, quivering, sweating, oiled, extreme nervous, extreme worried, looking up, nervous) wet skin",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "resources": [
+        "modelIds": [],
+        "quantity": 6,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "openAIQuality": "medium",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, low resolution, blurry face, hairy pussy, worst quality, low quality, censored, deformed, bad hand, blur, watermark, extra hands, easynegative, piercing, horns, bang, pov, from above, ",
+        "civitaiResources": [
           {
-            "hash": "13be9f6150",
-            "name": "FUCKED_SILLY_-_Extreme_Rough_Sex_-_Best_Lewd_Expression_v1.0__Pony_XL",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 770375
           },
           {
-            "hash": "bd7a379343",
-            "name": "TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious",
-            "type": "lora",
-            "weight": 0.8
+            "weight": 1,
+            "modelVersionId": 9208
           },
           {
-            "hash": "8a5c2c7767",
-            "name": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 60938
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 720175
+          },
+          {
+            "weight": 2,
+            "modelVersionId": 1926995
+          },
+          {
+            "weight": 2,
+            "modelVersionId": 1855761
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ],
-        "Model hash": "8a5c2c7767",
-        "negativePrompt": "embedding:lazyneg"
+        "additionalResources": []
       },
-      "username": "janxd",
-      "baseModel": "Illustrious",
+      "username": "klaabu",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1448737,
-        1470451,
-        1470501,
-        1520822,
-        1525879
+        9208,
+        60938,
+        164821,
+        382152,
+        398847,
+        436219,
+        720175,
+        770375,
+        1855761,
+        1926995
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "193|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=193%7C1744925392028"
+    "nextCursor": "194|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=194%7C1744925392028"
   }
 }
