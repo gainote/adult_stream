@@ -1,114 +1,137 @@
 {
   "items": [
     {
-      "id": 83785390,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ebd2cea-99af-4a86-94f3-31b19bb4db36/width=1800/4ebd2cea-99af-4a86-94f3-31b19bb4db36.jpeg",
-      "hash": "UFHT:Q}sFKAC00NGV@xZO=-p=es:%1wcs;9a",
-      "width": 2688,
-      "height": 3840,
+      "id": 48535020,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63a6b273-3bfb-4fab-9b34-508f81cb00e1/width=832/63a6b273-3bfb-4fab-9b34-508f81cb00e1.jpeg",
+      "hash": "UBHAYA}=0|AH,o-V%MEhKj={-6Ipt8xtjE=w",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-06-22T22:50:00.000Z",
-      "postId": 18604156,
+      "createdAt": "2025-01-25T04:04:44.990Z",
+      "postId": 10940810,
       "stats": {
-        "cryCount": 161,
-        "laughCount": 329,
-        "likeCount": 2828,
+        "cryCount": 193,
+        "laughCount": 424,
+        "likeCount": 2762,
         "dislikeCount": 0,
-        "heartCount": 1434,
-        "commentCount": 0
+        "heartCount": 1373,
+        "commentCount": 1
       },
       "meta": {
-        "nsfw": false,
-        "seed": 637973672,
+        "nsfw": true,
+        "seed": 844376377,
         "vaes": [],
-        "draft": false,
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
         "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/91D5ZXPDKZGJK8M27XD6C24D40",
         "steps": 34,
         "width": 832,
         "height": 1216,
-        "models": [],
-        "prompt": "score_9, score_8_up, score_7_up,from side, side profile, wi does background, \n1girl, fair skin, 22 years old, short blonde hair with pink highlights, blue eyes, petite, small breasts. wearing top, short sleeves, pleated skirt, gradient pink thighhighs, stirrup legwear, lying on back, pretzel pose, legs behind head, just fucked, penis oullout, ahegao, feet, feet up, soles, grabbing own thighs, pussy, anus, pulled up top, exposed breasts, happy, colorful\n(creampie, cum dripping, orgasm, trembling, quivering, sweating, oiled, extreme nervous, extreme worried, looking up, nervous) wet skin",
-        "sampler": "Euler a",
-        "cfgScale": 6,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, raven, starfire, robin,  (2girls, futa on male on futa, threesome, femdom, from behind,  in bed, anal), dominated, cum in ass, (love train), (futanari), moaning, score_9_up, score_8_up, score_7_up, score_6_up,  (cropped baggy tshirt, loose sweatpants), bedroom,  panties around leg, cute, crossdressing, detailed open eyes,  prone bone, starry sky, lamp,  smug",
+        "denoise": 0.45,
+        "sampler": "dpmpp_2_ancestral",
+        "cfgScale": 4,
         "clipSkip": 2,
         "modelIds": [],
-        "quantity": 6,
-        "workflow": "txt2img",
+        "quantity": 4,
+        "workflow": "img2img",
         "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
+        "upscalers": [],
         "versionIds": [],
         "controlNets": [],
         "experimental": false,
-        "openAIQuality": "medium",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, low resolution, blurry face, hairy pussy, worst quality, low quality, censored, deformed, bad hand, blur, watermark, extra hands, easynegative, piercing, horns, bang, pov, from above, ",
+        "negativePrompt": "safe_neg, SimpleNegativeV3, score_6, score_5, score_4, monochrome, background characters, twins, clones",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 770375
+            "modelVersionId": 290640
           },
           {
             "weight": 1,
-            "modelVersionId": 9208
+            "modelVersionId": 290640
           },
           {
-            "weight": 1,
-            "modelVersionId": 60938
-          },
-          {
-            "weight": 1,
+            "weight": 0.6,
             "modelVersionId": 382152
           },
           {
-            "weight": 0.3,
+            "weight": 1,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.6,
             "modelVersionId": 398847
           },
           {
-            "weight": 0.65,
-            "modelVersionId": 436219
-          },
-          {
             "weight": 1,
-            "modelVersionId": 720175
+            "modelVersionId": 287973
           },
           {
-            "weight": 2,
-            "modelVersionId": 1926995
+            "modelVersionId": 250708
           },
           {
-            "weight": 2,
-            "modelVersionId": 1855761
+            "modelVersionId": 250712
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 398847
           }
         ],
-        "additionalResources": []
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888231@398847",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "klaabu",
+      "username": "revenge623",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        60938,
-        164821,
+        244808,
+        287973,
+        290640,
         382152,
-        398847,
-        436219,
-        720175,
-        770375,
-        1855761,
-        1926995
+        398847
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "196|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=196%7C1744925392028"
+    "nextCursor": "197|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=197%7C1744925392028"
   }
 }
