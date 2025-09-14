@@ -1,137 +1,90 @@
 {
   "items": [
     {
-      "id": 48535020,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63a6b273-3bfb-4fab-9b34-508f81cb00e1/width=832/63a6b273-3bfb-4fab-9b34-508f81cb00e1.jpeg",
-      "hash": "UBHAYA}=0|AH,o-V%MEhKj={-6Ipt8xtjE=w",
-      "width": 832,
-      "height": 1216,
+      "id": 59427954,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a19240c-3364-48f3-a371-5cbd51136af6/width=1336/8a19240c-3364-48f3-a371-5cbd51136af6.jpeg",
+      "hash": "ULHURY~p%yOs?atlShxu01IUVYs9Z~M_n#R*",
+      "width": 1336,
+      "height": 2224,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-01-25T04:04:44.990Z",
-      "postId": 10940810,
+      "createdAt": "2025-02-23T04:39:00.000Z",
+      "postId": 13293739,
       "stats": {
-        "cryCount": 193,
-        "laughCount": 424,
-        "likeCount": 2762,
+        "cryCount": 150,
+        "laughCount": 283,
+        "likeCount": 2857,
         "dislikeCount": 0,
-        "heartCount": 1373,
-        "commentCount": 1
+        "heartCount": 1457,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "seed": 844376377,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/91D5ZXPDKZGJK8M27XD6C24D40",
-        "steps": 34,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "safe_pos, raven, starfire, robin,  (2girls, futa on male on futa, threesome, femdom, from behind,  in bed, anal), dominated, cum in ass, (love train), (futanari), moaning, score_9_up, score_8_up, score_7_up, score_6_up,  (cropped baggy tshirt, loose sweatpants), bedroom,  panties around leg, cute, crossdressing, detailed open eyes,  prone bone, starry sky, lamp,  smug",
-        "denoise": 0.45,
-        "sampler": "dpmpp_2_ancestral",
-        "cfgScale": 4,
+        "Size": "768x1280",
+        "seed": 597222929667850,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), vaginal object insertion, (holding:1.5) (hitachi magic wand:1.1), standing under tree, orchard background,\noutdoors, orchad, garden, scenery, apple trees, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 4,
-        "workflow": "img2img",
-        "baseModel": "Pony",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "safe_neg, SimpleNegativeV3, score_6, score_5, score_4, monochrome, background characters, twins, clones",
-        "civitaiResources": [
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 287973
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 382152
+            "weight": 1
           },
           {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808
+            "weight": 1
           },
           {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 398847
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:212532@244808",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:888231@398847",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, (apples on ground:1.1)"
       },
-      "username": "revenge623",
-      "baseModel": "Pony",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        244808,
-        287973,
-        290640,
-        382152,
-        398847
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "197|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=197%7C1744925392028"
+    "nextCursor": "198|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=198%7C1744925392028"
   }
 }
