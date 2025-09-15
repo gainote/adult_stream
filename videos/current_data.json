@@ -1,80 +1,108 @@
 {
   "items": [
     {
-      "id": 35539654,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1eccd262-d392-4e01-92c5-4df59775d970/width=832/1eccd262-d392-4e01-92c5-4df59775d970.jpeg",
-      "hash": "UFG[7v00X.t7Y60K^+%100~Vs9E18_pJIUt5",
-      "width": 832,
-      "height": 1216,
+      "id": 57898488,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17436329-bf78-4d10-8922-1ae7acd64f09/width=1280/17436329-bf78-4d10-8922-1ae7acd64f09.jpeg",
+      "hash": "U5BfeD00BX-6_N9FT1$%00-;a0-p4n%MngIq",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-10-20T04:01:50.004Z",
-      "postId": 8120329,
+      "createdAt": "2025-02-15T03:53:40.041Z",
+      "postId": 12958020,
       "stats": {
-        "cryCount": 153,
-        "laughCount": 276,
-        "likeCount": 2632,
+        "cryCount": 148,
+        "laughCount": 288,
+        "likeCount": 2732,
         "dislikeCount": 0,
-        "heartCount": 1653,
-        "commentCount": 8
+        "heartCount": 1545,
+        "commentCount": 3
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3531939176,
+        "nsfw": false,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:372465@914390",
         "extra": {
-          "remixOfId": 35195409
+          "remixOfId": 50139715
         },
-        "steps": 24,
-        "prompt": "score_9, score_8_up, score_7_up, realistic, a woman, cute perfect face, (score_9, score_8_up, score_7_up), 1girl, brunette, freckles, 1girl, gorgeous girl ,kawai goth girl ,  dark eyeliner, cute face, cute girl, long fluffy black hair, fishnet panties, bangs, onedari, ass,spread ass , large breasts, (slim fit), sexy pose , closeup , ass focus, puffy anus, g-string, short pubic hair, blurry background, light particles",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/XCXKNM5DXHNNRQDJAWY5RH8J30",
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:372465@914390"
+        ],
+        "prompt": "safe_pos, (score_9, score_8_up, score_7_up), 1girl, young adult, blonde, pale blue eyes, lots of large freckles, gorgeous, kawaii girl, cute face, long hair, bangs, bare breasts, large breasts, wide areolae, (slim fit), breast focus, bustier, wide hips, (big booty:1.3), navel, low-rising skirt, waist, glossy, pretty girl, focus on girl, side view, aesthetic,\nBREAK\ncrowded medieval tavern, carrying full tankards, beer girl, leering bearded patrons",
+        "denoise": 0.3,
+        "sampler": "dpmpp_2_ancestral",
+        "cfgScale": 6.5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-20T0258:38.1905023Z",
-        "negativePrompt": "score_5, score_4, 3d, simple background",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-facefix",
+        "baseModel": "Pony",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "civit_nsfw, safe_neg, score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, low quality body,",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 914390
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 914390
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 106916
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 817261,
-            "modelVersionName": "v6.0"
+            "modelVersionId": 914390
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
+            "weight": 0.65,
+            "modelVersionId": 436219
+          }
+        ],
+        "additionalResources": [
           {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
             "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 761452,
-            "modelVersionName": "v2"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "strength": 0.65,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "DrPeeHands",
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
         436219,
-        761452,
-        817261
+        914390
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "204|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=204%7C1744925392028"
+    "nextCursor": "205|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=205%7C1744925392028"
   }
 }
