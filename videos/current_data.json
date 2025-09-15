@@ -1,110 +1,70 @@
 {
   "items": [
     {
-      "id": 81768078,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a7ae228-1d59-49f4-899c-d420966191cf/width=1280/1a7ae228-1d59-49f4-899c-d420966191cf.jpeg",
-      "hash": "U4CF3P-B00-V^5xGnjrrMxR*}[S2IoNuEgI:",
-      "width": 1280,
-      "height": 1856,
+      "id": 90766879,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/641af064-e3f4-4f24-9dff-c831e2257ead/width=1024/641af064-e3f4-4f24-9dff-c831e2257ead.jpeg",
+      "hash": "U3Al@ANI00%1?Z9uE2~B00NH~V-o4;={bv0f",
+      "width": 1024,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-12T00:41:00.000Z",
-      "postId": 18163826,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-27T11:17:36.594Z",
+      "postId": 19968998,
       "stats": {
-        "cryCount": 168,
-        "laughCount": 296,
-        "likeCount": 2728,
+        "cryCount": 240,
+        "laughCount": 445,
+        "likeCount": 2777,
         "dislikeCount": 0,
-        "heartCount": 1450,
-        "commentCount": 11
+        "heartCount": 1179,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 69235197,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
-        "extra": {
-          "remixOfId": 79239993
-        },
-        "steps": 19,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, solo, (depth of field), indoors,\nelf, dark blue hair, red eyes, cute face, slender, small breasts, twin buns, blunt bangs, sidelocks, beautiful, kawaii, short pointy ears, embarrassed, shy, nude, detailed pussy, long black opera gloves, black thigh highs, black choker, looking at viewer, walking, night club, crowd, holding tray of drinks, cowboy shot,",
+        "Size": "1024x1024",
+        "seed": 713942252,
+        "draft": false,
+        "steps": 40,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "1girl,, bethiella, solo, russian elven girl girl, natural pale green eyes, blonde hair, blood elf, long hair, ((perfect  breasts:1.8)), pale skin,, detailed skin pores, intricate details, long ears, beautiful face, sexy face, beautyful pale green eyes, detailed eyes, wide hips, hyperrealistic, amature film, livingroom background, perfect body, cute face, very narrow waist, small frame, atheltic  body, arched back, long black eyelashes, makeup, natural lighting, long styled curled hair, very long hair,, perfect face, styled  hair, extremly long hair, skirt, bending over, wide hips, ((big ass:1.3)), sexy dress with long sleeves, ((elf clothes)), she twists her body towards veiwer, high heels, nipples showing, ((huge black dildo:1.4)), riding on a huge black dildo, dildo in pussy, orgasm, ((orgasm face:2.0)), moaning in pleasure, arched back, ((huge dildo in pussy:1.5)), balls deep, cowgirl, pov, leaning back, ((female orgasm:2.0)), streched pussy, greeen leather boots, green skirt,",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, uneven tan,",
+        "cfgScale": 2,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-07-20T0953:46.2389374Z",
+        "experimental": false,
+        "negativePrompt": "easynegative, score_5, score_4, 3d, anime, cartoon, drawing, doll, plastic, fake, rendered, ai, illustration, (pubic hair), angular face, , old, milf, elderly,, blood",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1416874
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1490781
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 1871475,
+            "modelVersionName": "Semi-Real v3.5"
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
+            "weight": 0.7,
+            "modelVersionId": 1630486,
+            "modelVersionName": "Bethiella V1"
           }
         ]
       },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
+      "username": "Bethiella",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1189052,
-        1416874,
-        1490781
+        1630486,
+        1871475
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "211|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=211%7C1744925392028"
+    "nextCursor": "212|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=212%7C1744925392028"
   }
 }
