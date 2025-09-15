@@ -1,133 +1,98 @@
 {
   "items": [
     {
-      "id": 50760858,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0d997a9a-3d05-4fe4-9f42-c14429022f6d/width=832/0d997a9a-3d05-4fe4-9f42-c14429022f6d.jpeg",
-      "hash": "U7H1b-0*.l~B00,-014:02$$t7?bD%T1=ZNI",
+      "id": 89779439,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0c841688-3f48-4e9f-abba-d0b37877b121/width=832/0c841688-3f48-4e9f-abba-d0b37877b121.jpeg",
+      "hash": "UWL4TuDO_NNG?bad-pWBE3WBIUxutlRjWXt7",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-10T17:00:59.187Z",
-      "postId": 11420595,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-22T11:21:11.807Z",
+      "postId": 19914420,
       "stats": {
-        "cryCount": 139,
-        "laughCount": 267,
-        "likeCount": 2822,
+        "cryCount": 141,
+        "laughCount": 353,
+        "likeCount": 2913,
         "dislikeCount": 0,
-        "heartCount": 1459,
-        "commentCount": 2
+        "heartCount": 1253,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1224134244,
+        "seed": 1668168236,
         "draft": false,
-        "steps": 32,
+        "steps": 29,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, close up, (focus on huge penis:1.3), table, , photo card of cute girl, stapple, (text:1.2) , man out of frame, veins, messy room, view from above, (cute flying heart:0.6)",
+        "prompt": "realistic,HassaKu_illu, artist:moriimee, 748cmstyle, jsyu_style, 2025. 07, \n(1girl, solo, masterpiece, best quality, amazing quality, absurdres, newest),  \ndark brown hair, long hair, straight hair, fit, medium breasts, perfect ass, black bikini, body wet, hair wet, standing, on sail boat, looking over railing, looking away, facing away, ocean",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 3.5,
         "clipSkip": 2,
         "quantity": 2,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2025-01-10T1653:53.4049880Z",
-        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-22T1101:47.2884881Z",
+        "experimental": false,
+        "negativePrompt": "source_furry, source_Futanari, censored, worst quality, low quality, hands on own face, hands on own cheeks, ugly, deformed fingers, extra fingers, fused fingers, too many fingers, grainy, Sweat, facial mark, tears of blood, tear drop tattoo, tear tattoo",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
           },
           {
             "type": "lora",
-            "weight": -0.75,
-            "modelVersionId": 534952,
+            "weight": 0.4,
+            "modelVersionId": 1809575,
+            "modelVersionName": "v2.4I Illustrious 5/18"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 1784760,
+            "modelVersionName": "Smooth Booster v3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1056404,
             "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 983142,
-            "modelVersionName": "v1.4-pony"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "weight": 0.5,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 98441,
-            "modelVersionName": "V2"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 128461,
+            "modelVersionId": 1580764,
             "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "vovkkabanko",
-      "baseModel": "Pony",
+      "username": "jsyu",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        98441,
-        128461,
-        135867,
-        290640,
-        298238,
-        382152,
-        436219,
-        534952,
-        983142
+        1056404,
+        1244133,
+        1580764,
+        1761560,
+        1784760,
+        1809575
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "209|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=209%7C1744925392028"
+    "nextCursor": "210|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=210%7C1744925392028"
   }
 }
