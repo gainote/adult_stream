@@ -1,108 +1,40 @@
 {
   "items": [
     {
-      "id": 51343439,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4202df6-1b85-4f71-8701-5a9ba5a43337/width=1800/d4202df6-1b85-4f71-8701-5a9ba5a43337.jpeg",
-      "hash": "UAFhI_R-x^oL8Je.V?Io?wM{M{Rjp{aexGt7",
-      "width": 2496,
-      "height": 3648,
-      "nsfwLevel": "X",
+      "id": 50996447,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2d678540-e9a2-4cb8-9111-b0b94d3efe78/width=1280/2d678540-e9a2-4cb8-9111-b0b94d3efe78.jpeg",
+      "hash": "UCCsv:Q,FtS7_LE3IneV?]R*wt-=?^ngWE-;",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-13T11:01:10.842Z",
-      "postId": 11548599,
+      "browsingLevel": 4,
+      "createdAt": "2025-01-11T19:35:27.857Z",
+      "postId": 11471159,
       "stats": {
-        "cryCount": 140,
-        "laughCount": 232,
-        "likeCount": 2779,
+        "cryCount": 146,
+        "laughCount": 272,
+        "likeCount": 2764,
         "dislikeCount": 0,
-        "heartCount": 1487,
-        "commentCount": 0
+        "heartCount": 1454,
+        "commentCount": 4
       },
-      "meta": {
-        "nsfw": true,
-        "seed": 1002057145,
-        "vaes": [],
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/E85YN9JCDQK6H1SH6ESMK2C8B0.jpeg",
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "safe_pos, masterpiece, ultra-realistic, 32k, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, BREAK, ((6girls)), green eyes, brown eyes, blue eyes, blonde, ((younger faces)), supermodel beauty, all different faces, brunette, black hair, redhead, short hair, bangs, long hair, braids, twintails, perfect body, blush, large perky breasts, pose, caucasian, moaning, (wet body, sweat, wet, perfect ratio proportioned face, petite body, perfect waist to hip ratio, flat stomach, perfect female body, glossy skin, glossy body, soapy skin, wet body, deep skin), BREAK pose, wet, laying on side, sexy, pose, 1 boy, 1large thick dick, male pov, looking at viewer, 1girl sex cowgirl style, grab breast, fancy walk-in shower background, sex in the large shower, blue tile in large shower, well lit, perfect hands, rest of the girls are waiting their turn, ((other girls fondling each other))",
-        "sampler": "Euler a",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 1,
-        "workflow": "img2img-upscale",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "upscaleWidth": 2496,
-        "upscaleHeight": 3648,
-        "negativePrompt": "safe_neg, core_6, score_5, score_4, worst quality, nipple piercing, extra nipple, weirdly placed nipple, multi colored hair, african americans, extra penis, extra penis tip, anime style, twins triplets, low quality, too many fingers on hand, not enough fingers on hand, text, censored, extra hands, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, abnormal scrotum, ",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 1.45,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.35,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 436219
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
-      },
-      "username": "holybratwurst",
+      "meta": null,
+      "username": "paulmuc",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
+        135867,
         164821,
-        244808,
-        290640,
         382152,
-        398847,
-        436219
+        449738,
+        720175,
+        1177183
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "215|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=215%7C1744925392028"
+    "nextCursor": "216|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=216%7C1744925392028"
   }
 }
