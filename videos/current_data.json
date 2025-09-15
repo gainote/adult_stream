@@ -1,108 +1,75 @@
 {
   "items": [
     {
-      "id": 57898488,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17436329-bf78-4d10-8922-1ae7acd64f09/width=1280/17436329-bf78-4d10-8922-1ae7acd64f09.jpeg",
-      "hash": "U5BfeD00BX-6_N9FT1$%00-;a0-p4n%MngIq",
-      "width": 1280,
-      "height": 1856,
+      "id": 1516124,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afa6a51d-5ab8-4236-8876-c17d45b43965/width=1024/afa6a51d-5ab8-4236-8876-c17d45b43965.jpeg",
+      "hash": "UNF~Q]IUI;kW?wRQM{ozESRRxHNI?IkCR*j]",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-02-15T03:53:40.041Z",
-      "postId": 12958020,
+      "createdAt": "2024-02-13T23:25:27.274Z",
+      "postId": 385219,
       "stats": {
-        "cryCount": 148,
-        "laughCount": 288,
-        "likeCount": 2732,
+        "cryCount": 131,
+        "laughCount": 350,
+        "likeCount": 2323,
         "dislikeCount": 0,
-        "heartCount": 1545,
-        "commentCount": 3
+        "heartCount": 1897,
+        "commentCount": 4
       },
       "meta": {
-        "nsfw": false,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:372465@914390",
-        "extra": {
-          "remixOfId": 50139715
+        "Size": "512x768",
+        "seed": 1476371026,
+        "Model": "Photon v.1",
+        "steps": 35,
+        "hashes": {
+          "model": "ec41bd2a82"
         },
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/XCXKNM5DXHNNRQDJAWY5RH8J30",
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:372465@914390"
-        ],
-        "prompt": "safe_pos, (score_9, score_8_up, score_7_up), 1girl, young adult, blonde, pale blue eyes, lots of large freckles, gorgeous, kawaii girl, cute face, long hair, bangs, bare breasts, large breasts, wide areolae, (slim fit), breast focus, bustier, wide hips, (big booty:1.3), navel, low-rising skirt, waist, glossy, pretty girl, focus on girl, side view, aesthetic,\nBREAK\ncrowded medieval tavern, carrying full tankards, beer girl, leering bearded patrons",
-        "denoise": 0.3,
-        "sampler": "dpmpp_2_ancestral",
-        "cfgScale": 6.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-facefix",
-        "baseModel": "Pony",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "civit_nsfw, safe_neg, score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, low quality body,",
-        "civitaiResources": [
+        "prompt": "1girl, (soldier in the army), (bent over),  (camo jacket), hair tied up, in a cement building, 4K, RAW, best quality, (masterpiece), (ultra-detailed), (hyperrealism:1.2), extremely detailed eyes, (extremely detailed face), textured skin, (photorealistic, hyperdetailed:1.2), insane details, seductive look, cute face, stunningly beautiful, (pulling down pants), wearing camo pants, small ass, looking to the side, no underwear, pussy visible,  <lora:MS_Real_PantsDown:0.9>",
+        "Version": "v1.4.0",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 914390
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 914390
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 106916
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 914390
-          },
-          {
+            "name": "MS_Real_PantsDown",
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219
+            "weight": 0.9
+          },
+          {
+            "hash": "ec41bd2a82",
+            "name": "Photon v.1",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:300005@436219",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "ec41bd2a82",
+        "Hires steps": "10",
+        "Hires upscale": "2",
+        "Hires upscaler": "SwinIR_4x",
+        "negativePrompt": "(illustration, drawings, sketchings:1.2), (bad anatomy, wrong anatomy, extra limbs), cropped, blurry, 3d max, (deformed, disfigured, distorted:1.3), (worst quality:1.9), bad hands, extra fingers, cgi, render, cartoon, drawing, anime, extra fingers, extra limb, (mutated hands and fingers:1.4), poorly drawn hands, poorly drawn face, blurry, deformed iris, cropped out of frame, 3d, silicone, fake, asian,  bad-hands-5",
+        "ADetailer model": "face_yolov8n.pt",
+        "Face restoration": "CodeFormer",
+        "ADetailer version": "23.7.2",
+        "\"MS_Real_PantsDown": "ce20ca5a6e58\"",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate/erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "gamefreak249",
+      "baseModel": "SD 1.5",
       "modelVersionIds": [
-        436219,
-        914390
+        90072
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "205|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=205%7C1744925392028"
+    "nextCursor": "206|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=206%7C1744925392028"
   }
 }
