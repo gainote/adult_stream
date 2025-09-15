@@ -1,40 +1,86 @@
 {
   "items": [
     {
-      "id": 50996447,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2d678540-e9a2-4cb8-9111-b0b94d3efe78/width=1280/2d678540-e9a2-4cb8-9111-b0b94d3efe78.jpeg",
-      "hash": "UCCsv:Q,FtS7_LE3IneV?]R*wt-=?^ngWE-;",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 99090040,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/62eba03d-ce98-4baf-97c8-720ae61e4ab9/width=832/62eba03d-ce98-4baf-97c8-720ae61e4ab9.jpeg",
+      "hash": "UAN+@V0000of002x0}_31k0fd;~U00}r.9Io",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-01-11T19:35:27.857Z",
-      "postId": 11471159,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-09T21:39:55.117Z",
+      "postId": 21985433,
       "stats": {
-        "cryCount": 146,
-        "laughCount": 272,
-        "likeCount": 2764,
+        "cryCount": 216,
+        "laughCount": 348,
+        "likeCount": 2890,
         "dislikeCount": 0,
-        "heartCount": 1454,
-        "commentCount": 4
+        "heartCount": 1174,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "paulmuc",
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 92918976,
+        "draft": false,
+        "steps": 48,
+        "width": 832,
+        "height": 1216,
+        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, detailed eyes, sharp eyes,\n(realistic:1), (flat color:2), (haiz_ai:1), (no lineart:1), (no outline:1), (Flat vector:1), (artist:incase:0.5), (Blue archive style \u000b:0.8),\n2girls, flatchest, petite, young, youthful, fragile, (orange hair, medium hair, bobcut, green eyes, freckles), (long hair, blonde hair, twintails, blue eyes), seductive face, pink ribbon, yellow hair bow, black hair clip, piercing, earrings, choker,\nblush, closeup, eye contact, open mouth, tongue out, heavy breathing, sweat, hearts, Saliva, Saliva trails, drool, hug, lesbian kiss, tongue kiss, deep kiss, french kiss,\nwhite blouse, tie,\nblurry background, cinematic lighting, cinematic atmosphere, deep photo,",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-20T2105:22.3155528Z",
+        "experimental": false,
+        "negativePrompt": "Base:bad quality,worst quality,worst detail,sketch,censor,\nworst quality, low quality, text, watermark, \nbad anatomy, artist name, signature, cat_eyes, fang,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 2034730
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1242320
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1777969
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 540229
+          }
+        ]
+      },
+      "username": "workzug",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        164821,
-        382152,
-        449738,
-        720175,
-        1177183
+        540229,
+        1242320,
+        1761560,
+        1777969,
+        2034730
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "216|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=216%7C1744925392028"
+    "nextCursor": "217|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=217%7C1744925392028"
   }
 }
