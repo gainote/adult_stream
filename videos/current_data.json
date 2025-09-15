@@ -1,90 +1,40 @@
 {
   "items": [
     {
-      "id": 59427954,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a19240c-3364-48f3-a371-5cbd51136af6/width=1336/8a19240c-3364-48f3-a371-5cbd51136af6.jpeg",
-      "hash": "ULHURY~p%yOs?atlShxu01IUVYs9Z~M_n#R*",
-      "width": 1336,
-      "height": 2224,
+      "id": 73414408,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e45e0a26-73c5-4591-86bd-9e0aba037ef0/width=832/e45e0a26-73c5-4591-86bd-9e0aba037ef0.jpeg",
+      "hash": "UEID{.~C01X9s8^*^+aK00-oxtt7V@NGs:Io",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-23T04:39:00.000Z",
-      "postId": 13293739,
+      "browsingLevel": 8,
+      "createdAt": "2025-05-03T05:25:13.888Z",
+      "postId": 16306199,
       "stats": {
-        "cryCount": 150,
-        "laughCount": 283,
-        "likeCount": 2857,
+        "cryCount": 259,
+        "laughCount": 376,
+        "likeCount": 2773,
         "dislikeCount": 0,
-        "heartCount": 1457,
-        "commentCount": 0
+        "heartCount": 1329,
+        "commentCount": 1
       },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 597222929667850,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), vaginal object insertion, (holding:1.5) (hitachi magic wand:1.1), standing under tree, orchard background,\noutdoors, orchad, garden, scenery, apple trees, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, (apples on ground:1.1)"
-      },
-      "username": "Marland_C",
+      "meta": null,
+      "username": "Kalrdr",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1410435
+        9208,
+        111363,
+        372639,
+        1389494,
+        1412563,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "198|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=198%7C1744925392028"
+    "nextCursor": "199|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=199%7C1744925392028"
   }
 }
