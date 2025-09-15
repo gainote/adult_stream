@@ -1,86 +1,80 @@
 {
   "items": [
     {
-      "id": 91162651,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/03a91aae-d968-425a-a92a-542c27cfd64e/width=832/03a91aae-d968-425a-a92a-542c27cfd64e.jpeg",
-      "hash": "UCJj6u?bGZ^+*IOEAbxu0ztR$+kC$f-o=xt6",
+      "id": 35539654,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1eccd262-d392-4e01-92c5-4df59775d970/width=832/1eccd262-d392-4e01-92c5-4df59775d970.jpeg",
+      "hash": "UFG[7v00X.t7Y60K^+%100~Vs9E18_pJIUt5",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-29T10:35:18.946Z",
-      "postId": 20219496,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-20T04:01:50.004Z",
+      "postId": 8120329,
       "stats": {
-        "cryCount": 279,
-        "laughCount": 466,
-        "likeCount": 2818,
+        "cryCount": 153,
+        "laughCount": 276,
+        "likeCount": 2632,
         "dislikeCount": 0,
-        "heartCount": 1159,
-        "commentCount": 4
+        "heartCount": 1653,
+        "commentCount": 8
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1225215619,
-        "draft": false,
+        "seed": 3531939176,
         "extra": {
-          "remixOfId": 91162134
+          "remixOfId": 35195409
         },
-        "steps": 27,
-        "width": 832,
-        "height": 1216,
-        "prompt": "(( doggystyle missionary sex penis fucking pussy doggystyle ):1.8) \n(( cum cummed fingers , Norwegian queen ):1.3)\n score_9, score_8_up, score_7_up, girl, solo,, lick_pov, open mouth, tongue out, saliva, tongue on glass, pov, close up, half closed eyes, big tongue, pleasure eyes\n<lora:cunnilingus-gesture-illustriousxl-lora-nochekaiser:1>, cunnilingus gesture, v over mouth, tongue out, tongue, v, saliva, blush, from side, looking at viewer, torogao, half-closed eyes, upper body\nBSY_Anatomy_Positives_V1_PRO \nBSY_General_Positives_V1_PRO \nBSY_Realism_Positives_V1_PRO 1girl, solo, looking at viewer, short hair, blue eyes, blonde hair, dress, closed mouth, jewelry, braid, earrings, choker, artist name, necklace, hair bun, blurry, character name, grey eyes, eyelashes, lips, blurry background, makeup, copyright name, depth of field, portrait, crown, gem, lipstick, eyeshadow, realistic, pearl necklace, mascara, princess",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4.5,
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_7_up, realistic, a woman, cute perfect face, (score_9, score_8_up, score_7_up), 1girl, brunette, freckles, 1girl, gorgeous girl ,kawai goth girl ,  dark eyeliner, cute face, cute girl, long fluffy black hair, fishnet panties, bangs, onedari, ass,spread ass , large breasts, (slim fit), sexy pose , closeup , ass focus, puffy anus, g-string, short pubic hair, blurry background, light particles",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "cunnilingus-gesture-illustriousxl-lora-nochekaiser",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-29T1033:53.7697300Z",
-        "experimental": false,
-        "negativePrompt": "BSY_Anatomy_Negatives_V1_PRO \nBSY_General_Negatives_V1_PRO \nBSY_Realism_Negatives_V1_PRO",
+        "resources": [],
+        "Created Date": "2024-10-20T0258:38.1905023Z",
+        "negativePrompt": "score_5, score_4, 3d, simple background",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 2044007,
-            "modelVersionName": "v5.0_FP16"
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
           },
           {
             "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1280068,
-            "modelVersionName": "Illustrious V1"
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1659754,
-            "modelVersionName": "booru"
+            "weight": 0.2,
+            "modelVersionId": 761452,
+            "modelVersionName": "v2"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "haha15ano604",
-      "baseModel": "Illustrious",
+      "username": "DrPeeHands",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1280068,
-        1659754,
-        2044007
+        436219,
+        761452,
+        817261
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "203|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=203%7C1744925392028"
+    "nextCursor": "204|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=204%7C1744925392028"
   }
 }
