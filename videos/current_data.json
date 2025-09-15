@@ -1,71 +1,108 @@
 {
   "items": [
     {
-      "id": 92354986,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/914a6f73-5bc6-424f-9a9b-8d4769f5f923/width=768/914a6f73-5bc6-424f-9a9b-8d4769f5f923.jpeg",
-      "hash": "URKd_U9bYRSj5bE3IWNfn7wHe8V?0i$yxZn~",
-      "width": 768,
-      "height": 1344,
+      "id": 51343439,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4202df6-1b85-4f71-8701-5a9ba5a43337/width=1800/d4202df6-1b85-4f71-8701-5a9ba5a43337.jpeg",
+      "hash": "UAFhI_R-x^oL8Je.V?Io?wM{M{Rjp{aexGt7",
+      "width": 2496,
+      "height": 3648,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-04T23:19:36.738Z",
-      "postId": 20487218,
+      "browsingLevel": 16,
+      "createdAt": "2025-01-13T11:01:10.842Z",
+      "postId": 11548599,
       "stats": {
-        "cryCount": 217,
-        "laughCount": 334,
-        "likeCount": 2832,
+        "cryCount": 140,
+        "laughCount": 232,
+        "likeCount": 2779,
         "dislikeCount": 0,
-        "heartCount": 1255,
+        "heartCount": 1487,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1344",
-        "seed": 14476714341388860000,
-        "Model": "JANKUV4NSFWTrainedNoobaiEPS_v40",
-        "steps": 60,
-        "hashes": {
-          "model": "59225eddc3"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, ((vibrant colors)), intricate background, skin pores, (skindentation:1.2), (tone mapped), ray tracing, (1girl), Emotion of pleasure, blushed face, outdoors, naughty face, (realistic:1.0), open mouth, light smile, <lora:koreanDollLikeness_v15:0.5>, <lora:virtualgirlAim_v30:0.5>, (((black sailor))), (((pleated navy very short micro mini skirt))), (((see-through low white mini panties))), low reg panties, (white short sleeve), ((underboob)), ((upshirt:1.5)), <lora:upshirt-000015:1>, ((low reg skirt)), (((from very below))), standing, pov, no bra, skinny, aged up, blue sky, cloudy sky, (arms up), flats, (white panties), (wet panties), full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
-        "Version": "ComfyUI",
-        "sampler": "dpmpp_2s_a_ddim_uniform",
-        "CFG Scale": "5.0",
-        "resources": [
+        "nsfw": true,
+        "seed": 1002057145,
+        "vaes": [],
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/E85YN9JCDQK6H1SH6ESMK2C8B0.jpeg",
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "models": [],
+        "prompt": "safe_pos, masterpiece, ultra-realistic, 32k, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, BREAK, ((6girls)), green eyes, brown eyes, blue eyes, blonde, ((younger faces)), supermodel beauty, all different faces, brunette, black hair, redhead, short hair, bangs, long hair, braids, twintails, perfect body, blush, large perky breasts, pose, caucasian, moaning, (wet body, sweat, wet, perfect ratio proportioned face, petite body, perfect waist to hip ratio, flat stomach, perfect female body, glossy skin, glossy body, soapy skin, wet body, deep skin), BREAK pose, wet, laying on side, sexy, pose, 1 boy, 1large thick dick, male pov, looking at viewer, 1girl sex cowgirl style, grab breast, fancy walk-in shower background, sex in the large shower, blue tile in large shower, well lit, perfect hands, rest of the girls are waiting their turn, ((other girls fondling each other))",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "modelIds": [],
+        "quantity": 1,
+        "workflow": "img2img-upscale",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "upscaleWidth": 2496,
+        "upscaleHeight": 3648,
+        "negativePrompt": "safe_neg, core_6, score_5, score_4, worst quality, nipple piercing, extra nipple, weirdly placed nipple, multi colored hair, african americans, extra penis, extra penis tip, anime style, twins triplets, low quality, too many fingers on hand, not enough fingers on hand, text, censored, extra hands, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, abnormal scrotum, ",
+        "civitaiResources": [
           {
-            "name": "koreanDollLikeness_v15",
-            "type": "lora",
-            "weight": 0.5
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "name": "virtualgirlAim_v30",
-            "type": "lora",
-            "weight": 0.5
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "name": "upshirt-000015",
-            "type": "lora",
-            "weight": 1
+            "weight": 0.45,
+            "modelVersionId": 382152
           },
           {
-            "hash": "59225eddc3",
-            "name": "JANKUV4NSFWTrainedNoobaiEPS_v40",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 1.45,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.35,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 436219
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ],
-        "Model hash": "59225eddc3",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
+        "additionalResources": []
       },
-      "username": "fujiangjiang",
-      "baseModel": "Illustrious",
+      "username": "holybratwurst",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1772645
+        9208,
+        164821,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "214|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=214%7C1744925392028"
+    "nextCursor": "215|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=215%7C1744925392028"
   }
 }
