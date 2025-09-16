@@ -1,81 +1,56 @@
 {
   "items": [
     {
-      "id": 85428291,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5bc41b87-54fb-4ae0-aa38-85c52a1f771a/width=1800/5bc41b87-54fb-4ae0-aa38-85c52a1f771a.jpeg",
-      "hash": "UBDc8qD%0LRj0KNG%1xa00-;%1Rk~WM{ENWq",
-      "width": 2560,
-      "height": 3712,
+      "id": 7662228,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/feeca0e9-029b-4c2d-b5b5-4764d621a3aa/width=832/feeca0e9-029b-4c2d-b5b5-4764d621a3aa.jpeg",
+      "hash": "UHL3ik~q%}S6GdIpInD*5tIUng%N9#%1IAE2",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-06-30T10:46:00.000Z",
-      "postId": 18960164,
+      "createdAt": "2024-03-09T05:41:11.184Z",
+      "postId": 1659494,
       "stats": {
-        "cryCount": 166,
-        "laughCount": 370,
-        "likeCount": 2649,
+        "cryCount": 125,
+        "laughCount": 300,
+        "likeCount": 2240,
         "dislikeCount": 0,
-        "heartCount": 1372,
-        "commentCount": 2
+        "heartCount": 1889,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 1076980442,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1162518@1331188",
-        "extra": {},
-        "steps": 29,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1162518@1331188"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, (dynamic:1), 2girls,  plamix, adult, (lips:0.7), concept art, thick outlines, bedroom, dark, sleeping, under bedcover, blanket, laying on side, brown hair, BREAK (bunk bed:1.2), two-story bed, sideview, , platinum blonde hair, pink hairtips, pink eyes, white pupils, gasping, blushing, masturbating, naked, hands between legs, over bed, (separated, two slides, comic:0.6)",
-        "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "modelIds": [],
-        "workflow": "img2img-facefix",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, sleepy, eyelids, loli, child",
+        "Size": "832x1216",
+        "seed": 706259682,
+        "steps": 50,
+        "prompt": "1 girl, moaning, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, huge dick, reverse congress, expressive, anime, cartoon, hearts, speedlines, dynamic, semen, ejaculation, expressiveh, blue hair",
+        "sampler": "DPM2 a",
+        "cfgScale": 10,
+        "clipSkip": 2,
+        "resources": [],
+        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1331188
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 1950544
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1331188
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 1950544
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1661570@1950544",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
+            "weight": 1.75,
+            "modelVersionId": 382152
           }
         ]
       },
-      "username": "Plantra",
-      "baseModel": "Illustrious",
+      "username": "jspp3733410",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1331188,
-        1950544
+        290640
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "226|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=226%7C1744925392028"
+    "nextCursor": "227|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=227%7C1744925392028"
   }
 }
