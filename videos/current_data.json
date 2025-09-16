@@ -1,56 +1,109 @@
 {
   "items": [
     {
-      "id": 7662228,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/feeca0e9-029b-4c2d-b5b5-4764d621a3aa/width=832/feeca0e9-029b-4c2d-b5b5-4764d621a3aa.jpeg",
-      "hash": "UHL3ik~q%}S6GdIpInD*5tIUng%N9#%1IAE2",
-      "width": 832,
-      "height": 1216,
+      "id": 75678828,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4295c2e5-86b9-4e9e-a767-24993ac42274/width=1280/4295c2e5-86b9-4e9e-a767-24993ac42274.jpeg",
+      "hash": "UHI;L^00PoD%uPVYTJe.02-6M{%2bwVrE2WV",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-03-09T05:41:11.184Z",
-      "postId": 1659494,
+      "createdAt": "2025-05-12T00:41:00.000Z",
+      "postId": 16805190,
       "stats": {
-        "cryCount": 125,
-        "laughCount": 300,
-        "likeCount": 2240,
+        "cryCount": 167,
+        "laughCount": 340,
+        "likeCount": 2593,
         "dislikeCount": 0,
-        "heartCount": 1889,
-        "commentCount": 1
+        "heartCount": 1453,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 706259682,
-        "steps": 50,
-        "prompt": "1 girl, moaning, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, huge dick, reverse congress, expressive, anime, cartoon, hearts, speedlines, dynamic, semen, ejaculation, expressiveh, blue hair",
-        "sampler": "DPM2 a",
-        "cfgScale": 10,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome",
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
+        "extra": {
+          "remixOfId": 74435558
+        },
+        "steps": 19,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, (depth of field), outdoors, beach, ocean, bar, daytime,\n\nelf, pink hair, green eyes, eyeliner, cute face, slim, small breasts, long hair swept to one side, beautiful, kawaii, (short ears), (small ears), butt,\n\nmicro bikini,\n\nwalking on the beach, looking at viewer, butt focus, butt squeeze, faceless male, male pov, penis, stroking penis, handjob, ass spread, anus, wet pussy, ass grab, panty pull, vaginal sex, penetration,",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, string bikini, uneven tan,",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1416874
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 1490781
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 1.75,
-            "modelVersionId": 382152
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1416874
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "jspp3733410",
-      "baseModel": "Pony",
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640
+        164821,
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "227|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=227%7C1744925392028"
+    "nextCursor": "228|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=228%7C1744925392028"
   }
 }
