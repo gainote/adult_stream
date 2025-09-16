@@ -1,127 +1,83 @@
 {
   "items": [
     {
-      "id": 38124582,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ee703b4-4471-4c1b-9c96-8566f076b25e/width=832/4ee703b4-4471-4c1b-9c96-8566f076b25e.jpeg",
-      "hash": "UNH2cx~q?v?I~WV@IoIonNWE9FMxx^?bROoK",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 93428093,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/acfe9062-b5e0-4848-82c3-f238c86861c9/width=1152/acfe9062-b5e0-4848-82c3-f238c86861c9.jpeg",
+      "hash": "UfL55*Klpyt55^X9nhr;t8WARjbYR.t1kDae",
+      "width": 1152,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-03T15:42:08.293Z",
-      "postId": 8705416,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-11T10:40:37.987Z",
+      "postId": 20727865,
       "stats": {
-        "cryCount": 179,
-        "laughCount": 325,
-        "likeCount": 2611,
+        "cryCount": 173,
+        "laughCount": 314,
+        "likeCount": 2781,
         "dislikeCount": 0,
-        "heartCount": 1505,
+        "heartCount": 1348,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 345355072,
-        "extra": {
-          "remixOfId": 35677977
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "768x1216",
+        "seed": 3559475055,
+        "Model": "hassakuXLIllustrious_v13StyleA",
+        "steps": 28,
+        "hashes": {
+          "model": "163ac69059",
+          "lora:Chun-li_Swimsuit_Illu_Dwnsty": "41fc8ccc7749"
         },
-        "steps": 35,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, young milf, low growth, sort body, young face, solo, beautiful girl, 1girl, 25 years old, (short dark blue hair:1.2), unbuttoned winter down jacket, torn tights, on snow, shot from above, looking down, closed eyes, sitting on knees, rough sex, hard sex, drooling, 2boys, double penetration, (cock deep in throat), girl sucking cock, head grab, ass up, sweaty skin, arching back, huge perfect ass, wide hips, fit body, cinematic lightings, winter, winter resort, on the street, snow, spotlight, luminsm, score_8_up, score_7_up, score_6_up, score_9, illustration",
+        "prompt": "best quality, absurdres, newest, very aesthetic, amazing quality, highres, ultra detailed, mature female, \n <lora:Chun-li_Swimsuit_Illu_Dwnsty:1>, chnl1sfsw1m, brown eyes, black hair, hair bun, double bun, swept bangs, braided hair rings, short hair, hair ornament, hair flower, blue flower, earrings, jewelry, blue one-piece swimsuit, highleg swimsuit, gold trim, center opening, cleavage, innerboob, large breasts, stomach cutout, linea alba, belly chain, gold chain, blue bracelet, pearl bracelet, blue nails, nail polish, groin, toned female, thick thighs, thigh ribbon, blue ribbon, 1girl, outdoors, beach, palm tree, standing, blue sky, day, water, bare shoulders, open mouth, arms behind back, braid, cloud, legs together, feet out of frame,",
+        "Version": "f2.0.1v1.10.1-previous-636-gb835f24a",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-11-03T1537:28.9694976Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, low quality body , tanned male, earrings, jewlery, headband, bad hand, extra fingers,  tuxedo, old man, formal wear, older man, large man, black man, tanned man, brown hair, cum, creampie",
-        "civitaiResources": [
+        "Module 1": "sdxl_vae",
+        "cfgScale": 5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
+            "hash": "41fc8ccc7749",
+            "name": "Chun-li_Swimsuit_Illu_Dwnsty",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 373076,
-            "modelVersionName": "v3"
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 411622,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 835055,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "hash": "163ac69059",
+            "name": "hassakuXLIllustrious_v13StyleA",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "163ac69059",
+        "Hires steps": "10",
+        "Hires upscale": "1.5",
+        "Schedule type": "Normal",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "worst quality, low quality,  lowres, watermark, patreon username, artist name, artist logo, text, error, jpeg artifacts, unfinished, oldest, signature, artistic error, username, english text, 4koma, 2koma",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "5",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "SGM noise multiplier": "True",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "Discard penultimate sigma": "True",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "VuriskiS",
-      "baseModel": "Pony",
+      "username": "dwnsty",
+      "baseModel": null,
       "modelVersionIds": [
-        9208,
-        60938,
-        290640,
-        373076,
-        382152,
-        398847,
-        411622,
-        436219,
-        835055
+        2099415
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "219|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=219%7C1744925392028"
+    "nextCursor": "220|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=220%7C1744925392028"
   }
 }
