@@ -1,74 +1,81 @@
 {
   "items": [
     {
-      "id": 76343822,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f9378d2-6bde-48d2-9646-0b9f6d28ca16/width=1248/5f9378d2-6bde-48d2-9646-0b9f6d28ca16.jpeg",
-      "hash": "UDOW1yM{Y6_4*09F^kx]01D%?bbXE2D%xu%2",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 85428291,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5bc41b87-54fb-4ae0-aa38-85c52a1f771a/width=1800/5bc41b87-54fb-4ae0-aa38-85c52a1f771a.jpeg",
+      "hash": "UBDc8qD%0LRj0KNG%1xa00-;%1Rk~WM{ENWq",
+      "width": 2560,
+      "height": 3712,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-18T08:38:41.055Z",
-      "postId": 16954851,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-30T10:46:00.000Z",
+      "postId": 18960164,
       "stats": {
-        "cryCount": 169,
-        "laughCount": 379,
-        "likeCount": 2708,
+        "cryCount": 166,
+        "laughCount": 370,
+        "likeCount": 2649,
         "dislikeCount": 0,
-        "heartCount": 1307,
-        "commentCount": 0
+        "heartCount": 1372,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 381978836,
-        "Model": "waiNSFWIllustrious_v140",
-        "steps": 30,
-        "hashes": {
-          "model": "bdb59bac77",
-          "lora:Lativi_V2_epoch_10": "ac4cd23befa8"
-        },
-        "prompt": "masterpiece,best quality,amazing quality,\n1girl, breasts, black hair, solo, short hair, large breasts, shirt, navel, blush, green eyes, cleavage, bikini, white shirt, open mouth, swimsuit, underwear,\n<lora:Lativi_V2_epoch_10:1>",
-        "Version": "f1.1.5-v1.10.1RC-latest-864-g943a2f48",
+        "seed": 1076980442,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1162518@1331188",
+        "extra": {},
+        "steps": 29,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1162518@1331188"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, (dynamic:1), 2girls,  plamix, adult, (lips:0.7), concept art, thick outlines, bedroom, dark, sleeping, under bedcover, blanket, laying on side, brown hair, BREAK (bunk bed:1.2), two-story bed, sideview, , platinum blonde hair, pink hairtips, pink eyes, white pupils, gasping, blushing, masturbating, naked, hands between legs, over bed, (separated, two slides, comic:0.6)",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-facefix",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, sleepy, eyelids, loli, child",
+        "civitaiResources": [
           {
-            "hash": "ac4cd23befa8",
-            "name": "Lativi_V2_epoch_10",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 1331188
           },
           {
-            "hash": "bdb59bac77",
-            "name": "waiNSFWIllustrious_v140",
-            "type": "model"
+            "weight": 0.65,
+            "modelVersionId": 1950544
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1331188
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 1950544
           }
         ],
-        "Model hash": "bdb59bac77",
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "4x-AnimeSharp",
-        "mswmsa_enabled": "False",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,simple background,transparent background,text,english text, doujin cover,bar censor,censored, mosaic censoring,",
-        "raunet_enabled": "False",
-        "Denoising strength": "0.5",
-        "mswmsa_simple_enabled": "False",
-        "raunet_simple_enabled": "False"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1661570@1950544",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Galerd",
+      "username": "Plantra",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1761560,
-        1790094
+        1331188,
+        1950544
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "225|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=225%7C1744925392028"
+    "nextCursor": "226|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=226%7C1744925392028"
   }
 }
