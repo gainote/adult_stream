@@ -1,86 +1,73 @@
 {
   "items": [
     {
-      "id": 99090040,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/62eba03d-ce98-4baf-97c8-720ae61e4ab9/width=832/62eba03d-ce98-4baf-97c8-720ae61e4ab9.jpeg",
-      "hash": "UAN+@V0000of002x0}_31k0fd;~U00}r.9Io",
-      "width": 832,
-      "height": 1216,
+      "id": 98132383,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa2b3bef-409e-49f1-b8b0-efeb2365885e/width=1600/aa2b3bef-409e-49f1-b8b0-efeb2365885e.jpeg",
+      "hash": "UIEe}c-:9[%1_NtkkXRPOYtR?HIUo~o#jvsT",
+      "width": 1600,
+      "height": 2400,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-09T21:39:55.117Z",
-      "postId": 21985433,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-04T16:40:06.282Z",
+      "postId": 21772724,
       "stats": {
-        "cryCount": 216,
-        "laughCount": 348,
-        "likeCount": 2890,
+        "cryCount": 179,
+        "laughCount": 320,
+        "likeCount": 2848,
         "dislikeCount": 0,
-        "heartCount": 1174,
+        "heartCount": 1281,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 92918976,
-        "draft": false,
-        "steps": 48,
-        "width": 832,
-        "height": 1216,
-        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, detailed eyes, sharp eyes,\n(realistic:1), (flat color:2), (haiz_ai:1), (no lineart:1), (no outline:1), (Flat vector:1), (artist:incase:0.5), (Blue archive style \u000b:0.8),\n2girls, flatchest, petite, young, youthful, fragile, (orange hair, medium hair, bobcut, green eyes, freckles), (long hair, blonde hair, twintails, blue eyes), seductive face, pink ribbon, yellow hair bow, black hair clip, piercing, earrings, choker,\nblush, closeup, eye contact, open mouth, tongue out, heavy breathing, sweat, hearts, Saliva, Saliva trails, drool, hug, lesbian kiss, tongue kiss, deep kiss, french kiss,\nwhite blouse, tie,\nblurry background, cinematic lighting, cinematic atmosphere, deep photo,",
-        "process": "txt2img",
-        "sampler": "Euler a",
+        "Size": "832x1248",
+        "seed": 941714800,
+        "Model": "CyberRealisticPony_V13.0_FP32",
+        "steps": 30,
+        "prompt": "ultra photo-realistic, best quality, ultra-detailed, realistic, nude slender European woman, fair skin with slight freckles, small breasts, natural unshaven pubic area, auburn hair with blonde highlights under a cozy beanie, erotic expressive nerdy charm, sitting casually in a camping chair with hiking boots on, relaxed confident posture, camping tent set up nearby, forest foliage and natural ground textures surrounding her, soft ambient daylight with real-world outdoor lighting",
+        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
+        "sampler": "DPM++ 2M SDE",
         "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-20T2105:22.3155528Z",
-        "experimental": false,
-        "negativePrompt": "Base:bad quality,worst quality,worst detail,sketch,censor,\nworst quality, low quality, text, watermark, \nbad anatomy, artist name, signature, cat_eyes, fang,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2034730
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1242320
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1777969
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 540229
-          }
-        ]
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_NickelbackFS_72000_G",
+        "Skip Early CFG": "0.25",
+        "negativePrompt": "(worst quality:1.2), (low quality:1.2), lowres, bad anatomy, bad hands, watermark",
+        "ADetailer model": "face_yolov9c.pt",
+        "ADetailer steps": "40",
+        "Hires CFG Scale": "4",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.35",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "hand_yolov9c.pt",
+        "ADetailer confidence": "0.3",
+        "ADetailer prompt 2nd": "detailed hand",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.3",
+        "ADetailer inpaint padding": "32",
+        "ADetailer mask only top k": "1",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer denoising strength": "0.5",
+        "ADetailer use separate steps": "True",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer mask only top k 2nd": "2",
+        "ADetailer denoising strength 2nd": "0.5",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer method to decide top k masks": "Area",
+        "ADetailer method to decide top k masks 2nd": "Area"
       },
-      "username": "workzug",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        540229,
-        1242320,
-        1761560,
-        1777969,
-        2034730
-      ]
+      "username": "Cyberdelia",
+      "baseModel": "Pony",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "217|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=217%7C1744925392028"
+    "nextCursor": "218|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=218%7C1744925392028"
   }
 }
