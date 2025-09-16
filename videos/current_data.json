@@ -1,113 +1,98 @@
 {
   "items": [
     {
-      "id": 60007808,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e7bfaa6-e686-4467-9b32-a7b3d5bc8844/width=832/3e7bfaa6-e686-4467-9b32-a7b3d5bc8844.jpeg",
-      "hash": "U9Ook]~B0MMd4ps.9ZM|3Xog=|X9RP$*bYs:",
+      "id": 21090793,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/df59d16c-8a0b-4092-a66a-ef8a5cb6078c/width=832/df59d16c-8a0b-4092-a66a-ef8a5cb6078c.jpeg",
+      "hash": "USINz4%2o~V@_Nx]oeM{bwtRV?V@xtkCIoWB",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-25T09:16:10.514Z",
-      "postId": 13418310,
+      "browsingLevel": 16,
+      "createdAt": "2024-07-23T23:16:07.019Z",
+      "postId": 4703796,
       "stats": {
-        "cryCount": 169,
-        "laughCount": 305,
-        "likeCount": 2720,
+        "cryCount": 105,
+        "laughCount": 236,
+        "likeCount": 2676,
         "dislikeCount": 0,
-        "heartCount": 1344,
-        "commentCount": 1
+        "heartCount": 1521,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1284928753,
-        "steps": 20,
-        "prompt": "((1girl)), gorgeous girl , kawaii girl , cute face, masterpiece, best quality, very awa, absurdres, 748cmstyle, usnr\nmasterpiece, best quality, Good quality, very aesthetic, absurdres, newest,1girl, light rays, looking at viewer, sky, solo, gradient color, erotic, petals falling,\nBREAK\nultra-detailed, 8K, illustration, CG, ultra-detailed-eyes, detailed background, ambient occlusion, raytracing, soft lighting, absolutely eye-catching, intricate cinematic background, (beautiful face),  , eyelashes, erotic, looking seductive, coy. dynamic action image, detailed face, detailed eyes, direct mesmerizing gaze, mature female, medium breast,\nBREAK\n(sexy, slutty, hot, aroused), \nWererabbit, animal legs, fluffy legs, rabbit ears, floppy animal ears \nBREAK\npink ribbon, playful, heart-shaped pillows, white sheet bed, dynamic pose, choker, lusty,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3.5,
+        "seed": 1557691496,
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_7_up, hidden camera, spycam, voyeur, (((shower))), (((/peephole/))), ((/from below, very low camera angle/)), 1girl, gorgeous, thin, slight abs, fit, black hair, 20 years old, solo, nude, soapy, steamy shower, small perfectly round breasts, no panties, eyes closed, beautiful long eyelashes, perfect eyelashes, FingerInside, fingering, pussy, pussy fingering, pussy juice, (intense female orgasm), perfect hands, ((moaning)), ((worried face)), Expressiveh",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2025-02-25T0851:34.4309290Z",
-        "negativePrompt": "lowres, worst quality, low quality, low score, bad score,  blurry, text, ugly, hooded eyes, yellow liquid, penis,",
+        "Created Date": "2024-07-23T2120:15.7491304Z",
+        "negativePrompt": "score_5, score_4, blurry, crosseyed, mismatched eyes, bad eyes, ugly eyes, malformed eyes, oval eyes, misshaped pupils, upturned eyes, pony, bad fingers, bad hands, malformed hands",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1240288,
-            "modelVersionName": "v1.3 - Style A"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 959419,
-            "modelVersionName": "SDXL_Illustrious-XL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1036362,
-            "modelVersionName": "v4_noobEv1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1225664,
-            "modelVersionName": "V5.2 - Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1268447,
-            "modelVersionName": "v1.0 [noobai-v-pred-1]"
+            "modelVersionId": 534642,
+            "modelVersionName": "v2.1 Main + VAE"
           },
           {
             "type": "embed",
             "weight": 1,
+            "modelVersionId": 509253,
+            "modelVersionName": "High Quality V2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 522995,
+            "modelVersionName": "Pony"
+          },
+          {
+            "type": "lora",
+            "weight": 1.3,
+            "modelVersionId": 545059,
+            "modelVersionName": "V1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 402872,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
             "modelVersionId": 250708,
             "modelVersionName": "safe_pos"
           },
           {
             "type": "embed",
-            "weight": 1,
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "Beez111",
-      "baseModel": "Illustrious",
+      "username": null,
+      "baseModel": "Pony",
       "modelVersionIds": [
-        959419,
-        1036362,
-        1056404,
-        1225664,
-        1240288,
-        1244133,
-        1268447
+        382152,
+        402872,
+        509253,
+        522995,
+        534642,
+        545059
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "229|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=229%7C1744925392028"
+    "nextCursor": "230|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=230%7C1744925392028"
   }
 }
