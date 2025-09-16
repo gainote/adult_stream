@@ -1,39 +1,39 @@
 {
   "items": [
     {
-      "id": 34768411,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28d7917d-7278-45ef-af59-fbf797a85270/width=832/28d7917d-7278-45ef-af59-fbf797a85270.jpeg",
-      "hash": "UIGkwwpy9YNe1I_3%gxu00M{?H%L^k9ZD$Vs",
+      "id": 34854508,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0feba4c1-80c1-40fd-b8e1-8e2835801ac3/width=832/0feba4c1-80c1-40fd-b8e1-8e2835801ac3.jpeg",
+      "hash": "U7DkS#a{0M^*01R+5lE1}@oJ-:-V0Lj[t7W;",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-10-15T17:46:34.454Z",
-      "postId": 7945127,
+      "createdAt": "2024-10-16T05:11:40.196Z",
+      "postId": 7965560,
       "stats": {
-        "cryCount": 188,
-        "laughCount": 362,
-        "likeCount": 2568,
+        "cryCount": 187,
+        "laughCount": 377,
+        "likeCount": 2503,
         "dislikeCount": 0,
-        "heartCount": 1491,
-        "commentCount": 65
+        "heartCount": 1522,
+        "commentCount": 59
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3895985466,
+        "seed": 2595670921,
         "extra": {
-          "remixOfId": 28214254
+          "remixOfId": 34319249
         },
-        "steps": 30,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, austr, anime, 1girl, Raven, bedroom, laying legs up, boots, up, ass focus, from below, pussy focus, naked, pussy focus, wet pussy, pose, sexy, wet, face focus, closeup, posing, wet hair, dynamic angle, thick thighs, big ass, nail polish, cock in pussy, ahegao, shaking, squirt, hearts, speech bubble,1man, vaginal, motion lines, from side, vibrant colors, cel shading",
+        "steps": 29,
+        "prompt": "Expressiveh, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, godrays, 1girl, Makima (Chainsaw man), red room, lingerie, thick thighs, narrow waist, big hips, elbow gloves, pose, closeup, dynamic angle, closeup, hearts, riding cock, nipples, boobs jiggling ,shaking, sound effects, sexy, 1man",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-10-15T1739:01.5379968Z",
-        "negativePrompt": "score_5, score_4, score_3, ugly, fat",
+        "Created Date": "2024-10-16T0453:10.4085169Z",
+        "negativePrompt": "easynegative, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, mixed characters",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -41,10 +41,34 @@
             "modelVersionName": "V6 (start with this one)"
           },
           {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 958674,
-            "modelVersionName": "AUSTR v1.0"
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "embed",
@@ -55,24 +79,23 @@
             "type": "embed",
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "blacksnowskill",
+      "username": "Bancin",
       "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
+        239420,
         290640,
-        958674
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "222|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=222%7C1744925392028"
+    "nextCursor": "223|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=223%7C1744925392028"
   }
 }
