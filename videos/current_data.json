@@ -1,76 +1,78 @@
 {
   "items": [
     {
-      "id": 91336809,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c19a604-2026-422b-a50c-6e89db90ff24/width=832/9c19a604-2026-422b-a50c-6e89db90ff24.jpeg",
-      "hash": "UEC$.cxa4.%M5;9ZIUxu~q-oIBkWOYE1sloz",
+      "id": 34768411,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28d7917d-7278-45ef-af59-fbf797a85270/width=832/28d7917d-7278-45ef-af59-fbf797a85270.jpeg",
+      "hash": "UIGkwwpy9YNe1I_3%gxu00M{?H%L^k9ZD$Vs",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-30T07:31:18.385Z",
-      "postId": 20260793,
+      "createdAt": "2024-10-15T17:46:34.454Z",
+      "postId": 7945127,
       "stats": {
-        "cryCount": 330,
-        "laughCount": 525,
-        "likeCount": 2669,
+        "cryCount": 188,
+        "laughCount": 362,
+        "likeCount": 2568,
         "dislikeCount": 0,
-        "heartCount": 1086,
-        "commentCount": 0
+        "heartCount": 1491,
+        "commentCount": 65
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2108223,
-        "draft": false,
+        "seed": 3895985466,
+        "extra": {
+          "remixOfId": 28214254
+        },
         "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece,best quality,absurdres, amazing quality <lora:HairCensorIllustV2_epoch_6:0.99> dark_skin, futanari, medium sized penis, dark penis, tatoo on penis, penis visible, very_long_hair, nude, hair_over_crotch, white_hair, forest, holding_sword, fighting sword position, facial_mark, arm_tattoo, stomach_tattoo, zweihander,",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, austr, anime, 1girl, Raven, bedroom, laying legs up, boots, up, ass focus, from below, pussy focus, naked, pussy focus, wet pussy, pose, sexy, wet, face focus, closeup, posing, wet hair, dynamic angle, thick thighs, big ass, nail polish, cock in pussy, ahegao, shaking, squirt, hearts, speech bubble,1man, vaginal, motion lines, from side, vibrant colors, cel shading",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "HairCensorIllustV2_epoch_6",
-            "type": "lora",
-            "weight": 0.99
-          }
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-30T0721:47.6678255Z",
-        "experimental": false,
-        "negativePrompt": "loincloth,, bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, patreon_username, patreon_logo, worst aesthetic, low quality, lowres, pussy, vagina",
+        "resources": [],
+        "Created Date": "2024-10-15T1739:01.5379968Z",
+        "negativePrompt": "score_5, score_4, score_3, ugly, fat",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1503830,
-            "modelVersionName": "V3"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2062647,
-            "modelVersionName": "Illustrious"
+            "weight": 0.8,
+            "modelVersionId": 958674,
+            "modelVersionName": "AUSTR v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": null,
-      "baseModel": "Illustrious",
+      "username": "blacksnowskill",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1503830,
-        2062647
+        290640,
+        958674
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "221|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=221%7C1744925392028"
+    "nextCursor": "222|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=222%7C1744925392028"
   }
 }
