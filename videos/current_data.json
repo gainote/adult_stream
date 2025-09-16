@@ -1,98 +1,102 @@
 {
   "items": [
     {
-      "id": 21090793,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/df59d16c-8a0b-4092-a66a-ef8a5cb6078c/width=832/df59d16c-8a0b-4092-a66a-ef8a5cb6078c.jpeg",
-      "hash": "USINz4%2o~V@_Nx]oeM{bwtRV?V@xtkCIoWB",
+      "id": 69899806,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27023e09-69c1-4287-a26c-02d35c674eee/width=832/27023e09-69c1-4287-a26c-02d35c674eee.jpeg",
+      "hash": "UTMsA|~qBpkWMJivMxnjEh%1IpV@xbbcs:xt",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-23T23:16:07.019Z",
-      "postId": 4703796,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-14T05:00:00.000Z",
+      "postId": 15528076,
       "stats": {
-        "cryCount": 105,
-        "laughCount": 236,
-        "likeCount": 2676,
+        "cryCount": 147,
+        "laughCount": 319,
+        "likeCount": 2705,
         "dislikeCount": 0,
-        "heartCount": 1521,
+        "heartCount": 1361,
         "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1557691496,
-        "steps": 24,
-        "prompt": "score_9, score_8_up, score_7_up, hidden camera, spycam, voyeur, (((shower))), (((/peephole/))), ((/from below, very low camera angle/)), 1girl, gorgeous, thin, slight abs, fit, black hair, 20 years old, solo, nude, soapy, steamy shower, small perfectly round breasts, no panties, eyes closed, beautiful long eyelashes, perfect eyelashes, FingerInside, fingering, pussy, pussy fingering, pussy juice, (intense female orgasm), perfect hands, ((moaning)), ((worried face)), Expressiveh",
-        "sampler": "Euler a",
+        "nsfw": true,
+        "seed": 1848391324,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), Sylvia, large breasts, long hair, drill hair, pink hair, hair over one eye, blue eyes, makeup, smokyeyes, lash, pink mascara, puffy lips, glossy pink lips, 1 girl, solo, anime, sexy girl, ((pink laced choker)), sea blue, pink micro top, pink lace micro top, breasts overhang, sea blue caribic, pink side-tie g-string, wet clothes, large firm breast, ((seethrough breasts, seethrough hard nipple)), (wet clothes), underboob, head tilt, arms up, hand on breast, hand in hair, posing, dynamic angle, biting own lip, standing, from below, realistic light, dutch angle, fom below, alluring and erotic atmosphere. depth of field, blurry soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from side, blurry background, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
         "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-07-23T2120:15.7491304Z",
-        "negativePrompt": "score_5, score_4, blurry, crosseyed, mismatched eyes, bad eyes, ugly eyes, malformed eyes, oval eyes, misshaped pupils, upturned eyes, pony, bad fingers, bad hands, malformed hands",
+        "Created Date": "2025-04-13T0741:40.7421333Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 534642,
-            "modelVersionName": "v2.1 Main + VAE"
+            "modelVersionId": 1612720,
+            "modelVersionName": "v13.0"
           },
           {
             "type": "embed",
             "weight": 1,
-            "modelVersionId": 509253,
-            "modelVersionName": "High Quality V2"
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 522995,
-            "modelVersionName": "Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 1.3,
-            "modelVersionId": 545059,
-            "modelVersionName": "V1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 402872,
+            "weight": 0.45,
+            "modelVersionId": 1056404,
             "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "modelVersionId": 1111018,
+            "modelVersionName": "Illustrious_v1.0"
           }
         ]
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        382152,
-        402872,
-        509253,
-        522995,
-        534642,
-        545059
+        6056,
+        25820,
+        1056404,
+        1111018,
+        1135769,
+        1373674,
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "230|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=230%7C1744925392028"
+    "nextCursor": "231|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=231%7C1744925392028"
   }
 }
