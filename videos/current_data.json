@@ -1,73 +1,127 @@
 {
   "items": [
     {
-      "id": 98132383,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa2b3bef-409e-49f1-b8b0-efeb2365885e/width=1600/aa2b3bef-409e-49f1-b8b0-efeb2365885e.jpeg",
-      "hash": "UIEe}c-:9[%1_NtkkXRPOYtR?HIUo~o#jvsT",
-      "width": 1600,
-      "height": 2400,
+      "id": 38124582,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ee703b4-4471-4c1b-9c96-8566f076b25e/width=832/4ee703b4-4471-4c1b-9c96-8566f076b25e.jpeg",
+      "hash": "UNH2cx~q?v?I~WV@IoIonNWE9FMxx^?bROoK",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-09-04T16:40:06.282Z",
-      "postId": 21772724,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-03T15:42:08.293Z",
+      "postId": 8705416,
       "stats": {
         "cryCount": 179,
-        "laughCount": 320,
-        "likeCount": 2848,
+        "laughCount": 325,
+        "likeCount": 2611,
         "dislikeCount": 0,
-        "heartCount": 1281,
+        "heartCount": 1505,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1248",
-        "seed": 941714800,
-        "Model": "CyberRealisticPony_V13.0_FP32",
-        "steps": 30,
-        "prompt": "ultra photo-realistic, best quality, ultra-detailed, realistic, nude slender European woman, fair skin with slight freckles, small breasts, natural unshaven pubic area, auburn hair with blonde highlights under a cozy beanie, erotic expressive nerdy charm, sitting casually in a camping chair with hiking boots on, relaxed confident posture, camping tent set up nearby, forest foliage and natural ground textures surrounding her, soft ambient daylight with real-world outdoor lighting",
-        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 4,
+        "Size": "832x1216",
+        "seed": 345355072,
+        "extra": {
+          "remixOfId": 35677977
+        },
+        "steps": 35,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, young milf, low growth, sort body, young face, solo, beautiful girl, 1girl, 25 years old, (short dark blue hair:1.2), unbuttoned winter down jacket, torn tights, on snow, shot from above, looking down, closed eyes, sitting on knees, rough sex, hard sex, drooling, 2boys, double penetration, (cock deep in throat), girl sucking cock, head grab, ass up, sweaty skin, arching back, huge perfect ass, wide hips, fit body, cinematic lightings, winter, winter resort, on the street, snow, spotlight, luminsm, score_8_up, score_7_up, score_6_up, score_9, illustration",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
         "resources": [],
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x_NickelbackFS_72000_G",
-        "Skip Early CFG": "0.25",
-        "negativePrompt": "(worst quality:1.2), (low quality:1.2), lowres, bad anatomy, bad hands, watermark",
-        "ADetailer model": "face_yolov9c.pt",
-        "ADetailer steps": "40",
-        "Hires CFG Scale": "4",
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.35",
-        "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "hand_yolov9c.pt",
-        "ADetailer confidence": "0.3",
-        "ADetailer prompt 2nd": "detailed hand",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.3",
-        "ADetailer inpaint padding": "32",
-        "ADetailer mask only top k": "1",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer denoising strength": "0.5",
-        "ADetailer use separate steps": "True",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer mask only top k 2nd": "2",
-        "ADetailer denoising strength 2nd": "0.5",
-        "ADetailer inpaint only masked 2nd": "True",
-        "ADetailer method to decide top k masks": "Area",
-        "ADetailer method to decide top k masks 2nd": "Area"
+        "Created Date": "2024-11-03T1537:28.9694976Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, low quality body , tanned male, earrings, jewlery, headband, bad hand, extra fingers,  tuxedo, old man, formal wear, older man, large man, black man, tanned man, brown hair, cum, creampie",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 373076,
+            "modelVersionName": "v3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 411622,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 835055,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
       },
-      "username": "Cyberdelia",
+      "username": "VuriskiS",
       "baseModel": "Pony",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        9208,
+        60938,
+        290640,
+        373076,
+        382152,
+        398847,
+        411622,
+        436219,
+        835055
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "218|1744925392028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=218%7C1744925392028"
+    "nextCursor": "219|1744925392028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=219%7C1744925392028"
   }
 }
