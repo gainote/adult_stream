@@ -1,120 +1,6 @@
 {
   "items": [
     {
-      "id": 76343369,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7144cd67-a4bd-4046-9c42-46f9eedded5b/width=832/7144cd67-a4bd-4046-9c42-46f9eedded5b.jpeg",
-      "hash": "UBK]}+57K*x]0J0KIqMx00xZ019sv|~W-po~",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-17T00:33:06.462Z",
-      "postId": 16954773,
-      "stats": {
-        "cryCount": 182,
-        "laughCount": 351,
-        "likeCount": 2824,
-        "dislikeCount": 0,
-        "heartCount": 1177,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 503430622,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3),  <lora:escoffier-illu-nvwls-v1-000007:1> gsesc, blonde hair, long hair, ahoge, blue eyes, breasts, large breasts, ass, firm perky ass, A digital illustration shoot from a below camera angle about a young woman in a revealing outfit sitting on a bed with her legs spread, ((stretches her feet towards the viewer)). ((wearing white fishnet stockings:1.5)), with a playful expression. the image also shows a soft, pastel color palette. on the middle of the image, a 1girl, who appears to be a young adult, is sitting on the bed, wearing a red velvet, see-through dress with a plunging neckline and white thigh-high stockings. she has long hair, green eyes, and is looking directly at the viewer with a seductive expression, her mouth slightly open. her body is slim. the background is a simple bedroom with a window and curtains. relaxed but provocative, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle from behind:1.5)), from below, blurry background, bright colors, stunningly artwork",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "escoffier-illu-nvwls-v1-000007",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-05-14T0314:04.0908277Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1053830,
-            "modelVersionName": "Illustrious v1"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 91028,
-            "modelVersionName": "aid291"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 211788,
-            "modelVersionName": "v1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1193082,
-            "modelVersionName": "Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1781851,
-            "modelVersionName": "v1 (Illustrious v0.1)"
-          }
-        ]
-      },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        9208,
-        60938,
-        91028,
-        135867,
-        211788,
-        244808,
-        1053830,
-        1193082,
-        1781851
-      ]
-    },
-    {
       "id": 93428096,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea64f933-baa1-4954-b1e4-9711ac781f4e/width=1152/ea64f933-baa1-4954-b1e4-9711ac781f4e.jpeg",
       "hash": "UEMZ:x4nLN^*=w?vM|%MrB%24;WA009ZE3nN",
@@ -188,10 +74,37 @@
       "modelVersionIds": [
         2099415
       ]
+    },
+    {
+      "id": 51134377,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0a5aac9-d9fe-41d1-a15b-b5438839350e/width=1440/a0a5aac9-d9fe-41d1-a15b-b5438839350e.mp4",
+      "hash": "UADcH%00.84U_MIoRPxu%#t7n$ax^it7Rjt7",
+      "width": 1440,
+      "height": 1920,
+      "nsfwLevel": "X",
+      "type": "video",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-29T21:42:10.352Z",
+      "postId": 11501734,
+      "stats": {
+        "cryCount": 80,
+        "laughCount": 184,
+        "likeCount": 2317,
+        "dislikeCount": 0,
+        "heartCount": 1941,
+        "commentCount": 4
+      },
+      "meta": {
+        "prompt": "iphone video of women leaning against wall, swaying their hips,handheld device filming,"
+      },
+      "username": "Purfecter",
+      "baseModel": "Pony",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "239|1754908837987",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=239%7C1754908837987"
+    "nextCursor": "240|1745962930352",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=240%7C1745962930352"
   }
 }
