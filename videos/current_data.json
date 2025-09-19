@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "id": 3969838,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae41e7e5-a3e3-4eed-936c-da31a8037455/width=1184/ae41e7e5-a3e3-4eed-936c-da31a8037455.jpeg",
-      "hash": "U37,.2xu0M~B=^Io019aJB%1$%Iqxuxa^j-:",
-      "width": 1184,
-      "height": 1496,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2023-11-27T16:36:49.934Z",
-      "postId": 892289,
-      "stats": {
-        "cryCount": 110,
-        "laughCount": 303,
-        "likeCount": 2345,
-        "dislikeCount": 0,
-        "heartCount": 1777,
-        "commentCount": 13
-      },
-      "meta": {
-        "VAE": "vae-ft-mse-840000-ema-pruned.safetensors",
-        "Size": "1190x1497",
-        "seed": 1524706174,
-        "Model": "realcartoonRealistic_v11",
-        "steps": 22,
-        "hashes": {
-          "model": "7eb8672531"
-        },
-        "prompt": "(kneeling on a bed with her hand between her legs:1.2), smooth skin in moody lighting, a woman sitting in darkness with patterns of morning light moving over her body, long blonde hair and perfect body, rule of thirds, perfect composition, inspirational, amazingly realistic render in 4k",
-        "Version": "v1.6.0-2-g4afaaf8a",
-        "sampler": "DPM++ 3M SDE Karras",
-        "VAE hash": "737a0c5124",
-        "cfgScale": 8,
-        "resources": [
-          {
-            "hash": "7eb8672531",
-            "name": "realcartoonRealistic_v11",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7eb8672531",
-        "bad-artist": "2d356134903e\"",
-        "EasyNegative": "c74b4e810b03",
-        "negativePrompt": "Unspeakable-Horrors-24v EasyNegative bad-artist",
-        "Denoising strength": "0.3",
-        "\"Unspeakable-Horrors-24v": "afd4896b98d6"
-      },
-      "username": "Harmil",
-      "baseModel": "SD 1.5SD 1.5",
-      "modelVersionIds": [
-        235605
-      ]
-    },
-    {
       "id": 76343369,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7144cd67-a4bd-4046-9c42-46f9eedded5b/width=832/7144cd67-a4bd-4046-9c42-46f9eedded5b.jpeg",
       "hash": "UBK]}+57K*x]0J0KIqMx00xZ019sv|~W-po~",
@@ -167,10 +113,85 @@
         1193082,
         1781851
       ]
+    },
+    {
+      "id": 93428096,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea64f933-baa1-4954-b1e4-9711ac781f4e/width=1152/ea64f933-baa1-4954-b1e4-9711ac781f4e.jpeg",
+      "hash": "UEMZ:x4nLN^*=w?vM|%MrB%24;WA009ZE3nN",
+      "width": 1152,
+      "height": 1824,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-11T10:40:37.987Z",
+      "postId": 20727865,
+      "stats": {
+        "cryCount": 173,
+        "laughCount": 307,
+        "likeCount": 2663,
+        "dislikeCount": 0,
+        "heartCount": 1380,
+        "commentCount": 0
+      },
+      "meta": {
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "768x1216",
+        "seed": 2504864367,
+        "Model": "hassakuXLIllustrious_v13StyleA",
+        "steps": 28,
+        "hashes": {
+          "model": "163ac69059",
+          "lora:Chun-li_Swimsuit_Illu_Dwnsty": "41fc8ccc7749"
+        },
+        "prompt": "best quality, absurdres, newest, very aesthetic, amazing quality, highres, ultra detailed, mature female, \n <lora:Chun-li_Swimsuit_Illu_Dwnsty:1>, chnl1sfsw1m, brown eyes, black hair, hair bun, double bun, swept bangs, braided hair rings, short hair, hair ornament, hair flower, blue flower, earrings, jewelry, blue one-piece swimsuit, highleg swimsuit, gold trim, large breasts, back cutout, median furrow, blue bracelet, blue nails, nail polish, toned female, thick thighs, thigh ribbon, blue ribbon, 1girl, huge ass, on stomach, looking at viewer, lying, smile, beach towel, makeup, head rest, from above, blue rose, shadow, wide hips, eyeshadow, head tilt, breast press, narrow waist, curvy, perspective, upside-down,",
+        "Version": "f2.0.1v1.10.1-previous-636-gb835f24a",
+        "sampler": "Euler a",
+        "Module 1": "sdxl_vae",
+        "cfgScale": 5,
+        "resources": [
+          {
+            "hash": "41fc8ccc7749",
+            "name": "Chun-li_Swimsuit_Illu_Dwnsty",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "163ac69059",
+            "name": "hassakuXLIllustrious_v13StyleA",
+            "type": "model"
+          }
+        ],
+        "Model hash": "163ac69059",
+        "Hires steps": "10",
+        "Hires upscale": "1.5",
+        "Schedule type": "Normal",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "worst quality, low quality,  lowres, watermark, patreon username, artist name, artist logo, text, error, jpeg artifacts, unfinished, oldest, signature, artistic error, username, english text, 4koma, 2koma",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "5",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "SGM noise multiplier": "True",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "Discard penultimate sigma": "True",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "dwnsty",
+      "baseModel": null,
+      "modelVersionIds": [
+        2099415
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "238|1747441986462",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=238%7C1747441986462"
+    "nextCursor": "239|1754908837987",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=239%7C1754908837987"
   }
 }
