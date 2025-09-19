@@ -1,111 +1,6 @@
 {
   "items": [
     {
-      "id": 60007808,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e7bfaa6-e686-4467-9b32-a7b3d5bc8844/width=832/3e7bfaa6-e686-4467-9b32-a7b3d5bc8844.jpeg",
-      "hash": "U9Ook]~B0MMd4ps.9ZM|3Xog=|X9RP$*bYs:",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-25T09:16:10.514Z",
-      "postId": 13418310,
-      "stats": {
-        "cryCount": 169,
-        "laughCount": 305,
-        "likeCount": 2724,
-        "dislikeCount": 0,
-        "heartCount": 1348,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1284928753,
-        "steps": 20,
-        "prompt": "((1girl)), gorgeous girl , kawaii girl , cute face, masterpiece, best quality, very awa, absurdres, 748cmstyle, usnr\nmasterpiece, best quality, Good quality, very aesthetic, absurdres, newest,1girl, light rays, looking at viewer, sky, solo, gradient color, erotic, petals falling,\nBREAK\nultra-detailed, 8K, illustration, CG, ultra-detailed-eyes, detailed background, ambient occlusion, raytracing, soft lighting, absolutely eye-catching, intricate cinematic background, (beautiful face),  , eyelashes, erotic, looking seductive, coy. dynamic action image, detailed face, detailed eyes, direct mesmerizing gaze, mature female, medium breast,\nBREAK\n(sexy, slutty, hot, aroused), \nWererabbit, animal legs, fluffy legs, rabbit ears, floppy animal ears \nBREAK\npink ribbon, playful, heart-shaped pillows, white sheet bed, dynamic pose, choker, lusty,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-02-25T0851:34.4309290Z",
-        "negativePrompt": "lowres, worst quality, low quality, low score, bad score,  blurry, text, ugly, hooded eyes, yellow liquid, penis,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1240288,
-            "modelVersionName": "v1.3 - Style A"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 959419,
-            "modelVersionName": "SDXL_Illustrious-XL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1036362,
-            "modelVersionName": "v4_noobEv1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1225664,
-            "modelVersionName": "V5.2 - Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1268447,
-            "modelVersionName": "v1.0 [noobai-v-pred-1]"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "Beez111",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        959419,
-        1036362,
-        1056404,
-        1225664,
-        1240288,
-        1244133,
-        1268447
-      ]
-    },
-    {
       "id": 21090793,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/df59d16c-8a0b-4092-a66a-ef8a5cb6078c/width=832/df59d16c-8a0b-4092-a66a-ef8a5cb6078c.jpeg",
       "hash": "USINz4%2o~V@_Nx]oeM{bwtRV?V@xtkCIoWB",
@@ -194,10 +89,104 @@
         534642,
         545059
       ]
+    },
+    {
+      "id": 69899806,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27023e09-69c1-4287-a26c-02d35c674eee/width=832/27023e09-69c1-4287-a26c-02d35c674eee.jpeg",
+      "hash": "UTMsA|~qBpkWMJivMxnjEh%1IpV@xbbcs:xt",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-14T05:00:00.000Z",
+      "postId": 15528076,
+      "stats": {
+        "cryCount": 147,
+        "laughCount": 319,
+        "likeCount": 2707,
+        "dislikeCount": 0,
+        "heartCount": 1364,
+        "commentCount": 2
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1848391324,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), Sylvia, large breasts, long hair, drill hair, pink hair, hair over one eye, blue eyes, makeup, smokyeyes, lash, pink mascara, puffy lips, glossy pink lips, 1 girl, solo, anime, sexy girl, ((pink laced choker)), sea blue, pink micro top, pink lace micro top, breasts overhang, sea blue caribic, pink side-tie g-string, wet clothes, large firm breast, ((seethrough breasts, seethrough hard nipple)), (wet clothes), underboob, head tilt, arms up, hand on breast, hand in hair, posing, dynamic angle, biting own lip, standing, from below, realistic light, dutch angle, fom below, alluring and erotic atmosphere. depth of field, blurry soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from side, blurry background, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-04-13T0741:40.7421333Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1612720,
+            "modelVersionName": "v13.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1111018,
+            "modelVersionName": "Illustrious_v1.0"
+          }
+        ]
+      },
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        6056,
+        25820,
+        1056404,
+        1111018,
+        1135769,
+        1373674,
+        1612720
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "235|1721776567019",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=235%7C1721776567019"
+    "nextCursor": "236|1744606800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=236%7C1744606800000"
   }
 }
