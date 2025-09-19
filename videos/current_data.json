@@ -1,39 +1,6 @@
 {
   "items": [
     {
-      "id": 97722990,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8606d032-99e9-46e1-bb26-027a5fa52127/width=1280/8606d032-99e9-46e1-bb26-027a5fa52127.jpeg",
-      "hash": "UJGuH^~B0KsmMwj[M_tR0fEM?Hxu%M?Gxut6",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-09-02T09:17:33.419Z",
-      "postId": 21681555,
-      "stats": {
-        "cryCount": 151,
-        "laughCount": 315,
-        "likeCount": 2865,
-        "dislikeCount": 0,
-        "heartCount": 1228,
-        "commentCount": 1
-      },
-      "meta": null,
-      "username": "ShishigamiDono",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        164821,
-        382152,
-        534756,
-        556208,
-        596040,
-        756152,
-        2071650
-      ]
-    },
-    {
       "id": 99560791,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30cdba82-9635-4dc8-98b1-dea72bd20ca0/width=1800/30cdba82-9635-4dc8-98b1-dea72bd20ca0.jpeg",
       "hash": "UHHnjZR50~~pm6Ef9Z%2BpVtrWS#^*9ZcF?a",
@@ -57,10 +24,115 @@
       "username": "Rodzilla2025X",
       "baseModel": "Illustrious",
       "modelVersionIds": []
+    },
+    {
+      "id": 60007808,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e7bfaa6-e686-4467-9b32-a7b3d5bc8844/width=832/3e7bfaa6-e686-4467-9b32-a7b3d5bc8844.jpeg",
+      "hash": "U9Ook]~B0MMd4ps.9ZM|3Xog=|X9RP$*bYs:",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-25T09:16:10.514Z",
+      "postId": 13418310,
+      "stats": {
+        "cryCount": 169,
+        "laughCount": 305,
+        "likeCount": 2724,
+        "dislikeCount": 0,
+        "heartCount": 1348,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1284928753,
+        "steps": 20,
+        "prompt": "((1girl)), gorgeous girl , kawaii girl , cute face, masterpiece, best quality, very awa, absurdres, 748cmstyle, usnr\nmasterpiece, best quality, Good quality, very aesthetic, absurdres, newest,1girl, light rays, looking at viewer, sky, solo, gradient color, erotic, petals falling,\nBREAK\nultra-detailed, 8K, illustration, CG, ultra-detailed-eyes, detailed background, ambient occlusion, raytracing, soft lighting, absolutely eye-catching, intricate cinematic background, (beautiful face),  , eyelashes, erotic, looking seductive, coy. dynamic action image, detailed face, detailed eyes, direct mesmerizing gaze, mature female, medium breast,\nBREAK\n(sexy, slutty, hot, aroused), \nWererabbit, animal legs, fluffy legs, rabbit ears, floppy animal ears \nBREAK\npink ribbon, playful, heart-shaped pillows, white sheet bed, dynamic pose, choker, lusty,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-02-25T0851:34.4309290Z",
+        "negativePrompt": "lowres, worst quality, low quality, low score, bad score,  blurry, text, ugly, hooded eyes, yellow liquid, penis,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1240288,
+            "modelVersionName": "v1.3 - Style A"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 959419,
+            "modelVersionName": "SDXL_Illustrious-XL"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1036362,
+            "modelVersionName": "v4_noobEv1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1225664,
+            "modelVersionName": "V5.2 - Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1268447,
+            "modelVersionName": "v1.0 [noobai-v-pred-1]"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "Beez111",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        959419,
+        1036362,
+        1056404,
+        1225664,
+        1240288,
+        1244133,
+        1268447
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "233|1757613464735",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=233%7C1757613464735"
+    "nextCursor": "234|1740474970514",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=234%7C1740474970514"
   }
 }
