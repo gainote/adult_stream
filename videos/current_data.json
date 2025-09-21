@@ -1,109 +1,6 @@
 {
   "items": [
     {
-      "id": 88552369,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e73eefeb-3270-4aea-99bf-f870e1de2b8e/width=832/e73eefeb-3270-4aea-99bf-f870e1de2b8e.jpeg",
-      "hash": "UGM~Uz4ou3xZ~o%1x]%L56-:IVoy4Tbw%MM{",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-16T07:40:00.000Z",
-      "postId": 19642191,
-      "stats": {
-        "cryCount": 112,
-        "laughCount": 284,
-        "likeCount": 2740,
-        "dislikeCount": 0,
-        "heartCount": 1303,
-        "commentCount": 0
-      },
-      "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
-        "extra": {},
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\nblonde braid,\n(pastel colors:0.7),\n(smooth skin:0.9),\nshading,\nwhite lace panties,\n(ass folds:1.2),\n\n",
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
-        "baseModel": "Illustrious",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/258287982541410850186992330624999141372.jpg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed), bestiality",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1761560
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1976924
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1082928
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1976924
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1082928
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:966483@1082928",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "vovkkabanko",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1082928,
-        1761560,
-        1976924
-      ]
-    },
-    {
       "id": 67932514,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f529c20-7e39-4a6a-aea1-7a05d948ff3f/width=1800/8f529c20-7e39-4a6a-aea1-7a05d948ff3f.jpeg",
       "hash": "UNL4Ts^+.SNHuP.8-pnj9^jE+]V@?vRPVYR*",
@@ -222,10 +119,127 @@
         596072,
         728486
       ]
+    },
+    {
+      "id": 86752745,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8549c74-871c-49cd-88d6-2998dc403a43/width=832/e8549c74-871c-49cd-88d6-2998dc403a43.jpeg",
+      "hash": "U9NH~8,n-Yv#Qfg10L~V03xZAV9Fk?MeOX9Z",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-07T05:20:00.000Z",
+      "postId": 19247881,
+      "stats": {
+        "cryCount": 152,
+        "laughCount": 309,
+        "likeCount": 2705,
+        "dislikeCount": 0,
+        "heartCount": 1270,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 382365716,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), <lora:shikimori-illu-nvwls-v1-000006:1>, skmor, pink hair, blue eyes, half updo, very long hair, hair between eyes, medium breasts, black smokyeyes, lash, mascara, glossy red lips, parted lips, firm petite shape, red lips, 1 girl, 1 woman, digital illustration shoot from the side about a young woman in a white bikini, ultra tight micro white bikini, white side-tie string, areola, wedgie, surrounded by bubbles, sitting in the middle of the image, the image also shows a playful and whimsical atmosphere, with a soft and pastel color palette. on the center of the frame, who appear to be a young adult, is sitting with her upper body facing the viewer, looking to the side with a dreamy expression, she has a slim body and bare shoulders, bikini with a white bikini top and bottoms, the background is a sunset, colorful red sky with fluffy white clouds, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from below, blurry background, bright colors, stunningly artwork, (blurry background, depth of field:1.1)",
+        "process": "img2img",
+        "sampler": "DDIM",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
+          {
+            "name": "shikimori-illu-nvwls-v1-000006",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-07T0349:37.4930852Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1975117,
+            "modelVersionName": "v1 (Illustrious v0.1)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1193082,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1027964,
+            "modelVersionName": "trt v0.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 211788,
+            "modelVersionName": "v1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1598431,
+            "modelVersionName": "illust"
+          }
+        ]
+      },
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        9208,
+        135867,
+        211788,
+        244808,
+        1027964,
+        1193082,
+        1598431,
+        1761560,
+        1975117
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "257|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=257%7C1743786969925"
+    "nextCursor": "258|1751865600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=258%7C1751865600000"
   }
 }
