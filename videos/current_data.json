@@ -1,157 +1,6 @@
 {
   "items": [
     {
-      "id": 89779425,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6635a15-d633-4927-a4fb-6c7734e7cc86/width=1152/b6635a15-d633-4927-a4fb-6c7734e7cc86.jpeg",
-      "hash": "U8Gu8lwI00s+00o}-oxu0LxD^%M{~qbHNG-p",
-      "width": 1152,
-      "height": 1544,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-22T11:23:55.131Z",
-      "postId": 19914418,
-      "stats": {
-        "cryCount": 158,
-        "laughCount": 352,
-        "likeCount": 2823,
-        "dislikeCount": 0,
-        "heartCount": 1177,
-        "commentCount": 2
-      },
-      "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1559047@1971591",
-        "extra": {},
-        "steps": 40,
-        "width": 1158,
-        "height": 1544,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1559047@1971591"
-        ],
-        "prompt": "nsfw, underwear, panties, 1girl, realistic, caucasian, navel, photorealistic, breasts, crop_top, highleg_panties, long_hair, solo, shirt, looking_at_viewer, highleg, black_panties, animal_print, brown_hair, midriff, grey_shirt, cropped_shirt, thong, brown_eyes, standing, lips, indoors, carpet, medium_breasts, tube_top, arms_at_sides, forehead, large_breasts",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "normal",
-        "quantity": 3,
-        "workflow": "img2img",
-        "baseModel": "Pony",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/142659500352605885153402440878188657877.jpg",
-          "width": 1158,
-          "height": 1544
-        },
-        "experimental": false,
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie, jeans, (car), (car interior), (transport), selfie, nipples, tattoos, neck tattoos, shoulder tattoos, belly tattoos, piercings",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1971591
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 596040
-          },
-          {
-            "weight": 1.65,
-            "modelVersionId": 1242203
-          },
-          {
-            "weight": 0.15,
-            "modelVersionId": 1142665
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 427792
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1971591
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 596040
-          },
-          {
-            "type": "lora",
-            "weight": 1.65,
-            "modelVersionId": 1242203
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 1142665
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 427792
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:536170@596040",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1105685@1242203",
-            "type": "lora",
-            "strength": 1.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1019079@1142665",
-            "type": "lora",
-            "strength": 0.15,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:383293@427792",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "TheFactory_",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        382152,
-        427792,
-        596040,
-        1142665,
-        1242203,
-        1971591
-      ]
-    },
-    {
       "id": 45500320,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/166f9d0a-0d31-4617-bc47-54dc1b1de95d/width=832/166f9d0a-0d31-4617-bc47-54dc1b1de95d.jpeg",
       "hash": "UGEUS?^*O?xuk=~B?Gxub]%L-pxu}@xutRxa",
@@ -247,10 +96,104 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 69898881,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/778dfd24-f4b6-4ab8-9424-146830b21aba/width=832/778dfd24-f4b6-4ab8-9424-146830b21aba.jpeg",
+      "hash": "UIOd,~~B%gtS-DRj-;bcK89uWZRltSbcogog",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-14T04:30:00.000Z",
+      "postId": 15527895,
+      "stats": {
+        "cryCount": 164,
+        "laughCount": 347,
+        "likeCount": 2696,
+        "dislikeCount": 0,
+        "heartCount": 1295,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 2111445772,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), Sylvia, large breasts, long hair, drill hair, pink hair, hair over one eye, blue eyes, makeup, smokyeyes, lash, pink mascara, puffy lips, glossy pink lips, 1 girl, 1 woman, digital illustration shoot from the side about a young woman in a pink bikini, ultra tight micro pink bikini, pink side-tie string, areola, wedgie, surrounded by bubbles, sitting in the middle of the image, the image also shows a playful and whimsical atmosphere, with a soft and pastel color palette. on the center of the frame, who appear to be a young adult, is sitting with her upper body facing the viewer, looking to the side with a playful expression, she has a slim body and bare shoulders, bikini with a pink bikini top and bottoms, the background is a sunset, colorful orange sky with fluffy white clouds, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from below, blurry background, bright colors, stunningly artwork, (blurry background, depth of field:1.1),",
+        "sampler": "DDIM",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-04-13T0736:17.9719995Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1612720,
+            "modelVersionName": "v13.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1111018,
+            "modelVersionName": "Illustrious_v1.0"
+          }
+        ]
+      },
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        6056,
+        25820,
+        1056404,
+        1111018,
+        1135769,
+        1373674,
+        1612720
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "242|1734196901383",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=242%7C1734196901383"
+    "nextCursor": "243|1744605000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=243%7C1744605000000"
   }
 }
