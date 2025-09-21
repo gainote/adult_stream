@@ -1,123 +1,6 @@
 {
   "items": [
     {
-      "id": 86752745,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8549c74-871c-49cd-88d6-2998dc403a43/width=832/e8549c74-871c-49cd-88d6-2998dc403a43.jpeg",
-      "hash": "U9NH~8,n-Yv#Qfg10L~V03xZAV9Fk?MeOX9Z",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-07T05:20:00.000Z",
-      "postId": 19247881,
-      "stats": {
-        "cryCount": 152,
-        "laughCount": 309,
-        "likeCount": 2705,
-        "dislikeCount": 0,
-        "heartCount": 1270,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 382365716,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), <lora:shikimori-illu-nvwls-v1-000006:1>, skmor, pink hair, blue eyes, half updo, very long hair, hair between eyes, medium breasts, black smokyeyes, lash, mascara, glossy red lips, parted lips, firm petite shape, red lips, 1 girl, 1 woman, digital illustration shoot from the side about a young woman in a white bikini, ultra tight micro white bikini, white side-tie string, areola, wedgie, surrounded by bubbles, sitting in the middle of the image, the image also shows a playful and whimsical atmosphere, with a soft and pastel color palette. on the center of the frame, who appear to be a young adult, is sitting with her upper body facing the viewer, looking to the side with a dreamy expression, she has a slim body and bare shoulders, bikini with a white bikini top and bottoms, the background is a sunset, colorful red sky with fluffy white clouds, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from below, blurry background, bright colors, stunningly artwork, (blurry background, depth of field:1.1)",
-        "process": "img2img",
-        "sampler": "DDIM",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "shikimori-illu-nvwls-v1-000006",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-07T0349:37.4930852Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1975117,
-            "modelVersionName": "v1 (Illustrious v0.1)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1193082,
-            "modelVersionName": "Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1027964,
-            "modelVersionName": "trt v0.3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 211788,
-            "modelVersionName": "v1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1598431,
-            "modelVersionName": "illust"
-          }
-        ]
-      },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        9208,
-        135867,
-        211788,
-        244808,
-        1027964,
-        1193082,
-        1598431,
-        1761560,
-        1975117
-      ]
-    },
-    {
       "id": 79766685,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/194cbe98-d3e6-4d92-8b3b-7c48fec01709/width=1344/194cbe98-d3e6-4d92-8b3b-7c48fec01709.jpeg",
       "hash": "UGFq?[%LACjF}uI;5j%2DjkBbuVtJ6oy%2eo",
@@ -181,10 +64,71 @@
         1268360,
         1851946
       ]
+    },
+    {
+      "id": 9913495,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44e8852e-bbe1-40dc-b317-02966b0aebc3/width=832/44e8852e-bbe1-40dc-b317-02966b0aebc3.jpeg",
+      "hash": "UHIN,ZCT0$TzpyNH#Qof0h#7ZMrq.8wb8_bv",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-04-15T04:05:11.204Z",
+      "postId": 2155012,
+      "stats": {
+        "cryCount": 99,
+        "laughCount": 311,
+        "likeCount": 2335,
+        "dislikeCount": 0,
+        "heartCount": 1684,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1374966404,
+        "steps": 48,
+        "prompt": "score_9,score_8_up,score_7_up,very aesthetic,side angle,1girl,18 years old,gorgeous,cute,pretty,skinny,petite,sweaty..beautiful face,shy,nude,perfect breasts,small breasts,perfect nipples,deepthroat,irrumatio,balls deep,drool,girl bedroom,detailed face,intricate details,naturalism, looking at viewer, hyperdetailed,hyperrealistic,big cock, floating neon hearts, background magical forest at sunset, backlight, normal length neck",
+        "sampler": "Euler a",
+        "cfgScale": 8,
+        "clipSkip": 2,
+        "resources": [],
+        "negativePrompt": "score_4,score_5,score_6,(deformed, distorted, disfigured:1.3),poorly drawn,bad anatomy,ugly,disgusting,blurry,negativeXL_D , long neck",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 310551
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 398847
+          }
+        ]
+      },
+      "username": "Atomicbooger",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        290640,
+        310551,
+        382152,
+        398847
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "259|1748777779084",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=259%7C1748777779084"
+    "nextCursor": "260|1713153911204",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=260%7C1713153911204"
   }
 }
