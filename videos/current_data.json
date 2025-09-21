@@ -1,69 +1,96 @@
 {
   "items": [
     {
-      "id": 51644312,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b1df939-a99d-4db8-b513-e35310839c98/width=1440/8b1df939-a99d-4db8-b513-e35310839c98.jpeg",
-      "hash": "UbM~t-_4-q-=b_oJD$E0b_jFM_M{V?j]NGM{",
-      "width": 1440,
-      "height": 2560,
-      "nsfwLevel": "Mature",
+      "id": 97025606,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a314e1c-f492-4d43-8734-cd6aad148a14/width=832/9a314e1c-f492-4d43-8734-cd6aad148a14.jpeg",
+      "hash": "UBOCN:~C1Ps99Ijvt+Xm00Ipt1J7GHNxNLIo",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-01-14T21:15:00.000Z",
-      "postId": 11613348,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-29T16:35:07.683Z",
+      "postId": 21522649,
       "stats": {
-        "cryCount": 136,
-        "laughCount": 228,
-        "likeCount": 2535,
+        "cryCount": 220,
+        "laughCount": 314,
+        "likeCount": 2678,
         "dislikeCount": 0,
-        "heartCount": 1529,
-        "commentCount": 4
+        "heartCount": 1216,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "720x1280",
-        "seed": 3839540428,
-        "Model": "waiNSFWIllustrious_v90_1187991",
-        "steps": 32,
-        "hashes": {
-          "model": "178fc987b2"
+        "Size": "832x1216",
+        "seed": 1553875361,
+        "draft": false,
+        "extra": {
+          "remixOfId": 84812870
         },
-        "prompt": "HDR, 8K, high contrast, masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, (best quality:1.1), retro artstyle, realistic, promotional art, newest, volumetric lighting,\n1 adult woman, adjusting panties, frilled panties,print panties, pink background simple background, see-through silhouette,",
-        "Version": "1.10.1",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 6.5,
+        "steps": 40,
+        "width": 832,
+        "height": 1216,
+        "prompt": "solo, sexy, CivChan, petite\n,\n, 1girl,1boy, from above, navel, motion lines, armpit, naked, sheet grab, hands on another's waist, worried, surprised, pov, male pov, looking at the viewer, collarbone, unworn clothes, missionary position, on back, drooling,  rough sex, stomach bulge, pink choker, looking at the viewer\n,\nmasterpiece, best quality, very aesthetic, absurdres, Detailed face, (detailed background:1.1), 1=2",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-28T1712:53.9860621Z",
+        "experimental": false,
+        "negativePrompt": "lowres, worst quality, worst aesthetic, bad anatomy, old, early, scan artifacts, scanlines,adversarial noise, lossy-lossless, (disembodied:1.1), missing, extra, bad hands, bad eyes, Bad anatomy, low quality, text, worst quality, displeasing, missing fingers, bad hands, bad fingers, puffy sleeves, puffy shoulders, futa",
+        "civitaiResources": [
           {
-            "hash": "178fc987b2",
-            "name": "waiNSFWIllustrious_v90_1187991",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 145907
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 959419
+          },
+          {
+            "type": "lora",
+            "weight": 1.05,
+            "modelVersionId": 1036362
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1056404
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1597055
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1198864
           }
-        ],
-        "Model hash": "178fc987b2",
-        "Hires steps": "19",
-        "Hires upscale": "2",
-        "Schedule type": "Karras",
-        "Hires upscaler": "4xNomos8kDAT",
-        "negativePrompt": "deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, (bad hands, missing fingers, extra digit, fewer digits:1.2), cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, simple background",
-        "Wildcard prompt": {
-          "(best quality": "1.1)"
-        },
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.32",
-        "ADetailer model 2nd": "face_yolov8n.pt",
-        "Hires schedule type": "Karras",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.3",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer denoising strength 2nd": "0.4",
-        "ADetailer inpaint only masked 2nd": "True"
+        ]
       },
-      "username": "roxin282",
+      "username": "merisiel",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1283437
+        145907,
+        959419,
+        1036362,
+        1056404,
+        1198864,
+        1240288,
+        1597055
       ]
     },
     {
@@ -81,7 +108,7 @@
       "stats": {
         "cryCount": 97,
         "laughCount": 209,
-        "likeCount": 2110,
+        "likeCount": 2111,
         "dislikeCount": 0,
         "heartCount": 2012,
         "commentCount": 13
@@ -97,7 +124,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "262|1697984389081",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=262%7C1697984389081"
+    "nextCursor": "263|1697984389081",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=263%7C1697984389081"
   }
 }
