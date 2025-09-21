@@ -1,112 +1,6 @@
 {
   "items": [
     {
-      "id": 97008832,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/93fb83c0-9774-4d28-a507-64d69996afbf/width=1800/93fb83c0-9774-4d28-a507-64d69996afbf.jpeg",
-      "hash": "USI}01~VF{xa^*x]ozogT0-;-pX9x]oz%2R*",
-      "width": 2240,
-      "height": 2880,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-29T11:17:06.344Z",
-      "postId": 21518934,
-      "stats": {
-        "cryCount": 189,
-        "laughCount": 340,
-        "likeCount": 2636,
-        "dislikeCount": 0,
-        "heartCount": 1295,
-        "commentCount": 2
-      },
-      "meta": {
-        "TI": {},
-        "Size": "1520x1952",
-        "seed": 3646577190,
-        "Model": "Illv10FSP",
-        "steps": 40,
-        "hashes": {
-          "model": "d84b70d3d5",
-          "lora:XmutsixV2": "88b0be86220a",
-          "lora:Real hair for 2D": "69b5f30b1784",
-          "lora:USNR_STYLE_ILL_V1_lokr3": "44586d05878a",
-          "lora:Ultra Lora Detailer and Glow": "8309617bd8f4",
-          "lora:Inkyo_-_Illustrious_Custom_Style": "396998dde1df",
-          "lora:USA37107692-illustriousXL_v01_V2-CAME": "f532ec9d1c73",
-          "lora:Mikozinn_Style_Illustrious__\u30df\u30b3\u30b8\u30f3_": "e66030e48f2f"
-        },
-        "prompt": "masterpiece,8k,depth of field,best quality,1girl,mid chest,mature,freckles,blue eyes,<lora:Ultra Lora Detailer and Glow:0.7>,<lora:XmutsixV2:0.1>,x1mtxsx,<lora:Real hair for 2D:0.8>,hair,detail,<lora:USA37107692-illustriousXL_v01_V2-CAME:0.1>,USA3710,<lora:USNR_STYLE_ILL_V1_lokr3:0.1>,usnr,<lora:Mikozinn_Style_Illustrious__\u30df\u30b3\u30b8\u30f3_:0.1>,Mikozinn,<lora:Inkyo_-_Illustrious_Custom_Style:0.1>,Inkyo,Facefucking,deepthroat,wide eyes,runny makeup,drool,saliva,cum in throat,cum on chin,cum from nose,bulging cheeks,full face blush,looking up at partner,cock worship,awe,bliss,joy,desperate,in heat,kneeling girl,milf,mature,standing male,head against wall,motion lines,thrusting,hair grab,dino \\(dinoartforame\\),Rapscallionstyle,artist:moriimee,blurry background,dim lighting,ultra-detailed,masterpiece,best quality,very awa,soft natural lighting,bloom,flat colors. Bold line art,Smooth_Qualit,",
-        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "88b0be86220a",
-            "name": "XmutsixV2",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "f532ec9d1c73",
-            "name": "USA37107692-illustriousXL_v01_V2-CAME",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "44586d05878a",
-            "name": "USNR_STYLE_ILL_V1_lokr3",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "396998dde1df",
-            "name": "Inkyo_-_Illustrious_Custom_Style",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "8309617bd8f4",
-            "name": "Ultra Lora Detailer and Glow",
-            "type": "lora"
-          },
-          {
-            "hash": "69b5f30b1784",
-            "name": "Real hair for 2D",
-            "type": "lora"
-          },
-          {
-            "hash": "e66030e48f2f",
-            "name": "Mikozinn_Style_Illustrious__\u30df\u30b3\u30b8\u30f3_",
-            "type": "lora"
-          },
-          {
-            "hash": "d84b70d3d5",
-            "name": "Illv10FSP",
-            "type": "model"
-          }
-        ],
-        "Model hash": "d84b70d3d5",
-        "Schedule type": "Karras",
-        "negativePrompt": "easynegative,lazyneg_1760455,sharp,lines,text,logo,wet,piercing,t-shirt logo,toy,X,white_background,",
-        "Denoising strength": "0.4",
-        "SD upscale overlap": "64",
-        "SD upscale upscaler": "remacri_original"
-      },
-      "username": "Xmutsix",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1552087,
-        1953811,
-        2074568,
-        2087008,
-        2101298,
-        2134626,
-        2141638,
-        2144812
-      ]
-    },
-    {
       "id": 45729167,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e31bfbd5-f17f-4d9b-8e92-0b5263442b91/width=1280/e31bfbd5-f17f-4d9b-8e92-0b5263442b91.jpeg",
       "hash": "UCK0yw147y;*~p00xtR500-6-qbaRQtQE2kW",
@@ -255,10 +149,79 @@
         378950,
         421754
       ]
+    },
+    {
+      "id": 86613983,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c79450cf-03b3-4c3c-b786-971340c34628/width=784/c79450cf-03b3-4c3c-b786-971340c34628.jpeg",
+      "hash": "UcI}q%oy~qRPjFIoj@xuWqj[M{RkM{t7oLt6",
+      "width": 784,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-06T11:33:31.802Z",
+      "postId": 19217714,
+      "stats": {
+        "cryCount": 202,
+        "laughCount": 324,
+        "likeCount": 2831,
+        "dislikeCount": 0,
+        "heartCount": 1091,
+        "commentCount": 0
+      },
+      "meta": {
+        "App": "SD.Next",
+        "VAE": "sdxlVAE_sdxlVAE",
+        "Size": "784x1216",
+        "seed": 2347808964,
+        "Model": "axsys_ponyV10",
+        "steps": 20,
+        "hashes": {
+          "model": "a2132ad964"
+        },
+        "prompt": "a proper, detailed hand  <lora:pony_good_hands:1.5>",
+        "Version": "12ebadc",
+        "Pipeline": "StableDiffusionXLInpaintPipeline",
+        "cfgScale": 6,
+        "Mask area": "0",
+        "Mask blur": "4",
+        "resources": [
+          {
+            "name": "pony_good_hands",
+            "type": "lora",
+            "weight": 1.5
+          },
+          {
+            "hash": "a2132ad964",
+            "name": "axsys_ponyV10",
+            "type": "model"
+          }
+        ],
+        "Mask alpha": "1",
+        "Model hash": "a2132ad964",
+        "Operations": "inpaint",
+        "Mask invert": "0",
+        "Resize mode": "Fixed",
+        "Mask content": "1",
+        "Mask padding": "32",
+        "Resize scale": "1",
+        "LoRA networks": "pony_good_hands",
+        "negativePrompt": "distorted hands, foot",
+        "Image CFG scale": "6",
+        "Init image hash": "179511f3",
+        "Init image size": "784x1216",
+        "Denoising strength": "0.51"
+      },
+      "username": "MullDisdain",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        1090612
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "253|1734307380000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=253%7C1734307380000"
+    "nextCursor": "254|1751801611802",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=254%7C1751801611802"
   }
 }
