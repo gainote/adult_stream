@@ -15,9 +15,9 @@
       "stats": {
         "cryCount": 173,
         "laughCount": 307,
-        "likeCount": 2663,
+        "likeCount": 2664,
         "dislikeCount": 0,
-        "heartCount": 1380,
+        "heartCount": 1382,
         "commentCount": 0
       },
       "meta": {
@@ -76,35 +76,159 @@
       ]
     },
     {
-      "id": 51134377,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0a5aac9-d9fe-41d1-a15b-b5438839350e/width=1440/a0a5aac9-d9fe-41d1-a15b-b5438839350e.mp4",
-      "hash": "UADcH%00.84U_MIoRPxu%#t7n$ax^it7Rjt7",
-      "width": 1440,
-      "height": 1920,
-      "nsfwLevel": "X",
-      "type": "video",
+      "id": 89779425,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6635a15-d633-4927-a4fb-6c7734e7cc86/width=1152/b6635a15-d633-4927-a4fb-6c7734e7cc86.jpeg",
+      "hash": "U8Gu8lwI00s+00o}-oxu0LxD^%M{~qbHNG-p",
+      "width": 1152,
+      "height": 1544,
+      "nsfwLevel": "Mature",
+      "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-29T21:42:10.352Z",
-      "postId": 11501734,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-22T11:23:55.131Z",
+      "postId": 19914418,
       "stats": {
-        "cryCount": 80,
-        "laughCount": 184,
-        "likeCount": 2317,
+        "cryCount": 158,
+        "laughCount": 352,
+        "likeCount": 2823,
         "dislikeCount": 0,
-        "heartCount": 1941,
-        "commentCount": 4
+        "heartCount": 1177,
+        "commentCount": 2
       },
       "meta": {
-        "prompt": "iphone video of women leaning against wall, swaying their hips,handheld device filming,"
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1559047@1971591",
+        "extra": {},
+        "steps": 40,
+        "width": 1158,
+        "height": 1544,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1559047@1971591"
+        ],
+        "prompt": "nsfw, underwear, panties, 1girl, realistic, caucasian, navel, photorealistic, breasts, crop_top, highleg_panties, long_hair, solo, shirt, looking_at_viewer, highleg, black_panties, animal_print, brown_hair, midriff, grey_shirt, cropped_shirt, thong, brown_eyes, standing, lips, indoors, carpet, medium_breasts, tube_top, arms_at_sides, forehead, large_breasts",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "normal",
+        "quantity": 3,
+        "workflow": "img2img",
+        "baseModel": "Pony",
+        "upscalers": [],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/142659500352605885153402440878188657877.jpg",
+          "width": 1158,
+          "height": 1544
+        },
+        "experimental": false,
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie, jeans, (car), (car interior), (transport), selfie, nipples, tattoos, neck tattoos, shoulder tattoos, belly tattoos, piercings",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1971591
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 596040
+          },
+          {
+            "weight": 1.65,
+            "modelVersionId": 1242203
+          },
+          {
+            "weight": 0.15,
+            "modelVersionId": 1142665
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 427792
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1971591
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 596040
+          },
+          {
+            "type": "lora",
+            "weight": 1.65,
+            "modelVersionId": 1242203
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 1142665
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 427792
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:536170@596040",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1105685@1242203",
+            "type": "lora",
+            "strength": 1.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1019079@1142665",
+            "type": "lora",
+            "strength": 0.15,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:383293@427792",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Purfecter",
+      "username": "TheFactory_",
       "baseModel": "Pony",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        382152,
+        427792,
+        596040,
+        1142665,
+        1242203,
+        1971591
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "240|1745962930352",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=240%7C1745962930352"
+    "nextCursor": "241|1753183435131",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=241%7C1753183435131"
   }
 }
