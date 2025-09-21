@@ -1,39 +1,6 @@
 {
   "items": [
     {
-      "id": 46775944,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82d96913-5095-450e-95e0-8b356743840b/width=1280/82d96913-5095-450e-95e0-8b356743840b.jpeg",
-      "hash": "UDGuB#9F?^Io~qD%?bIUXSD*M|oKMx%2Ioay",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-21T13:09:02.344Z",
-      "postId": 10576464,
-      "stats": {
-        "cryCount": 120,
-        "laughCount": 211,
-        "likeCount": 2634,
-        "dislikeCount": 0,
-        "heartCount": 1528,
-        "commentCount": 4
-      },
-      "meta": null,
-      "username": "sabbufik419",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
-    },
-    {
       "id": 52848280,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e338567e-0223-4d25-8a2c-ecb358cf2ea3/width=832/e338567e-0223-4d25-8a2c-ecb358cf2ea3.jpeg",
       "hash": "U9Bo?fNG00-V{|Rk1fxu?vj[D%RjrWs:jYNH",
@@ -129,10 +96,101 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 34711708,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8307c4b1-8c8a-41ec-aa73-da14524f25af/width=1800/8307c4b1-8c8a-41ec-aa73-da14524f25af.jpeg",
+      "hash": "UHGR*h%M00-;x]8_Di~q?v%MD$Di?bRjMx%M",
+      "width": 2496,
+      "height": 3648,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-15T09:45:07.324Z",
+      "postId": 7931520,
+      "stats": {
+        "cryCount": 164,
+        "laughCount": 333,
+        "likeCount": 2505,
+        "dislikeCount": 0,
+        "heartCount": 1474,
+        "commentCount": 67
+      },
+      "meta": {
+        "seed": 80040293,
+        "vaes": [],
+        "extra": {},
+        "steps": 50,
+        "models": [],
+        "prompt": "safe_pos, ultra-detailed, 32k, 4k, score_9, score_8_up, score_7_up, score_6_up, 3girls, 18 yr old, ((young)), (long black hair), redhead, long hair, 1blonde, wet hair, ((wet skin)), (nude), beautiful eyes, perfect face, blue eyes, green eyes, sexy, sexy girl, beautiful eyes, glossy lips, petite body, small tight ass, thigh gap, large breasts, ((intense pleasure)), narrow waist, fit, petite, flat stomach, (standing in a fancy shower), headshot, worried, panting, cinematic lighting, even lighting, soft lighting, supermodels, embarrassed, blushing, cleavage, breast grab, looking at viewer, dynamic angle, dynamic poses, light from window, (eye rolling, looking back at boy), (face pressed to wall: 1.5), fucking against wall, standing sex, head pressed to wall, squishing cheek, (1boy, toned college boy, big white cock, fucking pussy from behind, face out of frame) , forceful, side view, small breast press, pinned to wall, rough fucking, in pain, grabbing arms, pulling arms, arms held back, vibrant colors, ",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "modelIds": [],
+        "workflow": "img2img-upscale",
+        "upscalers": [
+          "urn:air:multi:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_6, score_5, score_4, worst quality, ((futa)), ((futanari)), ((girls with dicks)), shower head, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 239420
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 436219
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
+        "additionalResources": []
+      },
+      "username": "holybratwurst",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        164821,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "247|1737396036166",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=247%7C1737396036166"
+    "nextCursor": "248|1728985507324",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=248%7C1728985507324"
   }
 }
