@@ -1,67 +1,6 @@
 {
   "items": [
     {
-      "id": 9913495,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44e8852e-bbe1-40dc-b317-02966b0aebc3/width=832/44e8852e-bbe1-40dc-b317-02966b0aebc3.jpeg",
-      "hash": "UHIN,ZCT0$TzpyNH#Qof0h#7ZMrq.8wb8_bv",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-04-15T04:05:11.204Z",
-      "postId": 2155012,
-      "stats": {
-        "cryCount": 99,
-        "laughCount": 311,
-        "likeCount": 2335,
-        "dislikeCount": 0,
-        "heartCount": 1684,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1374966404,
-        "steps": 48,
-        "prompt": "score_9,score_8_up,score_7_up,very aesthetic,side angle,1girl,18 years old,gorgeous,cute,pretty,skinny,petite,sweaty..beautiful face,shy,nude,perfect breasts,small breasts,perfect nipples,deepthroat,irrumatio,balls deep,drool,girl bedroom,detailed face,intricate details,naturalism, looking at viewer, hyperdetailed,hyperrealistic,big cock, floating neon hearts, background magical forest at sunset, backlight, normal length neck",
-        "sampler": "Euler a",
-        "cfgScale": 8,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_4,score_5,score_6,(deformed, distorted, disfigured:1.3),poorly drawn,bad anatomy,ugly,disgusting,blurry,negativeXL_D , long neck",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 310551
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 398847
-          }
-        ]
-      },
-      "username": "Atomicbooger",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        290640,
-        310551,
-        382152,
-        398847
-      ]
-    },
-    {
       "id": 51644312,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b1df939-a99d-4db8-b513-e35310839c98/width=1440/8b1df939-a99d-4db8-b513-e35310839c98.jpeg",
       "hash": "UbM~t-_4-q-=b_oJD$E0b_jFM_M{V?j]NGM{",
@@ -126,10 +65,39 @@
       "modelVersionIds": [
         1283437
       ]
+    },
+    {
+      "id": 3098173,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4c0fa144-1e09-4783-a503-66fa6041acab/width=1800/4c0fa144-1e09-4783-a503-66fa6041acab.mp4",
+      "hash": "U9Hw#^={014;0f%0Io?G4.%MxZW-~oxtNH0L",
+      "width": 2048,
+      "height": 3072,
+      "nsfwLevel": "X",
+      "type": "video",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2023-10-22T14:19:49.081Z",
+      "postId": 716630,
+      "stats": {
+        "cryCount": 97,
+        "laughCount": 209,
+        "likeCount": 2110,
+        "dislikeCount": 0,
+        "heartCount": 2012,
+        "commentCount": 13
+      },
+      "meta": {
+        "steps": 20,
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7
+      },
+      "username": null,
+      "baseModel": "SD 1.5",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "261|1736889300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=261%7C1736889300000"
+    "nextCursor": "262|1697984389081",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=262%7C1697984389081"
   }
 }
