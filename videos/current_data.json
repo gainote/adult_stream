@@ -1,71 +1,6 @@
 {
   "items": [
     {
-      "id": 79766685,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/194cbe98-d3e6-4d92-8b3b-7c48fec01709/width=1344/194cbe98-d3e6-4d92-8b3b-7c48fec01709.jpeg",
-      "hash": "UGFq?[%LACjF}uI;5j%2DjkBbuVtJ6oy%2eo",
-      "width": 1344,
-      "height": 1728,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-01T11:36:19.084Z",
-      "postId": 17720180,
-      "stats": {
-        "cryCount": 206,
-        "laughCount": 397,
-        "likeCount": 2692,
-        "dislikeCount": 0,
-        "heartCount": 1138,
-        "commentCount": 1
-      },
-      "meta": {
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "896x1152",
-        "seed": 3975955345,
-        "Model": "gc_hentaiA_v1.3",
-        "steps": 4,
-        "hashes": {
-          "vae": "df3c506e51",
-          "model": "18248f0e2c",
-          "lora:NoobV065sHyperDmd": "45b5bd0819cf"
-        },
-        "prompt": "masterpiece, best quality, very aesthetic, movie quality, depth of field, focused subject,\n1girl, haman karn, shibari, \nofficial style,\n<lora:NoobV065sHyperDmd:1> masterpiece, best quality, very aesthetic, absurdres, newest, graycolor_boyish,",
-        "Version": "f1.3.0-v1.10.1RC-latest-1038-g19395bf9",
-        "sampler": "LCM",
-        "Emphasis": "No norm",
-        "cfgScale": 1,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "45b5bd0819cf",
-            "name": "NoobV065sHyperDmd",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "18248f0e2c",
-            "name": "gc_hentaiA_v1.3",
-            "type": "model"
-          }
-        ],
-        "Model hash": "18248f0e2c",
-        "Hires upscale": "1.5",
-        "Schedule type": "SGM Uniform",
-        "Hires upscaler": "Latent (nearest-exact)",
-        "negativePrompt": "(worst quality, low quality:1.2), (bad anatomy:1.3), (bad hands:1.3), (extra fingers), (missing fingers), (fused fingers), (poorly drawn face), (bad face), (blurry:1.1), watermark, text, logo, long neck, cropped, out of frame",
-        "Hires CFG Scale": "1",
-        "Denoising strength": "0.6"
-      },
-      "username": "GrayColor",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1268360,
-        1851946
-      ]
-    },
-    {
       "id": 9913495,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44e8852e-bbe1-40dc-b317-02966b0aebc3/width=832/44e8852e-bbe1-40dc-b317-02966b0aebc3.jpeg",
       "hash": "UHIN,ZCT0$TzpyNH#Qof0h#7ZMrq.8wb8_bv",
@@ -125,10 +60,76 @@
         382152,
         398847
       ]
+    },
+    {
+      "id": 51644312,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b1df939-a99d-4db8-b513-e35310839c98/width=1440/8b1df939-a99d-4db8-b513-e35310839c98.jpeg",
+      "hash": "UbM~t-_4-q-=b_oJD$E0b_jFM_M{V?j]NGM{",
+      "width": 1440,
+      "height": 2560,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-01-14T21:15:00.000Z",
+      "postId": 11613348,
+      "stats": {
+        "cryCount": 136,
+        "laughCount": 228,
+        "likeCount": 2535,
+        "dislikeCount": 0,
+        "heartCount": 1529,
+        "commentCount": 4
+      },
+      "meta": {
+        "Size": "720x1280",
+        "seed": 3839540428,
+        "Model": "waiNSFWIllustrious_v90_1187991",
+        "steps": 32,
+        "hashes": {
+          "model": "178fc987b2"
+        },
+        "prompt": "HDR, 8K, high contrast, masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, (best quality:1.1), retro artstyle, realistic, promotional art, newest, volumetric lighting,\n1 adult woman, adjusting panties, frilled panties,print panties, pink background simple background, see-through silhouette,",
+        "Version": "1.10.1",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 6.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "178fc987b2",
+            "name": "waiNSFWIllustrious_v90_1187991",
+            "type": "model"
+          }
+        ],
+        "Model hash": "178fc987b2",
+        "Hires steps": "19",
+        "Hires upscale": "2",
+        "Schedule type": "Karras",
+        "Hires upscaler": "4xNomos8kDAT",
+        "negativePrompt": "deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, (bad hands, missing fingers, extra digit, fewer digits:1.2), cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, simple background",
+        "Wildcard prompt": {
+          "(best quality": "1.1)"
+        },
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.32",
+        "ADetailer model 2nd": "face_yolov8n.pt",
+        "Hires schedule type": "Karras",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.3",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer inpaint only masked 2nd": "True"
+      },
+      "username": "roxin282",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1283437
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "260|1713153911204",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=260%7C1713153911204"
+    "nextCursor": "261|1736889300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=261%7C1736889300000"
   }
 }
