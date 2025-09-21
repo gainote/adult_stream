@@ -1,103 +1,6 @@
 {
   "items": [
     {
-      "id": 45500320,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/166f9d0a-0d31-4617-bc47-54dc1b1de95d/width=832/166f9d0a-0d31-4617-bc47-54dc1b1de95d.jpeg",
-      "hash": "UGEUS?^*O?xuk=~B?Gxub]%L-pxu}@xutRxa",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-14T17:21:41.383Z",
-      "postId": 10307373,
-      "stats": {
-        "cryCount": 110,
-        "laughCount": 257,
-        "likeCount": 2538,
-        "dislikeCount": 0,
-        "heartCount": 1600,
-        "commentCount": 3
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1956916122,
-        "draft": false,
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up), Expressiveh, inside, background characters with blurred faces, anal sex, anal penetration, close up, BREAK 1girl, tight pussy, 20 years old, long highlights blonde hair, brown eyes, heavy blush, tan skin, light makeup, curvy body, hourglass figure, small breasts, fishnet thigh-highs, boots, tshirt, nervous, erection, sweaty skin, looking up, on back, choker, on table, spread legs, boy holding girls legs BREAK 1boy, standing, face out of frame,",
-        "sampler": "DPM2 a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-12-14T1454:04.8472979Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "fixerskorch877",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
-    },
-    {
       "id": 69898881,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/778dfd24-f4b6-4ab8-9424-146830b21aba/width=832/778dfd24-f4b6-4ab8-9424-146830b21aba.jpeg",
       "hash": "UIOd,~~B%gtS-DRj-;bcK89uWZRltSbcogog",
@@ -190,10 +93,63 @@
         1373674,
         1612720
       ]
+    },
+    {
+      "id": 11541721,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95f1b24e-9025-4657-ad4e-9c2db5f3d162/width=1608/95f1b24e-9025-4657-ad4e-9c2db5f3d162.jpeg",
+      "hash": "UAKme9%MKj%34:M}%#EN03J.ofEM{_M|aJR5",
+      "width": 1608,
+      "height": 2824,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-05-04T20:55:01.476Z",
+      "postId": 2540393,
+      "stats": {
+        "cryCount": 164,
+        "laughCount": 336,
+        "likeCount": 2285,
+        "dislikeCount": 0,
+        "heartCount": 1712,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "768x1344",
+        "seed": 4,
+        "steps": 25,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "LORA:Styles\\ExpressiveH": "7b53da0391",
+          "LORA:Styles\\Twilight Style": "2d9ee3fc65",
+          "LORA:Concepts\\Round Breasts": "94e36bfdb9",
+          "LORA:Styles\\Disney Princess": "80aa67913a",
+          "LORA:Styles\\OfficialPit Style v2": "ec0f0a1480",
+          "LORA:Concepts\\Legs_behind_head-000006": "38e8efad5a"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,    1girl, solo, legs behind head, legs up, chained to a column by the feet, slim, excessive Pussy juice drips into bucket, bucket under girl, fantasy, from_below, BREAK looking down at pussy, young, elf, princess zelda, parted lips, (Link/(Zelda/) backgroud:1.1),     <lora:Styles\\Twilight Style:0.8> <lora:Styles\\Disney Princess:1> <lora:Styles\\ExpressiveH:0.8> ExpressiveH <lora:Styles\\OfficialPit Style v2:0.5> <lora:Concepts\\Legs_behind_head-000006:0.6> <lora:Concepts\\Round Breasts:1> round breasts, small breasts, breasts apart",
+        "sampler": "Euler a Karras",
+        "cfgScale": 7,
+        "resources": [],
+        "Model hash": "67ab2fd8ec",
+        "negativePrompt": "score_6, score_5, score_4, molten body, malformed body, muscular, render, censored, monochrome, sagging breasts, big breasts,",
+        "PonyV6XL Version": "ComfyUI"
+      },
+      "username": "ADPA",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        244808,
+        290640,
+        330475,
+        382152,
+        403790,
+        407574,
+        449028
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "243|1744605000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=243%7C1744605000000"
+    "nextCursor": "244|1714856101476",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=244%7C1714856101476"
   }
 }
