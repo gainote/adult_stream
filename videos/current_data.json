@@ -1,35 +1,149 @@
 {
   "items": [
     {
-      "id": 58783691,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/176b76d9-42ba-42bf-a766-23323bea8f64/width=1408/176b76d9-42ba-42bf-a766-23323bea8f64.jpeg",
-      "hash": "U5BL-K-R01Rk~WoJ9F$j13NbMx-U9vNHRjEh",
-      "width": 1408,
-      "height": 2368,
+      "id": 39031489,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4a109496-0988-4d1d-af85-ed2b819d5985/width=1280/4a109496-0988-4d1d-af85-ed2b819d5985.jpeg",
+      "hash": "UMG7*q~V.7?H%Lt7ozt7E2s:f7xZE2RjNGRj",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-20T12:10:00.000Z",
-      "postId": 13151721,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-08T15:10:17.026Z",
+      "postId": 8906848,
       "stats": {
-        "cryCount": 135,
-        "laughCount": 298,
-        "likeCount": 2707,
+        "cryCount": 159,
+        "laughCount": 286,
+        "likeCount": 2592,
         "dislikeCount": 0,
-        "heartCount": 1328,
+        "heartCount": 1427,
         "commentCount": 0
       },
       "meta": {
-        "steps": 30,
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, dark elf, 1girl, white hair, long hair, purple eyes, eyebrows, thick eyelashes, black latex, shiny texture, corset, nipples, pussy, sitting, spread legs, leg up, (holding panties:1.1),\nindoors, underground dungeon, ancient stone walls, cold metal bars, dim torchlight, (misty air:0.9), mysterious ambiance,\n(dark shadows:0.7), (high contrast:0.7), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6,
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis"
+        "seed": 1862168781,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {
+          "remixOfId": 28964679
+        },
+        "steps": 35,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon, BREAK,1girl,hime cut,blonde hair,ponytail with bangs,french hair bow,toned body,tan lines,moaning,arched back,crouched riding position,crouching on cock,motion lines,motion blur,tatooed,nipple piercings,hearts,sound effects,on the bed,college bedroom,posters on the wall,warm lighting in the room,cropped shirt",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "modelIds": [],
+        "workflow": "txt2img-hires-facefix",
+        "upscalers": [
+          "urn:air:multi:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.35,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 436219
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.75,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888231@398847",
+            "type": "lora",
+            "strength": 0.35,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "username": "HeisMad",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        164821,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     },
     {
       "id": 363986,
@@ -89,7 +203,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "250|1680189786965",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=250%7C1680189786965"
+    "nextCursor": "251|1680189786965",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=251%7C1680189786965"
   }
 }
