@@ -1,100 +1,6 @@
 {
   "items": [
     {
-      "id": 69898881,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/778dfd24-f4b6-4ab8-9424-146830b21aba/width=832/778dfd24-f4b6-4ab8-9424-146830b21aba.jpeg",
-      "hash": "UIOd,~~B%gtS-DRj-;bcK89uWZRltSbcogog",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-14T04:30:00.000Z",
-      "postId": 15527895,
-      "stats": {
-        "cryCount": 164,
-        "laughCount": 347,
-        "likeCount": 2696,
-        "dislikeCount": 0,
-        "heartCount": 1295,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 2111445772,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), Sylvia, large breasts, long hair, drill hair, pink hair, hair over one eye, blue eyes, makeup, smokyeyes, lash, pink mascara, puffy lips, glossy pink lips, 1 girl, 1 woman, digital illustration shoot from the side about a young woman in a pink bikini, ultra tight micro pink bikini, pink side-tie string, areola, wedgie, surrounded by bubbles, sitting in the middle of the image, the image also shows a playful and whimsical atmosphere, with a soft and pastel color palette. on the center of the frame, who appear to be a young adult, is sitting with her upper body facing the viewer, looking to the side with a playful expression, she has a slim body and bare shoulders, bikini with a pink bikini top and bottoms, the background is a sunset, colorful orange sky with fluffy white clouds, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from below, blurry background, bright colors, stunningly artwork, (blurry background, depth of field:1.1),",
-        "sampler": "DDIM",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-04-13T0736:17.9719995Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1612720,
-            "modelVersionName": "v13.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1111018,
-            "modelVersionName": "Illustrious_v1.0"
-          }
-        ]
-      },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        6056,
-        25820,
-        1056404,
-        1111018,
-        1135769,
-        1373674,
-        1612720
-      ]
-    },
-    {
       "id": 11541721,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95f1b24e-9025-4657-ad4e-9c2db5f3d162/width=1608/95f1b24e-9025-4657-ad4e-9c2db5f3d162.jpeg",
       "hash": "UAKme9%MKj%34:M}%#EN03J.ofEM{_M|aJR5",
@@ -146,10 +52,147 @@
         407574,
         449028
       ]
+    },
+    {
+      "id": 84338711,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4a9678c6-697e-4cc1-b98f-21808343c6d5/width=1800/4a9678c6-697e-4cc1-b98f-21808343c6d5.jpeg",
+      "hash": "U3DR]79Y5r02E_Eg~V0f03%g,.^j00=|0L?G",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-25T01:35:00.000Z",
+      "postId": 18722040,
+      "stats": {
+        "cryCount": 143,
+        "laughCount": 347,
+        "likeCount": 2709,
+        "dislikeCount": 0,
+        "heartCount": 1296,
+        "commentCount": 1
+      },
+      "meta": {
+        "seed": 867380092,
+        "vaes": [],
+        "extra": {},
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "models": [],
+        "prompt": "score_9, score_8_up, score_7_up, award-winning masterpiece, RAW editorial photo, fair skinned woman, feminine features,  (golden blonde_hair:1.4), , hair in braids, thin body, green eyes, eyes in light, big eyes, solo portrait in a dark cinematic fine-art style, nude, huge oversized pointy breasts, (soft_glow:1.4),breast_press, on stomach, knees together, feet apart, (perky_glutes:1.8),(aroused:1.6), eyes half closed, pleasure,on pink sofa, legs spread, vagina exposed, wet vagina, textured pink soft cushions,  bookcase with books in background, pink and green walls,, cute lace white socks very girly, relaxed yet intense expression, hands behind back, posing sweet, hands hidden, high-quality image, ultra-detailed realism, contours emphasized on face and body, soft highlights blended with deep shadows, (upturned_breasts:1.8), (round_breasts:1.6), extremely detailed skin, natural skin texture, detailed nipples, ",
+        "denoise": 0.45,
+        "process": "img2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 4,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/9HPACHXPG5DY85SGVGRTJ01MM0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, deformed hands, blurry, bad quality, low quality, young, child, sagging_breasts, tanned, dark_tan, tanlines,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1796179
+          },
+          {
+            "weight": 6.55,
+            "modelVersionId": 1726904
+          },
+          {
+            "weight": 4.6,
+            "modelVersionId": 1926656
+          },
+          {
+            "weight": 2.45,
+            "modelVersionId": 1681921
+          },
+          {
+            "weight": -1.7,
+            "modelVersionId": 1386847
+          },
+          {
+            "weight": 1.45,
+            "modelVersionId": 1242203
+          },
+          {
+            "weight": -0.7,
+            "modelVersionId": 1260971
+          },
+          {
+            "weight": 2.35,
+            "modelVersionId": 1506035
+          },
+          {
+            "weight": 2.65,
+            "modelVersionId": 1681903
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1926995
+          },
+          {
+            "weight": -2,
+            "modelVersionId": 1726985
+          },
+          {
+            "weight": -2.95,
+            "modelVersionId": 1277544
+          },
+          {
+            "weight": 1.4,
+            "modelVersionId": 1374748
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
+        "additionalResources": []
+      },
+      "username": "klaabu",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        164821,
+        333245,
+        1242203,
+        1260971,
+        1277544,
+        1374748,
+        1386847,
+        1506035,
+        1681903,
+        1681921,
+        1726904,
+        1726985,
+        1796179,
+        1926656,
+        1926995
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "244|1714856101476",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=244%7C1714856101476"
+    "nextCursor": "245|1750815300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=245%7C1750815300000"
   }
 }
