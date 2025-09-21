@@ -1,81 +1,6 @@
 {
   "items": [
     {
-      "id": 93428096,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea64f933-baa1-4954-b1e4-9711ac781f4e/width=1152/ea64f933-baa1-4954-b1e4-9711ac781f4e.jpeg",
-      "hash": "UEMZ:x4nLN^*=w?vM|%MrB%24;WA009ZE3nN",
-      "width": 1152,
-      "height": 1824,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-11T10:40:37.987Z",
-      "postId": 20727865,
-      "stats": {
-        "cryCount": 173,
-        "laughCount": 307,
-        "likeCount": 2664,
-        "dislikeCount": 0,
-        "heartCount": 1382,
-        "commentCount": 0
-      },
-      "meta": {
-        "RNG": "NV",
-        "ENSD": "31337",
-        "Size": "768x1216",
-        "seed": 2504864367,
-        "Model": "hassakuXLIllustrious_v13StyleA",
-        "steps": 28,
-        "hashes": {
-          "model": "163ac69059",
-          "lora:Chun-li_Swimsuit_Illu_Dwnsty": "41fc8ccc7749"
-        },
-        "prompt": "best quality, absurdres, newest, very aesthetic, amazing quality, highres, ultra detailed, mature female, \n <lora:Chun-li_Swimsuit_Illu_Dwnsty:1>, chnl1sfsw1m, brown eyes, black hair, hair bun, double bun, swept bangs, braided hair rings, short hair, hair ornament, hair flower, blue flower, earrings, jewelry, blue one-piece swimsuit, highleg swimsuit, gold trim, large breasts, back cutout, median furrow, blue bracelet, blue nails, nail polish, toned female, thick thighs, thigh ribbon, blue ribbon, 1girl, huge ass, on stomach, looking at viewer, lying, smile, beach towel, makeup, head rest, from above, blue rose, shadow, wide hips, eyeshadow, head tilt, breast press, narrow waist, curvy, perspective, upside-down,",
-        "Version": "f2.0.1v1.10.1-previous-636-gb835f24a",
-        "sampler": "Euler a",
-        "Module 1": "sdxl_vae",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "41fc8ccc7749",
-            "name": "Chun-li_Swimsuit_Illu_Dwnsty",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "163ac69059",
-            "name": "hassakuXLIllustrious_v13StyleA",
-            "type": "model"
-          }
-        ],
-        "Model hash": "163ac69059",
-        "Hires steps": "10",
-        "Hires upscale": "1.5",
-        "Schedule type": "Normal",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "worst quality, low quality,  lowres, watermark, patreon username, artist name, artist logo, text, error, jpeg artifacts, unfinished, oldest, signature, artistic error, username, english text, 4koma, 2koma",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "5",
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "SGM noise multiplier": "True",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "Discard penultimate sigma": "True",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "dwnsty",
-      "baseModel": null,
-      "modelVersionIds": [
-        2099415
-      ]
-    },
-    {
       "id": 89779425,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6635a15-d633-4927-a4fb-6c7734e7cc86/width=1152/b6635a15-d633-4927-a4fb-6c7734e7cc86.jpeg",
       "hash": "U8Gu8lwI00s+00o}-oxu0LxD^%M{~qbHNG-p",
@@ -225,10 +150,107 @@
         1242203,
         1971591
       ]
+    },
+    {
+      "id": 45500320,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/166f9d0a-0d31-4617-bc47-54dc1b1de95d/width=832/166f9d0a-0d31-4617-bc47-54dc1b1de95d.jpeg",
+      "hash": "UGEUS?^*O?xuk=~B?Gxub]%L-pxu}@xutRxa",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-14T17:21:41.383Z",
+      "postId": 10307373,
+      "stats": {
+        "cryCount": 110,
+        "laughCount": 257,
+        "likeCount": 2538,
+        "dislikeCount": 0,
+        "heartCount": 1600,
+        "commentCount": 3
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1956916122,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up), Expressiveh, inside, background characters with blurred faces, anal sex, anal penetration, close up, BREAK 1girl, tight pussy, 20 years old, long highlights blonde hair, brown eyes, heavy blush, tan skin, light makeup, curvy body, hourglass figure, small breasts, fishnet thigh-highs, boots, tshirt, nervous, erection, sweaty skin, looking up, on back, choker, on table, spread legs, boy holding girls legs BREAK 1boy, standing, face out of frame,",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-12-14T1454:04.8472979Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "241|1753183435131",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=241%7C1753183435131"
+    "nextCursor": "242|1734196901383",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=242%7C1734196901383"
   }
 }
