@@ -1,103 +1,6 @@
 {
   "items": [
     {
-      "id": 52848280,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e338567e-0223-4d25-8a2c-ecb358cf2ea3/width=832/e338567e-0223-4d25-8a2c-ecb358cf2ea3.jpeg",
-      "hash": "U9Bo?fNG00-V{|Rk1fxu?vj[D%RjrWs:jYNH",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-20T18:00:36.166Z",
-      "postId": 11872904,
-      "stats": {
-        "cryCount": 113,
-        "laughCount": 258,
-        "likeCount": 2647,
-        "dislikeCount": 0,
-        "heartCount": 1466,
-        "commentCount": 2
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1194150223,
-        "draft": false,
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9,score_8_up,score_7_up,score_6_up,score_5_up, masterpiece, best_quality, ultra-detailed, masterpiece,  1adult woman, rooftoop pool, cityscape, by night, full moon, clouds, naked, medium breasts, breasts apart, orange hair absurdly long hair, hair over one eye, tri tails, thinking,\nShow less",
-        "sampler": "DPM2 a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-01-17T1331:19.1556446Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "fixerskorch877",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
-    },
-    {
       "id": 34711708,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8307c4b1-8c8a-41ec-aa73-da14524f25af/width=1800/8307c4b1-8c8a-41ec-aa73-da14524f25af.jpeg",
       "hash": "UHGR*h%M00-;x]8_Di~q?v%MD$Di?bRjMx%M",
@@ -187,10 +90,41 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 58783691,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/176b76d9-42ba-42bf-a766-23323bea8f64/width=1408/176b76d9-42ba-42bf-a766-23323bea8f64.jpeg",
+      "hash": "U5BL-K-R01Rk~WoJ9F$j13NbMx-U9vNHRjEh",
+      "width": 1408,
+      "height": 2368,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-20T12:10:00.000Z",
+      "postId": 13151721,
+      "stats": {
+        "cryCount": 135,
+        "laughCount": 298,
+        "likeCount": 2707,
+        "dislikeCount": 0,
+        "heartCount": 1328,
+        "commentCount": 0
+      },
+      "meta": {
+        "steps": 30,
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, dark elf, 1girl, white hair, long hair, purple eyes, eyebrows, thick eyelashes, black latex, shiny texture, corset, nipples, pussy, sitting, spread legs, leg up, (holding panties:1.1),\nindoors, underground dungeon, ancient stone walls, cold metal bars, dim torchlight, (misty air:0.9), mysterious ambiance,\n(dark shadows:0.7), (high contrast:0.7), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "248|1728985507324",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=248%7C1728985507324"
+    "nextCursor": "249|1740053400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=249%7C1740053400000"
   }
 }
