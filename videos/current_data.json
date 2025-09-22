@@ -1,88 +1,6 @@
 {
   "items": [
     {
-      "id": 61847213,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/059e34a6-c457-4e8b-9ca5-2df9964d863b/width=1344/059e34a6-c457-4e8b-9ca5-2df9964d863b.jpeg",
-      "hash": "UNEe[R0KtRWq~VE1xuR*D%t7xtIUX9Ri-pIT",
-      "width": 1344,
-      "height": 2240,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-03-07T19:10:00.000Z",
-      "postId": 13821042,
-      "stats": {
-        "cryCount": 151,
-        "laughCount": 286,
-        "likeCount": 2605,
-        "dislikeCount": 0,
-        "heartCount": 1279,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 947039068458757,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//www.deviantart.com/marlandco",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, (messy bed:1.2), half-naked, tousled hair, sleepy eyes, panties, stockings, lying on bed, stretching, sunlight through window, scattered clothes, empty wine bottle, crumpled sheets, pillow on floor, indoors, bedroom, wooden floor, open curtain, blurred city view, digital clock, bedhead, bright sun lighting, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censor, censored, watermark, plain simple background, blank eyes, hydrokinesis, symmetry, huge breasts, sparks, dust, garter straps,"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1410435
-      ]
-    },
-    {
       "id": 68135521,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffd5c1f0-117c-45f8-84a4-3028e1fda6b5/width=1280/ffd5c1f0-117c-45f8-84a4-3028e1fda6b5.jpeg",
       "hash": "UEFhYWS%Yk%1X.NKE+aK$J=|+]NH%$Oax^Sh",
@@ -116,10 +34,117 @@
         436219,
         720175
       ]
+    },
+    {
+      "id": 57549972,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6e0f254-75d2-4b51-a9bc-bf4987fba7ce/width=1800/a6e0f254-75d2-4b51-a9bc-bf4987fba7ce.jpeg",
+      "hash": "UMEVHJIoInIV~CIoxtE1VrWBxuM{%Mt6M{ju",
+      "width": 3840,
+      "height": 5568,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-13T16:00:00.000Z",
+      "postId": 12880037,
+      "stats": {
+        "cryCount": 152,
+        "laughCount": 271,
+        "likeCount": 2527,
+        "dislikeCount": 0,
+        "heartCount": 1352,
+        "commentCount": 0
+      },
+      "meta": {
+        "nsfw": false,
+        "vaes": [],
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/M3AKAYZ7QHSJPTPKCXAJFRHXV0",
+        "steps": 24,
+        "width": 1280,
+        "height": 1856,
+        "models": [],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, rating_explicit, masterpiece, absurdres, (high quality), detailed skin, detailed iris, (detailed character design), (ultra-high resolution), perfectly composed, clear, breathtaking attention to detail, high-resolution, ultra detail, uncensored, narrow waist, ((detailed face, detailed skin), masterpiece, ultra details, ultra detailed, ultra quality, best quality)\nBREAK\ndeflux, Luxanna Crownguard, blonde hair, blue eyes, long hair, black, sexy body, giant ass, perfect ass, round ass, trained thighs, thick thighs, huge breasts, round breasts, perfect breasts, shiny skin, blush, blushed, slutty, horny, slut, black eye lashes, athletic body, hard nipples, ((pale skin)), (horny tan lines), tight transparent yoga pants, crop top.\nBREAK\n((brunette)), perfect face, huge hips, winking, slim hourglass figure, ((bending over a desk, ass focus)), narrowed eyes, belly button piercing, big breasts 1.5, cleavage, camel toe, pose, cleavage, parted lips, standing, oiled skin, looking at viewer, perfect nipples, (smiling), hair behind the ears\nBREAK\n indoors, luxurious bedroom, dark room, dramatic lighting, shadows, sharp contours, (((rear view)))\n<lora:Expressive_H:1>\n",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-upscale",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "upscaleWidth": 3840,
+        "upscaleHeight": 5568,
+        "negativePrompt": "civit_nsfw, safe_neg, score_4, score_5, score_6, fcNeg, FastNegativeV2, ng_deepnegative_v1_75t, bad hands, bad feet, worst quality, censored, lowres, low detail, blurry, watercolor, bad anatomy, weird fingers, bad proportions, deformed, deformed anatomy, deformed fingers, cum, cum on breasts, teeth, artist tag, artist name, patreon name, patreon tag,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 584522
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 106916
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
+        "additionalResources": []
+      },
+      "username": "Abbyss",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        164821,
+        290640,
+        382152,
+        398847,
+        436219,
+        584522
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "281|1743869690728",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=281%7C1743869690728"
+    "nextCursor": "282|1739462400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=282%7C1739462400000"
   }
 }
