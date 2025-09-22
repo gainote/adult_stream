@@ -1,132 +1,6 @@
 {
   "items": [
     {
-      "id": 67932027,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/571888df-9755-44a3-bfa3-eba4cc1884c2/width=1800/571888df-9755-44a3-bfa3-eba4cc1884c2.jpeg",
-      "hash": "UKMGq]E1yE~Vysxu={s.JAs9#+kWOYWVIURj",
-      "width": 1920,
-      "height": 2880,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-04T17:16:09.925Z",
-      "postId": 15100667,
-      "stats": {
-        "cryCount": 203,
-        "laughCount": 336,
-        "likeCount": 2596,
-        "dislikeCount": 0,
-        "heartCount": 1284,
-        "commentCount": 0
-      },
-      "meta": {
-        "ENSD": "31337",
-        "Size": "960x1440",
-        "seed": 2995019833,
-        "Model": "ceiiMixPDXL_v12",
-        "steps": 85,
-        "hashes": {
-          "model": "ce1fb6ae27",
-          "lora:Implants2": "1b5cfb81f113",
-          "lora:JabarandP": "bbf700d6fb1f",
-          "lora:flyx3_XL_PONY": "73d3eeff35f0",
-          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
-          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
-          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
-          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
-          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
-          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
-          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
-        },
-        "prompt": "score_9, score_8_up, score_7_up,\n (groin gap:1.5), 1girl, solo,aqua hair, brown eyes, (bangs:1.5), straight hair, very long hair,  close up, hoop earrings, young girl,\ntopless, nipples,  black thong, highleg, lace-trimmed thong, bare stomach,  looking at viewer, groin, thin thong, \n(large breasts:1.5), (head tilt), (twisted torso:1.7), \ncowboy shot,\nlight smile, parted lips,\nurushihara satoshi style, JabarandP, dim lighting, backlighting,\nabstract background, white curtains, blurry background, pale skin,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:bra_embellishments_enhancer_XL_v01a:0.8>,   <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
-        "Version": "v1.6.0",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "7ad45cc8bb23",
-            "name": "woman_consistency_v2-loha",
-            "type": "lora",
-            "weight": 0.35
-          },
-          {
-            "hash": "1f179d534e0a",
-            "name": "HerrscherAGGA2024_SJ_Style_V1",
-            "type": "lora",
-            "weight": 0.15
-          },
-          {
-            "hash": "bbf700d6fb1f",
-            "name": "JabarandP",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "hash": "fe4dcbd1435d",
-            "name": "Sinozick_Style_XL_Pony",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "hash": "73d3eeff35f0",
-            "name": "flyx3_XL_PONY",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "02e51928d5e9",
-            "name": "Pivix_PLayboy_Style",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "9d22b7ef3974",
-            "name": "bra_embellishments_enhancer_XL_v01a",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "1b5cfb81f113",
-            "name": "Implants2",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "1fa409cfa4bd",
-            "name": "super lora_flyx3_XL_PONY",
-            "type": "lora"
-          },
-          {
-            "hash": "ce1fb6ae27",
-            "name": "ceiiMixPDXL_v12",
-            "type": "model"
-          }
-        ],
-        "Model hash": "ce1fb6ae27",
-        "Hires steps": "25",
-        "Hires upscale": "2",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "multiple thong straps,  bed,  (forehead:1.5),  beard, (plant:1.5), leaf:1.5, 6fingers, (lace straps:1.5),  visible veins, visible thread veins, suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, pencil, sunglasses,",
-        "Denoising strength": "0.02"
-      },
-      "username": "ceii0502382",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        327968,
-        363593,
-        479455,
-        481798,
-        533690,
-        552788,
-        556026,
-        564399,
-        596072,
-        728486
-      ]
-    },
-    {
       "id": 59436170,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad3746f1-d799-4e36-bcc9-9b016fc0392c/width=1344/ad3746f1-d799-4e36-bcc9-9b016fc0392c.jpeg",
       "hash": "U89GzIR40Lt.uPv}E1PB0#WB^jNa9Zof-oiv",
@@ -207,10 +81,58 @@
         1345990,
         1410435
       ]
+    },
+    {
+      "id": 92354981,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2f0e0b2-e78c-4aab-b313-2b6cc4490c61/width=768/e2f0e0b2-e78c-4aab-b313-2b6cc4490c61.jpeg",
+      "hash": "UA7_yrQ+0Ju6cbVqRNt.9En~#*bxXoWVskaJ",
+      "width": 768,
+      "height": 1344,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-04T23:19:03.434Z",
+      "postId": 20487192,
+      "stats": {
+        "cryCount": 227,
+        "laughCount": 326,
+        "likeCount": 2707,
+        "dislikeCount": 0,
+        "heartCount": 1148,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "768x1344",
+        "seed": 4986342044585104000,
+        "Model": "dotANM_dotAnimeV01Alpha",
+        "steps": 60,
+        "hashes": {
+          "model": "a3cfffcf96"
+        },
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, \\(high, top, insane, extreme, perfect, Professional\\)_\\(quality, resolution, Image_sharpness\\), intricate, high_\\(quality_textures, resolution_textures\\), award_winning, \\(perfect, beautiful, harmonic\\)_colours_\\(scheme, palate, combination, composition\\), 1girl, yellow eyes, werewolf_\\(fur, girl, body, fang, claws, ears\\), fur, fangs, nude, anthropomorphic, on all fours, curvy, forest, village, full moon, full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
+        "Version": "ComfyUI",
+        "sampler": "euler_a_karras",
+        "CFG Scale": "5.0",
+        "resources": [
+          {
+            "hash": "a3cfffcf96",
+            "name": "dotANM_dotAnimeV01Alpha",
+            "type": "model"
+          }
+        ],
+        "Model hash": "a3cfffcf96",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
+      },
+      "username": "fujiangjiang",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        2043151
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "266|1740342600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=266%7C1740342600000"
+    "nextCursor": "267|1754349543434",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=267%7C1754349543434"
   }
 }
