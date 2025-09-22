@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "id": 83555886,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9e5e00e4-ca28-460b-8ebe-ead430f2f428/width=1800/9e5e00e4-ca28-460b-8ebe-ead430f2f428.jpeg",
-      "hash": "U5Bg6zOu01:~4TJCJoxB8J%g$2Q-*{nM$eO[",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-21T04:55:00.000Z",
-      "postId": 18556582,
-      "stats": {
-        "cryCount": 173,
-        "laughCount": 323,
-        "likeCount": 2607,
-        "dislikeCount": 0,
-        "heartCount": 1316,
-        "commentCount": 2
-      },
-      "meta": {
-        "nsfw": false,
-        "vaes": [],
-        "extra": {},
-        "steps": 33,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "score_9, score_8_up, score_8, score_9, sexy 18yo fingers herself while watching porn, moan, orgasm, watching porn on computer, headphones on, computer station, messy room, horny mom secretly watches from doorway in background, exposed breasts, small breasts, night, light glow from tv, single light source, cumming, (pussy juice:1.4), cinematic lighting, horny, slumber party, ((wide angle)), playful, volumetric lighting, dildo on bed, , shapely feet, from behind, fingering asshole, realistic skin texture, textured skin,",
-        "denoise": 0.55,
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 12,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/D12G1BX8T8TZM4G3GEBXAWME60.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, hugging, muscles",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1764228
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 1594293
-          },
-          {
-            "weight": 2.05,
-            "modelVersionId": 1506035
-          },
-          {
-            "weight": 3.25,
-            "modelVersionId": 1681921
-          },
-          {
-            "weight": 1.05,
-            "modelVersionId": 1726904
-          },
-          {
-            "weight": 0.95,
-            "modelVersionId": 1854599
-          },
-          {
-            "weight": 1.2,
-            "modelVersionId": 1851961
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
-      },
-      "username": "Suby432",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        164821,
-        1506035,
-        1594293,
-        1681921,
-        1726904,
-        1764228,
-        1851961,
-        1854599
-      ]
-    },
-    {
       "id": 67932027,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/571888df-9755-44a3-bfa3-eba4cc1884c2/width=1800/571888df-9755-44a3-bfa3-eba4cc1884c2.jpeg",
       "hash": "UKMGq]E1yE~Vysxu={s.JAs9#+kWOYWVIURj",
@@ -225,10 +125,92 @@
         596072,
         728486
       ]
+    },
+    {
+      "id": 59436170,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad3746f1-d799-4e36-bcc9-9b016fc0392c/width=1344/ad3746f1-d799-4e36-bcc9-9b016fc0392c.jpeg",
+      "hash": "U89GzIR40Lt.uPv}E1PB0#WB^jNa9Zof-oiv",
+      "width": 1344,
+      "height": 2240,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-23T20:30:00.000Z",
+      "postId": 13295668,
+      "stats": {
+        "cryCount": 176,
+        "laughCount": 324,
+        "likeCount": 2667,
+        "dislikeCount": 0,
+        "heartCount": 1250,
+        "commentCount": 2
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 858355479760996,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), (ahegao:0.9), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), kneeling, under tree, (tentacle sex:1.1), bound, bound arms, bound legs, bound torso, bondage, womb tattoo, stomach bulge, outdoors, (void portal \\(object\\) below:1.2), (glowing summoning circle:1.2), (summoning tentacles:1.1), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, suction cups, symmetry, fire, floating particles, sunlight"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "265|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=265%7C1743786969925"
+    "nextCursor": "266|1740342600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=266%7C1740342600000"
   }
 }
