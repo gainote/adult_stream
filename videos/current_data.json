@@ -1,202 +1,6 @@
 {
   "items": [
     {
-      "id": 79004766,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0bebf106-7dee-4581-92ab-9d07b0241e64/width=1800/0bebf106-7dee-4581-92ab-9d07b0241e64.jpeg",
-      "hash": "U8MiTbD$00RN}?,.WG-:56.S?b00?a8{%2~V",
-      "width": 1856,
-      "height": 1280,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-05-28T20:05:00.000Z",
-      "postId": 17550260,
-      "stats": {
-        "cryCount": 241,
-        "laughCount": 354,
-        "likeCount": 2414,
-        "dislikeCount": 0,
-        "heartCount": 1287,
-        "commentCount": 0
-      },
-      "meta": {
-        "nsfw": true,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1410435",
-        "extra": {
-          "remixOfId": 78625391
-        },
-        "steps": 30,
-        "width": 1216,
-        "height": 832,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1410435"
-        ],
-        "prompt": "1 girl, solo, big boobs, huge areolas, long hair, purple hair, blue eyes, bangs, eyeglasses, huge neckline, golden necklace, big earrings, rings, bracelets, facial  makeup, multiple braids, long purple nails, long braids, blue hairband, sexy red slingshot bodysuit, slingshot bodysuit , impossible shirt, covered nipples, cutoff jeans, cutoffs, denim shorts,, navel stud, navel piercing, belly, n3tst0, Pink , Fetish Ballet Heels, hot girl, sexy face, sexy expression, pub at night, neon lights, pouring beer on her tits, lying sideways on the pub counter, dynamic angle,  sideways, sideboob, beer on boobs, beer foam on boobs,  getting wet with beer, belly, uncovered nipples, cutoff jeans pulled down, uncovered pussy, panties aside, bodysuit aside, innie pussy, masterpiece,best quality,absurdres,amazing quality,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 4,
-        "workflow": "txt2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "pubic hair, dark skinned male, black male, fellatio,, bad quality,worst quality,worst detail,sketch,censor,artist name,signature,watermark,patreon username, t shirt, shirt, clothes, double navel, wet pants, wet shorts, wet legs, bodysuit over shorts",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1410435
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1410435
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 76477
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 609756
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 668718
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1122510
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1154555
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1703067
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 904903
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 1163785
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1410435
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 609756
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 668718
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1122510
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1154555
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1703067
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 904903
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1163785
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:548159@609756",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:598484@668718",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1001550@1122510",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1029367@1154555",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1505584@1703067",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:809196@904903",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:245866@1163785",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "Juggsforfun86",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        76477,
-        164821,
-        609756,
-        668718,
-        904903,
-        1122510,
-        1154555,
-        1163785,
-        1410435,
-        1703067
-      ]
-    },
-    {
       "id": 97961192,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a87e41fc-6532-465f-8cdc-3d943ca60272/width=832/a87e41fc-6532-465f-8cdc-3d943ca60272.jpeg",
       "hash": "UMF}ZbNd9abHRjNGNGxa9ZNG%2WB~BX8xZjF",
@@ -249,10 +53,94 @@
       "modelVersionIds": [
         2001618
       ]
+    },
+    {
+      "id": 98174969,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b8b51531-8edb-49a0-9421-0c167e14f619/width=832/b8b51531-8edb-49a0-9421-0c167e14f619.jpeg",
+      "hash": "UCFhL$0g0M^P=_%1Egs.E3nj?Z9]~UI;IVE2",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-03T17:41:43.961Z",
+      "postId": 21782441,
+      "stats": {
+        "cryCount": 129,
+        "laughCount": 268,
+        "likeCount": 2609,
+        "dislikeCount": 0,
+        "heartCount": 1277,
+        "commentCount": 3
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 721070646,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, \n(realistic:1), (flat color:1.75), (haiz_ai:1), (lineart:1.5), (no outline:1), (Flat vector:1.1),\n1girl, topless girl in laundry room, dynamic angle, from above and behind. kneeling, leaning on one arm, leaning to side, washing machine, open washing machine, wearing  panties, ass focus, clothes on floor, clothes basket\nvibrant colors, warm tones, subtle light, artistic composition, intricate fabric texture, high detail, cover page, masterwork, masterpiece, best quality, very aesthetic, absurdres, newest, huge filesize, highres, detailed, detailed fingers, raytracing, volumetric lighting, ambient occlusion, perfect anatomy, \nS4bit4mago_illu, anime style, artist:moriimee,",
+        "process": "txt2img",
+        "sampler": "Euler",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-02T1934:31.5394313Z",
+        "experimental": false,
+        "negativePrompt": "aBase:bad quality,worst quality,worst detail,sketch,censor,\nworst quality, low quality, displeasing, text, watermark, \nbad anatomy, artist name, signature,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 2034730
+          },
+          {
+            "type": "lora",
+            "weight": 4,
+            "modelVersionId": 1242203
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 1530645
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1736373
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1380520
+          }
+        ]
+      },
+      "username": "euphamysm",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1242203,
+        1380520,
+        1530645,
+        1736373,
+        1761560,
+        2034730
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "284|1756978711496",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=284%7C1756978711496"
+    "nextCursor": "285|1756921303961",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=285%7C1756921303961"
   }
 }
