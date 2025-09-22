@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "id": 92354981,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2f0e0b2-e78c-4aab-b313-2b6cc4490c61/width=768/e2f0e0b2-e78c-4aab-b313-2b6cc4490c61.jpeg",
-      "hash": "UA7_yrQ+0Ju6cbVqRNt.9En~#*bxXoWVskaJ",
-      "width": 768,
-      "height": 1344,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-04T23:19:03.434Z",
-      "postId": 20487192,
-      "stats": {
-        "cryCount": 227,
-        "laughCount": 326,
-        "likeCount": 2707,
-        "dislikeCount": 0,
-        "heartCount": 1148,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "768x1344",
-        "seed": 4986342044585104000,
-        "Model": "dotANM_dotAnimeV01Alpha",
-        "steps": 60,
-        "hashes": {
-          "model": "a3cfffcf96"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, \\(high, top, insane, extreme, perfect, Professional\\)_\\(quality, resolution, Image_sharpness\\), intricate, high_\\(quality_textures, resolution_textures\\), award_winning, \\(perfect, beautiful, harmonic\\)_colours_\\(scheme, palate, combination, composition\\), 1girl, yellow eyes, werewolf_\\(fur, girl, body, fang, claws, ears\\), fur, fangs, nude, anthropomorphic, on all fours, curvy, forest, village, full moon, full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
-        "Version": "ComfyUI",
-        "sampler": "euler_a_karras",
-        "CFG Scale": "5.0",
-        "resources": [
-          {
-            "hash": "a3cfffcf96",
-            "name": "dotANM_dotAnimeV01Alpha",
-            "type": "model"
-          }
-        ],
-        "Model hash": "a3cfffcf96",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
-      },
-      "username": "fujiangjiang",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        2043151
-      ]
-    },
-    {
       "id": 56149943,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b478d1b0-a41c-46a7-8eaa-356490cb1923/width=1464/b478d1b0-a41c-46a7-8eaa-356490cb1923.jpeg",
       "hash": "UBDS,*?cD+RPT}WCqt,@0eS2VWEK7|KK?aOr",
@@ -113,10 +65,35 @@
         1284348,
         567119
       ]
+    },
+    {
+      "id": 44639953,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c39e8f9c-b504-41e3-a6ef-ddcc40980144/width=720/c39e8f9c-b504-41e3-a6ef-ddcc40980144.mp4",
+      "hash": "UEFXkx~A0g9u}?t60|I:0hbIt*s.D%My-ow{",
+      "width": 720,
+      "height": 1280,
+      "nsfwLevel": "Mature",
+      "type": "video",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2024-12-09T23:33:05.790Z",
+      "postId": 10120848,
+      "stats": {
+        "cryCount": 251,
+        "laughCount": 1017,
+        "likeCount": 2271,
+        "dislikeCount": 0,
+        "heartCount": 865,
+        "commentCount": 22
+      },
+      "meta": null,
+      "username": "jboogx_creative",
+      "baseModel": null,
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "268|1739237400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=268%7C1739237400000"
+    "nextCursor": "269|1733787185790",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=269%7C1733787185790"
   }
 }
