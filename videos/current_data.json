@@ -1,39 +1,6 @@
 {
   "items": [
     {
-      "id": 69821556,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2688e2a6-9b08-4d8b-84e3-750555861a6e/original=true/2688e2a6-9b08-4d8b-84e3-750555861a6e.jpeg",
-      "hash": "UBFYDf~q0KE1yYo~V?D%01XT^jnNx^-=t7M_",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-14T00:37:00.000Z",
-      "postId": 15510874,
-      "stats": {
-        "cryCount": 173,
-        "laughCount": 299,
-        "likeCount": 2498,
-        "dislikeCount": 0,
-        "heartCount": 1242,
-        "commentCount": 0
-      },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        372639,
-        1232707,
-        1412563,
-        1490781
-      ]
-    },
-    {
       "id": 38948625,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76573cea-3674-49f3-b712-ce71560001b3/original=true/76573cea-3674-49f3-b712-ce71560001b3.jpeg",
       "hash": "U2DSB%0014H=00t-}@-;T}-=ve?wwGZ#Iq4m",
@@ -122,10 +89,110 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 81896151,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e52277d6-bb77-43a9-9d44-22132e9cb4d2/original=true/e52277d6-bb77-43a9-9d44-22132e9cb4d2.jpeg",
+      "hash": "UNLD}lt-*JM|-S?b-pIVxtbuaK-T-TrqIUIq",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-12T14:38:00.000Z",
+      "postId": 18191932,
+      "stats": {
+        "cryCount": 206,
+        "laughCount": 378,
+        "likeCount": 2717,
+        "dislikeCount": 0,
+        "heartCount": 904,
+        "commentCount": 0
+      },
+      "meta": {
+        "seed": 1741459175,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1162518@1331188",
+        "extra": {},
+        "steps": 29,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1162518@1331188"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), detailed face, (dynamic:1), 2girls, (mature), dentist office, dentist uniform, brown hair, brown eyes, white pupils, smiling, pressing chest against, BREAK patient, blonde hair, long hair, laying in dentist-chair, open mouth, (nervous, blush:0.7), wearing crop top, close up",
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, (loli, child:1.15), curvy",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1331188
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1331188
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 1880647
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 1805073
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1331188
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 1880647
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 1805073
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1661570@1880647",
+            "type": "lora",
+            "strength": 0.75,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1233370@1805073",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "Plantra",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        164821,
+        1331188,
+        1805073,
+        1880647
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "298|1731035323851",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=298%7C1731035323851"
+    "nextCursor": "299|1749739080000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=299%7C1749739080000"
   }
 }
