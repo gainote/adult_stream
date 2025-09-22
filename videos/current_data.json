@@ -1,113 +1,6 @@
 {
   "items": [
     {
-      "id": 57549972,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6e0f254-75d2-4b51-a9bc-bf4987fba7ce/width=1800/a6e0f254-75d2-4b51-a9bc-bf4987fba7ce.jpeg",
-      "hash": "UMEVHJIoInIV~CIoxtE1VrWBxuM{%Mt6M{ju",
-      "width": 3840,
-      "height": 5568,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-13T16:00:00.000Z",
-      "postId": 12880037,
-      "stats": {
-        "cryCount": 152,
-        "laughCount": 271,
-        "likeCount": 2527,
-        "dislikeCount": 0,
-        "heartCount": 1352,
-        "commentCount": 0
-      },
-      "meta": {
-        "nsfw": false,
-        "vaes": [],
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/M3AKAYZ7QHSJPTPKCXAJFRHXV0",
-        "steps": 24,
-        "width": 1280,
-        "height": 1856,
-        "models": [],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, rating_explicit, masterpiece, absurdres, (high quality), detailed skin, detailed iris, (detailed character design), (ultra-high resolution), perfectly composed, clear, breathtaking attention to detail, high-resolution, ultra detail, uncensored, narrow waist, ((detailed face, detailed skin), masterpiece, ultra details, ultra detailed, ultra quality, best quality)\nBREAK\ndeflux, Luxanna Crownguard, blonde hair, blue eyes, long hair, black, sexy body, giant ass, perfect ass, round ass, trained thighs, thick thighs, huge breasts, round breasts, perfect breasts, shiny skin, blush, blushed, slutty, horny, slut, black eye lashes, athletic body, hard nipples, ((pale skin)), (horny tan lines), tight transparent yoga pants, crop top.\nBREAK\n((brunette)), perfect face, huge hips, winking, slim hourglass figure, ((bending over a desk, ass focus)), narrowed eyes, belly button piercing, big breasts 1.5, cleavage, camel toe, pose, cleavage, parted lips, standing, oiled skin, looking at viewer, perfect nipples, (smiling), hair behind the ears\nBREAK\n indoors, luxurious bedroom, dark room, dramatic lighting, shadows, sharp contours, (((rear view)))\n<lora:Expressive_H:1>\n",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-upscale",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "upscaleWidth": 3840,
-        "upscaleHeight": 5568,
-        "negativePrompt": "civit_nsfw, safe_neg, score_4, score_5, score_6, fcNeg, FastNegativeV2, ng_deepnegative_v1_75t, bad hands, bad feet, worst quality, censored, lowres, low detail, blurry, watercolor, bad anatomy, weird fingers, bad proportions, deformed, deformed anatomy, deformed fingers, cum, cum on breasts, teeth, artist tag, artist name, patreon name, patreon tag,",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 584522
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 106916
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
-      },
-      "username": "Abbyss",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        290640,
-        382152,
-        398847,
-        436219,
-        584522
-      ]
-    },
-    {
       "id": 79004766,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0bebf106-7dee-4581-92ab-9d07b0241e64/width=1800/0bebf106-7dee-4581-92ab-9d07b0241e64.jpeg",
       "hash": "U8MiTbD$00RN}?,.WG-:56.S?b00?a8{%2~V",
@@ -302,10 +195,64 @@
         1410435,
         1703067
       ]
+    },
+    {
+      "id": 97961192,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a87e41fc-6532-465f-8cdc-3d943ca60272/width=832/a87e41fc-6532-465f-8cdc-3d943ca60272.jpeg",
+      "hash": "UMF}ZbNd9abHRjNGNGxa9ZNG%2WB~BX8xZjF",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-04T09:38:31.496Z",
+      "postId": 21733864,
+      "stats": {
+        "cryCount": 177,
+        "laughCount": 281,
+        "likeCount": 2635,
+        "dislikeCount": 0,
+        "heartCount": 1192,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1409823121,
+        "draft": false,
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "prompt": "18yo, sleek (long) hair tied, ((small natural deflated tiny breasts)), SQUENCH,\nNascent, small lithe, petite body, athletic, adorable, cute, innocent, an ing\u00e9nue nude,feminine, skin details, high, naked, shy, coy. skin blemishes, body freckles, Natural skin, beautiful face, dynamic lighting, \n((RAW photo)), nude photograph of a beautiful pale white skin, 18-year-old, woman, sitting in medieval pub, dirty blonde hair, small AAA cup breasts, (detailed face), ((best quality)), facing 3/4 towards viewer, full body shot, ((from head to feet:1.3)) Long slender legs spread wide apart. narrow pelvis, flat narrow chest, masterpiece, best quality, very aesthetic, absurdres, dynamic lighting, ambient light, 1girl, nascent b0dy, solo, white messy hair, ribbon tied in low twintails, freckles, looking at viewer, beautiful eyes, blue eyes, an ing\u00e9nue nude, hip thrust to viewer, high detail, sharp shading, soft shadows, innie pussy, full body shot, sweaty, large pupils, hip thrust to viewer, tiny deflated breasts, tiny body, highres, absurdres, heavenly lights in hair, pale tiny areola, shamed and embarrassed.",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-02T1358:53.0705402Z",
+        "experimental": false,
+        "negativePrompt": "score_4,score_5,score_6,deformed, distorted, disfigured,poorly drawn,bad anatomy,ugly,disgusting,blurry,negativeXL_D,low res,ugly,blurry, cross-eyed,username,text,logo,watermark, muscular girl, muscular woman, earrings, text, huge breasts, large breasts, medium breasts, Asian, African, Japanese, Chinese, Indian, narrow set breasts, large eyes, low light, dim light, round eyeglasses",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 2001618
+          }
+        ]
+      },
+      "username": "broncodutycolony116",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        2001618
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "283|1748462700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=283%7C1748462700000"
+    "nextCursor": "284|1756978711496",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=284%7C1756978711496"
   }
 }
