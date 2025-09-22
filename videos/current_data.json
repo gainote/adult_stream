@@ -1,120 +1,6 @@
 {
   "items": [
     {
-      "id": 86398579,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f57a64a-f15e-476d-9fb4-f2d1aca1d6b9/original=true/1f57a64a-f15e-476d-9fb4-f2d1aca1d6b9.jpeg",
-      "hash": "UEL|Gl4U03?F00NJ4otR00Rk~Vt6~pxa9aaK",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-06T11:00:00.000Z",
-      "postId": 19171399,
-      "stats": {
-        "cryCount": 183,
-        "laughCount": 342,
-        "likeCount": 2581,
-        "dislikeCount": 0,
-        "heartCount": 1144,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 430069905,
-        "draft": false,
-        "extra": {
-          "remixOfId": 86138295
-        },
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up,\nBREAK\ndetailed background, detailed face, perfect face, detailed mouth, detailed eyes, outside, beach,\nBREAK \nbreast expansion, ass expansion, huge breasts, huge ass, revealing clothes,, transformation, before and after, transformation sequence, \nBREAK\n1girl, girl, 1girl, long hair, blonde hair, brown eyes, large breasts | hand tattooLucy white floral bikini (outfit), Lucy Heartfilia (character), lucy heartfilia, 1girl, blonde hair, solo, swimsuit, bikini, twintails, tattoo on girl's right hand, large breasts, curvy, micro waist,\nBREAK\nbottomheavy, massive thighs. thick thighs, HyperSag, huge breasts, gigantic breasts, large areolae, small breasts before, hyper breasts after, ahegao after, breast expansion, multiple views, Expressiveh, detail1eye, atb, about to burst top after, standing,",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-04T0103:31.2999418Z",
-        "experimental": false,
-        "negativePrompt": "blender, 3d, ((signature)),(low quality, worst quality:1.4),(bad_prompt:0.8),((bad anatomy)), ,logo,text,username,((bad proportions)),(cropped),(watermark),(worstquality),grayscale,sketches, low quality, ((blurry)), (((out of focus))), ((((censored)))), source_anime, source_pony, {feral, male}, {{fox, cat}}, {{two characters, 2girl}}, flipped feet, extra toes, 6 toes, extra limbs, 4 Toes, white room, white background, desaturated, noise, blur, low contrast, wet, blurry face, blurry eyes, bad face, bad eyes,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 324619,
-            "modelVersionName": "AutismMix_pony"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 128972,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 326346,
-            "modelVersionName": "eye detailerXL"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 461354,
-            "modelVersionName": "Pony B.E"
-          },
-          {
-            "type": "lora",
-            "weight": 0.95,
-            "modelVersionId": 573095,
-            "modelVersionName": "Pony v1.4"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 671694,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1402028,
-            "modelVersionName": "Lucy (18 outfits)-Illus."
-          }
-        ]
-      },
-      "username": "MrChap",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        128972,
-        135867,
-        324619,
-        326346,
-        382152,
-        461354,
-        573095,
-        671694,
-        1402028
-      ]
-    },
-    {
       "id": 95575286,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dee51500-6a26-4d7f-88cc-b621b4095a11/original=true/dee51500-6a26-4d7f-88cc-b621b4095a11.jpeg",
       "hash": "U7G%=G000~Vr01xuIo={00~V$M%2^+rr$%IU",
@@ -191,10 +77,169 @@
         1628810,
         1761560
       ]
+    },
+    {
+      "id": 48460401,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be194de5-4f9a-4e9a-b104-868a34eb549b/original=true/be194de5-4f9a-4e9a-b104-868a34eb549b.jpeg",
+      "hash": "UKJQZb9GFc~W~WMyNG%fIpt7NGRk%MozRjV@",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-12-30T05:59:56.429Z",
+      "postId": 10924335,
+      "stats": {
+        "cryCount": 114,
+        "laughCount": 204,
+        "likeCount": 2446,
+        "dislikeCount": 0,
+        "heartCount": 1467,
+        "commentCount": 0
+      },
+      "meta": {
+        "nsfw": true,
+        "seed": 60347073,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {
+          "remixOfId": 48267712
+        },
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/XE19MK89GVJR26MAS3F25CRXW0",
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, masterpiece, score_9, score_8_up, score_7_up, EasyNegative_v2, (best quality:1.1), ultra-detailed, high resolution, super detailed skin, nsfw, Highly Visible, 8k, sharp focus, beautiful, perfect lighting, smooth edges, 1girl, solo, cute girl, sexy, beautiful, curvy body, navel, ginger side ponytail, freckles, green eyes, narrow waist, 18 years old, perfect eyes, big eyes, shy, look away, sexy, small perky breast, side boob, press breast, loose clothing, white tank top,   intense pleasure, cowboy shot, panting, blushing, wall, ((WEARING white THONG)), exhibitionist, nipple slip",
+        "denoise": 0.4,
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "safe_neg, negative_hand , score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative, low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 380277
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 761452
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 60938
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 761452
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888231@398847",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@761452",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "DrPeeHands",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        60938,
+        164821,
+        290640,
+        380277,
+        382152,
+        398847,
+        436219,
+        761452
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "294|1755859154434",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=294%7C1755859154434"
+    "nextCursor": "295|1735538396429",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=295%7C1735538396429"
   }
 }
