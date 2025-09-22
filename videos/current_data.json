@@ -1,72 +1,6 @@
 {
   "items": [
     {
-      "id": 56149943,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b478d1b0-a41c-46a7-8eaa-356490cb1923/width=1464/b478d1b0-a41c-46a7-8eaa-356490cb1923.jpeg",
-      "hash": "UBDS,*?cD+RPT}WCqt,@0eS2VWEK7|KK?aOr",
-      "width": 1464,
-      "height": 2464,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-11T01:30:00.000Z",
-      "postId": 12575990,
-      "stats": {
-        "cryCount": 139,
-        "laughCount": 308,
-        "likeCount": 2684,
-        "dislikeCount": 0,
-        "heartCount": 1274,
-        "commentCount": 4
-      },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 591541423626835,
-        "Model": "waiNSFWIllustrious_v100.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "7e87327f89",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, high ponytail, heterochromia, red eyes, blue eyes, glowing eyes, eyebrows, eyelashes, head tilt, nipples, latex dress, side slit, shiny reflections, indoors, standing near futuristic bed, neon-lit bedroom, soft blue and pink neon glow, holographic city view through window, glass walls, dim ambient lighting, cyberpunk aesthetics, digital interface projections, scattered clothes on bed, intimate atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:klskx_wai:0.8> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7e87327f89",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, facial tattoo, border"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1367422,
-        1284348,
-        567119
-      ]
-    },
-    {
       "id": 61479864,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e670d2e1-0ff1-46e9-9764-2646468505bf/width=1536/e670d2e1-0ff1-46e9-9764-2646468505bf.jpeg",
       "hash": "U8D9lD9?00ac0$EK^,$*00Td~DIWO*^TDhEe",
@@ -139,10 +73,100 @@
       "modelVersionIds": [
         1490781
       ]
+    },
+    {
+      "id": 89779434,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/125afee8-4c1b-4ce0-9d76-5061b3169f0d/width=832/125afee8-4c1b-4ce0-9d76-5061b3169f0d.jpeg",
+      "hash": "UHCjw@j=0.%g};lA22Rmt6xubxNfTzm*rWI;",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-22T11:20:59.924Z",
+      "postId": 19914420,
+      "stats": {
+        "cryCount": 149,
+        "laughCount": 308,
+        "likeCount": 2781,
+        "dislikeCount": 0,
+        "heartCount": 1154,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 2015605544,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "realistic,HassaKu_illu, artist:moriimee, 748cmstyle, jsyu_style, 2025. 07, \n(1girl, solo, masterpiece, best quality, amazing quality, absurdres, newest),  \ncute, Samus Aran, blonde hair, long hair,  wet hair,  wet skin, cute face, blue eyes, beautiful eyes, sexy, sexy girl, golden necklace, large saggy breast, blue bodysuit, head tilt, arms up, posing, dynamic angle, biting own lip, standing",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-22T1116:41.9042898Z",
+        "experimental": false,
+        "negativePrompt": "source_furry, source_Futanari, censored, worst quality, low quality, hands on own face, hands on own cheeks, ugly, deformed fingers, extra fingers, fused fingers, too many fingers, grainy, Sweat, facial mark, tears of blood, tear drop tattoo, tear tattoo",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1809575,
+            "modelVersionName": "v2.4I Illustrious 5/18"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 1784760,
+            "modelVersionName": "Smooth Booster v3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1580764,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "jsyu",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1056404,
+        1244133,
+        1580764,
+        1761560,
+        1784760,
+        1809575
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "270|1741102302605",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=270%7C1741102302605"
+    "nextCursor": "271|1753183259924",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=271%7C1753183259924"
   }
 }
