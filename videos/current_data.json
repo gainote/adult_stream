@@ -1,110 +1,6 @@
 {
   "items": [
     {
-      "id": 76352920,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f907d81-504c-4b20-b49c-5129a586427c/width=832/5f907d81-504c-4b20-b49c-5129a586427c.jpeg",
-      "hash": "UUF$YEw[*0xvTMIpIVT1%$bI-pj^PCoMXnWC",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-17T10:45:55.250Z",
-      "postId": 16956749,
-      "stats": {
-        "cryCount": 183,
-        "laughCount": 352,
-        "likeCount": 2556,
-        "dislikeCount": 0,
-        "heartCount": 1182,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1920611980,
-        "draft": false,
-        "extra": {
-          "remixOfId": 75923318
-        },
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece), 1girl, solo, curvy, large breasts, beautiful eyes, brown eyes, eyelashes, eyeshadow, large ass, thick thighs, wide hips, hourglass figure, plump, lusty, piercings, bikini, sideboob, underboob, choker, necklace, gorgeous face, thighs, tattoos, neck tattoos, shoulder tattoos, belly tattoos, seductive, skindentation, dynamic angle, closeup, outside, pool, swimming pool, smirk, smile, slutty, cocky, flirty, \nboth hands on breasts, squeezing breasts, hair up, standing, \nClose up,",
-        "sampler": "DDIM",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-05-13T0246:08.5193020Z",
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie, jeans, (car), (car interior), (transport), selfie,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1764228,
-            "modelVersionName": "b 1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 534756,
-            "modelVersionName": "Rough (V1)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 556208,
-            "modelVersionName": "Insta Baddie[PONY]"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 596040,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 1.65,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 1500353,
-            "modelVersionName": "v1.1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 1142665,
-            "modelVersionName": "V1"
-          }
-        ]
-      },
-      "username": "Wadufuk1",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        382152,
-        534756,
-        556208,
-        596040,
-        1142665,
-        1242203,
-        1500353,
-        1764228
-      ]
-    },
-    {
       "id": 98025610,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a84fbd8a-0b53-4240-92d3-9b844f488709/width=832/a84fbd8a-0b53-4240-92d3-9b844f488709.jpeg",
       "hash": "UC9~QoADAC=H}FJTE##-r?oeWoS2E#sAS2OE",
@@ -199,10 +95,101 @@
         1122823,
         1142665
       ]
+    },
+    {
+      "id": 20009019,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/11065bab-e5fb-4bf0-a5de-c945b2eeeb50/width=1280/11065bab-e5fb-4bf0-a5de-c945b2eeeb50.jpeg",
+      "hash": "U49i#tzmB?0d5[55tS$K00GI,l-p|.^,54x^",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-07-15T23:17:48.335Z",
+      "postId": 4464920,
+      "stats": {
+        "cryCount": 103,
+        "laughCount": 182,
+        "likeCount": 2594,
+        "dislikeCount": 0,
+        "heartCount": 1392,
+        "commentCount": 0
+      },
+      "meta": {
+        "seed": 3333105625,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "steps": 40,
+        "width": 1280,
+        "height": 1856,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, (score_9, score_8_up, score_7_up), 1girl, 20 year old, 1male, long black hair, hime cut, perky breasts, cleavage, pretty face, long legs, purple eyes, light freckles, sweaty skin oversized hoodie, cloth black skirt, striped thigh-high socks, gothic boots, lustful, looking viewer, heavy blushing, petite ass, cowgirl position, on the floor, sitting on top of male, tight pussy after sex, cum leaking from pussy, detailed background, inside, futuristic, neon lights, volumetric lighting, vivid colours,  g0thicPXL, glowing, neon, shot from front, close up, point of view, ",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "modelIds": [],
+        "scheduler": "simple",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:222256@250712, embedding:urn:air:sd1:embedding:civitai:87243@287973, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, furry, loli, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes, background characters, muscular, lipstick, massive ass, massive penis,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:352581@398847",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@239420",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "WiseBurrito",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        239420,
+        290640,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "288|1756978578657",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=288%7C1756978578657"
+    "nextCursor": "289|1721085468335",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=289%7C1721085468335"
   }
 }
