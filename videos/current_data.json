@@ -1,80 +1,6 @@
 {
   "items": [
     {
-      "id": 61479864,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e670d2e1-0ff1-46e9-9764-2646468505bf/width=1536/e670d2e1-0ff1-46e9-9764-2646468505bf.jpeg",
-      "hash": "U8D9lD9?00ac0$EK^,$*00Td~DIWO*^TDhEe",
-      "width": 1536,
-      "height": 2040,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-03-04T15:31:42.605Z",
-      "postId": 13743139,
-      "stats": {
-        "cryCount": 147,
-        "laughCount": 316,
-        "likeCount": 2673,
-        "dislikeCount": 0,
-        "heartCount": 1265,
-        "commentCount": 3
-      },
-      "meta": {
-        "RNG": "NV",
-        "ENSD": "31337",
-        "Size": "1024x1360",
-        "seed": 588764219,
-        "Model": "WAI-Nsfw-Illustrious-12",
-        "steps": 30,
-        "hashes": {
-          "model": "89cb4ec0a9"
-        },
-        "prompt": "neon lights, night, battlefield, ruins, cityscape, cowboy shot, \n1girl, see-through holographic clothing, see-through raincoat, \nchinese maid,brand name imitation, , dragon horns, mechanical tail, \n mecha musume,tsurime, holding greatsword, huge weapon, fin funnels, pose, \n,masterpiece,best quality,amazing quality,",
-        "Version": "v1.10.1-82-gd8688def6",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "89cb4ec0a9",
-            "name": "WAI-Nsfw-Illustrious-12",
-            "type": "model"
-          }
-        ],
-        "Model hash": "89cb4ec0a9",
-        "Hires steps": "20",
-        "Hires sampler": "DPM++ 2M",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
-        "ADetailer model": "face_yolov8s.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.35",
-        "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "Eyes.pt",
-        "Hires schedule type": "Karras",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.3",
-        "ADetailer inpaint padding": "32",
-        "Discard penultimate sigma": "True",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer denoising strength 2nd": "0.35",
-        "ADetailer inpaint only masked 2nd": "True"
-      },
-      "username": "WAI0731",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1490781
-      ]
-    },
-    {
       "id": 89779434,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/125afee8-4c1b-4ce0-9d76-5061b3169f0d/width=832/125afee8-4c1b-4ce0-9d76-5061b3169f0d.jpeg",
       "hash": "UHCjw@j=0.%g};lA22Rmt6xubxNfTzm*rWI;",
@@ -163,10 +89,154 @@
         1784760,
         1809575
       ]
+    },
+    {
+      "id": 60114196,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/efd06d95-739a-400b-bf12-510551776460/width=832/efd06d95-739a-400b-bf12-510551776460.jpeg",
+      "hash": "URLg9HWW?^xayDR*sAoLbvt7nhRj%Mxte.NG",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-26T00:41:00.000Z",
+      "postId": 13441795,
+      "stats": {
+        "cryCount": 178,
+        "laughCount": 268,
+        "likeCount": 2684,
+        "dislikeCount": 0,
+        "heartCount": 1260,
+        "commentCount": 1
+      },
+      "meta": {
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {
+          "remixOfId": 56118366
+        },
+        "steps": 32,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_8, 1girl, solo, perfect face, light blue eyes, red bra and panties, small breasts, long black hair, red highlights, elegant ponytail, parted bangs, shy, standing, refined, volumetric lighting, cinematic lighting, blank background, close up",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-facefix",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, hands on own face, chibi, child, border, signature",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 60938
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 179964
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 298238
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 378950
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 421754
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 298238
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 378950
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 421754
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:264290@298238",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:211726@378950",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:377690@421754",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "ElvishDreams",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        60938,
+        179964,
+        244808,
+        290640,
+        298238,
+        378950,
+        421754
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "271|1753183259924",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=271%7C1753183259924"
+    "nextCursor": "272|1740530460000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=272%7C1740530460000"
   }
 }
