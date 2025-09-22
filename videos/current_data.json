@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "id": 98174969,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b8b51531-8edb-49a0-9421-0c167e14f619/width=832/b8b51531-8edb-49a0-9421-0c167e14f619.jpeg",
-      "hash": "UCFhL$0g0M^P=_%1Egs.E3nj?Z9]~UI;IVE2",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-03T17:41:43.961Z",
-      "postId": 21782441,
-      "stats": {
-        "cryCount": 129,
-        "laughCount": 268,
-        "likeCount": 2609,
-        "dislikeCount": 0,
-        "heartCount": 1277,
-        "commentCount": 3
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 721070646,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, \n(realistic:1), (flat color:1.75), (haiz_ai:1), (lineart:1.5), (no outline:1), (Flat vector:1.1),\n1girl, topless girl in laundry room, dynamic angle, from above and behind. kneeling, leaning on one arm, leaning to side, washing machine, open washing machine, wearing  panties, ass focus, clothes on floor, clothes basket\nvibrant colors, warm tones, subtle light, artistic composition, intricate fabric texture, high detail, cover page, masterwork, masterpiece, best quality, very aesthetic, absurdres, newest, huge filesize, highres, detailed, detailed fingers, raytracing, volumetric lighting, ambient occlusion, perfect anatomy, \nS4bit4mago_illu, anime style, artist:moriimee,",
-        "process": "txt2img",
-        "sampler": "Euler",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-02T1934:31.5394313Z",
-        "experimental": false,
-        "negativePrompt": "aBase:bad quality,worst quality,worst detail,sketch,censor,\nworst quality, low quality, displeasing, text, watermark, \nbad anatomy, artist name, signature,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2034730
-          },
-          {
-            "type": "lora",
-            "weight": 4,
-            "modelVersionId": 1242203
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 1530645
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1736373
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1380520
-          }
-        ]
-      },
-      "username": "euphamysm",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1242203,
-        1380520,
-        1530645,
-        1736373,
-        1761560,
-        2034730
-      ]
-    },
-    {
       "id": 47652809,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08c949e9-1b1b-4ce3-9611-0318bd10ff97/width=832/08c949e9-1b1b-4ce3-9611-0318bd10ff97.jpeg",
       "hash": "UBEUfK%20MR*~As:E3t60gIps:kCE4JAxtV[",
@@ -113,10 +29,114 @@
       "username": "Rodzilla2025X",
       "baseModel": "",
       "modelVersionIds": []
+    },
+    {
+      "id": 76352920,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f907d81-504c-4b20-b49c-5129a586427c/width=832/5f907d81-504c-4b20-b49c-5129a586427c.jpeg",
+      "hash": "UUF$YEw[*0xvTMIpIVT1%$bI-pj^PCoMXnWC",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-17T10:45:55.250Z",
+      "postId": 16956749,
+      "stats": {
+        "cryCount": 183,
+        "laughCount": 352,
+        "likeCount": 2556,
+        "dislikeCount": 0,
+        "heartCount": 1182,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1920611980,
+        "draft": false,
+        "extra": {
+          "remixOfId": 75923318
+        },
+        "steps": 40,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece), 1girl, solo, curvy, large breasts, beautiful eyes, brown eyes, eyelashes, eyeshadow, large ass, thick thighs, wide hips, hourglass figure, plump, lusty, piercings, bikini, sideboob, underboob, choker, necklace, gorgeous face, thighs, tattoos, neck tattoos, shoulder tattoos, belly tattoos, seductive, skindentation, dynamic angle, closeup, outside, pool, swimming pool, smirk, smile, slutty, cocky, flirty, \nboth hands on breasts, squeezing breasts, hair up, standing, \nClose up,",
+        "sampler": "DDIM",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-05-13T0246:08.5193020Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie, jeans, (car), (car interior), (transport), selfie,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1764228,
+            "modelVersionName": "b 1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 556208,
+            "modelVersionName": "Insta Baddie[PONY]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 1.65,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 1500353,
+            "modelVersionName": "v1.1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 1142665,
+            "modelVersionName": "V1"
+          }
+        ]
+      },
+      "username": "Wadufuk1",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        382152,
+        534756,
+        556208,
+        596040,
+        1142665,
+        1242203,
+        1500353,
+        1764228
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "286|1735184245855",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=286%7C1735184245855"
+    "nextCursor": "287|1747478755250",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=287%7C1747478755250"
   }
 }
