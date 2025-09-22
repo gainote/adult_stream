@@ -1,37 +1,8 @@
 {
   "items": [
     {
-      "id": 60448015,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/11eabdd5-eca0-4abe-954d-72cab126c35f/width=1800/11eabdd5-eca0-4abe-954d-72cab126c35f.jpeg",
-      "hash": "UAEo3ws,-S$%%hIp4=NIIW=^NGxa};ENfOt7",
-      "width": 1920,
-      "height": 2816,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-14T16:45:26.245Z",
-      "postId": 13521923,
-      "stats": {
-        "cryCount": 457,
-        "laughCount": 727,
-        "likeCount": 2040,
-        "dislikeCount": 0,
-        "heartCount": 1040,
-        "commentCount": 3
-      },
-      "meta": null,
-      "username": "qazsedcAI",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        164821,
-        575495,
-        1062234
-      ]
-    },
-    {
       "id": 31856824,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6972dcb4-2ba0-4157-a9be-0011233409d0/width=832/6972dcb4-2ba0-4157-a9be-0011233409d0.jpeg",
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6972dcb4-2ba0-4157-a9be-0011233409d0/original=true/6972dcb4-2ba0-4157-a9be-0011233409d0.jpeg",
       "hash": "UAC5SI}@0#EM0zEMNHR+9[WV^P%1J8j[NHI;",
       "width": 832,
       "height": 1216,
@@ -118,10 +89,72 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 33319429,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a15e1413-8fcc-4ecd-aaca-9e04105ac34c/original=true/a15e1413-8fcc-4ecd-aaca-9e04105ac34c.jpeg",
+      "hash": "U8GkUj~C00?G5SI:RiIo4mNGK6t8=|n$D%tR",
+      "width": 2608,
+      "height": 2608,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-07T14:18:01.989Z",
+      "postId": 7622308,
+      "stats": {
+        "cryCount": 132,
+        "laughCount": 334,
+        "likeCount": 2360,
+        "dislikeCount": 0,
+        "heartCount": 1427,
+        "commentCount": 4
+      },
+      "meta": {
+        "Size": "1024x1024",
+        "seed": 3,
+        "steps": 25,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "LORA:Kenva": "189804f733",
+          "LORA:ExpressiveH": "7b53da0391",
+          "LORA:Smooth Style 2": "5a39036209",
+          "LORA:Vixon Gothic Neon": "0b75417915",
+          "LORA:Concept Art Twilight Style": "2d9ee3fc65"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,   girls, from below, innie pussy, naked, medium breasts, thick thighs,   <lora:Concept Art Twilight Style:0.6> <lora:Smooth Style 2:0.6> <lora:Kenva:0.3> <lora:Vixon Gothic Neon:0.3> <lora:ExpressiveH:0.4>ExpressiveH",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
+        "resources": [
+          {
+            "name": "Kenva",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "name": "ExpressiveH",
+            "type": "lora",
+            "weight": 0.4
+          }
+        ],
+        "Model hash": "67ab2fd8ec",
+        "negativePrompt": "score_4, score_5, score_6,",
+        "PonyV6XL Version": "ComfyUI"
+      },
+      "username": "ADPA",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        290640,
+        330475,
+        333587,
+        382152,
+        398847,
+        454703
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "291|1727581438662",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=291%7C1727581438662"
+    "nextCursor": "292|1728310681989",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=292%7C1728310681989"
   }
 }
