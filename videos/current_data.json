@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "id": 31856824,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6972dcb4-2ba0-4157-a9be-0011233409d0/original=true/6972dcb4-2ba0-4157-a9be-0011233409d0.jpeg",
-      "hash": "UAC5SI}@0#EM0zEMNHR+9[WV^P%1J8j[NHI;",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-09-29T03:43:58.662Z",
-      "postId": 7252640,
-      "stats": {
-        "cryCount": 116,
-        "laughCount": 266,
-        "likeCount": 2381,
-        "dislikeCount": 0,
-        "heartCount": 1496,
-        "commentCount": 2
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 12997163,
-        "steps": 29,
-        "prompt": "Expressiveh, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, godrays, 1girl, Yor briar (Spy x family), closeup, pose, nipples, sexy, blush, face focus, night, dark, blue light, bedroom, sexy, dramatic lightning, dynamic angle, saliva dripping, sweat, naked, choker, motion lines, motion blur, eyes rolling back, moaning, cum, standing, arched back, girl focus, man out of frame, big hips, narrow waist, vaginal, fucked from behind,",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-29T0321:13.0392945Z",
-        "negativePrompt": "easynegative, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, mixed characters",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "Bancin",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        239420,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
-    },
-    {
       "id": 33319429,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a15e1413-8fcc-4ecd-aaca-9e04105ac34c/original=true/a15e1413-8fcc-4ecd-aaca-9e04105ac34c.jpeg",
       "hash": "U8GkUj~C00?G5SI:RiIo4mNGK6t8=|n$D%tR",
@@ -151,10 +61,124 @@
         398847,
         454703
       ]
+    },
+    {
+      "id": 86398579,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f57a64a-f15e-476d-9fb4-f2d1aca1d6b9/original=true/1f57a64a-f15e-476d-9fb4-f2d1aca1d6b9.jpeg",
+      "hash": "UEL|Gl4U03?F00NJ4otR00Rk~Vt6~pxa9aaK",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-06T11:00:00.000Z",
+      "postId": 19171399,
+      "stats": {
+        "cryCount": 183,
+        "laughCount": 342,
+        "likeCount": 2581,
+        "dislikeCount": 0,
+        "heartCount": 1144,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 430069905,
+        "draft": false,
+        "extra": {
+          "remixOfId": 86138295
+        },
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up,\nBREAK\ndetailed background, detailed face, perfect face, detailed mouth, detailed eyes, outside, beach,\nBREAK \nbreast expansion, ass expansion, huge breasts, huge ass, revealing clothes,, transformation, before and after, transformation sequence, \nBREAK\n1girl, girl, 1girl, long hair, blonde hair, brown eyes, large breasts | hand tattooLucy white floral bikini (outfit), Lucy Heartfilia (character), lucy heartfilia, 1girl, blonde hair, solo, swimsuit, bikini, twintails, tattoo on girl's right hand, large breasts, curvy, micro waist,\nBREAK\nbottomheavy, massive thighs. thick thighs, HyperSag, huge breasts, gigantic breasts, large areolae, small breasts before, hyper breasts after, ahegao after, breast expansion, multiple views, Expressiveh, detail1eye, atb, about to burst top after, standing,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-04T0103:31.2999418Z",
+        "experimental": false,
+        "negativePrompt": "blender, 3d, ((signature)),(low quality, worst quality:1.4),(bad_prompt:0.8),((bad anatomy)), ,logo,text,username,((bad proportions)),(cropped),(watermark),(worstquality),grayscale,sketches, low quality, ((blurry)), (((out of focus))), ((((censored)))), source_anime, source_pony, {feral, male}, {{fox, cat}}, {{two characters, 2girl}}, flipped feet, extra toes, 6 toes, extra limbs, 4 Toes, white room, white background, desaturated, noise, blur, low contrast, wet, blurry face, blurry eyes, bad face, bad eyes,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 324619,
+            "modelVersionName": "AutismMix_pony"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 128972,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 326346,
+            "modelVersionName": "eye detailerXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 461354,
+            "modelVersionName": "Pony B.E"
+          },
+          {
+            "type": "lora",
+            "weight": 0.95,
+            "modelVersionId": 573095,
+            "modelVersionName": "Pony v1.4"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 671694,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1402028,
+            "modelVersionName": "Lucy (18 outfits)-Illus."
+          }
+        ]
+      },
+      "username": "MrChap",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        128972,
+        135867,
+        324619,
+        326346,
+        382152,
+        461354,
+        573095,
+        671694,
+        1402028
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "292|1728310681989",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=292%7C1728310681989"
+    "nextCursor": "293|1751799600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=293%7C1751799600000"
   }
 }
