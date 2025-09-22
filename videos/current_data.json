@@ -1,88 +1,6 @@
 {
   "items": [
     {
-      "id": 59071087,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a62870a9-70fd-4152-b80b-fd62280a490d/width=1392/a62870a9-70fd-4152-b80b-fd62280a490d.jpeg",
-      "hash": "UGDlH1Io0K^k0zs:xDNG0Lay^jIp}@xaI;oJ",
-      "width": 1392,
-      "height": 2328,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-22T01:05:00.000Z",
-      "postId": 13214278,
-      "stats": {
-        "cryCount": 140,
-        "laughCount": 249,
-        "likeCount": 2662,
-        "dislikeCount": 0,
-        "heartCount": 1303,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "768x1792",
-        "seed": 312831448452891,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, platinum hair, long hair, (purple eyes:0.9), eyebrows, thick eyelashes, long pointy ears, wide grin, small breasts, nude, tattoos, partially submerged, lying in water, knee up, (spread legs:0.9), pussy, indoors, cave, (underground lake:1.1), glowing bioluminescent plants, shimmering water surface, water ripples, (deep dark:1.0), sidelighting, (dark shadows:0.8), (high contrast:0.8), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1410435
-      ]
-    },
-    {
       "id": 61847213,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/059e34a6-c457-4e8b-9ca5-2df9964d863b/width=1344/059e34a6-c457-4e8b-9ca5-2df9964d863b.jpeg",
       "hash": "UNEe[R0KtRWq~VE1xuR*D%t7xtIUX9Ri-pIT",
@@ -163,10 +81,45 @@
         1345990,
         1410435
       ]
+    },
+    {
+      "id": 68135521,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffd5c1f0-117c-45f8-84a4-3028e1fda6b5/width=1280/ffd5c1f0-117c-45f8-84a4-3028e1fda6b5.jpeg",
+      "hash": "UEFhYWS%Yk%1X.NKE+aK$J=|+]NH%$Oax^Sh",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-05T16:14:50.728Z",
+      "postId": 15143953,
+      "stats": {
+        "cryCount": 195,
+        "laughCount": 321,
+        "likeCount": 2454,
+        "dislikeCount": 0,
+        "heartCount": 1340,
+        "commentCount": 0
+      },
+      "meta": null,
+      "username": "sabbufik419",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        60938,
+        164821,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219,
+        720175
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "280|1741374600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=280%7C1741374600000"
+    "nextCursor": "281|1743869690728",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=281%7C1743869690728"
   }
 }
