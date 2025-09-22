@@ -1,85 +1,6 @@
 {
   "items": [
     {
-      "id": 31895885,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/42986448-dd61-42e1-a99a-028c56b0b627/width=832/42986448-dd61-42e1-a99a-028c56b0b627.jpeg",
-      "hash": "UGJt0U00-:R+~pIAg4Io00%gr]Ri8_tl-T%1",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-03-26T20:05:03.968Z",
-      "postId": 7261750,
-      "stats": {
-        "cryCount": 201,
-        "laughCount": 298,
-        "likeCount": 2590,
-        "dislikeCount": 0,
-        "heartCount": 1279,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1161014907,
-        "extra": {
-          "remixOfId": 11023716
-        },
-        "steps": 30,
-        "prompt": "score_9, score_8_up, score_8, score_9, 28 year old girl, cute, sexy freckles, medium round breasts, ponytail, short wavy black hair, brown eyes, (showing breasts:1.8), erect nipples, no panties, orange open-cup bra, looking at viewer, mischievous smile, half \nkitchen, vintage kitchen, white walls, halloween,\nhigh detail,",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-29T0838:46.6593376Z",
-        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, mutated hands, low res, blurry face, muscular women, tan lines, long hair, extra arm, extra fingers, phone, extra hand, extra person, bed, sperm on penis",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "meuh_trash",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        135867,
-        244808,
-        290640,
-        298238
-      ]
-    },
-    {
       "id": 59071087,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a62870a9-70fd-4152-b80b-fd62280a490d/width=1392/a62870a9-70fd-4152-b80b-fd62280a490d.jpeg",
       "hash": "UGDlH1Io0K^k0zs:xDNG0Lay^jIp}@xaI;oJ",
@@ -160,10 +81,92 @@
         1345990,
         1410435
       ]
+    },
+    {
+      "id": 61847213,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/059e34a6-c457-4e8b-9ca5-2df9964d863b/width=1344/059e34a6-c457-4e8b-9ca5-2df9964d863b.jpeg",
+      "hash": "UNEe[R0KtRWq~VE1xuR*D%t7xtIUX9Ri-pIT",
+      "width": 1344,
+      "height": 2240,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-03-07T19:10:00.000Z",
+      "postId": 13821042,
+      "stats": {
+        "cryCount": 151,
+        "laughCount": 286,
+        "likeCount": 2605,
+        "dislikeCount": 0,
+        "heartCount": 1279,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 947039068458757,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//www.deviantart.com/marlandco",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, (messy bed:1.2), half-naked, tousled hair, sleepy eyes, panties, stockings, lying on bed, stretching, sunlight through window, scattered clothes, empty wine bottle, crumpled sheets, pillow on floor, indoors, bedroom, wooden floor, open curtain, blurred city view, digital clock, bedhead, bright sun lighting, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censor, censored, watermark, plain simple background, blank eyes, hydrokinesis, symmetry, huge breasts, sparks, dust, garter straps,"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "279|1740186300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=279%7C1740186300000"
+    "nextCursor": "280|1741374600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=280%7C1741374600000"
   }
 }
