@@ -67,33 +67,82 @@
       ]
     },
     {
-      "id": 44639953,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c39e8f9c-b504-41e3-a6ef-ddcc40980144/width=720/c39e8f9c-b504-41e3-a6ef-ddcc40980144.mp4",
-      "hash": "UEFXkx~A0g9u}?t60|I:0hbIt*s.D%My-ow{",
-      "width": 720,
-      "height": 1280,
+      "id": 61479864,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e670d2e1-0ff1-46e9-9764-2646468505bf/width=1536/e670d2e1-0ff1-46e9-9764-2646468505bf.jpeg",
+      "hash": "U8D9lD9?00ac0$EK^,$*00Td~DIWO*^TDhEe",
+      "width": 1536,
+      "height": 2040,
       "nsfwLevel": "Mature",
-      "type": "video",
+      "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-12-09T23:33:05.790Z",
-      "postId": 10120848,
+      "createdAt": "2025-03-04T15:31:42.605Z",
+      "postId": 13743139,
       "stats": {
-        "cryCount": 251,
-        "laughCount": 1017,
-        "likeCount": 2271,
+        "cryCount": 147,
+        "laughCount": 316,
+        "likeCount": 2673,
         "dislikeCount": 0,
-        "heartCount": 865,
-        "commentCount": 22
+        "heartCount": 1265,
+        "commentCount": 3
       },
-      "meta": null,
-      "username": "jboogx_creative",
-      "baseModel": null,
-      "modelVersionIds": []
+      "meta": {
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "1024x1360",
+        "seed": 588764219,
+        "Model": "WAI-Nsfw-Illustrious-12",
+        "steps": 30,
+        "hashes": {
+          "model": "89cb4ec0a9"
+        },
+        "prompt": "neon lights, night, battlefield, ruins, cityscape, cowboy shot, \n1girl, see-through holographic clothing, see-through raincoat, \nchinese maid,brand name imitation, , dragon horns, mechanical tail, \n mecha musume,tsurime, holding greatsword, huge weapon, fin funnels, pose, \n,masterpiece,best quality,amazing quality,",
+        "Version": "v1.10.1-82-gd8688def6",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "89cb4ec0a9",
+            "name": "WAI-Nsfw-Illustrious-12",
+            "type": "model"
+          }
+        ],
+        "Model hash": "89cb4ec0a9",
+        "Hires steps": "20",
+        "Hires sampler": "DPM++ 2M",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
+        "ADetailer model": "face_yolov8s.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.35",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "Eyes.pt",
+        "Hires schedule type": "Karras",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.3",
+        "ADetailer inpaint padding": "32",
+        "Discard penultimate sigma": "True",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer denoising strength 2nd": "0.35",
+        "ADetailer inpaint only masked 2nd": "True"
+      },
+      "username": "WAI0731",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1490781
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "269|1733787185790",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=269%7C1733787185790"
+    "nextCursor": "270|1741102302605",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=270%7C1741102302605"
   }
 }
