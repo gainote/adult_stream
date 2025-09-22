@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "id": 89779434,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/125afee8-4c1b-4ce0-9d76-5061b3169f0d/width=832/125afee8-4c1b-4ce0-9d76-5061b3169f0d.jpeg",
-      "hash": "UHCjw@j=0.%g};lA22Rmt6xubxNfTzm*rWI;",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-22T11:20:59.924Z",
-      "postId": 19914420,
-      "stats": {
-        "cryCount": 149,
-        "laughCount": 308,
-        "likeCount": 2781,
-        "dislikeCount": 0,
-        "heartCount": 1154,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 2015605544,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "realistic,HassaKu_illu, artist:moriimee, 748cmstyle, jsyu_style, 2025. 07, \n(1girl, solo, masterpiece, best quality, amazing quality, absurdres, newest),  \ncute, Samus Aran, blonde hair, long hair,  wet hair,  wet skin, cute face, blue eyes, beautiful eyes, sexy, sexy girl, golden necklace, large saggy breast, blue bodysuit, head tilt, arms up, posing, dynamic angle, biting own lip, standing",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-22T1116:41.9042898Z",
-        "experimental": false,
-        "negativePrompt": "source_furry, source_Futanari, censored, worst quality, low quality, hands on own face, hands on own cheeks, ugly, deformed fingers, extra fingers, fused fingers, too many fingers, grainy, Sweat, facial mark, tears of blood, tear drop tattoo, tear tattoo",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1809575,
-            "modelVersionName": "v2.4I Illustrious 5/18"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 1784760,
-            "modelVersionName": "Smooth Booster v3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1580764,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "jsyu",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1056404,
-        1244133,
-        1580764,
-        1761560,
-        1784760,
-        1809575
-      ]
-    },
-    {
       "id": 60114196,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/efd06d95-739a-400b-bf12-510551776460/width=832/efd06d95-739a-400b-bf12-510551776460.jpeg",
       "hash": "URLg9HWW?^xayDR*sAoLbvt7nhRj%Mxte.NG",
@@ -233,10 +143,138 @@
         378950,
         421754
       ]
+    },
+    {
+      "id": 66402566,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e2f33e9-a2e4-47da-9bcb-40884be955e3/width=1800/3e2f33e9-a2e4-47da-9bcb-40884be955e3.jpeg",
+      "hash": "UCLM-U^*G^9a1OsT%2X8?b%f~pkWE+r=9voz",
+      "width": 1872,
+      "height": 2808,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-29T06:24:29.212Z",
+      "postId": 14776786,
+      "stats": {
+        "cryCount": 230,
+        "laughCount": 395,
+        "likeCount": 2551,
+        "dislikeCount": 0,
+        "heartCount": 1212,
+        "commentCount": 0
+      },
+      "meta": {
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 3173972742,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 89,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "lora:Crowd of people": "dbb863284f4f",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,\n(large breasts:1.5), (men looking at viewer:1.8), 5boys, \n1girl, solo, brown hair, green eyes, bangs:1.5, straight hair, long hair, hoop earrings, rimless eyewear, round eyewear, close up, from above, \n(long necktie:1.5), blue necktie, embarrassed, twisted torso, head tilt, spread legs, pussy, parted lips,\nbare shoulders, bare stomach, sitting on desk,  bare arms,\ncompletely nude, (navel:1.5), nipples,\ncowboy shot,\nurushihara satoshi style, JabarandP, backlighting,\noffice, office desk, laptop, paper,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:Implants2:0.4> breast implants, <lora:Crowd of people:0.8> crowd of people",
+        "Version": "v1.6.0",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "TI hashes": {
+          "unaestheticXL_Alb2": "6c1c4cfa35e9"
+        },
+        "resources": [
+          {
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
+            "type": "lora",
+            "weight": 0.35
+          },
+          {
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
+            "type": "lora",
+            "weight": 0.15
+          },
+          {
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.4
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "dbb863284f4f",
+            "name": "Crowd of people",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
+          }
+        ],
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "32",
+        "Hires upscale": "1.95",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "(collared shirt:1.7), (men's back:1.5), holding necktie,  6fingers:1.5, pubic hair,  school chair, school desk,  (forehead:1.5),  beard, (2girl:1.5), visible veins, visible thread veins, (Back of the head:1.5), suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, short necktie, brown desk, convenient censoring, 4fingers,",
+        "Denoising strength": "0.03"
+      },
+      "username": "ceii0502382",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        259791,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "272|1740530460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=272%7C1740530460000"
+    "nextCursor": "273|1743229469212",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=273%7C1743229469212"
   }
 }
