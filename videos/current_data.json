@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "id": 95575286,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dee51500-6a26-4d7f-88cc-b621b4095a11/original=true/dee51500-6a26-4d7f-88cc-b621b4095a11.jpeg",
-      "hash": "U7G%=G000~Vr01xuIo={00~V$M%2^+rr$%IU",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-22T10:39:14.434Z",
-      "postId": 21199264,
-      "stats": {
-        "cryCount": 200,
-        "laughCount": 314,
-        "likeCount": 2490,
-        "dislikeCount": 0,
-        "heartCount": 1230,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1333460247,
-        "draft": false,
-        "steps": 37,
-        "width": 832,
-        "height": 1216,
-        "prompt": "frostbite, ExpresHGothicNeonIncase, incoth, (incase:0.6), \n(high detail:1.2), perfect eyes, perfect hands, \nBREAK \nnsfw, on her back, ass grab, 1girl, (tomboy:1.1), short hair, hazel eyes, too cute to be true, no bra, girl next door, cute pink floral tight sundress, downblouse, breast exposed, puffy nipples, nip slip, strap off shoulder, 18yo, young, Brazilian girl, dark skin, deep penetration, pink bows, fit, demure, coquette, dainty, frilly socks, choker, beautiful face, concerned moaning expression, young, coming of age, Slim girl, flat chested, tiny tits, tiny breasts, narrow waist, small ass, tiny, petite, 18 years old, mouth open, moan of pleasure, (youthful face:1.3), bedroom eyes, awe, love, pleasure, girl on table,  ((extreme sex, from above, impact lines, \nSticky pussy juice trail, cock visible inside tiny pussy)), tight fit, detailed labia, hands on table,, light freckles, hint of pubic hair,, in cute girls bedroom, tbp, cartoon, realistic, freckles, natural skin, legs spread open, fingers spreading pussy open, eurasian looking at viewer, (Nubiles magazine photo set:1.2), detailed bedroom interior background, books, notebooks, yellow pencils,\nBREAK\nmasterpiece, (best quality:1.1), very high detail, hyperdetailed, high resolution, super detailed skin, Highly Visible, 12k, sharp focus, hyper-realistic, photorealism, beautiful, perfect lighting, smooth edges,",
-        "process": "txt2img",
-        "sampler": "DPM2 a",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-17T0114:33.4305792Z",
-        "experimental": false,
-        "negativePrompt": "(bad quality:1.2), worst quality, lowres, jpeg artifacts, bad anatomy, bad hands, signature, watermark, (censored;1.3), bad anatomy, oldest, (bar_censor:1.3), conjoined, merging arms, merging legs, merging limbs, (tan lines), artifacts on body, multiple dicks, dick girl, futa, ugly, messy, old, loli, bored, blush, large mouth,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1060368
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1628810
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1124566
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1613410
-          }
-        ]
-      },
-      "username": "Pickledcrab",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1060368,
-        1124566,
-        1613410,
-        1628810,
-        1761560
-      ]
-    },
-    {
       "id": 48460401,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be194de5-4f9a-4e9a-b104-868a34eb549b/original=true/be194de5-4f9a-4e9a-b104-868a34eb549b.jpeg",
       "hash": "UKJQZb9GFc~W~WMyNG%fIpt7NGRk%MozRjV@",
@@ -236,10 +158,168 @@
         436219,
         761452
       ]
+    },
+    {
+      "id": 89065008,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1452387f-e555-48c4-beb3-a3d417ad718a/original=true/1452387f-e555-48c4-beb3-a3d417ad718a.jpeg",
+      "hash": "UKKdVt8_C,57%f$%Ipoz0K?HRP%MwIoLWXWB",
+      "width": 1792,
+      "height": 3024,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-19T02:13:00.000Z",
+      "postId": 19758894,
+      "stats": {
+        "cryCount": 113,
+        "laughCount": 276,
+        "likeCount": 2513,
+        "dislikeCount": 0,
+        "heartCount": 1320,
+        "commentCount": 1
+      },
+      "meta": {
+        "TI": {},
+        "Size": "896x1512",
+        "seed": 1316940929,
+        "Model": "x64v14",
+        "steps": 30,
+        "hashes": {
+          "model": "bdb59bac77",
+          "lora:ANI": "b5f2db1877d5",
+          "lora:XXX477": "080d12c718b3",
+          "lora:96YOTTEA-WAI": "7a6cdc714921",
+          "lora:veluflora-wai": "fbcbfb1106da",
+          "lora:a31_style_koni": "668963c77d2a",
+          "lora:mon_monmon2133": "9dcf6d165d08",
+          "lora:ag31_style_ba_v1": "77af56ed043a",
+          "lora:checkpoint-e18_s306": "491af043b410",
+          "lora:round_breasts-IL-1.0": "39368615C0F8",
+          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
+          "lora:Perfect_Ass_-_Illustrious_V2": "1a0a6cae4235",
+          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
+          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
+        },
+        "prompt": "1girl, adult, black choker, bottomless, from behind, low angle, from side, ass, pussy, innie pussy, detailed background, indoors, day, vibrant lighting, dynamic, angle, sense of depth, lush colors, slim, perfect ass, round ass, fishnet thighhighs, blonde hair, bow, long hair, twintails, black gloves, bra, (adult, mature), wide hips,\nvery awa, masterpiece, highres, absurdres, Flatline, Flat vector illustration, flat colors,\n<lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>,<lora:mon_monmon2133:0.3>, <lora:XXX477:0.5>, <lora:96YOTTEA-WAI:0.3>, <lora:a31_style_koni:0.5>, <lora:ag31_style_ba_v1:0.8>, <lora:checkpoint-e18_s306:0.6>, <lora:veluflora-wai:0.5>, <lora:round_breasts-IL-1.0:0.35>,   <lora:Perfect_Ass_-_Illustrious_V2:0.3>,  <lora:ANI:0.75>",
+        "Version": "f2.0.1v1.10.1-previous-665-gae278f79",
+        "sampler": "DPM++ 2M SDE",
+        "cfgScale": 6,
+        "resources": [
+          {
+            "hash": "DA259DF60E36",
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "33d8271217ed",
+            "name": "noobai_ep11_stabilizer_v0.138_fp16",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "72ea46a2b089",
+            "name": "ponyv6_noobV1_2_adamW",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "9dcf6d165d08",
+            "name": "mon_monmon2133",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "080d12c718b3",
+            "name": "XXX477",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "7a6cdc714921",
+            "name": "96YOTTEA-WAI",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "668963c77d2a",
+            "name": "a31_style_koni",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "77af56ed043a",
+            "name": "ag31_style_ba_v1",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "491af043b410",
+            "name": "checkpoint-e18_s306",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "fbcbfb1106da",
+            "name": "veluflora-wai",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "39368615C0F8",
+            "name": "round_breasts-IL-1.0",
+            "type": "lora",
+            "weight": 0.35
+          },
+          {
+            "hash": "1a0a6cae4235",
+            "name": "Perfect_Ass_-_Illustrious_V2",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "b5f2db1877d5",
+            "name": "ANI",
+            "type": "lora",
+            "weight": 0.75
+          },
+          {
+            "hash": "bdb59bac77",
+            "name": "x64v14",
+            "type": "model"
+          }
+        ],
+        "Model hash": "bdb59bac77",
+        "Hires upscale": "2",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharpV2",
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts",
+        "Hires CFG Scale": "5",
+        "Denoising strength": "0.35"
+      },
+      "username": "BallsyBalls",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        400010,
+        438698,
+        1082928,
+        1145311,
+        1150423,
+        1209350,
+        1247042,
+        1308598,
+        1311785,
+        1356500,
+        1761560,
+        1785002,
+        2011735
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "295|1735538396429",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=295%7C1735538396429"
+    "nextCursor": "296|1752891180000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=296%7C1752891180000"
   }
 }
