@@ -1,88 +1,6 @@
 {
   "items": [
     {
-      "id": 59436170,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad3746f1-d799-4e36-bcc9-9b016fc0392c/width=1344/ad3746f1-d799-4e36-bcc9-9b016fc0392c.jpeg",
-      "hash": "U89GzIR40Lt.uPv}E1PB0#WB^jNa9Zof-oiv",
-      "width": 1344,
-      "height": 2240,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-23T20:30:00.000Z",
-      "postId": 13295668,
-      "stats": {
-        "cryCount": 176,
-        "laughCount": 324,
-        "likeCount": 2667,
-        "dislikeCount": 0,
-        "heartCount": 1250,
-        "commentCount": 2
-      },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 858355479760996,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), (ahegao:0.9), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), kneeling, under tree, (tentacle sex:1.1), bound, bound arms, bound legs, bound torso, bondage, womb tattoo, stomach bulge, outdoors, (void portal \\(object\\) below:1.2), (glowing summoning circle:1.2), (summoning tentacles:1.1), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, suction cups, symmetry, fire, floating particles, sunlight"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1410435
-      ]
-    },
-    {
       "id": 92354981,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2f0e0b2-e78c-4aab-b313-2b6cc4490c61/width=768/e2f0e0b2-e78c-4aab-b313-2b6cc4490c61.jpeg",
       "hash": "UA7_yrQ+0Ju6cbVqRNt.9En~#*bxXoWVskaJ",
@@ -129,10 +47,76 @@
       "modelVersionIds": [
         2043151
       ]
+    },
+    {
+      "id": 56149943,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b478d1b0-a41c-46a7-8eaa-356490cb1923/width=1464/b478d1b0-a41c-46a7-8eaa-356490cb1923.jpeg",
+      "hash": "UBDS,*?cD+RPT}WCqt,@0eS2VWEK7|KK?aOr",
+      "width": 1464,
+      "height": 2464,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-11T01:30:00.000Z",
+      "postId": 12575990,
+      "stats": {
+        "cryCount": 139,
+        "laughCount": 308,
+        "likeCount": 2684,
+        "dislikeCount": 0,
+        "heartCount": 1274,
+        "commentCount": 4
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 591541423626835,
+        "Model": "waiNSFWIllustrious_v100.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "7e87327f89",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, high ponytail, heterochromia, red eyes, blue eyes, glowing eyes, eyebrows, eyelashes, head tilt, nipples, latex dress, side slit, shiny reflections, indoors, standing near futuristic bed, neon-lit bedroom, soft blue and pink neon glow, holographic city view through window, glass walls, dim ambient lighting, cyberpunk aesthetics, digital interface projections, scattered clothes on bed, intimate atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:klskx_wai:0.8> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7e87327f89",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, facial tattoo, border"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1367422,
+        1284348,
+        567119
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "267|1754349543434",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=267%7C1754349543434"
+    "nextCursor": "268|1739237400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=268%7C1739237400000"
   }
 }
