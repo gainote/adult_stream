@@ -1,61 +1,6 @@
 {
   "items": [
     {
-      "id": 8944473,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5b975e71-4704-4f41-9cf6-2727ff057b18/original=true/5b975e71-4704-4f41-9cf6-2727ff057b18.jpeg",
-      "hash": "UFHKIaic0Lg$_NIUn4?aAEM{s:?G$*EiOEe.",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-04-01T08:07:27.405Z",
-      "postId": 1932342,
-      "stats": {
-        "cryCount": 87,
-        "laughCount": 325,
-        "likeCount": 2180,
-        "dislikeCount": 0,
-        "heartCount": 1495,
-        "commentCount": 2
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1437997338,
-        "steps": 60,
-        "prompt": "core_9, score_8_up, score_7_up, 2girls, sofa, sitting, spreading legs, hand in panties, door behind, walk-in caught, textured skin, sweating profusely, skindentation, hot woman, surprised, masterpiece, fingering, flustered, solo focus, tanlines",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, ugly face, huge breasts, ugly style, bad eyes, sketch, mutated hands, ahegao, pov",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 298238
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 421099
-          }
-        ]
-      },
-      "username": null,
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        290640,
-        298238,
-        421099
-      ]
-    },
-    {
       "id": 91790131,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3f7ec95-d82f-4d69-9ebd-855917938870/original=true/a3f7ec95-d82f-4d69-9ebd-855917938870.jpeg",
       "hash": "U5Enkn5T0K%2039^s+V[00I;?FI;~VxFELS2",
@@ -134,10 +79,111 @@
         413502,
         436219
       ]
+    },
+    {
+      "id": 89130938,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f814d6ab-bd3f-4e7c-a7f9-1641963f7f4b/original=true/f814d6ab-bd3f-4e7c-a7f9-1641963f7f4b.jpeg",
+      "hash": "U4FEr=}XyY*J00IoI9IU00-;x[9G0ek?xu^j",
+      "width": 3840,
+      "height": 2688,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-19T07:55:00.000Z",
+      "postId": 19773952,
+      "stats": {
+        "cryCount": 136,
+        "laughCount": 275,
+        "likeCount": 2490,
+        "dislikeCount": 0,
+        "heartCount": 1171,
+        "commentCount": 2
+      },
+      "meta": {
+        "seed": 502585196,
+        "vaes": [],
+        "extra": {},
+        "steps": 25,
+        "width": 1216,
+        "height": 832,
+        "models": [],
+        "prompt": "score_9,score_8_up,score_7_up, 1 tanned curvy italian girl, hot girl, round face, thin nose, long hair, hair in pigtails , brown hair, (oversized huge breasts), sexy face, narrow face, makeup, view back, ass focus, pussy, anus, extremely detailed skin, natural skin texture, Cute pajamas top , pajamas top pulled over midriff , lifting shirt, pierced belly button , close up view, on knees, knees spread wide, all fours, ass up, round ass, creampie, In bedroom, frat house BREAK on bed, By night, pajamas down, anus, pussy, (puffy labia:1.4), beautiful woman, intimate photo, realistic image, dim light, cozy atmosphere, perfect lighting, perfect shadows, shiny skin, perfect reflections, lots of shadows, hairy pussy, unshaved ass, unshaved vagina, hairy vagina, goth makeup, black hair, garter belt on, black high socks, dripping pussy, 1boy, body out of frame, head out of frame, (perfect cock, beautiful cock, cumdrip, large testicles), male_masturbation,",
+        "denoise": 0.4,
+        "process": "img2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 12,
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "19:13",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/7G8JE13FF0FSK9DX27TCG8Z4D0.jpeg",
+          "width": 1216,
+          "height": 832
+        },
+        "experimental": false,
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx, \n   score_6, score_5, score_4, worst quality, low quality, deformed body, child, young, big ass, wide hips,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1971591
+          },
+          {
+            "weight": 1.05,
+            "modelVersionId": 1242203
+          },
+          {
+            "weight": 1.25,
+            "modelVersionId": 1420899
+          },
+          {
+            "weight": 1.8,
+            "modelVersionId": 1926656
+          },
+          {
+            "weight": 3.1,
+            "modelVersionId": 1681921
+          },
+          {
+            "weight": -1.2,
+            "modelVersionId": 1386847
+          },
+          {
+            "weight": 1.35,
+            "modelVersionId": 1851961
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
+        "additionalResources": []
+      },
+      "username": "klaabu",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        164821,
+        1242203,
+        1386847,
+        1420899,
+        1681921,
+        1851961,
+        1926656,
+        1971591
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "328|1754070904397",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=328%7C1754070904397"
+    "nextCursor": "329|1752911700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=329%7C1752911700000"
   }
 }
