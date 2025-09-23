@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "id": 95771260,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/77b7467b-c8bf-4a01-859a-1553b54e5be8/original=true/77b7467b-c8bf-4a01-859a-1553b54e5be8.jpeg",
-      "hash": "UQLDu[9Eox-qV=xE%MWr00R*NGoe~WRjM|M{",
-      "width": 1200,
-      "height": 1600,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-24T10:45:40.150Z",
-      "postId": 21242721,
-      "stats": {
-        "cryCount": 223,
-        "laughCount": 311,
-        "likeCount": 2479,
-        "dislikeCount": 0,
-        "heartCount": 1162,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "600x800",
-        "seed": 4205848430,
-        "Model": "waiNSFWIllustrious_v100",
-        "steps": 25,
-        "hashes": {
-          "model": "7e87327f89",
-          "lora:shuten-douji-illustriousxl-lora-nochekaiser": "e2554db12a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality,, <lora:shuten-douji-illustriousxl-lora-nochekaiser:1>, shuten douji, shuten douji (fate), purple eyes, earrings, eyeshadow, horns, makeup, oni horns, purple hair, red eyeshadow, short eyebrows, short hair, single earring, pointy ears, bob cut, eyeliner, red eyeliner, skin-covered horns, mature female, small breasts,, <lora:female-masturbation-infront-of-laptop-illustriousxl-lora-nochekaiser:1>, female masturbation infront of laptop, solo, blush, shirt, navel, closed mouth, sitting, white shirt, short sleeves, sweat, barefoot, pussy, indoors, spread legs, feet, legs, toes, pubic hair, uncensored, pussy juice, bottomless, soles, looking down, trembling, motion lines, toenails, masturbation, fingering, female masturbation, door, foot out of frame, computer, laptop, torogao, half-closed eyes,, , ,",
-        "Version": "f0.0.15v1.8.0rc-1.7.0",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "resources": [
-          {
-            "name": "shuten-douji-illustriousxl-lora-nochekaiser",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "name": "female-masturbation-infront-of-laptop-illustriousxl-lora-nochekaiser",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7e87327f89",
-        "Hires upscale": "2",
-        "Hires upscaler": "Latent",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censored, 3d, realistic, shota, loli, yuri, yaoi, mosaic censoring, bar censor, light censor, futanari, futa",
-        "Denoising strength": "0.75"
-      },
-      "username": "nochekaiser881",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1367422,
-        2099595
-      ]
-    },
-    {
       "id": 88085956,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c65cfc1-d950-44ad-8db9-652782997ebd/original=true/3c65cfc1-d950-44ad-8db9-652782997ebd.jpeg",
       "hash": "UVOMZ}~WJ7xagitlxZIUE1s9s:j]?bIUt7bw",
@@ -89,10 +26,44 @@
       "modelVersionIds": [
         1761560
       ]
+    },
+    {
+      "id": 99099163,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25c9657c-b4c0-400c-bd6d-939fac3de4fa/original=true/25c9657c-b4c0-400c-bd6d-939fac3de4fa.jpeg",
+      "hash": "UBHL0is+00-;OaIA9GD%00%2~XocIUt7^+bI",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-10T10:09:38.104Z",
+      "postId": 21987355,
+      "stats": {
+        "cryCount": 212,
+        "laughCount": 374,
+        "likeCount": 2517,
+        "dislikeCount": 0,
+        "heartCount": 1071,
+        "commentCount": 0
+      },
+      "meta": null,
+      "username": "ShishigamiDono",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        164821,
+        382152,
+        519860,
+        523119,
+        534756,
+        556208,
+        596040,
+        2071650
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "308|1752471120000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=308%7C1752471120000"
+    "nextCursor": "309|1757498978104",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=309%7C1757498978104"
   }
 }
