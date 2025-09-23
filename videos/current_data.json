@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "id": 81896151,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e52277d6-bb77-43a9-9d44-22132e9cb4d2/original=true/e52277d6-bb77-43a9-9d44-22132e9cb4d2.jpeg",
-      "hash": "UNLD}lt-*JM|-S?b-pIVxtbuaK-T-TrqIUIq",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-12T14:38:00.000Z",
-      "postId": 18191932,
-      "stats": {
-        "cryCount": 206,
-        "laughCount": 378,
-        "likeCount": 2717,
-        "dislikeCount": 0,
-        "heartCount": 904,
-        "commentCount": 0
-      },
-      "meta": {
-        "seed": 1741459175,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1162518@1331188",
-        "extra": {},
-        "steps": 29,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1162518@1331188"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), detailed face, (dynamic:1), 2girls, (mature), dentist office, dentist uniform, brown hair, brown eyes, white pupils, smiling, pressing chest against, BREAK patient, blonde hair, long hair, laying in dentist-chair, open mouth, (nervous, blush:0.7), wearing crop top, close up",
-        "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, (loli, child:1.15), curvy",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1331188
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1331188
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1880647
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 1805073
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1331188
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 1880647
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 1805073
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1661570@1880647",
-            "type": "lora",
-            "strength": 0.75,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1233370@1805073",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "Plantra",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1331188,
-        1805073,
-        1880647
-      ]
-    },
-    {
       "id": 92354989,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89f34f8d-1311-4aee-ba35-511a65f02142/original=true/89f34f8d-1311-4aee-ba35-511a65f02142.jpeg",
       "hash": "UBBede5qOX%20~-9NHR*0g-9-AIp}@AGxZ$j",
@@ -157,10 +57,43 @@
       "modelVersionIds": [
         1496755
       ]
+    },
+    {
+      "id": 83039082,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0e01efdc-3472-4369-914a-18cb6b0a5d88/original=true/0e01efdc-3472-4369-914a-18cb6b0a5d88.jpeg",
+      "hash": "UPKTxl~qTKNH~VxukrkC0L%Mjct7t8%LD%Rj",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-20T12:49:28.404Z",
+      "postId": 18442240,
+      "stats": {
+        "cryCount": 175,
+        "laughCount": 304,
+        "likeCount": 2601,
+        "dislikeCount": 0,
+        "heartCount": 1115,
+        "commentCount": 3
+      },
+      "meta": null,
+      "username": "Kalrdr",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        9208,
+        111363,
+        333245,
+        372639,
+        1024244,
+        1412563,
+        1490781
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "301|1754349591005",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=301%7C1754349591005"
+    "nextCursor": "302|1750423768404",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=302%7C1750423768404"
   }
 }
