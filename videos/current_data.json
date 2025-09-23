@@ -1,87 +1,6 @@
 {
   "items": [
     {
-      "id": 59180577,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/57ed7037-911c-4b75-8f20-3a6669071cde/original=true/57ed7037-911c-4b75-8f20-3a6669071cde.jpeg",
-      "hash": "UTID]oS$X7Md~V-:RjD%-;R*RkIVI]xt9uR*",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-21T10:03:00.000Z",
-      "postId": 13238489,
-      "stats": {
-        "cryCount": 133,
-        "laughCount": 266,
-        "likeCount": 2484,
-        "dislikeCount": 0,
-        "heartCount": 1154,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1334833657,
-        "draft": false,
-        "extra": {
-          "remixOfId": 56156779
-        },
-        "steps": 13,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_anime,\n BREAK\n1girl, short blonde hair, messy, brown eyes, large breasts, firm, knight armor, half-removed, sweaty skin, seductive wink, looking at viewer, from side, tent interior, lantern glow, fur rug, bold stance\n BREAK\ndynamic light, warm_light, warm_colors, high contrast, depth of field, golden hour lighting, dramatic shadows, rich details,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-02-21T0849:48.9692730Z",
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, , FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, big nose,(((face)))",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 817261,
-            "modelVersionName": "v6.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1345991,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1395723,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "Buzz_lover",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        817261,
-        1345991,
-        1395723
-      ]
-    },
-    {
       "id": 91671311,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1193e951-f10c-4c8c-b912-64035b3e98a3/original=true/1193e951-f10c-4c8c-b912-64035b3e98a3.jpeg",
       "hash": "UHNcESxuOxIW00In4of+0*xu.PnhVaIUM^-o",
@@ -111,10 +30,37 @@
       "username": "Rodzilla2025X",
       "baseModel": "Illustrious",
       "modelVersionIds": []
+    },
+    {
+      "id": 63388786,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/066d6367-3d1e-41ea-be3a-b1621b34a4c3/original=true/066d6367-3d1e-41ea-be3a-b1621b34a4c3.mp4",
+      "hash": "U6C}:|K5GG9v^*V@5SjF1KJUnOxF~VtRxaNH",
+      "width": 960,
+      "height": 1280,
+      "nsfwLevel": "X",
+      "type": "video",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-26T14:06:33.223Z",
+      "postId": 14141028,
+      "stats": {
+        "cryCount": 81,
+        "laughCount": 170,
+        "likeCount": 2081,
+        "dislikeCount": 0,
+        "heartCount": 1697,
+        "commentCount": 11
+      },
+      "meta": {
+        "prompt": "score_9, score_8_up, score_7_up,\n\n1girl, 1boy, hetero, erection, blowjob, fellatio, deepthroat, hand behind her head, hand between legs, fingering herself, touching own pussy, kneeling, (from above:1.1), closeup, close-up,\n\nyoung woman, blonde hair, dark roots, ponytail, tanned, huge breasts, perky breasts, cleavage, large eyes, closed eyes, saliva,\n\nblack stockings, open cardigan, white cardigan, cardigan below shoulders, \"no bra\", topless, nipples, \"no panties\", pussy,"
+      },
+      "username": "ocafino",
+      "baseModel": "Pony",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "340|1754014740000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=340%7C1754014740000"
+    "nextCursor": "341|1745676393223",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=341%7C1745676393223"
   }
 }
