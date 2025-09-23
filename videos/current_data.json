@@ -1,91 +1,6 @@
 {
   "items": [
     {
-      "id": 12486936,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b737c6b0-0935-4a51-b817-8b64621761f8/original=true/b737c6b0-0935-4a51-b817-8b64621761f8.jpeg",
-      "hash": "UAF=Hu?^1?xAF|x]mTM{HB%g]%VXLLxu4oMw",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-05-14T23:18:15.703Z",
-      "postId": 2759374,
-      "stats": {
-        "cryCount": 104,
-        "laughCount": 275,
-        "likeCount": 2238,
-        "dislikeCount": 0,
-        "heartCount": 1555,
-        "commentCount": 4
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 2022433130,
-        "steps": 41,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, Lara Croft, kawaii face, view from front, athletic, skinny, wet, round face, perfect cute face, ponytail, medium breasts, facing viewer, biting lip, closeup of face,  seductive look, cleavage, topless, hands above head, arched back, red thong, standing, tiny waist, narrow hips, small tight ass, ((flat stomach)), standing in a waterfall, pinup pose, official art, masterpiece, source_painted_concept_art\nBREAK",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, monochrome, bad eyes, blue skin, bad teeth, bad arms, missing limbs, poorly drawn face, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, missing fingers, extra fingers, ugly fingers,amputation, square jawline, simple background, mutilated, wide hips, deformed, disconnected limbs, worst quality, low quality, jpeg artifacts, abs, ribs, snow, simple background",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 333607
-          },
-          {
-            "type": "lycoris",
-            "weight": 1,
-            "modelVersionId": 447709
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 491364
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712
-          }
-        ]
-      },
-      "username": "screwball808",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        135867,
-        244808,
-        290640,
-        333607,
-        447709,
-        491364
-      ]
-    },
-    {
       "id": 80494754,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb24f8ea-df1c-4d85-b77b-6ad5dd0da285/original=true/eb24f8ea-df1c-4d85-b77b-6ad5dd0da285.jpeg",
       "hash": "UND[e0-UEMNH}?-TWVNHNGs:t7WCIpR+xabH",
@@ -183,10 +98,97 @@
         1714002,
         1843558
       ]
+    },
+    {
+      "id": 71452824,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c58ac0a-f426-41bf-88cf-1de1325b76a7/original=true/9c58ac0a-f426-41bf-88cf-1de1325b76a7.jpeg",
+      "hash": "UCJF}g8_TyMxt,56^QMx0gR*aKt7}@t89txu",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-22T04:00:00.000Z",
+      "postId": 15872691,
+      "stats": {
+        "cryCount": 126,
+        "laughCount": 295,
+        "likeCount": 2418,
+        "dislikeCount": 0,
+        "heartCount": 1323,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1269223346,
+        "draft": false,
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, masterpiece, Expressiveh, hyper detail, 1girl, brown hair, straight hair, long hair, perfect body, fit, sexy, light blue eyes, standing, pain face, full nelson,  motion lines, nude, rough sex, anal, penetration, warm light, kitchen",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-04-21T1116:28.2626781Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, extra arms, bad hands, bad arms, glowing eyes",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          }
+        ]
+      },
+      "username": "tips29",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "311|1749097800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=311%7C1749097800000"
+    "nextCursor": "312|1745294400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=312%7C1745294400000"
   }
 }
