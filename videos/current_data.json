@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "id": 98992431,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6ecc75c-d0c1-458a-91b5-77cb858856e3/original=true/e6ecc75c-d0c1-458a-91b5-77cb858856e3.jpeg",
-      "hash": "U6J$]X1g3o-n1j4U#90z00?Z?[^400}s01JQ",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-08T02:50:00.000Z",
-      "postId": 21964389,
-      "stats": {
-        "cryCount": 163,
-        "laughCount": 349,
-        "likeCount": 2491,
-        "dislikeCount": 0,
-        "heartCount": 1202,
-        "commentCount": 4
-      },
-      "meta": {
-        "seed": 554316770,
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "plra2, masterpiece, best quality, very aesthetic, highres, very awa, absurd resolution, highest-quality, ultra crisp, better details, ((perspective)), ((foreshortening)), (((blurry foreground))), 1girl, long sidelocks, (cashier), ((fast_food_uniform)), uniform, white_shirt, bursting_breasts, (((McDonalds))), long_sleeves, name_tag, id_card, serving, (red \\baseball\\_cap), (dressed up), huge_breasts, pointy breasts, sagging_breasts, (short bob cut), (violet_hair), (violet_eyes), (wide grin), warm, ((sexually_suggestive)), golden-hour, godrays, early morning, looking_at_viewer, ((fan service)), burger, french_fries, skindentation, dramatic lighting, harsh lighting, deep contrast, cinematic lighting, (pink nipples, bare breasts:1.3), (greeting, breasts squeezed together, v arms, happy:1.3),",
-        "denoise": 0.65,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/KRFVZZST84HRXYCXRCJQVWH710.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuRvrzRWpijCrqhkAFXt9rvVk2E86TJR75oVmJg0CbTXexV2rWu2EgdBz4PaoV5bC9RP6DqmWJijZxwyTniQQk8M_TKvxoQwg7xfO36Y1o8T_K6ntCsJeu2_51c_7k0rQSsmXdaEmMOmw970qUWgd1GLgUsW87dUiYrJ4O8HLszud5d4Al5J1Jzk00U4nA60oVUJ0TKuk6h-5CLFlebhAYNcid8NP9zo2x0Uq2XChPHyEMePWYoOOMr9lr657NShc7dcXVtp2xjHiS5lua0Taekh&exp=2026-09-07T20:46:20.0135482Z",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "worst quality, worst aesthetic, bad quality, normal quality, oldest, early, off-topic, artist request, text, artist name, signature, username, logo, watermark, copyright name, copyright symbol, resized, downscaled, source larger, low quality, lowres, bad id, bad source, jpeg artifact, artistic error, bad hands, disfigured, deformed, (((extra digits, fewer digits, missing fingers))), hyper, error, ugly, worst, tagme, unfinished, aliasing, simple background, symmetrical, monochrome, sketch, photo, icon, multiple views, sequence, comic, 2koma, 4koma, turnaround, collage, panel skew, border, frame, lossy-lossless, scan artifacts",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
-            "type": "lora",
-            "weight": 1.1,
-            "modelVersionId": 145907
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 959419
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1036362
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1056404
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1198864
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ]
-      },
-      "username": "iluvprettygirls",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        145907,
-        164821,
-        959419,
-        1036362,
-        1056404,
-        1198864,
-        1240288
-      ]
-    },
-    {
       "id": 81896151,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e52277d6-bb77-43a9-9d44-22132e9cb4d2/original=true/e52277d6-bb77-43a9-9d44-22132e9cb4d2.jpeg",
       "hash": "UNLD}lt-*JM|-S?b-pIVxtbuaK-T-TrqIUIq",
@@ -199,10 +99,68 @@
         1805073,
         1880647
       ]
+    },
+    {
+      "id": 92354989,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89f34f8d-1311-4aee-ba35-511a65f02142/original=true/89f34f8d-1311-4aee-ba35-511a65f02142.jpeg",
+      "hash": "UBBede5qOX%20~-9NHR*0g-9-AIp}@AGxZ$j",
+      "width": 768,
+      "height": 1344,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-04T23:19:51.005Z",
+      "postId": 20487229,
+      "stats": {
+        "cryCount": 206,
+        "laughCount": 304,
+        "likeCount": 2545,
+        "dislikeCount": 0,
+        "heartCount": 1149,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "768x1344",
+        "seed": 14606598771441260000,
+        "Model": "amanatsuIllustrious_v11",
+        "steps": 60,
+        "hashes": {
+          "model": "0842c2a1d8"
+        },
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, <lora:ass_up_wait.v1.3-sd:0.75>, <lora:azulaAvatarLORA_v10:0.6>, 1girl, azula, red robe, ass up wait, bedroom, candles, nightgown, grin, smug, (from behind:1.2), bathrobe, satin, (pussy:1.1), full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
+        "Version": "ComfyUI",
+        "sampler": "ddim_ddim_uniform",
+        "CFG Scale": "5.0",
+        "resources": [
+          {
+            "name": "ass_up_wait.v1.3-sd",
+            "type": "lora",
+            "weight": 0.75
+          },
+          {
+            "name": "azulaAvatarLORA_v10",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "0842c2a1d8",
+            "name": "amanatsuIllustrious_v11",
+            "type": "model"
+          }
+        ],
+        "Model hash": "0842c2a1d8",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
+      },
+      "username": "fujiangjiang",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1496755
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "300|1749739080000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=300%7C1749739080000"
+    "nextCursor": "301|1754349591005",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=301%7C1754349591005"
   }
 }
