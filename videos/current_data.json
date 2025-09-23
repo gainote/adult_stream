@@ -1,89 +1,6 @@
 {
   "items": [
     {
-      "id": 70198501,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8d501d3a-e25f-4f35-8485-c8e2b71df0ab/original=true/8d501d3a-e25f-4f35-8485-c8e2b71df0ab.jpeg",
-      "hash": "U9G84p5500~V0dE1X3-:00?H?a9Fre-V%2WB",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-15T14:23:52.242Z",
-      "postId": 15596131,
-      "stats": {
-        "cryCount": 173,
-        "laughCount": 296,
-        "likeCount": 2461,
-        "dislikeCount": 0,
-        "heartCount": 1130,
-        "commentCount": 0
-      },
-      "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1353314@1613008",
-        "extra": {},
-        "steps": 25,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1353314@1613008"
-        ],
-        "prompt": "lust_(fma),  woman, dark eyes, red lips,\ndark purple, long hair, large breasts, \n(lace dark bra), black lace panties, black garter belt straps, lace stockings, \n\n(rear top view), (on stomach), smirk, \n\n(satin sheets background, black pillow), rose petals,\n\nsexy tasteful,  (soft lighting), rich colors, detailed textures, high resolution, ultra high quality",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": " worst quality, low quality, sketch, error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowers, multiple views, signature, 3D, full coverage, modesty, tattoo, necklace, ",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1613008
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1613008
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1241428
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1613008
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1241428
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:547451@1241428",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "MatureOnly",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1241428,
-        1613008
-      ]
-    },
-    {
       "id": 83245979,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd772db6-2da5-45f5-9a3f-9294269f6734/original=true/bd772db6-2da5-45f5-9a3f-9294269f6734.jpeg",
       "hash": "UIJjF~~U4;RPENazIqNH01WE%2xtoff,s-Rj",
@@ -116,10 +33,79 @@
         1412563,
         1490781
       ]
+    },
+    {
+      "id": 76029174,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2610752-eaa0-4024-8e9b-63d7cc1facd1/original=true/b2610752-eaa0-4024-8e9b-63d7cc1facd1.jpeg",
+      "hash": "UCFOu|HX0e_N0L-mE,D%9ZM{.9Z#_3D%s9%2",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-18T07:24:46.710Z",
+      "postId": 16880606,
+      "stats": {
+        "cryCount": 141,
+        "laughCount": 312,
+        "likeCount": 2373,
+        "dislikeCount": 0,
+        "heartCount": 1228,
+        "commentCount": 2
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1227799714,
+        "draft": false,
+        "extra": {
+          "remixOfId": 59902781
+        },
+        "steps": 48,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up,\nBREAK\n(dynamic pose) 1girl, tall, slender, solo, cute,  boyish, tomboy, thin , 30 yo, (ginger hair, messy hair, double bun hairstyle, wearing white plastic halter-top , white panties, small breasts) , white choker, pearl earrings, looking at viewer, blushing, (close up on shoulder), detailed lips, detailed face, detailed hair, see through, boob focus, night, ((candles)), steamy, foggy, hazy, romantic lighting, (((haughty))), horny, turned on, (((pinup pose))), embarrassed, ((backlit)), lowlight, close up, very detailed skin, blue eyes, translucent clothing, puffy pink nipples and areolae,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-04-30T1848:40.3530620Z",
+        "negativePrompt": "Realism_Quality_2xx_By_Stable_Yogi, score_6_up, score_5_up, score_4_up, score_3_up, penis, worst_quality, low-qualitylow-res, muscular female, tanlines, anime, 3d render, cgi, child, loli, chibli, bad anatomy, bad hands, text, error, missing fingers, (extra fingers:1.5), extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name,(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, pony, censored, furry, (worst quality:1.2),",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1346181,
+            "modelVersionName": "v8"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 5637,
+            "modelVersionName": "V1 75T"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "jslaiter",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        5637,
+        135867,
+        1346181
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "335|1750423768404",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=335%7C1750423768404"
+    "nextCursor": "336|1747553086710",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=336%7C1747553086710"
   }
 }
