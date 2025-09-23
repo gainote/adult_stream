@@ -1,71 +1,6 @@
 {
   "items": [
     {
-      "id": 60517444,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/79c5af61-5b1e-40a7-bed8-226563d05c9d/original=true/79c5af61-5b1e-40a7-bed8-226563d05c9d.jpeg",
-      "hash": "UBEL+_~V9%E2xpaxRk%N00xuwa-pM_NGWAIT",
-      "width": 1560,
-      "height": 2160,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-27T22:08:29.380Z",
-      "postId": 13538454,
-      "stats": {
-        "cryCount": 119,
-        "laughCount": 247,
-        "likeCount": 2352,
-        "dislikeCount": 0,
-        "heartCount": 1386,
-        "commentCount": 7
-      },
-      "meta": {
-        "Size": "832x1152",
-        "seed": 280218432207244,
-        "Model": "realismByStableYogi_ponyV3VAE",
-        "steps": 50,
-        "hashes": {
-          "model": "4796b66fd0",
-          "LORA:sdxl\\PLRD": "d06b84d781",
-          "LORA:sdxl\\Cosine_freck": "174f792232",
-          "LORA:sdxl\\Pony_DetailV2.0": "8a2e39a88f",
-          "LORA:sdxl\\bigSaggyBreastsPony2": "3384bba192",
-          "LORA:sdxl\\S1_Dramatic_Lighting_v3": "db68bdc263",
-          "embed:Stable_Yogis_PDXL_Positives": "1454a43d6c",
-          "LORA:sdxl\\VividRealismColorEnhancer": "d371fdd98b",
-          "embed:Stable_Yogis_PDXL_Negatives-neg": "29b22709a6",
-          "LORA:sdxl\\Nipple Size Slider_alpha1.0_rank4_noxattn_last": "0b8b981029"
-        },
-        "Version": "ComfyUI",
-        "sampler": "DPM++ 2M SDE Karras",
-        "cfgScale": 24,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "4796b66fd0",
-            "name": "realismByStableYogi_ponyV3VAE",
-            "type": "model"
-          }
-        ],
-        "Model hash": "4796b66fd0"
-      },
-      "username": "prompt_bit_sorcerer",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        321609,
-        449738,
-        458702,
-        460176,
-        539244,
-        772342,
-        775151,
-        992946,
-        1280045,
-        1280571
-      ]
-    },
-    {
       "id": 94693407,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0d70acf-39d5-4f61-a04b-32b223837357/original=true/a0d70acf-39d5-4f61-a04b-32b223837357.jpeg",
       "hash": "UHM$_B4T1JNF55%29aXm9Y-;D*E1~qWBIURk",
@@ -133,10 +68,81 @@
       "modelVersionIds": [
         1180973
       ]
+    },
+    {
+      "id": 91804211,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95637293-ae05-4a71-9c61-2946a96ba20a/original=true/95637293-ae05-4a71-9c61-2946a96ba20a.jpeg",
+      "hash": "UBF}vF^+pc%MqF-=pI%2TeW=njNGoz%2v}9Z",
+      "width": 1024,
+      "height": 1024,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T21:37:49.883Z",
+      "postId": 20367340,
+      "stats": {
+        "cryCount": 221,
+        "laughCount": 395,
+        "likeCount": 2460,
+        "dislikeCount": 0,
+        "heartCount": 1019,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "1024x1024",
+        "seed": 629090905,
+        "draft": false,
+        "extra": {
+          "remixOfId": 91790503
+        },
+        "steps": 40,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two busty cute 18yo girls  edging, giving a blowjob",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-08-01T1908:44.5649681Z",
+        "experimental": false,
+        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1988773,
+            "modelVersionName": "SDXL Pony 18"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 714649,
+            "modelVersionName": "V1"
+          }
+        ]
+      },
+      "username": "brahej",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        714649,
+        1988773
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "320|1755385713920",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=320%7C1755385713920"
+    "nextCursor": "321|1754084269883",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=321%7C1754084269883"
   }
 }
