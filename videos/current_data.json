@@ -1,39 +1,6 @@
 {
   "items": [
     {
-      "id": 52848822,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f75f3ab4-450c-44a5-81c8-753b3e4cee83/original=true/f75f3ab4-450c-44a5-81c8-753b3e4cee83.jpeg",
-      "hash": "U9BfLiIAK5E201~WROEgcF4:xur=Iot79a%1",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-21T20:00:00.000Z",
-      "postId": 11873037,
-      "stats": {
-        "cryCount": 107,
-        "laughCount": 246,
-        "likeCount": 2411,
-        "dislikeCount": 0,
-        "heartCount": 1332,
-        "commentCount": 3
-      },
-      "meta": null,
-      "username": null,
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        164821,
-        382152,
-        436219,
-        438481,
-        929734,
-        1177183,
-        1212644
-      ]
-    },
-    {
       "id": 80050730,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bbdae26f-e471-49ec-9af2-5878f7d5f4e6/original=true/bbdae26f-e471-49ec-9af2-5878f7d5f4e6.jpeg",
       "hash": "U8LN718w.l9FISR-^jgO00kXD%D%ia01~qVs",
@@ -132,10 +99,115 @@
         1652667,
         1745806
       ]
+    },
+    {
+      "id": 30785158,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/73c03e6a-4189-44fa-938e-0683f12b6a35/original=true/73c03e6a-4189-44fa-938e-0683f12b6a35.jpeg",
+      "hash": "U7EeiZ0080H=9d=?w|x]0z-:#8.8RUW9XAxZ",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-09-23T05:15:00.000Z",
+      "postId": 6885305,
+      "stats": {
+        "cryCount": 147,
+        "laughCount": 271,
+        "likeCount": 2320,
+        "dislikeCount": 0,
+        "heartCount": 1354,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 62113512,
+        "extra": {
+          "remixOfId": 25802193
+        },
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_8, score_7_up, photo of cheldorado, source_anime, 1girl, solo, <lora:ChelXL:1> \nhands on breasts pushing her breasts together, holding her breasts, pushing her breasts together, breast press\nlong hair, large breasts, bangs, black hair, navel, bare shoulders, jewelry, earrings, midriff, dark skin, blunt bangs, bracelet, dark-skinned female, lips, lifted crop top, strapless, makeup, pelvic curtain, tube top, loincloth, feeling sexy, (small smile:0.5),\nbig saggy breast, teardrop breast, petite body, (large breasts;1.6), (saggy breasts:0.8), nipples,\naztec architecture, in aztec temple, dark wall pillar and blue sky in the background,\nposing for a picture arms above head, leaning to a wall, pulling up top, pulled up top, lifted her top, lifted her top, shirtlift, large breasts, nipples,\n<lora:add-detail-xl:0.6> <lora:eye_catching:0.6> <lora:Expressive_H-000001:0.8>,",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "name": "ChelXL",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "name": "add-detail-xl",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "name": "eye_catching",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "name": "Expressive_H-000001",
+            "type": "lora",
+            "weight": 0.8
+          }
+        ],
+        "Created Date": "2024-09-21T1700:11.5622353Z",
+        "negativePrompt": "score_6, score_5, score_4, (watermark, deformed, blurry, censored, low quality, text, worst quality, extra hands, monochrome:1.3), 3d, deformed fingers, muscular, mutated hands, blurry face, distorted, low res, bad hands, missing fingers, mutated hands and fingers, artist name, logo, chibi, kid, loli, monochrome background, jpeg artifacts, poorly drawn, child, lowres, mutation, bad proportions, disconnected limbs, extra limbs",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 367106,
+            "modelVersionName": "Chel XL"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "Suaisundari_Azhagi",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        290640,
+        330475,
+        367106,
+        382152
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "323|1749346920000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=323%7C1749346920000"
+    "nextCursor": "324|1727068500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=324%7C1727068500000"
   }
 }
