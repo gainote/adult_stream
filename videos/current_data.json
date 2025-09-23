@@ -1,138 +1,6 @@
 {
   "items": [
     {
-      "id": 81080755,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d45a81e9-d8c5-4f9f-b855-5785b43acbaf/original=true/d45a81e9-d8c5-4f9f-b855-5785b43acbaf.jpeg",
-      "hash": "UTK^skxaElRi_Nt7xtM{%#t7$$M{%Mt7M{M{",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-08T10:21:00.000Z",
-      "postId": 18009486,
-      "stats": {
-        "cryCount": 155,
-        "laughCount": 323,
-        "likeCount": 2411,
-        "dislikeCount": 0,
-        "heartCount": 1223,
-        "commentCount": 2
-      },
-      "meta": {
-        "seed": 1227614199,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1162518@1331188",
-        "extra": {},
-        "steps": 29,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1162518@1331188"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), detailed face, (big expressive eyes:0.9), (dynamic:1), 1girl, (curvy:0.4), blonde hair, brown eyes, city, shopping, naked, wearing belt, accessories, jewelry, necklace, sun-hat, thigh-high socks, pussy",
-        "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, loli, child, (glowing eyes:0.8), ",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1331188
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1331188
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 1169143
-          },
-          {
-            "weight": 0.2,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.4,
-            "modelVersionId": 1380520
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 1352742
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1331188
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1169143
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1380520
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1352742
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:389869@1169143",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.2,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:938811@1380520",
-            "type": "lora",
-            "strength": 0.4,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1201355@1352742",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "Plantra",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1169143,
-        1189052,
-        1331188,
-        1352742,
-        1380520
-      ]
-    },
-    {
       "id": 45831130,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce303351-369d-49d0-b818-a3c54e89012f/original=true/ce303351-369d-49d0-b818-a3c54e89012f.jpeg",
       "hash": "USINdW0K.8a0~VIU%gaKE1xtxFog$%t8M|fl",
@@ -164,10 +32,56 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 1804575,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f4c40ba-2047-4ab5-9c14-95800d78d23b/original=true/1f4c40ba-2047-4ab5-9c14-95800d78d23b.jpeg",
+      "hash": "UFH1}L4:X+9ZRP?G.7tR?uR*Rk-:~WR-RQE1",
+      "width": 640,
+      "height": 960,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2023-07-31T08:27:16.052Z",
+      "postId": 447895,
+      "stats": {
+        "cryCount": 103,
+        "laughCount": 266,
+        "likeCount": 2132,
+        "dislikeCount": 0,
+        "heartCount": 1606,
+        "commentCount": 29
+      },
+      "meta": {
+        "Size": "640x960",
+        "seed": 2233280225,
+        "Model": "Realistic_Vision_V5.1",
+        "steps": 25,
+        "hashes": {
+          "model": "ef76aa2332"
+        },
+        "prompt": "instagram photo, closeup face photo of 23 y.o Chloe in black sweater, cleavage, pale skin, (smile:0.4), hard shadows",
+        "Version": "v1.5.1",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 10,
+        "resources": [
+          {
+            "hash": "ef76aa2332",
+            "name": "Realistic_Vision_V5.1",
+            "type": "model"
+          }
+        ],
+        "Model hash": "ef76aa2332",
+        "negativePrompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, disconnected limbs, mutation, mutated, ugly, disgusting, amputation"
+      },
+      "username": "SG_161222",
+      "baseModel": "SD 1.5",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "316|1734356976095",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=316%7C1734356976095"
+    "nextCursor": "317|1690792036052",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=317%7C1690792036052"
   }
 }
