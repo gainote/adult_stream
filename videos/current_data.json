@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "id": 90990030,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5791c64-b4a7-47f0-9736-e41403a58fc3/original=true/a5791c64-b4a7-47f0-9736-e41403a58fc3.jpeg",
-      "hash": "UXE{kGxZ%gj?~pxttRf6IUxaV@j[9Zt6RPt7",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-28T15:31:00.000Z",
-      "postId": 20179503,
-      "stats": {
-        "cryCount": 227,
-        "laughCount": 354,
-        "likeCount": 2470,
-        "dislikeCount": 0,
-        "heartCount": 995,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 3792203765,
-        "draft": false,
-        "extra": {
-          "remixOfId": 27579895
-        },
-        "steps": 19,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, flat-chested natural breasts, 18-year-old gorgeous slim caucasian bimbo girl, 1girl, long blonde hair, (long hair), tight tank top with cleavage, tank top that covers majority of stomach, wearing tight black yoga pants, gorgeous girl, big round ass, huge bubble butt, (looking over shoulder back at viewer), background is inside a busy workout gym, (tank top covers most of belly), braless, hard nipples, slight side angle, sexy smile, huge boobs, (very close up), (rear angle, viewed from behind, from behind view), hands under ass, ass support, hands grabbing ass, wearing cute thin frame round glasses, young,",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-05T2345:50.9775400Z",
-        "experimental": false,
-        "negativePrompt": "(deformed, bad anatomy, disfigured, mutated hands, mutated fingers, cropped, censured, crop, extra fingers, penis, cartoon, animate, Eye deformation, hand deformation, finger deformation, Worst quality, low quality, irreal, painting, Low definition, deformed face, Deformed eyes, <lora:easynegative:1>:1), denim top, dolphins, fat, huge tits, (watermark), ( woman)",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1906612,
-            "modelVersionName": "SDXL Pony 17"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 530596,
-            "modelVersionName": "Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 2.1,
-            "modelVersionId": 533085,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "wafflepirate",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        530596,
-        533085,
-        1906612
-      ]
-    },
-    {
       "id": 97498463,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53826e55-1a65-42d1-8455-8b931a1815eb/original=true/53826e55-1a65-42d1-8455-8b931a1815eb.jpeg",
       "hash": "U7Bf-OI900-;;0=}D$5R00^i?b4:5SEj~WR4",
@@ -133,10 +61,91 @@
       "modelVersionIds": [
         1761560
       ]
+    },
+    {
+      "id": 59180577,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/57ed7037-911c-4b75-8f20-3a6669071cde/original=true/57ed7037-911c-4b75-8f20-3a6669071cde.jpeg",
+      "hash": "UTID]oS$X7Md~V-:RjD%-;R*RkIVI]xt9uR*",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-21T10:03:00.000Z",
+      "postId": 13238489,
+      "stats": {
+        "cryCount": 133,
+        "laughCount": 266,
+        "likeCount": 2484,
+        "dislikeCount": 0,
+        "heartCount": 1154,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1334833657,
+        "draft": false,
+        "extra": {
+          "remixOfId": 56156779
+        },
+        "steps": 13,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_anime,\n BREAK\n1girl, short blonde hair, messy, brown eyes, large breasts, firm, knight armor, half-removed, sweaty skin, seductive wink, looking at viewer, from side, tent interior, lantern glow, fur rug, bold stance\n BREAK\ndynamic light, warm_light, warm_colors, high contrast, depth of field, golden hour lighting, dramatic shadows, rich details,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-02-21T0849:48.9692730Z",
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, , FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, big nose,(((face)))",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1345991,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1395723,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "Buzz_lover",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        817261,
+        1345991,
+        1395723
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "338|1756719415123",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=338%7C1756719415123"
+    "nextCursor": "339|1740132180000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=339%7C1740132180000"
   }
 }
