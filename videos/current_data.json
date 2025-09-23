@@ -1,61 +1,6 @@
 {
   "items": [
     {
-      "id": 91410959,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e5e345f9-de29-4ec3-8781-6e96558fc595/original=true/e5e345f9-de29-4ec3-8781-6e96558fc595.jpeg",
-      "hash": "UCE2tf.8}7x]%LMw4nWB0NIo0Mt7Gb%MElt7",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-03T00:00:00.000Z",
-      "postId": 20278576,
-      "stats": {
-        "cryCount": 266,
-        "laughCount": 406,
-        "likeCount": 2434,
-        "dislikeCount": 0,
-        "heartCount": 958,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1012717960,
-        "draft": false,
-        "steps": 19,
-        "width": 832,
-        "height": 1216,
-        "prompt": "Anthro, furry, wolf, short hair, gray hair, red eyes, wide hips, thin waist, latex, gray fur, ahoge, long tail, solo, big bulge, expressionless face, butler, male, hair over one eye, castle, bedroom,",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-30T1659:12.8260650Z",
-        "experimental": false,
-        "negativePrompt": "lipstick, Nail polish, muscular, sweat, 3d, forehead gem, worst quality, low quality, watermark, signature, simple background, bad anatomy, bad hands, deformed limbs, blurry, cropped, cross-eyed, extra arms, speech bubble, extra legs, extra limbs, bad proportions, poorly drawn hands, text, flat background",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
-          }
-        ]
-      },
-      "username": "Princess_Aurelie",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1761560
-      ]
-    },
-    {
       "id": 70198501,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8d501d3a-e25f-4f35-8485-c8e2b71df0ab/original=true/8d501d3a-e25f-4f35-8485-c8e2b71df0ab.jpeg",
       "hash": "U9G84p5500~V0dE1X3-:00?H?a9Fre-V%2WB",
@@ -137,10 +82,44 @@
         1241428,
         1613008
       ]
+    },
+    {
+      "id": 83245979,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd772db6-2da5-45f5-9a3f-9294269f6734/original=true/bd772db6-2da5-45f5-9a3f-9294269f6734.jpeg",
+      "hash": "UIJjF~~U4;RPENazIqNH01WE%2xtoff,s-Rj",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-20T12:49:28.404Z",
+      "postId": 18488001,
+      "stats": {
+        "cryCount": 162,
+        "laughCount": 300,
+        "likeCount": 2470,
+        "dislikeCount": 0,
+        "heartCount": 1123,
+        "commentCount": 1
+      },
+      "meta": null,
+      "username": "Kalrdr",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        9208,
+        111363,
+        164821,
+        333245,
+        372639,
+        1024244,
+        1412563,
+        1490781
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "334|1744727032242",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=334%7C1744727032242"
+    "nextCursor": "335|1750423768404",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=335%7C1750423768404"
   }
 }
