@@ -1,107 +1,6 @@
 {
   "items": [
     {
-      "id": 89130938,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f814d6ab-bd3f-4e7c-a7f9-1641963f7f4b/original=true/f814d6ab-bd3f-4e7c-a7f9-1641963f7f4b.jpeg",
-      "hash": "U4FEr=}XyY*J00IoI9IU00-;x[9G0ek?xu^j",
-      "width": 3840,
-      "height": 2688,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-19T07:55:00.000Z",
-      "postId": 19773952,
-      "stats": {
-        "cryCount": 136,
-        "laughCount": 275,
-        "likeCount": 2490,
-        "dislikeCount": 0,
-        "heartCount": 1171,
-        "commentCount": 2
-      },
-      "meta": {
-        "seed": 502585196,
-        "vaes": [],
-        "extra": {},
-        "steps": 25,
-        "width": 1216,
-        "height": 832,
-        "models": [],
-        "prompt": "score_9,score_8_up,score_7_up, 1 tanned curvy italian girl, hot girl, round face, thin nose, long hair, hair in pigtails , brown hair, (oversized huge breasts), sexy face, narrow face, makeup, view back, ass focus, pussy, anus, extremely detailed skin, natural skin texture, Cute pajamas top , pajamas top pulled over midriff , lifting shirt, pierced belly button , close up view, on knees, knees spread wide, all fours, ass up, round ass, creampie, In bedroom, frat house BREAK on bed, By night, pajamas down, anus, pussy, (puffy labia:1.4), beautiful woman, intimate photo, realistic image, dim light, cozy atmosphere, perfect lighting, perfect shadows, shiny skin, perfect reflections, lots of shadows, hairy pussy, unshaved ass, unshaved vagina, hairy vagina, goth makeup, black hair, garter belt on, black high socks, dripping pussy, 1boy, body out of frame, head out of frame, (perfect cock, beautiful cock, cumdrip, large testicles), male_masturbation,",
-        "denoise": 0.4,
-        "process": "img2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 12,
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "19:13",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/7G8JE13FF0FSK9DX27TCG8Z4D0.jpeg",
-          "width": 1216,
-          "height": 832
-        },
-        "experimental": false,
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx, \n   score_6, score_5, score_4, worst quality, low quality, deformed body, child, young, big ass, wide hips,",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1971591
-          },
-          {
-            "weight": 1.05,
-            "modelVersionId": 1242203
-          },
-          {
-            "weight": 1.25,
-            "modelVersionId": 1420899
-          },
-          {
-            "weight": 1.8,
-            "modelVersionId": 1926656
-          },
-          {
-            "weight": 3.1,
-            "modelVersionId": 1681921
-          },
-          {
-            "weight": -1.2,
-            "modelVersionId": 1386847
-          },
-          {
-            "weight": 1.35,
-            "modelVersionId": 1851961
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
-      },
-      "username": "klaabu",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        164821,
-        1242203,
-        1386847,
-        1420899,
-        1681921,
-        1851961,
-        1926656,
-        1971591
-      ]
-    },
-    {
       "id": 67932370,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a206092-97e9-4a37-8b7a-23cf883d5daa/original=true/2a206092-97e9-4a37-8b7a-23cf883d5daa.jpeg",
       "hash": "UNL;8DNG*0~pL2xu-A%ME1e-VYMxNHR*MxV@",
@@ -220,10 +119,91 @@
         596072,
         728486
       ]
+    },
+    {
+      "id": 57572209,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d51061ee-ec41-41d5-b34e-3aab488a4485/original=true/d51061ee-ec41-41d5-b34e-3aab488a4485.jpeg",
+      "hash": "USJH%M4TK*x^=s9ZITR5~pR4x^t85qV?oNX8",
+      "width": 1240,
+      "height": 2080,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-15T12:30:00.000Z",
+      "postId": 12885171,
+      "stats": {
+        "cryCount": 151,
+        "laughCount": 278,
+        "likeCount": 2537,
+        "dislikeCount": 0,
+        "heartCount": 1103,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 515628685416232,
+        "Model": "waiNSFWIllustrious_v100.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "7e87327f89",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, nsfw, explicit, 1girl, solo, pale pink hair, (heterochromia:1.1), (blue eyes:0.9), round glasses, pink eyebrows, eyelashes, small breasts, looking at viewer, white shirt, completely soaked, translucent fabric, denim shorts, (unbuttoned:1.2) shorts, wet skin, wet hair slicked back, standing near pool, hair flip, seductive smile, outdoors, private villa poolside, tropical greenery, crystal clear water, luxury pool chairs, bright summer sunlight, (dark shadows:1.0), high contrast, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:-1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.9> <lora:klskx_wai:0.8>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.9
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora"
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7e87327f89",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, earrings, tanlines, bra"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1367422
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "330|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=330%7C1743786969925"
+    "nextCursor": "331|1739622600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=331%7C1739622600000"
   }
 }
