@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "id": 91804211,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95637293-ae05-4a71-9c61-2946a96ba20a/original=true/95637293-ae05-4a71-9c61-2946a96ba20a.jpeg",
-      "hash": "UBF}vF^+pc%MqF-=pI%2TeW=njNGoz%2v}9Z",
-      "width": 1024,
-      "height": 1024,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T21:37:49.883Z",
-      "postId": 20367340,
-      "stats": {
-        "cryCount": 221,
-        "laughCount": 395,
-        "likeCount": 2460,
-        "dislikeCount": 0,
-        "heartCount": 1019,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "1024x1024",
-        "seed": 629090905,
-        "draft": false,
-        "extra": {
-          "remixOfId": 91790503
-        },
-        "steps": 40,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two busty cute 18yo girls  edging, giving a blowjob",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-08-01T1908:44.5649681Z",
-        "experimental": false,
-        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1988773,
-            "modelVersionName": "SDXL Pony 18"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 714649,
-            "modelVersionName": "V1"
-          }
-        ]
-      },
-      "username": "brahej",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        714649,
-        1988773
-      ]
-    },
-    {
       "id": 52848822,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f75f3ab4-450c-44a5-81c8-753b3e4cee83/original=true/f75f3ab4-450c-44a5-81c8-753b3e4cee83.jpeg",
       "hash": "U9BfLiIAK5E201~WROEgcF4:xur=Iot79a%1",
@@ -103,10 +32,110 @@
         1177183,
         1212644
       ]
+    },
+    {
+      "id": 80050730,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bbdae26f-e471-49ec-9af2-5878f7d5f4e6/original=true/bbdae26f-e471-49ec-9af2-5878f7d5f4e6.jpeg",
+      "hash": "U8LN718w.l9FISR-^jgO00kXD%D%ia01~qVs",
+      "width": 1920,
+      "height": 2816,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-08T01:42:00.000Z",
+      "postId": 17780808,
+      "stats": {
+        "cryCount": 157,
+        "laughCount": 308,
+        "likeCount": 2483,
+        "dislikeCount": 0,
+        "heartCount": 1145,
+        "commentCount": 0
+      },
+      "meta": {
+        "seed": 1304294846,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
+        "extra": {},
+        "steps": 30,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
+        ],
+        "prompt": "1girl, solo, bright blue eyes, black hair, long hair, wavy hair, hair down, bangs, hime cut, blush stickers, gyaru, blonde hair, multicolored hair, gradient hair, streaked hair, blonde highlights, blonde streaks, masterpiece, best quality, absurdres, large breasts, bimbo, tan,\nkogal, amesuku gyaru, tied shirt, shirt tied under breasts, gold micro bikini, plaid skirt, pleated skirt, (microskirt), gold thong, satin thong, panty straps, highleg, midriff, groin, loose belt, gold belt buckle, hair scrunchie, bracelets, wrist scrunchie, hoop earrings, pearl necklace, gold collar, heart collar, padlocked collar, white thighhighs, lace trim thighhighs, garter straps, \ngold lipstick, thick lips, fake eyelashes, (gold eyeshadow:1.2), gold makeup, nail polish, gold nails,\nindoors, bedroom, \nstanding, indoors, solo, one hand on hip, v, smile, parted lips, half-closed eyes,\nintricate, highly detailed, dutch angle",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "lowres, (bad), bad anatomy, text, error, fewer, extra, missing, cropped, worst quality, jpeg artifacts, low quality, signature, watermark, username, artist name, blurry, extra limb, missing limb, (mutation, mutated), disconnected, unfinished, ugly, disgusting, displeasing, amputation, extra digits, artistic error, cameltoe, partially visible vulva, bottomless, tanlines, belly",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1745806
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1652667
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1490781
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1745806
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1652667
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1542932@1745806",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1461427@1652667",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "Zlia",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        164821,
+        1490781,
+        1652667,
+        1745806
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "322|1737489600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=322%7C1737489600000"
+    "nextCursor": "323|1749346920000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=323%7C1749346920000"
   }
 }
