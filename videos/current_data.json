@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 76029174,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2610752-eaa0-4024-8e9b-63d7cc1facd1/original=true/b2610752-eaa0-4024-8e9b-63d7cc1facd1.jpeg",
-      "hash": "UCFOu|HX0e_N0L-mE,D%9ZM{.9Z#_3D%s9%2",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-18T07:24:46.710Z",
-      "postId": 16880606,
-      "stats": {
-        "cryCount": 141,
-        "laughCount": 312,
-        "likeCount": 2373,
-        "dislikeCount": 0,
-        "heartCount": 1228,
-        "commentCount": 2
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1227799714,
-        "draft": false,
-        "extra": {
-          "remixOfId": 59902781
-        },
-        "steps": 48,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up,\nBREAK\n(dynamic pose) 1girl, tall, slender, solo, cute,  boyish, tomboy, thin , 30 yo, (ginger hair, messy hair, double bun hairstyle, wearing white plastic halter-top , white panties, small breasts) , white choker, pearl earrings, looking at viewer, blushing, (close up on shoulder), detailed lips, detailed face, detailed hair, see through, boob focus, night, ((candles)), steamy, foggy, hazy, romantic lighting, (((haughty))), horny, turned on, (((pinup pose))), embarrassed, ((backlit)), lowlight, close up, very detailed skin, blue eyes, translucent clothing, puffy pink nipples and areolae,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-04-30T1848:40.3530620Z",
-        "negativePrompt": "Realism_Quality_2xx_By_Stable_Yogi, score_6_up, score_5_up, score_4_up, score_3_up, penis, worst_quality, low-qualitylow-res, muscular female, tanlines, anime, 3d render, cgi, child, loli, chibli, bad anatomy, bad hands, text, error, missing fingers, (extra fingers:1.5), extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name,(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, pony, censored, furry, (worst quality:1.2),",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1346181,
-            "modelVersionName": "v8"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 5637,
-            "modelVersionName": "V1 75T"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "jslaiter",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        5637,
-        135867,
-        1346181
-      ]
-    },
-    {
       "id": 90990030,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5791c64-b4a7-47f0-9736-e41403a58fc3/original=true/a5791c64-b4a7-47f0-9736-e41403a58fc3.jpeg",
       "hash": "UXE{kGxZ%gj?~pxttRf6IUxaV@j[9Zt6RPt7",
@@ -140,10 +71,72 @@
         533085,
         1906612
       ]
+    },
+    {
+      "id": 97498463,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53826e55-1a65-42d1-8455-8b931a1815eb/original=true/53826e55-1a65-42d1-8455-8b931a1815eb.jpeg",
+      "hash": "U7Bf-OI900-;;0=}D$5R00^i?b4:5SEj~WR4",
+      "width": 1536,
+      "height": 2048,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-01T09:36:55.123Z",
+      "postId": 21630558,
+      "stats": {
+        "cryCount": 184,
+        "laughCount": 289,
+        "likeCount": 2555,
+        "dislikeCount": 0,
+        "heartCount": 1016,
+        "commentCount": 0
+      },
+      "meta": {
+        "VAE": "sdxl_vae.safetensors",
+        "Size": "768x1024",
+        "seed": 530734796,
+        "Model": "waiNSFWIllustrious_v140",
+        "steps": 27,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "bdb59bac77",
+          "lora:tentacle_wrapping": "7f91db6d2a6e"
+        },
+        "prompt": "tentacle_wrapping, tentacles,tentacle wrapping torsos, tentacle wrapping legs, tentacle wrapping arms,1girl,(Thick tentacles wrap around whole body many times:1.3),one-eye closed, open mouth,night, simple background, darkness enviroment,<lora:tentacle_wrapping:0.9> black tentacles,,girl suspended,one breasts out,torn clothes,\ntentacle sex, sex from behind, head back,\nyumehara nozomi, hair bun,long hair,ribbon,pink dress, magical girl costume,(large breasts:0.8),, masterpiece,best quality,amazing quality,ultra detailed, very aesthetic,absurdres,skinny,general,highres, ultra-detailed, amazing quality, newest, scenery,beautiful detailed hair, beautiful detailed eyes, beautiful detailed face, dynamic lighting, super detailed skin,sharp focus,",
+        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "7f91db6d2a6e",
+            "name": "tentacle_wrapping",
+            "type": "lora",
+            "weight": 0.9
+          },
+          {
+            "hash": "bdb59bac77",
+            "name": "waiNSFWIllustrious_v140",
+            "type": "model"
+          }
+        ],
+        "Model hash": "bdb59bac77",
+        "Hires steps": "12",
+        "Hires upscale": "2",
+        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
+        "negativePrompt": "(interlocked fingers, badly drawn hands and fingers, anatomically incorrect hands),(extra digit:1.1),head_out_of_frame,NEGATIVE_HANDS,multiple girls,lowres,(bad quality,worst quality:1.2),bad anatomy,sketch,jpeg artifacts,poorly drawn,(censor),blurry,watermark,score_6 , score_5 , score_4 , source_furry, source_pony, source_cartoon, lowres, bad_anatomy, bad_hands, deformed anatomy, worst_quality, low_quality, normal_quality, jpeg_artifacts, signature, watermark, monochrome,very displeasing,",
+        "Denoising strength": "0.12"
+      },
+      "username": "shiashibaK",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1761560
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "337|1753716660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=337%7C1753716660000"
+    "nextCursor": "338|1756719415123",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=338%7C1756719415123"
   }
 }
