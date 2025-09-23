@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "id": 91790131,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3f7ec95-d82f-4d69-9ebd-855917938870/original=true/a3f7ec95-d82f-4d69-9ebd-855917938870.jpeg",
-      "hash": "U5Enkn5T0K%2039^s+V[00I;?FI;~VxFELS2",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T17:55:04.397Z",
-      "postId": 20364375,
-      "stats": {
-        "cryCount": 234,
-        "laughCount": 389,
-        "likeCount": 2411,
-        "dislikeCount": 0,
-        "heartCount": 1047,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 59209694,
-        "steps": 25,
-        "prompt": "score_9, s\nscore_9, score_8_up, score_8, score_7_up,  Medusa, sn4k3h41r, , snake hair, having sex, Expressiveh, taking of her cloth, pantie, pussy,  ,  exposed breasts, (sagging_breasts:0.8), penetration , toga , greek mythology, brutal anal , topless, , dogggie style, night, greek temple",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-08-01T1647:51.4116525Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, 3d, monochrome",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 413502,
-            "modelVersionName": "V1"
-          }
-        ]
-      },
-      "username": "sinuhetheforth",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        290640,
-        382152,
-        398847,
-        413502,
-        436219
-      ]
-    },
-    {
       "id": 89130938,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f814d6ab-bd3f-4e7c-a7f9-1641963f7f4b/original=true/f814d6ab-bd3f-4e7c-a7f9-1641963f7f4b.jpeg",
       "hash": "U4FEr=}XyY*J00IoI9IU00-;x[9G0ek?xu^j",
@@ -180,10 +100,130 @@
         1926656,
         1971591
       ]
+    },
+    {
+      "id": 67932370,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a206092-97e9-4a37-8b7a-23cf883d5daa/original=true/2a206092-97e9-4a37-8b7a-23cf883d5daa.jpeg",
+      "hash": "UNL;8DNG*0~pL2xu-A%ME1e-VYMxNHR*MxV@",
+      "width": 1920,
+      "height": 2880,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-04T17:16:09.925Z",
+      "postId": 15100667,
+      "stats": {
+        "cryCount": 194,
+        "laughCount": 323,
+        "likeCount": 2408,
+        "dislikeCount": 0,
+        "heartCount": 1147,
+        "commentCount": 0
+      },
+      "meta": {
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 2586227553,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 79,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:SJ Style": "1f179d534e0a",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:Sinozick Style": "fe4dcbd1435d",
+          "lora:Super Mix Lora": "1fa409cfa4bd",
+          "lora:My private model": "73d3eeff35f0",
+          "lora:Korean Manhwa mix": "02e51928d5e9",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Anime Consistency v1.1 LOHA": "7ad45cc8bb23",
+          "lora:Bra embellishments enhancer": "9d22b7ef3974"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,\n1girl, solo,aqua hair, brown eyes, (bangs:1.5), straight hair, very long hair,  close up, hoop earrings, young girl,\nbra, lace-trimmed bra, black bra, black thong, highleg, lace-trimmed thong, bare stomach, micro bra, looking at viewer, string bra, groin, \n(large breasts:1.5), (head tilt), (twisted torso:1.5),  \ncowboy shot,\nlight smile, parted lips,\nurushihara satoshi style, JabarandP, dim lighting, backlighting,\nabstract background, white curtains, blurry background, pale skin,\n<lora:Anime Consistency v1.1 LOHA:0.35>, <lora:Super Mix Lora:0.35>, <lora:SJ Style:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick Style:0.2>, <lora:My private model:0.1>, <lora:Korean Manhwa mix:0.1>,  <lora:Bra embellishments enhancer:0.8>,   <lora:Implants2:0.6> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "7ad45cc8bb23",
+            "name": "Anime Consistency v1.1 LOHA",
+            "type": "lora"
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "Super Mix Lora",
+            "type": "lora"
+          },
+          {
+            "hash": "1f179d534e0a",
+            "name": "SJ Style",
+            "type": "lora"
+          },
+          {
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick Style",
+            "type": "lora"
+          },
+          {
+            "hash": "73d3eeff35f0",
+            "name": "My private model",
+            "type": "lora"
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Korean Manhwa mix",
+            "type": "lora"
+          },
+          {
+            "hash": "9d22b7ef3974",
+            "name": "Bra embellishments enhancer",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
+          }
+        ],
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "25",
+        "Hires upscale": "2",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "bed, nipples,  (forehead:1.5),  beard, (plant:1.5), leaf:1.5, 6fingers:1.5, (lace straps:1.5),  visible veins, visible thread veins, suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, pencil, sunglasses,",
+        "Denoising strength": "0.02"
+      },
+      "username": "ceii0502382",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "329|1752911700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=329%7C1752911700000"
+    "nextCursor": "330|1743786969925",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=330%7C1743786969925"
   }
 }
