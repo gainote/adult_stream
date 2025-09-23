@@ -1,40 +1,6 @@
 {
   "items": [
     {
-      "id": 83245979,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd772db6-2da5-45f5-9a3f-9294269f6734/original=true/bd772db6-2da5-45f5-9a3f-9294269f6734.jpeg",
-      "hash": "UIJjF~~U4;RPENazIqNH01WE%2xtoff,s-Rj",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-20T12:49:28.404Z",
-      "postId": 18488001,
-      "stats": {
-        "cryCount": 162,
-        "laughCount": 300,
-        "likeCount": 2470,
-        "dislikeCount": 0,
-        "heartCount": 1123,
-        "commentCount": 1
-      },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        333245,
-        372639,
-        1024244,
-        1412563,
-        1490781
-      ]
-    },
-    {
       "id": 76029174,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2610752-eaa0-4024-8e9b-63d7cc1facd1/original=true/b2610752-eaa0-4024-8e9b-63d7cc1facd1.jpeg",
       "hash": "UCFOu|HX0e_N0L-mE,D%9ZM{.9Z#_3D%s9%2",
@@ -102,10 +68,82 @@
         135867,
         1346181
       ]
+    },
+    {
+      "id": 90990030,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5791c64-b4a7-47f0-9736-e41403a58fc3/original=true/a5791c64-b4a7-47f0-9736-e41403a58fc3.jpeg",
+      "hash": "UXE{kGxZ%gj?~pxttRf6IUxaV@j[9Zt6RPt7",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-28T15:31:00.000Z",
+      "postId": 20179503,
+      "stats": {
+        "cryCount": 227,
+        "laughCount": 354,
+        "likeCount": 2470,
+        "dislikeCount": 0,
+        "heartCount": 995,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3792203765,
+        "draft": false,
+        "extra": {
+          "remixOfId": 27579895
+        },
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, flat-chested natural breasts, 18-year-old gorgeous slim caucasian bimbo girl, 1girl, long blonde hair, (long hair), tight tank top with cleavage, tank top that covers majority of stomach, wearing tight black yoga pants, gorgeous girl, big round ass, huge bubble butt, (looking over shoulder back at viewer), background is inside a busy workout gym, (tank top covers most of belly), braless, hard nipples, slight side angle, sexy smile, huge boobs, (very close up), (rear angle, viewed from behind, from behind view), hands under ass, ass support, hands grabbing ass, wearing cute thin frame round glasses, young,",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-05T2345:50.9775400Z",
+        "experimental": false,
+        "negativePrompt": "(deformed, bad anatomy, disfigured, mutated hands, mutated fingers, cropped, censured, crop, extra fingers, penis, cartoon, animate, Eye deformation, hand deformation, finger deformation, Worst quality, low quality, irreal, painting, Low definition, deformed face, Deformed eyes, <lora:easynegative:1>:1), denim top, dolphins, fat, huge tits, (watermark), ( woman)",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1906612,
+            "modelVersionName": "SDXL Pony 17"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 530596,
+            "modelVersionName": "Pony"
+          },
+          {
+            "type": "lora",
+            "weight": 2.1,
+            "modelVersionId": 533085,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "wafflepirate",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        530596,
+        533085,
+        1906612
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "336|1747553086710",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=336%7C1747553086710"
+    "nextCursor": "337|1753716660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=337%7C1753716660000"
   }
 }
