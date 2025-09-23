@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "id": 80050730,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bbdae26f-e471-49ec-9af2-5878f7d5f4e6/original=true/bbdae26f-e471-49ec-9af2-5878f7d5f4e6.jpeg",
-      "hash": "U8LN718w.l9FISR-^jgO00kXD%D%ia01~qVs",
-      "width": 1920,
-      "height": 2816,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-08T01:42:00.000Z",
-      "postId": 17780808,
-      "stats": {
-        "cryCount": 157,
-        "laughCount": 308,
-        "likeCount": 2483,
-        "dislikeCount": 0,
-        "heartCount": 1145,
-        "commentCount": 0
-      },
-      "meta": {
-        "seed": 1304294846,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
-        "extra": {},
-        "steps": 30,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
-        ],
-        "prompt": "1girl, solo, bright blue eyes, black hair, long hair, wavy hair, hair down, bangs, hime cut, blush stickers, gyaru, blonde hair, multicolored hair, gradient hair, streaked hair, blonde highlights, blonde streaks, masterpiece, best quality, absurdres, large breasts, bimbo, tan,\nkogal, amesuku gyaru, tied shirt, shirt tied under breasts, gold micro bikini, plaid skirt, pleated skirt, (microskirt), gold thong, satin thong, panty straps, highleg, midriff, groin, loose belt, gold belt buckle, hair scrunchie, bracelets, wrist scrunchie, hoop earrings, pearl necklace, gold collar, heart collar, padlocked collar, white thighhighs, lace trim thighhighs, garter straps, \ngold lipstick, thick lips, fake eyelashes, (gold eyeshadow:1.2), gold makeup, nail polish, gold nails,\nindoors, bedroom, \nstanding, indoors, solo, one hand on hip, v, smile, parted lips, half-closed eyes,\nintricate, highly detailed, dutch angle",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "lowres, (bad), bad anatomy, text, error, fewer, extra, missing, cropped, worst quality, jpeg artifacts, low quality, signature, watermark, username, artist name, blurry, extra limb, missing limb, (mutation, mutated), disconnected, unfinished, ugly, disgusting, displeasing, amputation, extra digits, artistic error, cameltoe, partially visible vulva, bottomless, tanlines, belly",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1745806
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1652667
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1490781
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1745806
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1652667
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1542932@1745806",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1461427@1652667",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "Zlia",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1490781,
-        1652667,
-        1745806
-      ]
-    },
-    {
       "id": 30785158,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/73c03e6a-4189-44fa-938e-0683f12b6a35/original=true/73c03e6a-4189-44fa-938e-0683f12b6a35.jpeg",
       "hash": "U7EeiZ0080H=9d=?w|x]0z-:#8.8RUW9XAxZ",
@@ -204,10 +104,44 @@
         367106,
         382152
       ]
+    },
+    {
+      "id": 83039874,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ede80d6b-48ce-4102-9f9d-7ea2271af65a/original=true/ede80d6b-48ce-4102-9f9d-7ea2271af65a.jpeg",
+      "hash": "UFF%A4#lyZE200q[5Q9F^Q%grDrD5;TJx]n%",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-20T12:49:28.404Z",
+      "postId": 18442428,
+      "stats": {
+        "cryCount": 184,
+        "laughCount": 333,
+        "likeCount": 2505,
+        "dislikeCount": 0,
+        "heartCount": 1067,
+        "commentCount": 1
+      },
+      "meta": null,
+      "username": "Kalrdr",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        9208,
+        111363,
+        164821,
+        333245,
+        372639,
+        1412563,
+        1425924,
+        1490781
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "324|1727068500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=324%7C1727068500000"
+    "nextCursor": "325|1750423768404",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=325%7C1750423768404"
   }
 }
