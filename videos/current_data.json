@@ -1,64 +1,6 @@
 {
   "items": [
     {
-      "id": 92354989,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89f34f8d-1311-4aee-ba35-511a65f02142/original=true/89f34f8d-1311-4aee-ba35-511a65f02142.jpeg",
-      "hash": "UBBede5qOX%20~-9NHR*0g-9-AIp}@AGxZ$j",
-      "width": 768,
-      "height": 1344,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-04T23:19:51.005Z",
-      "postId": 20487229,
-      "stats": {
-        "cryCount": 206,
-        "laughCount": 304,
-        "likeCount": 2545,
-        "dislikeCount": 0,
-        "heartCount": 1149,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "768x1344",
-        "seed": 14606598771441260000,
-        "Model": "amanatsuIllustrious_v11",
-        "steps": 60,
-        "hashes": {
-          "model": "0842c2a1d8"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, <lora:ass_up_wait.v1.3-sd:0.75>, <lora:azulaAvatarLORA_v10:0.6>, 1girl, azula, red robe, ass up wait, bedroom, candles, nightgown, grin, smug, (from behind:1.2), bathrobe, satin, (pussy:1.1), full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
-        "Version": "ComfyUI",
-        "sampler": "ddim_ddim_uniform",
-        "CFG Scale": "5.0",
-        "resources": [
-          {
-            "name": "ass_up_wait.v1.3-sd",
-            "type": "lora",
-            "weight": 0.75
-          },
-          {
-            "name": "azulaAvatarLORA_v10",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "0842c2a1d8",
-            "name": "amanatsuIllustrious_v11",
-            "type": "model"
-          }
-        ],
-        "Model hash": "0842c2a1d8",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
-      },
-      "username": "fujiangjiang",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1496755
-      ]
-    },
-    {
       "id": 83039082,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0e01efdc-3472-4369-914a-18cb6b0a5d88/original=true/0e01efdc-3472-4369-914a-18cb6b0a5d88.jpeg",
       "hash": "UPKTxl~qTKNH~VxukrkC0L%Mjct7t8%LD%Rj",
@@ -90,10 +32,106 @@
         1412563,
         1490781
       ]
+    },
+    {
+      "id": 98246371,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af911cc9-44b0-4275-b242-4faa8ee4e893/original=true/af911cc9-44b0-4275-b242-4faa8ee4e893.jpeg",
+      "hash": "UOG*WoNH9aS4~pV@M{j[?aV@jEo0.7afIooL",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-05T09:41:00.102Z",
+      "postId": 21798255,
+      "stats": {
+        "cryCount": 183,
+        "laughCount": 321,
+        "likeCount": 2551,
+        "dislikeCount": 0,
+        "heartCount": 1121,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 2053889671,
+        "draft": false,
+        "steps": 18,
+        "width": 832,
+        "height": 1216,
+        "prompt": "18yo, score_9, score_8_up, score_8, sexy girl, denim jacket, breasts exposed, cute sexy blonde hair, pale skin, body freckles, slender body,  medium perfectly round breasts, leash around neck, petite body, in a workshop, dirty, (workshop garage:1.5), (mechanic workshop:1.5), (mechanic garage:1.5), cum on face, cum in hair, cum on breasts, looking_longingly, seductive, sexy_woman, panties aside, ((People watching and filming on smartphone)). (Detailed tongue and kips), huge penis, veiny penis, foreskin, precum oozing. Blowjob, holding penis. Blowbang. Orgasm. Cumming, cinematic lighting, volumetric lighting, cum on face, cum on body, cum in pussy,",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-04T0146:55.3292767Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female ,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 330475
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 354128
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 360698
+          }
+        ]
+      },
+      "username": "solumbra_0856",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        135867,
+        244808,
+        290640,
+        330475,
+        354128,
+        360698,
+        382152,
+        398847
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "302|1750423768404",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=302%7C1750423768404"
+    "nextCursor": "303|1757065260102",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=303%7C1757065260102"
   }
 }
