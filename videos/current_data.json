@@ -1,88 +1,6 @@
 {
   "items": [
     {
-      "id": 57377937,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c98b0697-ece4-4773-a59a-91f749f3f680/original=true/c98b0697-ece4-4773-a59a-91f749f3f680.jpeg",
-      "hash": "UOK^1^~qpcoI~Cx]J7Rj01%2WVR+x]ni%2S$",
-      "width": 1272,
-      "height": 2136,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-13T05:38:00.000Z",
-      "postId": 12842677,
-      "stats": {
-        "cryCount": 141,
-        "laughCount": 203,
-        "likeCount": 2630,
-        "dislikeCount": 0,
-        "heartCount": 1143,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 498580762996559,
-        "Model": "waiNSFWIllustrious_v100.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "7e87327f89",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, pale pink hair, high ponytail, long ponytail, heterochromia, blue eyes, round glasses, pink eyebrows, eyelashes, looking at viewer, oversized clothes, white dress shirt, unbuttoned, cleavage, sheer fabric, slipping off shoulders, thigh-high stockings, sitting on edge of bed, legs slightly spread, adjusting glasses, teasing expression, warm morning sunlight on skin,\nindoors, luxurious hotel room, king-size bed, fluffy white pillows, floor-to-ceiling windows, ocean view, golden morning light, soft silk sheets, (dark shadows:1.0), high contrast, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:0.6> <lora:illustrious_quality_modifiers_masterpieces_v1:1.3> <lora:klskx_wai:0.8>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5.25,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 1.3
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7e87327f89",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, tanlines,"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1367422,
-        1345990,
-        1284348,
-        567119,
-        1050644
-      ]
-    },
-    {
       "id": 17068453,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/db6e7b66-f70e-4634-bea5-7f68446d049f/original=true/db6e7b66-f70e-4634-bea5-7f68446d049f.jpeg",
       "hash": "UDJjxR~8B+oJDcn4-pEL7{9@V@-p0*s=s9bc",
@@ -154,10 +72,142 @@
         498843,
         531417
       ]
+    },
+    {
+      "id": 81080755,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d45a81e9-d8c5-4f9f-b855-5785b43acbaf/original=true/d45a81e9-d8c5-4f9f-b855-5785b43acbaf.jpeg",
+      "hash": "UTK^skxaElRi_Nt7xtM{%#t7$$M{%Mt7M{M{",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-08T10:21:00.000Z",
+      "postId": 18009486,
+      "stats": {
+        "cryCount": 155,
+        "laughCount": 323,
+        "likeCount": 2411,
+        "dislikeCount": 0,
+        "heartCount": 1223,
+        "commentCount": 2
+      },
+      "meta": {
+        "seed": 1227614199,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1162518@1331188",
+        "extra": {},
+        "steps": 29,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1162518@1331188"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), detailed face, (big expressive eyes:0.9), (dynamic:1), 1girl, (curvy:0.4), blonde hair, brown eyes, city, shopping, naked, wearing belt, accessories, jewelry, necklace, sun-hat, thigh-high socks, pussy",
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, loli, child, (glowing eyes:0.8), ",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1331188
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1331188
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 1169143
+          },
+          {
+            "weight": 0.2,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.4,
+            "modelVersionId": 1380520
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 1352742
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1331188
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1169143
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 1189052
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1380520
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1352742
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:389869@1169143",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.2,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:938811@1380520",
+            "type": "lora",
+            "strength": 0.4,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1201355@1352742",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "Plantra",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        164821,
+        1169143,
+        1189052,
+        1331188,
+        1352742,
+        1380520
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "314|1719275729204",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=314%7C1719275729204"
+    "nextCursor": "315|1749378060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=315%7C1749378060000"
   }
 }
