@@ -1,111 +1,6 @@
 {
   "items": [
     {
-      "id": 30785158,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/73c03e6a-4189-44fa-938e-0683f12b6a35/original=true/73c03e6a-4189-44fa-938e-0683f12b6a35.jpeg",
-      "hash": "U7EeiZ0080H=9d=?w|x]0z-:#8.8RUW9XAxZ",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-09-23T05:15:00.000Z",
-      "postId": 6885305,
-      "stats": {
-        "cryCount": 147,
-        "laughCount": 271,
-        "likeCount": 2320,
-        "dislikeCount": 0,
-        "heartCount": 1354,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 62113512,
-        "extra": {
-          "remixOfId": 25802193
-        },
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_8, score_7_up, photo of cheldorado, source_anime, 1girl, solo, <lora:ChelXL:1> \nhands on breasts pushing her breasts together, holding her breasts, pushing her breasts together, breast press\nlong hair, large breasts, bangs, black hair, navel, bare shoulders, jewelry, earrings, midriff, dark skin, blunt bangs, bracelet, dark-skinned female, lips, lifted crop top, strapless, makeup, pelvic curtain, tube top, loincloth, feeling sexy, (small smile:0.5),\nbig saggy breast, teardrop breast, petite body, (large breasts;1.6), (saggy breasts:0.8), nipples,\naztec architecture, in aztec temple, dark wall pillar and blue sky in the background,\nposing for a picture arms above head, leaning to a wall, pulling up top, pulled up top, lifted her top, lifted her top, shirtlift, large breasts, nipples,\n<lora:add-detail-xl:0.6> <lora:eye_catching:0.6> <lora:Expressive_H-000001:0.8>,",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "name": "ChelXL",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "name": "add-detail-xl",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "name": "eye_catching",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "name": "Expressive_H-000001",
-            "type": "lora",
-            "weight": 0.8
-          }
-        ],
-        "Created Date": "2024-09-21T1700:11.5622353Z",
-        "negativePrompt": "score_6, score_5, score_4, (watermark, deformed, blurry, censored, low quality, text, worst quality, extra hands, monochrome:1.3), 3d, deformed fingers, muscular, mutated hands, blurry face, distorted, low res, bad hands, missing fingers, mutated hands and fingers, artist name, logo, chibi, kid, loli, monochrome background, jpeg artifacts, poorly drawn, child, lowres, mutation, bad proportions, disconnected limbs, extra limbs",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 367106,
-            "modelVersionName": "Chel XL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "Suaisundari_Azhagi",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        290640,
-        330475,
-        367106,
-        382152
-      ]
-    },
-    {
       "id": 83039874,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ede80d6b-48ce-4102-9f9d-7ea2271af65a/original=true/ede80d6b-48ce-4102-9f9d-7ea2271af65a.jpeg",
       "hash": "UFF%A4#lyZE200q[5Q9F^Q%grDrD5;TJx]n%",
@@ -138,10 +33,86 @@
         1425924,
         1490781
       ]
+    },
+    {
+      "id": 86276419,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/69beec5b-3586-4513-af66-5a979233440a/original=true/69beec5b-3586-4513-af66-5a979233440a.jpeg",
+      "hash": "UPIgDy~COX%2AaNw%M=|57$*%2W;WARjenIo",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-05T00:41:00.000Z",
+      "postId": 19145151,
+      "stats": {
+        "cryCount": 153,
+        "laughCount": 284,
+        "likeCount": 2478,
+        "dislikeCount": 0,
+        "heartCount": 1173,
+        "commentCount": 2
+      },
+      "meta": {
+        "seed": 1136015347,
+        "vaes": [],
+        "extra": {},
+        "steps": 29,
+        "models": [],
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, office, desk, solo, 1girl, female focus, lineless, incoth, (incase:0.6), indoors, light blue eyes, nude, cowboy shot, small breasts, long black hair, red highlights, elegant ponytail, bracelet, choker, parted bangs, refined, beautiful, kawaii, close up, lying on desk,",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "modelIds": [],
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1612720
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 1545543
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1589514
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
+        "additionalResources": []
+      },
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        164821,
+        244808,
+        1189052,
+        1545543,
+        1589514,
+        1612720
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "325|1750423768404",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=325%7C1750423768404"
+    "nextCursor": "326|1751676060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=326%7C1751676060000"
   }
 }
