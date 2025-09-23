@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "id": 1804575,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f4c40ba-2047-4ab5-9c14-95800d78d23b/original=true/1f4c40ba-2047-4ab5-9c14-95800d78d23b.jpeg",
-      "hash": "UFH1}L4:X+9ZRP?G.7tR?uR*Rk-:~WR-RQE1",
-      "width": 640,
-      "height": 960,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2023-07-31T08:27:16.052Z",
-      "postId": 447895,
-      "stats": {
-        "cryCount": 103,
-        "laughCount": 266,
-        "likeCount": 2132,
-        "dislikeCount": 0,
-        "heartCount": 1606,
-        "commentCount": 29
-      },
-      "meta": {
-        "Size": "640x960",
-        "seed": 2233280225,
-        "Model": "Realistic_Vision_V5.1",
-        "steps": 25,
-        "hashes": {
-          "model": "ef76aa2332"
-        },
-        "prompt": "instagram photo, closeup face photo of 23 y.o Chloe in black sweater, cleavage, pale skin, (smile:0.4), hard shadows",
-        "Version": "v1.5.1",
-        "sampler": "DPM++ SDE Karras",
-        "cfgScale": 10,
-        "resources": [
-          {
-            "hash": "ef76aa2332",
-            "name": "Realistic_Vision_V5.1",
-            "type": "model"
-          }
-        ],
-        "Model hash": "ef76aa2332",
-        "negativePrompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, disconnected limbs, mutation, mutated, ugly, disgusting, amputation"
-      },
-      "username": "SG_161222",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": []
-    },
-    {
       "id": 67932129,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/87d906d6-bcea-494c-97ca-bb098974f1bd/original=true/87d906d6-bcea-494c-97ca-bb098974f1bd.jpeg",
       "hash": "URMQL-Mx%#?b.mR+^Pxu9^oeoeWBofX8iws.",
@@ -171,10 +125,75 @@
         596072,
         728486
       ]
+    },
+    {
+      "id": 60517444,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/79c5af61-5b1e-40a7-bed8-226563d05c9d/original=true/79c5af61-5b1e-40a7-bed8-226563d05c9d.jpeg",
+      "hash": "UBEL+_~V9%E2xpaxRk%N00xuwa-pM_NGWAIT",
+      "width": 1560,
+      "height": 2160,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-27T22:08:29.380Z",
+      "postId": 13538454,
+      "stats": {
+        "cryCount": 119,
+        "laughCount": 247,
+        "likeCount": 2352,
+        "dislikeCount": 0,
+        "heartCount": 1386,
+        "commentCount": 7
+      },
+      "meta": {
+        "Size": "832x1152",
+        "seed": 280218432207244,
+        "Model": "realismByStableYogi_ponyV3VAE",
+        "steps": 50,
+        "hashes": {
+          "model": "4796b66fd0",
+          "LORA:sdxl\\PLRD": "d06b84d781",
+          "LORA:sdxl\\Cosine_freck": "174f792232",
+          "LORA:sdxl\\Pony_DetailV2.0": "8a2e39a88f",
+          "LORA:sdxl\\bigSaggyBreastsPony2": "3384bba192",
+          "LORA:sdxl\\S1_Dramatic_Lighting_v3": "db68bdc263",
+          "embed:Stable_Yogis_PDXL_Positives": "1454a43d6c",
+          "LORA:sdxl\\VividRealismColorEnhancer": "d371fdd98b",
+          "embed:Stable_Yogis_PDXL_Negatives-neg": "29b22709a6",
+          "LORA:sdxl\\Nipple Size Slider_alpha1.0_rank4_noxattn_last": "0b8b981029"
+        },
+        "Version": "ComfyUI",
+        "sampler": "DPM++ 2M SDE Karras",
+        "cfgScale": 24,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "4796b66fd0",
+            "name": "realismByStableYogi_ponyV3VAE",
+            "type": "model"
+          }
+        ],
+        "Model hash": "4796b66fd0"
+      },
+      "username": "prompt_bit_sorcerer",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        321609,
+        449738,
+        458702,
+        460176,
+        539244,
+        772342,
+        775151,
+        992946,
+        1280045,
+        1280571
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "318|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=318%7C1743786969925"
+    "nextCursor": "319|1740694109380",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=319%7C1740694109380"
   }
 }
