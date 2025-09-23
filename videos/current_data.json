@@ -1,82 +1,6 @@
 {
   "items": [
     {
-      "id": 86276419,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/69beec5b-3586-4513-af66-5a979233440a/original=true/69beec5b-3586-4513-af66-5a979233440a.jpeg",
-      "hash": "UPIgDy~COX%2AaNw%M=|57$*%2W;WARjenIo",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-05T00:41:00.000Z",
-      "postId": 19145151,
-      "stats": {
-        "cryCount": 153,
-        "laughCount": 284,
-        "likeCount": 2478,
-        "dislikeCount": 0,
-        "heartCount": 1173,
-        "commentCount": 2
-      },
-      "meta": {
-        "seed": 1136015347,
-        "vaes": [],
-        "extra": {},
-        "steps": 29,
-        "models": [],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, office, desk, solo, 1girl, female focus, lineless, incoth, (incase:0.6), indoors, light blue eyes, nude, cowboy shot, small breasts, long black hair, red highlights, elegant ponytail, bracelet, choker, parted bangs, refined, beautiful, kawaii, close up, lying on desk,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1612720
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1545543
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1589514
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
-      },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        244808,
-        1189052,
-        1545543,
-        1589514,
-        1612720
-      ]
-    },
-    {
       "id": 8944473,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5b975e71-4704-4f41-9cf6-2727ff057b18/original=true/5b975e71-4704-4f41-9cf6-2727ff057b18.jpeg",
       "hash": "UFHKIaic0Lg$_NIUn4?aAEM{s:?G$*EiOEe.",
@@ -130,10 +54,90 @@
         298238,
         421099
       ]
+    },
+    {
+      "id": 91790131,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3f7ec95-d82f-4d69-9ebd-855917938870/original=true/a3f7ec95-d82f-4d69-9ebd-855917938870.jpeg",
+      "hash": "U5Enkn5T0K%2039^s+V[00I;?FI;~VxFELS2",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T17:55:04.397Z",
+      "postId": 20364375,
+      "stats": {
+        "cryCount": 234,
+        "laughCount": 389,
+        "likeCount": 2411,
+        "dislikeCount": 0,
+        "heartCount": 1047,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 59209694,
+        "steps": 25,
+        "prompt": "score_9, s\nscore_9, score_8_up, score_8, score_7_up,  Medusa, sn4k3h41r, , snake hair, having sex, Expressiveh, taking of her cloth, pantie, pussy,  ,  exposed breasts, (sagging_breasts:0.8), penetration , toga , greek mythology, brutal anal , topless, , dogggie style, night, greek temple",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-08-01T1647:51.4116525Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, 3d, monochrome",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 413502,
+            "modelVersionName": "V1"
+          }
+        ]
+      },
+      "username": "sinuhetheforth",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        290640,
+        382152,
+        398847,
+        413502,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "327|1711958847405",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=327%7C1711958847405"
+    "nextCursor": "328|1754070904397",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=328%7C1754070904397"
   }
 }
