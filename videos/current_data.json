@@ -1,87 +1,6 @@
 {
   "items": [
     {
-      "id": 57572209,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d51061ee-ec41-41d5-b34e-3aab488a4485/original=true/d51061ee-ec41-41d5-b34e-3aab488a4485.jpeg",
-      "hash": "USJH%M4TK*x^=s9ZITR5~pR4x^t85qV?oNX8",
-      "width": 1240,
-      "height": 2080,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-15T12:30:00.000Z",
-      "postId": 12885171,
-      "stats": {
-        "cryCount": 151,
-        "laughCount": 278,
-        "likeCount": 2537,
-        "dislikeCount": 0,
-        "heartCount": 1103,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 515628685416232,
-        "Model": "waiNSFWIllustrious_v100.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "7e87327f89",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, nsfw, explicit, 1girl, solo, pale pink hair, (heterochromia:1.1), (blue eyes:0.9), round glasses, pink eyebrows, eyelashes, small breasts, looking at viewer, white shirt, completely soaked, translucent fabric, denim shorts, (unbuttoned:1.2) shorts, wet skin, wet hair slicked back, standing near pool, hair flip, seductive smile, outdoors, private villa poolside, tropical greenery, crystal clear water, luxury pool chairs, bright summer sunlight, (dark shadows:1.0), high contrast, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:-1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.9> <lora:klskx_wai:0.8>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.9
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora"
-          },
-          {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7e87327f89",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, earrings, tanlines, bra"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1367422
-      ]
-    },
-    {
       "id": 23817732,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d016bba4-ea3c-43bd-8b7b-47d9116c7ba9/original=true/d016bba4-ea3c-43bd-8b7b-47d9116c7ba9.jpeg",
       "hash": "UWJtP7er56t7?]aLwHX9F^i_xCOY-;jFe-g3",
@@ -142,10 +61,65 @@
       "modelVersionIds": [
         714359
       ]
+    },
+    {
+      "id": 91410959,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e5e345f9-de29-4ec3-8781-6e96558fc595/original=true/e5e345f9-de29-4ec3-8781-6e96558fc595.jpeg",
+      "hash": "UCE2tf.8}7x]%LMw4nWB0NIo0Mt7Gb%MElt7",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-03T00:00:00.000Z",
+      "postId": 20278576,
+      "stats": {
+        "cryCount": 266,
+        "laughCount": 406,
+        "likeCount": 2434,
+        "dislikeCount": 0,
+        "heartCount": 958,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1012717960,
+        "draft": false,
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "Anthro, furry, wolf, short hair, gray hair, red eyes, wide hips, thin waist, latex, gray fur, ahoge, long tail, solo, big bulge, expressionless face, butler, male, hair over one eye, castle, bedroom,",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-30T1659:12.8260650Z",
+        "experimental": false,
+        "negativePrompt": "lipstick, Nail polish, muscular, sweat, 3d, forehead gem, worst quality, low quality, watermark, signature, simple background, bad anatomy, bad hands, deformed limbs, blurry, cropped, cross-eyed, extra arms, speech bubble, extra legs, extra limbs, bad proportions, poorly drawn hands, text, flat background",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          }
+        ]
+      },
+      "username": "Princess_Aurelie",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1761560
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "332|1728235477744",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=332%7C1728235477744"
+    "nextCursor": "333|1754179200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=333%7C1754179200000"
   }
 }
