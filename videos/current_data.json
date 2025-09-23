@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "id": 98246371,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af911cc9-44b0-4275-b242-4faa8ee4e893/original=true/af911cc9-44b0-4275-b242-4faa8ee4e893.jpeg",
-      "hash": "UOG*WoNH9aS4~pV@M{j[?aV@jEo0.7afIooL",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-05T09:41:00.102Z",
-      "postId": 21798255,
-      "stats": {
-        "cryCount": 183,
-        "laughCount": 321,
-        "likeCount": 2552,
-        "dislikeCount": 0,
-        "heartCount": 1121,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 2053889671,
-        "draft": false,
-        "steps": 18,
-        "width": 832,
-        "height": 1216,
-        "prompt": "18yo, score_9, score_8_up, score_8, sexy girl, denim jacket, breasts exposed, cute sexy blonde hair, pale skin, body freckles, slender body,  medium perfectly round breasts, leash around neck, petite body, in a workshop, dirty, (workshop garage:1.5), (mechanic workshop:1.5), (mechanic garage:1.5), cum on face, cum in hair, cum on breasts, looking_longingly, seductive, sexy_woman, panties aside, ((People watching and filming on smartphone)). (Detailed tongue and kips), huge penis, veiny penis, foreskin, precum oozing. Blowjob, holding penis. Blowbang. Orgasm. Cumming, cinematic lighting, volumetric lighting, cum on face, cum on body, cum in pussy,",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-04T0146:55.3292767Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female ,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 135867
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 330475
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 354128
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 398847
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 360698
-          }
-        ]
-      },
-      "username": "solumbra_0856",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        135867,
-        244808,
-        290640,
-        330475,
-        354128,
-        360698,
-        382152,
-        398847
-      ]
-    },
-    {
       "id": 88195555,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7dab18b7-b2fc-4157-8f96-108e22d38937/original=true/7dab18b7-b2fc-4157-8f96-108e22d38937.jpeg",
       "hash": "UDKmUy-=0f-pA1tkS$%MEx-p~V-:02?a?aWC",
@@ -125,10 +29,73 @@
         575618,
         600326
       ]
+    },
+    {
+      "id": 95771260,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/77b7467b-c8bf-4a01-859a-1553b54e5be8/original=true/77b7467b-c8bf-4a01-859a-1553b54e5be8.jpeg",
+      "hash": "UQLDu[9Eox-qV=xE%MWr00R*NGoe~WRjM|M{",
+      "width": 1200,
+      "height": 1600,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-24T10:45:40.150Z",
+      "postId": 21242721,
+      "stats": {
+        "cryCount": 223,
+        "laughCount": 311,
+        "likeCount": 2479,
+        "dislikeCount": 0,
+        "heartCount": 1162,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "600x800",
+        "seed": 4205848430,
+        "Model": "waiNSFWIllustrious_v100",
+        "steps": 25,
+        "hashes": {
+          "model": "7e87327f89",
+          "lora:shuten-douji-illustriousxl-lora-nochekaiser": "e2554db12a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality,, <lora:shuten-douji-illustriousxl-lora-nochekaiser:1>, shuten douji, shuten douji (fate), purple eyes, earrings, eyeshadow, horns, makeup, oni horns, purple hair, red eyeshadow, short eyebrows, short hair, single earring, pointy ears, bob cut, eyeliner, red eyeliner, skin-covered horns, mature female, small breasts,, <lora:female-masturbation-infront-of-laptop-illustriousxl-lora-nochekaiser:1>, female masturbation infront of laptop, solo, blush, shirt, navel, closed mouth, sitting, white shirt, short sleeves, sweat, barefoot, pussy, indoors, spread legs, feet, legs, toes, pubic hair, uncensored, pussy juice, bottomless, soles, looking down, trembling, motion lines, toenails, masturbation, fingering, female masturbation, door, foot out of frame, computer, laptop, torogao, half-closed eyes,, , ,",
+        "Version": "f0.0.15v1.8.0rc-1.7.0",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "name": "shuten-douji-illustriousxl-lora-nochekaiser",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "name": "female-masturbation-infront-of-laptop-illustriousxl-lora-nochekaiser",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7e87327f89",
+        "Hires upscale": "2",
+        "Hires upscaler": "Latent",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censored, 3d, realistic, shota, loli, yuri, yaoi, mosaic censoring, bar censor, light censor, futanari, futa",
+        "Denoising strength": "0.75"
+      },
+      "username": "nochekaiser881",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1367422,
+        2099595
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "306|1752493177639",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=306%7C1752493177639"
+    "nextCursor": "307|1756032340150",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=307%7C1756032340150"
   }
 }
