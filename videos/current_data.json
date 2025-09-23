@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 94693407,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0d70acf-39d5-4f61-a04b-32b223837357/original=true/a0d70acf-39d5-4f61-a04b-32b223837357.jpeg",
-      "hash": "UHM$_B4T1JNF55%29aXm9Y-;D*E1~qWBIURk",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-16T23:08:33.920Z",
-      "postId": 21007715,
-      "stats": {
-        "cryCount": 177,
-        "laughCount": 291,
-        "likeCount": 2425,
-        "dislikeCount": 0,
-        "heartCount": 1204,
-        "commentCount": 2
-      },
-      "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 3007094323,
-        "Model": "Oblivious_mix_illustrious.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "a372cb210f",
-          "lora:panties_on_breasts_ilxl_goofy": "d20498f0b769"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres,<lora:panties_on_breasts_ilxl_goofy:1>panties on breasts, 1girl, large breasts, underwear, striped panties, striped clothes, nipples, mouth hold, blush, short hair, blonde hair, looking at viewer, upper body, red eyes, red ribbon, red hairband, smile, collarbone",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "d20498f0b769",
-            "name": "panties_on_breasts_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "a372cb210f",
-            "name": "Oblivious_mix_illustrious.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "a372cb210f",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "128",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1180973
-      ]
-    },
-    {
       "id": 91804211,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95637293-ae05-4a71-9c61-2946a96ba20a/original=true/95637293-ae05-4a71-9c61-2946a96ba20a.jpeg",
       "hash": "UBF}vF^+pc%MqF-=pI%2TeW=njNGoz%2v}9Z",
@@ -139,10 +70,43 @@
         714649,
         1988773
       ]
+    },
+    {
+      "id": 52848822,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f75f3ab4-450c-44a5-81c8-753b3e4cee83/original=true/f75f3ab4-450c-44a5-81c8-753b3e4cee83.jpeg",
+      "hash": "U9BfLiIAK5E201~WROEgcF4:xur=Iot79a%1",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-21T20:00:00.000Z",
+      "postId": 11873037,
+      "stats": {
+        "cryCount": 107,
+        "laughCount": 246,
+        "likeCount": 2411,
+        "dislikeCount": 0,
+        "heartCount": 1332,
+        "commentCount": 3
+      },
+      "meta": null,
+      "username": null,
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        164821,
+        382152,
+        436219,
+        438481,
+        929734,
+        1177183,
+        1212644
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "321|1754084269883",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=321%7C1754084269883"
+    "nextCursor": "322|1737489600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=322%7C1737489600000"
   }
 }
