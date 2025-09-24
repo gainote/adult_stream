@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 97747403,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/969ab9df-763b-49ec-bc2d-1a8f8786c792/original=true/969ab9df-763b-49ec-bc2d-1a8f8786c792.jpeg",
-      "hash": "UGHm=Y_NpcyDf*$*xaJ8I:IoRj$%t7WBRkof",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-02T08:50:06.996Z",
-      "postId": 21687250,
-      "stats": {
-        "cryCount": 123,
-        "laughCount": 240,
-        "likeCount": 2421,
-        "dislikeCount": 0,
-        "heartCount": 1122,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1657236150,
-        "draft": false,
-        "extra": {
-          "remixOfId": 19663021
-        },
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1morimee_style, elf girl, cute face, wavy blonde hair, blue eyes, straight bangs, round glasses, egirl makeup, e-girl aesthetic, small waist, slim, skinny, blush, 20yo, sweat, sweaty, small breasts,  focus on woman, (eye rolling, looking back at man), expressive seductive, motion lines, perfect lighting, cinematic lighting, light and shadow, well-lit, (face pressed to wall: 1.5), gym shower, shower tile walls, standing, covering up, looking at viewer, expressive ecstasy, fucking against wall, standing sex, head pressed to wall,squishing cheek, (1boy, toned college boy, big white cock, fucking pussy from behind, face out of frame) , forceful, side view, small breast press, pinned to wall, rough fucking, (motion lines), wincing, gritting teeth, eyes shut tight, eyes closed, closed eyes, in pain, grabbing arms, pulling arms, arms held back,",
-        "process": "txt2img",
-        "sampler": "Euler",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-01T1240:14.2821669Z",
-        "experimental": false,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, open eyes, flat bangs, curly hair, buzzcut,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 436219
-          }
-        ]
-      },
-      "username": "ytdktpfnm480",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        290640,
-        398847,
-        436219
-      ]
-    },
-    {
       "id": 84073996,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d3c9a0f8-3b73-4195-9e42-53babd739752/original=true/d3c9a0f8-3b73-4195-9e42-53babd739752.jpeg",
       "hash": "U8Fq?t~B5REMNHE2D*nO00oz?G~B-:s,4;Nx",
@@ -101,10 +32,99 @@
         1379960,
         1582690
       ]
+    },
+    {
+      "id": 86613986,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba7c4321-db21-4e4a-b68f-5f324a8eecbb/original=true/ba7c4321-db21-4e4a-b68f-5f324a8eecbb.jpeg",
+      "hash": "UaMGh$02lA,[tkozbwof?^r=bdx[x]t7ohs.",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-06T11:33:47.922Z",
+      "postId": 19217711,
+      "stats": {
+        "cryCount": 128,
+        "laughCount": 292,
+        "likeCount": 2464,
+        "dislikeCount": 0,
+        "heartCount": 1020,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 471060303,
+        "draft": false,
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, very aesthetic, absurdres, best quality, good quality, newest, highres,\n,1girl, solo,rainbow hair,long hair, @_@, colorful, flower, surreal, glowing, staring, floating hair,\nSmoothNegative_Hands\n748cmstyle",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-06T1129:05.3352869Z",
+        "experimental": false,
+        "negativePrompt": "3d, realistic, 3d render,\u00a0 zoomed in, pubic hair, three breasts, too many breasts, furry, score_4, score_5, score_6, (ugly), worst quality, low quality, displeasing, low-resolution, blurry, noisy, distorted, glitch, bad anatomy, poorly drawn, deformed, distorted hands, deformed hands, deformed fingers, three finger hands, extra fingers, , (cropped), out of frame, text, signature, watermark, logo,multiple characters, extra character, chibi, small character,robot",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1697082,
+            "modelVersionName": "v2.2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1784760,
+            "modelVersionName": "Smooth Booster v3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1674551,
+            "modelVersionName": "illus01 v1.121"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1668031,
+            "modelVersionName": "Smooth Negative Hands"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "vae",
+            "weight": 1,
+            "modelVersionId": 1653403,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "futsalabcdccc",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1056404,
+        1668031,
+        1674551,
+        1697082,
+        1784760
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "387|1750699444249",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=387%7C1750699444249"
+    "nextCursor": "388|1751801627922",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=388%7C1751801627922"
   }
 }
