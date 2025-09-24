@@ -1,40 +1,6 @@
 {
   "items": [
     {
-      "id": 100569264,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a1d4c1a2-e756-4303-80ed-10a4891dfb14/original=true/a1d4c1a2-e756-4303-80ed-10a4891dfb14.jpeg",
-      "hash": "U8GjpXo}B:~AcDEhxubH0Mr?$%s-wI$f9GM{",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-16T00:44:06.989Z",
-      "postId": 22311479,
-      "stats": {
-        "cryCount": 156,
-        "laughCount": 310,
-        "likeCount": 2419,
-        "dislikeCount": 0,
-        "heartCount": 1088,
-        "commentCount": 1
-      },
-      "meta": null,
-      "username": "Maxximoonia",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1141520,
-        1157361,
-        1253047,
-        1375651,
-        1582690,
-        1914557,
-        2124648
-      ]
-    },
-    {
       "id": 90818417,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5d3259e6-8625-41ca-8591-11d440175c69/original=true/5d3259e6-8625-41ca-8591-11d440175c69.jpeg",
       "hash": "USHLxPMx%#%h?b9FjZt6a$9FRPV?_MofkCWq",
@@ -95,10 +61,90 @@
         243570,
         1920523
       ]
+    },
+    {
+      "id": 57377940,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de6cbc88-bd58-4cfc-894d-6985c31494ef/original=true/de6cbc88-bd58-4cfc-894d-6985c31494ef.jpeg",
+      "hash": "ULKJ+1~qY5%M$%-pOXX800RjIUNGT0RP$*Rj",
+      "width": 1272,
+      "height": 2136,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-13T05:38:00.000Z",
+      "postId": 12842677,
+      "stats": {
+        "cryCount": 119,
+        "laughCount": 240,
+        "likeCount": 2518,
+        "dislikeCount": 0,
+        "heartCount": 1093,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 1097253205001365,
+        "Model": "waiNSFWIllustrious_v100.safetensors",
+        "steps": 30,
+        "hashes": {
+          "model": "7e87327f89",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, pale pink hair, high ponytail, long ponytail, (heterochromia:1.1), (blue eyes:0.9), round glasses, pink eyebrows, eyelashes, small breasts, looking at viewer, oversized clothes, white dress shirt, unbuttoned, cleavage, sheer fabric, slipping off shoulders, stockings, sitting on edge of bed, legs slightly spread, adjusting glasses, teasing expression, warm morning sunlight on skin,\nindoors, luxurious hotel room, king-size bed, fluffy white pillows, floor-to-ceiling windows, ocean view, golden morning light, soft silk sheets, (dark shadows:1.0), high contrast, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.9> <lora:klskx_wai:0.8>",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.9
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7e87327f89",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, tanlines, garter straps, bra, cum on breasts, tattoo,"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1367422,
+        1345990,
+        1284348,
+        567119,
+        1050644
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "356|1753638715933",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=356%7C1753638715933"
+    "nextCursor": "357|1739425080000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=357%7C1739425080000"
   }
 }
