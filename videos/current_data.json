@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "id": 91790132,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da956656-78cb-4da7-95c2-581bbbe3a405/original=true/da956656-78cb-4da7-95c2-581bbbe3a405.jpeg",
-      "hash": "UBF;Zm}p0Mkqv#^Nxu9^Mxr=t7S6%1-UI:Eg",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T17:55:04.478Z",
-      "postId": 20364375,
-      "stats": {
-        "cryCount": 209,
-        "laughCount": 362,
-        "likeCount": 2304,
-        "dislikeCount": 0,
-        "heartCount": 1049,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 59209694,
-        "steps": 25,
-        "prompt": "score_9, s\nscore_9, score_8_up, score_8, score_7_up,  Medusa, sn4k3h41r, , snake hair, having sex, Expressiveh, taking of her cloth, pantie, pussy,  ,  exposed breasts, (sagging_breasts:0.8), penetration , toga , greek mythology, brutal anal , topless, , dogggie style, night, greek temple",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-08-01T1647:53.6746814Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, 3d, monochrome",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 413502,
-            "modelVersionName": "V1"
-          }
-        ]
-      },
-      "username": "sinuhetheforth",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        290640,
-        382152,
-        398847,
-        413502,
-        436219
-      ]
-    },
-    {
       "id": 42751048,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dc7e7838-7c2d-4ef5-8254-795878fcdc64/original=true/dc7e7838-7c2d-4ef5-8254-795878fcdc64.jpeg",
       "hash": "UlJk~Br?L4tS5aW?jKjEESS6fSVst8jGxYtR",
@@ -141,10 +61,79 @@
       "modelVersionIds": [
         1111838
       ]
+    },
+    {
+      "id": 95304717,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2464094-0495-408c-96f2-ff417d95170b/original=true/f2464094-0495-408c-96f2-ff417d95170b.jpeg",
+      "hash": "UMKdlAWV%#-;9aWARPt70zWBnht7?^WCNakC",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-19T23:21:24.359Z",
+      "postId": 21139516,
+      "stats": {
+        "cryCount": 165,
+        "laughCount": 233,
+        "likeCount": 2416,
+        "dislikeCount": 0,
+        "heartCount": 1106,
+        "commentCount": 0
+      },
+      "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 804088851,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, medium breasts, nipples, 1girl, short shorts, mole on breast, open mouth, white tank top, black hair, loose shirt, looking at viewer, armpits, smile, loose clothes, playground, outdoors, short hair, collarbone, denim shorts, blue eyes, thigh gap, no bra,  downblouse, arms up, blurry background, blue shorts, :d, nipple slip, cowboy shot, hair between eyes, leaning forward, day, upper teeth only, v-shaped eyebrows, pov, blush, depth of field, musical note, bare shoulders",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
+          {
+            "hash": "78d4ccffb16c",
+            "name": "loose_tank_top_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1379960
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "380|1732899289024",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=380%7C1732899289024"
+    "nextCursor": "381|1755645684359",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=381%7C1755645684359"
   }
 }
