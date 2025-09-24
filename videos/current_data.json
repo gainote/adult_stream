@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "id": 34636500,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/24d00e5f-8bec-4797-99e7-cf422f107c32/original=true/24d00e5f-8bec-4797-99e7-cf422f107c32.jpeg",
-      "hash": "U9FNC@1i0ewH}GRkRh$%IpEL=_%2}sJVr=jF",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-15T00:05:33.064Z",
-      "postId": 7914274,
-      "stats": {
-        "cryCount": 141,
-        "laughCount": 318,
-        "likeCount": 2282,
-        "dislikeCount": 0,
-        "heartCount": 1290,
-        "commentCount": 65
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 922177849,
-        "extra": {
-          "remixOfId": 28457871
-        },
-        "steps": 22,
-        "prompt": "xaxaxa 1_style, score_9, score_8_up, score_7_up, 1girl,  sexy elf, detailed perfect face, detailed body, dungeon background, focus from above, sweat, naughty smile, looking at viewer, thin, fit body, small waist, short pink hair, green eyes, ponytail, small perky breasts,  nude, (collar with leash), (leash held by viewer), standing, cum on breasts, cum on face, cum on lips\ndark, night, torch light",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-27T1936:47.1366940Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 624154,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "ElvishDreams",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        624154
-      ]
-    },
-    {
       "id": 9882929,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5591a8ed-1654-43de-9a7a-56321270de92/original=true/5591a8ed-1654-43de-9a7a-56321270de92.jpeg",
       "hash": "U4HA^d00yO^+00~p?G9t}k^*$n9Y0L4o0fIV",
@@ -169,10 +69,110 @@
       "modelVersionIds": [
         324524
       ]
+    },
+    {
+      "id": 34057801,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc5850cb-e81c-4bd5-9b92-006476a4086c/original=true/bc5850cb-e81c-4bd5-9b92-006476a4086c.jpeg",
+      "hash": "U5COwL002aDi^*IVo}9G0}EM~BE1a_s.R+$%",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2024-10-11T18:52:04.477Z",
+      "postId": 7784890,
+      "stats": {
+        "cryCount": 112,
+        "laughCount": 298,
+        "likeCount": 2336,
+        "dislikeCount": 0,
+        "heartCount": 1277,
+        "commentCount": 11
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 961271403,
+        "extra": {
+          "remixOfId": 32587429
+        },
+        "steps": 38,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, girl, Rogue (X-Men Evolution) two-tone hair, freckles, large breasts, curvy body, standing, posing, tinted sunglasses, bikini, crop top over bikini, seductive smile, leaning on wall, graffiti on wall, shiny skin, unique angle, from above, pov",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-10-11T1851:43.5293238Z",
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, pierced nipples, piercings, zPDXLxxx, thick lips,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 287973,
+            "modelVersionName": "V3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 333587,
+            "modelVersionName": "Smooth 2"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 380277,
+            "modelVersionName": "XXX Rating"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "OkinUwU",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        287973,
+        290640,
+        333587,
+        380277,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "344|1739013986562",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=344%7C1739013986562"
+    "nextCursor": "345|1728672724477",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=345%7C1728672724477"
   }
 }
