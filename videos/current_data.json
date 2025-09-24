@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "id": 756596,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b83075fb-9afe-449f-b3f7-f5390d9a0716/original=true/b83075fb-9afe-449f-b3f7-f5390d9a0716.jpeg",
-      "hash": "UBK12c~q018{?^NH^*RPL3IVIAIA^+Mx9ZD*",
-      "width": 768,
-      "height": 1152,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-02-09T01:12:59.814Z",
-      "postId": 205273,
-      "stats": {
-        "cryCount": 112,
-        "laughCount": 286,
-        "likeCount": 1882,
-        "dislikeCount": 0,
-        "heartCount": 1737,
-        "commentCount": 5
-      },
-      "meta": {
-        "Size": "768x1152",
-        "seed": 2179149527,
-        "Model": "braBeautifulRealistic_brav5",
-        "steps": 127,
-        "hashes": {
-          "model": "ac68270450"
-        },
-        "prompt": "(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper), 1 girl, (nsfw), (lying on bed:1.4), long hair, cleavage, (perfect_pussy:1.4), (small breasts:1.2), spread legs, (shiny silk stockings:1.2), beautiful face, <lora:GodPussy1 v2:0.5>",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "resources": [
-          {
-            "hash": "ac68270450",
-            "name": "braBeautifulRealistic_brav5",
-            "type": "model"
-          }
-        ],
-        "Model hash": "ac68270450",
-        "negativePrompt": "easynegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), low res, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, extra fingers, fewer fingers, strange fingers, bad hand, mole, ((extra legs)), ((extra hands)), bad-hands-5, hands",
-        "Denoising strength": "0"
-      },
-      "username": "jackking13579",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": [
-        63786
-      ]
-    },
-    {
       "id": 82801247,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0ff5d615-22b3-4f5b-a55a-0d3f1f45ff52/original=true/0ff5d615-22b3-4f5b-a55a-0d3f1f45ff52.jpeg",
       "hash": "U6A0dr00yrR5.mD%.8rr=foyIoSg00.7q]x]",
@@ -205,10 +157,74 @@
         1280045,
         1416874
       ]
+    },
+    {
+      "id": 51712705,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a85ca162-4089-4a37-a188-81e47dbd6baf/original=true/a85ca162-4089-4a37-a188-81e47dbd6baf.jpeg",
+      "hash": "UYQbUt%#x]-;?wt7RPRjEM%fofX9n#kCt7a~",
+      "width": 1224,
+      "height": 1224,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-18T11:54:45.723Z",
+      "postId": 11626190,
+      "stats": {
+        "cryCount": 167,
+        "laughCount": 262,
+        "likeCount": 2387,
+        "dislikeCount": 0,
+        "heartCount": 1197,
+        "commentCount": 1
+      },
+      "meta": {
+        "": {},
+        "Size": "1224x1224",
+        "seed": 1553535929,
+        "Model": "boleromix_noob_V1.2",
+        "steps": 30,
+        "hashes": {
+          "model": "4c92b20324"
+        },
+        "prompt": "masterpiece, best quality, newest, absurdres, highres, safe,cute face,clean skin ,shiny hair,ultra-detailed-eyes,simple background,cute girl,spread anus,ass cutout panties",
+        "Version": "v1.10.1-72-g021154d8",
+        "sampler": "Euler",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 4.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "4c92b20324",
+            "name": "boleromix_noob_V1.2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "4c92b20324",
+        "Tile Overlap": "48",
+        "Schedule type": "Simple",
+        "Noise Schedule": "Default",
+        "Upscale factor": "1.2",
+        "negativePrompt": "(worst quality,bad quality,lowres,bad fingers,extra fingersextra legs,missing legs,missing fingers:1.1),furry,signature, username, logo, bad hands, mutated hands, mammal, anthro, furry, ambiguous form, feral, semi-anthro,multipul angle,split view,censored,bar censored",
+        "Keep input size": "true}",
+        "Tile batch size": "4",
+        "Tile tile width": "96",
+        "Tiled Diffusion": {},
+        "Tile tile height": "96",
+        "Denoising strength": "0.15",
+        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
+        "Tiled Diffusion scale factor": "1.2"
+      },
+      "username": "bolero537",
+      "baseModel": "NoobAI",
+      "modelVersionIds": [
+        1284890
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "348|1750144080000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=348%7C1750144080000"
+    "nextCursor": "349|1737201285723",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=349%7C1737201285723"
   }
 }
