@@ -1,112 +1,6 @@
 {
   "items": [
     {
-      "id": 42753283,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f89475b-39bf-48f2-ade2-84a2e11d78bd/original=true/6f89475b-39bf-48f2-ade2-84a2e11d78bd.jpeg",
-      "hash": "UBFX@yqt5lKjLN00oz?bLM4n~BtR%MIAXSoy",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-11-29T17:07:18.673Z",
-      "postId": 9731541,
-      "stats": {
-        "cryCount": 112,
-        "laughCount": 237,
-        "likeCount": 2293,
-        "dislikeCount": 0,
-        "heartCount": 1292,
-        "commentCount": 5
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 814392310,
-        "draft": false,
-        "extra": {
-          "remixOfId": 42725924
-        },
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, wearing 18 years old, white hair, girl, straight bangs, ponytail, goth, choker, sexy maid uniform, rich room interior, thighhighs, large boobs, highleg thong, pose, back to viewer, the girl bent over, ass focus, looking at viewer, sexy, thick thighs, big hips, sexy, dramatic lightning, nervous, looking at viewer, dynamic angle",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-11-29T1706:55.8621298Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, pierced nipples, piercings, zPDXLxxx, thick lips,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 820661,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "Tasuma4kA",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        820661
-      ]
-    },
-    {
       "id": 89348543,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f9869a9-c05b-48db-ba17-4f3734a1757e/original=true/4f9869a9-c05b-48db-ba17-4f3734a1757e.jpeg",
       "hash": "UFFE+S-qD*~BemEL9]-o4noeo}nOM{NGW=g3",
@@ -188,10 +82,80 @@
         1025139,
         1061050
       ]
+    },
+    {
+      "id": 44914622,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44dac125-3b13-4f30-9322-89ffdaa05c3c/original=true/44dac125-3b13-4f30-9322-89ffdaa05c3c.jpeg",
+      "hash": "UHATTN%M4.IU~W%2D*M{x]t7jERjI:of%1WB",
+      "width": 912,
+      "height": 1336,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-12-11T11:57:18.541Z",
+      "postId": 10179294,
+      "stats": {
+        "cryCount": 101,
+        "laughCount": 213,
+        "likeCount": 2287,
+        "dislikeCount": 0,
+        "heartCount": 1331,
+        "commentCount": 9
+      },
+      "meta": {
+        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
+        "Size": "832x1216",
+        "seed": 4150833372,
+        "Model": "speciosa25D_v12",
+        "steps": 36,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "e1431355af",
+          "lora:1319 refrigerator_v1_pony": "f53f913ab2ba"
+        },
+        "prompt": ",ruanyi1319,refrigerator,1girl,from behind,huge ass,bent over,thong aside,pussy,garter straps,garter belt,lace-trimmed panties,<lora:1319 refrigerator_v1_pony:1>, score_9,score_8_up,score_7_up,,8k,1girl,solo,,, sweat,shiny skin,sweatdrop,",
+        "Version": "v1.10.0",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "f53f913ab2ba",
+            "name": "1319 refrigerator_v1_pony",
+            "type": "lora"
+          },
+          {
+            "hash": "e1431355af",
+            "name": "speciosa25D_v12",
+            "type": "model"
+          }
+        ],
+        "Model hash": "e1431355af",
+        "Hires steps": "20",
+        "Hires upscale": "1.1",
+        "Schedule type": "Karras",
+        "Hires upscaler": "R-ESRGAN 4x+",
+        "negativePrompt": "score_6,score_5,score_4,bad anatomy,bad hands,missing fingers,fewer digits,source_furry,source_pony,source_cartoon,3d,,watermark,blurry",
+        "ADetailer model": "face_yolov9c.pt",
+        "ADetailer version": "24.9.0",
+        "Denoising strength": "0.5",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.8",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "ruanyi",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        634767
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "376|1752998995107",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=376%7C1752998995107"
+    "nextCursor": "377|1733918238541",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=377%7C1733918238541"
   }
 }
