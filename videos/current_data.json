@@ -1,119 +1,6 @@
 {
   "items": [
     {
-      "id": 55974911,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/deb7d2ae-cca8-46b2-b2a1-fa47bae22fdb/original=true/deb7d2ae-cca8-46b2-b2a1-fa47bae22fdb.jpeg",
-      "hash": "UFJ72XQmCQM_y=In%Nn4-9%1S4xt4;t7D%xu",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-05T14:02:57.712Z",
-      "postId": 12536663,
-      "stats": {
-        "cryCount": 132,
-        "laughCount": 264,
-        "likeCount": 2351,
-        "dislikeCount": 0,
-        "heartCount": 1220,
-        "commentCount": 4
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1076705651,
-        "steps": 34,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, close up, (focus on huge penis:1.3), table, , photo card of cute girl, stapple, (text:1.2) , man out of frame, veins, messy room, view from above, (cute flying heart:0.6)\n",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-02-01T1308:04.9633015Z",
-        "negativePrompt": "light,\nsource_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 3.2,
-            "modelVersionId": 712947,
-            "modelVersionName": "v1.4"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 98441,
-            "modelVersionName": "V2"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 983142,
-            "modelVersionName": "v1.4-pony"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "vovkkabanko",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        98441,
-        128461,
-        290640,
-        298238,
-        382152,
-        436219,
-        712947,
-        983142
-      ]
-    },
-    {
       "id": 94447247,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/54f4f45c-eecd-4b2e-bf04-7d480f380c6c/original=true/54f4f45c-eecd-4b2e-bf04-7d480f380c6c.jpeg",
       "hash": "U8JGpUD%00~WC+D*Dh=|0056#jWDE1?G=|0L",
@@ -167,10 +54,108 @@
         1860747,
         1896532
       ]
+    },
+    {
+      "id": 43086918,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed8e2242-7621-4561-816a-e232dfbfd015/original=true/ed8e2242-7621-4561-816a-e232dfbfd015.jpeg",
+      "hash": "U4E1,800BoD%00~UeoKO#*IqRPK5O@4.^*Md",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-01T11:16:44.774Z",
+      "postId": 9801049,
+      "stats": {
+        "cryCount": 120,
+        "laughCount": 221,
+        "likeCount": 2303,
+        "dislikeCount": 0,
+        "heartCount": 1319,
+        "commentCount": 3
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 458824868,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, solo, 1girl, source_anime, beautiful face, 18 years old, short ginger hair, microdress, fishnet tubetop , large breasts, no panties, laying on side, 1 leg up, anal fingering, (self fingering) , masturbation, anal juice, moaning , bed , s1_dram, blurry background, light particles, ethereal, dark, glowing",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-11-28T1746:13.6750736Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "360|1755280446988",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=360%7C1755280446988"
+    "nextCursor": "361|1733051804774",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=361%7C1733051804774"
   }
 }
