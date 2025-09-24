@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 95304717,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2464094-0495-408c-96f2-ff417d95170b/original=true/f2464094-0495-408c-96f2-ff417d95170b.jpeg",
-      "hash": "UMKdlAWV%#-;9aWARPt70zWBnht7?^WCNakC",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-19T23:21:24.359Z",
-      "postId": 21139516,
-      "stats": {
-        "cryCount": 165,
-        "laughCount": 233,
-        "likeCount": 2416,
-        "dislikeCount": 0,
-        "heartCount": 1106,
-        "commentCount": 0
-      },
-      "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 804088851,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, medium breasts, nipples, 1girl, short shorts, mole on breast, open mouth, white tank top, black hair, loose shirt, looking at viewer, armpits, smile, loose clothes, playground, outdoors, short hair, collarbone, denim shorts, blue eyes, thigh gap, no bra,  downblouse, arms up, blurry background, blue shorts, :d, nipple slip, cowboy shot, hair between eyes, leaning forward, day, upper teeth only, v-shaped eyebrows, pov, blush, depth of field, musical note, bare shoulders",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "78d4ccffb16c",
-            "name": "loose_tank_top_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1379960
-      ]
-    },
-    {
       "id": 25079567,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7f96a657-9d91-4fbb-b8f7-32a48e3a13bd/original=true/7f96a657-9d91-4fbb-b8f7-32a48e3a13bd.jpeg",
       "hash": "UGL:$J.l3=*0?uTdR6be3rbwcFMdRQTKaJNa",
@@ -144,10 +75,121 @@
       "username": "bluvoll",
       "baseModel": "Pony",
       "modelVersionIds": []
+    },
+    {
+      "id": 54041606,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5634a9e2-3b1f-44aa-b7a7-a8d5e3ffabb5/original=true/5634a9e2-3b1f-44aa-b7a7-a8d5e3ffabb5.jpeg",
+      "hash": "U6HKa~000~EQ0M0L~o5600^O={0LMdEM?bRP",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-01-27T05:30:00.000Z",
+      "postId": 12125738,
+      "stats": {
+        "cryCount": 127,
+        "laughCount": 247,
+        "likeCount": 2380,
+        "dislikeCount": 0,
+        "heartCount": 1156,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1769457916,
+        "draft": false,
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, UHD, 16k, high res, high detailed,\nWendyDarling, 1girl, solo, brown hair, hairbow, blue eyes, lipstick,\nlace bra lift up, lace panties undressing, slutty, \nfullbody, in bedroom, sit on bed, legs spread,",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-01-01T1414:55.0357649Z",
+        "negativePrompt": "furry, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, zPDXLxxx, thick lips, long body",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 612836,
+            "modelVersionName": "v1.0 : Pony"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 1029540,
+            "modelVersionName": "Gothic Neon v2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 133241,
+            "modelVersionName": "v0.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "UtharkRuna",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        133241,
+        135867,
+        290640,
+        382152,
+        436219,
+        612836,
+        1029540
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "382|1746638476424",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=382%7C1746638476424"
+    "nextCursor": "383|1737955800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=383%7C1737955800000"
   }
 }
