@@ -1,117 +1,6 @@
 {
   "items": [
     {
-      "id": 54041606,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5634a9e2-3b1f-44aa-b7a7-a8d5e3ffabb5/original=true/5634a9e2-3b1f-44aa-b7a7-a8d5e3ffabb5.jpeg",
-      "hash": "U6HKa~000~EQ0M0L~o5600^O={0LMdEM?bRP",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-01-27T05:30:00.000Z",
-      "postId": 12125738,
-      "stats": {
-        "cryCount": 127,
-        "laughCount": 247,
-        "likeCount": 2380,
-        "dislikeCount": 0,
-        "heartCount": 1156,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1769457916,
-        "draft": false,
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, UHD, 16k, high res, high detailed,\nWendyDarling, 1girl, solo, brown hair, hairbow, blue eyes, lipstick,\nlace bra lift up, lace panties undressing, slutty, \nfullbody, in bedroom, sit on bed, legs spread,",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-01-01T1414:55.0357649Z",
-        "negativePrompt": "furry, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, zPDXLxxx, thick lips, long body",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 612836,
-            "modelVersionName": "v1.0 : Pony"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 1029540,
-            "modelVersionName": "Gothic Neon v2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 133241,
-            "modelVersionName": "v0.3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "UtharkRuna",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        133241,
-        135867,
-        290640,
-        382152,
-        436219,
-        612836,
-        1029540
-      ]
-    },
-    {
       "id": 96399818,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/574da21b-4dc5-45d9-99e4-a54aeecbac16/original=true/574da21b-4dc5-45d9-99e4-a54aeecbac16.jpeg",
       "hash": "UMJHXKn*?^x[E0WB-:M{x^%1xuM{M_R%Z~xF",
@@ -186,10 +75,104 @@
         298238,
         2071650
       ]
+    },
+    {
+      "id": 66070977,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/763305da-2136-472e-b7fe-29eff1e8836e/original=true/763305da-2136-472e-b7fe-29eff1e8836e.jpeg",
+      "hash": "U9Gatb9t0g00DOR*0K~qxcWBo~$fs.Nc-VNG",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-26T22:27:07.505Z",
+      "postId": 14706259,
+      "stats": {
+        "cryCount": 180,
+        "laughCount": 253,
+        "likeCount": 2169,
+        "dislikeCount": 0,
+        "heartCount": 1305,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1895460344,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up), 1girl, skinny, ((from below, extremely low angle)), feet, bending over, panties around knees, (((white sneakers))), pink panties down, panties off, puffy pussy, dripping wet pussy, (((panties side sneakers))), close up, pigeon-toed, front view, feet together, wooden floor background",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-03-26T2222:06.0138261Z",
+        "negativePrompt": "(signature:1.3), (deformed hands:1.3), (deformed fingers:1.3),(3D:1.3), flat colors, bad anatomy, deformed, poorly drawn, low quality, patreon, extra limbs, (blurry:1.3), monochrome, mosaic censorship, censor, oversaturated, (derpibooru_p_low:1.2), clone, cartoon, realistic",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 770375,
+            "modelVersionName": "MeichiDarkAnimV2_Lust"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1025139,
+            "modelVersionName": "V1 Pony"
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1128016,
+            "modelVersionName": "V2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1194544,
+            "modelVersionName": "V3 [Pony XL]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1089452,
+            "modelVersionName": "V2 (AutismMix SDXL)"
+          }
+        ]
+      },
+      "username": "20Twenty",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        135867,
+        382152,
+        770375,
+        1025139,
+        1089452,
+        1128016,
+        1194544
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "384|1756292513120",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=384%7C1756292513120"
+    "nextCursor": "385|1743028027505",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=385%7C1743028027505"
   }
 }
