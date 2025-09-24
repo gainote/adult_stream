@@ -1,39 +1,6 @@
 {
   "items": [
     {
-      "id": 84073996,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d3c9a0f8-3b73-4195-9e42-53babd739752/original=true/d3c9a0f8-3b73-4195-9e42-53babd739752.jpeg",
-      "hash": "U8Fq?t~B5REMNHE2D*nO00oz?G~B-:s,4;Nx",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-23T17:24:04.249Z",
-      "postId": 18666463,
-      "stats": {
-        "cryCount": 118,
-        "laughCount": 264,
-        "likeCount": 2309,
-        "dislikeCount": 0,
-        "heartCount": 1214,
-        "commentCount": 0
-      },
-      "meta": null,
-      "username": "sabbufik419",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        333245,
-        1141520,
-        1157361,
-        1375651,
-        1379960,
-        1582690
-      ]
-    },
-    {
       "id": 86613986,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba7c4321-db21-4e4a-b68f-5f324a8eecbb/original=true/ba7c4321-db21-4e4a-b68f-5f324a8eecbb.jpeg",
       "hash": "UaMGh$02lA,[tkozbwof?^r=bdx[x]t7ohs.",
@@ -121,10 +88,35 @@
         1697082,
         1784760
       ]
+    },
+    {
+      "id": 88769147,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25e4330c-1520-420a-880f-33128629c2af/original=true/25e4330c-1520-420a-880f-33128629c2af.mp4",
+      "hash": "U00000fQfQfQfQfQfQfQfQfQfQfQfQfQfQfQ",
+      "width": 716,
+      "height": 1280,
+      "nsfwLevel": "Mature",
+      "type": "video",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-17T08:56:12.006Z",
+      "postId": 19691468,
+      "stats": {
+        "cryCount": 204,
+        "laughCount": 300,
+        "likeCount": 2386,
+        "dislikeCount": 0,
+        "heartCount": 1013,
+        "commentCount": 3
+      },
+      "meta": null,
+      "username": "IDfynonscs",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "388|1751801627922",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=388%7C1751801627922"
+    "nextCursor": "389|1752742572006",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=389%7C1752742572006"
   }
 }
