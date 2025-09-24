@@ -1,89 +1,6 @@
 {
   "items": [
     {
-      "id": 89348543,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f9869a9-c05b-48db-ba17-4f3734a1757e/original=true/4f9869a9-c05b-48db-ba17-4f3734a1757e.jpeg",
-      "hash": "UFFE+S-qD*~BemEL9]-o4noeo}nOM{NGW=g3",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-20T08:09:55.107Z",
-      "postId": 19820389,
-      "stats": {
-        "cryCount": 181,
-        "laughCount": 332,
-        "likeCount": 2406,
-        "dislikeCount": 0,
-        "heartCount": 1013,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 148399527,
-        "draft": false,
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up,,perky breasts,toned body,wide hips,thin masterpiece, best quality, very aesthetic, absurdres, (((masterpiece,amazing quality,best quality,ultra-detailed,8K,illustration, amazing quality, newest, absurdres, realistic))), ,detailed background ,sexy,pinup,detailed facial features,detailed toned body,seductive look,aroused,horny,sexy,pinup,detailed facial features,detailed toned body,seductive look,aroused,horny,athletic aroused,horny,sexy,pinup,detailed facial features,detailed toned body,seductive look,aroused,horny,athletic body,wide hips,standing, arched back, eyes rolling back, blush, sweat, bent over, female focus, eye lids half closed, tired, tears, crying, sad eyes, hair grab, hand on her head, open mouth, detailed image, high quality detailed, UHD, beautiful art UHD, looking at viewer, Expressiveh, vaginal sex,( doggystyle sex:1.2), rough sex, doggychoke, on dirty mattress, from behind position, covered in cum, dirty, defeated sex,broken, shaking, anal, fucked from behind, bigger male, man out of frame, motion lines, side view Expressiveh, slutty belly dancer outfit,mouth veil,veil,steamy breath,breast halter,tribal clotes,inside a royal aztec bedroom,background view on the city skyline,choker ,choker,,head grab,,kneeling,in a brothel bedroom,neon lights, 1 white guy,1girl, teresa_du_laurentia, blonde hair, blue eyes, long hair, hair bow , knight, white cape, shoulder armor, armor, breastplate, gauntlets",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-20T0630:57.3299451Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights,  extra hands, feet, boring background, simple background, black background, empty background, 3d, fat, stout, Latex Outfit, man, Male, belts, harness, bdsm, naked, nudity, Pussy, naked, bed, bedroom, inside, man, Male, multiple people, fat, stout, plump, bare legs, naked legs, Shorts, Hotpants, Side Cut, Jacket, naked breasts, bare breasts, nipples, Bangs, White top, White clothes, Lights, black clothes,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1025139,
-            "modelVersionName": "V1 Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1061050,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "LarsStecken725",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        290640,
-        382152,
-        436219,
-        1025139,
-        1061050
-      ]
-    },
-    {
       "id": 44914622,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44dac125-3b13-4f30-9322-89ffdaa05c3c/original=true/44dac125-3b13-4f30-9322-89ffdaa05c3c.jpeg",
       "hash": "UHATTN%M4.IU~W%2D*M{x]t7jERjI:of%1WB",
@@ -152,10 +69,94 @@
       "modelVersionIds": [
         634767
       ]
+    },
+    {
+      "id": 25437108,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d353a206-a8a5-4cbf-8a58-a8afa7bb94fb/original=true/d353a206-a8a5-4cbf-8a58-a8afa7bb94fb.jpeg",
+      "hash": "UbMiyU~pxuM{?v-:RjM{RjIURPt6xanhWXkD",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-08-21T14:32:35.225Z",
+      "postId": 5684746,
+      "stats": {
+        "cryCount": 90,
+        "laughCount": 194,
+        "likeCount": 2317,
+        "dislikeCount": 0,
+        "heartCount": 1329,
+        "commentCount": 2
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1839481067,
+        "extra": {
+          "remixOfId": 23767758
+        },
+        "steps": 28,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  1girl, gorgeous girl , wet kawai girl ,  cute face, cute girl, long red hair, bangs, large saggy breasts, black , naked, girl on top of man, girl sit on top, pussy view, ass view, ass focus , pussy focus, together, ((slim fit)),  sexy thighs , legs spread, feet, pussy, ((bubble ass)), ass grab , side view , pussy penetration, veiny penis, testicles, ass grab, ass focus, closeup , large ass, spread ass , motion lines , moaning",
+        "sampler": "Euler a",
+        "cfgScale": 7.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-08-14T2018:35.3890514Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers , arms raised",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "hornystoryteller",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        239420,
+        290640,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "377|1733918238541",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=377%7C1733918238541"
+    "nextCursor": "378|1724250755225",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=378%7C1724250755225"
   }
 }
