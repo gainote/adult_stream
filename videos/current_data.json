@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 95492965,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/10a64f2e-236d-4359-8fc0-82c2713f9937/original=true/10a64f2e-236d-4359-8fc0-82c2713f9937.jpeg",
-      "hash": "UMKU7r8wIU_37h9FnhtRD*s9R5R.~qxGDiSi",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-20T21:53:28.841Z",
-      "postId": 21180826,
-      "stats": {
-        "cryCount": 191,
-        "laughCount": 294,
-        "likeCount": 2258,
-        "dislikeCount": 0,
-        "heartCount": 1218,
-        "commentCount": 2
-      },
-      "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 2040112745,
-        "Model": "prefect_illustrious_XL_2.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "9d73bac23a",
-          "lora:double_anal_ilxl_goofy": "25dd2547fc66"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:double_anal_ilxl_goofy:1> double anal, frieren, 1girl, 2boys, anal, arm support, ass, black pantyhose, blush, boots, capelet, clenched teeth, clothes pull, day, double anal, drooling, earrings, elf, empty eyes, eyelashes, full body, girl on top, grabbing another's arm, green eyes, group sex, half-closed eyes, hetero, huge ass, hugging another's leg, jewelry, large penis, legs together, legs up, long hair, long pointy ears, long sleeves, looking afar, lying, lying on person, mind break, mmf threesome, multiple anal, multiple boys, multiple insertions, no panties, on back, outdoors, pantyhose, pantyhose pull, penis, penises touching, petite, pointy ears, saliva, sex, shiny skin, shirt, solo focus, sweat, teardrop earrings, teeth, thick eyebrows, thick thighs, thighs, threesome, twintails, two-tone capelet, uncensored, white capelet, white hair, white shirt, yellow capelet",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "25dd2547fc66",
-            "name": "double_anal_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "9d73bac23a",
-            "name": "prefect_illustrious_XL_2.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "9d73bac23a",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "face_yolov9c.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1873831
-      ]
-    },
-    {
       "id": 53077719,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ebd747b-6442-4f9a-8208-0ca1bc5ec4d6/original=true/2ebd747b-6442-4f9a-8208-0ca1bc5ec4d6.jpeg",
       "hash": "UbHdv#-oV?Io_MtQWARj-Vs:R*f6ShRje:t7",
@@ -140,10 +71,57 @@
         1283437,
         1284348
       ]
+    },
+    {
+      "id": 69957739,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e42e8f33-5e08-4515-9c57-84709e3e75ba/original=true/e42e8f33-5e08-4515-9c57-84709e3e75ba.jpeg",
+      "hash": "UAH1**00?wnM~VM_o}t6D%xuSiNH%fsmIUM|",
+      "width": 512,
+      "height": 896,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-14T10:41:26.364Z",
+      "postId": 15540846,
+      "stats": {
+        "cryCount": 140,
+        "laughCount": 317,
+        "likeCount": 2175,
+        "dislikeCount": 0,
+        "heartCount": 1320,
+        "commentCount": 7
+      },
+      "meta": {
+        "vaes": [
+          "wan_2.1_vae.safetensors"
+        ],
+        "comfy": "{\"prompt\": {\"3\": {\"inputs\": {\"seed\": 1094724450885096, \"steps\": 20, \"cfg\": 6.0, \"sampler_name\": \"uni_pc\", \"scheduler\": \"simple\", \"denoise\": 1.0, \"model\": [\"58\", 0], \"positive\": [\"50\", 0], \"negative\": [\"50\", 1], \"latent_image\": [\"50\", 2]}, \"class_type\": \"KSampler\", \"_meta\": {\"title\": \"KSampler\"}}, \"6\": {\"inputs\": {\"text\": \"A woman is straddling an old man and having sex with him. She bounces up and down on top of the man's thick erect penis and her breasts are jiggling. You can see the woman bouncing up and down on the man's erect penis.\\n\\n(Static camera). the camera is stationary, camera is fixed,\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Positive Prompt)\"}}, \"7\": {\"inputs\": {\"text\": \"Overexposure, static, blurred details, subtitles, paintings, pictures, still, overall gray, worst quality, low quality, JPEG compression residue, ugly, mutilated, redundant fingers, poorly painted hands, poorly painted faces, deformed, disfigured, deformed limbs, fused fingers, cluttered background, three legs, a lot of people in the background, upside down\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Negative Prompt)\"}}, \"8\": {\"inputs\": {\"samples\": [\"3\", 0], \"vae\": [\"39\", 0]}, \"class_type\": \"VAEDecode\", \"_meta\": {\"title\": \"VAE Decode\"}}, \"28\": {\"inputs\": {\"filename_prefix\": \"Wan\", \"fps\": 16.0, \"lossless\": false, \"quality\": 90, \"method\": \"default\", \"images\": [\"8\", 0]}, \"class_type\": \"SaveAnimatedWEBP\", \"_meta\": {\"title\": \"SaveAnimatedWEBP\"}}, \"37\": {\"inputs\": {\"unet_name\": \"wan2.1_i2v_480p_14B_fp8_e4m3fn.safetensors\", \"weight_dtype\": \"default\"}, \"class_type\": \"UNETLoader\", \"_meta\": {\"title\": \"Load Diffusion Model\"}}, \"38\": {\"inputs\": {\"clip_name\": \"umt5_xxl_fp8_e4m3fn_scaled.safetensors\", \"type\": \"wan\", \"device\": \"default\"}, \"class_type\": \"CLIPLoader\", \"_meta\": {\"title\": \"Load CLIP\"}}, \"39\": {\"inputs\": {\"vae_name\": \"wan_2.1_vae.safetensors\"}, \"class_type\": \"VAELoader\", \"_meta\": {\"title\": \"Load VAE\"}}, \"49\": {\"inputs\": {\"clip_name\": \"clip_vision_h.safetensors\"}, \"class_type\": \"CLIPVisionLoader\", \"_meta\": {\"title\": \"Load CLIP Vision\"}}, \"50\": {\"inputs\": {\"width\": 512, \"height\": 896, \"length\": 73, \"batch_size\": 1, \"positive\": [\"6\", 0], \"negative\": [\"7\", 0], \"vae\": [\"39\", 0], \"clip_vision_output\": [\"51\", 0], \"start_image\": [\"52\", 0]}, \"class_type\": \"WanImageToVideo\", \"_meta\": {\"title\": \"WanImageToVideo\"}}, \"51\": {\"inputs\": {\"crop\": \"none\", \"clip_vision\": [\"49\", 0], \"image\": [\"52\", 0]}, \"class_type\": \"CLIPVisionEncode\", \"_meta\": {\"title\": \"CLIP Vision Encode\"}}, \"52\": {\"inputs\": {\"image\": \"A - 00040-988817209956866.png\"}, \"class_type\": \"LoadImage\", \"_meta\": {\"title\": \"Load Image\"}, \"is_changed\": [\"a7498223f2a565e10e6106afda6558f243b07a1d552fa9ea6385424ca59644aa\"]}, \"55\": {\"inputs\": {\"unet_name\": \"wan2.1-i2v-14b-480p-Q4_0.gguf\"}, \"class_type\": \"UnetLoaderGGUF\", \"_meta\": {\"title\": \"Unet Loader (GGUF)\"}}, \"58\": {\"inputs\": {\"lora_name\": \"wan_cowgirl_v1.3.safetensors\", \"strength_model\": 1.0, \"model\": [\"55\", 0]}, \"class_type\": \"LoraLoaderModelOnly\", \"_meta\": {\"title\": \"LoraLoaderModelOnly\"}}}, \"workflow\": {\"3\": {\"inputs\": {\"seed\": 1094724450885096, \"steps\": 20, \"cfg\": 6.0, \"sampler_name\": \"uni_pc\", \"scheduler\": \"simple\", \"denoise\": 1.0, \"model\": [\"58\", 0], \"positive\": [\"50\", 0], \"negative\": [\"50\", 1], \"latent_image\": [\"50\", 2]}, \"class_type\": \"KSampler\", \"_meta\": {\"title\": \"KSampler\"}}, \"6\": {\"inputs\": {\"text\": \"A woman is straddling an old man and having sex with him. She bounces up and down on top of the man's thick erect penis and her breasts are jiggling. You can see the woman bouncing up and down on the man's erect penis.\\n\\n(Static camera). the camera is stationary, camera is fixed,\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Positive Prompt)\"}}, \"7\": {\"inputs\": {\"text\": \"Overexposure, static, blurred details, subtitles, paintings, pictures, still, overall gray, worst quality, low quality, JPEG compression residue, ugly, mutilated, redundant fingers, poorly painted hands, poorly painted faces, deformed, disfigured, deformed limbs, fused fingers, cluttered background, three legs, a lot of people in the background, upside down\", \"clip\": [\"38\", 0]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Negative Prompt)\"}}, \"8\": {\"inputs\": {\"samples\": [\"3\", 0], \"vae\": [\"39\", 0]}, \"class_type\": \"VAEDecode\", \"_meta\": {\"title\": \"VAE Decode\"}}, \"28\": {\"inputs\": {\"filename_prefix\": \"Wan\", \"fps\": 16.0, \"lossless\": false, \"quality\": 90, \"method\": \"default\", \"images\": [\"8\", 0]}, \"class_type\": \"SaveAnimatedWEBP\", \"_meta\": {\"title\": \"SaveAnimatedWEBP\"}}, \"37\": {\"inputs\": {\"unet_name\": \"wan2.1_i2v_480p_14B_fp8_e4m3fn.safetensors\", \"weight_dtype\": \"default\"}, \"class_type\": \"UNETLoader\", \"_meta\": {\"title\": \"Load Diffusion Model\"}}, \"38\": {\"inputs\": {\"clip_name\": \"umt5_xxl_fp8_e4m3fn_scaled.safetensors\", \"type\": \"wan\", \"device\": \"default\"}, \"class_type\": \"CLIPLoader\", \"_meta\": {\"title\": \"Load CLIP\"}}, \"39\": {\"inputs\": {\"vae_name\": \"wan_2.1_vae.safetensors\"}, \"class_type\": \"VAELoader\", \"_meta\": {\"title\": \"Load VAE\"}}, \"49\": {\"inputs\": {\"clip_name\": \"clip_vision_h.safetensors\"}, \"class_type\": \"CLIPVisionLoader\", \"_meta\": {\"title\": \"Load CLIP Vision\"}}, \"50\": {\"inputs\": {\"width\": 512, \"height\": 896, \"length\": 73, \"batch_size\": 1, \"positive\": [\"6\", 0], \"negative\": [\"7\", 0], \"vae\": [\"39\", 0], \"clip_vision_output\": [\"51\", 0], \"start_image\": [\"52\", 0]}, \"class_type\": \"WanImageToVideo\", \"_meta\": {\"title\": \"WanImageToVideo\"}}, \"51\": {\"inputs\": {\"crop\": \"none\", \"clip_vision\": [\"49\", 0], \"image\": [\"52\", 0]}, \"class_type\": \"CLIPVisionEncode\", \"_meta\": {\"title\": \"CLIP Vision Encode\"}}, \"52\": {\"inputs\": {\"image\": \"A - 00040-988817209956866.png\"}, \"class_type\": \"LoadImage\", \"_meta\": {\"title\": \"Load Image\"}, \"is_changed\": [\"a7498223f2a565e10e6106afda6558f243b07a1d552fa9ea6385424ca59644aa\"]}, \"55\": {\"inputs\": {\"unet_name\": \"wan2.1-i2v-14b-480p-Q4_0.gguf\"}, \"class_type\": \"UnetLoaderGGUF\", \"_meta\": {\"title\": \"Unet Loader (GGUF)\"}}, \"58\": {\"inputs\": {\"lora_name\": \"wan_cowgirl_v1.3.safetensors\", \"strength_model\": 1.0, \"model\": [\"55\", 0]}, \"class_type\": \"LoraLoaderModelOnly\", \"_meta\": {\"title\": \"LoraLoaderModelOnly\"}}}}",
+        "width": 512,
+        "height": 896,
+        "models": [],
+        "denoise": 1,
+        "sampler": "UniPC",
+        "modelIds": [],
+        "scheduler": "simple",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "additionalResources": [
+          {
+            "name": "wan_cowgirl_v1.3.safetensors",
+            "type": "lora",
+            "strength": 1
+          }
+        ]
+      },
+      "username": "magemingo951",
+      "baseModel": "IllustriousWan VideoIllustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "363|1738238460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=363%7C1738238460000"
+    "nextCursor": "364|1744627286364",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=364%7C1744627286364"
   }
 }
