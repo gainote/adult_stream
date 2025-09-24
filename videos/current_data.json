@@ -1,61 +1,6 @@
 {
   "items": [
     {
-      "id": 94447247,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/54f4f45c-eecd-4b2e-bf04-7d480f380c6c/original=true/54f4f45c-eecd-4b2e-bf04-7d480f380c6c.jpeg",
-      "hash": "U8JGpUD%00~WC+D*Dh=|0056#jWDE1?G=|0L",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-15T17:54:06.988Z",
-      "postId": 20953765,
-      "stats": {
-        "cryCount": 205,
-        "laughCount": 302,
-        "likeCount": 2313,
-        "dislikeCount": 0,
-        "heartCount": 1144,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 3864648932,
-        "Model": "JANKU v5.0 By JANXD",
-        "steps": 30,
-        "hashes": {
-          "model": "217daae812",
-          "embed:lazyneg": "ba21023c70",
-          "embed:lazypos": "3086669265",
-          "embed:lazyloli": "d23ccce75d"
-        },
-        "prompt": "lazypos, 1girl, solo, slender, naked, tentacles penetrating, extreme sex",
-        "Version": "ComfyUI",
-        "sampler": "Euler a",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "217daae812",
-            "name": "JANKU v5.0 By JANXD",
-            "type": "model"
-          }
-        ],
-        "Model hash": "217daae812",
-        "negativePrompt": "lazyneg, lazyloli"
-      },
-      "username": "janxd",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1833157,
-        1833199,
-        1860747,
-        1896532
-      ]
-    },
-    {
       "id": 43086918,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed8e2242-7621-4561-816a-e232dfbfd015/original=true/ed8e2242-7621-4561-816a-e232dfbfd015.jpeg",
       "hash": "U4E1,800BoD%00~UeoKO#*IqRPK5O@4.^*Md",
@@ -152,10 +97,79 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 95492965,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/10a64f2e-236d-4359-8fc0-82c2713f9937/original=true/10a64f2e-236d-4359-8fc0-82c2713f9937.jpeg",
+      "hash": "UMKU7r8wIU_37h9FnhtRD*s9R5R.~qxGDiSi",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-20T21:53:28.841Z",
+      "postId": 21180826,
+      "stats": {
+        "cryCount": 191,
+        "laughCount": 294,
+        "likeCount": 2258,
+        "dislikeCount": 0,
+        "heartCount": 1218,
+        "commentCount": 2
+      },
+      "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 2040112745,
+        "Model": "prefect_illustrious_XL_2.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "9d73bac23a",
+          "lora:double_anal_ilxl_goofy": "25dd2547fc66"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:double_anal_ilxl_goofy:1> double anal, frieren, 1girl, 2boys, anal, arm support, ass, black pantyhose, blush, boots, capelet, clenched teeth, clothes pull, day, double anal, drooling, earrings, elf, empty eyes, eyelashes, full body, girl on top, grabbing another's arm, green eyes, group sex, half-closed eyes, hetero, huge ass, hugging another's leg, jewelry, large penis, legs together, legs up, long hair, long pointy ears, long sleeves, looking afar, lying, lying on person, mind break, mmf threesome, multiple anal, multiple boys, multiple insertions, no panties, on back, outdoors, pantyhose, pantyhose pull, penis, penises touching, petite, pointy ears, saliva, sex, shiny skin, shirt, solo focus, sweat, teardrop earrings, teeth, thick eyebrows, thick thighs, thighs, threesome, twintails, two-tone capelet, uncensored, white capelet, white hair, white shirt, yellow capelet",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
+          {
+            "hash": "25dd2547fc66",
+            "name": "double_anal_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "9d73bac23a",
+            "name": "prefect_illustrious_XL_2.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "9d73bac23a",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "face_yolov9c.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1873831
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "361|1733051804774",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=361%7C1733051804774"
+    "nextCursor": "362|1755726808841",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=362%7C1755726808841"
   }
 }
