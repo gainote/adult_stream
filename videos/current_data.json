@@ -1,71 +1,6 @@
 {
   "items": [
     {
-      "id": 92161136,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba7a82c5-7dd5-4024-a3c0-497acb5dd754/original=true/ba7a82c5-7dd5-4024-a3c0-497acb5dd754.jpeg",
-      "hash": "U3D*w.9v01=|0f5Q^1^i00^3}=NaOG^6-W9^",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-03T20:42:15.089Z",
-      "postId": 20445050,
-      "stats": {
-        "cryCount": 235,
-        "laughCount": 256,
-        "likeCount": 2369,
-        "dislikeCount": 0,
-        "heartCount": 1078,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 576441443,
-        "draft": false,
-        "extra": {
-          "remixOfId": 88951716
-        },
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, 30yo, goth girl, mature, elf girl, dark skin, brown skin, latina girl, colombian, black hair, short bangs, mini bangs, micro bangs, smooth skin, fit, medium breasts, tall girl, angular face, defined cheekbones, high cheekbones, defined chin, strong chin, mature, blushing, rolling eyes, big eyes, beautiful eyes, detailed eyes, eye shadow, thick eyebrows, pierce eyebrow, detailed face, green eyes, perky tits, pierced nipples, choker, topless, garter belt, belly button piercing, nose ring, lying on floor, restrained, held down, manhandled, messy apartment, very petite boys watching, rough sex, anal, brutal anal sex, pussy, dildo in mouth, cinematic lighting, soft light, soft contrast, cum, bukkake, excessive cum, drunk, wild party, exposed tits, night, smooth skin, gangbang, lots of very petite men, cute men, petite men, much larger female, very small penises, lots of petite boys,",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 2.5,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-03T1938:29.1626673Z",
-        "experimental": false,
-        "negativePrompt": "lowres, worst quality, low quality, low score, bad score,  blurry, text, ugly, hooded eyes, watermark, pale",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1945697,
-            "modelVersionName": "V1"
-          }
-        ]
-      },
-      "username": "MysticCreations",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1761560,
-        1945697
-      ]
-    },
-    {
       "id": 69015241,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5ff47af-02b5-4e1e-8907-a2c5728c3688/original=true/a5ff47af-02b5-4e1e-8907-a2c5728c3688.jpeg",
       "hash": "UAI4Lu00uPmk.S00t,9G0e-ov}tle8-;R5X8",
@@ -98,10 +33,100 @@
         436219,
         1122823
       ]
+    },
+    {
+      "id": 35082602,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d7bbd2d6-a7ec-489f-993f-92088748de45/original=true/d7bbd2d6-a7ec-489f-993f-92088748de45.jpeg",
+      "hash": "ULG81UMJxukW=|Q,XSoz~WITxaX9jbM{OYWV",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-23T06:56:00.000Z",
+      "postId": 8018327,
+      "stats": {
+        "cryCount": 133,
+        "laughCount": 300,
+        "likeCount": 2258,
+        "dislikeCount": 0,
+        "heartCount": 1246,
+        "commentCount": 7
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 26340736,
+        "steps": 23,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, \n1girl, 25 years old, perfect face, looking at viewer, cute, petite, \ndark eyes, \nbob cut, inverted bob, streaked hair, brown hair, yellow hair, floating hair, \nplaid clothes, plaid dress, brown dress, green dress, belt, strapless dress, \npetticoat, \nblack thighhighs,\nautumn, autumn leaves, \nblush, groin, no panties,\nsurprised, panic, embarrassed, open mouth, pussy peek, covering privates, wind, wind lift, cover mouth,",
+        "sampler": "DPM2 a",
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-10-17T1219:27.6113693Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, furry, monochrome, curvy, fat, pubic hair, watermark, \nartist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed),",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "carefull_time",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "371|1744226515444",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=371%7C1744226515444"
+    "nextCursor": "372|1729666560000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=372%7C1729666560000"
   }
 }
