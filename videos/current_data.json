@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "id": 44914622,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44dac125-3b13-4f30-9322-89ffdaa05c3c/original=true/44dac125-3b13-4f30-9322-89ffdaa05c3c.jpeg",
-      "hash": "UHATTN%M4.IU~W%2D*M{x]t7jERjI:of%1WB",
-      "width": 912,
-      "height": 1336,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-11T11:57:18.541Z",
-      "postId": 10179294,
-      "stats": {
-        "cryCount": 101,
-        "laughCount": 213,
-        "likeCount": 2287,
-        "dislikeCount": 0,
-        "heartCount": 1331,
-        "commentCount": 9
-      },
-      "meta": {
-        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
-        "Size": "832x1216",
-        "seed": 4150833372,
-        "Model": "speciosa25D_v12",
-        "steps": 36,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "e1431355af",
-          "lora:1319 refrigerator_v1_pony": "f53f913ab2ba"
-        },
-        "prompt": ",ruanyi1319,refrigerator,1girl,from behind,huge ass,bent over,thong aside,pussy,garter straps,garter belt,lace-trimmed panties,<lora:1319 refrigerator_v1_pony:1>, score_9,score_8_up,score_7_up,,8k,1girl,solo,,, sweat,shiny skin,sweatdrop,",
-        "Version": "v1.10.0",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "f53f913ab2ba",
-            "name": "1319 refrigerator_v1_pony",
-            "type": "lora"
-          },
-          {
-            "hash": "e1431355af",
-            "name": "speciosa25D_v12",
-            "type": "model"
-          }
-        ],
-        "Model hash": "e1431355af",
-        "Hires steps": "20",
-        "Hires upscale": "1.1",
-        "Schedule type": "Karras",
-        "Hires upscaler": "R-ESRGAN 4x+",
-        "negativePrompt": "score_6,score_5,score_4,bad anatomy,bad hands,missing fingers,fewer digits,source_furry,source_pony,source_cartoon,3d,,watermark,blurry",
-        "ADetailer model": "face_yolov9c.pt",
-        "ADetailer version": "24.9.0",
-        "Denoising strength": "0.5",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.8",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "ruanyi",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        634767
-      ]
-    },
-    {
       "id": 25437108,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d353a206-a8a5-4cbf-8a58-a8afa7bb94fb/original=true/d353a206-a8a5-4cbf-8a58-a8afa7bb94fb.jpeg",
       "hash": "UbMiyU~pxuM{?v-:RjM{RjIURPt6xanhWXkD",
@@ -153,10 +83,90 @@
         290640,
         436219
       ]
+    },
+    {
+      "id": 91790132,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da956656-78cb-4da7-95c2-581bbbe3a405/original=true/da956656-78cb-4da7-95c2-581bbbe3a405.jpeg",
+      "hash": "UBF;Zm}p0Mkqv#^Nxu9^Mxr=t7S6%1-UI:Eg",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T17:55:04.478Z",
+      "postId": 20364375,
+      "stats": {
+        "cryCount": 209,
+        "laughCount": 362,
+        "likeCount": 2304,
+        "dislikeCount": 0,
+        "heartCount": 1049,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 59209694,
+        "steps": 25,
+        "prompt": "score_9, s\nscore_9, score_8_up, score_8, score_7_up,  Medusa, sn4k3h41r, , snake hair, having sex, Expressiveh, taking of her cloth, pantie, pussy,  ,  exposed breasts, (sagging_breasts:0.8), penetration , toga , greek mythology, brutal anal , topless, , dogggie style, night, greek temple",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-08-01T1647:53.6746814Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, 3d, monochrome",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 413502,
+            "modelVersionName": "V1"
+          }
+        ]
+      },
+      "username": "sinuhetheforth",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        290640,
+        382152,
+        398847,
+        413502,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "378|1724250755225",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=378%7C1724250755225"
+    "nextCursor": "379|1754070904478",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=379%7C1754070904478"
   }
 }
