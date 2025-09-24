@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "id": 90818417,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5d3259e6-8625-41ca-8591-11d440175c69/original=true/5d3259e6-8625-41ca-8591-11d440175c69.jpeg",
-      "hash": "USHLxPMx%#%h?b9FjZt6a$9FRPV?_MofkCWq",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-27T17:51:55.933Z",
-      "postId": 20140110,
-      "stats": {
-        "cryCount": 201,
-        "laughCount": 380,
-        "likeCount": 2374,
-        "dislikeCount": 0,
-        "heartCount": 1018,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 836211769,
-        "draft": false,
-        "steps": 60,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, USA, 35mm disposable camera scan, in kitchen at noon, rays of light, sitting on chair at kitchen counter looking back, buttocks, female nudity, fully nude, stoned, eating lunch, lunch time, diet soda, margherita pizza, eating pizza, burgers and hot dogs, BREAK 1girl, an 21 year old American stoner chick, pale skin, fit, large soft breasts, from behind, short wavy black and red hair with bangs, messy hair,",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 7,
-        "workflow": "txt2img",
-        "baseModel": "SDXL",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-27T1746:15.6449071Z",
-        "experimental": false,
-        "negativePrompt": "Selfie, makeup, weird hands, too many fingers, too few fingers, deformity",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1920523,
-            "modelVersionName": "VXVII - CrystalClear (Realism)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 243570,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "mikeh2102reading382",
-      "baseModel": "SDXL 1.0",
-      "modelVersionIds": [
-        243570,
-        1920523
-      ]
-    },
-    {
       "id": 57377940,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de6cbc88-bd58-4cfc-894d-6985c31494ef/original=true/de6cbc88-bd58-4cfc-894d-6985c31494ef.jpeg",
       "hash": "ULKJ+1~qY5%M$%-pOXX800RjIUNGT0RP$*Rj",
@@ -141,10 +79,85 @@
         567119,
         1050644
       ]
+    },
+    {
+      "id": 79872405,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/abf6f7ed-1200-4fbf-84b0-ddf4279b8b12/original=true/abf6f7ed-1200-4fbf-84b0-ddf4279b8b12.jpeg",
+      "hash": "U8A]g10g0z-U58-nafbGE3%0IpbHX5E2~Asp",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-02T02:01:42.995Z",
+      "postId": 17742600,
+      "stats": {
+        "cryCount": 141,
+        "laughCount": 324,
+        "likeCount": 2462,
+        "dislikeCount": 0,
+        "heartCount": 1040,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 451700073,
+        "draft": false,
+        "extra": {
+          "remixOfId": 78566516
+        },
+        "steps": 28,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up,score_7_up, score_6_up, score_5_up, score_4_up, (realistic lighting), solo, 1girl, masterpiece, best quality,\ndark-haired and dark-eyed librarian with glasses, loose wavy black hair to her shoulder, (curvy figure), (tiny waist), hourglass figure, sexy librarian, modern office setting, \nblack leotard,\nleaning against a desk, scholarly atmosphere, contemporary style, books and sleek decor, warm and muted tones, intellectual and mysterious aura, cozy and sophisticated ambiance, \nwide shot, full body, from beind,\nArsMJStyle, (Colored pencil hyperdetailed realism)",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "SDXL",
+        "resources": [],
+        "Created Date": "2025-06-01T2346:23.9794898Z",
+        "negativePrompt": "text, logos, bad quality, nudity",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1759168,
+            "modelVersionName": "Ragnarok_by_RunDiffusion"
+          },
+          {
+            "type": "lora",
+            "weight": 0.95,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 263801,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1404932,
+            "modelVersionName": "SDXLv2"
+          }
+        ]
+      },
+      "username": "PBCreator",
+      "baseModel": "SDXL 1.0",
+      "modelVersionIds": [
+        135867,
+        263801,
+        1404932,
+        1759168
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "357|1739425080000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=357%7C1739425080000"
+    "nextCursor": "358|1748829702995",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=358%7C1748829702995"
   }
 }
