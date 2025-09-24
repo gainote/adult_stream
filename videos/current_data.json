@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "id": 35082602,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d7bbd2d6-a7ec-489f-993f-92088748de45/original=true/d7bbd2d6-a7ec-489f-993f-92088748de45.jpeg",
-      "hash": "ULG81UMJxukW=|Q,XSoz~WITxaX9jbM{OYWV",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-10-23T06:56:00.000Z",
-      "postId": 8018327,
-      "stats": {
-        "cryCount": 133,
-        "laughCount": 300,
-        "likeCount": 2258,
-        "dislikeCount": 0,
-        "heartCount": 1246,
-        "commentCount": 7
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 26340736,
-        "steps": 23,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, \n1girl, 25 years old, perfect face, looking at viewer, cute, petite, \ndark eyes, \nbob cut, inverted bob, streaked hair, brown hair, yellow hair, floating hair, \nplaid clothes, plaid dress, brown dress, green dress, belt, strapless dress, \npetticoat, \nblack thighhighs,\nautumn, autumn leaves, \nblush, groin, no panties,\nsurprised, panic, embarrassed, open mouth, pussy peek, covering privates, wind, wind lift, cover mouth,",
-        "sampler": "DPM2 a",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-17T1219:27.6113693Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, furry, monochrome, curvy, fat, pubic hair, watermark, \nartist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed),",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "carefull_time",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
-    },
-    {
       "id": 12098257,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c97233de-bf0b-470a-be31-badb1a66e5d4/original=true/c97233de-bf0b-470a-be31-badb1a66e5d4.jpeg",
       "hash": "UKK0{P~qyX?bOA%gx]g3OZWVIUWB9Gs.t7oz",
@@ -120,10 +30,69 @@
         382152,
         244808
       ]
+    },
+    {
+      "id": 76171785,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f7f7a4e-066e-4650-a556-7087fdcd95c6/original=true/0f7f7a4e-066e-4650-a556-7087fdcd95c6.jpeg",
+      "hash": "UPJtF_-=O[WV.TKRS5nNFg%hMxxD%gflM{%0",
+      "width": 1024,
+      "height": 1536,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-05-18T07:50:19.210Z",
+      "postId": 16914977,
+      "stats": {
+        "cryCount": 130,
+        "laughCount": 257,
+        "likeCount": 2353,
+        "dislikeCount": 0,
+        "heartCount": 1196,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "1024x1536",
+        "seed": 1488918142,
+        "Model": "JANKU v4.0 - Based Noob EPS v1.1 NSFW By JANXD.safetensors",
+        "steps": 30,
+        "hashes": {
+          "model": "59225eddc3",
+          "embed:lazyneg": "4fa59e6d9a",
+          "embed:lazympos,": "3a5c2a561b",
+          "lora:Extreme_Sex_v2.0-IllustriousXLNoobAI": "e5b900cf6e"
+        },
+        "prompt": "lazympos, cute college woman, large breasts ,athletic, athletic build, ((slim fit)), 1girl, light rays, looking at viewer, sky, solo, gradient color, erotic, (beautiful face), eyelashes, erotic, looking seductive, coy, dynamic action image, detailed face, direct mesmerizing gaze, mature female, clitoris, laying ,plump pussy, vaginal sex, xxllabia, vulva, pussy fuck, man fucking girl,sexy pussy focus, meaty pussy, swollen pussy, athletic tall, side sex, brown  skinned female, side sex position,  dark skin, blushing, embarrassed, black eyeliner, thick black eyeshadow, cool light, native woman, detailed pussy, pussy focus, office supplies, paperwork, papers on floor, brown skin, missionary, office, office desk , from side, Sandy blonde hair, dark green eyes, thick dick in pussy, round frame glasses, clothes on floor, secretary,  thigh highs, penthouse, loose braids, messy hair, cum on body, cum on breasts, cum on hair",
+        "sampler": "Euler a",
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "e5b900cf6e",
+            "name": "Extreme_Sex_v2.0-IllustriousXLNoobAI",
+            "type": "lora"
+          },
+          {
+            "hash": "59225eddc3",
+            "name": "JANKU v4.0 - Based Noob EPS v1.1 NSFW By JANXD.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "59225eddc3",
+        "negativePrompt": "lazyneg"
+      },
+      "username": "janxd",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1558647,
+        1591915,
+        1613410,
+        1772645
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "373|1715377330300",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=373%7C1715377330300"
+    "nextCursor": "374|1747554619210",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=374%7C1747554619210"
   }
 }
