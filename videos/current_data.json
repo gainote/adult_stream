@@ -1,86 +1,74 @@
 {
   "items": [
     {
-      "id": 19538955,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b5d8e18-0b43-49d3-80f2-738ea6c2e96e/original=true/6b5d8e18-0b43-49d3-80f2-738ea6c2e96e.jpeg",
-      "hash": "U89Y;~}s5QEMxER+I;Nt9]NHxZs:S4kAxGe:",
+      "id": 100821490,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ac55ffc-d1a6-43d0-a1d4-f0b97cf44de1/original=true/6ac55ffc-d1a6-43d0-a1d4-f0b97cf44de1.jpeg",
+      "hash": "UEGtT.=FC,Xmo#vgM|JA0zK*#S^+GFFx%1%2",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-12T17:25:10.131Z",
-      "postId": 4364169,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-17T11:57:00.000Z",
+      "postId": 22367665,
       "stats": {
-        "cryCount": 115,
-        "laughCount": 198,
-        "likeCount": 2268,
+        "cryCount": 185,
+        "laughCount": 298,
+        "likeCount": 2420,
         "dislikeCount": 0,
-        "heartCount": 1370,
-        "commentCount": 0
+        "heartCount": 1049,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 273874473,
-        "steps": 30,
-        "prompt": "(score_9, score_8_up, score_7_up), 1girl, 20 year old, long black hair, hime cut, nose ring, perky breasts, cleavage, pretty face, looking at viewer, purple eyes, light freckles, oversized hoodie, black skirt, striped thigh-high socks, gothic boots, leaning on wall, exhausted, looking up, saliva leaking from mouth, cock slumped over girl face, cock worship, tongue out, penis on face, detailed background, inside, bar, volumetric lighting, vivid colours, full body shot from above,",
-        "sampler": "Euler a",
+        "seed": 1815788543,
+        "extra": {
+          "remixOfId": 97962623
+        },
+        "steps": 28,
+        "prompt": "(EyesHD:1.2), (4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, cinematic,  beautiful face, beautiful eyes, \nBREAK\nambient occlusion, raytracing, soft lighting, blum effect, masterpiece, absolutely eye-catching, intricate cinematic background, \nBREAK\nmasterpiece, amazing quality, best quality, ultra-detailed, 8K, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes\nBREAK\nAka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns,\nBREAK\n (close-up:1.5), long hair, black dress, frilled sleeves, bow tie, gothic style, covering eyes, pulling clothes, nipple peak, playful gesture, shy, elegant outfit, cute, from above, from sid, breast focus, :q, lips,\nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1), wlop,",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 6,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-07-12T1624:54.8026532Z",
-        "negativePrompt": "SimpleNegativeV3, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, furry, loli, poorly drawn, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes, background characters, massive penis, massive cock, massive breasts, massive ass, muscular,",
+        "Created Date": "2025-09-17T0659:01.9953794Z",
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, earrings,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 2010753
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1888209
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1209350
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.45,
+            "modelVersionId": 1447126
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 287973,
-            "modelVersionName": "V3"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.4,
+            "modelVersionId": 2034730
           }
         ]
       },
-      "username": "WiseBurrito",
-      "baseModel": "Pony",
+      "username": "BeeZ333",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        239420,
-        287973,
-        290640,
-        398847,
-        436219
+        1209350,
+        1447126,
+        1888209,
+        2010753,
+        2034730
       ]
     },
     {
@@ -113,7 +101,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "368|1754354407230",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=368%7C1754354407230"
+    "nextCursor": "369|1754354407230",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=369%7C1754354407230"
   }
 }
