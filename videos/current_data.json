@@ -1,151 +1,6 @@
 {
   "items": [
     {
-      "id": 46405411,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cae03fa1-0ccd-400e-b57b-9a0f2466ec46/original=true/cae03fa1-0ccd-400e-b57b-9a0f2466ec46.jpeg",
-      "hash": "UKH1=7%M-:-:?b?I~WS2-;oL9tt757bbRjs.",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-12-19T14:42:34.042Z",
-      "postId": 10497932,
-      "stats": {
-        "cryCount": 145,
-        "laughCount": 261,
-        "likeCount": 2387,
-        "dislikeCount": 0,
-        "heartCount": 1160,
-        "commentCount": 2
-      },
-      "meta": {
-        "seed": 1055958293,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:534425@748555",
-        "extra": {
-          "remixOfId": 46266750
-        },
-        "steps": 34,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:534425@748555"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, source_explicit,,high quality, highly detailed, flat illustration,\n\nvoluptuous woman, [grey|blue] eyes, big lips, purple long hair, hair over eye,\n\n(white shirt with red bowtie ,  black pleated skirt, green blazer\nblack stockings with garter straps),\n\nlooking at viewer, blushing, heart\n\n(sad smile, rear view, from above, pov view, sitting on lap, ass:1.6),\n\n( desk background,  papers, hair edge lighting:1.3), \n\n(3th3r34l,:1.2)",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, score_4, score_3, score_2, muscular, fury, child, kid, easynegative, realistic, distorted, bad, downsampling, artifacts, lowres, logo, blur, signature, monochrome, 3D, low-quality, muscular, text, bad-anatomy, aliasing, worst-quality, twisted, poorly drawn, low-quality, extra fingers, blurry, censored, distortion, watermark,",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 748555
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 748555
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 475689
-          },
-          {
-            "weight": 0.4,
-            "modelVersionId": 416357
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 895052
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 768967
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 748555
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 475689
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 416357
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 895052
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 768967
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:888272@475689",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:362745@416357",
-            "type": "lora",
-            "strength": 0.4,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:800469@895052",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:687073@768967",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "MatureOnly",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        416357,
-        475689,
-        748555,
-        768967,
-        895052
-      ]
-    },
-    {
       "id": 19538955,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b5d8e18-0b43-49d3-80f2-738ea6c2e96e/original=true/6b5d8e18-0b43-49d3-80f2-738ea6c2e96e.jpeg",
       "hash": "U89Y;~}s5QEMxER+I;Nt9]NHxZs:S4kAxGe:",
@@ -227,10 +82,105 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 2500154,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0566c98b-d84f-4c28-82ab-33d899833d9e/original=true/0566c98b-d84f-4c28-82ab-33d899833d9e.jpeg",
+      "hash": "UCKJ_M$M_3i^Y5E2_39FAE9uxuIA~B00M{kB",
+      "width": 1024,
+      "height": 1536,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2023-09-14T16:38:45.792Z",
+      "postId": 596643,
+      "stats": {
+        "cryCount": 106,
+        "laughCount": 284,
+        "likeCount": 1917,
+        "dislikeCount": 0,
+        "heartCount": 1644,
+        "commentCount": 7
+      },
+      "meta": {
+        "Size": "512x768",
+        "seed": 1727106929,
+        "Model": "control_v11f1p_sd15_depth [cfd03158]",
+        "steps": 30,
+        "Weight": "1",
+        "hashes": {
+          "model": "e26c9bb8ac",
+          "lora:newb_0.1": "e5f62c1e44",
+          "embed:badhandv4": "5e40d722fc",
+          "embed:ng_deepnegative_v1_75t": "54e7e4826d"
+        },
+        "prompt": "nsfw,masterpiece,best quality,realistic,european girl,1girl,small breasts,realistic face,(close mouth:1),realistic eyes,beautiful eyes,realistic mouth,pussy,masturbate,from below,(pussy focus:1.1),nude,spread legs,between_legs,upskirt,blush,<lora:newb_0.1:0.4>,",
+        "\"Module": "depth_zoe",
+        "Version": "v1.6.0",
+        "sampler": "DPM++ 2M alt Karras",
+        "Low Vram": "False",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "\"newb_0.1": "0a21e16ec98b\"",
+        "badhandv4": "5e40d722fc3d\"",
+        "resources": [
+          {
+            "name": "newb_0.1",
+            "type": "lora",
+            "weight": 0.4
+          },
+          {
+            "hash": "e26c9bb8ac",
+            "name": "control_v11f1p_sd15_depth [cfd03158]",
+            "type": "model"
+          }
+        ],
+        "Model hash": "e26c9bb8ac",
+        "Hires steps": "15",
+        "Resize Mode": "Crop and Resize",
+        "Control Mode": "Balanced\"",
+        "Guidance End": "0.94",
+        "Hires upscale": "2",
+        "Pixel Perfect": "True",
+        "Processor Res": "512",
+        "Guidance Start": "0",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "(ng_deepnegative_v1_75t),(badhandv4),(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),",
+        "ADetailer model": "face_yolov8m.pt",
+        "ADetailer version": "23.9.2",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "hand_yolov8s.pt",
+        "Token merging ratio": "0.2",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate/erode": "32",
+        "Token merging ratio hr": "0.2",
+        "\"ng_deepnegative_v1_75t": "54e7e4826d53",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.3",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate/erode 2nd": "32",
+        "ADetailer denoising strength": "0.35",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer denoising strength 2nd": "0.2",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer mask only top k largest": "1",
+        "ADetailer mask only top k largest 2nd": "2"
+      },
+      "username": "MengX",
+      "baseModel": "SD 1.5",
+      "modelVersionIds": [
+        5637,
+        20068,
+        61391,
+        161716
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "366|1720805110131",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=366%7C1720805110131"
+    "nextCursor": "367|1694709525792",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=367%7C1694709525792"
   }
 }
