@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "id": 100821490,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ac55ffc-d1a6-43d0-a1d4-f0b97cf44de1/original=true/6ac55ffc-d1a6-43d0-a1d4-f0b97cf44de1.jpeg",
-      "hash": "UEGtT.=FC,Xmo#vgM|JA0zK*#S^+GFFx%1%2",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-17T11:57:00.000Z",
-      "postId": 22367665,
-      "stats": {
-        "cryCount": 185,
-        "laughCount": 298,
-        "likeCount": 2420,
-        "dislikeCount": 0,
-        "heartCount": 1049,
-        "commentCount": 3
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1815788543,
-        "extra": {
-          "remixOfId": 97962623
-        },
-        "steps": 28,
-        "prompt": "(EyesHD:1.2), (4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, cinematic,  beautiful face, beautiful eyes, \nBREAK\nambient occlusion, raytracing, soft lighting, blum effect, masterpiece, absolutely eye-catching, intricate cinematic background, \nBREAK\nmasterpiece, amazing quality, best quality, ultra-detailed, 8K, illustrating, CG, ultra-detailed-eyes, detailed background, cute girl, eyelashes\nBREAK\nAka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns,\nBREAK\n (close-up:1.5), long hair, black dress, frilled sleeves, bow tie, gothic style, covering eyes, pulling clothes, nipple peak, playful gesture, shy, elegant outfit, cute, from above, from sid, breast focus, :q, lips,\nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1), wlop,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-09-17T0659:01.9953794Z",
-        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts, earrings,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 2010753
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1888209
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1209350
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1447126
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 2034730
-          }
-        ]
-      },
-      "username": "BeeZ333",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1209350,
-        1447126,
-        1888209,
-        2010753,
-        2034730
-      ]
-    },
-    {
       "id": 92368808,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d658acb-ade4-4a12-a817-3d852548bace/original=true/6d658acb-ade4-4a12-a817-3d852548bace.jpeg",
       "hash": "U5JjVi042|4p00ys9vOZ02^+$%-;0KVs-:nN",
@@ -98,10 +27,75 @@
         1189052,
         1761560
       ]
+    },
+    {
+      "id": 92161136,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba7a82c5-7dd5-4024-a3c0-497acb5dd754/original=true/ba7a82c5-7dd5-4024-a3c0-497acb5dd754.jpeg",
+      "hash": "U3D*w.9v01=|0f5Q^1^i00^3}=NaOG^6-W9^",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-03T20:42:15.089Z",
+      "postId": 20445050,
+      "stats": {
+        "cryCount": 235,
+        "laughCount": 256,
+        "likeCount": 2369,
+        "dislikeCount": 0,
+        "heartCount": 1078,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 576441443,
+        "draft": false,
+        "extra": {
+          "remixOfId": 88951716
+        },
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, 30yo, goth girl, mature, elf girl, dark skin, brown skin, latina girl, colombian, black hair, short bangs, mini bangs, micro bangs, smooth skin, fit, medium breasts, tall girl, angular face, defined cheekbones, high cheekbones, defined chin, strong chin, mature, blushing, rolling eyes, big eyes, beautiful eyes, detailed eyes, eye shadow, thick eyebrows, pierce eyebrow, detailed face, green eyes, perky tits, pierced nipples, choker, topless, garter belt, belly button piercing, nose ring, lying on floor, restrained, held down, manhandled, messy apartment, very petite boys watching, rough sex, anal, brutal anal sex, pussy, dildo in mouth, cinematic lighting, soft light, soft contrast, cum, bukkake, excessive cum, drunk, wild party, exposed tits, night, smooth skin, gangbang, lots of very petite men, cute men, petite men, much larger female, very small penises, lots of petite boys,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 2.5,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-03T1938:29.1626673Z",
+        "experimental": false,
+        "negativePrompt": "lowres, worst quality, low quality, low score, bad score,  blurry, text, ugly, hooded eyes, watermark, pale",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1945697,
+            "modelVersionName": "V1"
+          }
+        ]
+      },
+      "username": "MysticCreations",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1761560,
+        1945697
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "369|1754354407230",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=369%7C1754354407230"
+    "nextCursor": "370|1754253735089",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=370%7C1754253735089"
   }
 }
