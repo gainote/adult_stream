@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "id": 12098257,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c97233de-bf0b-470a-be31-badb1a66e5d4/original=true/c97233de-bf0b-470a-be31-badb1a66e5d4.jpeg",
-      "hash": "UKK0{P~qyX?bOA%gx]g3OZWVIUWB9Gs.t7oz",
-      "width": 1960,
-      "height": 3424,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-05-10T21:42:10.300Z",
-      "postId": 2670128,
-      "stats": {
-        "cryCount": 117,
-        "laughCount": 250,
-        "likeCount": 2098,
-        "dislikeCount": 0,
-        "heartCount": 1472,
-        "commentCount": 0
-      },
-      "meta": null,
-      "username": "ADPA",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        342682,
-        330475,
-        290640,
-        382152,
-        244808
-      ]
-    },
-    {
       "id": 76171785,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f7f7a4e-066e-4650-a556-7087fdcd95c6/original=true/0f7f7a4e-066e-4650-a556-7087fdcd95c6.jpeg",
       "hash": "UPJtF_-=O[WV.TKRS5nNFg%hMxxD%gflM{%0",
@@ -89,10 +58,116 @@
         1613410,
         1772645
       ]
+    },
+    {
+      "id": 42753283,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f89475b-39bf-48f2-ade2-84a2e11d78bd/original=true/6f89475b-39bf-48f2-ade2-84a2e11d78bd.jpeg",
+      "hash": "UBFX@yqt5lKjLN00oz?bLM4n~BtR%MIAXSoy",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2024-11-29T17:07:18.673Z",
+      "postId": 9731541,
+      "stats": {
+        "cryCount": 112,
+        "laughCount": 237,
+        "likeCount": 2293,
+        "dislikeCount": 0,
+        "heartCount": 1292,
+        "commentCount": 5
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 814392310,
+        "draft": false,
+        "extra": {
+          "remixOfId": 42725924
+        },
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, wearing 18 years old, white hair, girl, straight bangs, ponytail, goth, choker, sexy maid uniform, rich room interior, thighhighs, large boobs, highleg thong, pose, back to viewer, the girl bent over, ass focus, looking at viewer, sexy, thick thighs, big hips, sexy, dramatic lightning, nervous, looking at viewer, dynamic angle",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-11-29T1706:55.8621298Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, pierced nipples, piercings, zPDXLxxx, thick lips,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 820661,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "Tasuma4kA",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        244808,
+        290640,
+        382152,
+        398847,
+        436219,
+        820661
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "374|1747554619210",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=374%7C1747554619210"
+    "nextCursor": "375|1732900038673",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=375%7C1732900038673"
   }
 }
