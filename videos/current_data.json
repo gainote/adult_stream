@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "id": 51712705,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a85ca162-4089-4a37-a188-81e47dbd6baf/original=true/a85ca162-4089-4a37-a188-81e47dbd6baf.jpeg",
-      "hash": "UYQbUt%#x]-;?wt7RPRjEM%fofX9n#kCt7a~",
-      "width": 1224,
-      "height": 1224,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-18T11:54:45.723Z",
-      "postId": 11626190,
-      "stats": {
-        "cryCount": 167,
-        "laughCount": 262,
-        "likeCount": 2387,
-        "dislikeCount": 0,
-        "heartCount": 1197,
-        "commentCount": 1
-      },
-      "meta": {
-        "": {},
-        "Size": "1224x1224",
-        "seed": 1553535929,
-        "Model": "boleromix_noob_V1.2",
-        "steps": 30,
-        "hashes": {
-          "model": "4c92b20324"
-        },
-        "prompt": "masterpiece, best quality, newest, absurdres, highres, safe,cute face,clean skin ,shiny hair,ultra-detailed-eyes,simple background,cute girl,spread anus,ass cutout panties",
-        "Version": "v1.10.1-72-g021154d8",
-        "sampler": "Euler",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 4.5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "4c92b20324",
-            "name": "boleromix_noob_V1.2",
-            "type": "model"
-          }
-        ],
-        "Model hash": "4c92b20324",
-        "Tile Overlap": "48",
-        "Schedule type": "Simple",
-        "Noise Schedule": "Default",
-        "Upscale factor": "1.2",
-        "negativePrompt": "(worst quality,bad quality,lowres,bad fingers,extra fingersextra legs,missing legs,missing fingers:1.1),furry,signature, username, logo, bad hands, mutated hands, mammal, anthro, furry, ambiguous form, feral, semi-anthro,multipul angle,split view,censored,bar censored",
-        "Keep input size": "true}",
-        "Tile batch size": "4",
-        "Tile tile width": "96",
-        "Tiled Diffusion": {},
-        "Tile tile height": "96",
-        "Denoising strength": "0.15",
-        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
-        "Tiled Diffusion scale factor": "1.2"
-      },
-      "username": "bolero537",
-      "baseModel": "NoobAI",
-      "modelVersionIds": [
-        1284890
-      ]
-    },
-    {
       "id": 7606136,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6da3fff0-ee90-4942-ad32-c9def43e62f1/original=true/6da3fff0-ee90-4942-ad32-c9def43e62f1.jpeg",
       "hash": "U7LfN}Vt03xa0QsmXTX900%1AFX9%zV@~ot7",
@@ -111,10 +47,188 @@
       "modelVersionIds": [
         290640
       ]
+    },
+    {
+      "id": 85623842,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6873f549-087c-4145-9b67-b5573c05ff3c/original=true/6873f549-087c-4145-9b67-b5573c05ff3c.jpeg",
+      "hash": "UFLC^.Mw1a9tEd={D*Ip1Z%2~CRlixEyVssp",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-01T10:49:00.000Z",
+      "postId": 19003152,
+      "stats": {
+        "cryCount": 121,
+        "laughCount": 260,
+        "likeCount": 2410,
+        "dislikeCount": 0,
+        "heartCount": 1218,
+        "commentCount": 3
+      },
+      "meta": {
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, shop,(mart:1.1), hand shelf, (long pink dress:0.9), bent over, blonde braid, view from side above, back head, wide, ( dress close up:1.3), close up,",
+        "denoise": 0.5,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Pony",
+        "upscalers": [],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/312393096690510012117334896822320347217.jpg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "\n\nsource_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ribs, jewelry, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, more than five fingers, crosseyed, easynegative, bestiality",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 1959359
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 98441
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 128461
+          },
+          {
+            "weight": 0.55,
+            "modelVersionId": 298238
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 471794
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 983142
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1959359
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 128461
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 298238
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 471794
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 983142
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1730868@1959359",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:118427@128461",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:264290@298238",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.9,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:200255@471794",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:217340@983142",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "vovkkabanko",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        98441,
+        128461,
+        290640,
+        298238,
+        382152,
+        471794,
+        983142,
+        1959359
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "350|1730499698898",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=350%7C1730499698898"
+    "nextCursor": "351|1751366940000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=351%7C1751366940000"
   }
 }
