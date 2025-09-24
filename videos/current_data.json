@@ -84,103 +84,36 @@
       ]
     },
     {
-      "id": 2500154,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0566c98b-d84f-4c28-82ab-33d899833d9e/original=true/0566c98b-d84f-4c28-82ab-33d899833d9e.jpeg",
-      "hash": "UCKJ_M$M_3i^Y5E2_39FAE9uxuIA~B00M{kB",
-      "width": 1024,
-      "height": 1536,
+      "id": 92368808,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d658acb-ade4-4a12-a817-3d852548bace/original=true/6d658acb-ade4-4a12-a817-3d852548bace.jpeg",
+      "hash": "U5JjVi042|4p00ys9vOZ02^+$%-;0KVs-:nN",
+      "width": 1344,
+      "height": 768,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2023-09-14T16:38:45.792Z",
-      "postId": 596643,
+      "createdAt": "2025-08-05T00:40:07.230Z",
+      "postId": 20489988,
       "stats": {
-        "cryCount": 106,
-        "laughCount": 284,
-        "likeCount": 1917,
+        "cryCount": 216,
+        "laughCount": 273,
+        "likeCount": 2412,
         "dislikeCount": 0,
-        "heartCount": 1644,
-        "commentCount": 7
+        "heartCount": 1039,
+        "commentCount": 0
       },
-      "meta": {
-        "Size": "512x768",
-        "seed": 1727106929,
-        "Model": "control_v11f1p_sd15_depth [cfd03158]",
-        "steps": 30,
-        "Weight": "1",
-        "hashes": {
-          "model": "e26c9bb8ac",
-          "lora:newb_0.1": "e5f62c1e44",
-          "embed:badhandv4": "5e40d722fc",
-          "embed:ng_deepnegative_v1_75t": "54e7e4826d"
-        },
-        "prompt": "nsfw,masterpiece,best quality,realistic,european girl,1girl,small breasts,realistic face,(close mouth:1),realistic eyes,beautiful eyes,realistic mouth,pussy,masturbate,from below,(pussy focus:1.1),nude,spread legs,between_legs,upskirt,blush,<lora:newb_0.1:0.4>,",
-        "\"Module": "depth_zoe",
-        "Version": "v1.6.0",
-        "sampler": "DPM++ 2M alt Karras",
-        "Low Vram": "False",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "\"newb_0.1": "0a21e16ec98b\"",
-        "badhandv4": "5e40d722fc3d\"",
-        "resources": [
-          {
-            "name": "newb_0.1",
-            "type": "lora",
-            "weight": 0.4
-          },
-          {
-            "hash": "e26c9bb8ac",
-            "name": "control_v11f1p_sd15_depth [cfd03158]",
-            "type": "model"
-          }
-        ],
-        "Model hash": "e26c9bb8ac",
-        "Hires steps": "15",
-        "Resize Mode": "Crop and Resize",
-        "Control Mode": "Balanced\"",
-        "Guidance End": "0.94",
-        "Hires upscale": "2",
-        "Pixel Perfect": "True",
-        "Processor Res": "512",
-        "Guidance Start": "0",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "(ng_deepnegative_v1_75t),(badhandv4),(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),",
-        "ADetailer model": "face_yolov8m.pt",
-        "ADetailer version": "23.9.2",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "hand_yolov8s.pt",
-        "Token merging ratio": "0.2",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate/erode": "32",
-        "Token merging ratio hr": "0.2",
-        "\"ng_deepnegative_v1_75t": "54e7e4826d53",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.3",
-        "ADetailer inpaint padding": "32",
-        "ADetailer dilate/erode 2nd": "32",
-        "ADetailer denoising strength": "0.35",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer denoising strength 2nd": "0.2",
-        "ADetailer inpaint only masked 2nd": "True",
-        "ADetailer mask only top k largest": "1",
-        "ADetailer mask only top k largest 2nd": "2"
-      },
-      "username": "MengX",
-      "baseModel": "SD 1.5",
+      "meta": null,
+      "username": "faceless_ito",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        5637,
-        20068,
-        61391,
-        161716
+        1189052,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "367|1694709525792",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=367%7C1694709525792"
+    "nextCursor": "368|1754354407230",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=368%7C1754354407230"
   }
 }
