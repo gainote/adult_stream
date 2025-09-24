@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "id": 34057801,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc5850cb-e81c-4bd5-9b92-006476a4086c/original=true/bc5850cb-e81c-4bd5-9b92-006476a4086c.jpeg",
-      "hash": "U5COwL002aDi^*IVo}9G0}EM~BE1a_s.R+$%",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-10-11T18:52:04.477Z",
-      "postId": 7784890,
-      "stats": {
-        "cryCount": 112,
-        "laughCount": 298,
-        "likeCount": 2336,
-        "dislikeCount": 0,
-        "heartCount": 1277,
-        "commentCount": 11
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 961271403,
-        "extra": {
-          "remixOfId": 32587429
-        },
-        "steps": 38,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, girl, Rogue (X-Men Evolution) two-tone hair, freckles, large breasts, curvy body, standing, posing, tinted sunglasses, bikini, crop top over bikini, seductive smile, leaning on wall, graffiti on wall, shiny skin, unique angle, from above, pov",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-11T1851:43.5293238Z",
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, pierced nipples, piercings, zPDXLxxx, thick lips,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 287973,
-            "modelVersionName": "V3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 333587,
-            "modelVersionName": "Smooth 2"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 380277,
-            "modelVersionName": "XXX Rating"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "OkinUwU",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        287973,
-        290640,
-        333587,
-        380277,
-        382152,
-        398847,
-        436219
-      ]
-    },
-    {
       "id": 30744856,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/04b8faeb-240b-491b-9577-f0f28c690e3d/original=true/04b8faeb-240b-491b-9577-f0f28c690e3d.jpeg",
       "hash": "U8HK,~~V120200M~sp_3Aw~W~VSNyCNGMxR-",
@@ -164,10 +64,58 @@
         828380,
         876506
       ]
+    },
+    {
+      "id": 756596,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b83075fb-9afe-449f-b3f7-f5390d9a0716/original=true/b83075fb-9afe-449f-b3f7-f5390d9a0716.jpeg",
+      "hash": "UBK12c~q018{?^NH^*RPL3IVIAIA^+Mx9ZD*",
+      "width": 768,
+      "height": 1152,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-02-09T01:12:59.814Z",
+      "postId": 205273,
+      "stats": {
+        "cryCount": 112,
+        "laughCount": 286,
+        "likeCount": 1882,
+        "dislikeCount": 0,
+        "heartCount": 1737,
+        "commentCount": 5
+      },
+      "meta": {
+        "Size": "768x1152",
+        "seed": 2179149527,
+        "Model": "braBeautifulRealistic_brav5",
+        "steps": 127,
+        "hashes": {
+          "model": "ac68270450"
+        },
+        "prompt": "(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper), 1 girl, (nsfw), (lying on bed:1.4), long hair, cleavage, (perfect_pussy:1.4), (small breasts:1.2), spread legs, (shiny silk stockings:1.2), beautiful face, <lora:GodPussy1 v2:0.5>",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "ac68270450",
+            "name": "braBeautifulRealistic_brav5",
+            "type": "model"
+          }
+        ],
+        "Model hash": "ac68270450",
+        "negativePrompt": "easynegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), low res, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, extra fingers, fewer fingers, strange fingers, bad hand, mole, ((extra legs)), ((extra hands)), bad-hands-5, hands",
+        "Denoising strength": "0"
+      },
+      "username": "jackking13579",
+      "baseModel": "SD 1.5",
+      "modelVersionIds": [
+        63786
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "346|1727074800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=346%7C1727074800000"
+    "nextCursor": "347|1707441179814",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=347%7C1707441179814"
   }
 }
