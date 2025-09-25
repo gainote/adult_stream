@@ -1,117 +1,6 @@
 {
   "items": [
     {
-      "id": 43966455,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/15d40477-e518-40de-9159-fcdca85fe346/original=true/15d40477-e518-40de-9159-fcdca85fe346.jpeg",
-      "hash": "UDFOJ$%M0LkCM}NG}[xa9uof$*NG~Vxu9tay",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-06T09:38:45.297Z",
-      "postId": 9982967,
-      "stats": {
-        "cryCount": 138,
-        "laughCount": 221,
-        "likeCount": 2282,
-        "dislikeCount": 0,
-        "heartCount": 1177,
-        "commentCount": 5
-      },
-      "meta": {
-        "seed": 1198863947,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:565749@1060748",
-        "extra": {},
-        "steps": 30,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:565749@1060748"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,high quality, highly detailed, flat illustration,\n\nbrown hair, parted hair, floating hair, forehead, brown eyes, nose blush, makeup, red lips, \npuffy body, naked, vagina, pussy, labia, clitoris,\n\n(looking at viewer, scared, screaming:1.15),\n\nblack wall background, rim lighting,\n\n ( suspended, legs up, feet, ankle bound, gainst wall, wrist bound, arms bounds:1.8),",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, score_4, score_3, score_2, muscular, fury, child, kid, easynegative, logo, worst-quality, bad-anatomy, bad, distortion, 3D, muscular, lowres, low-quality, low-quality, monochrome, aliasing, extra fingers, distorted, distorted hands, twisted, watermark, distorted fingers, bad, text, signature, author",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1060748
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1060748
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 1015638
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 430511
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1060748
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 1015638
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 430511
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:903161@1015638",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:43711@430511",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "MatureOnly",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        430511,
-        1015638,
-        1060748
-      ]
-    },
-    {
       "id": 89821020,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1457bf2-ac6c-4a3c-b356-0655c9470133/original=true/b1457bf2-ac6c-4a3c-b356-0655c9470133.jpeg",
       "hash": "UBG*Z-XS?]?H0e%h01ib1P%g#*9Z.S%M^jaJ",
@@ -179,10 +68,79 @@
         1416874,
         1490781
       ]
+    },
+    {
+      "id": 30304303,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ba0b809-ae59-41e6-a792-b30c461d3f4f/original=true/6ba0b809-ae59-41e6-a792-b30c461d3f4f.jpeg",
+      "hash": "U7F=2O00Ga$*009ZXTIUp_~B$*Rj?HnNNb%2",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-09-20T08:10:00.000Z",
+      "postId": 6780741,
+      "stats": {
+        "cryCount": 94,
+        "laughCount": 201,
+        "likeCount": 2139,
+        "dislikeCount": 0,
+        "heartCount": 1377,
+        "commentCount": 6
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1080468967,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, , g4n1m3, comicbookpage style,\n1girl, female, , portrait, close up, black hair, , dark skin, girl, , pussy, cunnilingus",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-19T1933:53.3757736Z",
+        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, , oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), , (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist,  gorget,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 706363,
+            "modelVersionName": "v5.2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 501154,
+            "modelVersionName": "Gothic Retro Anime v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 514793,
+            "modelVersionName": "comicbookpage xl v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "DLT8K",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        501154,
+        514793,
+        706363
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "414|1754266980000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=414%7C1754266980000"
+    "nextCursor": "415|1726819800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=415%7C1726819800000"
   }
 }
