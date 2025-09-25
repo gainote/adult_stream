@@ -1,100 +1,6 @@
 {
   "items": [
     {
-      "id": 76132138,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dee15ac5-36b0-4b79-8b0f-2e06bb59654d/original=true/dee15ac5-36b0-4b79-8b0f-2e06bb59654d.jpeg",
-      "hash": "UEHAq=I@xe~W%iNy%4xt0KIoELRj5PNYs9NG",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-18T07:34:34.142Z",
-      "postId": 16905921,
-      "stats": {
-        "cryCount": 155,
-        "laughCount": 303,
-        "likeCount": 2244,
-        "dislikeCount": 0,
-        "heartCount": 1093,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 269764713,
-        "draft": false,
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "highres, very detailed, amazing quality, masterpiece,\nvery aesthetic,\nparticle effect,\n(((3girls))), multiple girls, \\(totally spies\\), (samts long orange hair, green eyes, long hair, ), (cloverts, blonde hair, short hair, blue eyes, , ) (alexts, brown hair, short hair, brown eyes,, tanned skin), \nGoth, eyeliner, eyeshadow, \nFishnets, slutty clothing, see through tops, nipple tape, fishnets under clothing, dark minishorts, \nLarge breasts, large ass, wide hips, thick thighs, \nNightclub, danceclub, \nseducing, seductive, flirty, tender, loving, playful, \nClose up, cowboy shot,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-05-11T1300:56.1484656Z",
-        "negativePrompt": "lowres, worst quality, low quality, bad quality, simple background,\nsignature,\nfurry, anthro, bkub, \nchibi, loli, child, bad anatomy, missing leg, missing limb,\nabs,\nAsian,\nLatex, short orange hair,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.25,
-            "modelVersionId": 240274,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 947620,
-            "modelVersionName": "cfg scale BOOST"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 1142665,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1480387,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1495547,
-            "modelVersionName": "v1.0_Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1428766,
-            "modelVersionName": "V1"
-          }
-        ]
-      },
-      "username": "Wadufuk1",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        240274,
-        947620,
-        1142665,
-        1428766,
-        1480387,
-        1490781,
-        1495547
-      ]
-    },
-    {
       "id": 24930786,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb3f935e-f7db-458b-af84-4cd7ebbbf68b/original=true/eb3f935e-f7db-458b-af84-4cd7ebbbf68b.jpeg",
       "hash": "UGC$1QyC9aR51KOEr=n40fV[-UkB}?$*Nbbb",
@@ -197,10 +103,91 @@
         548669,
         716621
       ]
+    },
+    {
+      "id": 18257291,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/747138b7-a7be-4df6-bc18-bd40f6dd2c2a/original=true/747138b7-a7be-4df6-bc18-bd40f6dd2c2a.jpeg",
+      "hash": "UVJtk@_3?^tSwu%MIoRQNbWXWAjFtlRjt7e.",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-07-03T10:26:42.197Z",
+      "postId": 4079717,
+      "stats": {
+        "cryCount": 102,
+        "laughCount": 273,
+        "likeCount": 2205,
+        "dislikeCount": 0,
+        "heartCount": 1206,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1131342985,
+        "steps": 18,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, Merida from Brave, redhead, long hair, perfect face, perfect eyes, sexy, sexy girl, beautiful eyes, petite body, wide hips, perfect cute face, standing, exposed naked large breasts, cleavage, oversized top, seductive look, pink panties, takes off panties, girl pulling down underwear to knees, clothes pulled down, leaning forward, pussy visible, perfect hands, blush, close up, dynamic angle",
+        "sampler": "DPM2 a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-07-03T1025:16.0055073Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, furry, monochrome, curvy, fat, pubic hair, watermark,\nwhitespace, watermark, signature, artist name, easynegative, ugly, old, plain background, monochrome, (disfigured), stumpy, irregular, ugly face, mutated hands, low res, blurry face, pumped body, bad anatomy, bad eyes, dot eyes, monochrome, unfinished, sketch, greyscale,  crowd, disembodied,  (weird anatomy), bad anatomy, conjoined, mutated, mixed bodied, fused bodies, disembodied, artifacts, jpeg artifacts, empty panel, (deformed), (unfinished), (lots of white-space filling image), teeth",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 582944,
+            "modelVersionName": "v2.1 Alternative + VAE"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 438481,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "Maka_Ron",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        382152,
+        438481,
+        582944
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "421|1723989079378",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=421%7C1723989079378"
+    "nextCursor": "422|1720002402197",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=422%7C1720002402197"
   }
 }
