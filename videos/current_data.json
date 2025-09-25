@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 50106551,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bfd5aad6-b8ab-4d3a-9d8f-cd6ac54e10fa/original=true/bfd5aad6-b8ab-4d3a-9d8f-cd6ac54e10fa.jpeg",
-      "hash": "UVL;T{NIYR-oF#ozE4n#9vRji_WX%Mn$xFf,",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-07T10:38:23.603Z",
-      "postId": 11282573,
-      "stats": {
-        "cryCount": 127,
-        "laughCount": 192,
-        "likeCount": 2315,
-        "dislikeCount": 0,
-        "heartCount": 1146,
-        "commentCount": 0
-      },
-      "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 3114702096,
-        "Model": "prefectious_nsfw.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "4286171e4b",
-          "lora:lumine_hot_spring_ilxl_goofy": "86ce62cb3b8f"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, <lora:lumine_hot_spring_ilxl_goofy:1>lumine-hs , beach, bikini, bikini bottom only, blonde hair, breasts, cowboy shot, flower, hair between eyes, hair flower, hair ornament, looking down, medium breasts, navel, nipples, outdoors, parted lips, short hair with long locks, sky, stomach, swimsuit, topless, wading, water, wet, white bikini, yellow eyes",
-        "Version": "f1.1.5-v1.10.1RC-latest-876-g62d901b3",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 6,
-        "resources": [
-          {
-            "hash": "86ce62cb3b8f",
-            "name": "lumine_hot_spring_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "4286171e4b",
-            "name": "prefectious_nsfw.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "4286171e4b",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.16",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1111838
-      ]
-    },
-    {
       "id": 82804652,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fc22828-a54e-4c10-b306-d47a03bec85e/original=true/5fc22828-a54e-4c10-b306-d47a03bec85e.jpeg",
       "hash": "U9HB0t0L9}IA~p4..8Rj00IU-o%M4.-pMxR*",
@@ -226,10 +157,69 @@
         1280045,
         1416874
       ]
+    },
+    {
+      "id": 69021349,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5af05113-acbc-491a-9d7f-3a89f007d75e/original=true/5af05113-acbc-491a-9d7f-3a89f007d75e.jpeg",
+      "hash": "UIP=Wvd=.m?v^+aL%Nxu0eoz?Hrr?bR5r@nj",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-09T20:06:42.494Z",
+      "postId": 15336125,
+      "stats": {
+        "cryCount": 148,
+        "laughCount": 234,
+        "likeCount": 2087,
+        "dislikeCount": 0,
+        "heartCount": 1308,
+        "commentCount": 4
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 203171613,
+        "draft": false,
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "prompt": "licking pussy, cunnilingus, close up, side view, wet, orgasm, fingering, fingering anus",
+        "sampler": "Euler a",
+        "cfgScale": 10,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-04-07T1248:28.2402619Z",
+        "negativePrompt": "EasyNegative, censure, text",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1617798,
+            "modelVersionName": "v2.1fix"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          }
+        ]
+      },
+      "username": "hugegog354",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        382152,
+        1617798
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "425|1750142940000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=425%7C1750142940000"
+    "nextCursor": "426|1744229202494",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=426%7C1744229202494"
   }
 }
