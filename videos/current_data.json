@@ -74,33 +74,79 @@
       ]
     },
     {
-      "id": 88769147,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25e4330c-1520-420a-880f-33128629c2af/original=true/25e4330c-1520-420a-880f-33128629c2af.mp4",
-      "hash": "U00000fQfQfQfQfQfQfQfQfQfQfQfQfQfQfQ",
-      "width": 716,
-      "height": 1280,
+      "id": 91901168,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/79eacfd2-4362-451f-90fe-17bc79a09ab5/original=true/79eacfd2-4362-451f-90fe-17bc79a09ab5.jpeg",
+      "hash": "UCH_GGxGB-~V-:t7o~OF0MXS^Ooc^+aeD*s9",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
-      "type": "video",
+      "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-17T08:56:12.006Z",
-      "postId": 19691468,
+      "createdAt": "2025-08-02T08:42:46.359Z",
+      "postId": 20388029,
       "stats": {
-        "cryCount": 204,
-        "laughCount": 300,
-        "likeCount": 2386,
+        "cryCount": 213,
+        "laughCount": 313,
+        "likeCount": 2397,
         "dislikeCount": 0,
-        "heartCount": 1013,
-        "commentCount": 3
+        "heartCount": 976,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "IDfynonscs",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3623074430,
+        "draft": false,
+        "extra": {
+          "remixOfId": 90186862
+        },
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "prompt": "a standing topless woman in blue jeans, confident pose, clean indoor lighting, minimal backdrop  <lora:Woman877.v2:0.7> woman877, 25-year-old French woman, light beige skin with natural freckles, thick jet blonde hair in a layered cut with soft waves, brown eyes, oval face, petite frame with a delicate waist",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "SDXL",
+        "resources": [
+          {
+            "name": "Woman877.v2",
+            "type": "lora",
+            "weight": 0.7
+          }
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-02T0829:04.7203506Z",
+        "experimental": false,
+        "negativePrompt": "cartoon, illustration, anime, painting, CGI, 3D render, low quality, watermark, logo, label, deformed eyes, deformed iris",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1970318,
+            "modelVersionName": "XL3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 2043110,
+            "modelVersionName": "V2 (SFW) - SDXL"
+          }
+        ]
+      },
+      "username": "rhp_01",
+      "baseModel": "SDXL 1.0",
+      "modelVersionIds": [
+        1970318,
+        2043110
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "390|1752742572006",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=390%7C1752742572006"
+    "nextCursor": "391|1754124166359",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=391%7C1754124166359"
   }
 }
