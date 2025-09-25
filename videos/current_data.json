@@ -1,92 +1,76 @@
 {
   "items": [
     {
-      "id": 86613986,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba7c4321-db21-4e4a-b68f-5f324a8eecbb/original=true/ba7c4321-db21-4e4a-b68f-5f324a8eecbb.jpeg",
-      "hash": "UaMGh$02lA,[tkozbwof?^r=bdx[x]t7ohs.",
-      "width": 832,
-      "height": 1216,
+      "id": 16347676,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cf454b25-80f6-47b7-98a6-23d206faebe3/original=true/cf454b25-80f6-47b7-98a6-23d206faebe3.jpeg",
+      "hash": "U9AT+kNHE1%gOst7t7RPbbt8H=V@?^kCH?of",
+      "width": 2128,
+      "height": 3112,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-07-06T11:33:47.922Z",
-      "postId": 19217711,
+      "createdAt": "2024-06-19T11:51:15.452Z",
+      "postId": 3661109,
       "stats": {
         "cryCount": 128,
-        "laughCount": 292,
-        "likeCount": 2464,
+        "laughCount": 283,
+        "likeCount": 2306,
         "dislikeCount": 0,
-        "heartCount": 1020,
+        "heartCount": 1186,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 471060303,
-        "draft": false,
-        "steps": 34,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, very aesthetic, absurdres, best quality, good quality, newest, highres,\n,1girl, solo,rainbow hair,long hair, @_@, colorful, flower, surreal, glowing, staring, floating hair,\nSmoothNegative_Hands\n748cmstyle",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-06T1129:05.3352869Z",
-        "experimental": false,
-        "negativePrompt": "3d, realistic, 3d render,\u00a0 zoomed in, pubic hair, three breasts, too many breasts, furry, score_4, score_5, score_6, (ugly), worst quality, low quality, displeasing, low-resolution, blurry, noisy, distorted, glitch, bad anatomy, poorly drawn, deformed, distorted hands, deformed hands, deformed fingers, three finger hands, extra fingers, , (cropped), out of frame, text, signature, watermark, logo,multiple characters, extra character, chibi, small character,robot",
-        "civitaiResources": [
+        "seed": 3762800517,
+        "Model": "ponyDiffusionV6XL_v6StartWithThisOne",
+        "steps": 30,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "LORA:Kenva": "189804f733",
+          "embed:negativeXL_D": "fff5d51ab6",
+          "LORA:Goth_girl_XL-v2": "a0a604c260",
+          "LORA:Expressive_H-000001": "7b53da0391",
+          "LORA:Concept Art Twilight Style SDXL_LoRA_Pony Diffusion V6 XL": "2d9ee3fc65"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,  solo, 1girl, gothic, nature, glowing, luminescent, goth, naked, pale skin, black hair, standing, thong, shirt, crop top, arms up, adjusting hair, red eyes, midriff, cameltoe, bottomless, smile, thigh gap, starry night, garden, outside, blossoms, blue glowing butterflies  <lora:Concept Art Twilight Style SDXL_LoRA_Pony Diffusion V6 XL:0.8> concept art, realistic,  <lora:Expressive_H-000001:0.8>, expressiveH   <lora:Kenva:0.6>, knva <lora:Goth_girl_XL-v2:0.8> Goth girl",
+        "Version": "ComfyUI",
+        "sampler": "Euler a Karras",
+        "cfgScale": 7,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1697082,
-            "modelVersionName": "v2.2"
-          },
-          {
+            "name": "Expressive_H-000001",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1784760,
-            "modelVersionName": "Smooth Booster v3"
+            "weight": 0.8
           },
           {
+            "name": "Kenva",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1674551,
-            "modelVersionName": "illus01 v1.121"
+            "weight": 0.6
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1668031,
-            "modelVersionName": "Smooth Negative Hands"
-          },
-          {
+            "name": "Goth_girl_XL-v2",
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
+            "weight": 0.8
           },
           {
-            "type": "vae",
-            "weight": 1,
-            "modelVersionId": 1653403,
-            "modelVersionName": "v1.0"
+            "hash": "67ab2fd8ec",
+            "name": "ponyDiffusionV6XL_v6StartWithThisOne",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "67ab2fd8ec",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, eyes closed,"
       },
-      "username": "futsalabcdccc",
-      "baseModel": "Illustrious",
+      "username": null,
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1056404,
-        1668031,
-        1674551,
-        1697082,
-        1784760
+        454703,
+        330475,
+        290640,
+        382152,
+        461295,
+        134583
       ]
     },
     {
@@ -116,7 +100,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "389|1752742572006",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=389%7C1752742572006"
+    "nextCursor": "390|1752742572006",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=390%7C1752742572006"
   }
 }
