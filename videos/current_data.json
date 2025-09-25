@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 30304303,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ba0b809-ae59-41e6-a792-b30c461d3f4f/original=true/6ba0b809-ae59-41e6-a792-b30c461d3f4f.jpeg",
-      "hash": "U7F=2O00Ga$*009ZXTIUp_~B$*Rj?HnNNb%2",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-09-20T08:10:00.000Z",
-      "postId": 6780741,
-      "stats": {
-        "cryCount": 94,
-        "laughCount": 201,
-        "likeCount": 2139,
-        "dislikeCount": 0,
-        "heartCount": 1377,
-        "commentCount": 6
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1080468967,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, , g4n1m3, comicbookpage style,\n1girl, female, , portrait, close up, black hair, , dark skin, girl, , pussy, cunnilingus",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-19T1933:53.3757736Z",
-        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, , oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), , (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist,  gorget,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 706363,
-            "modelVersionName": "v5.2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 501154,
-            "modelVersionName": "Gothic Retro Anime v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 514793,
-            "modelVersionName": "comicbookpage xl v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "DLT8K",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        501154,
-        514793,
-        706363
-      ]
-    },
-    {
       "id": 74223220,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1d2c3745-049c-456b-b360-0addde0add1d/original=true/1d2c3745-049c-456b-b360-0addde0add1d.jpeg",
       "hash": "UaF~8BtRaJbH~VNbIBbIENRjD*ozEM%0t6oe",
@@ -95,10 +26,100 @@
       "modelVersionIds": [
         1676525
       ]
+    },
+    {
+      "id": 17410591,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/59e0ecb5-56e6-4fa0-9e93-cedc7fdc3252/original=true/59e0ecb5-56e6-4fa0-9e93-cedc7fdc3252.jpeg",
+      "hash": "U8CFFy7g14^PqunO#RE2}sxGFxtQ-V$%9]Vt",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2024-06-27T10:43:50.354Z",
+      "postId": 3900323,
+      "stats": {
+        "cryCount": 85,
+        "laughCount": 286,
+        "likeCount": 2150,
+        "dislikeCount": 0,
+        "heartCount": 1287,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 2024067631,
+        "steps": 36,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, Kim Possible, redhead, long hair, black top, pink panties, perfect face, perfecteyes, sexy, sexy girl, beautiful eyes, petite body, wide hips, medium breasts, underboob, arms up, posing, dynamic angle, biting own lip, standing",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-06-27T1040:45.6555893Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "Ninjada",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "416|1746405360000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=416%7C1746405360000"
+    "nextCursor": "417|1719485030354",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=417%7C1719485030354"
   }
 }
