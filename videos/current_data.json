@@ -1,124 +1,56 @@
 {
   "items": [
     {
-      "id": 41783137,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/628c2570-e883-42e7-a542-af8f468b69f5/original=true/628c2570-e883-42e7-a542-af8f468b69f5.jpeg",
-      "hash": "UEN9LQ9GA2My7o4o0OSO00t5a6M{?w-;xusm",
-      "width": 3328,
-      "height": 4864,
-      "nsfwLevel": "X",
+      "id": 84334112,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc865371-7177-479f-ae9a-0d4ce0d2d42c/original=true/bc865371-7177-479f-ae9a-0d4ce0d2d42c.jpeg",
+      "hash": "UBIWcs9tyD}]^kxux]-o0f}[t8EK_3NGX8Rj",
+      "width": 1536,
+      "height": 2304,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-26T23:47:58.616Z",
-      "postId": 9512233,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-24T23:55:00.000Z",
+      "postId": 18721113,
       "stats": {
-        "cryCount": 194,
-        "laughCount": 316,
-        "likeCount": 2233,
+        "cryCount": 121,
+        "laughCount": 263,
+        "likeCount": 2292,
         "dislikeCount": 0,
-        "heartCount": 1109,
-        "commentCount": 5
+        "heartCount": 1174,
+        "commentCount": 9
       },
       "meta": {
-        "seed": 666,
-        "Model": "",
+        "Size": "2305x1537",
+        "seed": 308082977959255,
+        "Model": "riMixPONYIllustrious_riMix",
         "steps": 30,
         "hashes": {
-          "lora:PDXL_NP21i": "0cf22449e4",
-          "lora:hand 4 SDXL": "2ad54bfcac",
-          "lora:feet v3 SDXL": "945760630b",
-          "lora:add-detail-xl": "0d9bd1b873",
-          "lora:feet_anime_pony_v2": "508c29478c",
-          "lora:Expressive_H-000001": "7b53da0391",
-          "lora:HandFixer_pdxl_Incrs_v1": "f013d372ae",
-          "lora:StS_PonyXL_Detail_Slider_v1": "e557f50a1e",
-          "lora:ponyv4_noob1_2_adamW-000017": "bf047b0dc0",
-          "lora:breasts_size_slider_illustrious_goofy": "61e2e0e923",
-          "lora:kei-karuizawa-s2-illustrious-lora-nochekaiser": "c4eaad7adf"
+          "model": "f944b4784b"
         },
-        "sampler": "Euler A",
-        "cfgScale": 7,
+        "prompt": "1girl, fishnet thighhighs, thighhighs, solo, fishnets, breasts, pointing at viewer, couch, red hair, one eye closed, lying, looking at viewer, underwear, panties, smile, navel, black panties, on back, long hair, choker, tank top, thighs, pointing, arm behind head, black choker, yellow eyes, highleg, on couch, ringed eyes, highleg panties, wooden floor, finger gun, large breasts, pillow, grin, thong, pink shirt, indoors, armpits, pink tank top masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral",
+        "CFG Scale": "6.0",
         "resources": [
           {
-            "hash": "945760630b",
-            "name": "feet v3 SDXL",
-            "type": "lora"
-          },
-          {
-            "hash": "508c29478c",
-            "name": "feet_anime_pony_v2",
-            "type": "lora"
-          },
-          {
-            "hash": "2ad54bfcac",
-            "name": "hand 4 SDXL",
-            "type": "lora"
-          },
-          {
-            "hash": "f013d372ae",
-            "name": "HandFixer_pdxl_Incrs_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "bf047b0dc0",
-            "name": "ponyv4_noob1_2_adamW-000017",
-            "type": "lora"
-          },
-          {
-            "hash": "61e2e0e923",
-            "name": "breasts_size_slider_illustrious_goofy",
-            "type": "lora"
-          },
-          {
-            "hash": "e557f50a1e",
-            "name": "StS_PonyXL_Detail_Slider_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "0d9bd1b873",
-            "name": "add-detail-xl",
-            "type": "lora"
-          },
-          {
-            "hash": "7b53da0391",
-            "name": "Expressive_H-000001",
-            "type": "lora"
-          },
-          {
-            "hash": "0cf22449e4",
-            "name": "PDXL_NP21i",
-            "type": "lora"
-          },
-          {
-            "hash": "c4eaad7adf",
-            "name": "kei-karuizawa-s2-illustrious-lora-nochekaiser",
-            "type": "lora"
+            "hash": "f944b4784b",
+            "name": "riMixPONYIllustrious_riMix",
+            "type": "model"
           }
         ],
-        "Model hash": "",
-        "Schedule type": "Karras"
+        "Model hash": "f944b4784b",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "Tozi_White",
-      "baseModel": "SDXL 1.0",
+      "username": "phinjo",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        994596,
-        135867,
-        471794,
-        568727,
-        1061714,
-        382152,
-        471781,
-        1036362,
-        920355,
-        1093948,
-        712947,
-        945805
+        1916444
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "400|1713965467642",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=400%7C1713965467642"
+    "nextCursor": "401|1750809300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=401%7C1750809300000"
   }
 }
