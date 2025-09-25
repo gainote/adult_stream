@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "id": 61106884,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbb3af34-94fd-420a-88a8-ef46a0bf70b9/original=true/dbb3af34-94fd-420a-88a8-ef46a0bf70b9.jpeg",
-      "hash": "UIGk5s~WAbxuxao}Nx%29utQ%Mt7-;%M%2NG",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-02T21:09:00.000Z",
-      "postId": 13665550,
-      "stats": {
-        "cryCount": 140,
-        "laughCount": 236,
-        "likeCount": 2225,
-        "dislikeCount": 0,
-        "heartCount": 1226,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 849664904,
-        "extra": {
-          "remixOfId": 50390093
-        },
-        "steps": 25,
-        "prompt": "(score_9, score_8_up, score_7_up), 1girl, young adult, ginger hair, lots of large freckles, gorgeous, kawaii girl, cute face, long hair, bangs, topless, (slim fit), large breasts, breasts hanging down, wide hips, (bubble butt, round ass:1.4), sexy thighs, waist chain, sheer loincloth, market, glossy, pretty girl, focus on girl, side view, aesthetic, (young face:1.3), bending over, tip-toes, grabbing legs, looking back at viewer, showing off, butt focus, pussy, wet asshole, asshole dripping, excess lube, ((self fisting,anal masturbation,anal)), half open eyes, biting lip, squirting pussy",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-03-02T1751:56.0934348Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, low quality body,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 770375,
-            "modelVersionName": "MeichiDarkAnimV2_Lust"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 809818,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": null,
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        436219,
-        770375,
-        809818
-      ]
-    },
-    {
       "id": 96683999,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e08f145e-4cc6-42f6-a0cf-be9326a5cfa9/original=true/e08f145e-4cc6-42f6-a0cf-be9326a5cfa9.jpeg",
       "hash": "UOL|ZJI9Td%LGuSNpJM{0eWB?bwI~VS~R*b]",
@@ -148,10 +68,121 @@
       "modelVersionIds": [
         1379960
       ]
+    },
+    {
+      "id": 43966455,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/15d40477-e518-40de-9159-fcdca85fe346/original=true/15d40477-e518-40de-9159-fcdca85fe346.jpeg",
+      "hash": "UDFOJ$%M0LkCM}NG}[xa9uof$*NG~Vxu9tay",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-12-06T09:38:45.297Z",
+      "postId": 9982967,
+      "stats": {
+        "cryCount": 138,
+        "laughCount": 221,
+        "likeCount": 2282,
+        "dislikeCount": 0,
+        "heartCount": 1177,
+        "commentCount": 5
+      },
+      "meta": {
+        "seed": 1198863947,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:565749@1060748",
+        "extra": {},
+        "steps": 30,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:565749@1060748"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,high quality, highly detailed, flat illustration,\n\nbrown hair, parted hair, floating hair, forehead, brown eyes, nose blush, makeup, red lips, \npuffy body, naked, vagina, pussy, labia, clitoris,\n\n(looking at viewer, scared, screaming:1.15),\n\nblack wall background, rim lighting,\n\n ( suspended, legs up, feet, ankle bound, gainst wall, wrist bound, arms bounds:1.8),",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_4, score_3, score_2, muscular, fury, child, kid, easynegative, logo, worst-quality, bad-anatomy, bad, distortion, 3D, muscular, lowres, low-quality, low-quality, monochrome, aliasing, extra fingers, distorted, distorted hands, twisted, watermark, distorted fingers, bad, text, signature, author",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1060748
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1060748
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 1015638
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 430511
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1060748
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 1015638
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 430511
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:903161@1015638",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:43711@430511",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "MatureOnly",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        164821,
+        430511,
+        1015638,
+        1060748
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "412|1756333040355",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=412%7C1756333040355"
+    "nextCursor": "413|1733477925297",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=413%7C1733477925297"
   }
 }
