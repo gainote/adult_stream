@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "id": 17661822,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa783f0b-ce27-49e7-b454-ff8797706eb9/original=true/fa783f0b-ce27-49e7-b454-ff8797706eb9.jpeg",
-      "hash": "UCIo|UDk0e}@tK5ROskp5lix=e={^jNbEMkB",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-06-29T05:52:41.233Z",
-      "postId": 3953398,
-      "stats": {
-        "cryCount": 81,
-        "laughCount": 295,
-        "likeCount": 2153,
-        "dislikeCount": 0,
-        "heartCount": 1356,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1213235488,
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_8, 1girl, white skin, big blue eyes, messy bangs, brown hair, pink shirt, cleavage, white skirt, pale skin, body freckles, librarian, glasses, massive perfectly round breasts, necklace, library, bookshelves, \ndynamic angle, \ncinematic lighting, volumetric lighting, full body,\nExpressiveh,\nflashing tits, breasts, nipples, squishing breasts,\nhorny, biting lip, looking to the side,\npeople filming, group of people with cell phone,",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-06-28T2211:16.5253284Z",
-        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), black and white, bulge",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 333587,
-            "modelVersionName": "Smooth 2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 448254,
-            "modelVersionName": "Pony v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "Typhoon",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        128461,
-        244808,
-        290640,
-        333587,
-        382152,
-        448254
-      ]
-    },
-    {
       "id": 28964679,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5e236090-ac27-483b-a2ca-fa94e85c3a5e/original=true/5e236090-ac27-483b-a2ca-fa94e85c3a5e.jpeg",
       "hash": "UBF4iw%L9]}@OYbIkC$*03M|xZEN,:-UR+9u",
@@ -179,10 +89,116 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 90281825,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8bde4e7-b32d-432f-a1f4-d09d9350b579/original=true/c8bde4e7-b32d-432f-a1f4-d09d9350b579.jpeg",
+      "hash": "U6C6Gh%M0L-:At9G8_-p0ft7}@x]M|R+-:oJ",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-25T01:05:00.000Z",
+      "postId": 20021779,
+      "stats": {
+        "cryCount": 140,
+        "laughCount": 286,
+        "likeCount": 2356,
+        "dislikeCount": 0,
+        "heartCount": 1081,
+        "commentCount": 5
+      },
+      "meta": {
+        "seed": 402691757,
+        "vaes": [],
+        "extra": {},
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "models": [],
+        "prompt": "score_9, score_8_up, score_8_up, 28yo girl, very thin, flat body, medium sized breasts, expressive face, bob, blonde hair combed behind ear, portrait photo, blurred background, neon lighting, red silk dress with straps, balcony party, high_society, model, earrings diamond, diamond rings, necklace, luxury,, tan, mouth open, view from the street, rain outside, standing on the balcony, side view, cityscape, highrise",
+        "denoise": 0.4,
+        "process": "img2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 6,
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/3HPNXJ81CK7JQJEYYN20T3T660.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "score_5, score_4, score_3, watermark, fat, strabismus, artist name. clothes, underwear, swimsuit, \ntop, bra, panties, \nshorts, skirt, dress, T-shirt, child, young, frills, frilled, ",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1643845
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1594293
+          },
+          {
+            "weight": 2.15,
+            "modelVersionId": 1726904
+          },
+          {
+            "weight": 1.05,
+            "modelVersionId": 1242203
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1420899
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1926656
+          },
+          {
+            "weight": 1.8,
+            "modelVersionId": 1681903
+          },
+          {
+            "weight": 2.55,
+            "modelVersionId": 1726985
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
+        "additionalResources": []
+      },
+      "username": "klaabu",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        164821,
+        1242203,
+        1420899,
+        1594293,
+        1643845,
+        1681903,
+        1726904,
+        1726985,
+        1926656
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "395|1726104957300",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=395%7C1726104957300"
+    "nextCursor": "396|1753405500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=396%7C1753405500000"
   }
 }
