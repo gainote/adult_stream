@@ -1,80 +1,6 @@
 {
   "items": [
     {
-      "id": 57572110,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a187a948-80fb-4e1b-9bf0-93103618724b/original=true/a187a948-80fb-4e1b-9bf0-93103618724b.jpeg",
-      "hash": "UMFODksoNFxt~Cf6E1Wp57R*NHWBE2j]%2oL",
-      "width": 1040,
-      "height": 1744,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-14T21:55:00.000Z",
-      "postId": 12885131,
-      "stats": {
-        "cryCount": 156,
-        "laughCount": 269,
-        "likeCount": 2395,
-        "dislikeCount": 0,
-        "heartCount": 1017,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 620138376773206,
-        "Model": "waiNSFWIllustrious_v100.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "7e87327f89",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, pale pink hair, high ponytail, long ponytail, (heterochromia:1.1), (blue eyes:0.9), round glasses, pink eyebrows, eyelashes, small breasts, looking at viewer, unbuttoned dress shirt, black lace bra down, breasts out, tight pencil skirt, high heels, sheer pantyhose, undone tie hanging loosely, sitting on office desk, one leg crossed over the other, licking lips, indoors, modern office, dim warm lighting, stacks of paperwork, half-empty coffee cup, city skyline visible through window, elegant minimalistic furniture, (dark shadows:1.0), high contrast, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.9>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.9
-          },
-          {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7e87327f89",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, tanlines, garter straps,"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1050644,
-        1345990,
-        1367422
-      ]
-    },
-    {
       "id": 4007163,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc9a6276-a8bb-4bdf-ba12-497d07e597ce/original=true/bc9a6276-a8bb-4bdf-ba12-497d07e597ce.jpeg",
       "hash": "U5CiUE-o00E100xt0e9tL~s:%gS4~Ut6rWWB",
@@ -104,10 +30,44 @@
       "username": "FourByteBurger",
       "baseModel": "SDXL 1.0",
       "modelVersionIds": []
+    },
+    {
+      "id": 47419109,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1138acfc-642b-4e5a-98d1-5fcb23f9d979/original=true/1138acfc-642b-4e5a-98d1-5fcb23f9d979.jpeg",
+      "hash": "UAA]d9T}1%tRBqpJxvxuD%#kw[IoZzMcR4Vr",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-24T20:40:17.461Z",
+      "postId": 10708241,
+      "stats": {
+        "cryCount": 111,
+        "laughCount": 194,
+        "likeCount": 2147,
+        "dislikeCount": 0,
+        "heartCount": 1382,
+        "commentCount": 0
+      },
+      "meta": null,
+      "username": "sabbufik419",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        164821,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219,
+        597720
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "407|1701216250432",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=407%7C1701216250432"
+    "nextCursor": "408|1735072817461",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=408%7C1735072817461"
   }
 }
