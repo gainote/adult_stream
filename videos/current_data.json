@@ -1,40 +1,6 @@
 {
   "items": [
     {
-      "id": 47419109,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1138acfc-642b-4e5a-98d1-5fcb23f9d979/original=true/1138acfc-642b-4e5a-98d1-5fcb23f9d979.jpeg",
-      "hash": "UAA]d9T}1%tRBqpJxvxuD%#kw[IoZzMcR4Vr",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-24T20:40:17.461Z",
-      "postId": 10708241,
-      "stats": {
-        "cryCount": 111,
-        "laughCount": 194,
-        "likeCount": 2147,
-        "dislikeCount": 0,
-        "heartCount": 1382,
-        "commentCount": 0
-      },
-      "meta": null,
-      "username": "sabbufik419",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        597720
-      ]
-    },
-    {
       "id": 48532247,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8efca49c-3b5d-4688-be14-7b46b7509ff1/original=true/8efca49c-3b5d-4688-be14-7b46b7509ff1.jpeg",
       "hash": "U-N0xR%M_NR*tRozWBV@X8M{s:t7t7RjWXt7",
@@ -99,10 +65,92 @@
       "modelVersionIds": [
         1116628
       ]
+    },
+    {
+      "id": 61847511,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09002cc6-4d8b-4c8f-8cd4-01e559d6202b/original=true/09002cc6-4d8b-4c8f-8cd4-01e559d6202b.jpeg",
+      "hash": "USEC%w9ZX8x]~pIUX9tR%MRPR*kC%gj[Rkg3",
+      "width": 1344,
+      "height": 2240,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-03-08T09:40:00.000Z",
+      "postId": 13821105,
+      "stats": {
+        "cryCount": 142,
+        "laughCount": 274,
+        "likeCount": 2362,
+        "dislikeCount": 0,
+        "heartCount": 1051,
+        "commentCount": 3
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 503609939620252,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//www.deviantart.com/marlandco",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, (1girl:1.2) and cat, cuddling, (messy bed:1.2), half-naked, tousled hair, sleepy eyes, panties, stockings, lying on bed, stretching, sunlight through window, scattered clothes, empty wine bottle, crumpled sheets, pillow on floor, indoors, bedroom, wooden floor, open curtain, blurred city view, (digital clock:0.9), TV, bedhead, bright sun lighting, from side, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censor, censored, watermark, plain simple background, blank eyes, hydrokinesis, symmetry, huge breasts, sparks, dust, (garter straps:1.1), garter belt, (from above:1.0),"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "409|1736468700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=409%7C1736468700000"
+    "nextCursor": "410|1741426800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=410%7C1741426800000"
   }
 }
