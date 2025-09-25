@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 96683999,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e08f145e-4cc6-42f6-a0cf-be9326a5cfa9/original=true/e08f145e-4cc6-42f6-a0cf-be9326a5cfa9.jpeg",
-      "hash": "UOL|ZJI9Td%LGuSNpJM{0eWB?bwI~VS~R*b]",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-27T22:17:20.355Z",
-      "postId": 21446528,
-      "stats": {
-        "cryCount": 154,
-        "laughCount": 253,
-        "likeCount": 2324,
-        "dislikeCount": 0,
-        "heartCount": 1088,
-        "commentCount": 0
-      },
-      "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 4263008467,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:banana_oekaki_style_ilxl_goofy": "5b70eeb8e91f"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:banana_oekaki_style_ilxl_goofy:1>1girl, blue buruma, bottle, breast slip, breasts, brown hair, buruma, gigantic breasts, gym shirt, gym uniform, huge breasts, large areolae, large nipples, long hair, navel, nipples, no bra, one breast out, outdoors, panties, panties under buruma, see-through clothes, see-through sleeves, shirt, solo, standing, sweat, underwear, very long hair, very sweaty, water bottle, white panties, wiping sweat, yellow eyes",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "5b70eeb8e91f",
-            "name": "banana_oekaki_style_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "Anzhc Face seg 1024 v2 y8n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1379960
-      ]
-    },
-    {
       "id": 43966455,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/15d40477-e518-40de-9159-fcdca85fe346/original=true/15d40477-e518-40de-9159-fcdca85fe346.jpeg",
       "hash": "UDFOJ$%M0LkCM}NG}[xa9uof$*NG~Vxu9tay",
@@ -179,10 +110,79 @@
         1015638,
         1060748
       ]
+    },
+    {
+      "id": 89821020,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1457bf2-ac6c-4a3c-b356-0655c9470133/original=true/b1457bf2-ac6c-4a3c-b356-0655c9470133.jpeg",
+      "hash": "UBG*Z-XS?]?H0e%h01ib1P%g#*9Z.S%M^jaJ",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-04T00:23:00.000Z",
+      "postId": 19923235,
+      "stats": {
+        "cryCount": 182,
+        "laughCount": 265,
+        "likeCount": 2367,
+        "dislikeCount": 0,
+        "heartCount": 1004,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1451077215,
+        "draft": false,
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, very lewd look, caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, small natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-22T1617:18.8843054Z",
+        "experimental": false,
+        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1189052,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1416874,
+            "modelVersionName": "[illustrious]"
+          }
+        ]
+      },
+      "username": "bm609",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1189052,
+        1416874,
+        1490781
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "413|1733477925297",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=413%7C1733477925297"
+    "nextCursor": "414|1754266980000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=414%7C1754266980000"
   }
 }
