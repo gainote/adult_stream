@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 93921839,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a1cb157-ae51-4516-821a-7776b2397c75/original=true/9a1cb157-ae51-4516-821a-7776b2397c75.jpeg",
-      "hash": "UNGl6T4.?w?bNFjFV@WByDM{aet7WVxujYRj",
-      "width": 1248,
-      "height": 1728,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-13T01:26:00.000Z",
-      "postId": 20835240,
-      "stats": {
-        "cryCount": 165,
-        "laughCount": 258,
-        "likeCount": 2321,
-        "dislikeCount": 0,
-        "heartCount": 1056,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "1248x1728",
-        "seed": 612457820572326,
-        "Model": "damnPonyIllustrious_v50IllustriousNoobai",
-        "steps": 40,
-        "prompt": "masterpiece, best quality, realistic, photorealistic, photo \\(medium\\), (instagram model, e-girl, cute, :1.2) hot, makeup, (:1.2), pouty lips, round face, eyelashes, eyeliner, 1girl, blonde hair, skinny, large breasts, sagging breasts, grin, shy, twirling_hair, looking at viewer, cowboy shot, dramatic lighting, Candid Instax Photo",
-        "Version": "ComfyUI",
-        "sampler": "DPM++ 2M SDE Karras",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "bad quality, worst quality, low quality, print, watermark, (logo, text, :1.2)\nfake breasts, (v-shaped_eyebrows, dilated_pupils, :1.1), futa, skirt pull, ass",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 2041009
-          },
-          {
-            "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 1242203
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1594293
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1681921
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1905231
-          }
-        ]
-      },
-      "username": "prompt_bit_sorcerer",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1242203,
-        1594293,
-        1681921,
-        1905231,
-        2041009
-      ]
-    },
-    {
       "id": 76132138,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dee15ac5-36b0-4b79-8b0f-2e06bb59654d/original=true/dee15ac5-36b0-4b79-8b0f-2e06bb59654d.jpeg",
       "hash": "UEHAq=I@xe~W%iNy%4xt0KIoELRj5PNYs9NG",
@@ -162,10 +93,114 @@
         1490781,
         1495547
       ]
+    },
+    {
+      "id": 24930786,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb3f935e-f7db-458b-af84-4cd7ebbbf68b/original=true/eb3f935e-f7db-458b-af84-4cd7ebbbf68b.jpeg",
+      "hash": "UGC$1QyC9aR51KOEr=n40fV[-UkB}?$*Nbbb",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-08-18T13:51:19.378Z",
+      "postId": 5571084,
+      "stats": {
+        "cryCount": 89,
+        "laughCount": 223,
+        "likeCount": 2083,
+        "dislikeCount": 0,
+        "heartCount": 1399,
+        "commentCount": 2
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 465157345,
+        "steps": 27,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  (((2girls))), gorgeous girl , 25 years old, woman, beautiful girl , French braid, intricate hair, neon teal hair, black hair, gradient two toned hair, teal sweat, updo hair, dynamic pose, (intimate:1.1),  (licking butt:1.3), passionate, alluring, sexy,  saliva drip, glowing neon teal and black hair, nude, freckles, bangs , slim body, round ass, bubble butt, soft ass, thighs, assworship , tongue focus, ass grab, spread ass, detailed anus, close up, dark background, black background, perfect lighting, chiaroscuro lighting style, g0thicPXL, glowing, neon, dynamic angle, Dutch angle, teal theme, source_anime",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-08-18T1319:45.8867934Z",
+        "negativePrompt": "score_6, score_5, score_4, (3d:1.5), lips, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, pants, (side part), (black man) , extra fingers , deformed fingers",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 716621,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 548669,
+            "modelVersionName": "v0.5-pony"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 413566,
+            "modelVersionName": "v0.1"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "DrPeeHands",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        239420,
+        290640,
+        398847,
+        413566,
+        436219,
+        548669,
+        716621
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "420|1747553674142",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=420%7C1747553674142"
+    "nextCursor": "421|1723989079378",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=421%7C1723989079378"
   }
 }
