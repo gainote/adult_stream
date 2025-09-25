@@ -1,112 +1,6 @@
 {
   "items": [
     {
-      "id": 90281825,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8bde4e7-b32d-432f-a1f4-d09d9350b579/original=true/c8bde4e7-b32d-432f-a1f4-d09d9350b579.jpeg",
-      "hash": "U6C6Gh%M0L-:At9G8_-p0ft7}@x]M|R+-:oJ",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-25T01:05:00.000Z",
-      "postId": 20021779,
-      "stats": {
-        "cryCount": 140,
-        "laughCount": 286,
-        "likeCount": 2356,
-        "dislikeCount": 0,
-        "heartCount": 1081,
-        "commentCount": 5
-      },
-      "meta": {
-        "seed": 402691757,
-        "vaes": [],
-        "extra": {},
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "score_9, score_8_up, score_8_up, 28yo girl, very thin, flat body, medium sized breasts, expressive face, bob, blonde hair combed behind ear, portrait photo, blurred background, neon lighting, red silk dress with straps, balcony party, high_society, model, earrings diamond, diamond rings, necklace, luxury,, tan, mouth open, view from the street, rain outside, standing on the balcony, side view, cityscape, highrise",
-        "denoise": 0.4,
-        "process": "img2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 6,
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/3HPNXJ81CK7JQJEYYN20T3T660.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "score_5, score_4, score_3, watermark, fat, strabismus, artist name. clothes, underwear, swimsuit, \ntop, bra, panties, \nshorts, skirt, dress, T-shirt, child, young, frills, frilled, ",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1643845
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1594293
-          },
-          {
-            "weight": 2.15,
-            "modelVersionId": 1726904
-          },
-          {
-            "weight": 1.05,
-            "modelVersionId": 1242203
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1420899
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1926656
-          },
-          {
-            "weight": 1.8,
-            "modelVersionId": 1681903
-          },
-          {
-            "weight": 2.55,
-            "modelVersionId": 1726985
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
-      },
-      "username": "klaabu",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1242203,
-        1420899,
-        1594293,
-        1643845,
-        1681903,
-        1726904,
-        1726985,
-        1926656
-      ]
-    },
-    {
       "id": 93428099,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f67fd4ac-c217-44c6-bdac-a2c106ba4a19/original=true/f67fd4ac-c217-44c6-bdac-a2c106ba4a19.jpeg",
       "hash": "UNNAM8?wY7-;K*IW%Lx^5tI]9boz9w-o%MNI",
@@ -180,10 +74,104 @@
       "modelVersionIds": [
         2099415
       ]
+    },
+    {
+      "id": 33723995,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72d877db-4399-4876-ba9c-cc6c52b79cdc/original=true/72d877db-4399-4876-ba9c-cc6c52b79cdc.jpeg",
+      "hash": "UNK,s+vL0xw4~WxZ=}VrB#w}bKnMAC,[%LRQ",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-09T13:36:44.174Z",
+      "postId": 7711521,
+      "stats": {
+        "cryCount": 145,
+        "laughCount": 295,
+        "likeCount": 2322,
+        "dislikeCount": 0,
+        "heartCount": 1093,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1286740423,
+        "Model": "illustriousXL_smoothftSPO",
+        "steps": 30,
+        "hashes": {
+          "model": "ac1faa25f6",
+          "lora:ayase_momo-koto-Illustrious v01": "6450b51cdcb4"
+        },
+        "prompt": "1girl,large breasts, white thong,kicking,one leg up,anime screencap, masterpiece, best quality, hands up,half-closed eyes, annoyed\n <lora:ayase_momo-koto-Illustrious v01:1> ayasemomo, hair between eyes, crossed bangs, green earrings, school uniform, pink cardigan, brown hair, red eyes, long sleeves, black choker, short hair, white shirt, red bowtie,pleated skirt,",
+        "Version": "f1.1.0dev-v1.10.1RC-latest-1147-g3e80b4d8",
+        "sampler": "Euler Ancestral CFG++",
+        "cfgScale": 2,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "6450b51cdcb4",
+            "name": "ayase_momo-koto-Illustrious v01",
+            "type": "lora"
+          },
+          {
+            "hash": "ac1faa25f6",
+            "name": "illustriousXL_smoothftSPO",
+            "type": "model"
+          }
+        ],
+        "Model hash": "ac1faa25f6",
+        "Schedule type": "Normal",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, multiple views, 4koma, censored, wrist cuffs, monochrome",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer steps": "20",
+        "ADetailer version": "24.8.0",
+        "ADetailer CFG scale": "3.0",
+        "ADetailer mask blur": "9",
+        "ADetailer confidence": "0.34",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint width": "1024",
+        "latent_modifier_enabled": "True",
+        "ADetailer inpaint height": "1024",
+        "ADetailer inpaint padding": "44",
+        "ADetailer ControlNet model": "Passthrough",
+        "ADetailer mask merge invert": "Merge",
+        "ADetailer denoising strength": "0.54",
+        "ADetailer use separate steps": "True",
+        "ADetailer inpaint only masked": "True",
+        "latent_modifier_affect_uncond": "None",
+        "latent_modifier_combat_method": "subtract",
+        "latent_modifier_tonemap_method": "reinhard",
+        "latent_modifier_rescale_cfg_phi": "0",
+        "ADetailer use separate CFG scale": "True",
+        "latent_modifier_combat_cfg_drift": "0",
+        "latent_modifier_extra_noise_type": "gaussian",
+        "latent_modifier_sharpness_method": "anisotropic",
+        "latent_modifier_spectral_mod_mode": "hard_clamp",
+        "ADetailer use inpaint width height": "True",
+        "latent_modifier_divisive_norm_size": "127",
+        "latent_modifier_extra_noise_method": "add",
+        "latent_modifier_tonemap_multiplier": "0",
+        "latent_modifier_tonemap_percentile": "100",
+        "latent_modifier_contrast_multiplier": "0",
+        "latent_modifier_extra_noise_lowpass": "100",
+        "latent_modifier_dyn_cfg_augmentation": "None",
+        "latent_modifier_sharpness_multiplier": "0",
+        "latent_modifier_extra_noise_multiplier": "0",
+        "latent_modifier_spectral_mod_multiplier": "0",
+        "latent_modifier_spectral_mod_percentile": "5",
+        "latent_modifier_divisive_norm_multiplier": "0"
+      },
+      "username": "mnemosynekotorin",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        907264
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "397|1754908837987",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=397%7C1754908837987"
+    "nextCursor": "398|1739108204174",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=398%7C1739108204174"
   }
 }
