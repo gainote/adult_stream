@@ -1,164 +1,6 @@
 {
   "items": [
     {
-      "id": 82804652,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fc22828-a54e-4c10-b306-d47a03bec85e/original=true/5fc22828-a54e-4c10-b306-d47a03bec85e.jpeg",
-      "hash": "U9HB0t0L9}IA~p4..8Rj00IU-o%M4.-pMxR*",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-17T06:49:00.000Z",
-      "postId": 18390709,
-      "stats": {
-        "cryCount": 143,
-        "laughCount": 259,
-        "likeCount": 2189,
-        "dislikeCount": 0,
-        "heartCount": 1189,
-        "commentCount": 3
-      },
-      "meta": {
-        "nsfw": false,
-        "seed": 1315241084,
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:296576@333245"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k, light particles, nsfw, flat color, playful composition, vibrant colors, warm_colors, soft focus, high contrast,\n\n brown hair, brown eyes, blush,large breasts, ponytail, on pink bed, pink bed, busty,  mature woman, , white choker, lying on bed, calm, spread legs, girl in center of frame, smug, ((solo)), half closed eyes, white lingerie, sitting on armchair, crossed legs, ((feet focus)), head on arm, elbow on armchair armrest, BREAK 1girl,nude, (white stockings), indoor background, view from below pussy, looking down, untrimmed pubic hair\n",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/T9H891B3EAZ3CVQDAVR4V3T150.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1280045
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 333245
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1280045
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:120723@145907",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "DrPeeHands",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        145907,
-        164821,
-        333245,
-        1189052,
-        1240288,
-        1280045,
-        1416874
-      ]
-    },
-    {
       "id": 69021349,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5af05113-acbc-491a-9d7f-3a89f007d75e/original=true/5af05113-acbc-491a-9d7f-3a89f007d75e.jpeg",
       "hash": "UIP=Wvd=.m?v^+aL%Nxu0eoz?Hrr?bR5r@nj",
@@ -216,10 +58,84 @@
         382152,
         1617798
       ]
+    },
+    {
+      "id": 56799122,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5ebf3db-9715-47ae-9a74-5f17fd6a162b/original=true/a5ebf3db-9715-47ae-9a74-5f17fd6a162b.jpeg",
+      "hash": "UVE:Y$t8.8M{?^ozs;WBJVMxVsX8IUafRjtR",
+      "width": 1304,
+      "height": 2184,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-11T21:01:00.000Z",
+      "postId": 12716947,
+      "stats": {
+        "cryCount": 178,
+        "laughCount": 293,
+        "likeCount": 2360,
+        "dislikeCount": 0,
+        "heartCount": 946,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 180318705321493,
+        "Model": "waiNSFWIllustrious_v100.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "7e87327f89",
+          "lora:neba": "47f46b6490",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, high ponytail, heterochromia, red eyes, blue eyes, glowing eyes, eyebrows, eyelashes, latex, shiny reflections, slime \\(substance\\), (black slime:1.1), (tentacle sex:1.3), vaginal, (living clothes:1.3), (orgasm:1.1), pussy juice, (large insertion:1.2), many eyes, bound, tentacle in mouth, indoors, bed, bedroom, city view through window, glass walls, dim ambient lighting, scattered clothes on bed, intimate atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:neba:0.85> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.15> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "47f46b6490",
+            "name": "neba",
+            "type": "lora",
+            "weight": 0.85
+          },
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 2.15
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7e87327f89",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, suction cups,"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        567119,
+        1284348,
+        1348706,
+        1367422
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "426|1744229202494",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=426%7C1744229202494"
+    "nextCursor": "427|1739307660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=427%7C1739307660000"
   }
 }
