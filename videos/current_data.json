@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "id": 97226251,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e67b0f59-c460-4f3b-a220-727a6dd4a001/original=true/e67b0f59-c460-4f3b-a220-727a6dd4a001.jpeg",
-      "hash": "UNMa9PR-00WX~poJDiM{%$oJIUxu^*NHRkoz",
-      "width": 1040,
-      "height": 1240,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-31T10:35:40.406Z",
-      "postId": 21569007,
-      "stats": {
-        "cryCount": 174,
-        "laughCount": 319,
-        "likeCount": 2413,
-        "dislikeCount": 0,
-        "heartCount": 989,
-        "commentCount": 0
-      },
-      "meta": {
-        "steps": 20,
-        "prompt": "many girls, naked, in sauna, wet, hot spring",
-        "sampler": "Euler a",
-        "cfgScale": 7
-      },
-      "username": "AI_FySyde",
-      "baseModel": "Pony",
-      "modelVersionIds": []
-    },
-    {
       "id": 89265956,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e14f792-ca86-455b-8e0e-fab29f64b090/original=true/2e14f792-ca86-455b-8e0e-fab29f64b090.jpeg",
       "hash": "U8DuxpDi0}%MFy4n%gR*57r=~VD%xuaxbIjY",
@@ -91,10 +61,100 @@
       "modelVersionIds": [
         1916444
       ]
+    },
+    {
+      "id": 17661822,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa783f0b-ce27-49e7-b454-ff8797706eb9/original=true/fa783f0b-ce27-49e7-b454-ff8797706eb9.jpeg",
+      "hash": "UCIo|UDk0e}@tK5ROskp5lix=e={^jNbEMkB",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2024-06-29T05:52:41.233Z",
+      "postId": 3953398,
+      "stats": {
+        "cryCount": 81,
+        "laughCount": 295,
+        "likeCount": 2153,
+        "dislikeCount": 0,
+        "heartCount": 1356,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1213235488,
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_8, 1girl, white skin, big blue eyes, messy bangs, brown hair, pink shirt, cleavage, white skirt, pale skin, body freckles, librarian, glasses, massive perfectly round breasts, necklace, library, bookshelves, \ndynamic angle, \ncinematic lighting, volumetric lighting, full body,\nExpressiveh,\nflashing tits, breasts, nipples, squishing breasts,\nhorny, biting lip, looking to the side,\npeople filming, group of people with cell phone,",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-06-28T2211:16.5253284Z",
+        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), black and white, bulge",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 128461,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 333587,
+            "modelVersionName": "Smooth 2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 448254,
+            "modelVersionName": "Pony v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "Typhoon",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        128461,
+        244808,
+        290640,
+        333587,
+        382152,
+        448254
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "393|1752968978068",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=393%7C1752968978068"
+    "nextCursor": "394|1719640361233",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=394%7C1719640361233"
   }
 }
