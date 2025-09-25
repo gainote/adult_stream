@@ -68,10 +68,104 @@
         1905231,
         2041009
       ]
+    },
+    {
+      "id": 76132138,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dee15ac5-36b0-4b79-8b0f-2e06bb59654d/original=true/dee15ac5-36b0-4b79-8b0f-2e06bb59654d.jpeg",
+      "hash": "UEHAq=I@xe~W%iNy%4xt0KIoELRj5PNYs9NG",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-18T07:34:34.142Z",
+      "postId": 16905921,
+      "stats": {
+        "cryCount": 155,
+        "laughCount": 303,
+        "likeCount": 2244,
+        "dislikeCount": 0,
+        "heartCount": 1093,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 269764713,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "highres, very detailed, amazing quality, masterpiece,\nvery aesthetic,\nparticle effect,\n(((3girls))), multiple girls, \\(totally spies\\), (samts long orange hair, green eyes, long hair, ), (cloverts, blonde hair, short hair, blue eyes, , ) (alexts, brown hair, short hair, brown eyes,, tanned skin), \nGoth, eyeliner, eyeshadow, \nFishnets, slutty clothing, see through tops, nipple tape, fishnets under clothing, dark minishorts, \nLarge breasts, large ass, wide hips, thick thighs, \nNightclub, danceclub, \nseducing, seductive, flirty, tender, loving, playful, \nClose up, cowboy shot,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-05-11T1300:56.1484656Z",
+        "negativePrompt": "lowres, worst quality, low quality, bad quality, simple background,\nsignature,\nfurry, anthro, bkub, \nchibi, loli, child, bad anatomy, missing leg, missing limb,\nabs,\nAsian,\nLatex, short orange hair,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.25,
+            "modelVersionId": 240274,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 947620,
+            "modelVersionName": "cfg scale BOOST"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 1142665,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1480387,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1495547,
+            "modelVersionName": "v1.0_Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1428766,
+            "modelVersionName": "V1"
+          }
+        ]
+      },
+      "username": "Wadufuk1",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        240274,
+        947620,
+        1142665,
+        1428766,
+        1480387,
+        1490781,
+        1495547
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "419|1755048360000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=419%7C1755048360000"
+    "nextCursor": "420|1747553674142",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=420%7C1747553674142"
   }
 }
