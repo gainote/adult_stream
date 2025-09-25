@@ -47,10 +47,63 @@
       "modelVersionIds": [
         1916444
       ]
+    },
+    {
+      "id": 92354987,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b5bee0fb-f573-486f-b6e3-e413a2748ab0/original=true/b5bee0fb-f573-486f-b6e3-e413a2748ab0.jpeg",
+      "hash": "UTINs?-:0KIU~V%LV?MxEhofr=V@t6oMNHj?",
+      "width": 768,
+      "height": 1344,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-04T23:19:20.940Z",
+      "postId": 20487205,
+      "stats": {
+        "cryCount": 212,
+        "laughCount": 289,
+        "likeCount": 2315,
+        "dislikeCount": 0,
+        "heartCount": 1031,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "768x1344",
+        "seed": 9531190058721065000,
+        "Model": "JANKUV4NSFWTrainedNoobaiEPS_v40",
+        "steps": 60,
+        "hashes": {
+          "model": "59225eddc3"
+        },
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, bdsm, blush, bondage, bound, chain, cuffs, long hair, braid, navel, nipples, nude, open mouth, pussy, suspension, thighhighs, uncensored <lora:lora_limbless:1> limbless, amputee, 1girl, full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
+        "Version": "ComfyUI",
+        "sampler": "ddim_ddim_uniform",
+        "CFG Scale": "5.0",
+        "resources": [
+          {
+            "name": "lora_limbless",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "59225eddc3",
+            "name": "JANKUV4NSFWTrainedNoobaiEPS_v40",
+            "type": "model"
+          }
+        ],
+        "Model hash": "59225eddc3",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
+      },
+      "username": "fujiangjiang",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1772645
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "401|1750809300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=401%7C1750809300000"
+    "nextCursor": "402|1754349560940",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=402%7C1754349560940"
   }
 }
