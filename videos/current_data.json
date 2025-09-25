@@ -1,85 +1,6 @@
 {
   "items": [
     {
-      "id": 30799446,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe83bcbb-5928-414e-b8b9-65c69f702fb9/original=true/fe83bcbb-5928-414e-b8b9-65c69f702fb9.jpeg",
-      "hash": "U99s*N~U5l58?ttkjFRQPAtQ$Na1^j-oNG9b",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-09-24T07:00:00.000Z",
-      "postId": 6888334,
-      "stats": {
-        "cryCount": 142,
-        "laughCount": 206,
-        "likeCount": 2301,
-        "dislikeCount": 0,
-        "heartCount": 1194,
-        "commentCount": 0
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 2044284101,
-        "extra": {
-          "remixOfId": 29352370
-        },
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, flat color, dark theme, g4n1m3, comicbookpage style,\n1girl, tribal girl, jungle, naked, sitting against tree, dark skin, dark nipples, , pubic hair, leg up",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-22T1912:24.5543600Z",
-        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, child, kid, chibi, oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), flat chested, (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist, earrings, gorget,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 706363,
-            "modelVersionName": "v5.2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 481798,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 501154,
-            "modelVersionName": "Gothic Retro Anime v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 514793,
-            "modelVersionName": "comicbookpage xl v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "Cantaloupe9291",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        481798,
-        501154,
-        514793,
-        706363
-      ]
-    },
-    {
       "id": 98225598,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/269edee5-3261-43b8-84f1-2f741352cc42/original=true/269edee5-3261-43b8-84f1-2f741352cc42.jpeg",
       "hash": "UEO3CE00Yk^jrrR4NF8_9u4nx]NGyrIAbwbv",
@@ -147,10 +68,97 @@
       "modelVersionIds": [
         1873831
       ]
+    },
+    {
+      "id": 71452827,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3eeeef31-6a98-402e-bf72-54eec4382733/original=true/3eeeef31-6a98-402e-bf72-54eec4382733.jpeg",
+      "hash": "UPHAkd~WTK%g^+?bkX%29[NGt7s:MxM{xZf5",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-22T04:00:00.000Z",
+      "postId": 15872691,
+      "stats": {
+        "cryCount": 116,
+        "laughCount": 272,
+        "likeCount": 2293,
+        "dislikeCount": 0,
+        "heartCount": 1157,
+        "commentCount": 1
+      },
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1843630907,
+        "draft": false,
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, masterpiece, Expressiveh, hyper detail, 1girl, brown hair, straight hair, long hair, perfect body, fit, sexy, bending over, bent over, holding ankles, from behind, facing away,  white tank top, shirt taught, braless, mid drift, navel, pink panties, warm light, kitchen",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-04-18T1118:36.1062861Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, extra hands, extra dicks, extra arms, bad hands, bad arms,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          }
+        ]
+      },
+      "username": "tips29",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "404|1756944454636",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=404%7C1756944454636"
+    "nextCursor": "405|1745294400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=405%7C1745294400000"
   }
 }
