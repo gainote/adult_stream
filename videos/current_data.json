@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 98225598,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/269edee5-3261-43b8-84f1-2f741352cc42/original=true/269edee5-3261-43b8-84f1-2f741352cc42.jpeg",
-      "hash": "UEO3CE00Yk^jrrR4NF8_9u4nx]NGyrIAbwbv",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-04T00:07:34.636Z",
-      "postId": 21793865,
-      "stats": {
-        "cryCount": 139,
-        "laughCount": 243,
-        "likeCount": 2303,
-        "dislikeCount": 0,
-        "heartCount": 1158,
-        "commentCount": 0
-      },
-      "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 2654017714,
-        "Model": "prefect_illustrious_XL_2.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "9d73bac23a",
-          "lora:hug_and_suck_ilxl_goofy": "3c94b80d0861"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:hug_and_suck_ilxl_goofy:1> hug and suck , hugging, fellatio, 1girl, jewelry, oral, medium breasts, 1boy, blue nails, heart earrings, completely nude, hetero, nipples, pink hair, pants pull, deepthroat, hair ornament, white background, heart necklace, green eyes, kneeling, navel, mole on thigh, simple background, hand on another's head, nail polish, pink nails, hairclip, from side, blush, solo focus, head grab, looking at viewer, grey pants, stomach, standing, hand on another's thigh, clothed male nude female, thighs, pussy, mole under eye, irrumatio, barefoot, hands on another's head, fingernails, mole on breast, cleft of venus, profile, penis, nicole demara,",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "3c94b80d0861",
-            "name": "hug_and_suck_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "9d73bac23a",
-            "name": "prefect_illustrious_XL_2.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "9d73bac23a",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.7",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1873831
-      ]
-    },
-    {
       "id": 71452827,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3eeeef31-6a98-402e-bf72-54eec4382733/original=true/3eeeef31-6a98-402e-bf72-54eec4382733.jpeg",
       "hash": "UPHAkd~WTK%g^+?bkX%29[NGt7s:MxM{xZf5",
@@ -155,10 +86,84 @@
         398847,
         436219
       ]
+    },
+    {
+      "id": 57572110,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a187a948-80fb-4e1b-9bf0-93103618724b/original=true/a187a948-80fb-4e1b-9bf0-93103618724b.jpeg",
+      "hash": "UMFODksoNFxt~Cf6E1Wp57R*NHWBE2j]%2oL",
+      "width": 1040,
+      "height": 1744,
+      "nsfwLevel": "Mature",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-14T21:55:00.000Z",
+      "postId": 12885131,
+      "stats": {
+        "cryCount": 156,
+        "laughCount": 269,
+        "likeCount": 2395,
+        "dislikeCount": 0,
+        "heartCount": 1017,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "768x1280",
+        "seed": 620138376773206,
+        "Model": "waiNSFWIllustrious_v100.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "7e87327f89",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, pale pink hair, high ponytail, long ponytail, (heterochromia:1.1), (blue eyes:0.9), round glasses, pink eyebrows, eyelashes, small breasts, looking at viewer, unbuttoned dress shirt, black lace bra down, breasts out, tight pencil skirt, high heels, sheer pantyhose, undone tie hanging loosely, sitting on office desk, one leg crossed over the other, licking lips, indoors, modern office, dim warm lighting, stacks of paperwork, half-empty coffee cup, city skyline visible through window, elegant minimalistic furniture, (dark shadows:1.0), high contrast, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.9>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.9
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7e87327f89",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, tanlines, garter straps,"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        567119,
+        1050644,
+        1345990,
+        1367422
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "405|1745294400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=405%7C1745294400000"
+    "nextCursor": "406|1739570100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=406%7C1739570100000"
   }
 }
