@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "id": 74223220,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1d2c3745-049c-456b-b360-0addde0add1d/original=true/1d2c3745-049c-456b-b360-0addde0add1d.jpeg",
-      "hash": "UaF~8BtRaJbH~VNbIBbIENRjD*ozEM%0t6oe",
-      "width": 1872,
-      "height": 2736,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-05T00:36:00.000Z",
-      "postId": 16482043,
-      "stats": {
-        "cryCount": 182,
-        "laughCount": 329,
-        "likeCount": 2555,
-        "dislikeCount": 0,
-        "heartCount": 743,
-        "commentCount": 0
-      },
-      "meta": null,
-      "username": "witcherhannibal",
-      "baseModel": "SDXL 1.0",
-      "modelVersionIds": [
-        1676525
-      ]
-    },
-    {
       "id": 17410591,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/59e0ecb5-56e6-4fa0-9e93-cedc7fdc3252/original=true/59e0ecb5-56e6-4fa0-9e93-cedc7fdc3252.jpeg",
       "hash": "U8CFFy7g14^PqunO#RE2}sxGFxtQ-V$%9]Vt",
@@ -119,7 +92,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "417|1719485030354",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=417%7C1719485030354"
+    "nextCursor": "418|1735375726298",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=418%7C1735375726298"
   }
 }
