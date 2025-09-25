@@ -1,100 +1,6 @@
 {
   "items": [
     {
-      "id": 33723995,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72d877db-4399-4876-ba9c-cc6c52b79cdc/original=true/72d877db-4399-4876-ba9c-cc6c52b79cdc.jpeg",
-      "hash": "UNK,s+vL0xw4~WxZ=}VrB#w}bKnMAC,[%LRQ",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-09T13:36:44.174Z",
-      "postId": 7711521,
-      "stats": {
-        "cryCount": 145,
-        "laughCount": 295,
-        "likeCount": 2322,
-        "dislikeCount": 0,
-        "heartCount": 1093,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1286740423,
-        "Model": "illustriousXL_smoothftSPO",
-        "steps": 30,
-        "hashes": {
-          "model": "ac1faa25f6",
-          "lora:ayase_momo-koto-Illustrious v01": "6450b51cdcb4"
-        },
-        "prompt": "1girl,large breasts, white thong,kicking,one leg up,anime screencap, masterpiece, best quality, hands up,half-closed eyes, annoyed\n <lora:ayase_momo-koto-Illustrious v01:1> ayasemomo, hair between eyes, crossed bangs, green earrings, school uniform, pink cardigan, brown hair, red eyes, long sleeves, black choker, short hair, white shirt, red bowtie,pleated skirt,",
-        "Version": "f1.1.0dev-v1.10.1RC-latest-1147-g3e80b4d8",
-        "sampler": "Euler Ancestral CFG++",
-        "cfgScale": 2,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "6450b51cdcb4",
-            "name": "ayase_momo-koto-Illustrious v01",
-            "type": "lora"
-          },
-          {
-            "hash": "ac1faa25f6",
-            "name": "illustriousXL_smoothftSPO",
-            "type": "model"
-          }
-        ],
-        "Model hash": "ac1faa25f6",
-        "Schedule type": "Normal",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, multiple views, 4koma, censored, wrist cuffs, monochrome",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer steps": "20",
-        "ADetailer version": "24.8.0",
-        "ADetailer CFG scale": "3.0",
-        "ADetailer mask blur": "9",
-        "ADetailer confidence": "0.34",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint width": "1024",
-        "latent_modifier_enabled": "True",
-        "ADetailer inpaint height": "1024",
-        "ADetailer inpaint padding": "44",
-        "ADetailer ControlNet model": "Passthrough",
-        "ADetailer mask merge invert": "Merge",
-        "ADetailer denoising strength": "0.54",
-        "ADetailer use separate steps": "True",
-        "ADetailer inpaint only masked": "True",
-        "latent_modifier_affect_uncond": "None",
-        "latent_modifier_combat_method": "subtract",
-        "latent_modifier_tonemap_method": "reinhard",
-        "latent_modifier_rescale_cfg_phi": "0",
-        "ADetailer use separate CFG scale": "True",
-        "latent_modifier_combat_cfg_drift": "0",
-        "latent_modifier_extra_noise_type": "gaussian",
-        "latent_modifier_sharpness_method": "anisotropic",
-        "latent_modifier_spectral_mod_mode": "hard_clamp",
-        "ADetailer use inpaint width height": "True",
-        "latent_modifier_divisive_norm_size": "127",
-        "latent_modifier_extra_noise_method": "add",
-        "latent_modifier_tonemap_multiplier": "0",
-        "latent_modifier_tonemap_percentile": "100",
-        "latent_modifier_contrast_multiplier": "0",
-        "latent_modifier_extra_noise_lowpass": "100",
-        "latent_modifier_dyn_cfg_augmentation": "None",
-        "latent_modifier_sharpness_multiplier": "0",
-        "latent_modifier_extra_noise_multiplier": "0",
-        "latent_modifier_spectral_mod_multiplier": "0",
-        "latent_modifier_spectral_mod_percentile": "5",
-        "latent_modifier_divisive_norm_multiplier": "0"
-      },
-      "username": "mnemosynekotorin",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        907264
-      ]
-    },
-    {
       "id": 41783137,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/628c2570-e883-42e7-a542-af8f468b69f5/original=true/628c2570-e883-42e7-a542-af8f468b69f5.jpeg",
       "hash": "UEN9LQ9GA2My7o4o0OSO00t5a6M{?w-;xusm",
@@ -212,7 +118,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "399|1732664878616",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=399%7C1732664878616"
+    "nextCursor": "400|1713965467642",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=400%7C1713965467642"
   }
 }
