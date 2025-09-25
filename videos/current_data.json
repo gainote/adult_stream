@@ -1,88 +1,6 @@
 {
   "items": [
     {
-      "id": 61847511,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09002cc6-4d8b-4c8f-8cd4-01e559d6202b/original=true/09002cc6-4d8b-4c8f-8cd4-01e559d6202b.jpeg",
-      "hash": "USEC%w9ZX8x]~pIUX9tR%MRPR*kC%gj[Rkg3",
-      "width": 1344,
-      "height": 2240,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-03-08T09:40:00.000Z",
-      "postId": 13821105,
-      "stats": {
-        "cryCount": 142,
-        "laughCount": 274,
-        "likeCount": 2362,
-        "dislikeCount": 0,
-        "heartCount": 1051,
-        "commentCount": 3
-      },
-      "meta": {
-        "Size": "768x1280",
-        "seed": 503609939620252,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//www.deviantart.com/marlandco",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, (1girl:1.2) and cat, cuddling, (messy bed:1.2), half-naked, tousled hair, sleepy eyes, panties, stockings, lying on bed, stretching, sunlight through window, scattered clothes, empty wine bottle, crumpled sheets, pillow on floor, indoors, bedroom, wooden floor, open curtain, blurred city view, (digital clock:0.9), TV, bedhead, bright sun lighting, from side, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
-          }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censor, censored, watermark, plain simple background, blank eyes, hydrokinesis, symmetry, huge breasts, sparks, dust, (garter straps:1.1), garter belt, (from above:1.0),"
-      },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1410435
-      ]
-    },
-    {
       "id": 61106884,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbb3af34-94fd-420a-88a8-ef46a0bf70b9/original=true/dbb3af34-94fd-420a-88a8-ef46a0bf70b9.jpeg",
       "hash": "UIGk5s~WAbxuxao}Nx%29utQ%Mt7-;%M%2NG",
@@ -161,10 +79,79 @@
         770375,
         809818
       ]
+    },
+    {
+      "id": 96683999,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e08f145e-4cc6-42f6-a0cf-be9326a5cfa9/original=true/e08f145e-4cc6-42f6-a0cf-be9326a5cfa9.jpeg",
+      "hash": "UOL|ZJI9Td%LGuSNpJM{0eWB?bwI~VS~R*b]",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-27T22:17:20.355Z",
+      "postId": 21446528,
+      "stats": {
+        "cryCount": 154,
+        "laughCount": 253,
+        "likeCount": 2324,
+        "dislikeCount": 0,
+        "heartCount": 1088,
+        "commentCount": 0
+      },
+      "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 4263008467,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:banana_oekaki_style_ilxl_goofy": "5b70eeb8e91f"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:banana_oekaki_style_ilxl_goofy:1>1girl, blue buruma, bottle, breast slip, breasts, brown hair, buruma, gigantic breasts, gym shirt, gym uniform, huge breasts, large areolae, large nipples, long hair, navel, nipples, no bra, one breast out, outdoors, panties, panties under buruma, see-through clothes, see-through sleeves, shirt, solo, standing, sweat, underwear, very long hair, very sweaty, water bottle, white panties, wiping sweat, yellow eyes",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
+          {
+            "hash": "5b70eeb8e91f",
+            "name": "banana_oekaki_style_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "Anzhc Face seg 1024 v2 y8n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1379960
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "411|1740949740000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=411%7C1740949740000"
+    "nextCursor": "412|1756333040355",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=412%7C1756333040355"
   }
 }
