@@ -1,87 +1,6 @@
 {
   "items": [
     {
-      "id": 18257291,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/747138b7-a7be-4df6-bc18-bd40f6dd2c2a/original=true/747138b7-a7be-4df6-bc18-bd40f6dd2c2a.jpeg",
-      "hash": "UVJtk@_3?^tSwu%MIoRQNbWXWAjFtlRjt7e.",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-07-03T10:26:42.197Z",
-      "postId": 4079717,
-      "stats": {
-        "cryCount": 102,
-        "laughCount": 273,
-        "likeCount": 2205,
-        "dislikeCount": 0,
-        "heartCount": 1206,
-        "commentCount": 1
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1131342985,
-        "steps": 18,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, Merida from Brave, redhead, long hair, perfect face, perfect eyes, sexy, sexy girl, beautiful eyes, petite body, wide hips, perfect cute face, standing, exposed naked large breasts, cleavage, oversized top, seductive look, pink panties, takes off panties, girl pulling down underwear to knees, clothes pulled down, leaning forward, pussy visible, perfect hands, blush, close up, dynamic angle",
-        "sampler": "DPM2 a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-03T1025:16.0055073Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, furry, monochrome, curvy, fat, pubic hair, watermark,\nwhitespace, watermark, signature, artist name, easynegative, ugly, old, plain background, monochrome, (disfigured), stumpy, irregular, ugly face, mutated hands, low res, blurry face, pumped body, bad anatomy, bad eyes, dot eyes, monochrome, unfinished, sketch, greyscale,  crowd, disembodied,  (weird anatomy), bad anatomy, conjoined, mutated, mixed bodied, fused bodies, disembodied, artifacts, jpeg artifacts, empty panel, (deformed), (unfinished), (lots of white-space filling image), teeth",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 582944,
-            "modelVersionName": "v2.1 Alternative + VAE"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 438481,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "Maka_Ron",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        382152,
-        438481,
-        582944
-      ]
-    },
-    {
       "id": 11036135,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca035e50-c960-43a5-8c38-65ffba9b7443/original=true/ca035e50-c960-43a5-8c38-65ffba9b7443.jpeg",
       "hash": "UGHm$I?HKP9^}pQ-E20g%2Ip-Tr?S$Ne^ks:",
@@ -149,10 +68,79 @@
         290640,
         298238
       ]
+    },
+    {
+      "id": 50106551,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bfd5aad6-b8ab-4d3a-9d8f-cd6ac54e10fa/original=true/bfd5aad6-b8ab-4d3a-9d8f-cd6ac54e10fa.jpeg",
+      "hash": "UVL;T{NIYR-oF#ozE4n#9vRji_WX%Mn$xFf,",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-07T10:38:23.603Z",
+      "postId": 11282573,
+      "stats": {
+        "cryCount": 127,
+        "laughCount": 192,
+        "likeCount": 2315,
+        "dislikeCount": 0,
+        "heartCount": 1146,
+        "commentCount": 0
+      },
+      "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 3114702096,
+        "Model": "prefectious_nsfw.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "4286171e4b",
+          "lora:lumine_hot_spring_ilxl_goofy": "86ce62cb3b8f"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, <lora:lumine_hot_spring_ilxl_goofy:1>lumine-hs , beach, bikini, bikini bottom only, blonde hair, breasts, cowboy shot, flower, hair between eyes, hair flower, hair ornament, looking down, medium breasts, navel, nipples, outdoors, parted lips, short hair with long locks, sky, stomach, swimsuit, topless, wading, water, wet, white bikini, yellow eyes",
+        "Version": "f1.1.5-v1.10.1RC-latest-876-g62d901b3",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 6,
+        "resources": [
+          {
+            "hash": "86ce62cb3b8f",
+            "name": "lumine_hot_spring_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "4286171e4b",
+            "name": "prefectious_nsfw.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "4286171e4b",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.16",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1111838
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "423|1714354600771",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=423%7C1714354600771"
+    "nextCursor": "424|1736246303603",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=424%7C1736246303603"
   }
 }
