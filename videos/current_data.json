@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "id": 84334112,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc865371-7177-479f-ae9a-0d4ce0d2d42c/original=true/bc865371-7177-479f-ae9a-0d4ce0d2d42c.jpeg",
-      "hash": "UBIWcs9tyD}]^kxux]-o0f}[t8EK_3NGX8Rj",
-      "width": 1536,
-      "height": 2304,
-      "nsfwLevel": "Mature",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-24T23:55:00.000Z",
-      "postId": 18721113,
-      "stats": {
-        "cryCount": 121,
-        "laughCount": 263,
-        "likeCount": 2292,
-        "dislikeCount": 0,
-        "heartCount": 1174,
-        "commentCount": 9
-      },
-      "meta": {
-        "Size": "2305x1537",
-        "seed": 308082977959255,
-        "Model": "riMixPONYIllustrious_riMix",
-        "steps": 30,
-        "hashes": {
-          "model": "f944b4784b"
-        },
-        "prompt": "1girl, fishnet thighhighs, thighhighs, solo, fishnets, breasts, pointing at viewer, couch, red hair, one eye closed, lying, looking at viewer, underwear, panties, smile, navel, black panties, on back, long hair, choker, tank top, thighs, pointing, arm behind head, black choker, yellow eyes, highleg, on couch, ringed eyes, highleg panties, wooden floor, finger gun, large breasts, pillow, grin, thong, pink shirt, indoors, armpits, pink tank top masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
-        "Version": "ComfyUI",
-        "sampler": "euler_ancestral",
-        "CFG Scale": "6.0",
-        "resources": [
-          {
-            "hash": "f944b4784b",
-            "name": "riMixPONYIllustrious_riMix",
-            "type": "model"
-          }
-        ],
-        "Model hash": "f944b4784b",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
-      },
-      "username": "phinjo",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1916444
-      ]
-    },
-    {
       "id": 92354987,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b5bee0fb-f573-486f-b6e3-e413a2748ab0/original=true/b5bee0fb-f573-486f-b6e3-e413a2748ab0.jpeg",
       "hash": "UTINs?-:0KIU~V%LV?MxEhofr=V@t6oMNHj?",
@@ -100,10 +52,89 @@
       "modelVersionIds": [
         1772645
       ]
+    },
+    {
+      "id": 30799446,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe83bcbb-5928-414e-b8b9-65c69f702fb9/original=true/fe83bcbb-5928-414e-b8b9-65c69f702fb9.jpeg",
+      "hash": "U99s*N~U5l58?ttkjFRQPAtQ$Na1^j-oNG9b",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2024-09-24T07:00:00.000Z",
+      "postId": 6888334,
+      "stats": {
+        "cryCount": 142,
+        "laughCount": 206,
+        "likeCount": 2301,
+        "dislikeCount": 0,
+        "heartCount": 1194,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 2044284101,
+        "extra": {
+          "remixOfId": 29352370
+        },
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, flat color, dark theme, g4n1m3, comicbookpage style,\n1girl, tribal girl, jungle, naked, sitting against tree, dark skin, dark nipples, , pubic hair, leg up",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-22T1912:24.5543600Z",
+        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, child, kid, chibi, oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), flat chested, (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist, earrings, gorget,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 706363,
+            "modelVersionName": "v5.2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 481798,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 501154,
+            "modelVersionName": "Gothic Retro Anime v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 514793,
+            "modelVersionName": "comicbookpage xl v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "Cantaloupe9291",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        481798,
+        501154,
+        514793,
+        706363
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "402|1754349560940",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=402%7C1754349560940"
+    "nextCursor": "403|1727161200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=403%7C1727161200000"
   }
 }
