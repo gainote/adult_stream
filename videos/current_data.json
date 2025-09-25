@@ -1,109 +1,137 @@
 {
   "items": [
     {
-      "id": 56799122,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5ebf3db-9715-47ae-9a74-5f17fd6a162b/original=true/a5ebf3db-9715-47ae-9a74-5f17fd6a162b.jpeg",
-      "hash": "UVE:Y$t8.8M{?^ozs;WBJVMxVsX8IUafRjtR",
-      "width": 1304,
-      "height": 2184,
+      "id": 65105389,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/94884ddc-ab9b-42a0-86bf-efda0846e503/original=true/94884ddc-ab9b-42a0-86bf-efda0846e503.jpeg",
+      "hash": "UDMG0G0000WY01EL~pM{4-Iq^*aexur=-Vxa",
+      "width": 1872,
+      "height": 2808,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-02-11T21:01:00.000Z",
-      "postId": 12716947,
+      "createdAt": "2025-04-17T21:29:52.028Z",
+      "postId": 14502546,
       "stats": {
-        "cryCount": 178,
-        "laughCount": 293,
-        "likeCount": 2360,
+        "cryCount": 1071,
+        "laughCount": 1785,
+        "likeCount": 12198,
         "dislikeCount": 0,
-        "heartCount": 946,
-        "commentCount": 1
+        "heartCount": 6848,
+        "commentCount": 30
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 180318705321493,
-        "Model": "waiNSFWIllustrious_v100.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 1661178440,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 73,
         "hashes": {
-          "model": "7e87327f89",
-          "lora:neba": "47f46b6490",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
+          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
         },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, high ponytail, heterochromia, red eyes, blue eyes, glowing eyes, eyebrows, eyelashes, latex, shiny reflections, slime \\(substance\\), (black slime:1.1), (tentacle sex:1.3), vaginal, (living clothes:1.3), (orgasm:1.1), pussy juice, (large insertion:1.2), many eyes, bound, tentacle in mouth, indoors, bed, bedroom, city view through window, glass walls, dim ambient lighting, scattered clothes on bed, intimate atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:neba:0.85> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.15> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5,
+        "prompt": "score_9, score_8_up, score_7_up,\ncum on body, cum on breasts, (cum on face:1.5), cum on stomach, (huge cum:1.5), covered in semen, (a lot of cum:1.5), cum on hair, \n1girl, solo, black hair, brown eyes, straight hair,  long hair, bangs, head out of frame, close up, (navel:1.5), \ncompletely nude, (nipples),\nlarge breasts,\n(open mouth wide:1.5), screaming, smaller pupils, (wide-eyed:1.5), panicking, sweat, tears, panicking, sad, arched back, \n(twisted torso:1.5), head tilt, upper body, on floor, wooden floor, lying, on back,\nblurry background, abstract background, backlighting, dim lighting, (grabbing own breasts:1.5), (arm up:1.5), \nurushihara satoshi style, JabarandP,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>, <lora:bra_embellishments_enhancer_XL_v01a:0.8>, <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "TI hashes": {
+          "unaestheticXL_Alb2": "6c1c4cfa35e9"
+        },
         "resources": [
           {
-            "hash": "47f46b6490",
-            "name": "neba",
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
             "type": "lora",
-            "weight": 0.85
+            "weight": 0.35
           },
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
             "type": "lora",
-            "weight": 2.15
+            "weight": 0.15
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
             "type": "lora",
-            "weight": 0.7000000000000001
+            "weight": 0.2
           },
           {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100.safetensors",
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "9d22b7ef3974",
+            "name": "bra_embellishments_enhancer_XL_v01a",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
             "type": "model"
           }
         ],
-        "Model hash": "7e87327f89",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, suction cups,"
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "31",
+        "Hires upscale": "1.95",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "(man's hand:2), (grabbing another's breast:1.5),  (hand on floor:1.5), door, bed:1.5, furniture, sitting, nipples, forehead, 2navel,  two-tone bra, hair ornament, amputated penis, realistic,  abs, interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, (hairpin), pubic hair, plant:1.5,",
+        "Denoising strength": "0.02"
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1284348,
-        1348706,
-        1367422
-      ]
-    },
-    {
-      "id": 52406123,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c6e2fed6-17b5-4f7d-90f5-16e2fd41227a/original=true/c6e2fed6-17b5-4f7d-90f5-16e2fd41227a.mp4",
-      "hash": "UAEe}d~WL3yDx[f6$f~ptlx^xG_2^%X8XU-;",
-      "width": 1440,
-      "height": 2560,
-      "nsfwLevel": "X",
-      "type": "video",
-      "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-30T12:30:54.592Z",
-      "postId": 11776769,
-      "stats": {
-        "cryCount": 69,
-        "laughCount": 138,
-        "likeCount": 1915,
-        "dislikeCount": 0,
-        "heartCount": 1652,
-        "commentCount": 9
-      },
-      "meta": {
-        "prompt": "goth woman with huge breasts and a leash around her neck walking in a crowded street towards the camera, arms behind her back, wearing a corset and stockings,handheld device filming"
-      },
-      "username": "Purfecter",
+      "username": "ceii0502382",
       "baseModel": "Pony",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "428|1746016254592",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=428%7C1746016254592"
+    "nextCursor": "429|1712339505567",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=429%7C1712339505567"
   }
 }
