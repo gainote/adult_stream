@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "id": 11036135,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca035e50-c960-43a5-8c38-65ffba9b7443/original=true/ca035e50-c960-43a5-8c38-65ffba9b7443.jpeg",
-      "hash": "UGHm$I?HKP9^}pQ-E20g%2Ip-Tr?S$Ne^ks:",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-04-29T01:36:40.771Z",
-      "postId": 2420864,
-      "stats": {
-        "cryCount": 96,
-        "laughCount": 260,
-        "likeCount": 1982,
-        "dislikeCount": 0,
-        "heartCount": 1444,
-        "commentCount": 2
-      },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 1747542461,
-        "steps": 49,
-        "prompt": "(Ultra Realistic:1.0),32k,(Masterpiece:1.0),(High Detailed Skin:1.0),( High Quality:1.0), (Detailed Realistic Background:1.3), (Realistic Lighting:1.0), score_9, score_8_up, score_8, volumetric lighting, chel from the road to el dorado, Big tits. petite, view from above. completely naked. spitroast,  deepthroat. anal sex. fellatio, cross-eyed. classroom. 2 men. motion lines. doggystyle. massive cocks. ass grab.",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_6, score_5, score_4,  ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), pumped body, athletic body, black and white. bad eyes. dot eyes.  blue skin.",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
-            "weight": 1,
-            "modelVersionId": 217866
-          },
-          {
-            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
-            "weight": 1,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
-            "weight": 1,
-            "modelVersionId": 298238
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712
-          }
-        ]
-      },
-      "username": "Lyingcat",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        217866,
-        244808,
-        290640,
-        298238
-      ]
-    },
-    {
       "id": 50106551,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bfd5aad6-b8ab-4d3a-9d8f-cd6ac54e10fa/original=true/bfd5aad6-b8ab-4d3a-9d8f-cd6ac54e10fa.jpeg",
       "hash": "UVL;T{NIYR-oF#ozE4n#9vRji_WX%Mn$xFf,",
@@ -137,10 +68,168 @@
       "modelVersionIds": [
         1111838
       ]
+    },
+    {
+      "id": 82804652,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fc22828-a54e-4c10-b306-d47a03bec85e/original=true/5fc22828-a54e-4c10-b306-d47a03bec85e.jpeg",
+      "hash": "U9HB0t0L9}IA~p4..8Rj00IU-o%M4.-pMxR*",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-17T06:49:00.000Z",
+      "postId": 18390709,
+      "stats": {
+        "cryCount": 143,
+        "laughCount": 259,
+        "likeCount": 2189,
+        "dislikeCount": 0,
+        "heartCount": 1189,
+        "commentCount": 3
+      },
+      "meta": {
+        "nsfw": false,
+        "seed": 1315241084,
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:296576@333245"
+        ],
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k, light particles, nsfw, flat color, playful composition, vibrant colors, warm_colors, soft focus, high contrast,\n\n brown hair, brown eyes, blush,large breasts, ponytail, on pink bed, pink bed, busty,  mature woman, , white choker, lying on bed, calm, spread legs, girl in center of frame, smug, ((solo)), half closed eyes, white lingerie, sitting on armchair, crossed legs, ((feet focus)), head on arm, elbow on armchair armrest, BREAK 1girl,nude, (white stockings), indoor background, view from below pussy, looking down, untrimmed pubic hair\n",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/T9H891B3EAZ3CVQDAVR4V3T150.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1280045
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 333245
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1280045
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:120723@145907",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "DrPeeHands",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        145907,
+        164821,
+        333245,
+        1189052,
+        1240288,
+        1280045,
+        1416874
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "424|1736246303603",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=424%7C1736246303603"
+    "nextCursor": "425|1750142940000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=425%7C1750142940000"
   }
 }
