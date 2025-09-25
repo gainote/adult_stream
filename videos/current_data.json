@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "id": 89265956,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e14f792-ca86-455b-8e0e-fab29f64b090/original=true/2e14f792-ca86-455b-8e0e-fab29f64b090.jpeg",
-      "hash": "U8DuxpDi0}%MFy4n%gR*57r=~VD%xuaxbIjY",
-      "width": 2304,
-      "height": 3456,
-      "nsfwLevel": "X",
-      "type": "image",
-      "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-19T23:49:38.068Z",
-      "postId": 19803654,
-      "stats": {
-        "cryCount": 172,
-        "laughCount": 368,
-        "likeCount": 2312,
-        "dislikeCount": 0,
-        "heartCount": 1036,
-        "commentCount": 2
-      },
-      "meta": {
-        "Size": "768x1152",
-        "seed": 2774919135,
-        "Model": "riMixPONYIllustrious_riMix",
-        "steps": 30,
-        "hashes": {
-          "model": "f944b4784b"
-        },
-        "prompt": "The image depicts a 1girl, a young woman with long, fiery red dreadlocks cascading down her back like a wild mane. Her bright green eyes, fringed with thick lashes, gaze directly at the viewer with a mixture of innocence and seduction. She sits with her legs spread wide, her nude body on full display, showcasing her small-sized breasts and the delicate freckles scattered across her skin.\nA fur hat, resembling a ushanka, sits atop her head, its earflaps tied under her chin, adding a touch of whimsy to her otherwise provocative pose. Her arms are behind her back, as if she's been posed in place, and her parted lips curve into a sultry smile.\nThe focal point of the image, however, is the cum that coats her body, a sticky, white residue that drips from her dreadlocks, breasts, and stomach. Her nipples, small and pink, are visible, and a sprinkle of freckles on her skin seems to dance in the light. Small patch of cum on her lips adds to the  sense of lasciviousness.\nShe gives a blowjob, tongue out, licking tip of large penis, erected penis, pale skin, cum dripping.\nThe background is a dull gray, a stark contrast to the vibrant colors of the woman's hair (1girl, solo, long dreadlocks, breasts, looking at viewer, hat, navel, tattoos, gothic style, freckles, athletic body, slim body, sitting, happy expression, small breasts, nipples, green eyes, red dreadlocks, nude, parted lips, pussy, spread legs, cum, completely nude, lips, arms behind back, cum on body, facial, cum on breasts, freckles, cum on dreadlocks, bukkake, fur hat, cum on stomach, ushanka:0.5) masterwork, masterpiece, best quality, detailed, depth of field, high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up.",
-        "Version": "v1.10.1",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "f944b4784b",
-            "name": "riMixPONYIllustrious_riMix",
-            "type": "model"
-          }
-        ],
-        "Model hash": "f944b4784b",
-        "Hires steps": "10",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "None",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.1",
-        "ADetailer mask blur": "6",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.25",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "daniyyelmattay265",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1916444
-      ]
-    },
-    {
       "id": 17661822,
       "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa783f0b-ce27-49e7-b454-ff8797706eb9/original=true/fa783f0b-ce27-49e7-b454-ff8797706eb9.jpeg",
       "hash": "UCIo|UDk0e}@tK5ROskp5lix=e={^jNbEMkB",
@@ -151,10 +89,100 @@
         382152,
         448254
       ]
+    },
+    {
+      "id": 28964679,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5e236090-ac27-483b-a2ca-fa94e85c3a5e/original=true/5e236090-ac27-483b-a2ca-fa94e85c3a5e.jpeg",
+      "hash": "UBF4iw%L9]}@OYbIkC$*03M|xZEN,:-UR+9u",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
+      "type": "image",
+      "nsfw": true,
+      "browsingLevel": 16,
+      "createdAt": "2024-09-12T01:35:57.300Z",
+      "postId": 6480838,
+      "stats": {
+        "cryCount": 119,
+        "laughCount": 284,
+        "likeCount": 2172,
+        "dislikeCount": 0,
+        "heartCount": 1300,
+        "commentCount": 0
+      },
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1707579897,
+        "steps": 35,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon, BREAK, 1girl, marin kitagawa, long hair, bedroom, posters, big hips, narrow waist, vaginal, crouching on man, on top, crouching on cock, pose, eyes rolling back, hearts, sexy, motion lines, sweat, sexy, cum, face focus, interracial, man out of frame, bigger male, motion blur, naked, choker,feet, from below, leaning back,",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-11T1904:26.3000532Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "394|1719640361233",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=394%7C1719640361233"
+    "nextCursor": "395|1726104957300",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=395%7C1726104957300"
   }
 }
