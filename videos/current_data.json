@@ -1,212 +1,87 @@
 {
   "items": [
     {
-      "id": 60941451,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa0f96ab-6657-4180-b641-a2c7a5ed8a60/original=true/aa0f96ab-6657-4180-b641-a2c7a5ed8a60.jpeg",
-      "hash": "U2K,BP.80S#Y00K+*J_3DN0MzA0#8I004T00",
-      "width": 1280,
-      "height": 1856,
+      "id": 91262027,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/20980242-e357-4051-b228-b60ae2e45a0a/original=true/20980242-e357-4051-b228-b60ae2e45a0a.jpeg",
+      "hash": "U9G81RIp5=I9C8?H0L9G0LkXmkxZ?Gxv}?NH",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-03-02T00:37:43.483Z",
-      "postId": 13631484,
+      "createdAt": "2025-08-03T15:00:00.000Z",
+      "postId": 20243274,
       "stats": {
-        "cryCount": 160,
-        "laughCount": 257,
-        "likeCount": 1997,
+        "cryCount": 207,
+        "laughCount": 276,
+        "likeCount": 2225,
         "dislikeCount": 0,
-        "heartCount": 1229,
-        "commentCount": 2
+        "heartCount": 934,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "seed": 1286514418,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1410435",
+        "Size": "832x1216",
+        "seed": 1914206004,
+        "draft": false,
         "extra": {
-          "remixOfId": 45876054
+          "remixOfId": 90034892
         },
-        "steps": 45,
+        "steps": 29,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1410435"
-        ],
-        "prompt": "safe_pos, masterpiece, best quality, absurdres, ultra-detailed, detailed skin, footworship, 1girl, 2boys, (((anal sex))), massive penis, (((yor briar))), ((lips)), (((red lipstick))), (arched back:2), nude, (((black hair))), earrings, long hair, bare shoulders, collarbone, dress, long sleeves, off shoulder, off-shoulder dress, off-shoulder sweater, pantyhose, red sweater, sweater, sweater dress, thighs, (loose-fitting dress:1.5), (((breast grab))), (((nude meduim breast))), (yanguire girl:2), (pussy juice:1.5), (pantyhose feet:2), (pantyhose:2), nipple, ((head back)), on back, suck large penis, (fellatio:2), spread pussy, foreshortening, feet, feet focus, detailed feet, from high up, hair ornament, perspective, foreshortening, leaning to the side, round ass, legs up, top view",
-        "denoise": 0.15,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, solo,  pbNaomi, tan, black hair, large breasts, fully nude, big nipple piercing, lactating, pregnant, hairy pussy, ((curvaceous, voluptuous)), (dramatic lighting), looking at viewer, cowboy shot, sitting, legs apart, posing, size difference, dark spaceship, low angle,",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
         "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/95A2HYB64T60B45X69SMS7DT90",
-          "width": 832,
-          "height": 1216
-        },
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-29T1840:00.6724532Z",
         "experimental": false,
-        "negativePrompt": "safe_neg, bad quality, worst quality, worst detail, sketch, censure, censured, displeasing, ugly, poorly drawn, displeasing, very displeasing, bad quality, deformed limbs, bad anatomy, simple background, glasses, comic, frames, negative_hand, bokeh, blur, weapon, (((green hair)))",
+        "negativePrompt": "score_5, score_4, score_3, score_2, score_1, simple background, blur, low quality, censored, bucktooth, cartoon, anime, ghostly, deformed, dismembered, disembodied, detached, polydactyl, amputated, contorted, semi-realistic, 3d render, watermark, logo, extra hands, extra dicks, tanlines, extra fingers , deformed fingers, bad hands,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1410435
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1410435
-          },
-          {
-            "weight": 1.35,
-            "modelVersionId": 135867
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1171421
-          },
-          {
-            "weight": 0.1,
-            "modelVersionId": 1402984
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 1253442
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1399405
-          },
-          {
-            "weight": 0.2,
-            "modelVersionId": 695827
-          },
-          {
-            "weight": 0.55,
-            "modelVersionId": 1134882
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1410435
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 1199750,
+            "modelVersionName": "v5.0"
           },
           {
             "type": "lora",
-            "weight": 1.35,
-            "modelVersionId": 135867
+            "weight": 1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 1171421
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.1,
-            "modelVersionId": 1402984
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1253442
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.6,
-            "modelVersionId": 1399405
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 695827
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1134882
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:122359@135867",
-            "type": "lora",
-            "strength": 1.35,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:946498@1171421",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lycoris:civitai:1241933@1402984",
-            "type": "lora",
-            "strength": 0.1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1107767@1253442",
-            "type": "lora",
-            "strength": 0.9,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lycoris:civitai:985385@1399405",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:478319@695827",
-            "type": "lora",
-            "strength": 0.2,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:554142@1134882",
-            "type": "lora",
-            "strength": 0.55,
-            "strengthClip": 1
+            "weight": 1,
+            "modelVersionId": 529047,
+            "modelVersionName": "v1 (Pony Diffusion XL)"
           }
         ]
       },
-      "username": "Pixelimba",
-      "baseModel": "Illustrious",
+      "username": "YourFantasy",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
-        164821,
-        695827,
-        1134882,
-        1171421,
-        1253442,
-        1399405,
-        1402984,
-        1410435
+        382152,
+        529047,
+        534756,
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "477|1754233200000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=477%7C1754233200000"
+    "nextCursor": "478|1749009258637",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=478%7C1749009258637"
   }
 }
