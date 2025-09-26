@@ -1,195 +1,92 @@
 {
   "items": [
     {
-      "id": 87146482,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5bddfffa-25c7-4154-b2fd-a59e73f9ea0d/original=true/5bddfffa-25c7-4154-b2fd-a59e73f9ea0d.jpeg",
-      "hash": "U8C#}EX70g~VIBIpX9Rj02%2={4:tRRjM|xu",
-      "width": 1280,
-      "height": 1856,
+      "id": 58649411,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b5dab351-e06f-4ba0-8ccd-9e8d91c4056a/original=true/b5dab351-e06f-4ba0-8ccd-9e8d91c4056a.jpeg",
+      "hash": "U5E-jx^P0001H9X70$Ip.n+]-qGF00M{_L?a",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-09T03:55:00.000Z",
-      "postId": 19333834,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-18T20:01:00.000Z",
+      "postId": 13121578,
       "stats": {
-        "cryCount": 139,
-        "laughCount": 256,
-        "likeCount": 2087,
+        "cryCount": 123,
+        "laughCount": 254,
+        "likeCount": 2229,
         "dislikeCount": 0,
-        "heartCount": 1127,
-        "commentCount": 2
+        "heartCount": 1003,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 29433026,
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:296576@333245"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "1girl, girl lying, on back,on bed,1boy, boy kneeling, erection,male masturbation, cumshot,projectile cum, facial, blonde hair, braid, \n from side, low angle, ((surprised)), exclamation mark, look up at him\n\n masterpiece, ultra-HD, cinematic lighting, photorealistic, realistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, 8k,( light particles:1.4), nsfw, scenic, rim light, s1_dram , dynamic angle",
-        "denoise": 0.3,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3,
+        "Size": "832x1216",
+        "seed": 2033439166,
+        "steps": 30,
+        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject, in the style of cknc, artist:moriimee, in the style of cksc, BREAK\nside portrait of stunning Chinese woman, long irridescent cyan and orange hair, bangs, sidelocks, choker, necklaces, earrings, medium perky breasts , cleavage, very short transparent, see-through white sailor blouse with blue and red ribbon, no underrwear, covered nipples, covered areolas, underboob, see-through blue pleated miniskirt, thigh-high stockings, holding an assault rifle, aiming at viewer, smiling evilly, sexy, seductive, dark background, directional lighting, viewed from below",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/WMM4C0M5X1W7KQ0HQAS73NJ390.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "Reach behind, worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
+        "resources": [],
+        "Created Date": "2025-02-18T1845:41.7262523Z",
+        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1986383
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1280045
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          },
-          {
-            "weight": 2.95,
-            "modelVersionId": 1726985
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 1976188
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1240288
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 333245
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 1986383
+            "modelVersionId": 1380520,
+            "modelVersionName": "ILLUSTRIOUS"
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
+            "weight": 0.4,
+            "modelVersionId": 1410611,
+            "modelVersionName": "ILLUSTRIOUS v1"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1280045
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1416874
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           },
           {
-            "type": "lora",
-            "weight": 2.95,
-            "modelVersionId": 1726985
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1976188
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1755174@1986383",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
-            "type": "lora",
-            "strength": 2.95,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1746119@1976188",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "DrPeeHands",
+      "username": "Stu43",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        333245,
-        1189052,
-        1240288,
-        1280045,
-        1416874,
-        1726985,
-        1976188,
-        1986383
+        1244133,
+        1380520,
+        1410435,
+        1410611
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "495|1739908860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=495%7C1739908860000"
+    "nextCursor": "496|1754908837987",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=496%7C1754908837987"
   }
 }
