@@ -1,83 +1,56 @@
 {
   "items": [
     {
-      "id": 93428098,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38e29444-542d-46a5-9d61-33b1ad4dabda/original=true/38e29444-542d-46a5-9d61-33b1ad4dabda.jpeg",
-      "hash": "UNM6*c-PD%i_T0~VRjnioyx]M|IU9u%LRjM{",
-      "width": 1152,
-      "height": 1824,
+      "id": 84538471,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1cb5692-94ac-4b70-ac67-4c535aa9bb67/original=true/f1cb5692-94ac-4b70-ac67-4c535aa9bb67.jpeg",
+      "hash": "UDI;YO4oE2~VInE1-;xE57kC_2IU%0E1-;E1",
+      "width": 1536,
+      "height": 2304,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-08-11T10:40:37.987Z",
-      "postId": 20727865,
+      "createdAt": "2025-06-25T23:50:00.000Z",
+      "postId": 18765037,
       "stats": {
-        "cryCount": 154,
-        "laughCount": 259,
-        "likeCount": 2128,
+        "cryCount": 117,
+        "laughCount": 275,
+        "likeCount": 2111,
         "dislikeCount": 0,
-        "heartCount": 1067,
+        "heartCount": 1105,
         "commentCount": 0
       },
       "meta": {
-        "RNG": "NV",
-        "ENSD": "31337",
-        "Size": "768x1216",
-        "seed": 1460099258,
-        "Model": "hassakuXLIllustrious_v13StyleA",
-        "steps": 28,
+        "Size": "2305x1537",
+        "seed": 539335515851364,
+        "Model": "A-mix",
+        "steps": 30,
         "hashes": {
-          "model": "163ac69059",
-          "lora:Chun-li_Swimsuit_Illu_Dwnsty": "41fc8ccc7749"
+          "model": "b199b92ee9"
         },
-        "prompt": "best quality, absurdres, newest, very aesthetic, amazing quality, highres, ultra detailed, mature female, looking at viewer, \n <lora:Chun-li_Swimsuit_Illu_Dwnsty:1>, chnl1sfsw1m, brown eyes, black hair, hair bun, double bun, swept bangs, braided hair rings, short hair, hair ornament, hair flower, blue flower, earrings, jewelry, blue one-piece swimsuit, highleg swimsuit, gold trim, center opening, cleavage, innerboob, large breasts, stomach cutout, linea alba, navel, belly chain, gold chain, blue bracelet, pearl bracelet, blue nails, nail polish, groin, toned female, thick thighs, thigh ribbon, blue ribbon, \nindoors, living, room, carpet, night, dimly lit, squatting, from side, profile, 1boy, penis, stray pubic hair, male pubic hair, open mouth, hands up, handjob, testicles, oral, fellatio, motion lines,",
-        "Version": "f2.0.1v1.10.1-previous-636-gb835f24a",
-        "sampler": "Euler a",
-        "Module 1": "sdxl_vae",
-        "cfgScale": 5,
+        "prompt": "1girl, 1boy, ass, implied fellatio, hetero, black hair, oral, from behind, panties, partially visible vulva, underwear, fellatio, back, median furrow, bare shoulders, thighs, ass focus, thong, clothed female nude male, solo focus, camisole, nude, facing away, white tank top, long hair, tank top, anus peek, shoulder blades, sitting, wariza, masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral",
+        "CFG Scale": "6.0",
         "resources": [
           {
-            "hash": "41fc8ccc7749",
-            "name": "Chun-li_Swimsuit_Illu_Dwnsty",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "163ac69059",
-            "name": "hassakuXLIllustrious_v13StyleA",
+            "hash": "b199b92ee9",
+            "name": "A-mix",
             "type": "model"
           }
         ],
-        "Model hash": "163ac69059",
-        "Hires steps": "10",
-        "Hires upscale": "1.5",
-        "Schedule type": "Normal",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "worst quality, low quality,  lowres, watermark, patreon username, artist name, artist logo, text, error, jpeg artifacts, unfinished, oldest, signature, artistic error, username, english text, 4koma, 2koma",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "5",
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "SGM noise multiplier": "True",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "Discard penultimate sigma": "True",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "Model hash": "b199b92ee9",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "dwnsty",
-      "baseModel": null,
+      "username": "phinjo",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        2099415
+        1915059
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "497|1750895400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=497%7C1750895400000"
+    "nextCursor": "498|1746263533459",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=498%7C1746263533459"
   }
 }
