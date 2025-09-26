@@ -1,98 +1,109 @@
 {
   "items": [
     {
-      "id": 75858775,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2eaa748a-d3ae-43d7-9809-b3392393b43b/original=true/2eaa748a-d3ae-43d7-9809-b3392393b43b.jpeg",
-      "hash": "UGDSK^~V9u9Z-pxaMxIVE2M|RPRjxaoLj@xa",
-      "width": 1664,
-      "height": 2304,
-      "nsfwLevel": "Mature",
+      "id": 75269962,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6edc6f33-b6cd-46a5-972f-20ab6b83f9f0/original=true/6edc6f33-b6cd-46a5-972f-20ab6b83f9f0.jpeg",
+      "hash": "UMK,y;10.l%MK+JBS#X90gR*M{Rkx]RQVsof",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-18T07:10:32.037Z",
-      "postId": 16843676,
+      "browsingLevel": 16,
+      "createdAt": "2025-05-10T00:41:00.000Z",
+      "postId": 16716189,
       "stats": {
-        "cryCount": 152,
-        "laughCount": 268,
-        "likeCount": 2177,
+        "cryCount": 143,
+        "laughCount": 283,
+        "likeCount": 2062,
         "dislikeCount": 0,
-        "heartCount": 1046,
-        "commentCount": 2
+        "heartCount": 1149,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1152",
-        "seed": 202096044653875,
-        "Model": "untitledPony_b10",
-        "steps": 35,
-        "hashes": {
-          "LORA:pony6/Hourglass_v2.1": "5EFD563B1E"
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
+        "extra": {
+          "remixOfId": 74435558
         },
-        "prompt": "score_9, score_8_up, score_7_up, embedding:CyberRealisticPony_POSV1, embedding:zPDXL3, (golden hour, vivid colors, dramatic lighting, :1.4)\nBREAK\ninstagram model, cute, 1girl, (white hair:1.2), long hair, absurdly long hair, sidelocks, straight hair, happy, smile, blush, nose blush, raised eyebrow, athletic girl, (cleavage:1.2), micro bra, underboob, skindentation, medium breasts, standing, leaning forward, (hair twirl:1.2), (wide hips, narrow waist, :1.2)\nBREAK\nliving room, couch, (from front, close-up:1.2), g4n1m3",
-        "Version": "ComfyUI",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 12,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_1, score_2, score_3, embedding:CyberRealistic_Negative_PONY_V2-neg, watermark, logo, white background, lamp, lace, frilled_bra, frills, shiny_clothes, freckles, ribs, muscular female, teeth, picture frame, simple background, nipples",
+        "steps": 19,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, (depth of field), outdoors, beach, ocean, bar, daytime,\n\nelf, pink hair, green eyes, eyeliner, cute face, slim, small breasts, long hair swept to one side, beautiful, kawaii, (short ears), (small ears), butt,\n\nmicro bikini,\n\nwalking on the beach, looking at viewer, butt focus, butt squeeze, faceless male, male pov, penis, stroking penis, handjob, ass spread, anus, ass grab, panty pull,",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, string bikini, uneven tan,",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1416874
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1764228
+            "modelVersionId": 1490781
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1681921
+            "weight": 0.85,
+            "modelVersionId": 1189052
           },
           {
             "type": "lora",
-            "weight": 2,
-            "modelVersionId": 1594293
-          },
+            "weight": 0.5,
+            "modelVersionId": 1416874
+          }
+        ],
+        "additionalResources": [
           {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
             "type": "lora",
-            "weight": 2,
-            "modelVersionId": 1726904
+            "strength": 0.85,
+            "strengthClip": 1
           },
           {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 501154
-          },
-          {
-            "type": "embedding",
-            "weight": 1,
-            "modelVersionId": 1477814
-          },
-          {
-            "type": "embedding",
-            "weight": 1,
-            "modelVersionId": 720175
-          },
-          {
-            "type": "embedding",
-            "weight": 1,
-            "modelVersionId": 1690589
+            "strength": 0.5,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "prompt_bit_sorcerer",
-      "baseModel": "Pony",
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        501154,
-        720175,
-        1477814,
-        1594293,
-        1681921,
-        1690589,
-        1726904,
-        1764228
+        164821,
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "481|1746837660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=481%7C1746837660000"
+    "nextCursor": "482|1727878301566",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=482%7C1727878301566"
   }
 }
