@@ -1,130 +1,98 @@
 {
   "items": [
     {
-      "id": 41660786,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/820e0947-b144-41f5-b6c5-60ae849f6830/original=true/820e0947-b144-41f5-b6c5-60ae849f6830.jpeg",
-      "hash": "U6A0zVE100og00M{%gRj9Z%M~qjt.8of4Tof",
-      "width": 832,
-      "height": 1216,
+      "id": 75858775,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2eaa748a-d3ae-43d7-9809-b3392393b43b/original=true/2eaa748a-d3ae-43d7-9809-b3392393b43b.jpeg",
+      "hash": "UGDSK^~V9u9Z-pxaMxIVE2M|RPRjxaoLj@xa",
+      "width": 1664,
+      "height": 2304,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-09-15T02:58:54.692Z",
-      "postId": 9485750,
+      "createdAt": "2025-05-18T07:10:32.037Z",
+      "postId": 16843676,
       "stats": {
-        "cryCount": 184,
-        "laughCount": 292,
-        "likeCount": 2183,
+        "cryCount": 152,
+        "laughCount": 268,
+        "likeCount": 2177,
         "dislikeCount": 0,
-        "heartCount": 982,
-        "commentCount": 1
+        "heartCount": 1046,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 556572229,
-        "draft": false,
-        "extra": {
-          "remixOfId": 40646149
-        },
+        "Size": "832x1152",
+        "seed": 202096044653875,
+        "Model": "untitledPony_b10",
         "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9,score_8_up,score_8,score_9,(((pastel colors, high contrast,expressiveh,heavy breathing,20 year old,solo)))((Misaki Ayuzawa,1girl,detailed eyes,yellow eyes,dark brown hair,straight hair,har between eyes,long hair,pale skin,low cut maid dress,sleveless, white thigh highs, maid,maid headdress, midriff, kneeling, hands bound above head, clothes torn, shy, nipples, torn panties,staring))(epiCPhoto,perfecteyes,outdoors, alley, graffiti, urban midnight, dark, night,) um on face, dishevelled, cum on body, cum on breasts, used, cum drip, cum in vagina",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
+        "hashes": {
+          "LORA:pony6/Hourglass_v2.1": "5EFD563B1E"
+        },
+        "prompt": "score_9, score_8_up, score_7_up, embedding:CyberRealisticPony_POSV1, embedding:zPDXL3, (golden hour, vivid colors, dramatic lighting, :1.4)\nBREAK\ninstagram model, cute, 1girl, (white hair:1.2), long hair, absurdly long hair, sidelocks, straight hair, happy, smile, blush, nose blush, raised eyebrow, athletic girl, (cleavage:1.2), micro bra, underboob, skindentation, medium breasts, standing, leaning forward, (hair twirl:1.2), (wide hips, narrow waist, :1.2)\nBREAK\nliving room, couch, (from front, close-up:1.2), g4n1m3",
+        "Version": "ComfyUI",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 12,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-11-19T1210:48.3834097Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "score_6, score_5, score_4, fcNeg,(Loli,childlike) simple background, blur, low quality, muscular woman, large chest, fat, gag,,SimpleNegativeV3",
+        "negativePrompt": "score_1, score_2, score_3, embedding:CyberRealistic_Negative_PONY_V2-neg, watermark, logo, white background, lamp, lace, frilled_bra, frills, shiny_clothes, freckles, ribs, muscular female, teeth, picture frame, simple background, nipples",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 69507,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1764228
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1681921
           },
           {
-            "type": "embed",
+            "type": "lora",
+            "weight": 2,
+            "modelVersionId": 1594293
+          },
+          {
+            "type": "lora",
+            "weight": 2,
+            "modelVersionId": 1726904
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 220262,
-            "modelVersionName": "epiCPhoto"
+            "modelVersionId": 501154
           },
           {
-            "type": "embed",
+            "type": "embedding",
             "weight": 1,
-            "modelVersionId": 287973,
-            "modelVersionName": "V3"
+            "modelVersionId": 1477814
           },
           {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 356312,
-            "modelVersionName": "kittew-artist-v1_pdxl"
+            "type": "embedding",
+            "weight": 1,
+            "modelVersionId": 720175
           },
           {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 378684,
-            "modelVersionName": "v2.0 (Max. Compatibility)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 731246,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "embedding",
+            "weight": 1,
+            "modelVersionId": 1690589
           }
         ]
       },
-      "username": "solumbragt355",
+      "username": "prompt_bit_sorcerer",
       "baseModel": "Pony",
       "modelVersionIds": [
-        69507,
-        135867,
-        220262,
-        287973,
-        290640,
-        356312,
-        378684,
-        382152,
-        731246
+        501154,
+        720175,
+        1477814,
+        1594293,
+        1681921,
+        1690589,
+        1726904,
+        1764228
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "480|1747552232037",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=480%7C1747552232037"
+    "nextCursor": "481|1746837660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=481%7C1746837660000"
   }
 }
