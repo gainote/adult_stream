@@ -1,75 +1,80 @@
 {
   "items": [
     {
-      "id": 85375475,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/96ef5464-c456-46be-a110-3e5f8f2aeadb/original=true/96ef5464-c456-46be-a110-3e5f8f2aeadb.jpeg",
-      "hash": "U4DI2g}r1#Fc@^IW0#Sg00={4:E2%Kt7,CRk",
-      "width": 1248,
-      "height": 2200,
+      "id": 91804210,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f4aa73d-586f-4426-985a-62ea17f5abf5/original=true/1f4aa73d-586f-4426-985a-62ea17f5abf5.jpeg",
+      "hash": "UIHBG3-:tlT0?^xvtR%MTdRjRj%LWXnhi_M|",
+      "width": 1024,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-01T00:23:00.000Z",
-      "postId": 18949146,
+      "createdAt": "2025-08-01T19:52:35.101Z",
+      "postId": 20367340,
       "stats": {
-        "cryCount": 152,
-        "laughCount": 269,
-        "likeCount": 2216,
+        "cryCount": 250,
+        "laughCount": 385,
+        "likeCount": 2134,
         "dislikeCount": 0,
-        "heartCount": 978,
+        "heartCount": 845,
         "commentCount": 1
       },
       "meta": {
-        "RNG": "CPU",
-        "ENSD": "31337",
-        "Size": "1344x1344",
-        "seed": 734199141,
-        "Model": "waiNSFWIllustrious_v140",
-        "steps": 25,
-        "hashes": {
-          "model": "bdb59bac77",
-          "lora:PSAIX_MERGE": "e75c7e0245c5"
+        "Size": "1024x1024",
+        "seed": 629090905,
+        "draft": false,
+        "extra": {
+          "remixOfId": 91790503
         },
-        "prompt": "makima \\(chainsaw man\\), 1girl, solo, upper body, leaning forward, smug, loose necktie, pov hand, pulling another's chain leash, tongue out, fake dog ears, chain leash, half-closed eyes,\nblack background, simple background, yellow eyes, ringed eyes,\n<lora:PSAIX_MERGE:0.9>,\nguweiz,\nmasterpiece, best quality, amazing quality, very aesthetic, highres,",
-        "Version": "f1.6.5dev-v1.10.1RC-latest-2104-g7af1b9d7",
-        "sampler": "Euler a",
-        "Emphasis": "No norm",
+        "steps": 40,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two busty cute 18yo girls  edging, giving a blowjob",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M",
         "cfgScale": 5,
         "clipSkip": 2,
-        "Mask blur": "4",
-        "resources": [
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-08-01T1925:02.1666208Z",
+        "experimental": false,
+        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
+        "civitaiResources": [
           {
-            "hash": "e75c7e0245c5",
-            "name": "PSAIX_MERGE",
-            "type": "lora",
-            "weight": 0.9
+            "type": "checkpoint",
+            "modelVersionId": 1988773,
+            "modelVersionName": "SDXL Pony 18"
           },
           {
-            "hash": "bdb59bac77",
-            "name": "waiNSFWIllustrious_v140",
-            "type": "model"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1.25,
+            "modelVersionId": 714649,
+            "modelVersionName": "V1"
           }
-        ],
-        "Model hash": "bdb59bac77",
-        "Inpaint area": "Only masked",
-        "Schedule type": "Beta",
-        "negativePrompt": "lowres, displeasing, very displeasing, bad anatomy, watermarks, extra digit, fewer digits, cropped, worst quality, low quality, ugly, censored, text, signature, hair intakes,",
-        "Beta schedule beta": "0.6",
-        "Denoising strength": "0",
-        "Beta schedule alpha": "0.6",
-        "Masked area padding": "32"
+        ]
       },
-      "username": "garbagepage",
-      "baseModel": "Illustrious",
+      "username": "brahej",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1761560,
-        1958140
+        9208,
+        714649,
+        1988773
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "490|1754077955101",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=490%7C1754077955101"
+    "nextCursor": "491|1753785893541",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=491%7C1753785893541"
   }
 }
