@@ -1,109 +1,71 @@
 {
   "items": [
     {
-      "id": 75269962,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6edc6f33-b6cd-46a5-972f-20ab6b83f9f0/original=true/6edc6f33-b6cd-46a5-972f-20ab6b83f9f0.jpeg",
-      "hash": "UMK,y;10.l%MK+JBS#X90gR*M{Rkx]RQVsof",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 32426779,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/394e8612-c8f1-4b19-83aa-a178f1607b0a/original=true/394e8612-c8f1-4b19-83aa-a178f1607b0a.jpeg",
+      "hash": "URGk,n~W_2Rk~q.7t7WBT0%LM|oe-:%1WBoL",
+      "width": 1664,
+      "height": 2432,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-05-10T00:41:00.000Z",
-      "postId": 16716189,
+      "browsingLevel": 4,
+      "createdAt": "2024-10-02T14:11:41.566Z",
+      "postId": 7424020,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 283,
-        "likeCount": 2062,
+        "cryCount": 105,
+        "laughCount": 230,
+        "likeCount": 2120,
         "dislikeCount": 0,
-        "heartCount": 1149,
-        "commentCount": 0
+        "heartCount": 1177,
+        "commentCount": 10
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
-        "extra": {
-          "remixOfId": 74435558
+        "VAE": "sdxl.vae.safetensors",
+        "Size": "832x1216",
+        "seed": 376142740,
+        "Model": "PonyRealism_v2.2_VAE",
+        "steps": 30,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "7c97ecf786"
         },
-        "steps": 19,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, (depth of field), outdoors, beach, ocean, bar, daytime,\n\nelf, pink hair, green eyes, eyeliner, cute face, slim, small breasts, long hair swept to one side, beautiful, kawaii, (short ears), (small ears), butt,\n\nmicro bikini,\n\nwalking on the beach, looking at viewer, butt focus, butt squeeze, faceless male, male pov, penis, stroking penis, handjob, ass spread, anus, ass grab, panty pull,",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, string bikini, uneven tan,",
-        "civitaiResources": [
+        "prompt": "score_9, score_8_up, score_7_up, young woman, laying on front, from behind, beach, micro bikini, makeup, ear ring, piercing, sun tan, (oiled:0.4), skin pores, blonde, ass, lens flare, depth of field, highly detailed, high contrast, film grain, Rim Lighting",
+        "Version": "v1.10.1",
+        "sampler": "DPM++ SDE",
+        "Template": {
+          "(oiled": "0.4)"
+        },
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1416874
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1490781
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874
+            "hash": "7c97ecf786",
+            "name": "PonyRealism_v2.2_VAE",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "7c97ecf786",
+        "Schedule type": "Karras",
+        "negativePrompt": "score_6, score_5, score_4, text, censored, deformed, bad hand",
+        "ADetailer model": "mediapipe_face_full",
+        "ADetailer version": "24.8.0",
+        "Negative Template": {},
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "Downcast alphas_cumprod": "True",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1189052,
-        1416874,
-        1490781
-      ]
+      "username": "ZyloO",
+      "baseModel": "Pony",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "482|1727878301566",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=482%7C1727878301566"
+    "nextCursor": "483|1731679413020",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=483%7C1731679413020"
   }
 }
