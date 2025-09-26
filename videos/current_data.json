@@ -1,35 +1,130 @@
 {
   "items": [
     {
-      "id": 80308473,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6d6dea5-849c-4f8b-a484-9b293967c999/original=true/b6d6dea5-849c-4f8b-a484-9b293967c999.jpeg",
-      "hash": "UMNliU~A0z$My=.8t6M|K~W--VVs.RS#NH9]",
-      "width": 1024,
-      "height": 1024,
-      "nsfwLevel": "X",
+      "id": 41660786,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/820e0947-b144-41f5-b6c5-60ae849f6830/original=true/820e0947-b144-41f5-b6c5-60ae849f6830.jpeg",
+      "hash": "U6A0zVE100og00M{%gRj9Z%M~qjt.8of4Tof",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-04T03:54:18.637Z",
-      "postId": 17836458,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-15T02:58:54.692Z",
+      "postId": 9485750,
       "stats": {
-        "cryCount": 165,
-        "laughCount": 331,
-        "likeCount": 2150,
+        "cryCount": 184,
+        "laughCount": 292,
+        "likeCount": 2183,
         "dislikeCount": 0,
-        "heartCount": 994,
-        "commentCount": 3
+        "heartCount": 982,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "Jack20000",
-      "baseModel": "Illustrious",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 556572229,
+        "draft": false,
+        "extra": {
+          "remixOfId": 40646149
+        },
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9,score_8_up,score_8,score_9,(((pastel colors, high contrast,expressiveh,heavy breathing,20 year old,solo)))((Misaki Ayuzawa,1girl,detailed eyes,yellow eyes,dark brown hair,straight hair,har between eyes,long hair,pale skin,low cut maid dress,sleveless, white thigh highs, maid,maid headdress, midriff, kneeling, hands bound above head, clothes torn, shy, nipples, torn panties,staring))(epiCPhoto,perfecteyes,outdoors, alley, graffiti, urban midnight, dark, night,) um on face, dishevelled, cum on body, cum on breasts, used, cum drip, cum in vagina",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-11-19T1210:48.3834097Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "score_6, score_5, score_4, fcNeg,(Loli,childlike) simple background, blur, low quality, muscular woman, large chest, fat, gag,,SimpleNegativeV3",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 69507,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 220262,
+            "modelVersionName": "epiCPhoto"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 287973,
+            "modelVersionName": "V3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 356312,
+            "modelVersionName": "kittew-artist-v1_pdxl"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 378684,
+            "modelVersionName": "v2.0 (Max. Compatibility)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 731246,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "solumbragt355",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1761560
+        69507,
+        135867,
+        220262,
+        287973,
+        290640,
+        356312,
+        378684,
+        382152,
+        731246
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "479|1757905134692",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=479%7C1757905134692"
+    "nextCursor": "480|1747552232037",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=480%7C1747552232037"
   }
 }
