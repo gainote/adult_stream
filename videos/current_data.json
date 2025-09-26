@@ -1,40 +1,91 @@
 {
   "items": [
     {
-      "id": 40260512,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9e59766d-2fa9-4517-9c28-d984a88b3fb5/original=true/9e59766d-2fa9-4517-9c28-d984a88b3fb5.jpeg",
-      "hash": "UJEU$4~Cemwb?b^*-T%1E2xZ^j%MRPsTtRo}",
+      "id": 19833947,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9da6f215-833f-4e72-a351-eae1651f4fd0/original=true/9da6f215-833f-4e72-a351-eae1651f4fd0.jpeg",
+      "hash": "U5EA=eX81I=x_*NHAEsA0hNvX8n%n5X7Nbn%",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-15T14:03:33.020Z",
-      "postId": 9176056,
+      "browsingLevel": 8,
+      "createdAt": "2024-07-14T19:14:37.065Z",
+      "postId": 4427590,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 252,
-        "likeCount": 1997,
+        "cryCount": 79,
+        "laughCount": 213,
+        "likeCount": 2098,
         "dislikeCount": 0,
-        "heartCount": 1241,
-        "commentCount": 12
+        "heartCount": 1236,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "blor352",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1990586464,
+        "steps": 30,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  (((3girls))), gorgeous girl , kawai girl , cute face , nerd, red hair, bangs , (((large braided hair))) , golden neclace, topless, large saggy breast, (((puffy nipples))), cleavage, bend forward ,wet body, water droplets,  (slim fit), pose , boob focus ,boob focus, dark background , closeup , boobs squeezed together",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-07-14T1048:51.8665618Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "hornystoryteller",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        244808,
+        239420,
         290640,
-        382152,
         398847,
         436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "484|1720984477065",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=484%7C1720984477065"
+    "nextCursor": "485|1727581438662",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=485%7C1727581438662"
   }
 }
