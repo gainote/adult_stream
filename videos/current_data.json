@@ -1,71 +1,40 @@
 {
   "items": [
     {
-      "id": 32426779,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/394e8612-c8f1-4b19-83aa-a178f1607b0a/original=true/394e8612-c8f1-4b19-83aa-a178f1607b0a.jpeg",
-      "hash": "URGk,n~W_2Rk~q.7t7WBT0%LM|oe-:%1WBoL",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "Mature",
+      "id": 40260512,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9e59766d-2fa9-4517-9c28-d984a88b3fb5/original=true/9e59766d-2fa9-4517-9c28-d984a88b3fb5.jpeg",
+      "hash": "UJEU$4~Cemwb?b^*-T%1E2xZ^j%MRPsTtRo}",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-10-02T14:11:41.566Z",
-      "postId": 7424020,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-15T14:03:33.020Z",
+      "postId": 9176056,
       "stats": {
-        "cryCount": 105,
-        "laughCount": 230,
-        "likeCount": 2120,
+        "cryCount": 137,
+        "laughCount": 252,
+        "likeCount": 1997,
         "dislikeCount": 0,
-        "heartCount": 1177,
-        "commentCount": 10
+        "heartCount": 1241,
+        "commentCount": 12
       },
-      "meta": {
-        "VAE": "sdxl.vae.safetensors",
-        "Size": "832x1216",
-        "seed": 376142740,
-        "Model": "PonyRealism_v2.2_VAE",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "7c97ecf786"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, young woman, laying on front, from behind, beach, micro bikini, makeup, ear ring, piercing, sun tan, (oiled:0.4), skin pores, blonde, ass, lens flare, depth of field, highly detailed, high contrast, film grain, Rim Lighting",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ SDE",
-        "Template": {
-          "(oiled": "0.4)"
-        },
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "7c97ecf786",
-            "name": "PonyRealism_v2.2_VAE",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7c97ecf786",
-        "Schedule type": "Karras",
-        "negativePrompt": "score_6, score_5, score_4, text, censored, deformed, bad hand",
-        "ADetailer model": "mediapipe_face_full",
-        "ADetailer version": "24.8.0",
-        "Negative Template": {},
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Downcast alphas_cumprod": "True",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "ZyloO",
+      "meta": null,
+      "username": "blor352",
       "baseModel": "Pony",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "483|1731679413020",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=483%7C1731679413020"
+    "nextCursor": "484|1720984477065",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=484%7C1720984477065"
   }
 }
