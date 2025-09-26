@@ -13,11 +13,11 @@
       "createdAt": "2025-04-17T21:29:52.028Z",
       "postId": 14502546,
       "stats": {
-        "cryCount": 1075,
+        "cryCount": 1076,
         "laughCount": 1787,
-        "likeCount": 12223,
+        "likeCount": 12224,
         "dislikeCount": 0,
-        "heartCount": 6861,
+        "heartCount": 6862,
         "commentCount": 30
       },
       "meta": {
@@ -131,7 +131,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "467|1712339505567",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=467%7C1712339505567"
+    "nextCursor": "468|1712339505567",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=468%7C1712339505567"
   }
 }
