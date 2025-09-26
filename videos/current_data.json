@@ -1,33 +1,104 @@
 {
   "items": [
     {
-      "id": 88552293,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd866aaf-051a-4c0b-bbdd-753bad66f438/original=true/bd866aaf-051a-4c0b-bbdd-753bad66f438.jpeg",
-      "hash": "UDEw{]^*IU57~A^ORkIpxt$%aeV@-VoLI:R*",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
+      "id": 98069416,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f628967-26c7-4cc8-a0fe-cfd0ad3dfa24/original=true/8f628967-26c7-4cc8-a0fe-cfd0ad3dfa24.jpeg",
+      "hash": "UAAJcrj@ADR*~Vt6SNRkNZj[M{jss:NHD*xt",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-16T23:47:00.000Z",
-      "postId": 19642161,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-04T09:37:34.717Z",
+      "postId": 21758402,
       "stats": {
         "cryCount": 144,
-        "laughCount": 312,
-        "likeCount": 2144,
+        "laughCount": 239,
+        "likeCount": 2348,
         "dislikeCount": 0,
-        "heartCount": 1004,
-        "commentCount": 2
+        "heartCount": 869,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "Rodzilla2025X",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1506125877,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9_up, score_9, score_8_up, score_8, score_7_up, score_7, raw, high quality, 4k resolution, absurdres, morimee_style, masterpiece, best quality, \n1girl, large breasts, curvy, skimpy, skindentation, breastdentation, breast sag, armor pasties, fishnet undersuit, nipple chains, armor chains, elegant armor, ethereal princess, empress of death, blonde hair, green highlights in hair, detailed face, detailed armor, gilded, intense low lighting, green glow, crescent eye tattoo, shadowed face, glowing eyes, entrance to the underworld, glowing deadlight aura, corupt crown, half crescent crown, green eyes, mystical sigils, long flowing cloak, sci-fi fantasy armor, necrotic patterns, moonlit silhouette, cinematic perspective, ethereal particles, radiant eclipse corona, sleek asymmetrical hairstyle, atmosphere of silent finality, black eyeshadow, underworld green flames, Flaming cloak, Action Shot, Fierce expression, partical effects, dynamic, Dynamic position, Dynamic angle, intense, intense expression, half smirk, Unique, cowboy shot, dutch angle, foreshortening, Looking at viewer, asymmetrical background, off center, side view, view from the side, over the shoulder, looking over shoulder, \npower unleashed, magical power, magical overflow, overflow, summoning, summon, summoning undead, undead minons, undead followers, \narch angel, fallen angel, angel wings, wings spread, feathered, torn, damaged, twisted, \nLunar eclipse, shadow energy, cosmic infinity, iris eclipse, blood moon,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-09T0513:35.0741679Z",
+        "experimental": false,
+        "negativePrompt": "score_4, score_5, score_6, extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless,watermark,signature, logo, easynegative, low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx, (((curly hair))), ((curly hairstyle)), 3D, tanlines, abs,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 287973
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 380277
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1122823
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1142665
+          },
+          {
+            "type": "lora",
+            "weight": 2,
+            "modelVersionId": 240274
+          }
+        ]
+      },
+      "username": "Wadufuk1",
       "baseModel": "Pony",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        240274,
+        287973,
+        290640,
+        380277,
+        398847,
+        436219,
+        1122823,
+        1142665
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "500|1756978654717",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=500%7C1756978654717"
+    "nextCursor": "501|1753615035384",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=501%7C1753615035384"
   }
 }
