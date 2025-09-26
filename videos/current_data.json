@@ -13,9 +13,9 @@
       "createdAt": "2025-04-17T21:29:52.028Z",
       "postId": 14502546,
       "stats": {
-        "cryCount": 1073,
+        "cryCount": 1074,
         "laughCount": 1787,
-        "likeCount": 12220,
+        "likeCount": 12222,
         "dislikeCount": 0,
         "heartCount": 6861,
         "commentCount": 30
@@ -131,7 +131,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "465|1712339505567",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=465%7C1712339505567"
+    "nextCursor": "466|1712339505567",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=466%7C1712339505567"
   }
 }
