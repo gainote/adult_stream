@@ -1,39 +1,46 @@
 {
   "items": [
     {
-      "id": 33654930,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/279a49d7-3ef4-47fe-8e66-b05c7ee71c04/original=true/279a49d7-3ef4-47fe-8e66-b05c7ee71c04.jpeg",
-      "hash": "UHE2g}9GF2aKgiD*.8oJEOf6~VRk?at7D+R+",
+      "id": 91517263,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3efbf71a-5896-454e-b904-7fa975591aa7/original=true/3efbf71a-5896-454e-b904-7fa975591aa7.jpeg",
+      "hash": "U4C?WN00?bnN00%hxAI9~qx]9F9Y5E?bjGIU",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-09T12:12:33.330Z",
-      "postId": 7696302,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-31T06:05:23.391Z",
+      "postId": 20303086,
       "stats": {
-        "cryCount": 153,
-        "laughCount": 277,
-        "likeCount": 2071,
+        "cryCount": 182,
+        "laughCount": 315,
+        "likeCount": 2129,
         "dislikeCount": 0,
-        "heartCount": 1111,
-        "commentCount": 6
+        "heartCount": 983,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1977663481,
-        "extra": {
-          "remixOfId": 33061150
-        },
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, VitWaterStyle, a girl, nose blush, mouth taped, (((mouth covered))), (((mouth taped)))), big breast , nipples , topless , seat belt bondage , sitting in car seat, boob focus , car , side portrait , boob focus , pov , breast grab , breast fondle , inside car",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "seed": 1134548096,
+        "draft": false,
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, 1girl, solo, crawling, on all fours, ass up, SeraHHXL, dark skin, colored skin, white freckles face, long eyelashes, makeup, black lips, grey sclera, colored sclera, black pupils, white hair, white elbow gloves, long hair, halo, glowing halo, choker, huge breasts, topless, (white) tiny g-string, camel toe, (white) thigh high boots, sexy smile, closed mouth, narrow waist, perfect face, perfect eyes, thick thighs, thick hips, concept art, realistic,\nBREAK\ndetailed background, gothic, inside, church, stone floor, bed, chest, red drapes, window, stain glass",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-10-09T1117:43.1354251Z",
-        "negativePrompt": "score_4, score_5, score_6, fat, ugly,",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-11T0749:16.6381569Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, score_3, score_2, score_1, distorted hands, distorted fingers, low quality, low resolution, worst quality, simple background, censored, text, signature, username, artist name, 3d, Blurry, Watermark, logo, blurry, jpeg artifacts, black and white, monochrome, compression artifacts, deformed, deformed face, deformed fingers, deformed hands, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Merged Body Parts, multiple eyebrow, extra limb, bad anatomy, long neck, long body, kid, child, extra fingers, 4 fingers, 6 fingers, negative_hand, easynegative",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -42,32 +49,43 @@
           },
           {
             "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.4,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight [M]"
+          },
+          {
+            "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 937383,
-            "modelVersionName": "DTLDR v2.0"
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 545254,
+            "modelVersionName": "vPonyXL"
           }
         ]
       },
-      "username": "blacksnowskill",
+      "username": "Goon_Goblin",
       "baseModel": "Pony",
       "modelVersionIds": [
+        135867,
         290640,
-        937383
+        330475,
+        382152,
+        545254
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "493|1753941923391",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=493%7C1753941923391"
+    "nextCursor": "494|1752033300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=494%7C1752033300000"
   }
 }
