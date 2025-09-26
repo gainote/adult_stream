@@ -1,73 +1,84 @@
 {
   "items": [
     {
-      "id": 33667812,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f12961d-5cbf-418c-999a-52bfb4132fb1/original=true/4f12961d-5cbf-418c-999a-52bfb4132fb1.jpeg",
-      "hash": "UEFrF.^U9c.Tv3-?%Nv~=}^RrxVtw6$l?bW?",
-      "width": 832,
-      "height": 1216,
+      "id": 100220509,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95c18f34-f142-4003-977c-9e632696af92/original=true/95c18f34-f142-4003-977c-9e632696af92.jpeg",
+      "hash": "UADuug019uxuK5~B9atQI;s.?GIp4n%M-pIV",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-10-09T14:02:35.226Z",
-      "postId": 7699034,
+      "createdAt": "2025-09-14T06:46:00.000Z",
+      "postId": 22235021,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 286,
-        "likeCount": 2073,
+        "cryCount": 139,
+        "laughCount": 274,
+        "likeCount": 2110,
         "dislikeCount": 0,
-        "heartCount": 1157,
-        "commentCount": 7
+        "heartCount": 1095,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3757693102,
-        "extra": {
-          "remixOfId": 33061150
-        },
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, rating_explicit, 1girl, Violet Parr, 18yo slutty girl, medium ass, booty, straight dark hair, pink headband, long hair, dark purple eyes, big breasts, tits, nude, thick thighs, tiny T-shirt, all fours, gamepad is in her hands, gameboy, stuffed animals, plushies, headphones with cat ears, sexy, nsfw, sweaty skin, ((boy penetration from behind)), ass up, arching back, perfect ass, fit body, thin waists, ahegao, tongue drop, drooling, mouth open, sexy ahegao, head down, on bed, neon lights, rough sex, vaginal sex, pounding pussy, moaning,",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "seed": 1646723031,
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "masterpiece, ultra-HD, impressionism , high detail, depth of field, (blurred background),masterpiece, best quality, very aesthetic,8k,light particles, nsfw, (lineless:1.4), perspective,\n\n2girls, blonde hair, bob cut, large natural breasts, apron, standing against kitchen counter, legs apart, head grab, face grind, lesbian, cunnilingus, ass worship, spread ass, closeup, moaning, pussy juice BREAK, Brown hair, ponytail, way hair, kneeling, hands on ass, ass view, Sheer fabric,",
+        "denoise": 0.4,
+        "process": "txt2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-09T1355:50.8744565Z",
-        "negativePrompt": "score_4, score_5, score_6, fat, ugly",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/8B5QCXAG0H4WMKR0BMGGW0SR70.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQx7ED6x0zC2Lvf0Ph3PTIbEZeY2bnHLLP5LUZB1sFofRyuKp-YPBr5fgI1uiFRsVo8GPumC22Bcv9OxlSnAwzPIA07rKass_YwSJzzEyJPGB0NtbNB1YCI7HsM8pZELhfIwCObBVqmqOd3GYNz6YgWpfLKqjrthnnpaYqW7ZPWJ91ig6eWt_fHMrjrqCuI1MN41t10MK-Ob2QCsyWgC2J1UzgHtN1DnkuGKjG6N3-a3VdiQIOMvDh0eqDFAkxyrMTeuI9mxNOcQFk72KqRyFX0&exp=2026-09-14T05:37:40.2782573Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "3d, worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1240288
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 937383,
-            "modelVersionName": "DTLDR v2.0"
+            "weight": 0.5,
+            "modelVersionId": 2209882
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": "blacksnowskill",
-      "baseModel": "Pony",
+      "username": "DrPeeHands",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        937383
+        164821,
+        1240288,
+        2209882
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "487|1757832360000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=487%7C1757832360000"
+    "nextCursor": "488|1753860678476",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=488%7C1753860678476"
   }
 }
