@@ -1,91 +1,195 @@
 {
   "items": [
     {
-      "id": 91517263,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3efbf71a-5896-454e-b904-7fa975591aa7/original=true/3efbf71a-5896-454e-b904-7fa975591aa7.jpeg",
-      "hash": "U4C?WN00?bnN00%hxAI9~qx]9F9Y5E?bjGIU",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 87146482,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5bddfffa-25c7-4154-b2fd-a59e73f9ea0d/original=true/5bddfffa-25c7-4154-b2fd-a59e73f9ea0d.jpeg",
+      "hash": "U8C#}EX70g~VIBIpX9Rj02%2={4:tRRjM|xu",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-31T06:05:23.391Z",
-      "postId": 20303086,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-09T03:55:00.000Z",
+      "postId": 19333834,
       "stats": {
-        "cryCount": 182,
-        "laughCount": 315,
-        "likeCount": 2129,
+        "cryCount": 139,
+        "laughCount": 256,
+        "likeCount": 2087,
         "dislikeCount": 0,
-        "heartCount": 983,
-        "commentCount": 1
+        "heartCount": 1127,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1134548096,
-        "draft": false,
-        "steps": 50,
+        "seed": 29433026,
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:296576@333245"
+        ],
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 24,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, 1girl, solo, crawling, on all fours, ass up, SeraHHXL, dark skin, colored skin, white freckles face, long eyelashes, makeup, black lips, grey sclera, colored sclera, black pupils, white hair, white elbow gloves, long hair, halo, glowing halo, choker, huge breasts, topless, (white) tiny g-string, camel toe, (white) thigh high boots, sexy smile, closed mouth, narrow waist, perfect face, perfect eyes, thick thighs, thick hips, concept art, realistic,\nBREAK\ndetailed background, gothic, inside, church, stone floor, bed, chest, red drapes, window, stain glass",
-        "process": "txt2img",
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "1girl, girl lying, on back,on bed,1boy, boy kneeling, erection,male masturbation, cumshot,projectile cum, facial, blonde hair, braid, \n from side, low angle, ((surprised)), exclamation mark, look up at him\n\n masterpiece, ultra-HD, cinematic lighting, photorealistic, realistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, 8k,( light particles:1.4), nsfw, scenic, rim light, s1_dram , dynamic angle",
+        "denoise": 0.3,
+        "process": "img2img",
         "sampler": "DPM++ 2M",
-        "cfgScale": 4,
+        "cfgScale": 3,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
         "disablePoi": true,
+        "versionIds": [],
         "aspectRatio": "13:19",
-        "Created Date": "2025-07-11T0749:16.6381569Z",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/WMM4C0M5X1W7KQ0HQAS73NJ390.jpeg",
+          "width": 832,
+          "height": 1216
+        },
         "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, score_3, score_2, score_1, distorted hands, distorted fingers, low quality, low resolution, worst quality, simple background, censored, text, signature, username, artist name, 3d, Blurry, Watermark, logo, blurry, jpeg artifacts, black and white, monochrome, compression artifacts, deformed, deformed face, deformed fingers, deformed hands, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Merged Body Parts, multiple eyebrow, extra limb, bad anatomy, long neck, long body, kid, child, extra fingers, 4 fingers, 6 fingers, negative_hand, easynegative",
+        "negativePrompt": "Reach behind, worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1986383
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1280045
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          },
+          {
+            "weight": 2.95,
+            "modelVersionId": 1726985
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 1976188
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 333245
           },
           {
             "type": "lora",
-            "weight": 1.1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 0.6,
+            "modelVersionId": 1986383
           },
           {
             "type": "lora",
-            "weight": 1.4,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight [M]"
+            "weight": 0.85,
+            "modelVersionId": 1189052
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "modelVersionId": 1280045
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 545254,
-            "modelVersionName": "vPonyXL"
+            "modelVersionId": 1416874
+          },
+          {
+            "type": "lora",
+            "weight": 2.95,
+            "modelVersionId": 1726985
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1976188
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1755174@1986383",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
+            "type": "lora",
+            "strength": 2.95,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1746119@1976188",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Goon_Goblin",
-      "baseModel": "Pony",
+      "username": "DrPeeHands",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        290640,
-        330475,
-        382152,
-        545254
+        164821,
+        333245,
+        1189052,
+        1240288,
+        1280045,
+        1416874,
+        1726985,
+        1976188,
+        1986383
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "494|1752033300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=494%7C1752033300000"
+    "nextCursor": "495|1739908860000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=495%7C1739908860000"
   }
 }
