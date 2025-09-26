@@ -1,36 +1,39 @@
 {
   "items": [
     {
-      "id": 31856838,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5d3202ae-a93b-4f86-804e-9a746215d366/original=true/5d3202ae-a93b-4f86-804e-9a746215d366.jpeg",
-      "hash": "UAC=e^rU10R50h9E-=aJxtv}%2e-~VbIM{Io",
+      "id": 33667812,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f12961d-5cbf-418c-999a-52bfb4132fb1/original=true/4f12961d-5cbf-418c-999a-52bfb4132fb1.jpeg",
+      "hash": "UEFrF.^U9c.Tv3-?%Nv~=}^RrxVtw6$l?bW?",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-09-29T03:43:58.662Z",
-      "postId": 7252640,
+      "createdAt": "2024-10-09T14:02:35.226Z",
+      "postId": 7699034,
       "stats": {
-        "cryCount": 94,
-        "laughCount": 220,
-        "likeCount": 2017,
+        "cryCount": 104,
+        "laughCount": 286,
+        "likeCount": 2073,
         "dislikeCount": 0,
-        "heartCount": 1291,
-        "commentCount": 2
+        "heartCount": 1157,
+        "commentCount": 7
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 615534580,
-        "steps": 29,
-        "prompt": "Expressiveh, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, godrays, 1girl, Yor briar (Spy x family), closeup, pose, nipples, sexy, blush, face focus, night, moon, dark, blue light, bedroom, sexy, dramatic lightning, dynamic angle, light smile, naked, choker, boobjob, oiled, motion lines, motion blur, from side",
+        "seed": 3757693102,
+        "extra": {
+          "remixOfId": 33061150
+        },
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, rating_explicit, 1girl, Violet Parr, 18yo slutty girl, medium ass, booty, straight dark hair, pink headband, long hair, dark purple eyes, big breasts, tits, nude, thick thighs, tiny T-shirt, all fours, gamepad is in her hands, gameboy, stuffed animals, plushies, headphones with cat ears, sexy, nsfw, sweaty skin, ((boy penetration from behind)), ass up, arching back, perfect ass, fit body, thin waists, ahegao, tongue drop, drooling, mouth open, sexy ahegao, head down, on bed, neon lights, rough sex, vaginal sex, pounding pussy, moaning,",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-09-29T0209:58.4565612Z",
-        "negativePrompt": "easynegative, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, mixed characters",
+        "Created Date": "2024-10-09T1355:50.8744565Z",
+        "negativePrompt": "score_4, score_5, score_6, fat, ugly",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -38,34 +41,10 @@
             "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.8,
+            "modelVersionId": 937383,
+            "modelVersionName": "DTLDR v2.0"
           },
           {
             "type": "embed",
@@ -79,20 +58,16 @@
           }
         ]
       },
-      "username": "Bancin",
+      "username": "blacksnowskill",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        239420,
         290640,
-        382152,
-        398847,
-        436219
+        937383
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "486|1728482555226",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=486%7C1728482555226"
+    "nextCursor": "487|1757832360000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=487%7C1757832360000"
   }
 }
