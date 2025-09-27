@@ -1,77 +1,55 @@
 {
   "items": [
     {
-      "id": 90766878,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1a9cede8-3b80-42b4-8f4e-ec6f6ac0e893/original=true/1a9cede8-3b80-42b4-8f4e-ec6f6ac0e893.jpeg",
-      "hash": "UGJ*SOMv~o8_1PRi9t-U9aj=s9%M%2IURPNH",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 41942376,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4ba55ab-40fc-49f1-9f37-a1f2912f719f/original=true/e4ba55ab-40fc-49f1-9f37-a1f2912f719f.jpeg",
+      "hash": "UJHe^6_NTyE18_IANIt7Si%MnhWVyERjjFR*",
+      "width": 1536,
+      "height": 2752,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-27T11:17:15.384Z",
-      "postId": 20129165,
+      "browsingLevel": 4,
+      "createdAt": "2024-11-25T07:17:00.000Z",
+      "postId": 9546761,
       "stats": {
-        "cryCount": 240,
-        "laughCount": 416,
-        "likeCount": 2033,
+        "cryCount": 103,
+        "laughCount": 179,
+        "likeCount": 2291,
         "dislikeCount": 0,
-        "heartCount": 907,
-        "commentCount": 1
+        "heartCount": 1023,
+        "commentCount": 7
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1430808050,
-        "draft": false,
+        "Size": "1536x2752",
+        "seed": 603669890,
+        "extra": {
+          "remixOfId": 26803050
+        },
         "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, newest, absurdres, pixelsketcher, very awa, newest, \n{1femboy, 20 years old, elf, drow, gray skin, white hair, short boyish haircut, tall, slim, androgynous, small erect penis, sexy, hot, fit body, (slim fit), wet skin, hard cock, sexy thighs, thick thighs}, \npose, horny, blushing, seductive:1.6, nude, big ass:1.6,\nanal dildo masturbation, horny face, open mouth, tongue, \ndetailed background, outdoors, beach",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "prompt": "fantasy art, woman , young, messy short white hair, goddess of winter, seductive, full length long white knit sweater that goes down to knees, bare shoulders , cleavage, sitting, white wool thigh highs, slim white body, pale skin, curvy body, athletic body, blush, slim waist, seductive image,serene, untouched beauty, clear, lively, detailed face, upper body accent, white lips and makeup , blue white eyes, seductive look, realistic,\nbackground of a fantasy winter ice palace,sfw",
+        "sampler": "Undefined",
+        "cfgScale": 7.5,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-26T1149:23.4061668Z",
-        "experimental": false,
-        "negativePrompt": "ai-artifatcts, worst quality, old, early, loli, futa, low quality, lowres, signature, username, logo, bad hands, mutated hands, artist name, sketch,  bad eyes, blurry eyes, bad face,\n((watermark)), logo, patreon username:1.6, text, bad details, \n(((childlike))), (((childish))), (((minor))),(people in background), speech bubble, tan lines, (female breasts), deformed, pussy, vagina:1.6, girl:1.6, detached penis, conjoined penises, detached limbs, detached head, piercing,",
+        "Created Date": "2024-11-25T0304:29.4323373Z",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1179962,
-            "modelVersionName": "bonifasko"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1277586,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1088507,
+            "modelVersionName": "Pro 1.1 Ultra"
           }
         ]
       },
-      "username": "goonisher228",
-      "baseModel": "Illustrious",
+      "username": "boonnyb689",
+      "baseModel": "Flux.1 D",
       "modelVersionIds": [
-        1179962,
-        1277586,
-        1490781
+        1088507
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "502|1732519020000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=502%7C1732519020000"
+    "nextCursor": "503|1757355499554",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=503%7C1757355499554"
   }
 }
