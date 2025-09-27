@@ -1,90 +1,90 @@
 {
   "items": [
     {
-      "id": 99354172,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a7e1b58-ce7d-4d0f-b9cd-5e5467ff53a1/original=true/0a7e1b58-ce7d-4d0f-b9cd-5e5467ff53a1.jpeg",
-      "hash": "U9En|swH04=E00AHIo?Gn4-A}q5SKR$eJCeT",
-      "width": 832,
-      "height": 1216,
+      "id": 59427958,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b12fd8fe-d3a9-44a6-897d-042710e54454/original=true/b12fd8fe-d3a9-44a6-897d-042710e54454.jpeg",
+      "hash": "UQHBbU~myNIVo#j^Ipe:EMxt-Us:_0%L-.R+",
+      "width": 1296,
+      "height": 2160,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-09-11T10:42:19.457Z",
-      "postId": 22045547,
+      "createdAt": "2025-02-23T04:39:00.000Z",
+      "postId": 13293739,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 233,
-        "likeCount": 2189,
+        "cryCount": 107,
+        "laughCount": 221,
+        "likeCount": 2194,
         "dislikeCount": 0,
-        "heartCount": 998,
-        "commentCount": 1
+        "heartCount": 1037,
+        "commentCount": 0
       },
       "meta": {
-        "TI": {},
-        "Size": "832x1216",
-        "seed": 2401994026,
-        "Model": "cyberrealisticPony_catalystV30",
-        "steps": 40,
+        "Size": "768x1280",
+        "seed": 332712343547056,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
         "hashes": {
-          "model": "36de6f8958",
-          "lora:igbaddie-PN": "eaca8735a04a",
-          "lora:Expressive_H": "5671f20a9a6b",
-          "lora:Dramatic Lighting Slider": "cad8e9106645",
-          "lora:AmateurStyle_v1_PONY_REALISM": "7ae6f7a90432"
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
         },
-        "prompt": "score_9, score_8_up, score_7_up,  (1girl:1.3), 21 years old, (solo:1.2), pretty girl, chestnut brown hair, fringe hair, medium length hair, light brown eyes, big eyes, ((freckles)), cute, (medium round breasts:1.2), nude, wet body, sweaty, (wet hair:1.4),  (sexy expression:1.1), sexy thighs, swimming pool, night, full body view, (view from back, view from behind, bending over:1.3), <lora:AmateurStyle_v1_PONY_REALISM:1>, <lora:Expressive_H:0.35> Expressiveh,  <lora:Dramatic Lighting Slider:1.6>,  <lora:igbaddie-PN:0.8>,  CyberRealisticPony_POSV1",
-        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
-        "sampler": "Euler a",
-        "Module 1": "sdxl-vae-fp16-fix",
-        "cfgScale": 4,
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), nude, nipples, pussy, (strapped hitachi magic wand:1.1), bondage, standing under tree, orchard background,\noutdoors, orchad, garden, scenery, apple trees, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
         "clipSkip": 2,
         "resources": [
           {
-            "hash": "7ae6f7a90432",
-            "name": "AmateurStyle_v1_PONY_REALISM",
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
             "weight": 1
           },
           {
-            "hash": "5671f20a9a6b",
-            "name": "Expressive_H",
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 0.35
+            "weight": 1
           },
           {
-            "hash": "eaca8735a04a",
-            "name": "igbaddie-PN",
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.8
+            "weight": 0.6
           },
           {
-            "hash": "cad8e9106645",
-            "name": "Dramatic Lighting Slider",
-            "type": "lora"
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
           },
           {
-            "hash": "36de6f8958",
-            "name": "cyberrealisticPony_catalystV30",
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
             "type": "model"
           }
         ],
-        "Model hash": "36de6f8958",
-        "Schedule type": "Automatic",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), signature, logo, weights, bunny ears, extra hands, deformed fingers, cross-eyed, extra fingers, 6 fingers, man, earrings, simple background, CyberRealistic_Negative_PONY_V2-neg,"
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, apples on ground"
       },
-      "username": "melly2245",
-      "baseModel": "Pony",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        382152,
-        534756,
-        556208,
-        1899516
+        1345990,
+        1284348,
+        567119,
+        1050644,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "522|1740285540000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=522%7C1740285540000"
+    "nextCursor": "523|1755169500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=523%7C1755169500000"
   }
 }
