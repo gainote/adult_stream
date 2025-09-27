@@ -1,77 +1,80 @@
 {
   "items": [
     {
-      "id": 89821022,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eba27e7e-3e2c-4178-a708-9d656246266d/original=true/eba27e7e-3e2c-4178-a708-9d656246266d.jpeg",
-      "hash": "UFGkRXD+.SxG0L?b0LV@AHW?v~IU_MW;$$nh",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 53076050,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a1e56ec9-61f0-4b4c-a079-071a5aed951c/original=true/a1e56ec9-61f0-4b4c-a079-071a5aed951c.jpeg",
+      "hash": "UAC$AfIp9a^*}=oM9axt0LWBxuNGEkRjI=WB",
+      "width": 1224,
+      "height": 2056,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-04T00:23:00.000Z",
-      "postId": 19923235,
+      "browsingLevel": 4,
+      "createdAt": "2025-01-26T17:01:00.000Z",
+      "postId": 11921588,
       "stats": {
-        "cryCount": 163,
-        "laughCount": 237,
-        "likeCount": 2214,
+        "cryCount": 105,
+        "laughCount": 217,
+        "likeCount": 2264,
         "dislikeCount": 0,
-        "heartCount": 953,
-        "commentCount": 0
+        "heartCount": 983,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1451077215,
-        "draft": false,
-        "steps": 19,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, (teasing look:2), caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, smaller natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "Size": "512x512",
+        "seed": 1075818457861265,
+        "Model": "waiNSFWIllustrious_v90.safetensors",
+        "steps": 30,
+        "hashes": {
+          "model": "178fc987b2",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:DarkerThanDarkIllustriousV1": "692bd4f9ae",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, seductive, blonde hair, medium hair, hair ribbon, detailed eyes, multicolored eyes, green eyes, eyebrows, eyelashes, reverse bunnysuit, tight latex, cross pasties, knee up, one leg on table, indoors, casino interior, gambling tables, dim lighting, dark background, crowd of people, cards, bar in background, (blurry background, depth of field, bokeh:0.9) <lora:klskx_wai:0.7000000000000001> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:DarkerThanDarkIllustriousV1:0.5>",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-22T1614:01.5791909Z",
-        "experimental": false,
-        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
           },
           {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052,
-            "modelVersionName": "Illustrious"
+            "weight": 2
           },
           {
+            "hash": "692bd4f9ae",
+            "name": "DarkerThanDarkIllustriousV1",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874,
-            "modelVersionName": "[illustrious]"
+            "weight": 0.5
+          },
+          {
+            "hash": "178fc987b2",
+            "name": "waiNSFWIllustrious_v90.safetensors",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "178fc987b2",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, (watermark:1.0), signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, sparks, glares, lens flare, pussy,"
       },
-      "username": "bm609",
+      "username": "Marland_C",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1189052,
-        1416874,
-        1490781
+        1283437,
+        1095977,
+        1284348,
+        567119
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "519|1737910860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=519%7C1737910860000"
+    "nextCursor": "520|1745276460000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=520%7C1745276460000"
   }
 }
