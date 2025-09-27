@@ -1,109 +1,152 @@
 {
   "items": [
     {
-      "id": 71964708,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/86529579-9bdb-4f87-8e34-acaa32b05a99/original=true/86529579-9bdb-4f87-8e34-acaa32b05a99.jpeg",
-      "hash": "UDNu*R%MF|w1NNg30yNt0exa^PtQ~VwzVER6",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 60312664,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/11584af3-3005-4ff2-a85f-02b2fe8c280d/original=true/11584af3-3005-4ff2-a85f-02b2fe8c280d.jpeg",
+      "hash": "UEIr83pI_N,CE3x]M|RP?wxFIAI;NIMxs:S5",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-24T04:15:00.000Z",
-      "postId": 15987248,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-27T00:41:00.000Z",
+      "postId": 13489445,
       "stats": {
         "cryCount": 138,
-        "laughCount": 242,
-        "likeCount": 2172,
+        "laughCount": 264,
+        "likeCount": 2125,
         "dislikeCount": 0,
-        "heartCount": 999,
-        "commentCount": 1
+        "heartCount": 1023,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 812071917,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), Sylvia, large breasts, long hair, drill hair, pink hair, hair over one eye, blue eyes, large breasts, makeup, smokyeyes, lash, pink mascara, puffy lips, glossy pink lipstick, ahegao_face, she makes the ahegao face, tongue out, A digital illustration shoot from a frontal camera angle about a seductive demon girl with horns and wings sitting on a bed in a dimly lit room. the image also shows a cozy bedroom with a window and framed pictures on the wall. on the middle of the image, a 1woman, who appears to be a demon girl, with pointed ears, is sitting. she is wearing a black silk and lace dress with a red bow on the side, revealing her large breasts and bare shoulders. she has bat-like wings on her back. she has red lipstick and a choker around her neck. her eyes are looking directly at the viewer, with a sultry expression. with vibrant colors and detailed shading, giving the image a sense of depth and dimensionality, soft ambient glow, dramatic scenery, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, foreshortening, dynamic dutch angle, shot from below, bright colors, stunningly artwork,",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-04-23T0319:16.0085500Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {
+          "remixOfId": 56118366
+        },
+        "steps": 32,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_8, 1girl, solo, perfect face, light blue eyes, nude, long black opera gloves, black thigh high stockings, black masquerade eye mask, small breasts, long black hair, red highlights, red lipstick, elegant ponytail, parted bangs, sitting in chair, refined, blank background, from side, full body",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-facefix",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, hands on own face, chibi, child, border, signature",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 60938
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 179964
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 298238
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 378950
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 421754
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1617798,
-            "modelVersionName": "v2.1fix"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
+            "weight": 0.65,
+            "modelVersionId": 244808
           },
           {
             "type": "lora",
             "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
+            "modelVersionId": 298238
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
+            "weight": 0.5,
+            "modelVersionId": 378950
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 439343,
-            "modelVersionName": "v1.0"
+            "weight": 0.65,
+            "modelVersionId": 421754
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
           },
           {
+            "name": "urn:air:sdxl:lora:civitai:264290@298238",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1111018,
-            "modelVersionName": "Illustrious_v1.0"
+            "strength": 0.7,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:211726@378950",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:377690@421754",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "ElvishDreams",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        6056,
-        25820,
-        439343,
-        1056404,
-        1111018,
-        1135769,
-        1373674,
-        1617798
+        60938,
+        179964,
+        244808,
+        290640,
+        298238,
+        378950,
+        421754
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "528|1740616860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=528%7C1740616860000"
+    "nextCursor": "529|1729558800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=529%7C1729558800000"
   }
 }
