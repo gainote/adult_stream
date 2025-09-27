@@ -1,74 +1,94 @@
 {
   "items": [
     {
-      "id": 100730653,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/accce3c9-016c-472a-a653-fe634e71071a/original=true/accce3c9-016c-472a-a653-fe634e71071a.jpeg",
-      "hash": "U8EU}w%2009Zx[xa9Z570J%1=}9a~BxuD*nP",
-      "width": 1280,
-      "height": 1856,
+      "id": 50950686,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/85fa42de-1d94-4832-8517-ec47466dc421/original=true/85fa42de-1d94-4832-8517-ec47466dc421.jpeg",
+      "hash": "UNG%=J~BI:-V0fELofxGNGIpWCs:tQt7s.NG",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-16T21:16:02.252Z",
-      "postId": 22348073,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-13T16:00:00.000Z",
+      "postId": 11461223,
       "stats": {
-        "cryCount": 140,
-        "laughCount": 250,
-        "likeCount": 2253,
+        "cryCount": 105,
+        "laughCount": 169,
+        "likeCount": 2147,
         "dislikeCount": 0,
-        "heartCount": 937,
-        "commentCount": 0
+        "heartCount": 1158,
+        "commentCount": 1
       },
       "meta": {
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:660673@785437"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1199750",
-        "extra": {},
-        "steps": 38,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:439889@1199750"
-        ],
-        "prompt": "(score_9, score_8_up, score_7_up:1.2),\n(kaworu, grey eyes, blonde hair, long hair, hair over eye, lips),\n(strapless strips pink corset, black lace stockings with garter-straps, bridal black elbow sleeves, pink panties:1.3),\nblack background, rim lighting, \nshiny lips, blushing, \n(top view, lying on black sheets with red petals, black pillow:1.3), hand on chest, finger on mouth, cameltoe, spread legs, black platformheels",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "negativePrompt": "text, distorted, watermark, blur, blurry, distortion, logo, bad, extra fingers, artifacts, twisted, muscular, lowres, monochrome, muscular, censored, low-quality, distorted fingers, worst-quality, aliasing, signature, poorly drawn, bad, , (tiara, chocker:1.2),",
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1018290810,
+        "draft": false,
+        "extra": {
+          "remixOfId": 39918680
+        },
+        "steps": 17,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon,\n BREAK\n BREAK\n1girl, close-up, bedroom, dim lighting, girl pinching nipples, large natural breasts, slightly exposed, wet skin, flushed cheeks, messy hair, sensual expression, biting lip, detailed textures, glossy liquid, raw emotion, explicit focus, no eye contact, erotic tension, intimate atmosphere.\n BREAK\ndynamic light, warm_light, vibrant colors warm_colors, soft focus, high contrast, textured surfaces, depth of field, golden hour lighting, dramatic shadows, rich details, nature-inspired color palette, playful composition.\n,dynamic angle,dynamic light,background,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-01-11T1423:49.5665177Z",
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, orgasm, milf, big lips, big nose,(((face)))",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1199750
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 613398
+            "weight": 0.25,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "type": "vae",
-            "modelVersionId": 785437
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 514793,
+            "modelVersionName": "comicbookpage xl v1.0"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 501154,
+            "modelVersionName": "Gothic Retro Anime v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "MatureOnly",
+      "username": "Buzz_lover",
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        613398,
-        1199750
+        382152,
+        501154,
+        514793,
+        817261
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "512|1736784000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=512%7C1736784000000"
+    "nextCursor": "513|1731859320869",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=513%7C1731859320869"
   }
 }
