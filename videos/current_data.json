@@ -1,80 +1,95 @@
 {
   "items": [
     {
-      "id": 53076050,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a1e56ec9-61f0-4b4c-a079-071a5aed951c/original=true/a1e56ec9-61f0-4b4c-a079-071a5aed951c.jpeg",
-      "hash": "UAC$AfIp9a^*}=oM9axt0LWBxuNGEkRjI=WB",
-      "width": 1224,
-      "height": 2056,
+      "id": 71486559,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/645c9066-5485-48ef-8b0f-fc5f30a7f3b0/original=true/645c9066-5485-48ef-8b0f-fc5f30a7f3b0.jpeg",
+      "hash": "U5JtYhvi00GaM-03-MT_K,-o.R.mOI.7El4.",
+      "width": 1536,
+      "height": 2688,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-01-26T17:01:00.000Z",
-      "postId": 11921588,
+      "createdAt": "2025-04-21T23:01:00.000Z",
+      "postId": 15880101,
       "stats": {
-        "cryCount": 105,
-        "laughCount": 217,
-        "likeCount": 2264,
+        "cryCount": 118,
+        "laughCount": 242,
+        "likeCount": 2125,
         "dislikeCount": 0,
-        "heartCount": 983,
+        "heartCount": 1081,
         "commentCount": 1
       },
       "meta": {
-        "Size": "512x512",
-        "seed": 1075818457861265,
-        "Model": "waiNSFWIllustrious_v90.safetensors",
-        "steps": 30,
+        "seed": 0,
+        "Model": "waiNSFWIllustrious_v130",
+        "steps": 25,
         "hashes": {
-          "model": "178fc987b2",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:DarkerThanDarkIllustriousV1": "692bd4f9ae",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+          "model": "a810e710a2",
+          "lora:rdtdrp": "cc2697591f",
+          "lora:ILv10_NPi": "51b4269008",
+          "lora:IL10_NP26i": "a00f1b003f",
+          "lora:ILv10_NP21": "d2c702aae7",
+          "lora:illustriousXLv01_stabilizer_v1": "d8fc4b0e9e",
+          "lora:NOOB_vp1_detailer_by_volnovik_v1": "8216b71295"
         },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, seductive, blonde hair, medium hair, hair ribbon, detailed eyes, multicolored eyes, green eyes, eyebrows, eyelashes, reverse bunnysuit, tight latex, cross pasties, knee up, one leg on table, indoors, casino interior, gambling tables, dim lighting, dark background, crowd of people, cards, bar in background, (blurry background, depth of field, bokeh:0.9) <lora:klskx_wai:0.7000000000000001> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:DarkerThanDarkIllustriousV1:0.5>",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
+        "sampler": "Euler A",
+        "cfgScale": 7,
         "resources": [
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
+            "hash": "a00f1b003f",
+            "name": "IL10_NP26i",
+            "type": "lora"
           },
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 2
+            "hash": "d2c702aae7",
+            "name": "ILv10_NP21",
+            "type": "lora"
           },
           {
-            "hash": "692bd4f9ae",
-            "name": "DarkerThanDarkIllustriousV1",
-            "type": "lora",
-            "weight": 0.5
+            "hash": "51b4269008",
+            "name": "ILv10_NPi",
+            "type": "lora"
           },
           {
-            "hash": "178fc987b2",
-            "name": "waiNSFWIllustrious_v90.safetensors",
+            "hash": "cc2697591f",
+            "name": "rdtdrp",
+            "type": "lora"
+          },
+          {
+            "hash": "d8fc4b0e9e",
+            "name": "illustriousXLv01_stabilizer_v1",
+            "type": "lora"
+          },
+          {
+            "hash": "8216b71295",
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
+            "type": "lora"
+          },
+          {
+            "hash": "a810e710a2",
+            "name": "waiNSFWIllustrious_v130",
             "type": "model"
           }
         ],
-        "Model hash": "178fc987b2",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, (watermark:1.0), signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, sparks, glares, lens flare, pussy,"
+        "Model hash": "a810e710a2",
+        "Schedule type": "Karras"
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "Tozi_White",
+      "baseModel": "IllustriousIllustrious",
       "modelVersionIds": [
-        1283437,
-        1095977,
-        1284348,
-        567119
+        1209350,
+        1396529,
+        1420418,
+        1420432,
+        1600020,
+        1612720,
+        1674551
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "520|1745276460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=520%7C1745276460000"
+    "nextCursor": "521|1757587339457",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=521%7C1757587339457"
   }
 }
