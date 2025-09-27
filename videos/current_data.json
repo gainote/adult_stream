@@ -1,40 +1,179 @@
 {
   "items": [
     {
-      "id": 40633486,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1e0a3f7d-2051-4c84-89d3-2c48b42172c1/original=true/1e0a3f7d-2051-4c84-89d3-2c48b42172c1.jpeg",
-      "hash": "U8E-N[xC0}}@58EM9^j[0zf*={xDxuI;M|xZ",
-      "width": 832,
-      "height": 1216,
+      "id": 55572853,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4fddff2-d90b-4fae-adb6-9bd74d12fdc7/original=true/a4fddff2-d90b-4fae-adb6-9bd74d12fdc7.jpeg",
+      "hash": "UUK,gI~Wx]%2nMwcRk%M%LWVD%RPOsxa%M%2",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-11-17T16:02:00.869Z",
-      "postId": 9257777,
+      "createdAt": "2025-02-03T13:23:59.796Z",
+      "postId": 12450295,
       "stats": {
-        "cryCount": 130,
-        "laughCount": 212,
-        "likeCount": 2162,
+        "cryCount": 101,
+        "laughCount": 242,
+        "likeCount": 2077,
         "dislikeCount": 0,
-        "heartCount": 1068,
-        "commentCount": 0
+        "heartCount": 1152,
+        "commentCount": 3
       },
-      "meta": null,
-      "username": "sabbufik419",
+      "meta": {
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {
+          "remixOfId": 21049145
+        },
+        "steps": 32,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, close up, (focus on huge penis:1.3), table, , photo card of cute girl, stapple, (text:1.2) , man out of frame, veins, messy room, view from above, (cute flying heart:0.6)\n",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "civit_nsfw, safe_neg, source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 98441
+          },
+          {
+            "weight": 1.1,
+            "modelVersionId": 128461
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 135867
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 298238
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 471794
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 106916
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 128461
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 298238
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 471794
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:118427@128461",
+            "type": "lora",
+            "strength": 1.1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:122359@135867",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:264290@298238",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:200255@471794",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "vovkkabanko",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        239420,
+        98441,
+        128461,
+        135867,
+        164821,
         290640,
+        298238,
         382152,
-        398847,
-        436219
+        471794
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "514|1738589039796",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=514%7C1738589039796"
+    "nextCursor": "515|1726022007802",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=515%7C1726022007802"
   }
 }
