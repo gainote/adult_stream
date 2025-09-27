@@ -1,70 +1,56 @@
 {
   "items": [
     {
-      "id": 97498519,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/715fa590-600c-4142-9da5-3808dcc07b54/original=true/715fa590-600c-4142-9da5-3808dcc07b54.jpeg",
-      "hash": "U9DR]SR500~W-p9t56%L00?H?I0eIUxZNbNG",
-      "width": 1536,
-      "height": 2048,
-      "nsfwLevel": "X",
+      "id": 92354988,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d3ad2a1-46d8-48de-913b-ff8fbaa8039b/original=true/6d3ad2a1-46d8-48de-913b-ff8fbaa8039b.jpeg",
+      "hash": "UII}Fl?a_NSOELxtI=M{9GIpi_xatlxu%2js",
+      "width": 768,
+      "height": 1344,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-01T09:35:08.600Z",
-      "postId": 21630558,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-04T23:19:51.005Z",
+      "postId": 20487229,
       "stats": {
-        "cryCount": 170,
-        "laughCount": 245,
-        "likeCount": 2270,
+        "cryCount": 188,
+        "laughCount": 266,
+        "likeCount": 2267,
         "dislikeCount": 0,
-        "heartCount": 896,
-        "commentCount": 0
+        "heartCount": 859,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "768x1024",
-        "seed": 1288490079,
-        "Model": "waiNSFWIllustrious_v140",
-        "steps": 27,
+        "Size": "768x1344",
+        "seed": 12908694174932720000,
+        "Model": "aij_v10",
+        "steps": 60,
         "hashes": {
-          "vae": "235745af8d",
-          "model": "bdb59bac77",
-          "lora:tentacle_wrapping": "7f91db6d2a6e"
+          "model": "6c511ec692"
         },
-        "prompt": "tentacle_wrapping, tentacles,tentacle wrapping torsos, tentacle wrapping legs, tentacle wrapping arms,1girl,(Thick tentacles wrap around whole body many times:1.3),one-eye closed, open mouth,night, simple background, darkness enviroment,<lora:tentacle_wrapping:0.9> red tentacles,view from side,girl suspended,one breasts out,torn clothes,\ntentacle sex, sex from behind, head back,\nyumehara nozomi, hair bun,long hair,ribbon,pink dress, magical girl costume,(large breasts:0.8),, masterpiece,best quality,amazing quality,ultra detailed, very aesthetic,absurdres,skinny,general,highres, ultra-detailed, amazing quality, newest, scenery,beautiful detailed hair, beautiful detailed eyes, beautiful detailed face, dynamic lighting, super detailed skin,sharp focus,",
-        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, shirtp_st, PureErosFace_V1, 1girl, full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
+        "Version": "ComfyUI",
+        "sampler": "dpmpp_2s_a_simple",
+        "CFG Scale": "5.0",
         "resources": [
           {
-            "hash": "7f91db6d2a6e",
-            "name": "tentacle_wrapping",
-            "type": "lora",
-            "weight": 0.9
-          },
-          {
-            "hash": "bdb59bac77",
-            "name": "waiNSFWIllustrious_v140",
+            "hash": "6c511ec692",
+            "name": "aij_v10",
             "type": "model"
           }
         ],
-        "Model hash": "bdb59bac77",
-        "Hires steps": "12",
-        "Hires upscale": "2",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "(interlocked fingers, badly drawn hands and fingers, anatomically incorrect hands),(extra digit:1.1),head_out_of_frame,NEGATIVE_HANDS,multiple girls,lowres,(bad quality,worst quality:1.2),bad anatomy,sketch,jpeg artifacts,poorly drawn,(censor),blurry,watermark,score_6 , score_5 , score_4 , source_furry, source_pony, source_cartoon, lowres, bad_anatomy, bad_hands, deformed anatomy, worst_quality, low_quality, normal_quality, jpeg_artifacts, signature, watermark, monochrome,very displeasing,",
-        "Denoising strength": "0.12"
+        "Model hash": "6c511ec692",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
       },
-      "username": "shiashibaK",
+      "username": "fujiangjiang",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1761560
+        1693974
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "508|1754349591005",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=508%7C1754349591005"
+    "nextCursor": "509|1735516841787",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=509%7C1735516841787"
   }
 }
