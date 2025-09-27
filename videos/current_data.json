@@ -1,78 +1,139 @@
 {
   "items": [
     {
-      "id": 71544400,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c410f6ba-b1d4-4db8-8312-79eb6d1f3ea9/original=true/c410f6ba-b1d4-4db8-8312-79eb6d1f3ea9.jpeg",
-      "hash": "UZLNDI9ZOFxDtmIUE2W=~p%MxuM{?bIUoLxa",
-      "width": 1248,
-      "height": 1824,
+      "id": 64311615,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e2c833b-37e0-470a-886b-9dea18216361/original=true/2e2c833b-37e0-470a-886b-9dea18216361.jpeg",
+      "hash": "U9LfdfwI0KW=0y=|RjNG00E$t89Z%1w^?H~B",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-22T08:05:46.423Z",
-      "postId": 15892910,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-18T22:16:57.917Z",
+      "postId": 14338526,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 217,
-        "likeCount": 2105,
+        "cryCount": 199,
+        "laughCount": 282,
+        "likeCount": 1947,
         "dislikeCount": 0,
-        "heartCount": 1123,
-        "commentCount": 0
+        "heartCount": 1113,
+        "commentCount": 7
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "ENSD": "31337",
-        "Size": "832x1216",
-        "seed": 1454791230,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:upshorts_ilxl_goofy": "21c6d99b912b"
+        "nsfw": true,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1410435",
+        "extra": {
+          "remixOfId": 32140259
         },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:upshorts_ilxl_goofy:1> upshorts, 1girl, aqua panties, arched back, arm support, armpit crease, ass, ass focus, blonde hair, blurry, blurry background, couch, depth of field, dolphin shorts, facing away, from behind, grey shirt, gyaru, long hair, lying, on couch, on stomach, panties, panties under shorts, panty peek, partially visible vulva, shirt, short shorts, shorts, simple background, solo, strap slip, tank top, thighs, trefoil, underwear,",
-        "Version": "v1.10.1-84-g374bb6cc",
+        "steps": 47,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1410435"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, detailed setting, detailed background, 1girl, yunyun (konosuba), nude, red eyes, hair ornament, braid, hair between eyes,low twintails, pink ribbon, bow, hair bow, pussy, frilled skirt, layered skirt, belt, pink thighhighs, (pussy juice), large insertion, vaginal tugging, pussy grip, detailed skin, detailed soles, stretched pussy, feet in stockings, ass, nipples, medium breasts, french kiss, anus, shocked, nervous, penis awe,  BREAK Professor's office, college student, pornographic, 1boy, close eyes, (musscular male, detailed large cock), vaginal sex, college office setting, ass grab, fucking, riding, cowgirl, erotic, side view, deep fucking",
+        "denoise": 0.3,
         "sampler": "Euler a",
-        "cfgScale": 6,
-        "resources": [
+        "cfgScale": 6.5,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 2,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/5KZ6358TW8CNEGPZKD08NVDB30",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor",
+        "civitaiResources": [
           {
-            "hash": "21c6d99b912b",
-            "name": "upshorts_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 1410435
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 1410435
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1253442
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1516344
+          },
+          {
+            "weight": 1.55,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1410435
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1253442
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1516344
+          },
+          {
+            "type": "lora",
+            "weight": 1.55,
+            "modelVersionId": 135867
           }
         ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Normal",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.24",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1107767@1253442",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1342708@1516344",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:122359@135867",
+            "type": "lora",
+            "strength": 1.55,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Goofy_Ai",
+      "username": "Pixelimba",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1379960
+        135867,
+        164821,
+        1253442,
+        1410435,
+        1516344
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "531|1742336217917",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=531%7C1742336217917"
+    "nextCursor": "532|1736766070842",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=532%7C1736766070842"
   }
 }
