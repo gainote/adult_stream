@@ -1,55 +1,82 @@
 {
   "items": [
     {
-      "id": 41942376,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4ba55ab-40fc-49f1-9f37-a1f2912f719f/original=true/e4ba55ab-40fc-49f1-9f37-a1f2912f719f.jpeg",
-      "hash": "UJHe^6_NTyE18_IANIt7Si%MnhWVyERjjFR*",
-      "width": 1536,
-      "height": 2752,
-      "nsfwLevel": "Mature",
+      "id": 99160930,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c2b53a2-d9d6-4e20-8b8b-a95975360dff/original=true/3c2b53a2-d9d6-4e20-8b8b-a95975360dff.jpeg",
+      "hash": "UHG*+,%M4.~p00E0xYM{V@sp%MM{-;xuRj%2",
+      "width": 1408,
+      "height": 2048,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-11-25T07:17:00.000Z",
-      "postId": 9546761,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-08T18:18:19.554Z",
+      "postId": 22001545,
       "stats": {
-        "cryCount": 103,
-        "laughCount": 179,
-        "likeCount": 2291,
+        "cryCount": 186,
+        "laughCount": 317,
+        "likeCount": 2140,
         "dislikeCount": 0,
-        "heartCount": 1023,
-        "commentCount": 7
+        "heartCount": 951,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "1536x2752",
-        "seed": 603669890,
-        "extra": {
-          "remixOfId": 26803050
-        },
-        "steps": 30,
-        "prompt": "fantasy art, woman , young, messy short white hair, goddess of winter, seductive, full length long white knit sweater that goes down to knees, bare shoulders , cleavage, sitting, white wool thigh highs, slim white body, pale skin, curvy body, athletic body, blush, slim waist, seductive image,serene, untouched beauty, clear, lively, detailed face, upper body accent, white lips and makeup , blue white eyes, seductive look, realistic,\nbackground of a fantasy winter ice palace,sfw",
-        "sampler": "Undefined",
-        "cfgScale": 7.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-11-25T0304:29.4323373Z",
+        "seed": 1621894674,
+        "extra": {},
+        "steps": 40,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery BREAK depth of field, volumetric lighting, lying, pointy_ears, toes, anus, pussy, collar, folded, nipples, solo, bow, hair_bow, object_insertion, sex_toy, feet, dildo, on_back, thighhighs, vaginal, breasts, vaginal_object_insertion, 1girl, long_hair, soles,  massive dildo , usnr, dild0dra40n, dragon dildo,dildo,sex toy,",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "negativePrompt": "Female tongue, female tongue out, Neck grab, worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1088507,
-            "modelVersionName": "Pro 1.1 Ultra"
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 959419
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1036362
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1219983
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 2089448
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": "boonnyb689",
-      "baseModel": "Flux.1 D",
+      "username": "Big_Master",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        1088507
+        145907,
+        164821,
+        959419,
+        1036362,
+        1219983,
+        1240288,
+        2089448
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "503|1757355499554",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=503%7C1757355499554"
+    "nextCursor": "504|1741342127986",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=504%7C1741342127986"
   }
 }
