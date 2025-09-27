@@ -1,106 +1,110 @@
 {
   "items": [
     {
-      "id": 62030849,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a98df56a-5538-4fd8-84fa-f9fe1c3b5c8a/original=true/a98df56a-5538-4fd8-84fa-f9fe1c3b5c8a.jpeg",
-      "hash": "U7EB?Q4o9[~W0eoLIpxG00-;=|IU%LNG%Lxu",
-      "width": 1184,
-      "height": 1512,
+      "id": 81768086,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1912df6-0424-4261-8f20-9920b9096be3/original=true/b1912df6-0424-4261-8f20-9920b9096be3.jpeg",
+      "hash": "U2AvFN}r000~0;M{}=-p00OE~Bwb-eOs0gVr",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-07T10:08:47.986Z",
-      "postId": 13859484,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-12T00:41:00.000Z",
+      "postId": 18163826,
       "stats": {
-        "cryCount": 103,
-        "laughCount": 231,
-        "likeCount": 2109,
+        "cryCount": 117,
+        "laughCount": 238,
+        "likeCount": 2119,
         "dislikeCount": 0,
-        "heartCount": 1151,
-        "commentCount": 0
+        "heartCount": 1108,
+        "commentCount": 7
       },
       "meta": {
-        "Size": "1184x1512",
-        "seed": 3308830713,
-        "Model": "Illustrious\u00e6\u00a8\u00a1\u00e5\u009e\u008bhassakuXLIllustrious_v13StyleA",
-        "steps": 20,
-        "hashes": {
-          "model": "79408e8b5a",
-          "lora:MGE_V5.2_IL": "bd8754eea6df",
-          "lora:USNR STYLE_XL_loha": "74988f37b9f2",
-          "lora:ponyv4_noob1_2_adamW": "0691f9b28b2a",
-          "lora:noobai_vpred_1_masterpieces_v1": "e678d649f47c",
-          "lora:inst_loss_middle_finger_cwhj_v0.1": "3b25dc800d30",
-          "lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1": "ca72422dcb3e"
+        "seed": 1091009477,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
+        "extra": {
+          "remixOfId": 79239993
         },
-        "prompt": "<lora:USNR STYLE_XL_loha:0.6>,<lora:ponyv4_noob1_2_adamW:0.45>,<lora:inst_loss_middle_finger_cwhj_v0.1:0.7>,<lora:MGE_V5.2_IL:0.6>,<lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1:0.6>,<lora:noobai_vpred_1_masterpieces_v1:1>,mole,mole_under_eye,hime cut,long hair,masterpiece,best quality,amazing quality,very aesthetic,absurdres,newest,cinematic lighting,backlit,backlighting,depth of field,soft colors,1girl,solo,expressionless,(blush),looking to the side standing,one_arm_up,((arm_out_of_frame)),from below,from behind,dutch angle,cameltoe,sunbeam,sunlight,(train interior:1.2),thick_thighs,(black belly dancer outfit,mouth veil,kk_sexydress_jewelry,pelvic curtain,navel,)captured,big breasts,",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ 2M",
+        "steps": 19,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, solo, (depth of field), indoors,\nelf, dark blue hair, red eyes, cute face, slender, small breasts, twin buns, blunt bangs, sidelocks, beautiful, kawaii, short pointy ears, embarrassed, shy, nude, butt, long black elbow gloves, black thigh highs, black choker, looking back at viewer, walking away, night club, crowd, holding tray of drinks, black buttplug, anal insertion,",
+        "sampler": "Euler a",
         "cfgScale": 3.5,
-        "clipSkip": 2,
-        "resources": [
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, uneven tan,",
+        "civitaiResources": [
           {
-            "hash": "0691f9b28b2a",
-            "name": "ponyv4_noob1_2_adamW",
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1416874
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1490781
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
             "type": "lora",
-            "weight": 0.45
+            "weight": 0.85,
+            "modelVersionId": 1189052
           },
           {
-            "hash": "3b25dc800d30",
-            "name": "inst_loss_middle_finger_cwhj_v0.1",
             "type": "lora",
-            "weight": 0.7
-          },
-          {
-            "hash": "bd8754eea6df",
-            "name": "MGE_V5.2_IL",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "ca72422dcb3e",
-            "name": "MoriiMee_Gothic_Niji_Style_Illustrious_r1",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "e678d649f47c",
-            "name": "noobai_vpred_1_masterpieces_v1",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "74988f37b9f2",
-            "name": "USNR STYLE_XL_loha",
-            "type": "lora"
-          },
-          {
-            "hash": "79408e8b5a",
-            "name": "Illustrious\u00e6\u00a8\u00a1\u00e5\u009e\u008bhassakuXLIllustrious_v13StyleA",
-            "type": "model"
+            "weight": 0.5,
+            "modelVersionId": 1416874
           }
         ],
-        "Model hash": "79408e8b5a",
-        "Schedule type": "Karras",
-        "negativePrompt": "lowres,worst quality,low quality,low score,bad score,blurry,text,ugly,hooded eyes,yellow liquid,penis,too many fingers,",
-        "Downcast alphas_cumprod": "True"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "FLYCOOL",
+      "username": "ElvishDreams",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        882403,
-        959419,
-        1036362,
-        1225664,
-        1240288,
-        1244133,
-        1268447
+        164821,
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "506|1749688860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=506%7C1749688860000"
+    "nextCursor": "507|1756719308600",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=507%7C1756719308600"
   }
 }
