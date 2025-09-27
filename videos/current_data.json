@@ -1,42 +1,109 @@
 {
   "items": [
     {
-      "id": 83245976,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28eaeb85-acea-4dd2-87e5-9ee09882319a/original=true/28eaeb85-acea-4dd2-87e5-9ee09882319a.jpeg",
-      "hash": "U9LV]y02-:tL~C~VRoIT00Xn4:bX?IIARi^*",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 71964708,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/86529579-9bdb-4f87-8e34-acaa32b05a99/original=true/86529579-9bdb-4f87-8e34-acaa32b05a99.jpeg",
+      "hash": "UDNu*R%MF|w1NNg30yNt0exa^PtQ~VwzVER6",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-20T12:49:28.404Z",
-      "postId": 18488001,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-24T04:15:00.000Z",
+      "postId": 15987248,
       "stats": {
-        "cryCount": 152,
-        "laughCount": 278,
-        "likeCount": 2150,
+        "cryCount": 138,
+        "laughCount": 242,
+        "likeCount": 2172,
         "dislikeCount": 0,
-        "heartCount": 971,
-        "commentCount": 0
+        "heartCount": 999,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 812071917,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), Sylvia, large breasts, long hair, drill hair, pink hair, hair over one eye, blue eyes, large breasts, makeup, smokyeyes, lash, pink mascara, puffy lips, glossy pink lipstick, ahegao_face, she makes the ahegao face, tongue out, A digital illustration shoot from a frontal camera angle about a seductive demon girl with horns and wings sitting on a bed in a dimly lit room. the image also shows a cozy bedroom with a window and framed pictures on the wall. on the middle of the image, a 1woman, who appears to be a demon girl, with pointed ears, is sitting. she is wearing a black silk and lace dress with a red bow on the side, revealing her large breasts and bare shoulders. she has bat-like wings on her back. she has red lipstick and a choker around her neck. her eyes are looking directly at the viewer, with a sultry expression. with vibrant colors and detailed shading, giving the image a sense of depth and dimensionality, soft ambient glow, dramatic scenery, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, foreshortening, dynamic dutch angle, shot from below, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-04-23T0319:16.0085500Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1617798,
+            "modelVersionName": "v2.1fix"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 439343,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1111018,
+            "modelVersionName": "Illustrious_v1.0"
+          }
+        ]
+      },
+      "username": "Chimi83",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        333245,
-        372639,
-        1024244,
-        1412563,
-        1490781
+        6056,
+        25820,
+        439343,
+        1056404,
+        1111018,
+        1135769,
+        1373674,
+        1617798
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "527|1745468100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=527%7C1745468100000"
+    "nextCursor": "528|1740616860000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=528%7C1740616860000"
   }
 }
