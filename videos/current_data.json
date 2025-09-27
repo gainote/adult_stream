@@ -1,87 +1,42 @@
 {
   "items": [
     {
-      "id": 8630149,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7745fc7d-9830-4863-b4d4-72a7613ced72/original=true/7745fc7d-9830-4863-b4d4-72a7613ced72.jpeg",
-      "hash": "UHKckl?w05bx0nERS+t7D,R-ETM{#lIoNKsn",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 83245976,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28eaeb85-acea-4dd2-87e5-9ee09882319a/original=true/28eaeb85-acea-4dd2-87e5-9ee09882319a.jpeg",
+      "hash": "U9LV]y02-:tL~C~VRoIT00Xn4:bX?IIARi^*",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-30T23:32:31.076Z",
-      "postId": 1864988,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-20T12:49:28.404Z",
+      "postId": 18488001,
       "stats": {
-        "cryCount": 150,
-        "laughCount": 265,
-        "likeCount": 2219,
+        "cryCount": 152,
+        "laughCount": 278,
+        "likeCount": 2150,
         "dislikeCount": 0,
-        "heartCount": 922,
+        "heartCount": 971,
         "commentCount": 0
       },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 664604471,
-        "steps": 60,
-        "prompt": "aeshura, huge breasts, score_9, score_8_up, score_7_up, 1girl, source_anime,  underboobs, bikini top only, sky, sexy pose, sweaty body, shiny body, crossing arm, blushing looking away, easynegative, ng_deepnegative_v1_75t, negative_hand, verybadimagenegative_v1.3",
-        "sampler": "Heun",
-        "cfgScale": 10,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, monochrome",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 1.25,
-            "modelVersionId": 413042
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 5637
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820
-          }
-        ]
-      },
-      "username": "jspp3733410",
-      "baseModel": "Pony",
+      "meta": null,
+      "username": "Kalrdr",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        5637,
         9208,
-        25820,
-        60938,
-        290640,
-        382152,
-        413042
+        111363,
+        164821,
+        333245,
+        372639,
+        1024244,
+        1412563,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "526|1750423768404",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=526%7C1750423768404"
+    "nextCursor": "527|1745468100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=527%7C1745468100000"
   }
 }
