@@ -1,50 +1,74 @@
 {
   "items": [
     {
-      "id": 115899,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/41b6455c-5b54-402a-62cf-c7693c3dc800/original=true/41b6455c-5b54-402a-62cf-c7693c3dc800.jpeg",
-      "hash": "UDH-Z4~W5qx]O?RjM_t6EljF={t8OskCM{X8",
-      "width": 1024,
-      "height": 2048,
+      "id": 100730653,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/accce3c9-016c-472a-a653-fe634e71071a/original=true/accce3c9-016c-472a-a653-fe634e71071a.jpeg",
+      "hash": "U8EU}w%2009Zx[xa9Z570J%1=}9a~BxuD*nP",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2023-09-22T23:32:34.978Z",
-      "postId": 92428,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-16T21:16:02.252Z",
+      "postId": 22348073,
       "stats": {
-        "cryCount": 446,
-        "laughCount": 1745,
-        "likeCount": 960,
+        "cryCount": 140,
+        "laughCount": 250,
+        "likeCount": 2253,
         "dislikeCount": 0,
-        "heartCount": 429,
-        "commentCount": 55
+        "heartCount": 937,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "1024x2048",
-        "seed": 927762814,
-        "Model": "chilloutmix_NiPrunedFp32Fix",
-        "steps": 29,
-        "prompt": "best quality, ultra high res, (photorealistic:1.21), 1 girl, white Stockings, black choker, (aegyo sal:1), perfect body, black hair, (puffy eyes:1.21), smiling, happy, cat ears, (sexy), (huge boobs:1.4),Papaya -shaped chest,show boobs,show hips,no bra, (thick thighs),  sit|lying|squat, nsfw, ealistic humid skin",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "resources": [
-          {
-            "hash": "fc2511737a",
-            "name": "chilloutmix_NiPrunedFp32Fix",
-            "type": "model"
-          }
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:660673@785437"
         ],
-        "Model hash": "fc2511737a",
-        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head,lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,extra fingers,fewer digits,extra limbs,extra arms,extra legs,malformed limbs,fused fingers,too many fingers,long neck,cross-eyed,mutated hands,polar lowres,bad body,bad proportions,gross proportions,text,error,missing fingers,missing arms,missing legs,extra digit,"
+        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1199750",
+        "extra": {},
+        "steps": 38,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:439889@1199750"
+        ],
+        "prompt": "(score_9, score_8_up, score_7_up:1.2),\n(kaworu, grey eyes, blonde hair, long hair, hair over eye, lips),\n(strapless strips pink corset, black lace stockings with garter-straps, bridal black elbow sleeves, pink panties:1.3),\nblack background, rim lighting, \nshiny lips, blushing, \n(top view, lying on black sheets with red petals, black pillow:1.3), hand on chest, finger on mouth, cameltoe, spread legs, black platformheels",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "negativePrompt": "text, distorted, watermark, blur, blurry, distortion, logo, bad, extra fingers, artifacts, twisted, muscular, lowres, monochrome, muscular, censored, low-quality, distorted fingers, worst-quality, aliasing, signature, poorly drawn, bad, , (tiara, chocker:1.2),",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1199750
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 613398
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 785437
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ]
       },
-      "username": "ario",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": []
+      "username": "MatureOnly",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        164821,
+        613398,
+        1199750
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "511|1736784000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=511%7C1736784000000"
+    "nextCursor": "512|1736784000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=512%7C1736784000000"
   }
 }
