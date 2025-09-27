@@ -1,95 +1,90 @@
 {
   "items": [
     {
-      "id": 71486559,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/645c9066-5485-48ef-8b0f-fc5f30a7f3b0/original=true/645c9066-5485-48ef-8b0f-fc5f30a7f3b0.jpeg",
-      "hash": "U5JtYhvi00GaM-03-MT_K,-o.R.mOI.7El4.",
-      "width": 1536,
-      "height": 2688,
-      "nsfwLevel": "Mature",
+      "id": 99354172,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a7e1b58-ce7d-4d0f-b9cd-5e5467ff53a1/original=true/0a7e1b58-ce7d-4d0f-b9cd-5e5467ff53a1.jpeg",
+      "hash": "U9En|swH04=E00AHIo?Gn4-A}q5SKR$eJCeT",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-21T23:01:00.000Z",
-      "postId": 15880101,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-11T10:42:19.457Z",
+      "postId": 22045547,
       "stats": {
-        "cryCount": 118,
-        "laughCount": 242,
-        "likeCount": 2125,
+        "cryCount": 145,
+        "laughCount": 233,
+        "likeCount": 2189,
         "dislikeCount": 0,
-        "heartCount": 1081,
+        "heartCount": 998,
         "commentCount": 1
       },
       "meta": {
-        "seed": 0,
-        "Model": "waiNSFWIllustrious_v130",
-        "steps": 25,
+        "TI": {},
+        "Size": "832x1216",
+        "seed": 2401994026,
+        "Model": "cyberrealisticPony_catalystV30",
+        "steps": 40,
         "hashes": {
-          "model": "a810e710a2",
-          "lora:rdtdrp": "cc2697591f",
-          "lora:ILv10_NPi": "51b4269008",
-          "lora:IL10_NP26i": "a00f1b003f",
-          "lora:ILv10_NP21": "d2c702aae7",
-          "lora:illustriousXLv01_stabilizer_v1": "d8fc4b0e9e",
-          "lora:NOOB_vp1_detailer_by_volnovik_v1": "8216b71295"
+          "model": "36de6f8958",
+          "lora:igbaddie-PN": "eaca8735a04a",
+          "lora:Expressive_H": "5671f20a9a6b",
+          "lora:Dramatic Lighting Slider": "cad8e9106645",
+          "lora:AmateurStyle_v1_PONY_REALISM": "7ae6f7a90432"
         },
-        "sampler": "Euler A",
-        "cfgScale": 7,
+        "prompt": "score_9, score_8_up, score_7_up,  (1girl:1.3), 21 years old, (solo:1.2), pretty girl, chestnut brown hair, fringe hair, medium length hair, light brown eyes, big eyes, ((freckles)), cute, (medium round breasts:1.2), nude, wet body, sweaty, (wet hair:1.4),  (sexy expression:1.1), sexy thighs, swimming pool, night, full body view, (view from back, view from behind, bending over:1.3), <lora:AmateurStyle_v1_PONY_REALISM:1>, <lora:Expressive_H:0.35> Expressiveh,  <lora:Dramatic Lighting Slider:1.6>,  <lora:igbaddie-PN:0.8>,  CyberRealisticPony_POSV1",
+        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
+        "sampler": "Euler a",
+        "Module 1": "sdxl-vae-fp16-fix",
+        "cfgScale": 4,
+        "clipSkip": 2,
         "resources": [
           {
-            "hash": "a00f1b003f",
-            "name": "IL10_NP26i",
+            "hash": "7ae6f7a90432",
+            "name": "AmateurStyle_v1_PONY_REALISM",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "5671f20a9a6b",
+            "name": "Expressive_H",
+            "type": "lora",
+            "weight": 0.35
+          },
+          {
+            "hash": "eaca8735a04a",
+            "name": "igbaddie-PN",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "cad8e9106645",
+            "name": "Dramatic Lighting Slider",
             "type": "lora"
           },
           {
-            "hash": "d2c702aae7",
-            "name": "ILv10_NP21",
-            "type": "lora"
-          },
-          {
-            "hash": "51b4269008",
-            "name": "ILv10_NPi",
-            "type": "lora"
-          },
-          {
-            "hash": "cc2697591f",
-            "name": "rdtdrp",
-            "type": "lora"
-          },
-          {
-            "hash": "d8fc4b0e9e",
-            "name": "illustriousXLv01_stabilizer_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "8216b71295",
-            "name": "NOOB_vp1_detailer_by_volnovik_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "a810e710a2",
-            "name": "waiNSFWIllustrious_v130",
+            "hash": "36de6f8958",
+            "name": "cyberrealisticPony_catalystV30",
             "type": "model"
           }
         ],
-        "Model hash": "a810e710a2",
-        "Schedule type": "Karras"
+        "Model hash": "36de6f8958",
+        "Schedule type": "Automatic",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), signature, logo, weights, bunny ears, extra hands, deformed fingers, cross-eyed, extra fingers, 6 fingers, man, earrings, simple background, CyberRealistic_Negative_PONY_V2-neg,"
       },
-      "username": "Tozi_White",
-      "baseModel": "IllustriousIllustrious",
+      "username": "melly2245",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1209350,
-        1396529,
-        1420418,
-        1420432,
-        1600020,
-        1612720,
-        1674551
+        382152,
+        534756,
+        556208,
+        1899516
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "521|1757587339457",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=521%7C1757587339457"
+    "nextCursor": "522|1740285540000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=522%7C1740285540000"
   }
 }
