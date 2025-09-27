@@ -1,82 +1,106 @@
 {
   "items": [
     {
-      "id": 99160930,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c2b53a2-d9d6-4e20-8b8b-a95975360dff/original=true/3c2b53a2-d9d6-4e20-8b8b-a95975360dff.jpeg",
-      "hash": "UHG*+,%M4.~p00E0xYM{V@sp%MM{-;xuRj%2",
-      "width": 1408,
-      "height": 2048,
+      "id": 62030849,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a98df56a-5538-4fd8-84fa-f9fe1c3b5c8a/original=true/a98df56a-5538-4fd8-84fa-f9fe1c3b5c8a.jpeg",
+      "hash": "U7EB?Q4o9[~W0eoLIpxG00-;=|IU%LNG%Lxu",
+      "width": 1184,
+      "height": 1512,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-08T18:18:19.554Z",
-      "postId": 22001545,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-07T10:08:47.986Z",
+      "postId": 13859484,
       "stats": {
-        "cryCount": 186,
-        "laughCount": 317,
-        "likeCount": 2140,
+        "cryCount": 103,
+        "laughCount": 231,
+        "likeCount": 2109,
         "dislikeCount": 0,
-        "heartCount": 951,
-        "commentCount": 1
+        "heartCount": 1150,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 1621894674,
-        "extra": {},
-        "steps": 40,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery BREAK depth of field, volumetric lighting, lying, pointy_ears, toes, anus, pussy, collar, folded, nipples, solo, bow, hair_bow, object_insertion, sex_toy, feet, dildo, on_back, thighhighs, vaginal, breasts, vaginal_object_insertion, 1girl, long_hair, soles,  massive dildo , usnr, dild0dra40n, dragon dildo,dildo,sex toy,",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "negativePrompt": "Female tongue, female tongue out, Neck grab, worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
-        "civitaiResources": [
+        "Size": "1184x1512",
+        "seed": 3308830713,
+        "Model": "Illustrious\u00e6\u00a8\u00a1\u00e5\u009e\u008bhassakuXLIllustrious_v13StyleA",
+        "steps": 20,
+        "hashes": {
+          "model": "79408e8b5a",
+          "lora:MGE_V5.2_IL": "bd8754eea6df",
+          "lora:USNR STYLE_XL_loha": "74988f37b9f2",
+          "lora:ponyv4_noob1_2_adamW": "0691f9b28b2a",
+          "lora:noobai_vpred_1_masterpieces_v1": "e678d649f47c",
+          "lora:inst_loss_middle_finger_cwhj_v0.1": "3b25dc800d30",
+          "lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1": "ca72422dcb3e"
+        },
+        "prompt": "<lora:USNR STYLE_XL_loha:0.6>,<lora:ponyv4_noob1_2_adamW:0.45>,<lora:inst_loss_middle_finger_cwhj_v0.1:0.7>,<lora:MGE_V5.2_IL:0.6>,<lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1:0.6>,<lora:noobai_vpred_1_masterpieces_v1:1>,mole,mole_under_eye,hime cut,long hair,masterpiece,best quality,amazing quality,very aesthetic,absurdres,newest,cinematic lighting,backlit,backlighting,depth of field,soft colors,1girl,solo,expressionless,(blush),looking to the side standing,one_arm_up,((arm_out_of_frame)),from below,from behind,dutch angle,cameltoe,sunbeam,sunlight,(train interior:1.2),thick_thighs,(black belly dancer outfit,mouth veil,kk_sexydress_jewelry,pelvic curtain,navel,)captured,big breasts,",
+        "Version": "v1.10.1",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1240288
+            "hash": "0691f9b28b2a",
+            "name": "ponyv4_noob1_2_adamW",
+            "type": "lora",
+            "weight": 0.45
           },
           {
-            "weight": 1,
-            "modelVersionId": 145907
+            "hash": "3b25dc800d30",
+            "name": "inst_loss_middle_finger_cwhj_v0.1",
+            "type": "lora",
+            "weight": 0.7
           },
           {
-            "weight": 0.45,
-            "modelVersionId": 959419
+            "hash": "bd8754eea6df",
+            "name": "MGE_V5.2_IL",
+            "type": "lora",
+            "weight": 0.6
           },
           {
-            "weight": 0.5,
-            "modelVersionId": 1036362
+            "hash": "ca72422dcb3e",
+            "name": "MoriiMee_Gothic_Niji_Style_Illustrious_r1",
+            "type": "lora",
+            "weight": 0.6
           },
           {
-            "weight": 0.5,
-            "modelVersionId": 1219983
+            "hash": "e678d649f47c",
+            "name": "noobai_vpred_1_masterpieces_v1",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "weight": 1,
-            "modelVersionId": 2089448
+            "hash": "74988f37b9f2",
+            "name": "USNR STYLE_XL_loha",
+            "type": "lora"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "79408e8b5a",
+            "name": "Illustrious\u00e6\u00a8\u00a1\u00e5\u009e\u008bhassakuXLIllustrious_v13StyleA",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "79408e8b5a",
+        "Schedule type": "Karras",
+        "negativePrompt": "lowres,worst quality,low quality,low score,bad score,blurry,text,ugly,hooded eyes,yellow liquid,penis,too many fingers,",
+        "Downcast alphas_cumprod": "True"
       },
-      "username": "Big_Master",
+      "username": "FLYCOOL",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        164821,
+        882403,
         959419,
         1036362,
-        1219983,
+        1225664,
         1240288,
-        2089448
+        1244133,
+        1268447
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "504|1741342127986",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=504%7C1741342127986"
+    "nextCursor": "505|1745571653473",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=505%7C1745571653473"
   }
 }
