@@ -1,73 +1,87 @@
 {
   "items": [
     {
-      "id": 80196069,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ecb3ec6-373b-497b-8bbb-d5f8a6dabdcf/original=true/8ecb3ec6-373b-497b-8bbb-d5f8a6dabdcf.jpeg",
-      "hash": "UROL+2xa~oxt_1s:xZM|Xma}xZRj-:xtoeWC",
+      "id": 8630149,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7745fc7d-9830-4863-b4d4-72a7613ced72/original=true/7745fc7d-9830-4863-b4d4-72a7613ced72.jpeg",
+      "hash": "UHKckl?w05bx0nERS+t7D,R-ETM{#lIoNKsn",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-06-03T15:14:40.394Z",
-      "postId": 17812685,
+      "createdAt": "2025-08-30T23:32:31.076Z",
+      "postId": 1864988,
       "stats": {
-        "cryCount": 140,
-        "laughCount": 305,
-        "likeCount": 2141,
+        "cryCount": 150,
+        "laughCount": 265,
+        "likeCount": 2219,
         "dislikeCount": 0,
-        "heartCount": 971,
-        "commentCount": 1
+        "heartCount": 922,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 744701094,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "(score_9,score_8_up,score_7_up), masterpiece, anime, anime style, metal-owl, female focus, 1girl, Egyptian, blacl hair, short hair, chin-lenth hair, bob cut, dark-skinned female, blunt bangs, black eyes, sharp eyes, thick eyelashes, golden circlet, uraeus ornament,\nLarge breasts, navel, large hip, blue top, vertical bikini top, cleavage, sideboob, blue wristband, blue choker, looking at viewer, golden boots, blue thigh strap, golden panties, smile, blush, proud, hand on hip,",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "seed": 664604471,
+        "steps": 60,
+        "prompt": "aeshura, huge breasts, score_9, score_8_up, score_7_up, 1girl, source_anime,  underboobs, bikini top only, sky, sexy pose, sweaty body, shiny body, crossing arm, blushing looking away, easynegative, ng_deepnegative_v1_75t, negative_hand, verybadimagenegative_v1.3",
+        "sampler": "Heun",
+        "cfgScale": 10,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-06-03T1245:32.4449339Z",
-        "negativePrompt": "score_6,score_5,score_4,busty,mutated hands, low res, blurry face, blurry eyes, bad anatomy, bad proportions, deformed, deformed iris, deformed pupils, deformed anatomy, deformed fingers, futa, futanari, (bad_prompt_version2), mosaics, censoring, censorship, pixilated genitalia, monochrome, greyscale, extra hand, extra fingers, extra arms, negative hand, lowres, bad hands, jpeg artifacts, bad quality, (worst quality, low quality:1.4),aidxlv05_neg, negativeXL_D, (negative_hand-neg:1.2), (face asymmetry, eyes asymmetry, deformed eyes), pubic hair, multiple boys, old man, fat man, dirt old man, 2boys, text, speech bubble, realistic, text, word, Bestiality, multiple views, ponytail, loincloth, blue eyelashes, blue eyeliner, blue eyeshadow, colored eyelashes, collarbone,",
+        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, monochrome",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 324619,
-            "modelVersionName": "AutismMix_pony"
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
-            "weight": -0.05,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 1.2,
+            "modelVersionId": 382152
           },
           {
             "type": "lora",
+            "weight": 1.25,
+            "modelVersionId": 413042
+          },
+          {
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 437436,
-            "modelVersionName": "PonyXL"
+            "modelVersionId": 9208
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 5637
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 60938
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820
           }
         ]
       },
-      "username": "KCmark",
+      "username": "jspp3733410",
       "baseModel": "Pony",
       "modelVersionIds": [
-        324619,
+        5637,
+        9208,
+        25820,
+        60938,
+        290640,
         382152,
-        437436
+        413042
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "525|1756596751076",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=525%7C1756596751076"
+    "nextCursor": "526|1750423768404",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=526%7C1750423768404"
   }
 }
