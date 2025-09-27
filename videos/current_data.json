@@ -1,112 +1,78 @@
 {
   "items": [
     {
-      "id": 35858893,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/906c3e6a-f989-4562-af79-99724d1fa813/original=true/906c3e6a-f989-4562-af79-99724d1fa813.jpeg",
-      "hash": "U8C~0Y0f01xZ0f}@xZ5Q0fNa^jI:RjIpxa%1",
-      "width": 832,
-      "height": 1216,
+      "id": 71544400,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c410f6ba-b1d4-4db8-8312-79eb6d1f3ea9/original=true/c410f6ba-b1d4-4db8-8312-79eb6d1f3ea9.jpeg",
+      "hash": "UZLNDI9ZOFxDtmIUE2W=~p%MxuM{?bIUoLxa",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-10-22T01:00:00.000Z",
-      "postId": 8193652,
+      "createdAt": "2025-04-22T08:05:46.423Z",
+      "postId": 15892910,
       "stats": {
-        "cryCount": 170,
-        "laughCount": 282,
-        "likeCount": 2003,
+        "cryCount": 97,
+        "laughCount": 217,
+        "likeCount": 2105,
         "dislikeCount": 0,
-        "heartCount": 1091,
-        "commentCount": 5
+        "heartCount": 1123,
+        "commentCount": 0
       },
       "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "ENSD": "31337",
         "Size": "832x1216",
-        "seed": 3550729707,
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_8_up, 1girl, solo, super detailed, super high resolution, fFaceDetail, 18 year old, sexy, cute goth girl, dark red eyes, (freckles, (body freckles:1.1)), black medium messy hair, (big breasts:1.1), slim dangling earrings, pierced nipple, nipple bulge, middle parted hair, cute smile, round glasses, (half closed eyes:1.2), (sleepy:1.1), tired, modern house background, at night, no lights, mesh hoses, slim waist, sexy wide hips, view from behind, standing, from below, from behind, oiled skin, shiny skin, black thong, micro bikini, big areolae, dark pink areolae, areola bigger than bra, ripping clothes, ripping own clothes, destroying own clothes, white transparent tank top, ripping clothes, ripped clothes, stripping, ripped clothes,",
+        "seed": 1454791230,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:upshorts_ilxl_goofy": "21c6d99b912b"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:upshorts_ilxl_goofy:1> upshorts, 1girl, aqua panties, arched back, arm support, armpit crease, ass, ass focus, blonde hair, blurry, blurry background, couch, depth of field, dolphin shorts, facing away, from behind, grey shirt, gyaru, long hair, lying, on couch, on stomach, panties, panties under shorts, panty peek, partially visible vulva, shirt, short shorts, shorts, simple background, solo, strap slip, tank top, thighs, trefoil, underwear,",
+        "Version": "v1.10.1-84-g374bb6cc",
         "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-21T2351:40.5798196Z",
-        "negativePrompt": "score_4, score_5, score_6, ,extra fingers, distorted hands, distorted fingers, muscular, low quality, lowres, bad anatomy, worst quality, simple background, censored, text, signature, lineless, watermark,signature, logo, FastNegativeEmbedding, low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old lady, sketch, black and white, doujinshi, exaggerated anatomy, penis growing from breasts, red hairs, hands joining into one hand, upside down,",
-        "civitaiResources": [
+        "cfgScale": 6,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 125014,
-            "modelVersionName": "Female Face Detail"
-          },
-          {
+            "hash": "21c6d99b912b",
+            "name": "upshorts_ilxl_goofy",
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 330620,
-            "modelVersionName": "1.1 - 000014"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Normal",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.24",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "SirSteven",
-      "baseModel": "Pony",
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        125014,
-        244808,
-        290640,
-        330620,
-        382152,
-        398847,
-        436219
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "530|1745309146423",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=530%7C1745309146423"
+    "nextCursor": "531|1742336217917",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=531%7C1742336217917"
   }
 }
