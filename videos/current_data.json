@@ -1,90 +1,94 @@
 {
   "items": [
     {
-      "id": 59427958,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b12fd8fe-d3a9-44a6-897d-042710e54454/original=true/b12fd8fe-d3a9-44a6-897d-042710e54454.jpeg",
-      "hash": "UQHBbU~myNIVo#j^Ipe:EMxt-Us:_0%L-.R+",
-      "width": 1296,
-      "height": 2160,
+      "id": 94169052,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b997974-2a87-43a2-b591-32344960349c/original=true/9b997974-2a87-43a2-b591-32344960349c.jpeg",
+      "hash": "UGDm5X^*yskrysxt%Mtl%h-osSxu%gM_n$fl",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-02-23T04:39:00.000Z",
-      "postId": 13293739,
+      "createdAt": "2025-08-14T11:05:00.000Z",
+      "postId": 20891023,
       "stats": {
-        "cryCount": 107,
-        "laughCount": 221,
-        "likeCount": 2194,
+        "cryCount": 138,
+        "laughCount": 255,
+        "likeCount": 2180,
         "dislikeCount": 0,
-        "heartCount": 1037,
+        "heartCount": 984,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 332712343547056,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        "Size": "832x1216",
+        "seed": 779240865,
+        "draft": false,
+        "extra": {
+          "remixOfId": 91761119
         },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), nude, nipples, pussy, (strapped hitachi magic wand:1.1), bondage, standing under tree, orchard background,\noutdoors, orchad, garden, scenery, apple trees, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, Natural skin BREAK\n(detailed face and eyes:1.3), (perfect eyes:1.1), a beautiful athletic and lean woman, (naked), sexy atmosphere, beautiful, perfecteyes aroused, Caucasian features, pale skin tone, fair skin, many freckles, freckle faced.\nboat, ocean background.\nside angle, vibrant lighting, high contrast, nice thighs, perfect bubble butt, sitting on railing. high angle, ass pov,\n(realistic skin:1.3)\u2219(detailed skin:1.3)\u2219(skin texture:1.3)\u2219(perfect skin:1.3).(looking back)|[smile]",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 5.5,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-14T0547:09.5669242Z",
+        "experimental": false,
+        "negativePrompt": "score_5, score_4, low quality, anime,monochrome, deformed, bad lips, bad mouth, pants, bald woman, bald girl, bald woman, bad anatomy, worst face, bad eyes, bad nose, duplicate, twins, mixed style, teeth worst quality, low quality, bad anatomy undetailed CGI render anti airbrushing undetailed eyes and thin and sketch and unclear, duplicate watermark, 3d, Two heads, doll, extra nipples, bad anatomy, blurry, duplicate, fuzzy, extra arms, extra fingers, poorly drawn hands disfigured, deformed, mutated, bad hands, extra hands, extra fingers, too many fingers, fused fingers, bad arm, distorted arms, extra arms, disembodied leg, extra nipples, detached arms, inverted hand, disembodied limb, oversized head, duplicate, ugly, questionmark, censored, earrings, tanlines, rays",
+        "civitaiResources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1971591,
+            "modelVersionName": "b 2.0"
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 1
+            "weight": 1.6,
+            "modelVersionId": 1190779,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.6
+            "weight": 0.75,
+            "modelVersionId": 1207307,
+            "modelVersionName": "PONY"
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
             "type": "lora",
-            "weight": 0.7000000000000001
+            "weight": 2.4,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
+            "type": "lora",
+            "weight": 3.65,
+            "modelVersionId": 1253021,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, apples on ground"
+        ]
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "0dang",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1345990,
-        1284348,
-        567119,
-        1050644,
-        1410435
+        1190779,
+        1207307,
+        1242203,
+        1253021,
+        1971591
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "523|1755169500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=523%7C1755169500000"
+    "nextCursor": "524|1748963680394",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=524%7C1748963680394"
   }
 }
