@@ -1,94 +1,73 @@
 {
   "items": [
     {
-      "id": 94169052,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b997974-2a87-43a2-b591-32344960349c/original=true/9b997974-2a87-43a2-b591-32344960349c.jpeg",
-      "hash": "UGDm5X^*yskrysxt%Mtl%h-osSxu%gM_n$fl",
+      "id": 80196069,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ecb3ec6-373b-497b-8bbb-d5f8a6dabdcf/original=true/8ecb3ec6-373b-497b-8bbb-d5f8a6dabdcf.jpeg",
+      "hash": "UROL+2xa~oxt_1s:xZM|Xma}xZRj-:xtoeWC",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-14T11:05:00.000Z",
-      "postId": 20891023,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-03T15:14:40.394Z",
+      "postId": 17812685,
       "stats": {
-        "cryCount": 138,
-        "laughCount": 255,
-        "likeCount": 2180,
+        "cryCount": 140,
+        "laughCount": 305,
+        "likeCount": 2141,
         "dislikeCount": 0,
-        "heartCount": 984,
-        "commentCount": 0
+        "heartCount": 971,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 779240865,
+        "seed": 744701094,
         "draft": false,
-        "extra": {
-          "remixOfId": 91761119
-        },
-        "steps": 32,
+        "steps": 25,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, Natural skin BREAK\n(detailed face and eyes:1.3), (perfect eyes:1.1), a beautiful athletic and lean woman, (naked), sexy atmosphere, beautiful, perfecteyes aroused, Caucasian features, pale skin tone, fair skin, many freckles, freckle faced.\nboat, ocean background.\nside angle, vibrant lighting, high contrast, nice thighs, perfect bubble butt, sitting on railing. high angle, ass pov,\n(realistic skin:1.3)\u2219(detailed skin:1.3)\u2219(skin texture:1.3)\u2219(perfect skin:1.3).(looking back)|[smile]",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5.5,
+        "prompt": "(score_9,score_8_up,score_7_up), masterpiece, anime, anime style, metal-owl, female focus, 1girl, Egyptian, blacl hair, short hair, chin-lenth hair, bob cut, dark-skinned female, blunt bangs, black eyes, sharp eyes, thick eyelashes, golden circlet, uraeus ornament,\nLarge breasts, navel, large hip, blue top, vertical bikini top, cleavage, sideboob, blue wristband, blue choker, looking at viewer, golden boots, blue thigh strap, golden panties, smile, blush, proud, hand on hip,",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 2,
+        "quantity": 1,
         "workflow": "txt2img",
         "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-14T0547:09.5669242Z",
-        "experimental": false,
-        "negativePrompt": "score_5, score_4, low quality, anime,monochrome, deformed, bad lips, bad mouth, pants, bald woman, bald girl, bald woman, bad anatomy, worst face, bad eyes, bad nose, duplicate, twins, mixed style, teeth worst quality, low quality, bad anatomy undetailed CGI render anti airbrushing undetailed eyes and thin and sketch and unclear, duplicate watermark, 3d, Two heads, doll, extra nipples, bad anatomy, blurry, duplicate, fuzzy, extra arms, extra fingers, poorly drawn hands disfigured, deformed, mutated, bad hands, extra hands, extra fingers, too many fingers, fused fingers, bad arm, distorted arms, extra arms, disembodied leg, extra nipples, detached arms, inverted hand, disembodied limb, oversized head, duplicate, ugly, questionmark, censored, earrings, tanlines, rays",
+        "Created Date": "2025-06-03T1245:32.4449339Z",
+        "negativePrompt": "score_6,score_5,score_4,busty,mutated hands, low res, blurry face, blurry eyes, bad anatomy, bad proportions, deformed, deformed iris, deformed pupils, deformed anatomy, deformed fingers, futa, futanari, (bad_prompt_version2), mosaics, censoring, censorship, pixilated genitalia, monochrome, greyscale, extra hand, extra fingers, extra arms, negative hand, lowres, bad hands, jpeg artifacts, bad quality, (worst quality, low quality:1.4),aidxlv05_neg, negativeXL_D, (negative_hand-neg:1.2), (face asymmetry, eyes asymmetry, deformed eyes), pubic hair, multiple boys, old man, fat man, dirt old man, 2boys, text, speech bubble, realistic, text, word, Bestiality, multiple views, ponytail, loincloth, blue eyelashes, blue eyeliner, blue eyeshadow, colored eyelashes, collarbone,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1971591,
-            "modelVersionName": "b 2.0"
+            "modelVersionId": 324619,
+            "modelVersionName": "AutismMix_pony"
           },
           {
             "type": "lora",
-            "weight": 1.6,
-            "modelVersionId": 1190779,
-            "modelVersionName": "v1.0"
+            "weight": -0.05,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 1207307,
-            "modelVersionName": "PONY"
-          },
-          {
-            "type": "lora",
-            "weight": 2.4,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 3.65,
-            "modelVersionId": 1253021,
-            "modelVersionName": "v1.0"
+            "weight": 1,
+            "modelVersionId": 437436,
+            "modelVersionName": "PonyXL"
           }
         ]
       },
-      "username": "0dang",
+      "username": "KCmark",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1190779,
-        1207307,
-        1242203,
-        1253021,
-        1971591
+        324619,
+        382152,
+        437436
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "524|1748963680394",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=524%7C1748963680394"
+    "nextCursor": "525|1756596751076",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=525%7C1756596751076"
   }
 }
