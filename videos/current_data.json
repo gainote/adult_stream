@@ -1,102 +1,110 @@
 {
   "items": [
     {
-      "id": 13645557,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/263d5fc2-25a2-44dc-b88e-a88cbd4867d2/original=true/263d5fc2-25a2-44dc-b88e-a88cbd4867d2.jpeg",
-      "hash": "UGE_ji~V%fozx]xu%2kWD%s.%MxukBbbWBjF",
+      "id": 83577066,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/67a58430-dea3-4558-9844-ab6e73753535/original=true/67a58430-dea3-4558-9844-ab6e73753535.jpeg",
+      "hash": "UEHnQjxZAIDj0zM{E2E201krn4~V%Mxaxaxt",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-05-26T14:52:07.552Z",
-      "postId": 3022493,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-21T05:44:00.000Z",
+      "postId": 18561150,
       "stats": {
-        "cryCount": 71,
-        "laughCount": 207,
-        "likeCount": 1951,
+        "cryCount": 106,
+        "laughCount": 240,
+        "likeCount": 2105,
         "dislikeCount": 0,
-        "heartCount": 1291,
-        "commentCount": 1
+        "heartCount": 1068,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1562453958,
-        "steps": 50,
-        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, \n1girl, cute girl, 20 years old, detailed face, cute face, adorable eyes, supermodel, fit body, curvy body, oversized sweater, classroom, student's desk, holding pencil, no panties, naked pussy, knees together, feet apart, ((thigh high socks)), bob hairstyle, looking in the window slight blush, ((butt plug visible))",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-05-26T1449:39.2191507Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female , extra penis, bird hands, griffin, birds, wings, animals, tail,",
-        "civitaiResources": [
+        "seed": 1651503277,
+        "Model": "Untitled_Pony_Realism_klaabu_v1.0b",
+        "steps": 30,
+        "hashes": {
+          "model": "7ca2362e99",
+          "lora:RealSkin_xxXL_v1": "d67c6e09dbf9",
+          "lora:puffytits_ILXL_v1": "40d57493f3b4",
+          "lora:ILXL_Realism_Slider_V.1": "220b18b3587b",
+          "lora:Penis_Size_Slider_ILXL_v1": "e02e158cc255",
+          "lora:polaroid_alpha2.5_rank2_noxattn_200steps": "02497e0e0f19",
+          "lora:arousedXL2_alpha2.5_rank2_noxattn_300steps": "7fa86feb06a7",
+          "lora:better_details_alpha2.5_rank2_noxattn_350steps": "368df4b4d12f"
+        },
+        "prompt": "Masterpiece, best quality, amazing quality, cute face, on couch, beautiful face, slender,moaning, cowgirl position, hairy pussy, view side, ass focus, nude, realistic skin,, highly detailed skin, blonde hair, girly, \n<lora:puffytits_ILXL_v1:1.75>\n<lora:Penis_Size_Slider_ILXL_v1:-2.5>\n<lora:ILXL_Realism_Slider_V.1:1.8>\n<lora:RealSkin_xxXL_v1:1.2>\n",
+        "Version": "v1.10.0",
+        "sampler": "DPM++ SDE",
+        "cfgScale": 4.5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "hash": "40d57493f3b4",
+            "name": "puffytits_ILXL_v1",
+            "type": "lora",
+            "weight": 1.75
           },
           {
+            "hash": "02497e0e0f19",
+            "name": "polaroid_alpha2.5_rank2_noxattn_200steps",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 0.5
           },
           {
+            "hash": "220b18b3587b",
+            "name": "ILXL_Realism_Slider_V.1",
             "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 354128,
-            "modelVersionName": "v1.0"
+            "weight": 1.8
           },
           {
+            "hash": "d67c6e09dbf9",
+            "name": "RealSkin_xxXL_v1",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 1.2
           },
           {
+            "hash": "368df4b4d12f",
+            "name": "better_details_alpha2.5_rank2_noxattn_350steps",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 388624,
-            "modelVersionName": "Ariel PONY XL V."
+            "weight": 4
           },
           {
+            "hash": "7fa86feb06a7",
+            "name": "arousedXL2_alpha2.5_rank2_noxattn_300steps",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 449162,
-            "modelVersionName": "For Pony v0.2"
+            "weight": 2
           },
           {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 505635,
-            "modelVersionName": "v1.0"
+            "hash": "e02e158cc255",
+            "name": "Penis_Size_Slider_ILXL_v1",
+            "type": "lora"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 522995,
-            "modelVersionName": "V1.0"
+            "hash": "7ca2362e99",
+            "name": "Untitled_Pony_Realism_klaabu_v1.0b",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "7ca2362e99",
+        "Schedule type": "Karras",
+        "negativePrompt": "Bad quality,low quality,reverse cowgirl, reverse cowgirl position, pov, doggystyle, photo \\(object\\), picture frame, skin blemishes, freckles, freckles on body,"
       },
-      "username": "20Twenty",
+      "username": "klaabu",
       "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
-        290640,
-        354128,
-        382152,
-        388624,
-        449162,
-        505635,
-        522995
+        1594293,
+        1681903,
+        1681921,
+        1726904,
+        1764228,
+        1855761
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "548|1750484640000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=548%7C1750484640000"
+    "nextCursor": "549|1751239800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=549%7C1751239800000"
   }
 }
