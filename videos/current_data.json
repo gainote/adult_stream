@@ -1,139 +1,108 @@
 {
   "items": [
     {
-      "id": 64311615,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e2c833b-37e0-470a-886b-9dea18216361/original=true/2e2c833b-37e0-470a-886b-9dea18216361.jpeg",
-      "hash": "U9LfdfwI0KW=0y=|RjNG00E$t89Z%1w^?H~B",
-      "width": 1280,
-      "height": 1856,
+      "id": 51343451,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4632650-1a19-4c6b-92ae-11d64f63ef01/original=true/a4632650-1a19-4c6b-92ae-11d64f63ef01.jpeg",
+      "hash": "UBGH6==F1dRj3?NGShM{PpJ8aeRjO[%2#lwI",
+      "width": 2496,
+      "height": 3648,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-03-18T22:16:57.917Z",
-      "postId": 14338526,
+      "createdAt": "2025-01-13T11:01:10.842Z",
+      "postId": 11548599,
       "stats": {
-        "cryCount": 199,
-        "laughCount": 282,
-        "likeCount": 1947,
+        "cryCount": 115,
+        "laughCount": 202,
+        "likeCount": 2125,
         "dislikeCount": 0,
-        "heartCount": 1113,
-        "commentCount": 7
+        "heartCount": 1099,
+        "commentCount": 0
       },
       "meta": {
         "nsfw": true,
+        "seed": 895585449,
         "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1410435",
-        "extra": {
-          "remixOfId": 32140259
-        },
-        "steps": 47,
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/MY0FEYZWFE4DTKD711Y5SCEYF0.jpeg",
+        "steps": 50,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1410435"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, detailed setting, detailed background, 1girl, yunyun (konosuba), nude, red eyes, hair ornament, braid, hair between eyes,low twintails, pink ribbon, bow, hair bow, pussy, frilled skirt, layered skirt, belt, pink thighhighs, (pussy juice), large insertion, vaginal tugging, pussy grip, detailed skin, detailed soles, stretched pussy, feet in stockings, ass, nipples, medium breasts, french kiss, anus, shocked, nervous, penis awe,  BREAK Professor's office, college student, pornographic, 1boy, close eyes, (musscular male, detailed large cock), vaginal sex, college office setting, ass grab, fucking, riding, cowgirl, erotic, side view, deep fucking",
-        "denoise": 0.3,
+        "models": [],
+        "prompt": "safe_pos, masterpiece, ultra-realistic, 32k, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, BREAK, ((3girls)), green eyes, brown eyes, blue eyes, blonde, ((younger faces)), supermodel beauty, 3different faces, brunette, black hair, redhead, short hair, bangs, long hair, braids, twintails, perfect body, blush, large perky breasts, pose, caucasian, moaning, (wet body, sweat, wet, perfect ratio proportioned face, petite body, perfect waist to hip ratio, flat stomach, perfect female body, glossy skin, glossy body, soapy skin, wet body, deep skin), BREAK pose, wet, laying on side, sexy, pose, 1 boy, 1large thick dick, male pov, looking at viewer, deepthroat fellatio, gagging on dick, grab breast, 2girls licking penis shaft, ((cock worship)), fancy walk-in shower background, sex in the large shower, blue tile in large shower, well lit, perfect hands, ",
         "sampler": "Euler a",
-        "cfgScale": 6.5,
+        "cfgScale": 6,
         "clipSkip": 2,
         "modelIds": [],
-        "priority": "low",
-        "quantity": 2,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
+        "quantity": 1,
+        "workflow": "img2img-upscale",
+        "baseModel": "Pony",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "versionIds": [],
         "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/5KZ6358TW8CNEGPZKD08NVDB30",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor",
+        "upscaleWidth": 2496,
+        "upscaleHeight": 3648,
+        "negativePrompt": "safe_neg, core_6, score_5, score_4, worst quality, nipple piercing, extra nipple, weirdly placed nipple, multi colored hair, african americans, extra penis, extra penis tip, anime style, twins triplets, low quality, too many fingers on hand, not enough fingers on hand, text, censored, extra hands, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, abnormal scrotum, ",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 1410435
+            "modelVersionId": 290640
           },
           {
             "weight": 1,
-            "modelVersionId": 1410435
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 382152
           },
           {
             "weight": 1,
-            "modelVersionId": 1253442
+            "modelVersionId": 9208
           },
           {
-            "weight": 1,
-            "modelVersionId": 1516344
+            "weight": 1.45,
+            "modelVersionId": 244808
           },
           {
-            "weight": 1.55,
-            "modelVersionId": 135867
+            "weight": 0.35,
+            "modelVersionId": 398847
           },
           {
-            "type": "checkpoint",
-            "modelVersionId": 1410435
+            "weight": 0.6,
+            "modelVersionId": 436219
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
           },
           {
             "type": "upscaler",
             "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1253442
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1516344
-          },
-          {
-            "type": "lora",
-            "weight": 1.55,
-            "modelVersionId": 135867
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1107767@1253442",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1342708@1516344",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:122359@135867",
-            "type": "lora",
-            "strength": 1.55,
-            "strengthClip": 1
-          }
-        ]
+        "additionalResources": []
       },
-      "username": "Pixelimba",
-      "baseModel": "Illustrious",
+      "username": "holybratwurst",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
+        290640,
+        382152,
+        398847,
+        436219,
+        9208,
         164821,
-        1253442,
-        1410435,
-        1516344
+        244808
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "532|1736766070842",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=532%7C1736766070842"
+    "nextCursor": "533|1745610891800",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=533%7C1745610891800"
   }
 }
