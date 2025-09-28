@@ -1,194 +1,112 @@
 {
   "items": [
     {
-      "id": 93286498,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a8f86633-1956-4bf6-924b-265e1092141b/original=true/a8f86633-1956-4bf6-924b-265e1092141b.jpeg",
-      "hash": "U4CPL+5R00^+9Z01s.^+00~COs4.01~V~BD%",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 50983669,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09c05756-1131-4810-b626-84ecd6df1284/original=true/09c05756-1131-4810-b626-84ecd6df1284.jpeg",
+      "hash": "UBASuYI;0#-o0zWX=_NG58xFxFNG~An$9ut7",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-10T02:03:00.000Z",
-      "postId": 20697872,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-11T18:12:29.582Z",
+      "postId": 11468556,
       "stats": {
-        "cryCount": 148,
-        "laughCount": 198,
-        "likeCount": 2208,
+        "cryCount": 101,
+        "laughCount": 174,
+        "likeCount": 2091,
         "dislikeCount": 0,
-        "heartCount": 972,
-        "commentCount": 0
+        "heartCount": 1159,
+        "commentCount": 3
       },
       "meta": {
-        "seed": 202482958,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 40,
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 835286551,
+        "draft": false,
+        "steps": 29,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "(masterpiece, best quality, amazing quality, very aesthetic, highres, highly detailed:1.1), (realistic, photorealistic:1.1), moto-retcom, (dark theme, rim light, cinematic lighting, dramatic lighting:1.1), masterpiece, best quality, ultra-detailed, highres, beautiful detailed eyes, (EyesHD:1.2), (4k,8k,Ultra HD), \nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1),yonaga_artstyle, cinematic, epic, ultra-detailed-eyes, detailed background,cute girl, eyelashes, beautiful eyes, big eyes, detailed eyes, detailed pupils, perfect body, mysterious, vivid color, mature woman,\nBREAK\nAka-Oni, oni, colored skin, red skin, smooth horns, straight horns, black horns, pointy ears, \nBREAK\nlong hair, uncensord, blood soaked, giant sword, holding sword, planted sword, battlefield background, corpse, skull, blood, \nBREAK\nlooking at viewer, long sleeves, gloves, closed mouth, sitting, boots, white gloves, cape, armor, fur trim, expressionless, chair, gem, cloak,  beads, red cape, armored boots, greaves, throne, red cloak,\nblack sclera, calm expression, devil smile, \n(very long eyelashes:1.2),  horror style, goth style, deep colors, from side, spread legs,\nBREAK\ndeep gaze, intense gaze, glossy lips, mesmerizing eyes,",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M",
+        "prompt": "(score_9, score_8_up, score_7_up) 1girl, 22 years old, sexy body, thick legs, squishy thighs, black slick hair, gamer chair, legs up, upskirt, no panties, kawaii costume, dark cozy room, gamer-girl room, blush,( beautiful face:1.1), shy, cute face, streamer, night, cutie, long legs, stockings,  s1_dram",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 4,
-        "workflow": "txt2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "(worst quality, low quality, lowres:1.1), watermark, text, artist name, signature, overexposed, shiny skin, neon, reflection, (thick lips:0.7), freckles, censorship, frog",
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-01-11T1750:17.6570553Z",
+        "negativePrompt": "score_4, simple background, zombie, goth, vampire, undead, loli, bride, wedding, kid, toddler, dead, unreal, ugly, sketch, draft, crayon, blueprint, watercolor, fat, obese, bbw, milf, worst quality, low quality, futanari, score_5, score_6,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 1147221
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 1552087
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1888209
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 2004152
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 2007081
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 2047981
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1240288
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 145907
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
           },
           {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1147221
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 380277,
+            "modelVersionName": "XXX Rating"
           },
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 1552087
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1888209
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
-            "type": "lycoris",
+            "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 2004152
+            "modelVersionId": 486749,
+            "modelVersionName": "Detailed v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 2007081
+            "weight": 0.3,
+            "modelVersionId": 761452,
+            "modelVersionName": "v2"
           },
           {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 2047981
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:120723@145907",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:987736@1147221",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:176554@1552087",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:556479@1888209",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lycoris:civitai:846953@2004152",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1400090@2007081",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1809693@2047981",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Moonbear_AIArt",
-      "baseModel": "Illustrious",
+      "username": "PaintedFeelings",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        145907,
-        164821,
-        1147221,
-        1240288,
-        1552087,
-        1888209,
-        2004152,
-        2007081,
-        2047981
+        60938,
+        290640,
+        380277,
+        382152,
+        436219,
+        486749,
+        761452
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "542|1736619149582",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=542%7C1736619149582"
+    "nextCursor": "543|1757689124728",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=543%7C1757689124728"
   }
 }
