@@ -1,66 +1,83 @@
 {
   "items": [
     {
-      "id": 65844017,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c0036c3c-8a34-41a6-9c2a-db6d74f92fc5/original=true/c0036c3c-8a34-41a6-9c2a-db6d74f92fc5.jpeg",
-      "hash": "UPKT#,Os01~B0057S2MxE1xa%2oy.8=|RPM{",
-      "width": 1280,
+      "id": 93428102,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e99e9179-c066-41b4-8586-2f9869bd1fb8/original=true/e99e9179-c066-41b4-8586-2f9869bd1fb8.jpeg",
+      "hash": "UHL|ZPx]-:-p9YxtIn-p~TkDxut7EMof.8oz",
+      "width": 1152,
       "height": 1824,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-03-27T12:11:00.000Z",
-      "postId": 14659493,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-11T10:40:37.987Z",
+      "postId": 20727865,
       "stats": {
-        "cryCount": 156,
-        "laughCount": 252,
-        "likeCount": 2031,
+        "cryCount": 155,
+        "laughCount": 263,
+        "likeCount": 2069,
         "dislikeCount": 0,
-        "heartCount": 1062,
-        "commentCount": 0
+        "heartCount": 1013,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "ae",
-        "Size": "862x1216",
-        "seed": 80113298,
-        "Model": "hosekiLustrousmix_illustriousV1",
-        "steps": 24,
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "768x1216",
+        "seed": 3289690481,
+        "Model": "hassakuXLIllustrious_v13StyleA",
+        "steps": 28,
         "hashes": {
-          "vae": "afc8e28272",
-          "model": "35c7d75822",
-          "lora:Igawa Sakura3216NoobAIXL075v11": "66f96e1150"
+          "model": "163ac69059",
+          "lora:Chun-li_Swimsuit_Illu_Dwnsty": "41fc8ccc7749"
         },
-        "prompt": "masterpiece, best quality, 1girl, solo, Igawa Sakura, orange hair, short hair, flipped hair, underwear only, indoors, playing games, elbow rest, controller, game controller, holding controller, holding game controller, screen light, all fours, from behind, ass, print panties, tatami, table, sliding doors, bookshelf, television, headphones, blue eyes, looking at screen, looking ahead, sweatdrop, light smile",
-        "Version": "ComfyUI",
-        "sampler": "euler_ancestral_karras",
-        "cfgScale": 6,
-        "TI hashes": {},
+        "prompt": "best quality, absurdres, newest, very aesthetic, amazing quality, highres, ultra detailed, mature female, looking at viewer, \n <lora:Chun-li_Swimsuit_Illu_Dwnsty:1>, chnl1sfsw1m, brown eyes, black hair, hair bun, double bun, swept bangs, braided hair rings, short hair, hair ornament, hair flower, blue flower, earrings, jewelry, blue one-piece swimsuit, highleg swimsuit, gold trim, center opening, cleavage, innerboob, large breasts, stomach cutout, linea alba, navel, belly chain, gold chain, blue bracelet, pearl bracelet, blue nails, nail polish, groin, toned female, thick thighs, thigh ribbon, blue ribbon, \nindoors, bedroom, on bed, kneeling, narrow waist, curvy, raised eyebrows, open mouth, fellatio gesture, sweat, oral invitation, open mouth, tongue out, wariza,",
+        "Version": "f2.0.1v1.10.1-previous-636-gb835f24a",
+        "sampler": "Euler a",
+        "Module 1": "sdxl_vae",
+        "cfgScale": 5,
         "resources": [
           {
-            "hash": "66f96e1150",
-            "name": "Igawa Sakura3216NoobAIXL075v11",
-            "type": "lora"
+            "hash": "41fc8ccc7749",
+            "name": "Chun-li_Swimsuit_Illu_Dwnsty",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "hash": "35c7d75822",
-            "name": "hosekiLustrousmix_illustriousV1",
+            "hash": "163ac69059",
+            "name": "hassakuXLIllustrious_v13StyleA",
             "type": "model"
           }
         ],
-        "Model hash": "35c7d75822",
-        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, cameltoe, covered nipples, nipples, head rest,"
+        "Model hash": "163ac69059",
+        "Hires steps": "10",
+        "Hires upscale": "1.5",
+        "Schedule type": "Normal",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "worst quality, low quality,  lowres, watermark, patreon username, artist name, artist logo, text, error, jpeg artifacts, unfinished, oldest, signature, artistic error, username, english text, 4koma, 2koma",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "5",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "SGM noise multiplier": "True",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "Discard penultimate sigma": "True",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Deto15",
-      "baseModel": "Illustrious",
+      "username": "dwnsty",
+      "baseModel": null,
       "modelVersionIds": [
-        1053830,
-        1061893
+        2099415
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "557|1754908837987",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=557%7C1754908837987"
+    "nextCursor": "558|1750849860000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=558%7C1750849860000"
   }
 }
