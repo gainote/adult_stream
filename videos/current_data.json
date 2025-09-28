@@ -1,115 +1,105 @@
 {
   "items": [
     {
-      "id": 93510184,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e2467a5-0542-4206-976f-8444bf2e1410/original=true/6e2467a5-0542-4206-976f-8444bf2e1410.jpeg",
-      "hash": "U4ASfN7g7Q#5Z%$c-C9_MHm,4-xoBhS19[$l",
+      "id": 44320637,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b810ba47-11fc-4925-85f9-4ebee1098af3/original=true/b810ba47-11fc-4925-85f9-4ebee1098af3.jpeg",
+      "hash": "UBBe~-Y40~$N0zrX#SI:0#s:^PSh}?K5JA=d",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-08-10T23:30:53.858Z",
-      "postId": 20745539,
+      "createdAt": "2024-12-08T06:20:53.972Z",
+      "postId": 10056198,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 216,
-        "likeCount": 2055,
+        "cryCount": 89,
+        "laughCount": 192,
+        "likeCount": 2012,
         "dislikeCount": 0,
-        "heartCount": 1049,
+        "heartCount": 1170,
         "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 706550452,
+        "nsfw": true,
+        "seed": 1223213974,
         "draft": false,
-        "extra": {
-          "remixOfId": 87692964
-        },
         "steps": 35,
         "width": 832,
         "height": 1216,
-        "prompt": "highres, very detailed, amazing quality, masterpiece, very aesthetic, particle effect, absurdres\n1girl, LunaWF, tan skin, red eyes, cute face, twin buns, asymetrical bangs, sidelocks, blushing, slutty, confident, flirty smile, crop top, sports jersey, miniskirt, thigh socks, stripped socks, upskirt, booty, choker, looking back at viewer, walking away, holding tray of drinks, butt plug, anal insertion, Inside, crowded, tvs, sports, sports bar, neon lights, nightclub, Cowboy shot, close up,",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3,
+        "prompt": "score_9,score_8_up,score_7_up,score_6_up, encourage, 1girl, locker room, shirt lift, (size difference:1,5), (petite body:1,9), from above, kneeling, vaginal, large penis, on all fours, on a bench, small ass, (small waist:1,5), horny, big hanging tits, skinny, cheerleaders, blonde, ponytail, (grab penis, grab ass), pussy, ass, asshole, from behind, thong, arching, spreading ass, beautiful face, pleasure face, moaning, pussy juice, wet cock, 8k, very detailed, very detailed, high detailed texture, deep of field, cinematic illumination, volumetric lighting, Expressiveh, g0thicPXL, glowing, neon, daytime,",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-23T2208:59.9341098Z",
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children, emotionless, tanlines, horns,",
+        "Created Date": "2024-12-06T0308:38.0008534Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 947620,
-            "modelVersionName": "cfg scale BOOST"
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1189052,
-            "modelVersionName": "Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1280045,
-            "modelVersionName": "Pony v3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1416874,
-            "modelVersionName": "[illustrious]"
-          },
-          {
-            "type": "lora",
-            "weight": 3.5,
-            "modelVersionId": 1726985,
-            "modelVersionName": "ILXL"
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 1878074,
-            "modelVersionName": "V1"
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1926285,
-            "modelVersionName": "illus01 v1.185c"
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Wadufuk1",
-      "baseModel": "Illustrious",
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        947620,
-        1189052,
-        1280045,
-        1410435,
-        1416874,
-        1726985,
-        1878074,
-        1926285
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "576|1733638853972",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=576%7C1733638853972"
+    "nextCursor": "577|1755529920000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=577%7C1755529920000"
   }
 }
