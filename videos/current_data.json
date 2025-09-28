@@ -1,83 +1,114 @@
 {
   "items": [
     {
-      "id": 90011992,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/143f9906-68e6-4bd6-855a-d827e2457d99/original=true/143f9906-68e6-4bd6-855a-d827e2457d99.jpeg",
-      "hash": "UBJ$?6}[4q}$vfI]IB$dWH9]Y4V}00#jyBRr",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 63631609,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/817ddc8d-3e9d-4f91-9b8b-fe68fe688208/original=true/817ddc8d-3e9d-4f91-9b8b-fe68fe688208.jpeg",
+      "hash": "U9FqLC5;0z-9149^xu-ATe%29vnO~qt8M|-A",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-25T06:00:00.000Z",
-      "postId": 19963773,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-15T10:05:22.532Z",
+      "postId": 14194089,
       "stats": {
-        "cryCount": 194,
-        "laughCount": 365,
-        "likeCount": 2056,
+        "cryCount": 137,
+        "laughCount": 238,
+        "likeCount": 1993,
         "dislikeCount": 0,
-        "heartCount": 846,
-        "commentCount": 2
+        "heartCount": 1092,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1603423490,
-        "draft": false,
-        "steps": 25,
+        "nsfw": false,
+        "seed": 231227289,
+        "vaes": [],
+        "extra": {},
+        "steps": 50,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, (((masterpiece))), 1girl, best quality, expressive eyes, perfect face, ultra-detailed, sexy, high res, ((solo)), angelic beauty, detailed, ((((sexy woman)))), (((mature woman))), curvy sexy body, {{{massive perky breasts}}}, shiny skin, sexy waist,\nsmall waist, wide hips, (((vary sexy hot body, well endowed))), curvy torso,\n(( barnyard background)), 1dk, full body, \n black hair, hair ornament, brown eyes, hairclip, light skin, hair bun, light skinned female, very long ponytail, {{{huge breasts}}}, ((smug)), evil smile, T shirt, horse legs, taur, cow horns ,\n hooves, hooved feet, 1girl, monster girl, hooves, fur lower half, bones, full lips painted with a subtle golden sheen, and large, alluring eyes that seem to hold the promise of untold treasures. A smirk playing at the corners of her mouth, hinting at amusement and curiosity about. Her pose is one of confident elegance, with one hip slightly cocked to the side and her weight resting on one leg.",
+        "models": [],
+        "prompt": "masterpiece, ultra-realistic, 32k, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, BREAK, ((4girls)), green eyes, brown eyes, blue eyes, blonde, (younger faces), (breast focus), 4different faces, brunette, black hair, redhead, bangs, long hair, braids, twintails, perfect body, blush, medium to large perky breasts, pose, caucasian, flirty smiles, (wet body, sweat, wet, perfect ratio proportioned face, petite body, perfect waist to hip ratio, flat stomach, perfect female body, wet body, deep skin), BREAK pose, wet, 1 boy, 1large thick dick, male pov, ((girls looking down at man's cock)), titty fuck, ((cock touching nipples)), grab breast, (((cock worship))), fancy walk-in shower background, sex in the large shower, ((blue tile in large shower)), well lit, perfect hands, (((cock worship))), (ahegao), breast press, hand job, (((1girl pushing tip of dick into her nipple))), dynamic angles, licking cock shaft, sucking on scrotum, ((2girls waiting their turn in background)), ",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4.5,
         "clipSkip": 2,
-        "quantity": 8,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-23T1526:25.9695531Z",
-        "experimental": false,
-        "negativePrompt": "(worst quality, low quality:1.4), (greyscale, monochrome:1.1), cropped, lowres , username, blurry, trademark, watermark, title, strabismus, clothing cutout, side slit,worst hand, (ugly face:1.2), extra leg, extra arm, bad foot, text, name, badhandv4, easynegative, EasyNegativeV2, negative_hand, ng_deepnegative_v1_75t",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-upscale",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/M2E71WVWZ43SD09D20CY8Z4A30.jpeg",
+          "width": 832,
+          "height": 1216,
+          "upscaleWidth": 2688,
+          "upscaleHeight": 3840
+        },
+        "upscaleWidth": 2688,
+        "upscaleHeight": 3840,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, nipple piercing, extra nipple, weirdly placed nipple, multi colored hair, more than one man, navel piercing, african americans, ((extra penis)), extra penis tip, anime style, twins, triplets, low quality, extra navel, too many fingers on hand, not enough fingers on hand, text, censored, extra hands, deformed, bad hand, blurry, (watermark), extra hands, feet, abnormal scrotum,",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1714002,
-            "modelVersionName": "Walnut"
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 290640
           },
           {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
+            "modelVersionId": 9208
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 348189,
-            "modelVersionName": "v1.0"
+            "weight": 0.5,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 3,
+            "modelVersionId": 712947
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "Dragonking123",
-      "baseModel": "Illustrious",
+      "username": "holybratwurst",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
-        348189,
-        1244133,
-        1714002
+        9208,
+        164821,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219,
+        712947
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "579|1742033122532",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=579%7C1742033122532"
+    "nextCursor": "580|1752449400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=580%7C1752449400000"
   }
 }
