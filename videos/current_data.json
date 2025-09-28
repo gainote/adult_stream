@@ -1,37 +1,75 @@
 {
   "items": [
     {
-      "id": 80283769,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4893875f-5098-49fe-b551-99d0fe4d11ea/original=true/4893875f-5098-49fe-b551-99d0fe4d11ea.jpeg",
-      "hash": "UDIDn7%#ACDP7bt8xY5Q9[%g^*IU~X%MSLR5",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 31324407,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/068971e6-ec50-41da-a6d0-76d9cea87a60/original=true/068971e6-ec50-41da-a6d0-76d9cea87a60.jpeg",
+      "hash": "UAHc}{a[tR~B00^i--?GGH=|^4I.9r,]ozR+",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-04T01:29:18.876Z",
-      "postId": 17831500,
+      "browsingLevel": 8,
+      "createdAt": "2024-09-25T19:48:42.618Z",
+      "postId": 7002431,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 296,
-        "likeCount": 2162,
+        "cryCount": 90,
+        "laughCount": 234,
+        "likeCount": 1943,
         "dislikeCount": 0,
-        "heartCount": 879,
-        "commentCount": 0
+        "heartCount": 1213,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "lbccdl",
-      "baseModel": "Illustrious",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3638201410,
+        "steps": 29,
+        "prompt": "(score_9, score_8_up, score_7_up), 1girl, brunette, freckles, sexy body, selfie, no panties, (beautiful face:1.1), shy, cute face, smartphone, night, bubble butt, perfect ass, spread legs, pussy, pink hoodie, pink thigh high socks, sitting on floor, (((spread ass))), ass focus, laying face up , feet",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-21T1553:26.9064591Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "dororooo",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
-        1761560,
-        1828665
+        290640,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "566|1727293722618",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=566%7C1727293722618"
+    "nextCursor": "567|1743690180000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=567%7C1743690180000"
   }
 }
