@@ -1,101 +1,133 @@
 {
   "items": [
     {
-      "id": 34854507,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e934b59a-1c2c-4921-9917-49342bc7cbbe/original=true/e934b59a-1c2c-4921-9917-49342bc7cbbe.jpeg",
-      "hash": "U6G?x2KO00}@0MELEfoy01w0.7EM^P}?tk-A",
-      "width": 832,
-      "height": 1216,
+      "id": 70951828,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e44375f-cbe4-496f-9a00-9a995e297fb0/original=true/3e44375f-cbe4-496f-9a00-9a995e297fb0.jpeg",
+      "hash": "U3A9{JI80p~WJ7s:wuIp00-=~99Z?H%2X9E0",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-10-16T05:11:40.196Z",
-      "postId": 7965560,
+      "createdAt": "2025-04-19T02:51:43.433Z",
+      "postId": 15760222,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 261,
-        "likeCount": 1935,
+        "cryCount": 151,
+        "laughCount": 272,
+        "likeCount": 2023,
         "dislikeCount": 0,
-        "heartCount": 1165,
-        "commentCount": 39
+        "heartCount": 1058,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2750417105,
-        "extra": {
-          "remixOfId": 34319249
-        },
-        "steps": 29,
-        "prompt": "Expressiveh, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, godrays, 1girl, Makima (Chainsaw man), red room, lingerie, thick thighs, narrow waist, big hips, elbow gloves, pose, closeup, dynamic angle, closeup, hearts, oiled, laying, spread legs, vaginal, motion lines, motion blur, nipples, shaking, biting lip, eyes rolling back, hearts, from side, cum, smirk",
+        "seed": 1251567226,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 30,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "masterpiece, best quality, 2girls, fitting room, cowboy shot, (futanari), rating_explicit, realistic,  undressing, exposed penis, walk-in, caught,  pharah \\(overwatch\\), mercy \\(overwatch\\), (reach-around), handjob, blushing, aroused,  (medium penis), dim light, dark, ",
         "sampler": "Euler a",
         "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-16T0446:20.1472348Z",
-        "negativePrompt": "easynegative, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, mixed characters",
+        "modelIds": [],
+        "workflow": "img2img-facefix",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "(wet skin), (shiny skin), sweat, (lowres), (worst quality), (low quality), monochrome, (bad anatomy), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, 3d, vagina, (pussy), twins, clones, male, solo, pov, background characters",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 959419
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 1036362
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1219983
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 1240288
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "modelVersionId": 145907
           },
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "modelVersionId": 959419
           },
           {
             "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1036362
+          },
+          {
+            "type": "lycoris",
             "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "modelVersionId": 1219983
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:120723@145907",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "name": "urn:air:sdxl:lora:civitai:176554@959419",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "name": "urn:air:sdxl:lora:civitai:856285@1036362",
+            "type": "lora",
+            "strength": 0.9,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lycoris:civitai:846953@1219983",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Bancin",
-      "baseModel": "Pony",
+      "username": "revenge623",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        239420,
-        290640,
-        382152,
-        398847,
-        436219
+        145907,
+        959419,
+        1036362,
+        1219983,
+        1240288
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "555|1745031103433",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=555%7C1745031103433"
+    "nextCursor": "556|1743077460000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=556%7C1743077460000"
   }
 }
