@@ -1,85 +1,62 @@
 {
   "items": [
     {
-      "id": 49196908,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f5671672-1810-4f4d-bada-627864affd10/original=true/f5671672-1810-4f4d-bada-627864affd10.jpeg",
-      "hash": "UEG[4YWX_M02?]%f-pIB5SRQoeIV$gMeRkof",
-      "width": 1040,
-      "height": 1520,
+      "id": 81541564,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55c245f3-4d8c-43d7-9112-c4492ff4358e/original=true/55c245f3-4d8c-43d7-9112-c4492ff4358e.jpeg",
+      "hash": "UAB{u^E10Lt70KxuMwbbENV@?bxY~Axa01X8",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-01-03T00:55:00.000Z",
-      "postId": 11085803,
+      "createdAt": "2025-06-11T04:00:00.000Z",
+      "postId": 18113602,
       "stats": {
-        "cryCount": 89,
-        "laughCount": 203,
-        "likeCount": 2175,
+        "cryCount": 127,
+        "laughCount": 216,
+        "likeCount": 2125,
         "dislikeCount": 0,
-        "heartCount": 1068,
-        "commentCount": 2
+        "heartCount": 1064,
+        "commentCount": 8
       },
       "meta": {
-        "TI": {},
         "Size": "832x1216",
-        "seed": 1140324919,
-        "Model": "re-mixmain.fp16",
+        "seed": 3284187249,
+        "Model": "ilustmix_v70",
         "steps": 30,
         "hashes": {
-          "model": "8658ad9009"
+          "model": "3a4c3964e8"
         },
-        "prompt": "1girl, underwear, solo, panties, breasts, navel, long hair, black panties, black hair, bra, black nails, freckles, see-through, black bra, thighhighs, looking at viewer, smile, lingerie, black thighhighs, nail polish, see-through sleeves, large breasts, off shoulder, medium breasts, bare shoulders, stomach, black lips, grey eyes, thighs, lace trim, hair ornament, blush, cleavage, sitting, zPDXL3, detailxl,  Score_PnyReal, (lineless:1.5)",
-        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
+        "prompt": "1girl, navel, solo, breasts, pajamas, groin, pants, clothes pull, black shirt, stomach, head out of frame, long sleeves, black pants, midriff, close-up, shirt, pants pull, no panties, black pajamas, huge breasts, crop top, pulled by self, crop top overhang , gold trim, dark room, dark, gold embroidery, bedroom, darkness,",
+        "Version": "f2.0.1v1.10.1-previous-659-gc055f2d4",
         "sampler": "Euler a",
         "cfgScale": 7,
         "resources": [
           {
-            "hash": "8658ad9009",
-            "name": "re-mixmain.fp16",
+            "hash": "3a4c3964e8",
+            "name": "ilustmix_v70",
             "type": "model"
           }
         ],
-        "Model hash": "8658ad9009",
-        "ControlNet 0": {
-          "Model": "diffusion_pytorch_model [15e6ad5d]",
-          "Module": "normalbae",
-          "Weight": "0.35",
-          "Hr Option": "Both",
-          "Resize Mode": "Crop and Resize",
-          "Threshold A": "0.5",
-          "Threshold B": "0.5",
-          "Control Mode": "Balanced",
-          "Guidance End": "1.0",
-          "Pixel Perfect": "False",
-          "Processor Res": "512",
-          "Guidance Start": "0.0"
-        },
-        "Hires upscale": "1.25",
+        "Model hash": "3a4c3964e8",
         "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "None",
-        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,  half-closed eyes,  facial marks, thick lips, lips, parted lips,",
-        "ADetailer model": "full_eyes_detect_v1.pt",
-        "ADetailer steps": "20",
-        "Hires CFG Scale": "7",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.3",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer version": "25.3.0",
         "ADetailer mask blur": "4",
         "ADetailer confidence": "0.3",
         "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "16",
-        "ADetailer denoising strength": "0.25",
-        "ADetailer use separate steps": "True",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
         "ADetailer inpaint only masked": "True"
       },
-      "username": "phinjo",
-      "baseModel": "Pony",
+      "username": "GZees",
+      "baseModel": "Illustrious",
       "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "539|1749614400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=539%7C1749614400000"
+    "nextCursor": "540|1747027800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=540%7C1747027800000"
   }
 }
