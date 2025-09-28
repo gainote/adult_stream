@@ -1,114 +1,115 @@
 {
   "items": [
     {
-      "id": 100898120,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6de8b04d-149d-4a40-b24e-e1b3197842bf/original=true/6de8b04d-149d-4a40-b24e-e1b3197842bf.jpeg",
-      "hash": "U5CiLKoi0EIS?do#0#n#00%O,+Mv57S7=ZIU",
-      "width": 1248,
-      "height": 1824,
+      "id": 93510184,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e2467a5-0542-4206-976f-8444bf2e1410/original=true/6e2467a5-0542-4206-976f-8444bf2e1410.jpeg",
+      "hash": "U4ASfN7g7Q#5Z%$c-C9_MHm,4-xoBhS19[$l",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-09-17T18:36:39.362Z",
-      "postId": 22385474,
+      "createdAt": "2025-08-10T23:30:53.858Z",
+      "postId": 20745539,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 252,
-        "likeCount": 2135,
+        "cryCount": 143,
+        "laughCount": 216,
+        "likeCount": 2055,
         "dislikeCount": 0,
-        "heartCount": 934,
-        "commentCount": 2
+        "heartCount": 1049,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1501378785,
-        "Model": "JANKUV5NSFWTrainedNoobaiEPS_v50",
-        "steps": 30,
-        "prompt": "1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,\n,dutch angle, cowboy shot,\nblonde hair, , long hair,straight hair,gyaru,\nred eyes,looking at viewer , \n torogao, heavy breathing, sweat, \nlarge breasts, collarbone,cleavage,nipples,\n leaning forward, large areolae, erected nipples, pussy,pussy juice, \nstraddling, sex, large penis, holding hands, deep penetration,\nbedroom, night, \nmasterpiece,best quality,amazing quality,newest,absurdres,highres, newest,\n<lora:lighting_v2>\n<lora:fashiongirl-v1-ILXL:1>  <lora:CunnyfunkyV7.0:0.8>   <lora:darkness_xl_v20:0.6>",
-        "Version": "f2.0.1v1.10.1-1.10.1",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "resources": [
-          {
-            "name": "fashiongirl-v1-ILXL",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "name": "CunnyfunkyV7.0",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "name": "darkness_xl_v20",
-            "type": "lora",
-            "weight": 0.6
-          }
-        ],
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x_IllustrationJaNai_V1_DAT2_190k",
-        "negativePrompt": "(worst quality, bad quality:1.2),low quality,simple background,transparent,logo,text,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,bad hands,child, loli, symbol-shaped pupils,multicolored hair,lips,glossy skin,shiny skin, earrings,",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "4",
+        "seed": 706550452,
+        "draft": false,
+        "extra": {
+          "remixOfId": 87692964
+        },
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "highres, very detailed, amazing quality, masterpiece, very aesthetic, particle effect, absurdres\n1girl, LunaWF, tan skin, red eyes, cute face, twin buns, asymetrical bangs, sidelocks, blushing, slutty, confident, flirty smile, crop top, sports jersey, miniskirt, thigh socks, stripped socks, upskirt, booty, choker, looking back at viewer, walking away, holding tray of drinks, butt plug, anal insertion, Inside, crowded, tvs, sports, sports bar, neon lights, nightclub, Cowboy shot, close up,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-23T2208:59.9341098Z",
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children, emotionless, tanlines, horns,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1896532
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1967210
-          },
-          {
-            "type": "lycoris",
-            "weight": 1,
-            "modelVersionId": 1420683
+            "weight": 0.5,
+            "modelVersionId": 947620,
+            "modelVersionName": "cfg scale BOOST"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1920055
+            "weight": 0.4,
+            "modelVersionId": 1189052,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1280045,
+            "modelVersionName": "Pony v3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1416874,
+            "modelVersionName": "[illustrious]"
+          },
+          {
+            "type": "lora",
+            "weight": 3.5,
+            "modelVersionId": 1726985,
+            "modelVersionName": "ILXL"
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 1481160
+            "modelVersionId": 1878074,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1926285,
+            "modelVersionName": "illus01 v1.185c"
           }
-        ],
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.5",
-        "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "hand_yolov8n.pt",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.2",
-        "ADetailer inpaint padding": "32",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer denoising strength 2nd": "0.4",
-        "ADetailer inpaint only masked 2nd": "True"
+        ]
       },
-      "username": "Bunnykiin",
+      "username": "Wadufuk1",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1420683,
-        1481160,
-        1896532,
-        1920055,
-        1967210
+        947620,
+        1189052,
+        1280045,
+        1410435,
+        1416874,
+        1726985,
+        1878074,
+        1926285
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "575|1754868653858",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=575%7C1754868653858"
+    "nextCursor": "576|1733638853972",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=576%7C1733638853972"
   }
 }
