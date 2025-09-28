@@ -1,41 +1,119 @@
 {
   "items": [
     {
-      "id": 65814043,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/531a3611-4261-4227-8013-311478cf3d06/original=true/531a3611-4261-4227-8013-311478cf3d06.jpeg",
-      "hash": "UBG8=h4m.lM}?t4.WosD%$9F^kE1?c9ZIV4.",
+      "id": 87658340,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/01cf276b-9457-4c33-9333-82d28f2d17fb/original=true/01cf276b-9457-4c33-9333-82d28f2d17fb.jpeg",
+      "hash": "U9F}1rEe0OMx1H%1J-9s01EL~B^+?Z$+55%3",
       "width": 1280,
       "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-03-25T17:01:49.281Z",
-      "postId": 14652484,
+      "createdAt": "2025-07-11T20:05:00.000Z",
+      "postId": 19445135,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 263,
-        "likeCount": 2100,
+        "cryCount": 161,
+        "laughCount": 278,
+        "likeCount": 2139,
         "dislikeCount": 0,
-        "heartCount": 1039,
-        "commentCount": 3
+        "heartCount": 957,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "paulmuc",
-      "baseModel": "Pony",
+      "meta": {
+        "seed": 53870815,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1695253@1918601",
+        "extra": {},
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1695253@1918601"
+        ],
+        "prompt": "masterpiece, absurdres, newest, amazing quality, 1girl, solo, bastila shan , blue eyes, medium breasts, no panties, bubblebutt, perfect pink pussy, neon pink thigh highs, dynamic background, dynamic pose, holding blue lightsaber, blushing, looking at viewer, A3THER",
+        "process": "img2img",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 2,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/H4BQXF18RD81APCAJPDFA0VYY0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "low quality, cartoon, source_anime, source cartoon, watermark, patreon, signature, bad anatomy, simple background, from behind, upside down,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1918601
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 1414196
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1857894
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1918601
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1414196
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1857894
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1254406@1414196",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1641396@1857894",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "imabarbygirl",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
         164821,
-        482268,
-        596040,
-        973977,
-        1253021,
-        1346181,
-        1359711
+        1414196,
+        1857894,
+        1918601
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "537|1752264300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=537%7C1752264300000"
+    "nextCursor": "538|1735865700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=538%7C1735865700000"
   }
 }
