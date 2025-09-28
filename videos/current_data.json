@@ -1,90 +1,80 @@
 {
   "items": [
     {
-      "id": 59053356,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46fc88a8-475d-410d-b13d-08cf237143f0/original=true/46fc88a8-475d-410d-b13d-08cf237143f0.jpeg",
-      "hash": "U7849|$#I9%1~WjZ9Fs.JCNb9ZNHEMW=IoNG",
-      "width": 1696,
-      "height": 2272,
+      "id": 89312713,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0095a4a0-4bd8-40f6-8a5e-73f7074f03b3/original=true/0095a4a0-4bd8-40f6-8a5e-73f7074f03b3.jpeg",
+      "hash": "UHLy.g0e00?u^j~VnN9a00%N-VIAM{9a-;I;",
+      "width": 1024,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-21T07:05:00.000Z",
-      "postId": 13210156,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-21T00:10:00.000Z",
+      "postId": 19812257,
       "stats": {
-        "cryCount": 111,
-        "laughCount": 242,
-        "likeCount": 2228,
+        "cryCount": 137,
+        "laughCount": 277,
+        "likeCount": 2028,
         "dislikeCount": 0,
-        "heartCount": 869,
-        "commentCount": 1
+        "heartCount": 1004,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 730045655462961,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        "Size": "1024x1024",
+        "seed": 1371369782,
+        "draft": false,
+        "extra": {
+          "remixOfId": 88413037
         },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, dark elf, 1girl, white hair, long hair, purple eyes, eyebrows, thick eyelashes, long pointy ears, black skin, small breasts, latex bodysuit, skin tight, shiny texture, gold ornaments, nude, nipples, breasts out, pussy, hand reaching out,\nindoors, underground dungeon, ancient stone walls, cold metal bars, dim torchlight, (misty air:0.9), mysterious ambiance,\n(dark shadows:0.7), (high contrast:0.7), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_ancestral_karras",
-        "cfgScale": 4,
+        "steps": 15,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, ultra detailed eyes, elaborate background, realistic,  shiny hair,shiny skin, dynamic angle,\n1girl, solo,sweating,  wet skin,\nPlump Anal,No panties,\nAnal show off,beautiful anus,\nShort and petite ,\nWaist-reaching blonde twin-tails (long hair tied with black ribbons),\nLarge dark blue eyes,\n black ribbon,\nFeisty and cute, with a devilish smile\nPanties partially removed,Uncensored,\nbunny girl,casino background,Bunny ears",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-07-20T0344:01.8099712Z",
+        "experimental": false,
+        "negativePrompt": "ugly, disfigured, poorly drawn face, malformed hands, mutated hands, poorly drawn hands, mutated hands and fingers, bad hands, missing fingers, fused fingers, too many fingers, text, worst quality, bad quality, worst detail, sketch, jpeg artifacts, 3d, (censor), monochrome, blurry, lowres, loli, simple background, white background, logo, watermark, mosaic,inserted into the anus,",
+        "civitaiResources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 2
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 1
+            "weight": 0.4,
+            "modelVersionId": 1041204,
+            "modelVersionName": "xmc v0.3"
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
+            "weight": 1.5,
+            "modelVersionId": 1116960,
+            "modelVersionName": "v1.0 [Illustrious]"
           }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, sunlight, pink nipples"
+        ]
       },
-      "username": "Marland_C",
+      "username": "arriel0911195",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1410435
+        1041204,
+        1116960,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "585|1753056600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=585%7C1753056600000"
+    "nextCursor": "586|1735356300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=586%7C1735356300000"
   }
 }
