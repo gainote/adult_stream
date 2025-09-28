@@ -1,73 +1,79 @@
 {
   "items": [
     {
-      "id": 47986787,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d2140fd0-aac9-45a0-a5f4-2f9b2d905e17/original=true/d2140fd0-aac9-45a0-a5f4-2f9b2d905e17.jpeg",
-      "hash": "UOF#R5n%FKoL~BWqxZxGS~j@$%ay-:s.WVNH",
+      "id": 91804216,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/54dc346c-fb5b-4ab6-bc2c-0f2ee712df75/original=true/54dc346c-fb5b-4ab6-bc2c-0f2ee712df75.jpeg",
+      "hash": "UAG84W^+cEJUy?s:tlW=Tes9Ipnix]WW$MNH",
       "width": 1024,
-      "height": 1536,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-28T03:25:00.000Z",
-      "postId": 10826019,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T19:52:34.599Z",
+      "postId": 20367340,
       "stats": {
-        "cryCount": 87,
-        "laughCount": 177,
-        "likeCount": 2134,
+        "cryCount": 221,
+        "laughCount": 340,
+        "likeCount": 2075,
         "dislikeCount": 0,
-        "heartCount": 1047,
-        "commentCount": 0
+        "heartCount": 808,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "512x768",
-        "seed": 335406507,
-        "Model": "re-mixmain.fp16",
-        "steps": 30,
-        "hashes": {
-          "model": "25657b43ea"
+        "Size": "1024x1024",
+        "seed": 629090905,
+        "draft": false,
+        "extra": {
+          "remixOfId": 91790503
         },
-        "prompt": "1girl, ass, solo, nude, hoop earrings, jewelry, long hair, wet, earrings, water, tile wall, thigh strap, from behind, looking back, necklace, tiles, back, blue eyes, black hair, indoors, wet hair, bathtub, looking at viewer, bath, completely nude, bathing, zPDXL3, detailxl,  Score_PnyReal, (lineless:1.5)",
-        "Version": "f0.0.17v1.8.0rc-latest-277-g0af28699",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "steps": 40,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two busty cute 18yo girls  edging, giving a blowjob",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "TI hashes": {
-          "zPDXL3": "1727c6cddf61",
-          "detailxl": "cad765d41c8a",
-          "Score_PnyReal": "63e618ba9fc7"
-        },
-        "resources": [
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-08-01T1908:39.7384055Z",
+        "experimental": false,
+        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
+        "civitaiResources": [
           {
-            "hash": "25657b43ea",
-            "name": "re-mixmain.fp16",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1988773,
+            "modelVersionName": "SDXL Pony 18"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 714649,
+            "modelVersionName": "V1"
           }
-        ],
-        "Model hash": "25657b43ea",
-        "Hires upscale": "2",
-        "Hires upscaler": "None",
-        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,  half-closed eyes,  facial marks",
-        "ADetailer model": "face_yolov8s.pt",
-        "ADetailer version": "24.5.1",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.2",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "4",
-        "ADetailer denoising strength": "0.2",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "phinjo",
+      "username": "brahej",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1116628
+        9208,
+        714649,
+        1988773
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "587|1754077954599",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=587%7C1754077954599"
+    "nextCursor": "588|1747486517374",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=588%7C1747486517374"
   }
 }
