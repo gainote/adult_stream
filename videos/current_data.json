@@ -1,94 +1,90 @@
 {
   "items": [
     {
-      "id": 77608361,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a811732-a835-43b8-afcc-f3bb86656672/original=true/2a811732-a835-43b8-afcc-f3bb86656672.jpeg",
-      "hash": "ULJav1%g%#~q56?c%3_24:M{i{E0x?MxIog3",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 61291176,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5162e6ff-b54d-49ac-a979-301033886ce1/original=true/5162e6ff-b54d-49ac-a979-301033886ce1.jpeg",
+      "hash": "USH-Mo~V00DitRt7slw]E2Rjs:bvWAWBR,R-",
+      "width": 1344,
+      "height": 2240,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-21T12:49:31.407Z",
-      "postId": 17239268,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-04T01:05:00.000Z",
+      "postId": 13704541,
       "stats": {
-        "cryCount": 123,
-        "laughCount": 289,
-        "likeCount": 2114,
+        "cryCount": 128,
+        "laughCount": 232,
+        "likeCount": 2093,
         "dislikeCount": 0,
-        "heartCount": 930,
-        "commentCount": 3
+        "heartCount": 999,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 354458483,
-        "draft": false,
-        "steps": 38,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, very aesthetic, absurdres, best quality, good quality, newest, highres,\ncode geass,c.c,1girl, solo,brown eyes, green hair,breasts, long hair, hair between eyes, very long hair, medium breasts,straight hair,black sweater,ribbed sweater,turtleneck sweater,sleeveless sweater,sideboob,underboob,black sleeves,ribbed sleeves,black panties,side-tie panties,ribbed legwear,black thighhighs,black garter straps,stomach\ndynamic angle abstract background, blurry background \n<lora:noobai_ep11_stabilizer_v0.178_fp16:1>\nSmoothNegative_Hands",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "Size": "768x1280",
+        "seed": 1121190725922030,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//www.deviantart.com/marlandco",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, (ganyu \\(genshin impact\\), small breasts, completely nude, standing, (reaching for book:1.2), (arms up:0.9), on tiptoes, looking at viewer, soft smile, from side, indoors, (ancient library:1.2), high bookshelves, (soft lantern glow:0.95), wooden floor, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [
           {
-            "name": "noobai_ep11_stabilizer_v0.178_fp16",
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
             "weight": 1
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
           }
         ],
-        "Created Date": "2025-05-21T1248:07.8971009Z",
-        "negativePrompt": "3d, realistic, 3d render,\u00a0 zoomed in, pubic hair, three breasts, too many breasts, furry, score_4, score_5, score_6, (ugly), worst quality, low quality, displeasing, low-resolution, blurry, noisy, distorted, glitch, bad anatomy, poorly drawn, deformed, distorted hands, deformed hands, deformed fingers, three finger hands, extra fingers, , (cropped), out of frame, text, signature, watermark, logo,multiple characters, extra character, chibi, small character",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1682833,
-            "modelVersionName": "Alchemy_Mix_012"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1470544,
-            "modelVersionName": "Smooth Illus. Booster v2"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1668031,
-            "modelVersionName": "Smooth Negative Hands"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1674551,
-            "modelVersionName": "illus01 v1.121"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 1530645,
-            "modelVersionName": "illustrious V2.1"
-          }
-        ]
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry,"
       },
-      "username": "futsalabcdccc",
+      "username": "Marland_C",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1470544,
-        1530645,
-        1668031,
-        1674551,
-        1682833
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "582|1741050300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=582%7C1741050300000"
+    "nextCursor": "583|1754799600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=583%7C1754799600000"
   }
 }
