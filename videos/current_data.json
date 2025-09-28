@@ -1,62 +1,134 @@
 {
   "items": [
     {
-      "id": 81541564,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55c245f3-4d8c-43d7-9112-c4492ff4358e/original=true/55c245f3-4d8c-43d7-9112-c4492ff4358e.jpeg",
-      "hash": "UAB{u^E10Lt70KxuMwbbENV@?bxY~Axa01X8",
+      "id": 75761535,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07353bc1-9a81-40ac-98d6-cc59d75a0853/original=true/07353bc1-9a81-40ac-98d6-cc59d75a0853.jpeg",
+      "hash": "UJM6bj~q10g59ux]T1Xn0f%NogRlxvxvbID*",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-06-11T04:00:00.000Z",
-      "postId": 18113602,
+      "createdAt": "2025-05-12T05:30:00.000Z",
+      "postId": 16822567,
       "stats": {
-        "cryCount": 127,
-        "laughCount": 216,
-        "likeCount": 2125,
+        "cryCount": 121,
+        "laughCount": 243,
+        "likeCount": 2146,
         "dislikeCount": 0,
-        "heartCount": 1064,
-        "commentCount": 8
+        "heartCount": 1017,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3284187249,
-        "Model": "ilustmix_v70",
+        "nsfw": true,
+        "seed": 800586449,
+        "draft": false,
         "steps": 30,
-        "hashes": {
-          "model": "3a4c3964e8"
-        },
-        "prompt": "1girl, navel, solo, breasts, pajamas, groin, pants, clothes pull, black shirt, stomach, head out of frame, long sleeves, black pants, midriff, close-up, shirt, pants pull, no panties, black pajamas, huge breasts, crop top, pulled by self, crop top overhang , gold trim, dark room, dark, gold embroidery, bedroom, darkness,",
-        "Version": "f2.0.1v1.10.1-previous-659-gc055f2d4",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3), <lora:Fionil_Dungeon_Meshi_IL_V1:1>, KJOfionil, blonde hair, light blue eyes, hair between eyes, pointy ears, long hair, big breasts, fair skin, sky, 1girl, loving smile, curtains, thighhighs, 1girl, underwear, panties, solo, stocking grab, side-tie panties, blonde hair, striped, canopy bed, window, blue eyes, long hair, bed, striped panties, sitting, white legwear, braid, heart, pillow, pink thong, hair ornament, transparent, leg up, pulling stocking, thighhighs pull at ankle, adjusting legwear, <lora:ThighhighsPullAnkleV10IllustriousXL:1>\n relaxed but provocative, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle from behind:1.5)), from below, ((focus on feet and pantie:1.5)), blurry background, bright colors, stunningly artwork",
+        "sampler": "DDIM",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [
           {
-            "hash": "3a4c3964e8",
-            "name": "ilustmix_v70",
-            "type": "model"
+            "name": "Fionil_Dungeon_Meshi_IL_V1",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "name": "ThighhighsPullAnkleV10IllustriousXL",
+            "type": "lora",
+            "weight": 1
           }
         ],
-        "Model hash": "3a4c3964e8",
-        "Schedule type": "Automatic",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "25.3.0",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "Created Date": "2025-05-12T0417:30.8999893Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1412789,
+            "modelVersionName": "v2.90"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1752272,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 91028,
+            "modelVersionName": "aid291"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 211788,
+            "modelVersionName": "v1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1193082,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1387520,
+            "modelVersionName": "v1.0"
+          }
+        ]
       },
-      "username": "GZees",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        9208,
+        60938,
+        91028,
+        135867,
+        211788,
+        244808,
+        1193082,
+        1387520,
+        1412789,
+        1752272
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "540|1747027800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=540%7C1747027800000"
+    "nextCursor": "541|1754791380000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=541%7C1754791380000"
   }
 }
