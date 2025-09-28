@@ -1,133 +1,66 @@
 {
   "items": [
     {
-      "id": 70951828,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e44375f-cbe4-496f-9a00-9a995e297fb0/original=true/3e44375f-cbe4-496f-9a00-9a995e297fb0.jpeg",
-      "hash": "U3A9{JI80p~WJ7s:wuIp00-=~99Z?H%2X9E0",
+      "id": 65844017,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c0036c3c-8a34-41a6-9c2a-db6d74f92fc5/original=true/c0036c3c-8a34-41a6-9c2a-db6d74f92fc5.jpeg",
+      "hash": "UPKT#,Os01~B0057S2MxE1xa%2oy.8=|RPM{",
       "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-04-19T02:51:43.433Z",
-      "postId": 15760222,
+      "browsingLevel": 4,
+      "createdAt": "2025-03-27T12:11:00.000Z",
+      "postId": 14659493,
       "stats": {
-        "cryCount": 151,
-        "laughCount": 272,
-        "likeCount": 2023,
+        "cryCount": 156,
+        "laughCount": 252,
+        "likeCount": 2031,
         "dislikeCount": 0,
-        "heartCount": 1058,
+        "heartCount": 1062,
         "commentCount": 0
       },
       "meta": {
-        "seed": 1251567226,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 30,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "masterpiece, best quality, 2girls, fitting room, cowboy shot, (futanari), rating_explicit, realistic,  undressing, exposed penis, walk-in, caught,  pharah \\(overwatch\\), mercy \\(overwatch\\), (reach-around), handjob, blushing, aroused,  (medium penis), dim light, dark, ",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "modelIds": [],
-        "workflow": "img2img-facefix",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "(wet skin), (shiny skin), sweat, (lowres), (worst quality), (low quality), monochrome, (bad anatomy), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, 3d, vagina, (pussy), twins, clones, male, solo, pov, background characters",
-        "civitaiResources": [
+        "VAE": "ae",
+        "Size": "862x1216",
+        "seed": 80113298,
+        "Model": "hosekiLustrousmix_illustriousV1",
+        "steps": 24,
+        "hashes": {
+          "vae": "afc8e28272",
+          "model": "35c7d75822",
+          "lora:Igawa Sakura3216NoobAIXL075v11": "66f96e1150"
+        },
+        "prompt": "masterpiece, best quality, 1girl, solo, Igawa Sakura, orange hair, short hair, flipped hair, underwear only, indoors, playing games, elbow rest, controller, game controller, holding controller, holding game controller, screen light, all fours, from behind, ass, print panties, tatami, table, sliding doors, bookshelf, television, headphones, blue eyes, looking at screen, looking ahead, sweatdrop, light smile",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral_karras",
+        "cfgScale": 6,
+        "TI hashes": {},
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1240288
+            "hash": "66f96e1150",
+            "name": "Igawa Sakura3216NoobAIXL075v11",
+            "type": "lora"
           },
           {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 959419
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 1036362
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1219983
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 959419
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1036362
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.5,
-            "modelVersionId": 1219983
+            "hash": "35c7d75822",
+            "name": "hosekiLustrousmix_illustriousV1",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:120723@145907",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:176554@959419",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:856285@1036362",
-            "type": "lora",
-            "strength": 0.9,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lycoris:civitai:846953@1219983",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "35c7d75822",
+        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, cameltoe, covered nipples, nipples, head rest,"
       },
-      "username": "revenge623",
+      "username": "Deto15",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        959419,
-        1036362,
-        1219983,
-        1240288
+        1053830,
+        1061893
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "556|1743077460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=556%7C1743077460000"
+    "nextCursor": "557|1754908837987",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=557%7C1754908837987"
   }
 }
