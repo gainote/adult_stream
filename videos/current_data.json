@@ -1,41 +1,147 @@
 {
   "items": [
     {
-      "id": 45831132,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5d05bd6d-b57e-4a4b-ae47-1a73c549105c/original=true/5d05bd6d-b57e-4a4b-ae47-1a73c549105c.jpeg",
-      "hash": "UGHwJl~V5R^jocEME2%10eIV%2xaWBaeRjV@",
-      "width": 1280,
-      "height": 1856,
+      "id": 79328697,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e84e4d62-4b3c-4c7b-b578-9bdfa04df6cd/original=true/e84e4d62-4b3c-4c7b-b578-9bdfa04df6cd.jpeg",
+      "hash": "U7IEeO*K0NM$00BW+FKi00LN==v#0f;R-;tk",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-12-16T13:49:36.095Z",
-      "postId": 10377084,
+      "createdAt": "2025-05-30T05:34:16.013Z",
+      "postId": 17623841,
       "stats": {
-        "cryCount": 122,
-        "laughCount": 180,
-        "likeCount": 2071,
+        "cryCount": 141,
+        "laughCount": 286,
+        "likeCount": 2029,
         "dislikeCount": 0,
-        "heartCount": 1139,
-        "commentCount": 2
+        "heartCount": 1053,
+        "commentCount": 3
       },
-      "meta": null,
-      "username": "sabbufik419",
-      "baseModel": "Pony",
+      "meta": {
+        "nsfw": false,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
+        "extra": {},
+        "steps": 20,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
+        ],
+        "prompt": "very detailed, flat color, no lineart, Vibrant Contrast, gradient colors, particle effect, (fine fabric emphasis:1.2), (((masterpiece, amazing quality, best quality, ultra-detailed, 8K, illustration, amazing quality, newest, absurdres, realistic))), highres, very aesthetic, absurd res, hi res, very awa, dynamic angle, refined, volumetric lighting, cinematic lighting, blurry background, close up vivid colors, ((source_realistic:1.6)), hyper detailed, (dynamic pose:1.4), depth of field, photorealistic colors, hyper realistic, \n\n1girl, solo, hyuuga hinata, purple eyes, white eyes, blunt bangs, black hair, hime cut, beautiful face, detailed eyes, revealing clothes, strapless, crop top,  underboob, side boob, pelvic curtain, arm straps, bridal gloves, huge breasts, narrow waist, many scars, wide hips, skinny, small arms, toned, jewelry, beautiful lights, blushing, embarrassed, looking at viewer, head turned away, shy smile, nervous,\nmultiple men, surrounded by nude muscular men, huge cock, in public bath,  \ngrabbing, large breasts, 6+boys, blush, fingering, barefoot, breast grab, multiple boys, arm grab, sweat, holding another's wrist, disembodied limb, groping, restrained, bikini, colorful, black background, perfect hands, perfection, detailed hands,\nsurrounded by males, girl sandwiched by boys, group, multiple boys, 6+boys, multiple boys groping girl, groping, leg grab, ass grab, breast grab, coping a feel, multiple boys feeling up a girl, groping, breast grab, \n",
+        "denoise": 0.85,
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "upscalers": [],
+        "disablePoi": true,
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/EAPHEZ4X4X4H2N3YS2XNP66TD0",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "safe_neg, greyscale, monochrome, motion blur, emphasis lines, text, title, logo, signature,censored, 3d,patreon username, patreon logo, artist name, watermark, ",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1548727
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 1491506
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 658380
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 1845905
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1548727
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1491506
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 658380
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1845905
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1309535@1548727",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1321086@1491506",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:446541@658380",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:705447@1845905",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "unfazedanomaly964",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        164821,
-        239420,
-        290640,
-        382152,
-        398847,
-        436219
+        658380,
+        1491506,
+        1548727,
+        1761560,
+        1845905
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "551|1748583256013",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=551%7C1748583256013"
+    "nextCursor": "552|1757852100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=552%7C1757852100000"
   }
 }
