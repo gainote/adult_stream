@@ -1,114 +1,66 @@
 {
   "items": [
     {
-      "id": 46938814,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/233da546-47ee-4b84-9ea9-bc1685614eb5/original=true/233da546-47ee-4b84-9ea9-bc1685614eb5.jpeg",
-      "hash": "UrIhQ*xv?bRP~WxutRs:-;RkR*Mxx]WCxaWB",
-      "width": 1280,
-      "height": 1856,
+      "id": 30538437,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82b01536-720c-41a4-baaa-50b3d6a84c3d/original=true/82b01536-720c-41a4-baaa-50b3d6a84c3d.jpeg",
+      "hash": "U7IgG;~B005R0~JT-AsAFdn4wcbvBT-p%M4:",
+      "width": 768,
+      "height": 1024,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-12-22T09:08:13.475Z",
-      "postId": 10609820,
+      "createdAt": "2025-01-24T12:45:11.050Z",
+      "postId": 6832524,
       "stats": {
-        "cryCount": 115,
-        "laughCount": 211,
-        "likeCount": 2140,
+        "cryCount": 130,
+        "laughCount": 218,
+        "likeCount": 2287,
         "dislikeCount": 0,
-        "heartCount": 1005,
-        "commentCount": 2
+        "heartCount": 836,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "seed": 500544739,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1047139",
-        "extra": {
-          "remixOfId": 46935214
+        "VAE": "sdxl_vae.safetensors",
+        "Size": "768x1024",
+        "seed": 1560484830,
+        "Model": "boleromix_Pony_V1.4",
+        "steps": 15,
+        "hashes": {
+          "vae": "735e4c3a44",
+          "model": "989a88b3c5",
+          "lora:liquid clothes_pony_V1.0": "50b723801686"
         },
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/JJFB0VH54AAKEXKRRH6PQ3XKS0",
-        "steps": 28,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:439889@1047139"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, source_explicit,,flat colors, flat illustration, lineart, highly detailed, ultra detailed,\nwoman, puffy thighs, small nose, makeup, nose blush, ginger hair with very long bangs,\nwearing open  black latex bodysuit with zipper, deep cleavage, black pants, black gloves with claws, black hairband latex black cat's ears,\nwhite simple background, \ncrotch view, low view, smile open mouth, legs spread, brown eyes,\nBelle, BelleXLP, makeup, long hair, cleavage, topknot, forehead",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 5,
+        "prompt": "score_9, score_8_up, score_7_up,source_anime, high res image,masterpiece,best quality,(girl:1.2),cute face,clear skin,shiny hair,ultra detailed eyes,simple background,  <lora:liquid clothes_pony_V1.0:0.8> liquid clothes,covered nipple,covered crotch,thighighs,red liquid",
+        "Version": "v1.7.0",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 2,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "safe_neg, score_5, score_4, score_3, muscular, fury, child, kid, easynegative, artifacts, monochrome, extra fingers, distorted, muscular, text, poorly drawn, low-quality, downsampling, low-quality, signature, blurry, aliasing, lowres, worst-quality, blur, watermark, 3D, bad, distortion,",
-        "civitaiResources": [
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1047139
+            "hash": "50b723801686",
+            "name": "liquid clothes_pony_V1.0",
+            "type": "lora"
           },
           {
-            "weight": 1,
-            "modelVersionId": 1047139
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 430511
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1047139
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 430511
+            "hash": "989a88b3c5",
+            "name": "boleromix_Pony_V1.4",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:43711@430511",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "989a88b3c5",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, pony, furry, censored,realistic",
+        "Denoising strength": "0.75"
       },
-      "username": "MatureOnly",
+      "username": "bolero537",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        164821,
-        430511,
-        1047139
+        513252
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "572|1737722711050",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=572%7C1737722711050"
+    "nextCursor": "573|1751503260000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=573%7C1751503260000"
   }
 }
