@@ -1,112 +1,71 @@
 {
   "items": [
     {
-      "id": 50983669,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09c05756-1131-4810-b626-84ecd6df1284/original=true/09c05756-1131-4810-b626-84ecd6df1284.jpeg",
-      "hash": "UBASuYI;0#-o0zWX=_NG58xFxFNG~An$9ut7",
+      "id": 99746544,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2a9f067-60a7-4e97-9eb4-2adcc89ddce4/original=true/e2a9f067-60a7-4e97-9eb4-2adcc89ddce4.jpeg",
+      "hash": "UKKm%^nh9aR;I]rXtQEex-xZ=|RS~Wo}xtRO",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-01-11T18:12:29.582Z",
-      "postId": 11468556,
+      "createdAt": "2025-09-12T14:58:44.728Z",
+      "postId": 22132228,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 174,
-        "likeCount": 2091,
+        "cryCount": 179,
+        "laughCount": 322,
+        "likeCount": 2038,
         "dislikeCount": 0,
-        "heartCount": 1159,
-        "commentCount": 3
+        "heartCount": 984,
+        "commentCount": 4
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 835286551,
+        "seed": 594027828,
         "draft": false,
-        "steps": 29,
+        "extra": {
+          "remixOfId": 94699250
+        },
+        "steps": 25,
         "width": 832,
         "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up) 1girl, 22 years old, sexy body, thick legs, squishy thighs, black slick hair, gamer chair, legs up, upskirt, no panties, kawaii costume, dark cozy room, gamer-girl room, blush,( beautiful face:1.1), shy, cute face, streamer, night, cutie, long legs, stockings,  s1_dram",
-        "sampler": "Euler a",
+        "prompt": "{{amazing quality, best quality, high quality, very aesthetic}}, bokeh, {{realistic}}, {1girl, female focus, solo focus}, {{rabbit girl, 18yo, (petite), anthro, female, furry, short hair, bob cut, blonde, (white fur), blue eyes, round face, big eyes, freckles, bratty face, cute, small breasts, furry girl, pink soccer uniform,},school bleachers, field, sunny day, looking at viewer, flirty, happy, thighs, butt, spreading ass, panties aside, anus,",
+        "process": "txt2img",
+        "sampler": "Euler",
         "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 1,
+        "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2025-01-11T1750:17.6570553Z",
-        "negativePrompt": "score_4, simple background, zombie, goth, vampire, undead, loli, bride, wedding, kid, toddler, dead, unreal, ugly, sketch, draft, crayon, blueprint, watercolor, fat, obese, bbw, milf, worst quality, low quality, futanari, score_5, score_6,",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-11T2003:06.6325959Z",
+        "experimental": false,
+        "negativePrompt": "{bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], @_@, {{{futanari}}}, pubic hairs, Ugly, unfocused, worst quality, low quality, {{{worst quality}}}, {{{bad quality}}}, censored, black bars, white bars, simple background, {{{ponytail}}}",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 380277,
-            "modelVersionName": "XXX Rating"
+            "modelVersionId": 1911770
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 486749,
-            "modelVersionName": "Detailed v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 761452,
-            "modelVersionName": "v2"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.85,
+            "modelVersionId": 1627481
           }
         ]
       },
-      "username": "PaintedFeelings",
-      "baseModel": "Pony",
+      "username": "bunsbunniesandbeyond",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        60938,
-        290640,
-        380277,
-        382152,
-        436219,
-        486749,
-        761452
+        1627481,
+        1911770
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "543|1757689124728",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=543%7C1757689124728"
+    "nextCursor": "544|1733422961560",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=544%7C1733422961560"
   }
 }
