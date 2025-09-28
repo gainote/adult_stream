@@ -1,79 +1,195 @@
 {
   "items": [
     {
-      "id": 25527722,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0bd92766-a228-4b5c-9146-63a1f254f6c0/original=true/0bd92766-a228-4b5c-9146-63a1f254f6c0.jpeg",
-      "hash": "UYP~ctNeys-p.8tR-=xtIoR+M|V@~psmRQax",
-      "width": 992,
-      "height": 1328,
-      "nsfwLevel": "X",
+      "id": 85650965,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ebbccc7-3218-4b8a-87d2-066bed438148/original=true/8ebbccc7-3218-4b8a-87d2-066bed438148.jpeg",
+      "hash": "UBD]k|$2LN4.IrDO~WIoyDgOx^x^TeibR,Mc",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-24T12:23:51.987Z",
-      "postId": 5706241,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-01T15:10:00.000Z",
+      "postId": 19009497,
       "stats": {
-        "cryCount": 160,
-        "laughCount": 239,
-        "likeCount": 2184,
+        "cryCount": 146,
+        "laughCount": 230,
+        "likeCount": 2084,
         "dislikeCount": 0,
-        "heartCount": 908,
+        "heartCount": 1026,
         "commentCount": 1
       },
       "meta": {
-        "": {},
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "992x1328",
-        "seed": 2499793573,
-        "Model": "boleromix_Pony_V1.4",
-        "steps": 20,
-        "hashes": {
-          "vae": "735e4c3a44",
-          "model": "989a88b3c5",
-          "lora:beeasts on face_pony_V1.0": "2b5a9fc71363"
-        },
-        "prompt": "score_9, score_8_up, score_7_up,source_anime, high res image,masterpiece,best quality,girl,cute face,clear skin,shiny hair,ultra detailed eyes,simple background <lora:beeasts on face_pony_V1.0:1> breasts on face, breasts, 1boy",
-        "Version": "v1.7.0",
-        "sampler": "DPM++ 2M Karras",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
+        "seed": 1100554635,
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:296576@333245"
+        ],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1412827@1643845",
+        "extra": {},
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1412827@1643845"
+        ],
+        "prompt": "1 girl, ginger hair\u2219bob cut hair\u2219blunt bangs,  freckles, long eyelashes, (thick lips, thick eyebrows:0.6), cute face, slender, breasts_apart, wide hips, slim thighs. one-messy bedroom, on back, from above\nrealistic skin with natural imperfections, high-resolution skin pores, realistic lighting reflections, ultra-detailed shading, 8k resolution, tan lines, (oiled skin:1.2)",
+        "denoise": 0.4,
+        "process": "img2img",
+        "sampler": "Euler",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/HEQDMT97WXHZ2CPMWWRXYGAX30.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "tan lines, sad, unhappy, child, loli",
+        "civitaiResources": [
           {
-            "hash": "2b5a9fc71363",
-            "name": "beeasts on face_pony_V1.0",
-            "type": "lora"
+            "weight": 1,
+            "modelVersionId": 1643845
           },
           {
-            "hash": "989a88b3c5",
-            "name": "boleromix_Pony_V1.4",
-            "type": "model"
+            "weight": 1.3,
+            "modelVersionId": 1288330
+          },
+          {
+            "weight": 3.1,
+            "modelVersionId": 1681921
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 1851961
+          },
+          {
+            "weight": 1.7,
+            "modelVersionId": 1854599
+          },
+          {
+            "weight": 2.7,
+            "modelVersionId": 1858609
+          },
+          {
+            "weight": 3.1,
+            "modelVersionId": 1926656
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1643845
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 333245
+          },
+          {
+            "type": "lora",
+            "weight": 1.3,
+            "modelVersionId": 1288330
+          },
+          {
+            "type": "lora",
+            "weight": 3.1,
+            "modelVersionId": 1681921
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 1851961
+          },
+          {
+            "type": "lora",
+            "weight": 1.7,
+            "modelVersionId": 1854599
+          },
+          {
+            "type": "lora",
+            "weight": 2.7,
+            "modelVersionId": 1858609
+          },
+          {
+            "type": "lora",
+            "weight": 3.1,
+            "modelVersionId": 1926656
           }
         ],
-        "Model hash": "989a88b3c5",
-        "Tile Overlap": "48",
-        "Upscale factor": "1.3",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, pony, furry, censored,realistic,3D",
-        "Keep input size": "true}",
-        "Tile batch size": "4",
-        "Tile tile width": "96",
-        "Tiled Diffusion": {},
-        "Tile tile height": "96",
-        "Denoising strength": "0.4",
-        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
-        "Tiled Diffusion scale factor": "1.3"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1143824@1288330",
+            "type": "lora",
+            "strength": 1.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1486921@1681921",
+            "type": "lora",
+            "strength": 3.1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1636137@1851961",
+            "type": "lora",
+            "strength": 0.75,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1638441@1854599",
+            "type": "lora",
+            "strength": 1.7,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:477074@1858609",
+            "type": "lora",
+            "strength": 2.7,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1702438@1926656",
+            "type": "lora",
+            "strength": 3.1,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "bolero537",
-      "baseModel": "Pony",
+      "username": "0dang",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        513252,
-        752926
+        164821,
+        333245,
+        1288330,
+        1643845,
+        1681921,
+        1851961,
+        1854599,
+        1858609,
+        1926656
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "562|1751382600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=562%7C1751382600000"
+    "nextCursor": "563|1731035191406",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=563%7C1731035191406"
   }
 }
