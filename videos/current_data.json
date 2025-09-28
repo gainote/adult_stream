@@ -1,96 +1,102 @@
 {
   "items": [
     {
-      "id": 84434865,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a43169dc-9422-481c-8a3d-a444a9cda9f9/original=true/a43169dc-9422-481c-8a3d-a444a9cda9f9.jpeg",
-      "hash": "UIL4d8XmTeVtyZt7%Mxu00V@D$kW-;WAV@M{",
-      "width": 2560,
-      "height": 3712,
+      "id": 97146177,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/487b35da-d7f4-4280-8bfc-c526dda7d140/original=true/487b35da-d7f4-4280-8bfc-c526dda7d140.jpeg",
+      "hash": "UDHxH3WB00~oO?^%V?9Z00D*.9E2009ux^?G",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-25T11:11:00.000Z",
-      "postId": 18742645,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-29T07:17:58.513Z",
+      "postId": 21549694,
       "stats": {
-        "cryCount": 154,
-        "laughCount": 300,
-        "likeCount": 2107,
+        "cryCount": 146,
+        "laughCount": 256,
+        "likeCount": 2120,
         "dislikeCount": 0,
-        "heartCount": 938,
-        "commentCount": 4
+        "heartCount": 975,
+        "commentCount": 2
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1162518@1331188",
-        "extra": {},
-        "steps": 29,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1162518@1331188"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), (dynamic:1), 1girl, gbf_style, (mature, adult:1), mermaid, pink hair, long hair, pink eyes, white pupils, exposed, naked, wide eyes, panic, (tangled in fishing net, lying in net:1.1), (ship:1.1), hanging from contraption, hanging in the air, hanging in net, dripping, wet, sea, ",
-        "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "modelIds": [],
-        "workflow": "img2img-facefix",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, (loli, child:1.2), ",
-        "civitaiResources": [
+        "Size": "832x1216",
+        "seed": 1791134401,
+        "draft": false,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, very aesthetic, (from above:1.8), (drunk:1.5), (asleep:1.6), (passed out:1.4), (desk:1.8), clean, (uniform),\na woman, cute perfect face, (blonde hair:1.6), French braid, (young), (blush:1.2), very pretty, (deep_skin:1.5), (businessman sex:1.7), (vaginal penetration:1.4), (round face:1.2), pretty, ((doggystyle)) thick lips, cum on face, cum in hair, cum on ass, cum on body, cum in pussy, cum on clothes, (waist grab), (running makeup), (sweat:1.2), (from behind:1.2), (pompom:1.1),\n<lora:skin3_na_alpha2.5_rank2_noxattn_600steps:5.0>   <lora:natural_breasts_v1:3> <lora:body_weight_slider_v1:-1.2> <lora:amateur_style_v1_pony:1> <lora:Dramatic Lighting Slider:1.4>",
+        "process": "txt2img",
+        "sampler": "DPM++ SDE",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1331188
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1032397
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 1880647
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1331188
-          },
-          {
+            "name": "skin3_na_alpha2.5_rank2_noxattn_600steps",
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1032397
+            "weight": 5
           },
           {
+            "name": "natural_breasts_v1",
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1880647
+            "weight": 3
+          },
+          {
+            "name": "amateur_style_v1_pony",
+            "type": "lora",
+            "weight": 1
           }
         ],
-        "additionalResources": [
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-27T1429:15.4415479Z",
+        "experimental": false,
+        "negativePrompt": "low quality, worst quality, blurry, (deformed:1.3), extra fingers, cartoon, 3d, anime, bad anatomy, plaid shirt, (freckles:1.5), (moles:1.5), extra hand, extra limb, leather, pleather",
+        "civitaiResources": [
           {
-            "name": "urn:air:sdxl:lora:civitai:478058@1032397",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
+            "type": "checkpoint",
+            "modelVersionId": 1643845
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1661570@1880647",
             "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "weight": 2,
+            "modelVersionId": 1242203
+          },
+          {
+            "type": "lora",
+            "weight": 3.05,
+            "modelVersionId": 1594293
+          },
+          {
+            "type": "lora",
+            "weight": -1.45,
+            "modelVersionId": 1726985
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1374748
           }
         ]
       },
-      "username": "Plantra",
+      "username": "solumbragt355",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1032397,
-        1331188,
-        1880647
+        1242203,
+        1374748,
+        1594293,
+        1643845,
+        1726985
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "559|1756451878513",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=559%7C1756451878513"
+    "nextCursor": "560|1755560100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=560%7C1755560100000"
   }
 }
