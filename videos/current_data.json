@@ -1,112 +1,89 @@
 {
   "items": [
     {
-      "id": 76352925,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/688ccc0c-5b34-4936-ae6b-2f900e31254e/original=true/688ccc0c-5b34-4936-ae6b-2f900e31254e.jpeg",
-      "hash": "UPF5:K?vysx]X3Vrskw]R4iwrpnh9GE3IpXT",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 87681130,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b3cfa6f-2f84-4552-a253-9b4d7b14fd77/original=true/9b3cfa6f-2f84-4552-a253-9b4d7b14fd77.jpeg",
+      "hash": "UiMjXRt7yDxu%hf6%2f6~qof-;f6E1kCV[of",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-17T12:55:17.374Z",
-      "postId": 16956749,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-11T21:39:05.056Z",
+      "postId": 19450339,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 279,
-        "likeCount": 2064,
+        "cryCount": 146,
+        "laughCount": 281,
+        "likeCount": 2015,
         "dislikeCount": 0,
-        "heartCount": 972,
-        "commentCount": 0
+        "heartCount": 1000,
+        "commentCount": 1
       },
       "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1634544142,
-        "draft": false,
-        "extra": {
-          "remixOfId": 75923318
+        "seed": 2565563836,
+        "Model": "prefect_illustrious_XL_2.fp16",
+        "steps": 30,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "9d73bac23a",
+          "lora:sora_nikke_ilxl_goofy": "36d3e460bc51"
         },
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece), 1girl, solo, curvy, large breasts, beautiful eyes, brown eyes, eyelashes, eyeshadow, large ass, thick thighs, wide hips, hourglass figure, plump, lusty, piercings, bikini, sideboob, underboob, choker, necklace, gorgeous face, thighs, tattoos, neck tattoos, shoulder tattoos, belly tattoos, seductive, skindentation, dynamic angle, closeup, outside, pool, swimming pool, smirk, smile, slutty, cocky, flirty, \nhands on breasts, squeezing breasts, hair up, \nClose up, from above,",
-        "sampler": "DDIM",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-05-13T0245:02.4180400Z",
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie, jeans, (car), (car interior), (transport), selfie,",
-        "civitaiResources": [
+        "prompt": "masterpiece,best quality,amazing quality, <lora:sora_nikke_ilxl_goofy:1> sora \\(nikke\\), sex toy, 1girl, underwear, twintails, vibrator under panties, huge breasts, black bra, smile, open clothes, jewelry, black panties, navel, open jacket, grin, vibrator under clothes, black hair, ear piercing, looking at viewer, thigh strap, ass visible through thighs, dildo, white background, opened by self, cleavage, pussy juice, blush, simple background, earrings, black choker, ring, skindentation, stomach, blunt bangs, barbell piercing, lace-trimmed bra, collar, long hair, red eyes, vibrator cord, standing, animal penis, remote control vibrator, collarbone, lingerie, too many, condom, teeth, symbol-shaped pupils, egg vibrator, cowboy shot, lace trim, lace panties, vaginal",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1764228,
-            "modelVersionName": "b 1.0"
+            "hash": "36d3e460bc51",
+            "name": "sora_nikke_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 534756,
-            "modelVersionName": "Rough (V1)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 556208,
-            "modelVersionName": "Insta Baddie[PONY]"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 596040,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 1.65,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 1500353,
-            "modelVersionName": "v1.1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 1142665,
-            "modelVersionName": "V1"
+            "hash": "9d73bac23a",
+            "name": "prefect_illustrious_XL_2.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "9d73bac23a",
+        "Detail Daemon": {
+          "ed": "0.8",
+          "st": "0.2",
+          "exp": "1",
+          "bias": "0.5",
+          "fade": "0",
+          "mode": "uncond",
+          "amount": "0.19",
+          "smooth": "1",
+          "ed_offset": "0",
+          "st_offset": "0"
+        },
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.21",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Wadufuk1",
-      "baseModel": "Pony",
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        382152,
-        534756,
-        556208,
-        596040,
-        1142665,
-        1242203,
-        1500353,
-        1764228
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "589|1752269945056",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=589%7C1752269945056"
+    "nextCursor": "590|1753323167198",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=590%7C1753323167198"
   }
 }
