@@ -1,67 +1,37 @@
 {
   "items": [
     {
-      "id": 15821676,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d5c46f90-13e6-406f-8bd2-e2794f08f9fb/original=true/d5c46f90-13e6-406f-8bd2-e2794f08f9fb.jpeg",
-      "hash": "U9J%tY00G[El03IA%Lkr0hE1w|x]w@~pv#rX",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 80283769,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4893875f-5098-49fe-b551-99d0fe4d11ea/original=true/4893875f-5098-49fe-b551-99d0fe4d11ea.jpeg",
+      "hash": "UDIDn7%#ACDP7bt8xY5Q9[%g^*IU~X%MSLR5",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-06-15T00:44:07.840Z",
-      "postId": 3530805,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-04T01:29:18.876Z",
+      "postId": 17831500,
       "stats": {
-        "cryCount": 89,
-        "laughCount": 171,
-        "likeCount": 1891,
+        "cryCount": 145,
+        "laughCount": 296,
+        "likeCount": 2162,
         "dislikeCount": 0,
-        "heartCount": 1333,
-        "commentCount": 2
+        "heartCount": 879,
+        "commentCount": 0
       },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 417196894,
-        "steps": 35,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, ariel, nude, side portrait, looking at viewer, legs spread, medium breasts, perfect breasts, small pink nipples, hips, (thin:1.3), flat tummy, on bed, on back, on elbows, hips, feet, side view, head tilted back, back arched, both knees up, legs spread, outstretched, (young:1.2), smile",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-06-15T0041:31.0712133Z",
-        "negativePrompt": "score_5, score_4, 3d, simple background, zPDXL2, pointy chin, flat chested, cross eyed",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 531417,
-            "modelVersionName": "pony-no-score_v4.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 509253,
-            "modelVersionName": "High Quality V2"
-          }
-        ]
-      },
-      "username": null,
-      "baseModel": "Pony",
+      "meta": null,
+      "username": "lbccdl",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        436219,
-        509253,
-        531417
+        135867,
+        1761560,
+        1828665
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "565|1749000558876",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=565%7C1749000558876"
+    "nextCursor": "566|1727293722618",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=566%7C1727293722618"
   }
 }
