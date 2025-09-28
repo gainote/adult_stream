@@ -1,74 +1,197 @@
 {
   "items": [
     {
-      "id": 16415185,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/192a7376-6b22-42a3-abd6-4f0e12852c35/original=true/192a7376-6b22-42a3-abd6-4f0e12852c35.jpeg",
-      "hash": "U7KTrhxF0RWALNS49[W.00V@8wMx%~V@xvRj",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 76361820,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/598ddd86-7f68-4c54-9533-927f2d8a6b27/original=true/598ddd86-7f68-4c54-9533-927f2d8a6b27.jpeg",
+      "hash": "UBDkoN~A-o$%9uNHWB={0gNG%1xu~A%1RlE2",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-20T00:36:53.754Z",
-      "postId": 3678876,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-17T20:53:25.292Z",
+      "postId": 16958909,
       "stats": {
-        "cryCount": 84,
-        "laughCount": 243,
-        "likeCount": 1910,
+        "cryCount": 135,
+        "laughCount": 248,
+        "likeCount": 2034,
         "dislikeCount": 0,
-        "heartCount": 1198,
+        "heartCount": 1015,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 123499720,
-        "steps": 35,
-        "prompt": "score_9,score_8_up,score_7_up,score_6_up, 1girl, on bed, medium breasts, elsa frozen, long braid over shoulder, platinum blonde, tiny waist, exposed breasts, close up, head on pillow, pov, pussy, wet spot, Ice blue panties, grool, (pov hands removing panties, /male hands removing panties/), petite,",
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:581286@648388"
+        ],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1125067@1748912",
+        "extra": {},
+        "steps": 15,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1125067@1748912"
+        ],
+        "prompt": "1girl, (ACOIsidora), (solo:1.5), (alone:1.5), (egyptian:1.3), (pharaoh_princess:1.3), black_hair, sleek_hair, short_hair, blunt_bangs, (yellow_eyes:1.1), (mature_female:1.2), (milf:1.2), (buxom:1.2), (plump:1.2), (beautiful:1.3), (sexy:1.3); (soft_saggy_breasts:1.2), gorgeous_cleavage, toned_legs, toned_butt, wide_hips, narrow_waist, (hourglass_figure:1.2); jewelry, golden_feathers, crown, egyptian_attire, (golden_clothes:1.2), (ornamented_clothes:1.2), (egyptian_ornament:1.2), (red_trim:1.2), (black_trim:1.2), pharaoh_attire; dominant, (smug_expression:1.1), (seductive_smile:1.1), (sultry_gaze:1.1), (looking_at_viewer:1.5).\nIndoors, egyptian_palace_interior, golden_furniture, dim_lighting, natural_lighting.\n(From_side:1.5), (profile_portrait:1.3), (close_shot:1.2), (dynamic_pose:1.5), (undressing:1.1), (ajusting_clothes:1.1), (bare_shoulders:1.3), (leaning_back:1.5), (lying_on_side:1.3), (armrest:1.2), (playful_pose:1.3), (seductive_pose:1.3), (focus_on_upper_body:1.5).",
         "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-06-20T0020:52.8219539Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face,  zPDXL2",
+        "cfgScale": 4,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "looking_up, (lazyneg), worst_quality, bad_quality, poorly_detailed, (extra_fingers, malformed_hands, missing_fingers, bad_hands)",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1748912
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1748912
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1470451
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1591915
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 1525879
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1506333
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1667494
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1491506
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1622975
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1736373
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 648388
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 534642,
-            "modelVersionName": "v2.1 Main + VAE"
+            "modelVersionId": 1748912
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 466475,
-            "modelVersionName": "For Pony v0.2"
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 509253,
-            "modelVersionName": "High Quality V2"
+            "type": "vae",
+            "modelVersionId": 648388
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 522995,
-            "modelVersionName": "Pony"
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1525879
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1506333
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1491506
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1622975
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1736373
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1350877@1525879",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:411088@1506333",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1321086@1491506",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1435787@1622975",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1231943@1736373",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "screwball808",
-      "baseModel": "Pony",
+      "username": "aimirk38",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        466475,
-        509253,
-        522995,
-        534642
+        164821,
+        382152,
+        648388,
+        1470451,
+        1491506,
+        1506333,
+        1525879,
+        1591915,
+        1622975,
+        1667494,
+        1736373,
+        1748912
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "592|1747515205292",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=592%7C1747515205292"
+    "nextCursor": "593|1732606924932",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=593%7C1732606924932"
   }
 }
