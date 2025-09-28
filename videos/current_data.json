@@ -1,108 +1,40 @@
 {
   "items": [
     {
-      "id": 51343451,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4632650-1a19-4c6b-92ae-11d64f63ef01/original=true/a4632650-1a19-4c6b-92ae-11d64f63ef01.jpeg",
-      "hash": "UBGH6==F1dRj3?NGShM{PpJ8aeRjO[%2#lwI",
-      "width": 2496,
-      "height": 3648,
+      "id": 62772797,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ff04fe3-fd19-4bab-862b-127e3857be91/original=true/2ff04fe3-fd19-4bab-862b-127e3857be91.jpeg",
+      "hash": "UGIgr;NaTd~BE0NHIoxu0#xt^jRP9_R%Nyt7",
+      "width": 1536,
+      "height": 3072,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-13T11:01:10.842Z",
-      "postId": 11548599,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-25T19:54:51.800Z",
+      "postId": 14011945,
       "stats": {
-        "cryCount": 115,
-        "laughCount": 202,
-        "likeCount": 2125,
+        "cryCount": 138,
+        "laughCount": 221,
+        "likeCount": 2140,
         "dislikeCount": 0,
-        "heartCount": 1099,
-        "commentCount": 0
+        "heartCount": 1041,
+        "commentCount": 1
       },
       "meta": {
-        "nsfw": true,
-        "seed": 895585449,
-        "vaes": [],
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/MY0FEYZWFE4DTKD711Y5SCEYF0.jpeg",
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "safe_pos, masterpiece, ultra-realistic, 32k, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, BREAK, ((3girls)), green eyes, brown eyes, blue eyes, blonde, ((younger faces)), supermodel beauty, 3different faces, brunette, black hair, redhead, short hair, bangs, long hair, braids, twintails, perfect body, blush, large perky breasts, pose, caucasian, moaning, (wet body, sweat, wet, perfect ratio proportioned face, petite body, perfect waist to hip ratio, flat stomach, perfect female body, glossy skin, glossy body, soapy skin, wet body, deep skin), BREAK pose, wet, laying on side, sexy, pose, 1 boy, 1large thick dick, male pov, looking at viewer, deepthroat fellatio, gagging on dick, grab breast, 2girls licking penis shaft, ((cock worship)), fancy walk-in shower background, sex in the large shower, blue tile in large shower, well lit, perfect hands, ",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 1,
-        "workflow": "img2img-upscale",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "upscaleWidth": 2496,
-        "upscaleHeight": 3648,
-        "negativePrompt": "safe_neg, core_6, score_5, score_4, worst quality, nipple piercing, extra nipple, weirdly placed nipple, multi colored hair, african americans, extra penis, extra penis tip, anime style, twins triplets, low quality, too many fingers on hand, not enough fingers on hand, text, censored, extra hands, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, abnormal scrotum, ",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 1.45,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.35,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 436219
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
+        "seed": 259398851,
+        "steps": 30,
+        "prompt": "hyperrealistic, highest quality, masterpiece, eyeliner, looking at the viewer, late evening, sexy face, rsgrl, russian girl, pretty russian girl, tight school uniform, micro skirt pulled up, no underwear, small natural breasts, protruding nipples, thin, hip bones, rib cage, very slim, freckles, petite, gorgeous, stunning, perfect anatomy, bedroom, party light, toned, (young woman: 2), (selfie:1. 4), bottom, young, nipples,\nBREAK,\nLola girl, (innocent look), ponytail, (red tie:0.5), very horny girl, dramatic eye makeup, incredibly beautiful, narrow nose, taut, highly detailed face, highest quality, highly detailed skin, goosebumps, freckles, huge amount of freckles and moles all over her body, (small breasts:1. 3), perfect sexy round small breasts, (erect nipples:1. 5), (mussed colored hair:1. 3), (light black bicolored hair), (black-blond mussed hair:1. 5), long black-blond mussed hair, (bangs), (long straight hair), blue eyes, (perfect eyes), detailed eyes, detailed pupils, detailed pupils, detailed pupils, shy smile, pussy focus, showing pierced pussy to viewer,  (((beauty)))), sharp focus, 8k resolution, Brutal bloody violent rough forced vaginal-anal sexual intercourse, pov",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, worst aesthetic, jpeg artifacts, scan artifacts, compression artifacts, old, early, loli, child, bokeh, distorted anatomy, bad proportions, missing body part, missing limb, unclear eyes, bad hands, mutated hands, fused fingers, fewer digits, extra digits, extra arms, missing arm, missing leg, ai-generated, open mouth\n"
       },
-      "username": "holybratwurst",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        290640,
-        382152,
-        398847,
-        436219,
-        9208,
-        164821,
-        244808
-      ]
+      "username": "METAFILM_Ai",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "533|1745610891800",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=533%7C1745610891800"
+    "nextCursor": "534|1746790163538",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=534%7C1746790163538"
   }
 }
