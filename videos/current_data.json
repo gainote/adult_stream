@@ -1,77 +1,105 @@
 {
   "items": [
     {
-      "id": 89821025,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bb6511ac-949e-440b-80fe-f08fbfdbfb67/original=true/bb6511ac-949e-440b-80fe-f08fbfdbfb67.jpeg",
-      "hash": "UNHnKfyD_N=|S%tS9ukWBWxvxFI=pdtR-oNH",
-      "width": 832,
-      "height": 1216,
+      "id": 54090274,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0e8506dd-653f-4eb7-879d-ba54c1a28c93/original=true/0e8506dd-653f-4eb7-879d-ba54c1a28c93.jpeg",
+      "hash": "UCEL.~%3BC_N%dwts7In4mWAnNMx-.o#n$%1",
+      "width": 1664,
+      "height": 2432,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-04T00:23:00.000Z",
-      "postId": 19923235,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-27T05:10:00.000Z",
+      "postId": 12135842,
       "stats": {
-        "cryCount": 165,
-        "laughCount": 258,
-        "likeCount": 2106,
+        "cryCount": 93,
+        "laughCount": 205,
+        "likeCount": 2159,
         "dislikeCount": 0,
-        "heartCount": 947,
-        "commentCount": 0
+        "heartCount": 1016,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2059622908,
-        "draft": false,
-        "steps": 19,
+        "nsfw": true,
+        "seed": 606589810,
+        "vaes": [],
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/E33CWZ1TVB6F49TE24XS69N300.jpeg",
+        "steps": 48,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, very horny look, caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, smaller natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "models": [],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, (age up:1.0) BREAK \n1girl , (blonde hair, messy bun, wispy bangs), (medium saggy breasts), freckles, cute face, [wrinkles, dimples],(realistic skin:1.3)\u2219(detailed skin:1.3)\u2219(skin texture:1.3)\u2219(perfect skin:1.3).\nleaning back,  in water ,in hotspring, rocks,naked, reflection in water.\n(looking at viewer), [coy smile].\n portrait , breast focus, side view, (closeup:1.2), dappled lighting. (bokeh, shallow depth of field).\n(cinematic lighting:1.3), (chromatic aberration), (4K image quality:1.3), (sharp detail:1.3), (highly realistic:1.3), (dim warm cinematic lighting:1.3)",
+        "sampler": "Euler a",
+        "cfgScale": 6.5,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-22T1608:03.7328617Z",
-        "experimental": false,
-        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
+        "modelIds": [],
+        "quantity": 1,
+        "workflow": "img2img-upscale",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "upscaleWidth": 1664,
+        "upscaleHeight": 2432,
+        "negativePrompt": "safe_neg, safe_neg, score_5, score_4, low quality, anime,monochrome, deformed, bad lips, bad mouth, pants, bald woman, bald girl, bald woman, bad anatomy, worst face, bad eyes, bad nose, duplicate, twins, mixed style, teeth worst quality, low quality, bad anatomy undetailed CGI render anti airbrushing undetailed eyes and thin and sketch and unclear, duplicate watermark, 3d, Two heads, doll, extra nipples, bad anatomy, blurry, duplicate, fuzzy, extra arms, extra fingers, poorly drawn hands disfigured, deformed, mutated, bad hands, extra hands, extra fingers, too many fingers, fused fingers, bad arm, distorted arms, extra arms, disembodied leg, extra nipples, detached arms, inverted hand, disembodied limb, oversized head, duplicate, ugly, tanlines, rays",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
+            "weight": 1,
+            "modelVersionId": 1308507
           },
           {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052,
-            "modelVersionName": "Illustrious"
+            "weight": 1,
+            "modelVersionId": 1308507
           },
           {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874,
-            "modelVersionName": "[illustrious]"
+            "weight": 0.95,
+            "modelVersionId": 1260971
+          },
+          {
+            "weight": 2.7,
+            "modelVersionId": 1253021
+          },
+          {
+            "weight": 1.55,
+            "modelVersionId": 1242203
+          },
+          {
+            "weight": -0.5,
+            "modelVersionId": 1277544
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "bm609",
-      "baseModel": "Illustrious",
+      "username": "0dang",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1189052,
-        1416874,
-        1490781
+        164821,
+        1242203,
+        1253021,
+        1260971,
+        1277544,
+        1308507
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "570|1737954600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=570%7C1737954600000"
+    "nextCursor": "571|1734858493475",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=571%7C1734858493475"
   }
 }
