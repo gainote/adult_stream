@@ -1,110 +1,54 @@
 {
   "items": [
     {
-      "id": 83577066,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/67a58430-dea3-4558-9844-ab6e73753535/original=true/67a58430-dea3-4558-9844-ab6e73753535.jpeg",
-      "hash": "UEHnQjxZAIDj0zM{E2E201krn4~V%Mxaxaxt",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 85332033,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2cf3b9b7-fbf7-4724-9cb3-10d632ab8770/original=true/2cf3b9b7-fbf7-4724-9cb3-10d632ab8770.jpeg",
+      "hash": "U9KdSf~p5Q-;%gIVRj00lURO00.7x^of?HjF",
+      "width": 1536,
+      "height": 2304,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-21T05:44:00.000Z",
-      "postId": 18561150,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-29T23:30:00.000Z",
+      "postId": 18939299,
       "stats": {
-        "cryCount": 106,
-        "laughCount": 240,
-        "likeCount": 2105,
+        "cryCount": 122,
+        "laughCount": 241,
+        "likeCount": 2132,
         "dislikeCount": 0,
-        "heartCount": 1068,
-        "commentCount": 0
+        "heartCount": 1019,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1651503277,
-        "Model": "Untitled_Pony_Realism_klaabu_v1.0b",
+        "seed": 384149345560850,
+        "Model": "unknown_model",
         "steps": 30,
         "hashes": {
-          "model": "7ca2362e99",
-          "lora:RealSkin_xxXL_v1": "d67c6e09dbf9",
-          "lora:puffytits_ILXL_v1": "40d57493f3b4",
-          "lora:ILXL_Realism_Slider_V.1": "220b18b3587b",
-          "lora:Penis_Size_Slider_ILXL_v1": "e02e158cc255",
-          "lora:polaroid_alpha2.5_rank2_noxattn_200steps": "02497e0e0f19",
-          "lora:arousedXL2_alpha2.5_rank2_noxattn_300steps": "7fa86feb06a7",
-          "lora:better_details_alpha2.5_rank2_noxattn_350steps": "368df4b4d12f"
+          "model": "unknown_hash"
         },
-        "prompt": "Masterpiece, best quality, amazing quality, cute face, on couch, beautiful face, slender,moaning, cowgirl position, hairy pussy, view side, ass focus, nude, realistic skin,, highly detailed skin, blonde hair, girly, \n<lora:puffytits_ILXL_v1:1.75>\n<lora:Penis_Size_Slider_ILXL_v1:-2.5>\n<lora:ILXL_Realism_Slider_V.1:1.8>\n<lora:RealSkin_xxXL_v1:1.2>\n",
-        "Version": "v1.10.0",
-        "sampler": "DPM++ SDE",
-        "cfgScale": 4.5,
+        "prompt": "The image is a close-up of a woman's lower body, showcasing her thighs and buttocks. She is wearing sheer white pantyhose with a repeating pattern of cute white cats. The cats have pink noses and are spaced evenly across the pantyhose. She is also wearing a white shirt, which is slightly cropped, and a pair of white string panties. Her navel is covered by the shirt. The focus is on her legs and the cat print pantyhose. masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "Euler a",
+        "cfgScale": 6,
         "resources": [
           {
-            "hash": "40d57493f3b4",
-            "name": "puffytits_ILXL_v1",
-            "type": "lora",
-            "weight": 1.75
-          },
-          {
-            "hash": "02497e0e0f19",
-            "name": "polaroid_alpha2.5_rank2_noxattn_200steps",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "220b18b3587b",
-            "name": "ILXL_Realism_Slider_V.1",
-            "type": "lora",
-            "weight": 1.8
-          },
-          {
-            "hash": "d67c6e09dbf9",
-            "name": "RealSkin_xxXL_v1",
-            "type": "lora",
-            "weight": 1.2
-          },
-          {
-            "hash": "368df4b4d12f",
-            "name": "better_details_alpha2.5_rank2_noxattn_350steps",
-            "type": "lora",
-            "weight": 4
-          },
-          {
-            "hash": "7fa86feb06a7",
-            "name": "arousedXL2_alpha2.5_rank2_noxattn_300steps",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "e02e158cc255",
-            "name": "Penis_Size_Slider_ILXL_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "7ca2362e99",
-            "name": "Untitled_Pony_Realism_klaabu_v1.0b",
+            "hash": "unknown_hash",
+            "name": "unknown_model",
             "type": "model"
           }
         ],
-        "Model hash": "7ca2362e99",
-        "Schedule type": "Karras",
-        "negativePrompt": "Bad quality,low quality,reverse cowgirl, reverse cowgirl position, pov, doggystyle, photo \\(object\\), picture frame, skin blemishes, freckles, freckles on body,"
+        "Model hash": "unknown_hash",
+        "Schedule type": "",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "klaabu",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        1594293,
-        1681903,
-        1681921,
-        1726904,
-        1764228,
-        1855761
-      ]
+      "username": "phinjo",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "549|1751239800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=549%7C1751239800000"
+    "nextCursor": "550|1734356976095",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=550%7C1734356976095"
   }
 }
