@@ -1,90 +1,166 @@
 {
   "items": [
     {
-      "id": 61291176,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5162e6ff-b54d-49ac-a979-301033886ce1/original=true/5162e6ff-b54d-49ac-a979-301033886ce1.jpeg",
-      "hash": "USH-Mo~V00DitRt7slw]E2Rjs:bvWAWBR,R-",
-      "width": 1344,
-      "height": 2240,
+      "id": 93301731,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9cf4fe2b-1bbe-4c3e-a925-24e5df1d2c0c/original=true/9cf4fe2b-1bbe-4c3e-a925-24e5df1d2c0c.jpeg",
+      "hash": "U5G@+40#0x}ZuNtn-nM]BX^,H@4,9+E1P4-V",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-03-04T01:05:00.000Z",
-      "postId": 13704541,
+      "createdAt": "2025-08-10T04:20:00.000Z",
+      "postId": 20701199,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 232,
-        "likeCount": 2093,
+        "cryCount": 141,
+        "laughCount": 222,
+        "likeCount": 2092,
         "dislikeCount": 0,
-        "heartCount": 999,
+        "heartCount": 996,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 1121190725922030,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//www.deviantart.com/marlandco",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, (ganyu \\(genshin impact\\), small breasts, completely nude, standing, (reaching for book:1.2), (arms up:0.9), on tiptoes, looking at viewer, soft smile, from side, indoors, (ancient library:1.2), high bookshelves, (soft lantern glow:0.95), wooden floor, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "steps": 38,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up,juri han (street fighter),mature,milf, jurims , sfvialt , multicolored hair, hair horns, hoodie, open hoodie, pajama, navel, black lingerie, bangs,curvascious body, sexy body,hotel bedroom,at night,city lights view from windows,seductive pose,Expressiveh,at night,dim light,sexy selfie,lewd selfie,Asselfie, lying, thong, cellphone,sexy pose,dim light,ass up\n\n\n\n\n\n\n\n\n\n",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 6.5,
         "clipSkip": 2,
-        "resources": [
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 2,
+        "workflow": "txt2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, pony,poor quality,low quality,low resolution, censored, 3d, kid, child, loli, polydactyl, deformed, ugly, contorted, misshapen, injured, derpibooru_p_low, deformed, ugly, bad anatomy, bad proportions, bad eyes, deformed eyes, fused breasts, fusion, fused arms, fused legs, extra leg, missing limb, missing arm, extra colour swap, wrong colour, wings, black and white images, greyscale images, unaestheticXL2v10, 3d render, deformed feet, extra toes, deformed toes, deformed belly button, watermark, logo, signature, easynegative, nude",
+        "civitaiResources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
+            "weight": 0.6,
+            "modelVersionId": 382152
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
-            "type": "lora",
-            "weight": 0.6
+            "weight": 1,
+            "modelVersionId": 9208
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
+            "weight": 0.3,
+            "modelVersionId": 436219
           },
           {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
+            "weight": 0.8,
+            "modelVersionId": 397665
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 590304
+          },
+          {
+            "weight": 0.2,
+            "modelVersionId": 1122823
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 397665
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 590304
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 1122823
           }
         ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry,"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:355685@397665",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:531195@590304",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:915918@1122823",
+            "type": "lora",
+            "strength": 0.2,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "Roaume",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        567119,
-        1050644,
-        1284348,
-        1345990,
-        1410435
+        9208,
+        164821,
+        290640,
+        382152,
+        397665,
+        436219,
+        590304,
+        1122823
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "583|1754799600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=583%7C1754799600000"
+    "nextCursor": "584|1740121500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=584%7C1740121500000"
   }
 }
