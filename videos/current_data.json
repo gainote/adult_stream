@@ -1,134 +1,194 @@
 {
   "items": [
     {
-      "id": 75761535,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07353bc1-9a81-40ac-98d6-cc59d75a0853/original=true/07353bc1-9a81-40ac-98d6-cc59d75a0853.jpeg",
-      "hash": "UJM6bj~q10g59ux]T1Xn0f%NogRlxvxvbID*",
-      "width": 832,
-      "height": 1216,
+      "id": 93286498,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a8f86633-1956-4bf6-924b-265e1092141b/original=true/a8f86633-1956-4bf6-924b-265e1092141b.jpeg",
+      "hash": "U4CPL+5R00^+9Z01s.^+00~COs4.01~V~BD%",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-05-12T05:30:00.000Z",
-      "postId": 16822567,
+      "createdAt": "2025-08-10T02:03:00.000Z",
+      "postId": 20697872,
       "stats": {
-        "cryCount": 121,
-        "laughCount": 243,
-        "likeCount": 2146,
+        "cryCount": 148,
+        "laughCount": 198,
+        "likeCount": 2208,
         "dislikeCount": 0,
-        "heartCount": 1017,
-        "commentCount": 1
+        "heartCount": 972,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 800586449,
-        "draft": false,
-        "steps": 30,
+        "seed": 202482958,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 40,
         "width": 832,
         "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3), <lora:Fionil_Dungeon_Meshi_IL_V1:1>, KJOfionil, blonde hair, light blue eyes, hair between eyes, pointy ears, long hair, big breasts, fair skin, sky, 1girl, loving smile, curtains, thighhighs, 1girl, underwear, panties, solo, stocking grab, side-tie panties, blonde hair, striped, canopy bed, window, blue eyes, long hair, bed, striped panties, sitting, white legwear, braid, heart, pillow, pink thong, hair ornament, transparent, leg up, pulling stocking, thighhighs pull at ankle, adjusting legwear, <lora:ThighhighsPullAnkleV10IllustriousXL:1>\n relaxed but provocative, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle from behind:1.5)), from below, ((focus on feet and pantie:1.5)), blurry background, bright colors, stunningly artwork",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "Fionil_Dungeon_Meshi_IL_V1",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "name": "ThighhighsPullAnkleV10IllustriousXL",
-            "type": "lora",
-            "weight": 1
-          }
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
         ],
-        "Created Date": "2025-05-12T0417:30.8999893Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature",
+        "prompt": "(masterpiece, best quality, amazing quality, very aesthetic, highres, highly detailed:1.1), (realistic, photorealistic:1.1), moto-retcom, (dark theme, rim light, cinematic lighting, dramatic lighting:1.1), masterpiece, best quality, ultra-detailed, highres, beautiful detailed eyes, (EyesHD:1.2), (4k,8k,Ultra HD), \nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1),yonaga_artstyle, cinematic, epic, ultra-detailed-eyes, detailed background,cute girl, eyelashes, beautiful eyes, big eyes, detailed eyes, detailed pupils, perfect body, mysterious, vivid color, mature woman,\nBREAK\nAka-Oni, oni, colored skin, red skin, smooth horns, straight horns, black horns, pointy ears, \nBREAK\nlong hair, uncensord, blood soaked, giant sword, holding sword, planted sword, battlefield background, corpse, skull, blood, \nBREAK\nlooking at viewer, long sleeves, gloves, closed mouth, sitting, boots, white gloves, cape, armor, fur trim, expressionless, chair, gem, cloak,  beads, red cape, armored boots, greaves, throne, red cloak,\nblack sclera, calm expression, devil smile, \n(very long eyelashes:1.2),  horror style, goth style, deep colors, from side, spread legs,\nBREAK\ndeep gaze, intense gaze, glossy lips, mesmerizing eyes,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 4,
+        "workflow": "txt2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "(worst quality, low quality, lowres:1.1), watermark, text, artist name, signature, overexposed, shiny skin, neon, reflection, (thick lips:0.7), freckles, censorship, frog",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1412789,
-            "modelVersionName": "v2.90"
-          },
-          {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1752272,
-            "modelVersionName": "V1"
+            "modelVersionId": 1240288
           },
           {
-            "type": "embed",
             "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 145907
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
+            "weight": 0.3,
+            "modelVersionId": 1147221
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 91028,
-            "modelVersionName": "aid291"
+            "weight": 0.45,
+            "modelVersionId": 1552087
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 211788,
-            "modelVersionName": "v1"
-          },
-          {
-            "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "modelVersionId": 1888209
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 2004152
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 2007081
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 2047981
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 145907
           },
           {
             "type": "lora",
             "weight": 0.3,
-            "modelVersionId": 1193082,
-            "modelVersionName": "Illustrious"
+            "modelVersionId": 1147221
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1387520,
-            "modelVersionName": "v1.0"
+            "weight": 0.45,
+            "modelVersionId": 1552087
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1888209
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.5,
+            "modelVersionId": 2004152
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 2007081
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 2047981
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:120723@145907",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:987736@1147221",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:176554@1552087",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:556479@1888209",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lycoris:civitai:846953@2004152",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1400090@2007081",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1809693@2047981",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Chimi83",
+      "username": "Moonbear_AIArt",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        60938,
-        91028,
-        135867,
-        211788,
-        244808,
-        1193082,
-        1387520,
-        1412789,
-        1752272
+        145907,
+        164821,
+        1147221,
+        1240288,
+        1552087,
+        1888209,
+        2004152,
+        2007081,
+        2047981
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "541|1754791380000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=541%7C1754791380000"
+    "nextCursor": "542|1736619149582",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=542%7C1736619149582"
   }
 }
