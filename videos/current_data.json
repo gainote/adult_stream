@@ -1,79 +1,112 @@
 {
   "items": [
     {
-      "id": 91804216,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/54dc346c-fb5b-4ab6-bc2c-0f2ee712df75/original=true/54dc346c-fb5b-4ab6-bc2c-0f2ee712df75.jpeg",
-      "hash": "UAG84W^+cEJUy?s:tlW=Tes9Ipnix]WW$MNH",
-      "width": 1024,
-      "height": 1024,
-      "nsfwLevel": "X",
+      "id": 76352925,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/688ccc0c-5b34-4936-ae6b-2f900e31254e/original=true/688ccc0c-5b34-4936-ae6b-2f900e31254e.jpeg",
+      "hash": "UPF5:K?vysx]X3Vrskw]R4iwrpnh9GE3IpXT",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T19:52:34.599Z",
-      "postId": 20367340,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-17T12:55:17.374Z",
+      "postId": 16956749,
       "stats": {
-        "cryCount": 221,
-        "laughCount": 340,
-        "likeCount": 2075,
+        "cryCount": 129,
+        "laughCount": 279,
+        "likeCount": 2064,
         "dislikeCount": 0,
-        "heartCount": 808,
-        "commentCount": 1
+        "heartCount": 972,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "1024x1024",
-        "seed": 629090905,
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1634544142,
         "draft": false,
         "extra": {
-          "remixOfId": 91790503
+          "remixOfId": 75923318
         },
         "steps": 40,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two busty cute 18yo girls  edging, giving a blowjob",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece), 1girl, solo, curvy, large breasts, beautiful eyes, brown eyes, eyelashes, eyeshadow, large ass, thick thighs, wide hips, hourglass figure, plump, lusty, piercings, bikini, sideboob, underboob, choker, necklace, gorgeous face, thighs, tattoos, neck tattoos, shoulder tattoos, belly tattoos, seductive, skindentation, dynamic angle, closeup, outside, pool, swimming pool, smirk, smile, slutty, cocky, flirty, \nhands on breasts, squeezing breasts, hair up, \nClose up, from above,",
+        "sampler": "DDIM",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 3,
+        "quantity": 2,
         "workflow": "txt2img",
         "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-08-01T1908:39.7384055Z",
-        "experimental": false,
-        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
+        "Created Date": "2025-05-13T0245:02.4180400Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie, jeans, (car), (car interior), (transport), selfie,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1988773,
-            "modelVersionName": "SDXL Pony 18"
+            "modelVersionId": 1764228,
+            "modelVersionName": "b 1.0"
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 714649,
+            "modelVersionId": 556208,
+            "modelVersionName": "Insta Baddie[PONY]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 1.65,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 1500353,
+            "modelVersionName": "v1.1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 1142665,
             "modelVersionName": "V1"
           }
         ]
       },
-      "username": "brahej",
+      "username": "Wadufuk1",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        714649,
-        1988773
+        382152,
+        534756,
+        556208,
+        596040,
+        1142665,
+        1242203,
+        1500353,
+        1764228
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "588|1747486517374",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=588%7C1747486517374"
+    "nextCursor": "589|1752269945056",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=589%7C1752269945056"
   }
 }
