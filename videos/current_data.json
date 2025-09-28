@@ -1,105 +1,114 @@
 {
   "items": [
     {
-      "id": 54090274,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0e8506dd-653f-4eb7-879d-ba54c1a28c93/original=true/0e8506dd-653f-4eb7-879d-ba54c1a28c93.jpeg",
-      "hash": "UCEL.~%3BC_N%dwts7In4mWAnNMx-.o#n$%1",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "X",
+      "id": 46938814,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/233da546-47ee-4b84-9ea9-bc1685614eb5/original=true/233da546-47ee-4b84-9ea9-bc1685614eb5.jpeg",
+      "hash": "UrIhQ*xv?bRP~WxutRs:-;RkR*Mxx]WCxaWB",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-27T05:10:00.000Z",
-      "postId": 12135842,
+      "browsingLevel": 4,
+      "createdAt": "2024-12-22T09:08:13.475Z",
+      "postId": 10609820,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 205,
-        "likeCount": 2159,
+        "cryCount": 115,
+        "laughCount": 211,
+        "likeCount": 2140,
         "dislikeCount": 0,
-        "heartCount": 1016,
-        "commentCount": 1
+        "heartCount": 1005,
+        "commentCount": 2
       },
       "meta": {
         "nsfw": true,
-        "seed": 606589810,
+        "seed": 500544739,
         "vaes": [],
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/E33CWZ1TVB6F49TE24XS69N300.jpeg",
-        "steps": 48,
+        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1047139",
+        "extra": {
+          "remixOfId": 46935214
+        },
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/JJFB0VH54AAKEXKRRH6PQ3XKS0",
+        "steps": 28,
         "width": 832,
         "height": 1216,
-        "models": [],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, (age up:1.0) BREAK \n1girl , (blonde hair, messy bun, wispy bangs), (medium saggy breasts), freckles, cute face, [wrinkles, dimples],(realistic skin:1.3)\u2219(detailed skin:1.3)\u2219(skin texture:1.3)\u2219(perfect skin:1.3).\nleaning back,  in water ,in hotspring, rocks,naked, reflection in water.\n(looking at viewer), [coy smile].\n portrait , breast focus, side view, (closeup:1.2), dappled lighting. (bokeh, shallow depth of field).\n(cinematic lighting:1.3), (chromatic aberration), (4K image quality:1.3), (sharp detail:1.3), (highly realistic:1.3), (dim warm cinematic lighting:1.3)",
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:439889@1047139"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, source_explicit,,flat colors, flat illustration, lineart, highly detailed, ultra detailed,\nwoman, puffy thighs, small nose, makeup, nose blush, ginger hair with very long bangs,\nwearing open  black latex bodysuit with zipper, deep cleavage, black pants, black gloves with claws, black hairband latex black cat's ears,\nwhite simple background, \ncrotch view, low view, smile open mouth, legs spread, brown eyes,\nBelle, BelleXLP, makeup, long hair, cleavage, topknot, forehead",
+        "denoise": 0.4,
         "sampler": "Euler a",
-        "cfgScale": 6.5,
+        "cfgScale": 5,
         "clipSkip": 2,
         "modelIds": [],
-        "quantity": 1,
-        "workflow": "img2img-upscale",
+        "quantity": 2,
+        "workflow": "img2img-hires",
         "baseModel": "Pony",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "versionIds": [],
         "controlNets": [],
-        "upscaleWidth": 1664,
-        "upscaleHeight": 2432,
-        "negativePrompt": "safe_neg, safe_neg, score_5, score_4, low quality, anime,monochrome, deformed, bad lips, bad mouth, pants, bald woman, bald girl, bald woman, bad anatomy, worst face, bad eyes, bad nose, duplicate, twins, mixed style, teeth worst quality, low quality, bad anatomy undetailed CGI render anti airbrushing undetailed eyes and thin and sketch and unclear, duplicate watermark, 3d, Two heads, doll, extra nipples, bad anatomy, blurry, duplicate, fuzzy, extra arms, extra fingers, poorly drawn hands disfigured, deformed, mutated, bad hands, extra hands, extra fingers, too many fingers, fused fingers, bad arm, distorted arms, extra arms, disembodied leg, extra nipples, detached arms, inverted hand, disembodied limb, oversized head, duplicate, ugly, tanlines, rays",
+        "experimental": false,
+        "negativePrompt": "safe_neg, score_5, score_4, score_3, muscular, fury, child, kid, easynegative, artifacts, monochrome, extra fingers, distorted, muscular, text, poorly drawn, low-quality, downsampling, low-quality, signature, blurry, aliasing, lowres, worst-quality, blur, watermark, 3D, bad, distortion,",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 1308507
+            "modelVersionId": 1047139
           },
           {
             "weight": 1,
-            "modelVersionId": 1308507
-          },
-          {
-            "weight": 0.95,
-            "modelVersionId": 1260971
-          },
-          {
-            "weight": 2.7,
-            "modelVersionId": 1253021
-          },
-          {
-            "weight": 1.55,
-            "modelVersionId": 1242203
-          },
-          {
-            "weight": -0.5,
-            "modelVersionId": 1277544
+            "modelVersionId": 1047139
           },
           {
             "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 430511
+          },
+          {
             "modelVersionId": 250708
           },
           {
-            "weight": 1,
             "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1047139
           },
           {
             "type": "upscaler",
             "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 430511
           }
         ],
-        "additionalResources": []
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:43711@430511",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "0dang",
+      "username": "MatureOnly",
       "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
         164821,
-        1242203,
-        1253021,
-        1260971,
-        1277544,
-        1308507
+        430511,
+        1047139
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "571|1734858493475",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=571%7C1734858493475"
+    "nextCursor": "572|1737722711050",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=572%7C1737722711050"
   }
 }
