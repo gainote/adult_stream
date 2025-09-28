@@ -1,195 +1,103 @@
 {
   "items": [
     {
-      "id": 85650965,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ebbccc7-3218-4b8a-87d2-066bed438148/original=true/8ebbccc7-3218-4b8a-87d2-066bed438148.jpeg",
-      "hash": "UBD]k|$2LN4.IrDO~WIoyDgOx^x^TeibR,Mc",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 38948336,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/92482005-8103-41d1-956d-ba3f3bad5f1a/original=true/92482005-8103-41d1-956d-ba3f3bad5f1a.jpeg",
+      "hash": "UDBLq$57Ef^j~B57NH?G?GE2jZ-o%2IpWC%1",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-01T15:10:00.000Z",
-      "postId": 19009497,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-08T03:06:31.406Z",
+      "postId": 8888479,
       "stats": {
-        "cryCount": 146,
-        "laughCount": 230,
-        "likeCount": 2084,
+        "cryCount": 103,
+        "laughCount": 190,
+        "likeCount": 2068,
         "dislikeCount": 0,
-        "heartCount": 1026,
-        "commentCount": 1
+        "heartCount": 1123,
+        "commentCount": 2
       },
       "meta": {
-        "seed": 1100554635,
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:296576@333245"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1412827@1643845",
-        "extra": {},
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1412827@1643845"
-        ],
-        "prompt": "1 girl, ginger hair\u2219bob cut hair\u2219blunt bangs,  freckles, long eyelashes, (thick lips, thick eyebrows:0.6), cute face, slender, breasts_apart, wide hips, slim thighs. one-messy bedroom, on back, from above\nrealistic skin with natural imperfections, high-resolution skin pores, realistic lighting reflections, ultra-detailed shading, 8k resolution, tan lines, (oiled skin:1.2)",
-        "denoise": 0.4,
-        "process": "img2img",
-        "sampler": "Euler",
+        "Size": "832x1216",
+        "seed": 2970624360,
+        "steps": 29,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up), source_cartoon, 1girl, Korra (avatar), dynamic angle, sexy, steam, blush, thighhighs, sexy, blush, sweat, living room, sexy, pose, steam, face focus, closeup, hearts, tanktop, boob areola, wet body, closeup, large breasts, on fours, ass focus, spreading ass, one hand on ass, creampie, cum in ass, cum in pussy, biting lip, looking at viewer, bkush",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/HEQDMT97WXHZ2CPMWWRXYGAX30.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "tan lines, sad, unhappy, child, loli",
+        "resources": [],
+        "Created Date": "2024-11-08T0251:15.8942724Z",
+        "negativePrompt": "easynegative, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, flat chest, kid, teenager",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1643845
-          },
-          {
-            "weight": 1.3,
-            "modelVersionId": 1288330
-          },
-          {
-            "weight": 3.1,
-            "modelVersionId": 1681921
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1851961
-          },
-          {
-            "weight": 1.7,
-            "modelVersionId": 1854599
-          },
-          {
-            "weight": 2.7,
-            "modelVersionId": 1858609
-          },
-          {
-            "weight": 3.1,
-            "modelVersionId": 1926656
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1643845
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 333245
-          },
-          {
-            "type": "lora",
-            "weight": 1.3,
-            "modelVersionId": 1288330
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 3.1,
-            "modelVersionId": 1681921
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 1851961
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 1.7,
-            "modelVersionId": 1854599
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 2.7,
-            "modelVersionId": 1858609
+            "weight": 0.5,
+            "modelVersionId": 524172,
+            "modelVersionName": "Chipmunking v2.0 PonyXL"
           },
           {
-            "type": "lora",
-            "weight": 3.1,
-            "modelVersionId": 1926656
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1143824@1288330",
-            "type": "lora",
-            "strength": 1.3,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1486921@1681921",
-            "type": "lora",
-            "strength": 3.1,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1636137@1851961",
-            "type": "lora",
-            "strength": 0.75,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1638441@1854599",
-            "type": "lora",
-            "strength": 1.7,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:477074@1858609",
-            "type": "lora",
-            "strength": 2.7,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1702438@1926656",
-            "type": "lora",
-            "strength": 3.1,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "0dang",
-      "baseModel": "Illustrious",
+      "username": "Bancin",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        333245,
-        1288330,
-        1643845,
-        1681921,
-        1851961,
-        1854599,
-        1858609,
-        1926656
+        9208,
+        239420,
+        290640,
+        398847,
+        436219,
+        524172
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "563|1731035191406",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=563%7C1731035191406"
+    "nextCursor": "564|1718412247840",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=564%7C1718412247840"
   }
 }
