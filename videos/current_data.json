@@ -1,147 +1,77 @@
 {
   "items": [
     {
-      "id": 79328697,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e84e4d62-4b3c-4c7b-b578-9bdfa04df6cd/original=true/e84e4d62-4b3c-4c7b-b578-9bdfa04df6cd.jpeg",
-      "hash": "U7IEeO*K0NM$00BW+FKi00LN==v#0f;R-;tk",
-      "width": 832,
-      "height": 1216,
+      "id": 100256999,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/edc2054c-ccee-4b1d-927c-0289606ac8e4/original=true/edc2054c-ccee-4b1d-927c-0289606ac8e4.jpeg",
+      "hash": "U4DRQMIqPA-U03xY0gs,0-xZ}?Iq}?IpxFWq",
+      "width": 2048,
+      "height": 3072,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-05-30T05:34:16.013Z",
-      "postId": 17623841,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-14T12:15:00.000Z",
+      "postId": 22242828,
       "stats": {
-        "cryCount": 141,
-        "laughCount": 286,
-        "likeCount": 2029,
+        "cryCount": 131,
+        "laughCount": 254,
+        "likeCount": 2168,
         "dislikeCount": 0,
-        "heartCount": 1053,
-        "commentCount": 3
+        "heartCount": 953,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": false,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
-        "extra": {},
-        "steps": 20,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
-        ],
-        "prompt": "very detailed, flat color, no lineart, Vibrant Contrast, gradient colors, particle effect, (fine fabric emphasis:1.2), (((masterpiece, amazing quality, best quality, ultra-detailed, 8K, illustration, amazing quality, newest, absurdres, realistic))), highres, very aesthetic, absurd res, hi res, very awa, dynamic angle, refined, volumetric lighting, cinematic lighting, blurry background, close up vivid colors, ((source_realistic:1.6)), hyper detailed, (dynamic pose:1.4), depth of field, photorealistic colors, hyper realistic, \n\n1girl, solo, hyuuga hinata, purple eyes, white eyes, blunt bangs, black hair, hime cut, beautiful face, detailed eyes, revealing clothes, strapless, crop top,  underboob, side boob, pelvic curtain, arm straps, bridal gloves, huge breasts, narrow waist, many scars, wide hips, skinny, small arms, toned, jewelry, beautiful lights, blushing, embarrassed, looking at viewer, head turned away, shy smile, nervous,\nmultiple men, surrounded by nude muscular men, huge cock, in public bath,  \ngrabbing, large breasts, 6+boys, blush, fingering, barefoot, breast grab, multiple boys, arm grab, sweat, holding another's wrist, disembodied limb, groping, restrained, bikini, colorful, black background, perfect hands, perfection, detailed hands,\nsurrounded by males, girl sandwiched by boys, group, multiple boys, 6+boys, multiple boys groping girl, groping, leg grab, ass grab, breast grab, coping a feel, multiple boys feeling up a girl, groping, breast grab, \n",
-        "denoise": 0.85,
-        "sampler": "DPM++ 2M",
+        "Size": "1024x1536",
+        "seed": 368687087389635,
+        "Model": "ramthrustsNSFWPINK_alchemyMix169",
+        "steps": 30,
+        "prompt": ",1girl, (lamb-oic029:0.44), (alzi xiaomi:1.1), (koujuan:1.1), (ohisashiburi:0.9), Masterpiece, amazing quality, 8k, ultra detailed, refined details, high resolution, HD, masterwork, digital illustration, 7481llu, 69yottea style illu, realistic, photorealistic, flat color, solo, (cat ears:1.3), dynamic pose, dynamic angle, alternate costume, orange eyes, cinematic composition, ass, weapon, sword, japanese clothes, hair ornament, back, hair flower, looking back, flower, brown hair, from behind, kimono, tabi, brown eyes, katana, sitting, looking at viewer, floral print, blush, hair bun, single hair bun, bow, shoulder blades, hair bow, tatami, dimples of venus, indoors, socks, seiza, white socks, sheath, profile, butt crack, no panties, bare back, red bow, yellow flower, closed mouth, nape, full body, short hair\nvery aesthetic, ultra-detailed, high contrast, backlighting, bokeh, volumetric lighting, animal ear, sheathed, depth of field, white kimono, absurdres, best quality, newest, very aesthetic",
+        "Version": "ComfyUI",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
-        "baseModel": "Illustrious",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/EAPHEZ4X4X4H2N3YS2XNP66TD0",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "safe_neg, greyscale, monochrome, motion blur, emphasis lines, text, title, logo, signature,censored, 3d,patreon username, patreon logo, artist name, watermark, ",
+        "resources": [],
+        "negativePrompt": "(bad quality:1.15), (worst quality:1.3), very displeasing, worst aesthetic, simple shading, saturated, censored, bad hands, missing digits, extra digits, bad anatomy, lowres, scan artifacts, scan dust, bleed through, binding discoloration, young, child, loli, aged down, malformed soles, simple eyes, aliasing, username, tattoo, scars, signature, text, english, chinese, japanese, kanji, wetskin, fluids, multiple person, crowd, huge breasts, huge ass, multiple views, multiple moles, (thick eyelashes:1.5), spot color, (shiny skin:1.3),watermark, greyscale, blush stickers, 3d, riding dildo, suction cup dildo, stickers,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1761560
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1761560
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1548727
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 1491506
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 658380
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 1845905
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1761560
+            "modelVersionId": 1892573
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1548727
+            "weight": 0.4,
+            "modelVersionId": 1375651
           },
           {
             "type": "lora",
             "weight": 0.3,
-            "modelVersionId": 1491506
+            "modelVersionId": 1261280
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 658380
+            "weight": 0.39,
+            "modelVersionId": 1157361
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1845905
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1309535@1548727",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1321086@1491506",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:446541@658380",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:705447@1845905",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "weight": 0.5,
+            "modelVersionId": 2034730
           }
         ]
       },
-      "username": "unfazedanomaly964",
+      "username": "Below_average_enjoyer",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        658380,
-        1491506,
-        1548727,
-        1761560,
-        1845905
+        1157361,
+        1261280,
+        1375651,
+        1892573,
+        2034730
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "552|1757852100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=552%7C1757852100000"
+    "nextCursor": "553|1729055500196",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=553%7C1729055500196"
   }
 }
