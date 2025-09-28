@@ -1,114 +1,54 @@
 {
   "items": [
     {
-      "id": 63631609,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/817ddc8d-3e9d-4f91-9b8b-fe68fe688208/original=true/817ddc8d-3e9d-4f91-9b8b-fe68fe688208.jpeg",
-      "hash": "U9FqLC5;0z-9149^xu-ATe%29vnO~qt8M|-A",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
+      "id": 88047482,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffacc1be-80f5-459b-94cb-dda0cc736c52/original=true/ffacc1be-80f5-459b-94cb-dda0cc736c52.jpeg",
+      "hash": "UBK,gL^+4.}U%L0LI?4nE1D%?^-=4n9Zs.^*",
+      "width": 1536,
+      "height": 2304,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-15T10:05:22.532Z",
-      "postId": 14194089,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-13T23:30:00.000Z",
+      "postId": 19532819,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 238,
-        "likeCount": 1993,
+        "cryCount": 101,
+        "laughCount": 201,
+        "likeCount": 2068,
         "dislikeCount": 0,
-        "heartCount": 1092,
-        "commentCount": 0
+        "heartCount": 1087,
+        "commentCount": 1
       },
       "meta": {
-        "nsfw": false,
-        "seed": 231227289,
-        "vaes": [],
-        "extra": {},
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "masterpiece, ultra-realistic, 32k, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, BREAK, ((4girls)), green eyes, brown eyes, blue eyes, blonde, (younger faces), (breast focus), 4different faces, brunette, black hair, redhead, bangs, long hair, braids, twintails, perfect body, blush, medium to large perky breasts, pose, caucasian, flirty smiles, (wet body, sweat, wet, perfect ratio proportioned face, petite body, perfect waist to hip ratio, flat stomach, perfect female body, wet body, deep skin), BREAK pose, wet, 1 boy, 1large thick dick, male pov, ((girls looking down at man's cock)), titty fuck, ((cock touching nipples)), grab breast, (((cock worship))), fancy walk-in shower background, sex in the large shower, ((blue tile in large shower)), well lit, perfect hands, (((cock worship))), (ahegao), breast press, hand job, (((1girl pushing tip of dick into her nipple))), dynamic angles, licking cock shaft, sucking on scrotum, ((2girls waiting their turn in background)), ",
-        "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-upscale",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/M2E71WVWZ43SD09D20CY8Z4A30.jpeg",
-          "width": 832,
-          "height": 1216,
-          "upscaleWidth": 2688,
-          "upscaleHeight": 3840
+        "seed": 883890508939652,
+        "Model": "unknown_model",
+        "steps": 30,
+        "hashes": {
+          "model": "unknown_hash"
         },
-        "upscaleWidth": 2688,
-        "upscaleHeight": 3840,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, nipple piercing, extra nipple, weirdly placed nipple, multi colored hair, more than one man, navel piercing, african americans, ((extra penis)), extra penis tip, anime style, twins, triplets, low quality, extra navel, too many fingers on hand, not enough fingers on hand, text, censored, extra hands, deformed, bad hand, blurry, (watermark), extra hands, feet, abnormal scrotum,",
-        "civitaiResources": [
+        "prompt": "The image depicts a 1girl, a young woman with long black hair, lying on a wooden floor with her legs up in the air, her black shorts hiked up to her hips. She's wearing a white shirt with short sleeves, and her eyes are closed as if she's in a state of relaxation or even sleep. Her bare feet are flexed, with her toes curled under. Sweat glistens on her thighs and the back of her legs. Her black shorts are stretched tight over her ass, and her bare legs are splayed out to the sides. A stuffed rabbit and a dolphin-shaped stuffed animal sit on a nearby shelf, a phone lies on the floor beside her, and a drawer in the background is slightly ajar. The atmosphere is intimate and relaxed, with a sense of quiet comfort. (1girl, solo, long hair, breasts, shirt, black hair, white shirt, closed eyes, ass, short sleeves, thighs, sweat, lying, shorts, barefoot, indoors, feet, legs, toes, short shorts, bare legs, black shorts, soles, phone, stuffed toy, stuffed animal, legs up, wooden floor, upside-down, stuffed rabbit, dolphin shorts, drawer:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.25,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 3,
-            "modelVersionId": 712947
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "unknown_hash",
+            "name": "unknown_model",
+            "type": "model"
           }
         ],
-        "additionalResources": []
+        "Model hash": "unknown_hash",
+        "Schedule type": "",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "holybratwurst",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        712947
-      ]
+      "username": "phinjo",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "580|1752449400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=580%7C1752449400000"
+    "nextCursor": "581|1747831771407",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=581%7C1747831771407"
   }
 }
