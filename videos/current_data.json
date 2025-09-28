@@ -1,134 +1,79 @@
 {
   "items": [
     {
-      "id": 95093791,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ffb7ca3-6fbf-4db7-acff-5961456de3e7/original=true/4ffb7ca3-6fbf-4db7-acff-5961456de3e7.jpeg",
-      "hash": "U3AS}M-T000f00S$~V%M3Yi^r=^O{IkW109v",
-      "width": 1216,
-      "height": 832,
+      "id": 25527722,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0bd92766-a228-4b5c-9146-63a1f254f6c0/original=true/0bd92766-a228-4b5c-9146-63a1f254f6c0.jpeg",
+      "hash": "UYP~ctNeys-p.8tR-=xtIoR+M|V@~psmRQax",
+      "width": 992,
+      "height": 1328,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-18T23:35:00.000Z",
-      "postId": 21094229,
+      "browsingLevel": 16,
+      "createdAt": "2025-01-24T12:23:51.987Z",
+      "postId": 5706241,
       "stats": {
-        "cryCount": 170,
-        "laughCount": 249,
-        "likeCount": 2158,
+        "cryCount": 160,
+        "laughCount": 239,
+        "likeCount": 2184,
         "dislikeCount": 0,
-        "heartCount": 915,
-        "commentCount": 4
+        "heartCount": 908,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "1216x832",
-        "seed": 3816519308,
-        "Model": "ILXL_realism_klaabu_VAE",
-        "steps": 24,
+        "": {},
+        "VAE": "sdxl_vae.safetensors",
+        "Size": "992x1328",
+        "seed": 2499793573,
+        "Model": "boleromix_Pony_V1.4",
+        "steps": 20,
         "hashes": {
-          "model": "55b1634b47",
-          "lora:RawXL_v1.2.1": "c0f35d7dea88",
-          "lora:RawCam_250_v1": "61a5dbda26b2",
-          "lora:Add_Details_v1.2": "e5a0bfd443a5",
-          "lora:Goldie_Rae_v1_PONY": "e64cf0f28b00",
-          "lora:LUT_slider_xxXL_V1": "b2a4af69dbee",
-          "lora:sl_2_alpha2.5_rank2_noxattn_last": "9e631eccdbc1",
-          "lora:polaroid_alpha2.5_rank2_noxattn_200steps": "02497e0e0f19",
-          "lora:nippleXL2_alpha2.5_rank2_noxattn_200steps": "bdd0b7355442",
-          "lora:puffy_tit_alpha1.5_rank2_noxattn_225steps": "db90b71a9603",
-          "lora:arousedXL2_alpha2.5_rank2_noxattn_400steps": "ae4967d646af",
-          "lora:a_above_belowXL_alpha2.0_rank2_noxattn_150steps": "649f8bfd01e9"
+          "vae": "735e4c3a44",
+          "model": "989a88b3c5",
+          "lora:beeasts on face_pony_V1.0": "2b5a9fc71363"
         },
-        "prompt": "Masterpiece, best quality, amazing quality, 18 year old, sexy face, instagram model, beautiful face, from side, lying on side, breast focus, realistic skin, big breasts, bikini panties, highly detailed skin, skinny, brown long hair, outdoors, girly, on all fours, view side, purple sunset, (amalfi),\n\n<lora:a_above_belowXL_klaabu:-4>\n<lora:Add_Details_v1.2:2.75>\n<lora:Goldie_Rae_v1_PONY:1.4>\n<lora:RawCam_250_v1:2>\n<lora:LUT_slider_xxXL_V1:1.2>\n<lora:skin_toneXL2_experiemental_klaabu:-4.1>\n<lora:arousedXL_experimental:2>\n<lora:RawXL_v1.2.1:1.5>",
-        "Version": "v1.10.0",
-        "sampler": "DPM++ SDE",
-        "cfgScale": 4.5,
+        "prompt": "score_9, score_8_up, score_7_up,source_anime, high res image,masterpiece,best quality,girl,cute face,clear skin,shiny hair,ultra detailed eyes,simple background <lora:beeasts on face_pony_V1.0:1> breasts on face, breasts, 1boy",
+        "Version": "v1.7.0",
+        "sampler": "DPM++ 2M Karras",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
+        "clipSkip": 2,
         "resources": [
           {
-            "hash": "db90b71a9603",
-            "name": "puffy_tit_alpha1.5_rank2_noxattn_225steps",
-            "type": "lora",
-            "weight": 2.85
-          },
-          {
-            "hash": "e5a0bfd443a5",
-            "name": "Add_Details_v1.2",
-            "type": "lora",
-            "weight": 2.75
-          },
-          {
-            "hash": "e64cf0f28b00",
-            "name": "Goldie_Rae_v1_PONY",
-            "type": "lora",
-            "weight": 1.4
-          },
-          {
-            "hash": "61a5dbda26b2",
-            "name": "RawCam_250_v1",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "02497e0e0f19",
-            "name": "polaroid_alpha2.5_rank2_noxattn_200steps",
-            "type": "lora",
-            "weight": 1.1
-          },
-          {
-            "hash": "b2a4af69dbee",
-            "name": "LUT_slider_xxXL_V1",
-            "type": "lora",
-            "weight": 1.2
-          },
-          {
-            "hash": "ae4967d646af",
-            "name": "arousedXL2_alpha2.5_rank2_noxattn_400steps",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "c0f35d7dea88",
-            "name": "RawXL_v1.2.1",
-            "type": "lora",
-            "weight": 1.5
-          },
-          {
-            "hash": "649f8bfd01e9",
-            "name": "a_above_belowXL_alpha2.0_rank2_noxattn_150steps",
+            "hash": "2b5a9fc71363",
+            "name": "beeasts on face_pony_V1.0",
             "type": "lora"
           },
           {
-            "hash": "9e631eccdbc1",
-            "name": "sl_2_alpha2.5_rank2_noxattn_last",
-            "type": "lora"
-          },
-          {
-            "hash": "bdd0b7355442",
-            "name": "nippleXL2_alpha2.5_rank2_noxattn_200steps",
-            "type": "lora"
-          },
-          {
-            "hash": "55b1634b47",
-            "name": "ILXL_realism_klaabu_VAE",
+            "hash": "989a88b3c5",
+            "name": "boleromix_Pony_V1.4",
             "type": "model"
           }
         ],
-        "Model hash": "55b1634b47",
-        "Schedule type": "Karras",
-        "negativePrompt": "Bad quality,low quality, ass focus, view back,"
+        "Model hash": "989a88b3c5",
+        "Tile Overlap": "48",
+        "Upscale factor": "1.3",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, pony, furry, censored,realistic,3D",
+        "Keep input size": "true}",
+        "Tile batch size": "4",
+        "Tile tile width": "96",
+        "Tiled Diffusion": {},
+        "Tile tile height": "96",
+        "Denoising strength": "0.4",
+        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
+        "Tiled Diffusion scale factor": "1.3"
       },
-      "username": "klaabu",
-      "baseModel": "Illustrious",
+      "username": "bolero537",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1594293,
-        1643845,
-        1854599,
-        1926656
+        513252,
+        752926
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "561|1737721431987",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=561%7C1737721431987"
+    "nextCursor": "562|1751382600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=562%7C1751382600000"
   }
 }
