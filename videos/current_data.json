@@ -1,82 +1,81 @@
 {
   "items": [
     {
-      "id": 43848744,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec3e1e56-faf2-4f6f-bc72-a737653bd759/original=true/ec3e1e56-faf2-4f6f-bc72-a737653bd759.jpeg",
-      "hash": "UCJ7UM02BB~W00yCWHVX^*rrRj%LTzjY9G%M",
+      "id": 16403779,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f6319ffb-cf02-4549-8985-bc3a36d66361/original=true/f6319ffb-cf02-4549-8985-bc3a36d66361.jpeg",
+      "hash": "ULHd{Z~V%#NH_2?bxtWAENR+Rkt6NfM|f8Wq",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-12-05T18:22:41.560Z",
-      "postId": 9959238,
+      "createdAt": "2024-06-19T22:26:11.135Z",
+      "postId": 3676074,
       "stats": {
-        "cryCount": 98,
-        "laughCount": 165,
-        "likeCount": 2203,
+        "cryCount": 96,
+        "laughCount": 192,
+        "likeCount": 2131,
         "dislikeCount": 0,
-        "heartCount": 1056,
-        "commentCount": 8
+        "heartCount": 1102,
+        "commentCount": 6
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1639623022,
-        "draft": false,
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, detailed masterpiece, 1girl, 21 years old, looking at viewer, blushing, perfect skin, cute face, detailed blonde hair, hot atmosphere, dreamy light, perfect skin, buxom, freckles, dramatic lighting, center view, cleavage, wearing white negligee, stretching arms above head, ((underboob)), shiny wet skin, wet translucent shirt, fabric stretched over nipples",
+        "seed": 666445522,
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, 1 girl, Lara Croft, 20 years old, face close up, half body portrait, (brunette:1.2), big brown eyes, red lipstick, winks, modest look, seducing viewer, hearts, posing, sexy pose, solo, natural breasts, large saggy breasts, solo, underwear, bra, breasts, navel, black_bra, solo, thighhighs, panties, mole, black lingerie, mole on breast, garter belt, no panties, indoors, thighs, black lace trim, black lace bra, black lace, black garter straps, black stockings, stomach, black lace trimmed bra, collarbone, wide hips, looking at viewer, black stockings, standing by the window, black thighhighs, hand_on_hip, air of superiority, modern trendy penthouse, panoramic window, modern city outside the window, sunset, cinematic lightings",
         "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-12-05T1814:07.4815570Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, closed eyes, big man, high man, muscular man, bra",
+        "Created Date": "2024-06-16T1916:03.8638288Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 817261,
-            "modelVersionName": "v6.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 1,
+            "weight": 1.1,
             "modelVersionId": 135867,
             "modelVersionName": "v1.0"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 342682,
             "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           }
         ]
       },
-      "username": null,
+      "username": "k4idzu470",
       "baseModel": "Pony",
       "modelVersionIds": [
         135867,
-        817261
+        290640,
+        330475,
+        342682,
+        382152
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "545|1718835971135",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=545%7C1718835971135"
+    "nextCursor": "546|1745534053983",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=546%7C1745534053983"
   }
 }
