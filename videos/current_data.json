@@ -1,195 +1,114 @@
 {
   "items": [
     {
-      "id": 85913670,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a71cc95c-ff94-4b04-9888-792818507fde/original=true/a71cc95c-ff94-4b04-9888-792818507fde.jpeg",
-      "hash": "U5BL^o?a0g00_2KPE2Md0MEg^N}r009Z%1tl",
-      "width": 1280,
-      "height": 1856,
+      "id": 100898120,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6de8b04d-149d-4a40-b24e-e1b3197842bf/original=true/6de8b04d-149d-4a40-b24e-e1b3197842bf.jpeg",
+      "hash": "U5CiLKoi0EIS?do#0#n#00%O,+Mv57S7=ZIU",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-03T00:41:00.000Z",
-      "postId": 19066627,
+      "createdAt": "2025-09-17T18:36:39.362Z",
+      "postId": 22385474,
       "stats": {
-        "cryCount": 106,
-        "laughCount": 211,
-        "likeCount": 2014,
+        "cryCount": 145,
+        "laughCount": 252,
+        "likeCount": 2135,
         "dislikeCount": 0,
-        "heartCount": 1135,
-        "commentCount": 1
+        "heartCount": 934,
+        "commentCount": 2
       },
       "meta": {
-        "seed": 724790626,
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:296576@333245"
+        "Size": "832x1216",
+        "seed": 1501378785,
+        "Model": "JANKUV5NSFWTrainedNoobaiEPS_v50",
+        "steps": 30,
+        "prompt": "1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,\n,dutch angle, cowboy shot,\nblonde hair, , long hair,straight hair,gyaru,\nred eyes,looking at viewer , \n torogao, heavy breathing, sweat, \nlarge breasts, collarbone,cleavage,nipples,\n leaning forward, large areolae, erected nipples, pussy,pussy juice, \nstraddling, sex, large penis, holding hands, deep penetration,\nbedroom, night, \nmasterpiece,best quality,amazing quality,newest,absurdres,highres, newest,\n<lora:lighting_v2>\n<lora:fashiongirl-v1-ILXL:1>  <lora:CunnyfunkyV7.0:0.8>   <lora:darkness_xl_v20:0.6>",
+        "Version": "f2.0.1v1.10.1-1.10.1",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "resources": [
+          {
+            "name": "fashiongirl-v1-ILXL",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "name": "CunnyfunkyV7.0",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "name": "darkness_xl_v20",
+            "type": "lora",
+            "weight": 0.6
+          }
         ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "1girl, slim, short hair bob cut, , pink and orange gradient hair, (lick testicles), penis, cum ooze onto forehead, ((glowing hair)), side view, look up at him, saliva, penis worship, small breasts, arch back, kneeling,\n\nblack background, simple background, masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k,( light particles:1.4), nsfw, ",
-        "denoise": 0.35,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/VQYBSJE4ND7DGXV60R9GDJ0G30.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_IllustrationJaNai_V1_DAT2_190k",
+        "negativePrompt": "(worst quality, bad quality:1.2),low quality,simple background,transparent,logo,text,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,bad hands,child, loli, symbol-shaped pupils,multicolored hair,lips,glossy skin,shiny skin, earrings,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "4",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.35,
-            "modelVersionId": 1280045
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          },
-          {
-            "weight": 1.95,
-            "modelVersionId": 1726985
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 1965963
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 333245
+            "modelVersionId": 1896532
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 145907
+            "modelVersionId": 1967210
           },
           {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 1280045
+            "type": "lycoris",
+            "weight": 1,
+            "modelVersionId": 1420683
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 1416874
+            "modelVersionId": 1920055
           },
           {
             "type": "lora",
-            "weight": 1.95,
-            "modelVersionId": 1726985
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1965963
+            "weight": 0.6,
+            "modelVersionId": 1481160
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:120723@145907",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
-            "type": "lora",
-            "strength": 0.35,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
-            "type": "lora",
-            "strength": 1.95,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1737122@1965963",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
-          }
-        ]
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.5",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "hand_yolov8n.pt",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.2",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer inpaint only masked 2nd": "True"
       },
-      "username": "DrPeeHands",
+      "username": "Bunnykiin",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        164821,
-        333245,
-        1189052,
-        1240288,
-        1280045,
-        1416874,
-        1726985,
-        1965963
+        1420683,
+        1481160,
+        1896532,
+        1920055,
+        1967210
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "574|1758134199362",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=574%7C1758134199362"
+    "nextCursor": "575|1754868653858",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=575%7C1754868653858"
   }
 }
