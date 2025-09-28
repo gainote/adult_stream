@@ -1,71 +1,82 @@
 {
   "items": [
     {
-      "id": 99746544,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2a9f067-60a7-4e97-9eb4-2adcc89ddce4/original=true/e2a9f067-60a7-4e97-9eb4-2adcc89ddce4.jpeg",
-      "hash": "UKKm%^nh9aR;I]rXtQEex-xZ=|RS~Wo}xtRO",
+      "id": 43848744,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec3e1e56-faf2-4f6f-bc72-a737653bd759/original=true/ec3e1e56-faf2-4f6f-bc72-a737653bd759.jpeg",
+      "hash": "UCJ7UM02BB~W00yCWHVX^*rrRj%LTzjY9G%M",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-09-12T14:58:44.728Z",
-      "postId": 22132228,
+      "browsingLevel": 4,
+      "createdAt": "2024-12-05T18:22:41.560Z",
+      "postId": 9959238,
       "stats": {
-        "cryCount": 179,
-        "laughCount": 322,
-        "likeCount": 2038,
+        "cryCount": 98,
+        "laughCount": 165,
+        "likeCount": 2203,
         "dislikeCount": 0,
-        "heartCount": 984,
-        "commentCount": 4
+        "heartCount": 1056,
+        "commentCount": 8
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 594027828,
+        "nsfw": false,
+        "seed": 1639623022,
         "draft": false,
-        "extra": {
-          "remixOfId": 94699250
-        },
-        "steps": 25,
+        "steps": 50,
         "width": 832,
         "height": 1216,
-        "prompt": "{{amazing quality, best quality, high quality, very aesthetic}}, bokeh, {{realistic}}, {1girl, female focus, solo focus}, {{rabbit girl, 18yo, (petite), anthro, female, furry, short hair, bob cut, blonde, (white fur), blue eyes, round face, big eyes, freckles, bratty face, cute, small breasts, furry girl, pink soccer uniform,},school bleachers, field, sunny day, looking at viewer, flirty, happy, thighs, butt, spreading ass, panties aside, anus,",
-        "process": "txt2img",
-        "sampler": "Euler",
+        "prompt": "score_9, score_8_up, score_7_up, detailed masterpiece, 1girl, 21 years old, looking at viewer, blushing, perfect skin, cute face, detailed blonde hair, hot atmosphere, dreamy light, perfect skin, buxom, freckles, dramatic lighting, center view, cleavage, wearing white negligee, stretching arms above head, ((underboob)), shiny wet skin, wet translucent shirt, fabric stretched over nipples",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-11T2003:06.6325959Z",
-        "experimental": false,
-        "negativePrompt": "{bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], @_@, {{{futanari}}}, pubic hairs, Ugly, unfocused, worst quality, low quality, {{{worst quality}}}, {{{bad quality}}}, censored, black bars, white bars, simple background, {{{ponytail}}}",
+        "Created Date": "2024-12-05T1814:07.4815570Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, closed eyes, big man, high man, muscular man, bra",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1911770
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1627481
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "bunsbunniesandbeyond",
-      "baseModel": "Illustrious",
+      "username": null,
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1627481,
-        1911770
+        135867,
+        817261
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "544|1733422961560",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=544%7C1733422961560"
+    "nextCursor": "545|1718835971135",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=545%7C1718835971135"
   }
 }
