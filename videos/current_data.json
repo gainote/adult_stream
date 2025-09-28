@@ -1,54 +1,94 @@
 {
   "items": [
     {
-      "id": 88047482,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffacc1be-80f5-459b-94cb-dda0cc736c52/original=true/ffacc1be-80f5-459b-94cb-dda0cc736c52.jpeg",
-      "hash": "UBK,gL^+4.}U%L0LI?4nE1D%?^-=4n9Zs.^*",
-      "width": 1536,
-      "height": 2304,
+      "id": 77608361,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a811732-a835-43b8-afcc-f3bb86656672/original=true/2a811732-a835-43b8-afcc-f3bb86656672.jpeg",
+      "hash": "ULJav1%g%#~q56?c%3_24:M{i{E0x?MxIog3",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-13T23:30:00.000Z",
-      "postId": 19532819,
+      "createdAt": "2025-05-21T12:49:31.407Z",
+      "postId": 17239268,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 201,
-        "likeCount": 2068,
+        "cryCount": 123,
+        "laughCount": 289,
+        "likeCount": 2114,
         "dislikeCount": 0,
-        "heartCount": 1087,
-        "commentCount": 1
+        "heartCount": 930,
+        "commentCount": 3
       },
       "meta": {
-        "seed": 883890508939652,
-        "Model": "unknown_model",
-        "steps": 30,
-        "hashes": {
-          "model": "unknown_hash"
-        },
-        "prompt": "The image depicts a 1girl, a young woman with long black hair, lying on a wooden floor with her legs up in the air, her black shorts hiked up to her hips. She's wearing a white shirt with short sleeves, and her eyes are closed as if she's in a state of relaxation or even sleep. Her bare feet are flexed, with her toes curled under. Sweat glistens on her thighs and the back of her legs. Her black shorts are stretched tight over her ass, and her bare legs are splayed out to the sides. A stuffed rabbit and a dolphin-shaped stuffed animal sit on a nearby shelf, a phone lies on the floor beside her, and a drawer in the background is slightly ajar. The atmosphere is intimate and relaxed, with a sense of quiet comfort. (1girl, solo, long hair, breasts, shirt, black hair, white shirt, closed eyes, ass, short sleeves, thighs, sweat, lying, shorts, barefoot, indoors, feet, legs, toes, short shorts, bare legs, black shorts, soles, phone, stuffed toy, stuffed animal, legs up, wooden floor, upside-down, stuffed rabbit, dolphin shorts, drawer:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
-        "Version": "ComfyUI",
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 354458483,
+        "draft": false,
+        "steps": 38,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, very aesthetic, absurdres, best quality, good quality, newest, highres,\ncode geass,c.c,1girl, solo,brown eyes, green hair,breasts, long hair, hair between eyes, very long hair, medium breasts,straight hair,black sweater,ribbed sweater,turtleneck sweater,sleeveless sweater,sideboob,underboob,black sleeves,ribbed sleeves,black panties,side-tie panties,ribbed legwear,black thighhighs,black garter straps,stomach\ndynamic angle abstract background, blurry background \n<lora:noobai_ep11_stabilizer_v0.178_fp16:1>\nSmoothNegative_Hands",
         "sampler": "Euler a",
-        "cfgScale": 6,
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [
           {
-            "hash": "unknown_hash",
-            "name": "unknown_model",
-            "type": "model"
+            "name": "noobai_ep11_stabilizer_v0.178_fp16",
+            "type": "lora",
+            "weight": 1
           }
         ],
-        "Model hash": "unknown_hash",
-        "Schedule type": "",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
+        "Created Date": "2025-05-21T1248:07.8971009Z",
+        "negativePrompt": "3d, realistic, 3d render,\u00a0 zoomed in, pubic hair, three breasts, too many breasts, furry, score_4, score_5, score_6, (ugly), worst quality, low quality, displeasing, low-resolution, blurry, noisy, distorted, glitch, bad anatomy, poorly drawn, deformed, distorted hands, deformed hands, deformed fingers, three finger hands, extra fingers, , (cropped), out of frame, text, signature, watermark, logo,multiple characters, extra character, chibi, small character",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1682833,
+            "modelVersionName": "Alchemy_Mix_012"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1470544,
+            "modelVersionName": "Smooth Illus. Booster v2"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1668031,
+            "modelVersionName": "Smooth Negative Hands"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1674551,
+            "modelVersionName": "illus01 v1.121"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 1530645,
+            "modelVersionName": "illustrious V2.1"
+          }
+        ]
       },
-      "username": "phinjo",
+      "username": "futsalabcdccc",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        1470544,
+        1530645,
+        1668031,
+        1674551,
+        1682833
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "581|1747831771407",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=581%7C1747831771407"
+    "nextCursor": "582|1741050300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=582%7C1741050300000"
   }
 }
