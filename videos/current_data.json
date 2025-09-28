@@ -1,102 +1,134 @@
 {
   "items": [
     {
-      "id": 97146177,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/487b35da-d7f4-4280-8bfc-c526dda7d140/original=true/487b35da-d7f4-4280-8bfc-c526dda7d140.jpeg",
-      "hash": "UDHxH3WB00~oO?^%V?9Z00D*.9E2009ux^?G",
-      "width": 832,
-      "height": 1216,
+      "id": 95093791,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ffb7ca3-6fbf-4db7-acff-5961456de3e7/original=true/4ffb7ca3-6fbf-4db7-acff-5961456de3e7.jpeg",
+      "hash": "U3AS}M-T000f00S$~V%M3Yi^r=^O{IkW109v",
+      "width": 1216,
+      "height": 832,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-29T07:17:58.513Z",
-      "postId": 21549694,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-18T23:35:00.000Z",
+      "postId": 21094229,
       "stats": {
-        "cryCount": 146,
-        "laughCount": 256,
-        "likeCount": 2120,
+        "cryCount": 170,
+        "laughCount": 249,
+        "likeCount": 2158,
         "dislikeCount": 0,
-        "heartCount": 975,
-        "commentCount": 2
+        "heartCount": 915,
+        "commentCount": 4
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1791134401,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, very aesthetic, (from above:1.8), (drunk:1.5), (asleep:1.6), (passed out:1.4), (desk:1.8), clean, (uniform),\na woman, cute perfect face, (blonde hair:1.6), French braid, (young), (blush:1.2), very pretty, (deep_skin:1.5), (businessman sex:1.7), (vaginal penetration:1.4), (round face:1.2), pretty, ((doggystyle)) thick lips, cum on face, cum in hair, cum on ass, cum on body, cum in pussy, cum on clothes, (waist grab), (running makeup), (sweat:1.2), (from behind:1.2), (pompom:1.1),\n<lora:skin3_na_alpha2.5_rank2_noxattn_600steps:5.0>   <lora:natural_breasts_v1:3> <lora:body_weight_slider_v1:-1.2> <lora:amateur_style_v1_pony:1> <lora:Dramatic Lighting Slider:1.4>",
-        "process": "txt2img",
+        "Size": "1216x832",
+        "seed": 3816519308,
+        "Model": "ILXL_realism_klaabu_VAE",
+        "steps": 24,
+        "hashes": {
+          "model": "55b1634b47",
+          "lora:RawXL_v1.2.1": "c0f35d7dea88",
+          "lora:RawCam_250_v1": "61a5dbda26b2",
+          "lora:Add_Details_v1.2": "e5a0bfd443a5",
+          "lora:Goldie_Rae_v1_PONY": "e64cf0f28b00",
+          "lora:LUT_slider_xxXL_V1": "b2a4af69dbee",
+          "lora:sl_2_alpha2.5_rank2_noxattn_last": "9e631eccdbc1",
+          "lora:polaroid_alpha2.5_rank2_noxattn_200steps": "02497e0e0f19",
+          "lora:nippleXL2_alpha2.5_rank2_noxattn_200steps": "bdd0b7355442",
+          "lora:puffy_tit_alpha1.5_rank2_noxattn_225steps": "db90b71a9603",
+          "lora:arousedXL2_alpha2.5_rank2_noxattn_400steps": "ae4967d646af",
+          "lora:a_above_belowXL_alpha2.0_rank2_noxattn_150steps": "649f8bfd01e9"
+        },
+        "prompt": "Masterpiece, best quality, amazing quality, 18 year old, sexy face, instagram model, beautiful face, from side, lying on side, breast focus, realistic skin, big breasts, bikini panties, highly detailed skin, skinny, brown long hair, outdoors, girly, on all fours, view side, purple sunset, (amalfi),\n\n<lora:a_above_belowXL_klaabu:-4>\n<lora:Add_Details_v1.2:2.75>\n<lora:Goldie_Rae_v1_PONY:1.4>\n<lora:RawCam_250_v1:2>\n<lora:LUT_slider_xxXL_V1:1.2>\n<lora:skin_toneXL2_experiemental_klaabu:-4.1>\n<lora:arousedXL_experimental:2>\n<lora:RawXL_v1.2.1:1.5>",
+        "Version": "v1.10.0",
         "sampler": "DPM++ SDE",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "cfgScale": 4.5,
         "resources": [
           {
-            "name": "skin3_na_alpha2.5_rank2_noxattn_600steps",
+            "hash": "db90b71a9603",
+            "name": "puffy_tit_alpha1.5_rank2_noxattn_225steps",
             "type": "lora",
-            "weight": 5
+            "weight": 2.85
           },
           {
-            "name": "natural_breasts_v1",
+            "hash": "e5a0bfd443a5",
+            "name": "Add_Details_v1.2",
             "type": "lora",
-            "weight": 3
+            "weight": 2.75
           },
           {
-            "name": "amateur_style_v1_pony",
+            "hash": "e64cf0f28b00",
+            "name": "Goldie_Rae_v1_PONY",
             "type": "lora",
-            "weight": 1
+            "weight": 1.4
+          },
+          {
+            "hash": "61a5dbda26b2",
+            "name": "RawCam_250_v1",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "02497e0e0f19",
+            "name": "polaroid_alpha2.5_rank2_noxattn_200steps",
+            "type": "lora",
+            "weight": 1.1
+          },
+          {
+            "hash": "b2a4af69dbee",
+            "name": "LUT_slider_xxXL_V1",
+            "type": "lora",
+            "weight": 1.2
+          },
+          {
+            "hash": "ae4967d646af",
+            "name": "arousedXL2_alpha2.5_rank2_noxattn_400steps",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "c0f35d7dea88",
+            "name": "RawXL_v1.2.1",
+            "type": "lora",
+            "weight": 1.5
+          },
+          {
+            "hash": "649f8bfd01e9",
+            "name": "a_above_belowXL_alpha2.0_rank2_noxattn_150steps",
+            "type": "lora"
+          },
+          {
+            "hash": "9e631eccdbc1",
+            "name": "sl_2_alpha2.5_rank2_noxattn_last",
+            "type": "lora"
+          },
+          {
+            "hash": "bdd0b7355442",
+            "name": "nippleXL2_alpha2.5_rank2_noxattn_200steps",
+            "type": "lora"
+          },
+          {
+            "hash": "55b1634b47",
+            "name": "ILXL_realism_klaabu_VAE",
+            "type": "model"
           }
         ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-27T1429:15.4415479Z",
-        "experimental": false,
-        "negativePrompt": "low quality, worst quality, blurry, (deformed:1.3), extra fingers, cartoon, 3d, anime, bad anatomy, plaid shirt, (freckles:1.5), (moles:1.5), extra hand, extra limb, leather, pleather",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1643845
-          },
-          {
-            "type": "lora",
-            "weight": 2,
-            "modelVersionId": 1242203
-          },
-          {
-            "type": "lora",
-            "weight": 3.05,
-            "modelVersionId": 1594293
-          },
-          {
-            "type": "lora",
-            "weight": -1.45,
-            "modelVersionId": 1726985
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1374748
-          }
-        ]
+        "Model hash": "55b1634b47",
+        "Schedule type": "Karras",
+        "negativePrompt": "Bad quality,low quality, ass focus, view back,"
       },
-      "username": "solumbragt355",
+      "username": "klaabu",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1242203,
-        1374748,
         1594293,
         1643845,
-        1726985
+        1854599,
+        1926656
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "560|1755560100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=560%7C1755560100000"
+    "nextCursor": "561|1737721431987",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=561%7C1737721431987"
   }
 }
