@@ -1,89 +1,75 @@
 {
   "items": [
     {
-      "id": 62529885,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba236bb0-1378-4d3e-8ca7-611a21505bbf/original=true/ba236bb0-1378-4d3e-8ca7-611a21505bbf.jpeg",
-      "hash": "UDJ?%D0z3r_40Iadv}xH0s#6veR6+j=w#iRj",
+      "id": 101179993,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e71d0657-1340-4d56-93b7-f26fc233c526/original=true/e71d0657-1340-4d56-93b7-f26fc233c526.jpeg",
+      "hash": "UBKv~gO[.m^*[*03nMo}E|.8-AIV009E9aIA",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-03-09T19:43:30.244Z",
-      "postId": 13963427,
+      "createdAt": "2025-09-22T15:07:00.000Z",
+      "postId": 22446970,
       "stats": {
-        "cryCount": 147,
-        "laughCount": 292,
-        "likeCount": 1977,
+        "cryCount": 131,
+        "laughCount": 239,
+        "likeCount": 2103,
         "dislikeCount": 0,
-        "heartCount": 1007,
+        "heartCount": 946,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1325759718,
-        "draft": false,
-        "extra": {
-          "remixOfId": 62187250
-        },
-        "steps": 25,
+        "Model": "urn:air:sdxl:checkpoint:civitai:1025051@2186168",
+        "extra": {},
+        "steps": 29,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, good quality, 2girls, cartoon, totally_spies_2k24, alex, black hair, short hair, brown eyes, dark-skinned female, naked, nude, sexy, large breasts, nipples, beautiful, detailed, high detailed, very beautiful, detailed face, detailed eyes, detailed hand, abstract background, neon, lidded eyes, seducing, looking at viewer, cartoon, totally_spies_2k24, sam, orange hair, long hair, green eyes, naked, nude, jacuzzi, partially submerged, water, wet body, from above, 1boy, thick penis, threesome, oral, fellatio, licking, (teamwork)",
-        "sampler": "DPM++ 2M Karras",
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1025051@2186168"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality,\n\n\nsmooth skin,\n(freckles:0.7),\n(messy hairs:0.6),\n\nblonde updo,\nblanket,\nsofa,\ninnie pussy,\nass folds,\nhard nipple,\nlying on side,\n",
+        "denoise": 0.01,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
         "cfgScale": 7,
         "clipSkip": 2,
+        "priority": "low",
         "quantity": 1,
-        "workflow": "txt2img",
+        "workflow": "img2img",
         "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-03-09T1919:07.2725015Z",
-        "negativePrompt": "morbid, mutated, deformed, ugly, bad anatomy, bad proportions, bad eyes, deformed eyes,fused breasts, fusion, fused arms, missing limb, missing arm, color swap, wrong color, messy color, (futa), glowing eyes, small penis, hyper breasts, paws, watermark, signature, extra hand, extra penis, extra leg, extra breasts, deformed breasts, deformed hand, deformed fingers, deformed nails, deformed penis, disembodied penis, dildo, autofellatio, cloned, copy, error, glitch, glitched, disembodied hand, extra hand, extra fingers, extra legs, cloned, extra face, extra head, extra penis, extra character, rule 63, genderswap, gay, ((brush strokes)), ((watercolor painting)), multiple views, comic, face swap, swap face, monochrome, greyscale, 3d, six fingers, tan lines, long body, long neck, jpeg artifacts, realistic",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/308585268320124805770565066636028814265.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQlg8racH7neTZZgp7aap5dRgGas5zTEqP22QScXToxuwTbiK0po_Gp4NPcYzkpAK_yUQQMCV7pN20PTzXRunawkLSiws6rCc3SuxEP09DXU8H3gNonUNn6xkjJMdY57HFpVag4i4VgYStUHrONbDK8yWUAml5gN3xi0QRpRtT4cHmTlhvYSMHNTRfo04FUF7PkALP1cxC6RxxL4-KG0puLxOV1T3ivcZw4fjLh4sXcx4BR1z7nuNrvkhVFCgYkjkNEeufMKxB-DbBlV1uncWwkxxLJYMMROeV9bUf0bX9NYQ&exp=2026-09-19T05:45:20.3947316Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "censor, censored, monochrome, watermark, artist name, bestiality,\n",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
+            "modelVersionId": 2186168
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1314265,
-            "modelVersionName": "V1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1368071,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.8,
+            "modelVersionId": 1976924
           }
         ]
       },
-      "username": "BartP98",
+      "username": "vovkkabanko",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1314265,
-        1368071,
-        1410435
+        1976924,
+        2186168
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "599|1702352330558",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=599%7C1702352330558"
+    "nextCursor": "600|1702352330558",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=600%7C1702352330558"
   }
 }
