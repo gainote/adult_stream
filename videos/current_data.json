@@ -1,36 +1,36 @@
 {
   "items": [
     {
-      "id": 17044860,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00259515-6528-4723-925e-78eca46d9bfd/original=true/00259515-6528-4723-925e-78eca46d9bfd.jpeg",
-      "hash": "UOI4Y04o~pVs-;D%o#IU9ut6s.s:xZWqs:xu",
+      "id": 19833473,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8598423d-b299-4df6-b3c9-cf799516745d/original=true/8598423d-b299-4df6-b3c9-cf799516745d.jpeg",
+      "hash": "UDCO?zxu0LM{-pxaM|M|T0%1M{Io~Bxt9aIp",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-24T20:05:24.119Z",
-      "postId": 3822333,
+      "browsingLevel": 4,
+      "createdAt": "2024-07-14T19:11:09.561Z",
+      "postId": 4427509,
       "stats": {
-        "cryCount": 61,
-        "laughCount": 251,
-        "likeCount": 1943,
+        "cryCount": 74,
+        "laughCount": 197,
+        "likeCount": 1986,
         "dislikeCount": 0,
-        "heartCount": 1175,
-        "commentCount": 2
+        "heartCount": 1173,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1454920290,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up,  1girl, 18 years old, solo, chestnut brown hair, fringe hair, ponytail, light brown eyes, ((freckles)), cute, (lowering pants), pulling down pants, hands on pants, naked breasts, perky breasts, sexy expression, pubic mound,  standing up, looking at viewer, in front of bed, college, dramatic lighting, pretty girl",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 8,
+        "seed": 2972281122,
+        "steps": 15,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  1girl, gorgeous girl , kawai girl , cute face ,beautiful eyes, white hair, bangs , (((large braided hair))) , ((golden necklace)), expressive ecstacy, (((black seethrough top))), large saggy breast, seethrough breasts, seethrough puffy nipple, cleavage, bend forward ,wet body, water droplets,  sexy thighs, standing , (slim fit), pose , boob focus , long loincloth , boob focus, dark background, perfect lighting,",
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-06-24T1917:24.0406626Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
+        "Created Date": "2024-07-14T1035:24.5763739Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -46,18 +46,18 @@
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
+            "weight": 0.55,
             "modelVersionId": 398847,
             "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.55,
+            "weight": 0.65,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
           },
@@ -73,19 +73,19 @@
           }
         ]
       },
-      "username": "dororooo",
+      "username": "hornystoryteller",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
+        239420,
         290640,
-        382152,
         398847,
         436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "595|1720984269561",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=595%7C1720984269561"
+    "nextCursor": "596|1753562048273",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=596%7C1753562048273"
   }
 }
