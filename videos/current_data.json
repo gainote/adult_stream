@@ -1,42 +1,89 @@
 {
   "items": [
     {
-      "id": 84259437,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f7b3431-d65f-420e-a953-fed19349b78a/original=true/2f7b3431-d65f-420e-a953-fed19349b78a.jpeg",
-      "hash": "UAIgfdsl00^*ypR*01tR0exawND*~VX7xGV[",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 62529885,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba236bb0-1378-4d3e-8ca7-611a21505bbf/original=true/ba236bb0-1378-4d3e-8ca7-611a21505bbf.jpeg",
+      "hash": "UDJ?%D0z3r_40Iadv}xH0s#6veR6+j=w#iRj",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-25T00:37:00.000Z",
-      "postId": 18704608,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-09T19:43:30.244Z",
+      "postId": 13963427,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 259,
-        "likeCount": 2061,
+        "cryCount": 147,
+        "laughCount": 292,
+        "likeCount": 1977,
         "dislikeCount": 0,
-        "heartCount": 988,
-        "commentCount": 1
+        "heartCount": 1007,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1325759718,
+        "draft": false,
+        "extra": {
+          "remixOfId": 62187250
+        },
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, good quality, 2girls, cartoon, totally_spies_2k24, alex, black hair, short hair, brown eyes, dark-skinned female, naked, nude, sexy, large breasts, nipples, beautiful, detailed, high detailed, very beautiful, detailed face, detailed eyes, detailed hand, abstract background, neon, lidded eyes, seducing, looking at viewer, cartoon, totally_spies_2k24, sam, orange hair, long hair, green eyes, naked, nude, jacuzzi, partially submerged, water, wet body, from above, 1boy, thick penis, threesome, oral, fellatio, licking, (teamwork)",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-03-09T1919:07.2725015Z",
+        "negativePrompt": "morbid, mutated, deformed, ugly, bad anatomy, bad proportions, bad eyes, deformed eyes,fused breasts, fusion, fused arms, missing limb, missing arm, color swap, wrong color, messy color, (futa), glowing eyes, small penis, hyper breasts, paws, watermark, signature, extra hand, extra penis, extra leg, extra breasts, deformed breasts, deformed hand, deformed fingers, deformed nails, deformed penis, disembodied penis, dildo, autofellatio, cloned, copy, error, glitch, glitched, disembodied hand, extra hand, extra fingers, extra legs, cloned, extra face, extra head, extra penis, extra character, rule 63, genderswap, gay, ((brush strokes)), ((watercolor painting)), multiple views, comic, face swap, swap face, monochrome, greyscale, 3d, six fingers, tan lines, long body, long neck, jpeg artifacts, realistic",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1314265,
+            "modelVersionName": "V1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1368071,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "BartP98",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        333245,
-        372639,
-        1412563,
-        1490781,
-        1739892
+        1314265,
+        1368071,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "598|1741549410244",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=598%7C1741549410244"
+    "nextCursor": "599|1702352330558",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=599%7C1702352330558"
   }
 }
