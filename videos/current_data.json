@@ -1,62 +1,42 @@
 {
   "items": [
     {
-      "id": 90643291,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f31c462b-2ff4-4871-bb2f-8a327bf9f8ce/original=true/f31c462b-2ff4-4871-bb2f-8a327bf9f8ce.jpeg",
-      "hash": "UVPZot_3~qRPo}V@M{oz%goJM{NGx]s:s:WC",
-      "width": 1592,
-      "height": 2851,
+      "id": 84259437,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f7b3431-d65f-420e-a953-fed19349b78a/original=true/2f7b3431-d65f-420e-a953-fed19349b78a.jpeg",
+      "hash": "UAIgfdsl00^*ypR*01tR0exawND*~VX7xGV[",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-26T20:34:08.273Z",
-      "postId": 20102200,
+      "createdAt": "2025-06-25T00:37:00.000Z",
+      "postId": 18704608,
       "stats": {
-        "cryCount": 163,
-        "laughCount": 332,
-        "likeCount": 2053,
+        "cryCount": 116,
+        "laughCount": 259,
+        "likeCount": 2061,
         "dislikeCount": 0,
-        "heartCount": 877,
-        "commentCount": 0
+        "heartCount": 988,
+        "commentCount": 1
       },
-      "meta": {
-        "Size": "540x960",
-        "seed": 10,
-        "Model": "waiNSFWIllustrious_v130",
-        "steps": 20,
-        "hashes": {
-          "model": "a810e710a2",
-          "LORA:seed_zenless_zone_zero_IL": "7edf239a81"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, aesthetic,   absurdres, best quality, 4k, upscale, simple background, white background, smile, blush,  seed_(zenless_zone_zero), v, standing, sweat, spread arpits, armpit, v, steam, steaming body, dynamic pose, 1girl, solo, blue hair, green eyes, swept bangs, braid, braided ponytail, ahoge,    long hair, hair ornament, hairclip, small breasts, bare shoulders, cleavage, toeless legwear, cowboy shoot,   grey dress, white bodysuit, elbow gloves, white gloves, two-tone gloves, hip vent,  detached sleeves, see-through,  v-fin, science fiction,     <lora:seed_zenless_zone_zero_IL:1>",
-        "Version": "ComfyUI",
-        "sampler": "euler-a",
-        "cfgScale": 7,
-        "resources": [
-          {
-            "name": "seed_zenless_zone_zero_IL",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "a810e710a2",
-            "name": "waiNSFWIllustrious_v130",
-            "type": "model"
-          }
-        ],
-        "Model hash": "a810e710a2",
-        "negativePrompt": "pubic hair, 3d, cropped, loli, censored, (simple background:1.0), bar censoring, mosaic censoring,  siblings, bad legs, clones, monochrome, clones, sketch, rought lines, patreon username, logo, bad proportions, artist signature, artist name, english text, text, korean text, speech bubble, sound effects, multiple views, 4koma,comics, comic,"
-      },
-      "username": "Pathetic",
+      "meta": null,
+      "username": "Kalrdr",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1612720
+        9208,
+        111363,
+        164821,
+        333245,
+        372639,
+        1412563,
+        1490781,
+        1739892
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "597|1750811820000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=597%7C1750811820000"
+    "nextCursor": "598|1741549410244",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=598%7C1741549410244"
   }
 }
