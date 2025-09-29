@@ -1,197 +1,123 @@
 {
   "items": [
     {
-      "id": 76361820,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/598ddd86-7f68-4c54-9533-927f2d8a6b27/original=true/598ddd86-7f68-4c54-9533-927f2d8a6b27.jpeg",
-      "hash": "UBDkoN~A-o$%9uNHWB={0gNG%1xu~A%1RlE2",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 42161172,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/106ec18c-90c8-4f1d-8d8f-dab7b5796239/original=true/106ec18c-90c8-4f1d-8d8f-dab7b5796239.jpeg",
+      "hash": "UBDuGE00_2R5%zMd~B4:slI;xaRj9ut7NGxa",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-17T20:53:25.292Z",
-      "postId": 16958909,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-26T07:42:04.932Z",
+      "postId": 9594449,
       "stats": {
-        "cryCount": 135,
-        "laughCount": 248,
-        "likeCount": 2034,
+        "cryCount": 126,
+        "laughCount": 212,
+        "likeCount": 2001,
         "dislikeCount": 0,
-        "heartCount": 1015,
-        "commentCount": 1
+        "heartCount": 1093,
+        "commentCount": 4
       },
       "meta": {
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:581286@648388"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1125067@1748912",
-        "extra": {},
-        "steps": 15,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1125067@1748912"
-        ],
-        "prompt": "1girl, (ACOIsidora), (solo:1.5), (alone:1.5), (egyptian:1.3), (pharaoh_princess:1.3), black_hair, sleek_hair, short_hair, blunt_bangs, (yellow_eyes:1.1), (mature_female:1.2), (milf:1.2), (buxom:1.2), (plump:1.2), (beautiful:1.3), (sexy:1.3); (soft_saggy_breasts:1.2), gorgeous_cleavage, toned_legs, toned_butt, wide_hips, narrow_waist, (hourglass_figure:1.2); jewelry, golden_feathers, crown, egyptian_attire, (golden_clothes:1.2), (ornamented_clothes:1.2), (egyptian_ornament:1.2), (red_trim:1.2), (black_trim:1.2), pharaoh_attire; dominant, (smug_expression:1.1), (seductive_smile:1.1), (sultry_gaze:1.1), (looking_at_viewer:1.5).\nIndoors, egyptian_palace_interior, golden_furniture, dim_lighting, natural_lighting.\n(From_side:1.5), (profile_portrait:1.3), (close_shot:1.2), (dynamic_pose:1.5), (undressing:1.1), (ajusting_clothes:1.1), (bare_shoulders:1.3), (leaning_back:1.5), (lying_on_side:1.3), (armrest:1.2), (playful_pose:1.3), (seductive_pose:1.3), (focus_on_upper_body:1.5).",
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1330753555,
+        "draft": false,
+        "extra": {
+          "remixOfId": 41007270
+        },
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 2girls, curvy thick,kneeling, threesome, ((fingering from behind)), girl giving blowjob, open eyes, 1man, man out of frame, oral sex, penis in mouth, open mouth, orgasm, moaning, red-brownish hair, freckles, cute,( Large firm breasts), nipples, table, bend forward long hair hair, office, open shirt , black bra, from behind , (from behind), expressive ecstasy, office room, ((hand on pussy)), lesbian fingering, panties pulled down, god-rays, dappled sunlight, nf, Expressiveh,  tan white skin, sexy,\nnegative_hand, g0thicPXL,Expressiveh ,s1_dram, great lighting, realistic anatomy, realistic hands,",
         "sampler": "Euler a",
         "cfgScale": 4,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "looking_up, (lazyneg), worst_quality, bad_quality, poorly_detailed, (extra_fingers, malformed_hands, missing_fingers, bad_hands)",
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-11-26T0739:38.9565924Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,easynegative",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1748912
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1748912
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1470451
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1591915
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 1525879
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1506333
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1667494
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1491506
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1622975
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1736373
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 648388
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1748912
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 648388
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152
+            "weight": 2,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
             "weight": 0.3,
-            "modelVersionId": 1525879
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1506333
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1491506
+            "weight": 0.25,
+            "modelVersionId": 761452,
+            "modelVersionName": "v2"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1622975
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1736373
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1350877@1525879",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:411088@1506333",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1321086@1491506",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1435787@1622975",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1231943@1736373",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "aimirk38",
-      "baseModel": "Illustrious",
+      "username": "caliking711631",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
+        9208,
+        135867,
+        244808,
+        290640,
         382152,
-        648388,
-        1470451,
-        1491506,
-        1506333,
-        1525879,
-        1591915,
-        1622975,
-        1667494,
-        1736373,
-        1748912
+        398847,
+        436219,
+        761452
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "593|1732606924932",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=593%7C1732606924932"
+    "nextCursor": "594|1719259524119",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=594%7C1719259524119"
   }
 }
