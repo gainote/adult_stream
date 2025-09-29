@@ -1,91 +1,62 @@
 {
   "items": [
     {
-      "id": 19833473,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8598423d-b299-4df6-b3c9-cf799516745d/original=true/8598423d-b299-4df6-b3c9-cf799516745d.jpeg",
-      "hash": "UDCO?zxu0LM{-pxaM|M|T0%1M{Io~Bxt9aIp",
-      "width": 832,
-      "height": 1216,
+      "id": 90643291,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f31c462b-2ff4-4871-bb2f-8a327bf9f8ce/original=true/f31c462b-2ff4-4871-bb2f-8a327bf9f8ce.jpeg",
+      "hash": "UVPZot_3~qRPo}V@M{oz%goJM{NGx]s:s:WC",
+      "width": 1592,
+      "height": 2851,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-07-14T19:11:09.561Z",
-      "postId": 4427509,
+      "createdAt": "2025-07-26T20:34:08.273Z",
+      "postId": 20102200,
       "stats": {
-        "cryCount": 74,
-        "laughCount": 197,
-        "likeCount": 1986,
+        "cryCount": 163,
+        "laughCount": 332,
+        "likeCount": 2053,
         "dislikeCount": 0,
-        "heartCount": 1173,
+        "heartCount": 877,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2972281122,
-        "steps": 15,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  1girl, gorgeous girl , kawai girl , cute face ,beautiful eyes, white hair, bangs , (((large braided hair))) , ((golden necklace)), expressive ecstacy, (((black seethrough top))), large saggy breast, seethrough breasts, seethrough puffy nipple, cleavage, bend forward ,wet body, water droplets,  sexy thighs, standing , (slim fit), pose , boob focus , long loincloth , boob focus, dark background, perfect lighting,",
-        "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-14T1035:24.5763739Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
-        "civitaiResources": [
+        "Size": "540x960",
+        "seed": 10,
+        "Model": "waiNSFWIllustrious_v130",
+        "steps": 20,
+        "hashes": {
+          "model": "a810e710a2",
+          "LORA:seed_zenless_zone_zero_IL": "7edf239a81"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, aesthetic,   absurdres, best quality, 4k, upscale, simple background, white background, smile, blush,  seed_(zenless_zone_zero), v, standing, sweat, spread arpits, armpit, v, steam, steaming body, dynamic pose, 1girl, solo, blue hair, green eyes, swept bangs, braid, braided ponytail, ahoge,    long hair, hair ornament, hairclip, small breasts, bare shoulders, cleavage, toeless legwear, cowboy shoot,   grey dress, white bodysuit, elbow gloves, white gloves, two-tone gloves, hip vent,  detached sleeves, see-through,  v-fin, science fiction,     <lora:seed_zenless_zone_zero_IL:1>",
+        "Version": "ComfyUI",
+        "sampler": "euler-a",
+        "cfgScale": 7,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "name": "seed_zenless_zone_zero_IL",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "a810e710a2",
+            "name": "waiNSFWIllustrious_v130",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "a810e710a2",
+        "negativePrompt": "pubic hair, 3d, cropped, loli, censored, (simple background:1.0), bar censoring, mosaic censoring,  siblings, bad legs, clones, monochrome, clones, sketch, rought lines, patreon username, logo, bad proportions, artist signature, artist name, english text, text, korean text, speech bubble, sound effects, multiple views, 4koma,comics, comic,"
       },
-      "username": "hornystoryteller",
-      "baseModel": "Pony",
+      "username": "Pathetic",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        239420,
-        290640,
-        398847,
-        436219
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "596|1753562048273",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=596%7C1753562048273"
+    "nextCursor": "597|1750811820000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=597%7C1750811820000"
   }
 }
