@@ -1,38 +1,70 @@
 {
   "items": [
     {
-      "id": 55186457,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4827855-b31b-4f47-9efa-bb37123da4d0/original=true/c4827855-b31b-4f47-9efa-bb37123da4d0.jpeg",
-      "hash": "UGD[nV00%Moy~p4o-ps:JUNG%1oKR*kCV@s:",
+      "id": 66655082,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4c115034-dd93-4922-b403-2347f0d7a202/original=true/4c115034-dd93-4922-b403-2347f0d7a202.jpeg",
+      "hash": "U7Jj9*={000100}@01S~xv?G~V9a9[57I:IV",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-01T16:58:51.781Z",
-      "postId": 12368431,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-30T00:41:00.000Z",
+      "postId": 14830465,
       "stats": {
-        "cryCount": 132,
-        "laughCount": 239,
-        "likeCount": 2050,
+        "cryCount": 104,
+        "laughCount": 220,
+        "likeCount": 1964,
         "dislikeCount": 0,
-        "heartCount": 967,
-        "commentCount": 4
+        "heartCount": 1098,
+        "commentCount": 0
       },
       "meta": {
-        "steps": 20,
-        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis or reactions and Buzz everyone.",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5
+        "Size": "832x1216",
+        "seed": 1672630971,
+        "extra": {
+          "remixOfId": 64573609
+        },
+        "steps": 25,
+        "prompt": "aesthetic, masterpiece, work of art, best quality, best, anime, detailed, pussy, detailed body, solo, 1girl, solo, sexy elf, light skin, perfect face, eyeliner, small breasts, long pink hair, twintails, blunt bangs, green eyes, nude, gold collar with gold chain leash, gold armlets, gold anklets, gold bracelets, gold bangle, nsfw, cowboy shot, standing, wariza, dynamic pose, dynamic angle, volumetric lighting, cinematic lighting, blank background, marble floor, palace, throne room",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-03-21T1811:42.9209452Z",
+        "negativePrompt": "bad quality,worst quality ,worst detail, sketch, censor , worst quality , poorly drawn hand ,  low res , patreon username , artist name , blur , blurry ,barbie",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1158510,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1355026,
+            "modelVersionName": "- Illustrious XL -"
+          }
+        ]
       },
-      "username": "Rodzilla2025X",
-      "baseModel": "",
-      "modelVersionIds": []
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1158510,
+        1355026,
+        1490781
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "623|1743295260000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=623%7C1743295260000"
+    "nextCursor": "624|1745476450695",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=624%7C1745476450695"
   }
 }
