@@ -1,68 +1,91 @@
 {
   "items": [
     {
-      "id": 100734393,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71237066-ff6d-4403-9997-f5b01d82dcd4/original=true/71237066-ff6d-4403-9997-f5b01d82dcd4.jpeg",
-      "hash": "U4LV{{00004;00xtBN?H00~B.7-o--IU~U0L",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
+      "id": 91517264,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddf52174-e9a8-4a98-9776-9f00642bbde0/original=true/ddf52174-e9a8-4a98-9776-9f00642bbde0.jpeg",
+      "hash": "UFEe}nt7tSn$rp?bozs:~V%2IVxvI9IAxuxu",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-17T00:41:00.000Z",
-      "postId": 22348980,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-31T06:09:42.761Z",
+      "postId": 20303086,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 226,
-        "likeCount": 2083,
+        "cryCount": 158,
+        "laughCount": 272,
+        "likeCount": 1999,
         "dislikeCount": 0,
-        "heartCount": 930,
-        "commentCount": 2
+        "heartCount": 939,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 1249803297,
-        "extra": {},
-        "steps": 40,
-        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, \n(realistic:1), (flat color:1.8), (haiz_ai:1), (no lineart:1), (no outline:1), (Flat vector:1),\n(artist:incase:0.5),\n 1girl, kawaii elf, beautiful, perfect face, small breasts, nude, pink hair, long hair, green eyes, twintails, (sexy expression:1.1), sexy thighs, (focus, depth of field, , dramatic lighting, bokeh), soft lighting, masterpiece, newest, , collarbone, ",
-        "denoise": 0.4,
-        "sampler": "Euler",
-        "cfgScale": 6,
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "negativePrompt": "Base:bad quality, worst quality, worst detail, sketch, censor,bad quality, worst quality, worst detail, sketch, censor, simple background, transparent background,signature, watermark, patreon logo, ,bad anatomy, bad eyes, blurry, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits, censored, patreon username, loli, worst aesthetic, worst quality, lowres, scan artifacts, (3d, realistic:0.6), signature\nworst quality, low quality, displeasing, text, watermark, \nbad anatomy, artist name, signature,",
+        "Size": "832x1216",
+        "seed": 1134548096,
+        "draft": false,
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, 1girl, solo, crawling, on all fours, ass up, SeraHHXL, dark skin, colored skin, white freckles face, long eyelashes, makeup, black lips, grey sclera, colored sclera, black pupils, white hair, white elbow gloves, long hair, halo, glowing halo, choker, huge breasts, topless, (white) tiny g-string, camel toe, (white) thigh high boots, sexy smile, closed mouth, narrow waist, perfect face, perfect eyes, thick thighs, thick hips, concept art, realistic,\nBREAK\ndetailed background, gothic, inside, church, stone floor, bed, chest, red drapes, window, stain glass",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-11T0749:16.4779948Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, score_3, score_2, score_1, distorted hands, distorted fingers, low quality, low resolution, worst quality, simple background, censored, text, signature, username, artist name, 3d, Blurry, Watermark, logo, blurry, jpeg artifacts, black and white, monochrome, compression artifacts, deformed, deformed face, deformed fingers, deformed hands, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Merged Body Parts, multiple eyebrow, extra limb, bad anatomy, long neck, long body, kid, child, extra fingers, 4 fingers, 6 fingers, negative_hand, easynegative",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1761560
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "weight": 1,
-            "modelVersionId": 2034730
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
-            "weight": 0.7,
-            "modelVersionId": 2131242
+            "type": "lora",
+            "weight": 1.4,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight [M]"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 545254,
+            "modelVersionName": "vPonyXL"
           }
         ]
       },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
+      "username": "Goon_Goblin",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1761560,
-        2034730,
-        2131242
+        135867,
+        290640,
+        330475,
+        382152,
+        545254
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "635|1753942182761",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=635%7C1753942182761"
+    "nextCursor": "636|1746439155183",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=636%7C1746439155183"
   }
 }
