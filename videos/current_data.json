@@ -1,150 +1,89 @@
 {
   "items": [
     {
-      "id": 98024151,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe43404b-6bca-44f6-9b03-042f46cb58c8/original=true/fe43404b-6bca-44f6-9b03-042f46cb58c8.jpeg",
-      "hash": "UDJaczBr_1-qo$}9$_yXLM_2;J?G}?,C9]S$",
-      "width": 1344,
-      "height": 2264,
-      "nsfwLevel": "Mature",
+      "id": 99300929,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b3e966e-fb25-4ad5-a407-dc491d29025d/original=true/0b3e966e-fb25-4ad5-a407-dc491d29025d.jpeg",
+      "hash": "UBI|F90L56X900~W-oE10y$yxZNG0e9tI;R*",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-03T14:23:00.000Z",
-      "postId": 21748243,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-10T10:10:59.504Z",
+      "postId": 22032759,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 205,
-        "likeCount": 2092,
+        "cryCount": 143,
+        "laughCount": 258,
+        "likeCount": 2028,
         "dislikeCount": 0,
-        "heartCount": 977,
-        "commentCount": 2
+        "heartCount": 980,
+        "commentCount": 0
       },
       "meta": {
-        "TI": {},
-        "Size": "896x1512",
-        "seed": 2782256937,
-        "Model": "waiNSFWIllustrious_v150",
-        "steps": 30,
-        "hashes": {
-          "model": "befc694a29",
-          "lora:XXX477": "080d12c718b3",
-          "lora:96YOTTEA-WAI": "7a6cdc714921",
-          "lora:veluflora-wai": "fbcbfb1106da",
-          "lora:a31_style_koni": "668963c77d2a",
-          "lora:mon_monmon2133": "9dcf6d165d08",
-          "lora:ag31_style_ba_v1": "77af56ed043a",
-          "lora:checkpoint-e18_s306": "491af043b410",
-          "lora:round_breasts-IL-1.0": "39368615C0F8",
-          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
-          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
-          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
+        "Size": "832x1216",
+        "seed": 750890487,
+        "draft": false,
+        "extra": {
+          "remixOfId": 95673361
         },
-        "prompt": "blue eyes, blue hair, long hair, hair bun, wavy hair, one side up, close-up, v over eye, :q, one eye closed, wink, happy, eye focus, dynamic pose, lips, blush, nail polish, large breasts, erect nipples, white and black striped mini bikini, underboob, outside, beach, selfie, slim, upper body, athletic, lying on towel, lying on side,\ndetailed eyes, light particles, slutty,\nvery awa, masterpiece, highres, absurdres, flat color, in the style of cksc, illustration, masterpiece, (extremely detailed CG 8k), (very fine 8K CG), (ultra detailed perfect piece:1.2), no lineart,(no lineart, flat art style), sinozick style, colorful,\n<lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>,<lora:mon_monmon2133:0.3>, <lora:XXX477:0.5>, <lora:96YOTTEA-WAI:0.3>, <lora:a31_style_koni:0.5>, <lora:ag31_style_ba_v1:0.8>, <lora:checkpoint-e18_s306:0.6>, <lora:veluflora-wai:0.5>,  <lora:round_breasts-IL-1.0:0.35>",
-        "Version": "f2.0.1v1.10.1-previous-665-gae278f79",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 6,
-        "resources": [
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, very aesthetic, realism, blond, oshino shinobu, cute petite, long blonde hair, vampire, yellow eyes, narrowed eyes,full face blush, ecstasy, bliss, small breasts, small butt, small hips, soft skin, deep skin, skindentation, bare breasts, small pink nipples, nude, steam breath, horny, \nnipples, navel, (perfect feets), toes, barefoot>,<looking at viewer, partered lips, blush ,female masturbation, huge object insertion, huge dildo grab, arched back>, <lying on side, spread legs, sexy pose>, <indoors, night, old house, detailed background>, <face out of frame, dynamic angle, (feet focus: 1.5)",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-09T1102:51.2632851Z",
+        "experimental": false,
+        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes, extra toes,",
+        "civitaiResources": [
           {
-            "hash": "DA259DF60E36",
-            "name": "NOOB_vp1_detailer_by_volnovik_v1",
-            "type": "lora",
-            "weight": 0.3
+            "type": "checkpoint",
+            "modelVersionId": 1761560
           },
           {
-            "hash": "33d8271217ed",
-            "name": "noobai_ep11_stabilizer_v0.138_fp16",
             "type": "lora",
-            "weight": 0.3
+            "weight": 0.7,
+            "modelVersionId": 1375651
           },
           {
-            "hash": "72ea46a2b089",
-            "name": "ponyv6_noobV1_2_adamW",
             "type": "lora",
-            "weight": 0.3
+            "weight": 0.7,
+            "modelVersionId": 1552087
           },
           {
-            "hash": "9dcf6d165d08",
-            "name": "mon_monmon2133",
             "type": "lora",
-            "weight": 0.3
+            "weight": 0.7,
+            "modelVersionId": 1020899
           },
           {
-            "hash": "080d12c718b3",
-            "name": "XXX477",
             "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "7a6cdc714921",
-            "name": "96YOTTEA-WAI",
-            "type": "lora",
-            "weight": 0.3
-          },
-          {
-            "hash": "668963c77d2a",
-            "name": "a31_style_koni",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "77af56ed043a",
-            "name": "ag31_style_ba_v1",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "491af043b410",
-            "name": "checkpoint-e18_s306",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "fbcbfb1106da",
-            "name": "veluflora-wai",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "39368615C0F8",
-            "name": "round_breasts-IL-1.0",
-            "type": "lora",
-            "weight": 0.35
-          },
-          {
-            "hash": "befc694a29",
-            "name": "waiNSFWIllustrious_v150",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 1216138
           }
-        ],
-        "Model hash": "befc694a29",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x-UltraSharpV2",
-        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts",
-        "Hires CFG Scale": "5",
-        "Denoising strength": "0.35"
+        ]
       },
-      "username": "BallsyBalls",
+      "username": "Kuronandayo",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        400010,
-        438698,
-        1082928,
-        1145311,
-        1150423,
-        1209350,
-        1247042,
-        1308598,
-        1311785,
-        1356500,
-        2167369
+        1020899,
+        1216138,
+        1375651,
+        1552087,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "603|1757499059504",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=603%7C1757499059504"
+    "nextCursor": "604|1750935900000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=604%7C1750935900000"
   }
 }
