@@ -1,108 +1,128 @@
 {
   "items": [
     {
-      "id": 70322098,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed490d36-92da-47e5-a4af-cc7744f2c9a8/original=true/ed490d36-92da-47e5-a4af-cc7744f2c9a8.jpeg",
-      "hash": "UBI}9h~X02_3%L+sMc-99uI[WBkWysELrqyE",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 67932484,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac81c1a2-bc4c-4dbe-8363-ea8addf4af62/original=true/ac81c1a2-bc4c-4dbe-8363-ea8addf4af62.jpeg",
+      "hash": "UKLgb9H?yXSey?o0^jE19^RO#+XSOYt7$%I:",
+      "width": 1920,
+      "height": 2880,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-16T05:00:00.000Z",
-      "postId": 15622809,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-04T17:16:09.925Z",
+      "postId": 15100667,
       "stats": {
-        "cryCount": 110,
-        "laughCount": 270,
-        "likeCount": 2048,
+        "cryCount": 141,
+        "laughCount": 256,
+        "likeCount": 2032,
         "dislikeCount": 0,
-        "heartCount": 964,
+        "heartCount": 963,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1728515019,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:drake-nikke-richy-v1_ixl:1>,drakrnd, red eyes, short hair, white hair, single earring, hair ornament, medium breasts, grey mascara, puffy lips, glossy pink lipstick, fingernails, nail polish, red long nails, nailsart, 1girl, 1 woman, pretty face llight blush, raunchy makeup, seductive eyes, raunchy smoky eyes, eyeliner, mascara, earrings, 1girl, 1woman, solo, anime, sexy girl, ((silver laced choker)), sea blue, silver micro top, silver lace micro top, breasts overhang, sea blue caribic, silver side-tie g-string, wet clothes, medium firm breast, ((seethrough breasts, seethrough hard nipple)), (wet clothes), underboob, head tilt, arms up, hand on breast, hand in hair, posing, dynamic angle, biting own lip, standing, from below, realistic light, dutch angle, fom below, alluring and erotic atmosphere. depth of field, blurry soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from side, blurry background, bright colors, stunningly artwork,",
-        "sampler": "DDIM",
-        "cfgScale": 4,
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 1403849721,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 89,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:SJ Style": "1f179d534e0a",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:Sinozick Style": "fe4dcbd1435d",
+          "lora:Super Mix Lora": "1fa409cfa4bd",
+          "lora:My private model": "73d3eeff35f0",
+          "lora:Korean Manhwa mix": "02e51928d5e9",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Anime Consistency v1.1 LOHA": "7ad45cc8bb23",
+          "lora:Bra embellishments enhancer": "9d22b7ef3974"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,\n1girl, solo,aqua hair, brown eyes, (bangs:1.5), straight hair, very long hair,  close up, hoop earrings, young girl, \nbra, lace-trimmed bra, black bra, black thong, highleg, lace-trimmed thong, bare stomach, micro bra, looking at viewer, string bra, from above, \n(large breasts:1.5),\ncowboy shot, \nlight smile, parted lips,\nurushihara satoshi style, JabarandP, dim lighting, backlighting,\nabstract background, white curtains, blurry background, pale skin,\n<lora:Anime Consistency v1.1 LOHA:0.35>, <lora:Super Mix Lora:0.35>, <lora:SJ Style:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick Style:0.2>, <lora:My private model:0.1>, <lora:Korean Manhwa mix:0.1>,  <lora:Bra embellishments enhancer:0.8>,   <lora:Implants2:0.6> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [
           {
-            "name": "drake-nikke-richy-v1_ixl",
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
             "type": "lora",
-            "weight": 1
+            "weight": 0.2
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "7ad45cc8bb23",
+            "name": "Anime Consistency v1.1 LOHA",
+            "type": "lora"
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "Super Mix Lora",
+            "type": "lora"
+          },
+          {
+            "hash": "1f179d534e0a",
+            "name": "SJ Style",
+            "type": "lora"
+          },
+          {
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick Style",
+            "type": "lora"
+          },
+          {
+            "hash": "73d3eeff35f0",
+            "name": "My private model",
+            "type": "lora"
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Korean Manhwa mix",
+            "type": "lora"
+          },
+          {
+            "hash": "9d22b7ef3974",
+            "name": "Bra embellishments enhancer",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
           }
         ],
-        "Created Date": "2025-04-14T1605:42.4148103Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1412789,
-            "modelVersionName": "v2.90"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1655107,
-            "modelVersionName": "drake-nikke-richy-v1_ixl"
-          }
-        ]
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "25",
+        "Hires upscale": "2",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "nipples,  (forehead:1.5),  beard, (plant:1.5), leaf:1.5, 6fingers, (lace straps:1.5),  visible veins, visible thread veins, suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, pencil, sunglasses,",
+        "Denoising strength": "0.02"
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "ceii0502382",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        6056,
-        25820,
-        1056404,
-        1135769,
-        1373674,
-        1412789,
-        1655107
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "620|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=620%7C1743786969925"
+    "nextCursor": "621|1727442623940",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=621%7C1727442623940"
   }
 }
