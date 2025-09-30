@@ -1,84 +1,119 @@
 {
   "items": [
     {
-      "id": 101233991,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38c008d3-41c5-499f-ad32-44cd019bdde8/original=true/38c008d3-41c5-499f-ad32-44cd019bdde8.jpeg",
-      "hash": "U8BC=9^j0g02E2t7R*xZ019a~A%L?G-oRjIp",
+      "id": 47505180,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2549733d-3ba2-48d7-a1c0-c19c158f977e/original=true/2549733d-3ba2-48d7-a1c0-c19c158f977e.jpeg",
+      "hash": "UAINXK57T{~C0K?a4T$Mu5%M.8Nbo$b^?]Mx",
       "width": 1280,
       "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-09-19T15:45:00.000Z",
-      "postId": 22459202,
+      "createdAt": "2024-12-25T08:11:55.425Z",
+      "postId": 10725456,
       "stats": {
-        "cryCount": 151,
-        "laughCount": 202,
-        "likeCount": 2076,
+        "cryCount": 107,
+        "laughCount": 233,
+        "likeCount": 2172,
         "dislikeCount": 0,
-        "heartCount": 951,
+        "heartCount": 870,
         "commentCount": 1
       },
       "meta": {
-        "seed": 1513773361,
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "seed": 395506828,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:565749@1060748",
         "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
+        "steps": 30,
         "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+          "urn:air:sdxl:checkpoint:civitai:565749@1060748"
         ],
-        "prompt": "s1_dram, masterpiece, ultra-HD, impressionism , high detail, depth of field, (blurred background),masterpiece, best quality, very aesthetic,8k,light particles, nsfw, glow, (black outline), \n\n1girl, solo,  short black hair hair, pale skin, freckles, breast lift, corset, smirk, smiling",
-        "denoise": 0.4,
-        "process": "txt2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,flat illustration, flat colors, lineart,\n\n[flust], puffy girl, grey eyes, red lips, lipstick, red lips, black hair, long hair, hair rim light,\n\nwearing strapless red short-dress with white fur, black santa belt, (santa red stockings garter-straps:1.2), santa elbow gloves with fur, green ribbon, santa hat, red high-heels,\n\nlooking at viewer,blushing, happy, smirk, teeth open mouth,\n\nerotic kneeling pose, spreading legs, (top view,  cleavage close-up view:1.2),\n\non a white fur carpet floor next to a Christmas tree and presents background",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "modelIds": [],
         "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/052WWRRMG6RV7AQKJCGQ50MMJ0.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQxQJnTVUq_e4GyygvrtT2cJp7RzDoNXsp1PrPEW9MD7XFOvMjlu1XlsGPLB0J2NZ78RyfRl4GUTaFXoUopeXhaKdv3ZMVzBptwaZq2p0GJaiihRZL8aiPmbNhsL_qKwg2rXWLOMqER1epHhzN9pSFUbmZyicziuHBhj5ZbztGz_XNGWlt3t6QhR8tbXOosUMrFUsKcc8qwHU38H8V-osBjxjaxqSCdXLPi35a1hBCo_Tl4-GMEubjqqhKQsE-qC-ULWLOa0bT0vD3r_ysobwLO&exp=2026-09-19T04:45:45.8523603Z",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "3d, worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_4, score_5, score_6, muscular, fury, child, kid, easynegative, low-quality, logo, bad, aliasing, text, blurry, poorly drawn, watermark, muscular, distortion, realistic, blur, 3D, worst-quality, monochrome, artifacts, distorted hands, bad, distorted, lowres, extra fingers, twisted, censored, downsampling, stars, collar, neck, choker, neck bow, bowtie",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
+            "weight": 1,
+            "modelVersionId": 1060748
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 2209882
+            "weight": 1,
+            "modelVersionId": 1060748
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 393884
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 416357
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1060748
           },
           {
             "type": "upscaler",
             "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 393884
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 416357
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:347082@393884",
+            "type": "lora",
+            "strength": 0.9,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:362745@416357",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "DrPeeHands",
-      "baseModel": "Illustrious",
+      "username": "MatureOnly",
+      "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
         164821,
-        1240288,
-        2209882
+        393884,
+        416357,
+        1060748
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "626|1735114315425",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=626%7C1735114315425"
+    "nextCursor": "627|1754077954754",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=627%7C1754077954754"
   }
 }
