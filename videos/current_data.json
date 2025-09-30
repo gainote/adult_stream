@@ -1,120 +1,84 @@
 {
   "items": [
     {
-      "id": 84620485,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36d82ccc-dd2d-40a7-974e-9585aa18ff35/original=true/36d82ccc-dd2d-40a7-974e-9585aa18ff35.jpeg",
-      "hash": "UDF={rp{Ips.yX.TozMxL3Rn%Moz8xD*Ios:",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 35128561,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/362cd6d2-0b8b-4b95-905a-4a5306a305bf/original=true/362cd6d2-0b8b-4b95-905a-4a5306a305bf.jpeg",
+      "hash": "UGFrq,9FB=-;x]4nIAs:.TIT-pt7.8M{RPxv",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-26T11:05:00.000Z",
-      "postId": 18785488,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-18T05:15:00.000Z",
+      "postId": 8028821,
       "stats": {
-        "cryCount": 126,
-        "laughCount": 251,
-        "likeCount": 2020,
+        "cryCount": 146,
+        "laughCount": 305,
+        "likeCount": 1994,
         "dislikeCount": 0,
-        "heartCount": 1012,
-        "commentCount": 1
+        "heartCount": 965,
+        "commentCount": 49
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 885300526,
-        "Model": "Untitled_Pony_Realism_klaabu_v1.0b",
-        "steps": 24,
-        "hashes": {
-          "model": "7ca2362e99",
-          "lora:Add_Details_v1.2": "e5a0bfd443a5",
-          "lora:LUT_slider_xxXL_V1": "b2a4af69dbee",
-          "lora:amateur_egirl_v1.9": "f5d3d7fcee7a",
-          "lora:amateur_style_v1_pony": "02497e0e0f19",
-          "lora:amateur2_alpha2.5_rank2_noxattn_450steps": "ecbae4815a50",
-          "lora:puffy_tit_alpha1.5_rank2_noxattn_225steps": "db90b71a9603",
-          "lora:a_above_belowXL_alpha2.0_rank2_noxattn_150steps": "649f8bfd01e9"
-        },
-        "prompt": "Masterpiece, best quality, amazing quality, 18 year old, sexy face, instagram model, beautiful face, from side, lying on side, breast focus, realistic skin, big breasts, bikini panties, highly detailed skin, skinny, brown long hair, outdoors, girly, on all fours, view side,\n\n<lora:Add_Details_v1.2:2.75>\n<lora:amateur_egirl_v1.9:1.85>  <lora:RawCam_250_v1:2.6><lora:amateur_style_v1_pony:1.1> \n<lora:LUT_slider_xxXL_V1:1.2>",
-        "Version": "v1.10.0",
-        "sampler": "DPM++ SDE",
-        "cfgScale": 4.5,
-        "resources": [
+        "seed": 3545300278,
+        "steps": 30,
+        "prompt": "score_9, score_8_up, score_7_up, 1girl beautiful (20 yo, (freckles), (long blonde wavy hair), slightly higher cheekbones, carved hipbones, medium breasts), light goth eye makeup, (accurate face), (light grey eyes:1.1), (amazing tattoo design, quantum entanglement, (vivid watercolor style tattoos), breathtaking tattoo design, incredible tattoo design, heavily tattooed:1.2), (matching realistic eye colors), correct iris structure, ultra quality dynamic shadows, ultra quality shadows)), (pink puffy winter coat, topless, white lace panties), looking at viewer, eyesHD, high gradient eyes, seductive, cowboy shot, outside snowy winter forest",
+        "sampler": "DPM2",
+        "cfgScale": 2.4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-10-17T0941:03.0612589Z",
+        "negativePrompt": "score_6, score_5, score_4,(low quality, worst quality:1.4), signature, bad-hands-5, Stable_Yogis_PDXL_Negatives, bad anatomy, bad hands. Weird hands, multiple fingers. disjoints. makeup. Word, Letters. logo. numbers.",
+        "civitaiResources": [
           {
-            "hash": "db90b71a9603",
-            "name": "puffy_tit_alpha1.5_rank2_noxattn_225steps",
+            "type": "checkpoint",
+            "modelVersionId": 953264,
+            "modelVersionName": "v6.5"
+          },
+          {
             "type": "lora",
-            "weight": 2.85
+            "weight": 0.15,
+            "modelVersionId": 383563,
+            "modelVersionName": "v2.0"
           },
           {
-            "hash": "e5a0bfd443a5",
-            "name": "Add_Details_v1.2",
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 772342,
+            "modelVersionName": "Stable_Yogis_PDXL_Neg"
+          },
+          {
             "type": "lora",
-            "weight": 2.75
+            "weight": 0.45,
+            "modelVersionId": 647890,
+            "modelVersionName": "Skin Texture v1.0"
           },
           {
-            "hash": "f5d3d7fcee7a",
-            "name": "amateur_egirl_v1.9",
-            "type": "lora",
-            "weight": 1.85
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "hash": "ecbae4815a50",
-            "name": "amateur2_alpha2.5_rank2_noxattn_450steps",
-            "type": "lora",
-            "weight": 2.6
-          },
-          {
-            "hash": "02497e0e0f19",
-            "name": "amateur_style_v1_pony",
-            "type": "lora",
-            "weight": 1.1
-          },
-          {
-            "hash": "b2a4af69dbee",
-            "name": "LUT_slider_xxXL_V1",
-            "type": "lora",
-            "weight": 1.2
-          },
-          {
-            "hash": "649f8bfd01e9",
-            "name": "a_above_belowXL_alpha2.0_rank2_noxattn_150steps",
-            "type": "lora"
-          },
-          {
-            "hash": "7ca2362e99",
-            "name": "Untitled_Pony_Realism_klaabu_v1.0b",
-            "type": "model"
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "7ca2362e99",
-        "Hires steps": "15",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires upscaler": "Latent",
-        "negativePrompt": "Bad quality,low quality, ass focus, view back,",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer prompt": {},
-        "ADetailer version": "24.6.0",
-        "Denoising strength": "0.5",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "klaabu",
+      "username": "perchancekage0000",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1594293,
-        1764228,
-        1854599
+        383563,
+        647890,
+        772342,
+        953264
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "605|1729228500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=605%7C1729228500000"
+    "nextCursor": "606|1750895400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=606%7C1750895400000"
   }
 }
