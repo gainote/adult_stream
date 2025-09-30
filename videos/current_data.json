@@ -1,84 +1,68 @@
 {
   "items": [
     {
-      "id": 91873697,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/65e48c82-d3cd-414b-a3eb-c30a7b5fab55/original=true/65e48c82-d3cd-414b-a3eb-c30a7b5fab55.jpeg",
-      "hash": "UKJ@2]#k7PIqA}xsM}bw4.%1]gX8o}IV^NR%",
-      "width": 832,
-      "height": 1216,
+      "id": 100734393,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71237066-ff6d-4403-9997-f5b01d82dcd4/original=true/71237066-ff6d-4403-9997-f5b01d82dcd4.jpeg",
+      "hash": "U4LV{{00004;00xtBN?H00~B.7-o--IU~U0L",
+      "width": 2688,
+      "height": 3840,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-08-09T04:22:00.000Z",
-      "postId": 20382076,
+      "createdAt": "2025-09-17T00:41:00.000Z",
+      "postId": 22348980,
       "stats": {
-        "cryCount": 164,
-        "laughCount": 297,
-        "likeCount": 1920,
+        "cryCount": 129,
+        "laughCount": 226,
+        "likeCount": 2083,
         "dislikeCount": 0,
-        "heartCount": 988,
+        "heartCount": 930,
         "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 163187463,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, highly detailed, very aesthetic, absurdres, 1=2, newest, Ultra_HD, 8k, face focus, face closeup, detailed face, dynamic angle, anime style, 2d, \nBREAK,\nvramsrumi, long hair, purple hair, braided hair, brown eyes, 1girl, solo, rolling eyes, mouth wide open, big mouth, exaggerated, ohogao, smiling, silly smile, smelling, sucking cock, horny, crazy in pleasure, cum in nose, nose cum bubble, eating cock, cock's tip in mouth, wide nostrils, puffy lips, saliva dripping, excessive saliva, cock worship, penis awe, heart eyes, tongue out,\nBREAK,\n1boys, male out of frame, dark skinned male massive cock, huge penis, absurdly large cock, thick penis, veiny penis, precum,\nBREAK,\ndetailed background, blurry background, outdoor, concert, on stage, crowded place,",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-25T0421:56.1807218Z",
-        "experimental": false,
-        "negativePrompt": "3d, patreon logo, text, bad quality, worst quality, worst detail, sketch, censor, bad hands, extra digits, futa, watermark, static image, logo, patreon, censored, male, serious, sad",
+        "seed": 1249803297,
+        "extra": {},
+        "steps": 40,
+        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, \n(realistic:1), (flat color:1.8), (haiz_ai:1), (no lineart:1), (no outline:1), (Flat vector:1),\n(artist:incase:0.5),\n 1girl, kawaii elf, beautiful, perfect face, small breasts, nude, pink hair, long hair, green eyes, twintails, (sexy expression:1.1), sexy thighs, (focus, depth of field, , dramatic lighting, bokeh), soft lighting, masterpiece, newest, , collarbone, ",
+        "denoise": 0.4,
+        "sampler": "Euler",
+        "cfgScale": 6,
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "negativePrompt": "Base:bad quality, worst quality, worst detail, sketch, censor,bad quality, worst quality, worst detail, sketch, censor, simple background, transparent background,signature, watermark, patreon logo, ,bad anatomy, bad eyes, blurry, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits, censored, patreon username, loli, worst aesthetic, worst quality, lowres, scan artifacts, (3d, realistic:0.6), signature\nworst quality, low quality, displeasing, text, watermark, \nbad anatomy, artist name, signature,",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
-          },
-          {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1192192,
-            "modelVersionName": "illustrious v1.0"
+            "modelVersionId": 1761560
           },
           {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 2005546,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 2034730
           },
           {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 571832,
-            "modelVersionName": "Pony"
+            "weight": 0.7,
+            "modelVersionId": 2131242
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": "Mephistophele",
+      "username": "ElvishDreams",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        571832,
-        1192192,
-        1410435,
-        2005546
+        164821,
+        1761560,
+        2034730,
+        2131242
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "634|1758069660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=634%7C1758069660000"
+    "nextCursor": "635|1753942182761",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=635%7C1753942182761"
   }
 }
