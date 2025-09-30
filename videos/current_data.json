@@ -1,90 +1,57 @@
 {
   "items": [
     {
-      "id": 91901174,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27c13586-75cf-48c5-8278-f4222e382c18/original=true/27c13586-75cf-48c5-8278-f4222e382c18.jpeg",
-      "hash": "UbL4pZX9.T$$AJIUXT%N%Nt7xZS$k?kDxtRj",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 96650158,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06f6cd6b-93e6-4923-ab84-1dadf8415a07/original=true/06f6cd6b-93e6-4923-ab84-1dadf8415a07.jpeg",
+      "hash": "USN9wsr?3ZXn0+%2E,Mx9bOFMybb-UMyxDt7",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-05T00:15:35.259Z",
-      "postId": 20388024,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-27T11:04:41.454Z",
+      "postId": 21438648,
       "stats": {
-        "cryCount": 176,
-        "laughCount": 239,
-        "likeCount": 2156,
+        "cryCount": 116,
+        "laughCount": 197,
+        "likeCount": 2160,
         "dislikeCount": 0,
-        "heartCount": 826,
+        "heartCount": 921,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 423380592,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, absurdres, newest, ultra-detailed, highly detailed, detailed background, perfect quality, best quality, very aesthetic, intricate details, detailed face, beautiful face, perfect eyes, detailed eyes, perfect face, perfect anatomy, dynamic lighting, 2d, sunny day, beach,  water reflection, foreshortening, blurry background, BREAK , (( cana, 1girl, long hair, brown hair, purple eyes, large breasts, brown eyes, patterned criss-cross halter bikini,  thigh, (wet:0.7), seductive face, pupils ,barefoot, seductive smile)), BREAK , motion lines, <lora:dio-brandos-pose-illustriousxl-lora-nochekaiser:1>, dio brandos pose, dio brando's pose (jojo), from behind, jojo pose, standing, dynamic angle, dutch angle, cowboy shot, looking at viewer",
-        "process": "txt2img",
+        "steps": 36,
+        "prompt": "best quality, amazing quality, very aesthetic, sky,\ncute, kawaii, flat tummy, model body, detailed eyes, light orange hair, perfect eyes, navel, tropical outfit, bend knee, sleevless, bare legs, hips focus, from below, untied straps, hips focus, cameltoe,\nextreme detail, Masterpiece, best quality, beautiful, high res, hot summer, (lovely),",
         "sampler": "Euler a",
-        "cfgScale": 6,
+        "cfgScale": 3,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "dio-brandos-pose-illustriousxl-lora-nochekaiser",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-02T0450:10.0107181Z",
-        "experimental": false,
-        "negativePrompt": "lowres, bad, error, fewer, extra, missing, worst quality, lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],comics, panties, red skin, large aerolas, large nipples, bows, white outline, missing finger, shirt design, chibi characters, bald, cape, Disfigured, kitsch, ugly, oversaturated, grain, low-res, Deformed, blurry, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands,1boy, 2 boys, horns, qu33n",
+        "resources": [],
+        "Created Date": "2025-08-16T0715:09.2917156Z",
+        "negativePrompt": "sitting, sexy panties, sexy bra, worst quality, bad quality, low quality, watermark,chinese text,korean text,signature, blurry, worst quality, low quality, blurry, extra limbs, fused, copyright name, patreon username, patreon logo, twitter username, extra digits, sketch, web_address, head out of frame,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1873831,
-            "modelVersionName": "v2.0p"
+            "modelVersionId": 1761560
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1778929,
-            "modelVersionName": "booru"
-          },
-          {
-            "type": "lora",
-            "weight": 1.1,
-            "modelVersionId": 1417184,
-            "modelVersionName": "IXL 2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1783930,
-            "modelVersionName": "v1.0"
+            "weight": 0.6,
+            "modelVersionId": 2091181
           }
         ]
       },
-      "username": "GEATSZ08",
+      "username": "yetanotheraccount_xxx",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1417184,
-        1778929,
-        1783930,
-        1873831
+        1761560,
+        2091181
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "615|1756292681454",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=615%7C1756292681454"
+    "nextCursor": "616|1736551536740",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=616%7C1736551536740"
   }
 }
