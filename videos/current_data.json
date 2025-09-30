@@ -1,82 +1,38 @@
 {
   "items": [
     {
-      "id": 31588386,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ba3063f-07a8-4995-acac-2fbfde707bba/original=true/4ba3063f-07a8-4995-acac-2fbfde707bba.jpeg",
-      "hash": "U7I{yu001d^Q~VIo^PRQ01ADxarr01Ez9t-V",
-      "width": 2112,
-      "height": 3096,
+      "id": 55186457,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4827855-b31b-4f47-9efa-bb37123da4d0/original=true/c4827855-b31b-4f47-9efa-bb37123da4d0.jpeg",
+      "hash": "UGD[nV00%Moy~p4o-ps:JUNG%1oKR*kCV@s:",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-09-27T13:10:23.940Z",
-      "postId": 7112302,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-01T16:58:51.781Z",
+      "postId": 12368431,
       "stats": {
-        "cryCount": 89,
-        "laughCount": 185,
-        "likeCount": 1963,
+        "cryCount": 132,
+        "laughCount": 239,
+        "likeCount": 2050,
         "dislikeCount": 0,
-        "heartCount": 1155,
-        "commentCount": 3
+        "heartCount": 967,
+        "commentCount": 4
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 9,
-        "steps": 30,
-        "hashes": {
-          "model": "67ab2fd8ec",
-          "LORA:g0th1cPXL": "0b75417915",
-          "LORA:add-detail-xl": "0d9bd1b873",
-          "LORA:Styles\\ExpressiveH": "7b53da0391",
-          "LORA:Styles\\Disney Princess": "80aa67913a",
-          "LORA:sinfully_stylish_PONY_0.2": "a19ad7ddc2",
-          "LORA:incase_style_v3-1_ponyxl_ilff": "dfce508dd9"
-        },
-        "prompt": "score_9, score_8_up, score_7_up,  close shot of tits, tits focused, 18 years old, girl, shining skin, perfect quality, high quality, solo, ambient occlusion, raytracing, source_anime, shining glossy skin, soft lighting, soft skin, realistic skin, blum effect, masterpiece, absolutely eye-catching, perky nipples, perfect round breast, oiled, sweaty, sweat drops, (goosebumps:1.15), sweat, simple background, spotlight, underboob, closed_mouth,dutch_angle,  <lora:add-detail-xl:0.5>  <lora:Styles\\Disney Princess:0.45> <lora:Styles\\ExpressiveH:0.8> <lora:g0th1cPXL:0.45> <lora:incase_style_v3-1_ponyxl_ilff:0.3> <lora:sinfully_stylish_PONY_0.2:0.6>",
+        "steps": 20,
+        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis or reactions and Buzz everyone.",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6,
-        "resources": [
-          {
-            "name": "add-detail-xl",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "name": "g0th1cPXL",
-            "type": "lora",
-            "weight": 0.45
-          },
-          {
-            "name": "incase_style_v3-1_ponyxl_ilff",
-            "type": "lora",
-            "weight": 0.3
-          },
-          {
-            "name": "sinfully_stylish_PONY_0.2",
-            "type": "lora",
-            "weight": 0.6
-          }
-        ],
-        "Model hash": "67ab2fd8ec",
-        "negativePrompt": "score_6, score_5, score_4, skinny, anorexic, furry, (loli, child), muscular body, small breast, low detailed face, asian, bad face, ugly face, mutated hands, negative_hand, (polydactyly:1.2), (polydactyl:1.2), bad fingers, (milf:1.3), face paint, ugly nose, bad nose, glowing eyes, signature, watermark, comics, frames, full body, face focused, face, head_tilt, face, parted lips,",
-        "PonyV6XL Version": "ComfyUI"
+        "cfgScale": 5
       },
-      "username": "ADPA",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        398847,
-        135867,
-        290640,
-        382152,
-        244808,
-        449162,
-        436219
-      ]
+      "username": "Rodzilla2025X",
+      "baseModel": "",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "622|1738429131781",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=622%7C1738429131781"
+    "nextCursor": "623|1743295260000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=623%7C1743295260000"
   }
 }
