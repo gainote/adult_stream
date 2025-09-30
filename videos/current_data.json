@@ -1,77 +1,108 @@
 {
   "items": [
     {
-      "id": 90766877,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7f34f91b-fef9-42ef-b85b-6341fde539c0/original=true/7f34f91b-fef9-42ef-b85b-6341fde539c0.jpeg",
-      "hash": "U5E.*500yA0000}?%$Dhv_IBx^Mx%%xYD*%0",
-      "width": 1216,
-      "height": 832,
+      "id": 70322098,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed490d36-92da-47e5-a4af-cc7744f2c9a8/original=true/ed490d36-92da-47e5-a4af-cc7744f2c9a8.jpeg",
+      "hash": "UBI}9h~X02_3%L+sMc-99uI[WBkWysELrqyE",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-27T11:17:15.159Z",
-      "postId": 20129165,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-16T05:00:00.000Z",
+      "postId": 15622809,
       "stats": {
-        "cryCount": 254,
-        "laughCount": 411,
-        "likeCount": 1952,
+        "cryCount": 110,
+        "laughCount": 270,
+        "likeCount": 2048,
         "dislikeCount": 0,
-        "heartCount": 775,
-        "commentCount": 2
+        "heartCount": 964,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "1216x832",
-        "seed": 1068375612,
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1728515019,
         "draft": false,
         "steps": 30,
-        "width": 1216,
-        "height": 832,
-        "prompt": "masterpiece, best quality, newest, absurdres, pixelsketcher, very awa, newest, \n{1femboy, 20 years old, elf, drow, gray skin, white hair, short boyish haircut, tall, slim, androgynous, small erect penis, sexy, hot, fit body, (slim fit), wet skin, hard cock, sexy thighs, thick thighs}, \npose, horny, blushing, seductive:1.6, nude, \nanal dildo masturbation, orgasm expression, open mouth, spreads legs, tongue, cumming,\ndetailed background, outdoors, beach",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:drake-nikke-richy-v1_ixl:1>,drakrnd, red eyes, short hair, white hair, single earring, hair ornament, medium breasts, grey mascara, puffy lips, glossy pink lipstick, fingernails, nail polish, red long nails, nailsart, 1girl, 1 woman, pretty face llight blush, raunchy makeup, seductive eyes, raunchy smoky eyes, eyeliner, mascara, earrings, 1girl, 1woman, solo, anime, sexy girl, ((silver laced choker)), sea blue, silver micro top, silver lace micro top, breasts overhang, sea blue caribic, silver side-tie g-string, wet clothes, medium firm breast, ((seethrough breasts, seethrough hard nipple)), (wet clothes), underboob, head tilt, arms up, hand on breast, hand in hair, posing, dynamic angle, biting own lip, standing, from below, realistic light, dutch angle, fom below, alluring and erotic atmosphere. depth of field, blurry soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from side, blurry background, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
+        "cfgScale": 4,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
         "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "19:13",
-        "Created Date": "2025-07-27T1113:48.7986913Z",
-        "experimental": false,
-        "negativePrompt": "ai-artifatcts, worst quality, old, early, loli, futa, low quality, lowres, signature, username, logo, bad hands, mutated hands, artist name, sketch,  bad eyes, blurry eyes, bad face,\n((watermark)), logo, patreon username:1.6, text, bad details, \n(((childlike))), (((childish))), (((minor))),(people in background), speech bubble, tan lines, (female breasts), deformed, pussy, vagina:1.6, girl:1.6, detached penis, conjoined penises, detached limbs, detached head, piercing,",
+        "resources": [
+          {
+            "name": "drake-nikke-richy-v1_ixl",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "Created Date": "2025-04-14T1605:42.4148103Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
+            "modelVersionId": 1412789,
+            "modelVersionName": "v2.90"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1179962,
-            "modelVersionName": "bonifasko"
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
           },
           {
             "type": "lora",
             "weight": 0.9,
-            "modelVersionId": 1277586,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1655107,
+            "modelVersionName": "drake-nikke-richy-v1_ixl"
           }
         ]
       },
-      "username": "goonisher228",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1179962,
-        1277586,
-        1490781
+        6056,
+        25820,
+        1056404,
+        1135769,
+        1373674,
+        1412789,
+        1655107
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "618|1744779600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=618%7C1744779600000"
+    "nextCursor": "619|1743786969925",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=619%7C1743786969925"
   }
 }
