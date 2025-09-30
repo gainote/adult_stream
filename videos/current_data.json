@@ -1,84 +1,56 @@
 {
   "items": [
     {
-      "id": 35128561,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/362cd6d2-0b8b-4b95-905a-4a5306a305bf/original=true/362cd6d2-0b8b-4b95-905a-4a5306a305bf.jpeg",
-      "hash": "UGFrq,9FB=-;x]4nIAs:.TIT-pt7.8M{RPxv",
-      "width": 832,
-      "height": 1216,
+      "id": 84538591,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7bbc18f6-9248-4f18-92dd-95a22357fb1b/original=true/7bbc18f6-9248-4f18-92dd-95a22357fb1b.jpeg",
+      "hash": "UAB:52E*ox~BI9xZbwtR9tMyIADiWXIpIqNx",
+      "width": 1536,
+      "height": 2304,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-10-18T05:15:00.000Z",
-      "postId": 8028821,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-25T23:50:00.000Z",
+      "postId": 18765037,
       "stats": {
-        "cryCount": 146,
-        "laughCount": 305,
-        "likeCount": 1994,
+        "cryCount": 134,
+        "laughCount": 264,
+        "likeCount": 1968,
         "dislikeCount": 0,
-        "heartCount": 965,
-        "commentCount": 49
+        "heartCount": 1040,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3545300278,
+        "Size": "2305x1537",
+        "seed": 1068207382668597,
+        "Model": "A-mix",
         "steps": 30,
-        "prompt": "score_9, score_8_up, score_7_up, 1girl beautiful (20 yo, (freckles), (long blonde wavy hair), slightly higher cheekbones, carved hipbones, medium breasts), light goth eye makeup, (accurate face), (light grey eyes:1.1), (amazing tattoo design, quantum entanglement, (vivid watercolor style tattoos), breathtaking tattoo design, incredible tattoo design, heavily tattooed:1.2), (matching realistic eye colors), correct iris structure, ultra quality dynamic shadows, ultra quality shadows)), (pink puffy winter coat, topless, white lace panties), looking at viewer, eyesHD, high gradient eyes, seductive, cowboy shot, outside snowy winter forest",
-        "sampler": "DPM2",
-        "cfgScale": 2.4,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-17T0941:03.0612589Z",
-        "negativePrompt": "score_6, score_5, score_4,(low quality, worst quality:1.4), signature, bad-hands-5, Stable_Yogis_PDXL_Negatives, bad anatomy, bad hands. Weird hands, multiple fingers. disjoints. makeup. Word, Letters. logo. numbers.",
-        "civitaiResources": [
+        "hashes": {
+          "model": "b199b92ee9"
+        },
+        "prompt": "aysmm, brown hair, brown eyes, medium hair, earrings, jewlery, black choker, (large breasts:0.9), , , 1girl, breasts, cum, nipples, hetero, 1boy, closed eyes, penis, open mouth, cum in mouth, ejaculation, solo focus, cum on tongue, collarbone, , nude, tongue, upper body, completely nude, male masturbation, masturbation, tongue out, projectile cum, from below, dynamic angle, close-up , huge penis, facial, , excessive cum, 1girl, jewelry, solo, , dark-skinned female, , breasts, earrings, t, long hair, very dark skin, cleavage, dreadlocks, dress, black hair, looking at viewer, nail polish, necklace, medium breasts, hoop earrings, gold necklace, lips, nose, upper body, hair tubes, gold, gold chain, makeup, piercing, fingernails, brown lips, shadow, blue dress, gold bracelet, sleeveless, lipstick, greco-roman clothes, ancient greek clothes, bukkake,, masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral",
+        "CFG Scale": "6.0",
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 953264,
-            "modelVersionName": "v6.5"
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 383563,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 772342,
-            "modelVersionName": "Stable_Yogis_PDXL_Neg"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 647890,
-            "modelVersionName": "Skin Texture v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "b199b92ee9",
+            "name": "A-mix",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "b199b92ee9",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "perchancekage0000",
-      "baseModel": "Pony",
+      "username": "phinjo",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        383563,
-        647890,
-        772342,
-        953264
+        1915059
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "606|1750895400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=606%7C1750895400000"
+    "nextCursor": "607|1746790163538",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=607%7C1746790163538"
   }
 }
