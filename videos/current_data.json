@@ -1,35 +1,64 @@
 {
   "items": [
     {
-      "id": 55916909,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/987b7ae0-76c3-4b18-9562-3e66b105f56b/original=true/987b7ae0-76c3-4b18-9562-3e66b105f56b.jpeg",
-      "hash": "UFJQ1eEMC5~WQ.i_AttRqu-AS}M{ZhofSdIU",
-      "width": 2160,
-      "height": 2880,
-      "nsfwLevel": "X",
+      "id": 90031138,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21ce7c1f-4a15-4a32-b5c0-e3827bb0864a/original=true/21ce7c1f-4a15-4a32-b5c0-e3827bb0864a.jpeg",
+      "hash": "UNC}qC^NENNI};-SR+NKt2-S$%NI$~$%xYR+",
+      "width": 1368,
+      "height": 2000,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-04-29T07:27:45.925Z",
-      "postId": 12523917,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-06T01:18:00.000Z",
+      "postId": 19967623,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 242,
-        "likeCount": 2027,
+        "cryCount": 121,
+        "laughCount": 180,
+        "likeCount": 2100,
         "dislikeCount": 0,
-        "heartCount": 996,
-        "commentCount": 1
+        "heartCount": 998,
+        "commentCount": 0
       },
       "meta": {
-        "prompt": "DM me for ComfyUI workflows"
+        "Size": "832x1216",
+        "seed": 854850901632491,
+        "Model": "plantMilkModelSuite_walnut",
+        "steps": 28,
+        "prompt": "Smooth_Quality, \nNSFW, 8K, HDR, RTX, RTX On, absolutely eye-catching, ambient occlusion, best quality, depth of field, detailed background, detailed people, extremely detailed, great quality, latest, masterpiece, official art, perfect eyes, perfect hands, professional lighting, rating:explicit, source:anime, top quality, ultra-detailed, very aesthetic, very beautiful, (wide shot1:1), (dynamic angle), dutch angle\nHermione Granger (Harry Potter), slim academic frame, youthful clever build, fair freckled skin, bushy brown hair, shoulder-length with curls, intelligent brown eyes, alert thoughtful gaze, Hogwarts school uniform, black robes and Gryffindor scarf, wand in hand, standing confident posture, book often held, inquisitive expression, magical classroom backdrop, scholarly magical aura\nEndless Library, gigantic gothic-style library, spiraling staircases, books floating midair, candlelight glows, massive stained-glass windows\n((she pulls her shirt out with both her hands showing her nipples, shirt pull, down blouse, self-shirt pulling:1.5)), from behind, looking over shoulder, from above, (down blouse close up:1.5), looking up at viewer, deep cleavage, ((natural huge breasts)), long saggy boobs, two perky nipples, (breasts squished together), skindentation,\ndust particles, wind swirl, lingerie sparkle, intimate haze, dramatic body glow, sunset glow, underwear visible, fishnet Stockings, garter belt, garter straps, ((visible nipple)), pubic hair,",
+        "Version": "ComfyUI",
+        "sampler": "Euler",
+        "cfgScale": 2.9,
+        "resources": [],
+        "negativePrompt": "score_6, score_5, score_4, low res, worst quality, low quality, bad anatomy, bad proportions, extra digits, extra legs, extra arms, disfigured, blurry eyes, lowres, mutated hands, bad hands, signature, watermark, artist name, username, patreon username, twitter username, logo, simple background, early, multiple views, monochrome, grayscale, old, ugly, jewellery, accessory, bad eyes, bad face, muscular, chibi, buzzcut, watermark, logo,\nSmooth_Negative-neg, \nSmooth_Negative-neg,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1714002
+          },
+          {
+            "type": "embedding",
+            "weight": 1,
+            "modelVersionId": 1470551
+          },
+          {
+            "type": "embedding",
+            "weight": 1,
+            "modelVersionId": 1195487
+          }
+        ]
       },
-      "username": "MishGUN",
-      "baseModel": "SDXL 1.0",
-      "modelVersionIds": []
+      "username": "DungeonsAndDosages",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1195487,
+        1470551,
+        1714002
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "612|1754443080000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=612%7C1754443080000"
+    "nextCursor": "613|1754908837987",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=613%7C1754908837987"
   }
 }
