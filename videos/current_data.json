@@ -1,89 +1,150 @@
 {
   "items": [
     {
-      "id": 62529885,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba236bb0-1378-4d3e-8ca7-611a21505bbf/original=true/ba236bb0-1378-4d3e-8ca7-611a21505bbf.jpeg",
-      "hash": "UDJ?%D0z3r_40Iadv}xH0s#6veR6+j=w#iRj",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 98024151,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe43404b-6bca-44f6-9b03-042f46cb58c8/original=true/fe43404b-6bca-44f6-9b03-042f46cb58c8.jpeg",
+      "hash": "UDJaczBr_1-qo$}9$_yXLM_2;J?G}?,C9]S$",
+      "width": 1344,
+      "height": 2264,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-09T19:43:30.244Z",
-      "postId": 13963427,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-03T14:23:00.000Z",
+      "postId": 21748243,
       "stats": {
-        "cryCount": 147,
-        "laughCount": 292,
-        "likeCount": 1977,
+        "cryCount": 137,
+        "laughCount": 205,
+        "likeCount": 2092,
         "dislikeCount": 0,
-        "heartCount": 1007,
-        "commentCount": 0
+        "heartCount": 977,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1325759718,
-        "draft": false,
-        "extra": {
-          "remixOfId": 62187250
+        "TI": {},
+        "Size": "896x1512",
+        "seed": 2782256937,
+        "Model": "waiNSFWIllustrious_v150",
+        "steps": 30,
+        "hashes": {
+          "model": "befc694a29",
+          "lora:XXX477": "080d12c718b3",
+          "lora:96YOTTEA-WAI": "7a6cdc714921",
+          "lora:veluflora-wai": "fbcbfb1106da",
+          "lora:a31_style_koni": "668963c77d2a",
+          "lora:mon_monmon2133": "9dcf6d165d08",
+          "lora:ag31_style_ba_v1": "77af56ed043a",
+          "lora:checkpoint-e18_s306": "491af043b410",
+          "lora:round_breasts-IL-1.0": "39368615C0F8",
+          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
+          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
+          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
         },
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, good quality, 2girls, cartoon, totally_spies_2k24, alex, black hair, short hair, brown eyes, dark-skinned female, naked, nude, sexy, large breasts, nipples, beautiful, detailed, high detailed, very beautiful, detailed face, detailed eyes, detailed hand, abstract background, neon, lidded eyes, seducing, looking at viewer, cartoon, totally_spies_2k24, sam, orange hair, long hair, green eyes, naked, nude, jacuzzi, partially submerged, water, wet body, from above, 1boy, thick penis, threesome, oral, fellatio, licking, (teamwork)",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-03-09T1919:07.2725015Z",
-        "negativePrompt": "morbid, mutated, deformed, ugly, bad anatomy, bad proportions, bad eyes, deformed eyes,fused breasts, fusion, fused arms, missing limb, missing arm, color swap, wrong color, messy color, (futa), glowing eyes, small penis, hyper breasts, paws, watermark, signature, extra hand, extra penis, extra leg, extra breasts, deformed breasts, deformed hand, deformed fingers, deformed nails, deformed penis, disembodied penis, dildo, autofellatio, cloned, copy, error, glitch, glitched, disembodied hand, extra hand, extra fingers, extra legs, cloned, extra face, extra head, extra penis, extra character, rule 63, genderswap, gay, ((brush strokes)), ((watercolor painting)), multiple views, comic, face swap, swap face, monochrome, greyscale, 3d, six fingers, tan lines, long body, long neck, jpeg artifacts, realistic",
-        "civitaiResources": [
+        "prompt": "blue eyes, blue hair, long hair, hair bun, wavy hair, one side up, close-up, v over eye, :q, one eye closed, wink, happy, eye focus, dynamic pose, lips, blush, nail polish, large breasts, erect nipples, white and black striped mini bikini, underboob, outside, beach, selfie, slim, upper body, athletic, lying on towel, lying on side,\ndetailed eyes, light particles, slutty,\nvery awa, masterpiece, highres, absurdres, flat color, in the style of cksc, illustration, masterpiece, (extremely detailed CG 8k), (very fine 8K CG), (ultra detailed perfect piece:1.2), no lineart,(no lineart, flat art style), sinozick style, colorful,\n<lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>,<lora:mon_monmon2133:0.3>, <lora:XXX477:0.5>, <lora:96YOTTEA-WAI:0.3>, <lora:a31_style_koni:0.5>, <lora:ag31_style_ba_v1:0.8>, <lora:checkpoint-e18_s306:0.6>, <lora:veluflora-wai:0.5>,  <lora:round_breasts-IL-1.0:0.35>",
+        "Version": "f2.0.1v1.10.1-previous-665-gae278f79",
+        "sampler": "DPM++ 2M SDE",
+        "cfgScale": 6,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
-          },
-          {
+            "hash": "DA259DF60E36",
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1314265,
-            "modelVersionName": "V1.0"
+            "weight": 0.3
           },
           {
+            "hash": "33d8271217ed",
+            "name": "noobai_ep11_stabilizer_v0.138_fp16",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1368071,
-            "modelVersionName": "v2.0"
+            "weight": 0.3
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "hash": "72ea46a2b089",
+            "name": "ponyv6_noobV1_2_adamW",
+            "type": "lora",
+            "weight": 0.3
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "9dcf6d165d08",
+            "name": "mon_monmon2133",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "080d12c718b3",
+            "name": "XXX477",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "7a6cdc714921",
+            "name": "96YOTTEA-WAI",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "668963c77d2a",
+            "name": "a31_style_koni",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "77af56ed043a",
+            "name": "ag31_style_ba_v1",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "491af043b410",
+            "name": "checkpoint-e18_s306",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "fbcbfb1106da",
+            "name": "veluflora-wai",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "39368615C0F8",
+            "name": "round_breasts-IL-1.0",
+            "type": "lora",
+            "weight": 0.35
+          },
+          {
+            "hash": "befc694a29",
+            "name": "waiNSFWIllustrious_v150",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "befc694a29",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharpV2",
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts",
+        "Hires CFG Scale": "5",
+        "Denoising strength": "0.35"
       },
-      "username": "BartP98",
+      "username": "BallsyBalls",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1314265,
-        1368071,
-        1410435
+        400010,
+        438698,
+        1082928,
+        1145311,
+        1150423,
+        1209350,
+        1247042,
+        1308598,
+        1311785,
+        1356500,
+        2167369
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "602|1756909380000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=602%7C1756909380000"
+    "nextCursor": "603|1757499059504",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=603%7C1757499059504"
   }
 }
