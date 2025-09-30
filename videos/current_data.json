@@ -1,91 +1,184 @@
 {
   "items": [
     {
-      "id": 21077768,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d82c2b72-fd82-4d1f-bdbe-29bd83ac302f/original=true/d82c2b72-fd82-4d1f-bdbe-29bd83ac302f.jpeg",
-      "hash": "U8A]W@0KAu-pDi_3WXa}cFE2}@%2xuNGbI%1",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 86615014,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d48410b1-87f8-408d-b24a-22e83f9426ee/original=true/d48410b1-87f8-408d-b24a-22e83f9426ee.jpeg",
+      "hash": "UCEyDA?^0Lr=%g_3Io9F9FIURPxuf5WCt7M{",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-23T20:45:32.271Z",
-      "postId": 4700947,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-06T11:40:18.415Z",
+      "postId": 19217936,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 151,
-        "likeCount": 2043,
+        "cryCount": 113,
+        "laughCount": 254,
+        "likeCount": 2074,
         "dislikeCount": 0,
-        "heartCount": 1091,
+        "heartCount": 934,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1304955705,
+        "seed": 1310031158,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
         "steps": 35,
-        "prompt": "(score_9, score_8_up, score_7_up), 1girl, 20 years old, 1male,  pretty face long black hair, bangs, ponytail, dark blue eyes, light blush, light makeup, small perky breasts, seductive eyes, moon earrings, white business shirt, choker, black tights, exhausted, open mouth, tongue out, cum in mouth, seductive, heavy blush, looking up, sweaty, messy hair, paizuri, fellatio, blowjob, male sitting with girl hiding under table, girl hiding under table, ass, cumming, detailed background, night, moonlight, inside, office, volumetric lighting, vivid colours, g0thicPXL, Expressiveh, shot from above,",
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic,woman,((solo)), rpnzlrnd,deep blue eyes, realistic eyes, blonde hair, looking at viewer,very long hair, braid, bangs,hair over shoulder,large breasts,swollen breasts,sagging breasts,medieval,erotic and aesthetic, blurry background, bright colors, stunningly artwork, (blurry background, depth of field:1.1), ((( smoke-gray translucent stretch-mesh full bodysuit, long fitted sleeves ending in fingerless loops, high collar, matte silver harness straps crossing torso and hips, high-leg cut, twin slim thigh-straps with tiny silver buckles, poised upright pose\n))),cowboy shot,\nlavish baroque vampire bedroom: high carved ebony headboard, dark crimson velvet bedding, tall black canopy lined in blood-red silk, flickering wall-mounted candelabra,moonlight,gothic arched window, soft silver rim-light outlining, cinematic 35 mm, hushed nocturnal atmosphere",
+        "denoise": 0.35,
+        "process": "img2img",
         "sampler": "Euler a",
-        "cfgScale": 6,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-23T2001:33.6149260Z",
-        "negativePrompt": "SimpleNegativeV3, score_6, score_5, score_4, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, furry, loli, poorly drawn, long neck, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes, background characters, muscular, lipstick, massive ass, massive penis, looking at viewer,",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/9AY0FH7FR58FADPYYWFDGMPZC0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children,excess fingers, zhongli outfit, zhongli clothes",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 959419
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 1036362
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 1219983
+          },
+          {
+            "weight": 4,
+            "modelVersionId": 1506032
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 1839268
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1577428
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 959419
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1036362
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.25,
+            "modelVersionId": 1219983
+          },
+          {
+            "type": "lora",
+            "weight": 4,
+            "modelVersionId": 1506032
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1839268
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
+            "modelVersionId": 1577428
+          }
+        ],
+        "additionalResources": [
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 287973,
-            "modelVersionName": "V3"
-          },
-          {
+            "name": "urn:air:sdxl:lora:civitai:176554@959419",
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "strength": 0.45,
+            "strengthClip": 1
           },
           {
+            "name": "urn:air:sdxl:lora:civitai:856285@1036362",
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "strength": 0.9,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "name": "urn:air:sdxl:lycoris:civitai:846953@1219983",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "name": "urn:air:sdxl:lora:civitai:1333749@1506032",
+            "type": "lora",
+            "strength": 4,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1625070@1839268",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1395548@1577428",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "WiseBurrito",
-      "baseModel": "Pony",
+      "username": null,
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        244808,
-        287973,
-        290640,
-        398847,
-        436219
+        164821,
+        959419,
+        1036362,
+        1219983,
+        1240288,
+        1506032,
+        1577428,
+        1839268
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "632|1751802018415",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=632%7C1751802018415"
+    "nextCursor": "633|1754713320000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=633%7C1754713320000"
   }
 }
