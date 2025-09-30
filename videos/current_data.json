@@ -1,62 +1,91 @@
 {
   "items": [
     {
-      "id": 100420359,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/318da27a-e4b8-4e9c-9c25-44f4b18337c4/original=true/318da27a-e4b8-4e9c-9c25-44f4b18337c4.jpeg",
-      "hash": "U4INjh5W000M-TI=}=0100V@?IR:00^jF3NH",
+      "id": 21077768,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d82c2b72-fd82-4d1f-bdbe-29bd83ac302f/original=true/d82c2b72-fd82-4d1f-bdbe-29bd83ac302f.jpeg",
+      "hash": "U8A]W@0KAu-pDi_3WXa}cFE2}@%2xuNGbI%1",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-09-22T06:06:39.861Z",
-      "postId": 22278067,
+      "createdAt": "2024-07-23T20:45:32.271Z",
+      "postId": 4700947,
       "stats": {
-        "cryCount": 189,
-        "laughCount": 261,
-        "likeCount": 1991,
+        "cryCount": 92,
+        "laughCount": 151,
+        "likeCount": 2043,
         "dislikeCount": 0,
-        "heartCount": 936,
-        "commentCount": 1
+        "heartCount": 1091,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 578912883,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "18yo, score_9, score_8_up, score_7_up, 1girl, blonde, French braid, long legs, wide hips, thin waist, cardboard walls, cardboard floor, white collared shirt, navy vest, navy plaid skirt, profile, no panties, wet pussy, pierced ears, (hair clips:1.3), close up, (glory hole penis:1.4) face focus, bag of books, black shoes, white socks,, graffiti, lying on floor, cum running out of pussy, legs spread, exhausted, blank eyes, excessive cum",
-        "process": "txt2img",
+        "seed": 1304955705,
+        "steps": 35,
+        "prompt": "(score_9, score_8_up, score_7_up), 1girl, 20 years old, 1male,  pretty face long black hair, bangs, ponytail, dark blue eyes, light blush, light makeup, small perky breasts, seductive eyes, moon earrings, white business shirt, choker, black tights, exhausted, open mouth, tongue out, cum in mouth, seductive, heavy blush, looking up, sweaty, messy hair, paizuri, fellatio, blowjob, male sitting with girl hiding under table, girl hiding under table, ass, cumming, detailed background, night, moonlight, inside, office, volumetric lighting, vivid colours, g0thicPXL, Expressiveh, shot from above,",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-30T0253:26.5964156Z",
-        "experimental": false,
-        "negativePrompt": "pony, futa, gaping, censored, deformed hands, multiple fingers, film, video, lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, parody, multiple views, low quality, watermark, blur, 3d, realistic, realism,",
+        "Created Date": "2024-07-23T2001:33.6149260Z",
+        "negativePrompt": "SimpleNegativeV3, score_6, score_5, score_4, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, furry, loli, poorly drawn, long neck, bad anatomy, wrong anatomy, extra limbs, missing limb, floating limbs, missing fingers, elongated hands, disconnected limbs, mutation, mutated, ugly, disgusting, blurry, blurry eyes, background characters, muscular, lipstick, massive ass, massive penis, looking at viewer,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1199750
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 287973,
+            "modelVersionName": "V3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "solumbragt355",
+      "username": "WiseBurrito",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1199750
+        244808,
+        287973,
+        290640,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "631|1721767532271",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=631%7C1721767532271"
+    "nextCursor": "632|1751802018415",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=632%7C1751802018415"
   }
 }
