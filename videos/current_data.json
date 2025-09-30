@@ -1,41 +1,103 @@
 {
   "items": [
     {
-      "id": 71837014,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c6694b2e-c0fa-4944-8f9a-34a4704d5b8b/original=true/c6694b2e-c0fa-4944-8f9a-34a4704d5b8b.jpeg",
-      "hash": "UAH-_iOE000LD%-p~WIp00?b%0$z%gK5XA$e",
-      "width": 1280,
-      "height": 1856,
+      "id": 72030450,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/155dc079-061e-42f4-90a2-c03f48e5fcf6/original=true/155dc079-061e-42f4-90a2-c03f48e5fcf6.jpeg",
+      "hash": "ULLDx.bb?w4T~qg3-;ITTzD%ozIVVXROR*t7",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-04-25T05:56:50.395Z",
-      "postId": 15957500,
+      "createdAt": "2025-04-24T14:25:00.000Z",
+      "postId": 16002205,
       "stats": {
-        "cryCount": 125,
-        "laughCount": 218,
-        "likeCount": 2136,
+        "cryCount": 129,
+        "laughCount": 225,
+        "likeCount": 2063,
         "dislikeCount": 0,
-        "heartCount": 925,
+        "heartCount": 986,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1555873001,
+        "Model": "ilustmix_v60",
+        "steps": 30,
+        "hashes": {
+          "model": "2c3a9959f6",
+          "lora:PowerPuffMixLora": "70a66c1a0734",
+          "lora:Detailer_NoobAI_Incrs_v1": "9f242f949d7b",
+          "lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1": "ca72422dcb3e"
+        },
+        "prompt": "8K, depth of field, dynamic angle, sexy pose, best quality, detailed eyes, perfect eyes, realistic eyes, single, one, brown hair, hair between eyes, thick eyebrows, black eyebrows, brown eyes, mascara, makeup, pink lips, full lips, slim body, black sneakers, , medium breast, realistic breast, naked, BREAK, (realistic nipples), ((realistic pussy, innie pussy)), (pussy presentation:1.3), BREAK, Squatting, front view, looking at viewer, movie perspective, white room, white bedroom, white background, depth of field, <lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1:0.7> artist:moriimee,  <lora:PowerPuffMixLora:0.5>,  <lora:Detailer_NoobAI_Incrs_v1:0.6> detailed,",
+        "Version": "f2.0.1v1.10.1-previous-640-g21c907ef",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "resources": [
+          {
+            "hash": "ca72422dcb3e",
+            "name": "MoriiMee_Gothic_Niji_Style_Illustrious_r1",
+            "type": "lora",
+            "weight": 0.7
+          },
+          {
+            "hash": "70a66c1a0734",
+            "name": "PowerPuffMixLora",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "9f242f949d7b",
+            "name": "Detailer_NoobAI_Incrs_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "2c3a9959f6",
+            "name": "ilustmix_v60",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2c3a9959f6",
+        "Schedule type": "Automatic",
+        "negativePrompt": "loli, man, multiple, closeup, parted lips, portrait, shine, (worst quality, low quality, sketch:1.1),error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowers, multiple views, signature,",
+        "ADetailer model": "face_yolov8s.pt",
+        "ADetailer version": "25.3.0",
+        "ADetailer mask blur": "20",
+        "ADetailer model 2nd": "female-breast-v4.7.pt",
+        "ADetailer model 3rd": "vagina-v4.1.pt",
+        "ADetailer confidence": "0.6",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "20",
+        "ADetailer mask blur 3rd": "40",
+        "ADetailer confidence 2nd": "0.5",
+        "ADetailer confidence 3rd": "0.2",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer dilate erode 3rd": "4",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer inpaint padding 3rd": "32",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer denoising strength 3rd": "0.4",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer inpaint only masked 3rd": "True"
+      },
+      "username": "GZees",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        372639,
-        1412563,
-        1425924,
-        1490781
+        1191626,
+        1244133,
+        1456601,
+        1670263
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "609|1745504700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=609%7C1745504700000"
+    "nextCursor": "610|1746751200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=610%7C1746751200000"
   }
 }
