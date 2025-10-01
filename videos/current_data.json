@@ -1,83 +1,204 @@
 {
   "items": [
     {
-      "id": 82327535,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a636659f-d49b-4327-80df-0de085151963/original=true/a636659f-d49b-4327-80df-0de085151963.jpeg",
-      "hash": "USGa^8WBXRoL~qoMRjWB?cbbVtWAx^t7D*Rj",
-      "width": 2688,
-      "height": 3840,
+      "id": 87351108,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06e3953f-4cde-4a75-8050-5545f12793bf/original=true/06e3953f-4cde-4a75-8050-5545f12793bf.jpeg",
+      "hash": "UHI|I2IpE,-o_NR+%MxFX-ogNIWU^*NGE1t6",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-06-15T00:41:00.000Z",
-      "postId": 18286403,
+      "createdAt": "2025-07-10T08:20:00.000Z",
+      "postId": 19378427,
       "stats": {
         "cryCount": 129,
-        "laughCount": 246,
-        "likeCount": 2031,
+        "laughCount": 219,
+        "likeCount": 2049,
         "dislikeCount": 0,
-        "heartCount": 950,
-        "commentCount": 3
+        "heartCount": 956,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 1369902988,
+        "seed": 1222259635,
         "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1717586@1943723",
         "extra": {},
-        "steps": 25,
-        "models": [],
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, elf, sexy face, sexy, cute face, kawaii girl, long eyelashes, shy, small breasts, nude, volumetric lighting, contrast, slight smile, outdoors, light, visible light, shadows:1.4,  summer day, palace garden, short hair, red hair, updo hair, blue eyes, smile, smiling, wading in pond,",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1717586@1943723"
+        ],
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), anime coloring, anime screencap, masterpiece, best quality, amazing quality, rina, 1girl, dark skin, dark-skinned female, gyaru, short hair, blonde hair, purple eyes, medium breasts, hoop earrings, ear piercing, pink smokyeyes, lash, mascara, glossy pink lips, parted lips, firm petite shape, pink lipstick, (cute nipple), fingernails, nail polish, 1girl, fake black cat ears, fake furry cat ears, aho-go, short hair, puffed mouth, smug, pouting, puffed cheeks, blush, pink lipstick, heart-shaped pupils, purple heart-shaped, delicate eyes, eyes in love, ((tears of joy:1.3)), slightly out tears, slightly out tongue, breathing, ears, earrings, delicate facial features, cat paw pose, open hands, cute and tender expression, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), foreshortening, erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, dynamic dutch angle, ((view from below:1.5)), blurry background, bright colors, stunningly artwork",
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
         "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
+        "disablePoi": true,
         "versionIds": [],
+        "aspectRatio": "13:19",
         "controlNets": [],
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx, uneven tan,",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/JA4GYXBJEHGK76751Z7VZVYBW0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, mosaic censor, lowres, abstract, signature, ",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 290640
+            "modelVersionId": 1943723
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1972851
+          },
+          {
+            "weight": 0.55,
+            "modelVersionId": 1598431
           },
           {
             "weight": 1,
             "modelVersionId": 9208
           },
           {
-            "weight": 0.45,
-            "modelVersionId": 382152
+            "weight": 0.6,
+            "modelVersionId": 1027964
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 211788
           },
           {
             "weight": 0.45,
-            "modelVersionId": 398847
+            "modelVersionId": 135867
           },
           {
-            "weight": 0.5,
-            "modelVersionId": 436219
+            "weight": 0.25,
+            "modelVersionId": 1193082
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1943723
           },
           {
             "type": "upscaler",
             "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1972851
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1598431
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1027964
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 211788
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1193082
           }
         ],
-        "additionalResources": []
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1743202@1972851",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1414247@1598431",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:918427@1027964",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:188573@211788",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:122359@135867",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:536084@1193082",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "ElvishDreams",
-      "baseModel": "Pony",
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
         9208,
+        135867,
         164821,
-        290640,
-        382152,
-        398847,
-        436219
+        211788,
+        244808,
+        1027964,
+        1193082,
+        1598431,
+        1943723,
+        1972851
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "645|1752135600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=645%7C1752135600000"
+    "nextCursor": "646|1742586317932",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=646%7C1742586317932"
   }
 }
