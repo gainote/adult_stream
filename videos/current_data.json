@@ -1,104 +1,83 @@
 {
   "items": [
     {
-      "id": 79356492,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6bfe2a1-bd2b-4054-b01b-306aa5c9df41/original=true/e6bfe2a1-bd2b-4054-b01b-306aa5c9df41.jpeg",
-      "hash": "U5B{M*009=Mx?HxX0yxZ00o}^,NG0Kt7~CI;",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 82327535,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a636659f-d49b-4327-80df-0de085151963/original=true/a636659f-d49b-4327-80df-0de085151963.jpeg",
+      "hash": "USGa^8WBXRoL~qoMRjWB?cbbVtWAx^t7D*Rj",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-30T08:59:04.135Z",
-      "postId": 17630293,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-15T00:41:00.000Z",
+      "postId": 18286403,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 257,
-        "likeCount": 2059,
+        "cryCount": 129,
+        "laughCount": 246,
+        "likeCount": 2031,
         "dislikeCount": 0,
-        "heartCount": 910,
-        "commentCount": 0
+        "heartCount": 950,
+        "commentCount": 3
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 795282493,
-        "draft": false,
-        "extra": {
-          "remixOfId": 64055003
-        },
-        "steps": 17,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_10, score_9, score_8, masterpiece, best quality, kawaii girl,1girl, solo , rating_safe, source_cartoon, semirealistic , Expressiveh, (1girl), (solo), 18 year old girl, very attractive face, seductive smile, innocent girl, petite, bold black eyeliner, full pouty lips, flawless shiny skin, (full pouty lips), (wavy hair:1.5), (dark brown hair), (hair behind ear), (head tilted), (slim fit), white fingernails, slender body, (large breasts), deflated breasts, hard nipple outlines, clothed body, perfect thighs, thigh gap, narrow waist, BREAK.  white crop tank top, midriff, ripped ((low waist leather pants)), g-string, black ankle boots, night, noir, indoors, gray, flat colors, cowboy shot, breast focus, standing , random view, dynamic angle",
+        "seed": 1369902988,
+        "vaes": [],
+        "extra": {},
+        "steps": 25,
+        "models": [],
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, elf, sexy face, sexy, cute face, kawaii girl, long eyelashes, shy, small breasts, nude, volumetric lighting, contrast, slight smile, outdoors, light, visible light, shadows:1.4,  summer day, palace garden, short hair, red hair, updo hair, blue eyes, smile, smiling, wading in pond,",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-05-25T1708:34.5137657Z",
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, hyper, glitch, overexposed, high-contrast, bad-contrast, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, zPDXLxxx, earrings, maid, muscular, jacket, panties, 6fingers, group sex, 2guys, naked, nude, shorts, earrings, jewelry , large hands, necklace",
+        "cfgScale": 4,
+        "modelIds": [],
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx, uneven tan,",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
             "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 290640
           },
           {
-            "type": "lora",
-            "weight": 1.25,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 1029540,
-            "modelVersionName": "Gothic Neon v2"
-          },
-          {
-            "type": "vae",
             "weight": 1,
-            "modelVersionId": 648388,
-            "modelVersionName": "Luna"
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "Ctiliate",
+      "username": "ElvishDreams",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        135867,
+        164821,
         290640,
         382152,
-        436219,
-        1029540
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "644|1749948060000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=644%7C1749948060000"
+    "nextCursor": "645|1752135600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=645%7C1752135600000"
   }
 }
