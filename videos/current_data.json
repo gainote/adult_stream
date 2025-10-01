@@ -1,158 +1,56 @@
 {
   "items": [
     {
-      "id": 64862186,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/516c247c-5cf7-4501-a51f-9837036014b2/original=true/516c247c-5cf7-4501-a51f-9837036014b2.jpeg",
-      "hash": "U8EUY}58Fv%00MS4}?xZ03%058Rk-osmE3R*",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 47400929,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c0de3f5-031d-4ac4-b5f0-e636fedbd4d5/original=true/3c0de3f5-031d-4ac4-b5f0-e636fedbd4d5.jpeg",
+      "hash": "UJIhNj0056~p0KIC-VRi5P^kNHI..7$6RPx]",
+      "width": 1024,
+      "height": 1536,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-21T10:03:54.605Z",
-      "postId": 14453331,
+      "browsingLevel": 4,
+      "createdAt": "2024-12-24T18:32:34.889Z",
+      "postId": 10704636,
       "stats": {
-        "cryCount": 133,
-        "laughCount": 241,
-        "likeCount": 1980,
+        "cryCount": 143,
+        "laughCount": 221,
+        "likeCount": 2004,
         "dislikeCount": 0,
-        "heartCount": 990,
-        "commentCount": 0
+        "heartCount": 974,
+        "commentCount": 1
       },
       "meta": {
-        "nsfw": false,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "steps": 28,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        "seed": 2172662282,
+        "vaes": [
+          "sdxl-vae-fp16-fix.safetensors"
         ],
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up,\nExpressiveh, g0th1c, glowing,\n(Yennefer), \nclose up, dark setting, bedroom, low lighting, rim lighting, large breasts, POV, riding, reverse cowgirl, bottom view, rear view, back, butt, smirking, turned around, looking at viewer,",
-        "denoise": 0.4,
+        "comfy": "{\"prompt\": {\"10001\": {\"class_type\": \"ECHOCheckpointLoaderSimple\", \"inputs\": {\"ckpt_name\": \"EMS-557253-EMS.safetensors\"}, \"_properties\": null}, \"10010\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10001\", 1], \"model\": [\"10001\", 0], \"text\": \"<lora:EMS-551434-EMS.safetensors:1.000000>\"}, \"_properties\": null}, \"10011\": {\"class_type\": \"VAELoader\", \"inputs\": {\"vae_name\": \"sdxl-vae-fp16-fix.safetensors\"}, \"_properties\": null}, \"10012\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"10010\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"10013\": {\"class_type\": \"EmptyLatentImage\", \"inputs\": {\"batch_size\": 2, \"height\": 1152, \"width\": 768}, \"_properties\": null}, \"10024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"1girl,small breasts, wide hips,thick thighs,green outline,tatsumaki, floating,legs up,thighhighs,skindentation, black micro bikini,highleg bikini, annoyed,blush,pout, masterpiece, best quality, good quality, newest\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"10025\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11001\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 1.0, \"ensd\": 31337, \"latent_image\": [\"10013\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 2172662282, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11008\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11001\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11011\": {\"class_type\": \"UpscaleModelLoader\", \"inputs\": {\"model_name\": \"RealESRGAN_x4plus_anime_6B.pth\"}, \"_properties\": null}, \"11012\": {\"class_type\": \"ImageUpscaleWithModel\", \"inputs\": {\"image\": [\"11008\", 0], \"upscale_model\": [\"11011\", 0]}, \"_properties\": null}, \"11013\": {\"class_type\": \"ImageScale\", \"inputs\": {\"crop\": \"disabled\", \"height\": 1536, \"image\": [\"11012\", 0], \"upscale_method\": \"nearest-exact\", \"width\": 1024}, \"_properties\": null}, \"11014\": {\"class_type\": \"VAEEncode\", \"inputs\": {\"pixels\": [\"11013\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11015\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 0.35, \"ensd\": 31337, \"latent_image\": [\"11014\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 2172662282, \"seed_mode\": \"A1111\", \"steps\": 20}, \"_properties\": null}, \"11016\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11015\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11018\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10012\", 0], \"model\": [\"10010\", 0], \"text\": \"ECHO_EMPTY\"}, \"_properties\": null}, \"11019\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"11018\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"11021\": {\"class_type\": \"YoloDetectorProvider\", \"inputs\": {\"max_faces\": 5, \"model_name\": \"bbox/face_yolov8n_v2.pt\"}, \"_properties\": null}, \"11022\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"1girl,small breasts, wide hips,thick thighs,green outline,tatsumaki, floating,legs up,thighhighs,skindentation, black micro bikini,highleg bikini, annoyed,blush,pout, masterpiece, best quality, good quality, newest\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11025\": {\"class_type\": \"FaceDetector_ad\", \"inputs\": {\"bbox_detector\": [\"11021\", 0], \"bbox_threshold\": 0.5, \"dilate_erode\": 4, \"image\": [\"11016\", 0], \"mask_merge_mode\": \"None\", \"x_offset\": 0, \"y_offset\": 0}, \"_properties\": null}, \"11026\": {\"class_type\": \"InpaintCrop_ad\", \"inputs\": {\"blend_pixels\": 16.0, \"blur_mask\": 4.0, \"context_expand_factor\": 1.0, \"context_expand_pixels\": 32, \"fill_mask_holes\": true, \"force_height\": 1152, \"force_width\": 768, \"images\": [\"11025\", 0], \"invert_mask\": false, \"masks\": [\"11025\", 1], \"mode\": \"forced size\", \"rescale_algorithm\": \"bicubic\"}, \"_properties\": null}, \"11027\": {\"class_type\": \"InpaintModelConditioning\", \"inputs\": {\"mask\": [\"11026\", 2], \"negative\": [\"11024\", 0], \"pixels\": [\"11026\", 1], \"positive\": [\"11022\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11028\": {\"class_type\": \"DifferentialDiffusion\", \"inputs\": {\"model\": [\"11018\", 0]}, \"_properties\": null}, \"11029\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"control_after_generate\": \"fixed\", \"denoise\": 0.25, \"ensd\": 31337, \"latent_image\": [\"11027\", 2], \"model\": [\"11028\", 0], \"negative\": [\"11027\", 1], \"positive\": [\"11027\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 2172662282, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11030\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11029\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11031\": {\"class_type\": \"InpaintStitchOneImage_ad\", \"inputs\": {\"inpainted_images\": [\"11030\", 0], \"rescale_algorithm\": \"bicubic\", \"stitchs\": [\"11026\", 0]}, \"_properties\": null}, \"12004\": {\"class_type\": \"SaveImage\", \"inputs\": {\"filename_prefix\": \"798603951414111640\", \"images\": [\"11031\", 0]}, \"_properties\": null}}, \"workflow\": undefined}",
+        "steps": 25,
+        "width": 768,
+        "height": 1152,
+        "models": [],
+        "prompt": "1girl,small breasts, wide hips,thick thighs,green outline,tatsumaki, floating,legs up,thighhighs,skindentation, black micro bikini,highleg bikini, annoyed,blush,pout, masterpiece, best quality, good quality, newest",
+        "denoise": 1,
         "sampler": "Euler a",
         "cfgScale": 4,
-        "clipSkip": 2,
         "modelIds": [],
-        "priority": "low",
-        "quantity": 2,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
+        "scheduler": "normal",
         "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
+          "RealESRGAN_x4plus_anime_6B.pth"
         ],
         "versionIds": [],
         "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/TR07VAEZYTZFWAHC1ADTVBW3C0.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "civit_nsfw, safe_neg, score_6, score_5, score_4, ugly face, mutated hands, low resolution, blurry face, hairy pussy, worst quality, low quality, censored, deformed, bad hand, blur, watermark, extra hands, easynegative, piercing, horns, bang, muscles,",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 1029540
-          },
-          {
-            "weight": 0.4,
-            "modelVersionId": 449028
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 436219
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1029540
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 449028
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:300005@436219",
-            "type": "lora",
-            "strength": 0.75,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:888231@1029540",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:305206@449028",
-            "type": "lora",
-            "strength": 0.4,
-            "strengthClip": 1
-          }
-        ]
+        "negativePrompt": "(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames",
+        "additionalResources": []
       },
-      "username": "Namehere01",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        290640,
-        382152,
-        436219,
-        449028,
-        1029540
-      ]
+      "username": "Twisowk",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "653|1735065154889",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=653%7C1735065154889"
+    "nextCursor": "654|1719149342673",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=654%7C1719149342673"
   }
 }
