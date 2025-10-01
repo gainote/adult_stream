@@ -1,83 +1,92 @@
 {
   "items": [
     {
-      "id": 11172507,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99009c70-58ad-4919-94ec-421e8fd0fcab/original=true/99009c70-58ad-4919-94ec-421e8fd0fcab.jpeg",
-      "hash": "UOExkc}?nhIpo#ofWBR+ELR+WCf6%2xZR*Ip",
+      "id": 35050022,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed6ffa75-222f-49fb-8b14-df5cd515f908/original=true/ed6ffa75-222f-49fb-8b14-df5cd515f908.jpeg",
+      "hash": "UYJ*3QxuS30K~p^+IURQozNGn%%MxGRPS2kC",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-04-30T15:18:57.052Z",
-      "postId": 2453136,
+      "createdAt": "2024-10-23T04:10:00.000Z",
+      "postId": 8010890,
       "stats": {
-        "cryCount": 108,
-        "laughCount": 212,
-        "likeCount": 1731,
+        "cryCount": 125,
+        "laughCount": 233,
+        "likeCount": 1926,
         "dislikeCount": 0,
-        "heartCount": 1284,
-        "commentCount": 1
+        "heartCount": 1047,
+        "commentCount": 5
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1805891299,
-        "steps": 24,
-        "prompt": "1dk, portrait, white skin, black lipstick wearing sexy skimpy outfit, sexy girl, micro skirt, shirt pulled up over breasts, black shirt lifted up to show tits, exposed breasts, skimpy clothes, pressing breasts, awesome breasts, perfectly round breasts, petite body, seductive, blue eyes, tits out, black thigh high stockings, perfect round breasts, eyes closed, moaning, head tilted up, busty petite,\ninside rich mansion\n group sex, eager moaning happy look, hearts in eyes, hearts in pupil, big hearts, consensual sex, fantastical, size difference, spitroast, deepthroat, rough sex, epic sex, head grab, ass grab, arms tied behind back,\nscore_9, score_8_up, score_7_up, 8k, very detailed,\n1girl, solo, very detailed, high detailed texture, depth of field, golden hour, cinematic illumination, volumetric lighting, rating_questionable,",
+        "seed": 2456183163,
+        "extra": {
+          "remixOfId": 28153489
+        },
+        "steps": 40,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up) 1boy, 1girl, young woman, cute face, round face, young face, fit body, big breasts, perfect ass, sweet ass, fit ass, arching ass, lips, brown hair, long hair, green eyes, black pants, tight pants, brown shirt, indoor, sexy, hot, on knees, on all fours, bent over, anal sex, behind sex, huge wide cock in anal, ass grab, brutal anal penetration (motion lines), anal pain expression face, side view, from left, side shot, ass focus, looking away,",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 5,
         "clipSkip": 2,
         "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, fcNeg, simple background, blur, low quality, muscular woman,",
+        "Created Date": "2024-10-17T0530:29.3712652Z",
+        "negativePrompt": "score_4, score_5, score_6, (muscular female), greyscale",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 333587,
+            "modelVersionName": "Smooth 2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 548385,
+            "modelVersionName": "AsuraV2"
           },
           {
             "type": "embed",
-            "weight": 1,
-            "modelVersionId": 97691
-          },
-          {
-            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
-            "weight": 1,
-            "modelVersionId": 135867
-          },
-          {
-            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
-            "weight": 1,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "ImageJobNetworkParams { Strength = 0.6, TriggerWord = , Type = lora }",
-            "weight": 0.6,
-            "modelVersionId": 399443
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
             "type": "embed",
-            "modelVersionId": 250708
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           },
           {
             "type": "embed",
-            "modelVersionId": 250712
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "kokonutnut",
+      "username": "Sharlorde",
       "baseModel": "Pony",
       "modelVersionIds": [
-        97691,
-        135867,
-        244808,
         290640,
-        399443
+        333587,
+        436219,
+        548385
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "658|1729656600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=658%7C1729656600000"
+    "nextCursor": "659|1748829689915",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=659%7C1748829689915"
   }
 }
