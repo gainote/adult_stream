@@ -1,65 +1,104 @@
 {
   "items": [
     {
-      "id": 96516180,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ce7c8b9-2909-4f33-b46c-16e77b235aed/original=true/9ce7c8b9-2909-4f33-b46c-16e77b235aed.jpeg",
-      "hash": "U2INdp~DfQ~D?Hj]WVj]fQfQfQfQ?Hj]WVj]",
-      "width": 1248,
-      "height": 1728,
-      "nsfwLevel": "X",
+      "id": 79356492,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6bfe2a1-bd2b-4054-b01b-306aa5c9df41/original=true/e6bfe2a1-bd2b-4054-b01b-306aa5c9df41.jpeg",
+      "hash": "U5B{M*009=Mx?HxX0yxZ00o}^,NG0Kt7~CI;",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-26T02:00:00.000Z",
-      "postId": 21408483,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-30T08:59:04.135Z",
+      "postId": 17630293,
       "stats": {
-        "cryCount": 134,
-        "laughCount": 204,
-        "likeCount": 2038,
+        "cryCount": 131,
+        "laughCount": 257,
+        "likeCount": 2059,
         "dislikeCount": 0,
-        "heartCount": 983,
+        "heartCount": 910,
         "commentCount": 0
       },
       "meta": {
-        "Size": "1248x1728",
-        "seed": 275841674996409,
-        "Model": "damnPonyIllustrious_v50IllustriousNoobai",
-        "steps": 40,
-        "prompt": "masterpiece, best quality, realistic, photorealistic, photo \\(medium\\), (instagram model, e-girl, cute, :1.2) hot, (makeup:1.1), (:1.2), eyelashes, 1girl, blonde hair, heels, feet, sitting, knees to chest, upskirt, pink dress, cute, princess, looking at viewer, seductive smile, smile, pussy, innie pussy, golden hour lighting, depth of field, intimate, candid, perfect, romantic, natural lighting, background contrast, indoors, bedroom, floor, dramatic lighting",
-        "Version": "ComfyUI",
-        "sampler": "DPM++ 2M SDE Karras",
-        "cfgScale": 4,
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 795282493,
+        "draft": false,
+        "extra": {
+          "remixOfId": 64055003
+        },
+        "steps": 17,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_10, score_9, score_8, masterpiece, best quality, kawaii girl,1girl, solo , rating_safe, source_cartoon, semirealistic , Expressiveh, (1girl), (solo), 18 year old girl, very attractive face, seductive smile, innocent girl, petite, bold black eyeliner, full pouty lips, flawless shiny skin, (full pouty lips), (wavy hair:1.5), (dark brown hair), (hair behind ear), (head tilted), (slim fit), white fingernails, slender body, (large breasts), deflated breasts, hard nipple outlines, clothed body, perfect thighs, thigh gap, narrow waist, BREAK.  white crop tank top, midriff, ripped ((low waist leather pants)), g-string, black ankle boots, night, noir, indoors, gray, flat colors, cowboy shot, breast focus, standing , random view, dynamic angle",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "negativePrompt": "bad quality, worst quality, low quality, print, watermark, (logo, text, :1.2)\nfake breasts, sun, sunlight, fishnet, latex, shiny_clothes, cum_on_ass, cum_in_pussy",
+        "Created Date": "2025-05-25T1708:34.5137657Z",
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, hyper, glitch, overexposed, high-contrast, bad-contrast, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, zPDXLxxx, earrings, maid, muscular, jacket, panties, 6fingers, group sex, 2guys, naked, nude, shorts, earrings, jewelry , large hands, necklace",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 2041009
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 1.5,
-            "modelVersionId": 1681921
+            "weight": 1.25,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 1242203
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 1029540,
+            "modelVersionName": "Gothic Neon v2"
+          },
+          {
+            "type": "vae",
+            "weight": 1,
+            "modelVersionId": 648388,
+            "modelVersionName": "Luna"
           }
         ]
       },
-      "username": "prompt_bit_sorcerer",
-      "baseModel": "Illustrious",
+      "username": "Ctiliate",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1242203,
-        1681921,
-        2041009
+        9208,
+        135867,
+        290640,
+        382152,
+        436219,
+        1029540
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "643|1748595544135",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=643%7C1748595544135"
+    "nextCursor": "644|1749948060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=644%7C1749948060000"
   }
 }
