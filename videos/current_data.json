@@ -1,91 +1,114 @@
 {
   "items": [
     {
-      "id": 91517264,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddf52174-e9a8-4a98-9776-9f00642bbde0/original=true/ddf52174-e9a8-4a98-9776-9f00642bbde0.jpeg",
-      "hash": "UFEe}nt7tSn$rp?bozs:~V%2IVxvI9IAxuxu",
-      "width": 832,
-      "height": 1216,
+      "id": 80364548,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7649b6db-0f65-4c5f-a73e-fa484fc1ae0d/original=true/7649b6db-0f65-4c5f-a73e-fa484fc1ae0d.jpeg",
+      "hash": "UZKwqwn5u6OZGdRQEltRElkWE1R*M|oz-Bnh",
+      "width": 1344,
+      "height": 1728,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-31T06:09:42.761Z",
-      "postId": 20303086,
+      "createdAt": "2025-06-04T11:41:26.358Z",
+      "postId": 17848574,
       "stats": {
-        "cryCount": 158,
-        "laughCount": 272,
-        "likeCount": 1999,
+        "cryCount": 141,
+        "laughCount": 247,
+        "likeCount": 2084,
         "dislikeCount": 0,
-        "heartCount": 939,
-        "commentCount": 1
+        "heartCount": 892,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1134548096,
-        "draft": false,
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, 1girl, solo, crawling, on all fours, ass up, SeraHHXL, dark skin, colored skin, white freckles face, long eyelashes, makeup, black lips, grey sclera, colored sclera, black pupils, white hair, white elbow gloves, long hair, halo, glowing halo, choker, huge breasts, topless, (white) tiny g-string, camel toe, (white) thigh high boots, sexy smile, closed mouth, narrow waist, perfect face, perfect eyes, thick thighs, thick hips, concept art, realistic,\nBREAK\ndetailed background, gothic, inside, church, stone floor, bed, chest, red drapes, window, stain glass",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-11T0749:16.4779948Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, score_3, score_2, score_1, distorted hands, distorted fingers, low quality, low resolution, worst quality, simple background, censored, text, signature, username, artist name, 3d, Blurry, Watermark, logo, blurry, jpeg artifacts, black and white, monochrome, compression artifacts, deformed, deformed face, deformed fingers, deformed hands, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Merged Body Parts, multiple eyebrow, extra limb, bad anatomy, long neck, long body, kid, child, extra fingers, 4 fingers, 6 fingers, negative_hand, easynegative",
-        "civitaiResources": [
+        "": {},
+        "Size": "896x1152",
+        "seed": 1991581199,
+        "Model": "[Ill] Wai ANI (v12.0)",
+        "steps": 20,
+        "hashes": {
+          "model": "89cb4ec0a9",
+          "lora:Perky Breasts": "077836198049",
+          "lora:CFG Scale Boot": "c071fe08ab71",
+          "lora:Contrapposto_Hips_to_the_side": "72a9dd68b48f"
+        },
+        "prompt": "1girl,pink hair,(very long:1.5) hair, messy hair,hair between eyes,hair bow,hair ornament,choppy bangs, blue eyes,pencil skirt,side slit,white shirt,center opening, blue sky, outdoors, \n<lora:Perky Breasts:1> perky breasts, medium breasts\nstanding,contrapposto, <lora:Contrapposto_Hips_to_the_side:1>\nearings,chocker,dark skin,\nlooking at viewer,seductive smile,blush,\n <lora:CFG Scale Boot:0.8>, (masterpiece, best quality)",
+        "Version": "f1.7.0-v1.10.1RC-latest-2186-gcaa779a9",
+        "sampler": "Euler a",
+        "Template": {
+          "CFG Scale Boot": "0.8>",
+          "Contrapposto_Hips_to_the_side": "1>|}\\n{0-$$necklace|chocker|ribbons|earings|dark skin|heart|glasses}"
+        },
+        "cfgScale": 5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "hash": "72a9dd68b48f",
+            "name": "Contrapposto_Hips_to_the_side",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 1.1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "hash": "077836198049",
+            "name": "Perky Breasts",
+            "type": "lora"
           },
           {
-            "type": "lora",
-            "weight": 1.4,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight [M]"
+            "hash": "c071fe08ab71",
+            "name": "CFG Scale Boot",
+            "type": "lora"
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 545254,
-            "modelVersionName": "vPonyXL"
+            "hash": "89cb4ec0a9",
+            "name": "[Ill] Wai ANI (v12.0)",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "89cb4ec0a9",
+        "Hires steps": "12",
+        "Hires prompt": {
+          "(very long": "1.5) hair",
+          "CFG Scale Boot": "0.8>",
+          "Breast Implants [Illustrious]": "0.7> breast implants",
+          "Contrapposto_Hips_to_the_side": "1>\\nnecklace"
+        },
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
+        "Template Seeds": "1991581199",
+        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer steps": "20",
+        "Dynamic Prompts": {},
+        "Hires CFG Scale": "5",
+        "{use_fixed_seed": "false",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.47",
+        "Template Generated": {
+          "(very long": "1.5) hair"
+        },
+        "Template Seeds Sub": "485447152",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.4",
+        "ADetailer dilate erode": "4",
+        "enable_jinja_templates": "false}",
+        "unlink_seed_from_prompt": "false",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.3",
+        "ADetailer use separate steps": "True",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Goon_Goblin",
-      "baseModel": "Pony",
+      "username": "PainBrioche",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        290640,
-        330475,
-        382152,
-        545254
+        705993,
+        947620,
+        1490781,
+        1589799
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "637|1749037286358",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=637%7C1749037286358"
+    "nextCursor": "638|1741102302605",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=638%7C1741102302605"
   }
 }
