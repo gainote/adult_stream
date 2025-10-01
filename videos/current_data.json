@@ -1,204 +1,76 @@
 {
   "items": [
     {
-      "id": 87351108,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06e3953f-4cde-4a75-8050-5545f12793bf/original=true/06e3953f-4cde-4a75-8050-5545f12793bf.jpeg",
-      "hash": "UHI|I2IpE,-o_NR+%MxFX-ogNIWU^*NGE1t6",
-      "width": 1280,
-      "height": 1856,
+      "id": 64952037,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a495442f-3285-4855-be54-4d6798a1e788/original=true/a495442f-3285-4855-be54-4d6798a1e788.jpeg",
+      "hash": "UCJQvSM|0W%M57H?=wr=;fIA?b=x?wt8Ot-p",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-10T08:20:00.000Z",
-      "postId": 19378427,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-21T19:45:17.932Z",
+      "postId": 14471570,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 219,
-        "likeCount": 2049,
+        "cryCount": 117,
+        "laughCount": 226,
+        "likeCount": 1978,
         "dislikeCount": 0,
-        "heartCount": 956,
+        "heartCount": 1031,
         "commentCount": 0
       },
       "meta": {
-        "seed": 1222259635,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1717586@1943723",
-        "extra": {},
+        "Size": "1024x1536",
+        "seed": 1488229110,
+        "Model": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
         "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1717586@1943723"
-        ],
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), anime coloring, anime screencap, masterpiece, best quality, amazing quality, rina, 1girl, dark skin, dark-skinned female, gyaru, short hair, blonde hair, purple eyes, medium breasts, hoop earrings, ear piercing, pink smokyeyes, lash, mascara, glossy pink lips, parted lips, firm petite shape, pink lipstick, (cute nipple), fingernails, nail polish, 1girl, fake black cat ears, fake furry cat ears, aho-go, short hair, puffed mouth, smug, pouting, puffed cheeks, blush, pink lipstick, heart-shaped pupils, purple heart-shaped, delicate eyes, eyes in love, ((tears of joy:1.3)), slightly out tears, slightly out tongue, breathing, ears, earrings, delicate facial features, cat paw pose, open hands, cute and tender expression, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), foreshortening, erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, dynamic dutch angle, ((view from below:1.5)), blurry background, bright colors, stunningly artwork",
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/JA4GYXBJEHGK76751Z7VZVYBW0.jpeg",
-          "width": 832,
-          "height": 1216
+        "hashes": {
+          "model": "8a5c2c7767",
+          "embed:lazyneg": "e56abc0d9e",
+          "embed:lazypos": "5060dec74f",
+          "lora:extreme-sex-v1.0-illustriousxl": "f2cc02474a",
+          "lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious": "bd7a379343"
         },
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, mosaic censor, lowres, abstract, signature, ",
-        "civitaiResources": [
+        "prompt": "embedding:lazypos, extreme sex, 1girl, 20 years old, black hair, fit, slim, medium breasts, straight hair, blunt bangs, hair over one eye, long hair, red eyes,\neyes crossed, torogao, black choker, black jacket, open clothes, long sleeves, big eyes, bed room, open mouth, tongue, saliva, blush, ((animated, bright colors, hentai)), bottom up, from behind, doggystyle, female focus, male out of frame, vaginal, pussy, head grab,  <lora:extreme-sex-v1.0-illustriousxl:1> <lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious:0.8>",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1943723
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1972851
-          },
-          {
-            "weight": 0.55,
-            "modelVersionId": 1598431
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1027964
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 211788
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 135867
-          },
-          {
-            "weight": 0.25,
-            "modelVersionId": 1193082
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1943723
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
+            "hash": "f2cc02474a",
+            "name": "extreme-sex-v1.0-illustriousxl",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1972851
+            "weight": 1
           },
           {
+            "hash": "bd7a379343",
+            "name": "TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious",
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1598431
+            "weight": 0.8
           },
           {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1027964
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 211788
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 135867
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1193082
+            "hash": "8a5c2c7767",
+            "name": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1743202@1972851",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1414247@1598431",
-            "type": "lora",
-            "strength": 0.55,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:918427@1027964",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:212532@244808",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:188573@211788",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:122359@135867",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:536084@1193082",
-            "type": "lora",
-            "strength": 0.25,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "8a5c2c7767",
+        "negativePrompt": "embedding:lazyneg, male focus"
       },
-      "username": "Chimi83",
+      "username": "janxd",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        135867,
-        164821,
-        211788,
-        244808,
-        1027964,
-        1193082,
-        1598431,
-        1943723,
-        1972851
+        1437130,
+        1470451,
+        1470501,
+        1520822,
+        1525879
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "646|1742586317932",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=646%7C1742586317932"
+    "nextCursor": "647|1752755700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=647%7C1752755700000"
   }
 }
