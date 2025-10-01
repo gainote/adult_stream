@@ -1,123 +1,80 @@
 {
   "items": [
     {
-      "id": 16873109,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4742ed64-ab1f-4c30-8277-051f6ec85c21/original=true/4742ed64-ab1f-4c30-8277-051f6ec85c21.jpeg",
-      "hash": "URLpXCF3k=Z~LN%3rrxaYQcF$gaK.TIpbbs8",
-      "width": 1792,
-      "height": 2304,
+      "id": 91804214,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0cd6af1b-a8f3-49ca-9c0a-7a6b8c68eb50/original=true/0cd6af1b-a8f3-49ca-9c0a-7a6b8c68eb50.jpeg",
+      "hash": "UEGu2Z-;cE%M*Jx]kXxu%#V@RPj[tRs.n3Io",
+      "width": 1024,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-06-23T13:29:02.673Z",
-      "postId": 3785023,
+      "createdAt": "2025-08-01T19:52:34.426Z",
+      "postId": 20367340,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 294,
-        "likeCount": 1865,
+        "cryCount": 230,
+        "laughCount": 336,
+        "likeCount": 2001,
         "dislikeCount": 0,
-        "heartCount": 1085,
+        "heartCount": 770,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
-        "Size": "1792x2304",
-        "seed": 3006048250,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "ac006fdd7e",
-          "lora:KrekkovXL": "e4794458c1e8",
-          "lora:PijaMix_v1": "1a946326dd2a",
-          "lora:flooxyfloox": "a4f95cfe4726",
-          "lora:pillorypose": "c03b640b8dc4",
-          "lora:greatm8Pony_locon_e16": "0c4b6f1af567"
+        "Size": "1024x1024",
+        "seed": 629090905,
+        "draft": false,
+        "extra": {
+          "remixOfId": 91790503
         },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, nsfw,2d,1girl, 1boy, dark-skinned female,yellow eyes,dark skin, (pillorypose), pillory, standing, sex from behind, doggystyle, white pubic hair, looking at viewer, waist grab, expressionless, moaning, tongue out, white male, straight white hair, (straight bangs), fully nude, (shiny skin), hanging breasts,long hair,huge breasts, (medieval city background), medieval marketplace, <lora:greatm8Pony_locon_e16:0.3> <lora:flooxyfloox:0.2> <lora:PijaMix_v1:0.6> <lora:KrekkovXL:0.2> <lora:pillorypose:1>",
-        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 8,
-        "freeu_b1": "1.4",
-        "freeu_b2": "1.3",
-        "freeu_s1": "0.9",
-        "freeu_s2": "0.2",
-        "resources": [
+        "steps": 40,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two busty cute 18yo girls  edging, giving a blowjob",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-08-01T1925:07.0648097Z",
+        "experimental": false,
+        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
+        "civitaiResources": [
           {
-            "hash": "0c4b6f1af567",
-            "name": "greatm8Pony_locon_e16",
-            "type": "lora",
-            "weight": 0.3
+            "type": "checkpoint",
+            "modelVersionId": 1988773,
+            "modelVersionName": "SDXL Pony 18"
           },
           {
-            "hash": "a4f95cfe4726",
-            "name": "flooxyfloox",
-            "type": "lora",
-            "weight": 0.2
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
-            "hash": "1a946326dd2a",
-            "name": "PijaMix_v1",
             "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "e4794458c1e8",
-            "name": "KrekkovXL",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "hash": "c03b640b8dc4",
-            "name": "pillorypose",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
-            "type": "model"
+            "weight": 1.25,
+            "modelVersionId": 714649,
+            "modelVersionName": "V1"
           }
-        ],
-        "Model hash": "ac006fdd7e",
-        "freeu_enabled": "True",
-        "negativePrompt": "source_cartoon, source_pony, monochrome,3d,abs,panties,white breasts,blue hair,wild hair,unkept hair, dark-skinned male, curly hair, black pubic hair",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer prompt": {
-          "KrekkovXL": "0.2>"
-        },
-        "ADetailer version": "24.5.1",
-        "Denoising strength": "0.25",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "multidiffusion_method": "Mixture of Diffusers",
-        "ADetailer dilate erode": "4",
-        "multidiffusion_enabled": "True",
-        "ADetailer inpaint width": "1024",
-        "ADetailer inpaint height": "1024",
-        "ADetailer inpaint padding": "32",
-        "ADetailer negative prompt": {},
-        "multidiffusion_tile_width": "896",
-        "multidiffusion_tile_height": "1216",
-        "ADetailer mask merge invert": "Merge",
-        "multidiffusion_tile_overlap": "64",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "multidiffusion_tile_batch_size": "4",
-        "ADetailer mask only top k largest": "1",
-        "ADetailer use inpaint width height": "True"
+        ]
       },
-      "username": "BesolloAI",
+      "username": "brahej",
       "baseModel": "Pony",
       "modelVersionIds": [
-        324524,
-        349135
+        9208,
+        714649,
+        1988773
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "655|1754077954426",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=655%7C1754077954426"
+    "nextCursor": "656|1752580800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=656%7C1752580800000"
   }
 }
