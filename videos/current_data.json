@@ -1,39 +1,115 @@
 {
   "items": [
     {
-      "id": 47057567,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0af55135-057c-4307-85f7-3153294310d8/original=true/0af55135-057c-4307-85f7-3153294310d8.jpeg",
-      "hash": "UACsKt.S1N4;t-_4tSx^AJ?c^+NH_3x]R-%2",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 78924289,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36c82ddd-2f24-4327-8d82-971b3afed605/original=true/36c82ddd-2f24-4327-8d82-971b3afed605.jpeg",
+      "hash": "UBID:a01Kh?G00^j9Fxt9^M{^joz5ln%~BNb",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-23T00:07:27.693Z",
-      "postId": 10635028,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-28T05:00:00.000Z",
+      "postId": 17531121,
       "stats": {
-        "cryCount": 100,
-        "laughCount": 196,
-        "likeCount": 2053,
+        "cryCount": 114,
+        "laughCount": 249,
+        "likeCount": 2033,
         "dislikeCount": 0,
-        "heartCount": 1014,
-        "commentCount": 0
+        "heartCount": 964,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "paulmuc",
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 133516315,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:Hoseki_ZenlessZoneZero_Orchidea_IllustriousXL_v1:1>, orch1dea, large breasts, blue eyes, black hair, streaked hair, green hair, white hair, swept bangs, folded ponytail, hairclip, rose in hair, rose earrings, smokyeyes, lash, red mascara, glossy light red lipstick, parted lips, red nails, long nails, nails art, shoot from a front camera angle about a female character in a provocative pose, showcasing her body in a simple indoor setting. the image also shows a slender woman with pale skin and short hair, standing in the middle of the image, wearing a black choker and a black top that is pulled up to expose her large breasts. she has blue earrings and a tattoo on her lower abdomen. the woman appears to be looking directly at the viewer with a cheeky and sultry expression, her lips slightly parted. her body is slim and curvy, with large breasts and a navel piercing. she is wearing a thong, <lora:panty pull_illustrious_V1.0:1>, ((Which she lasciviously pulls down to her thighs:1.5)). the background is a simple white bedroom, lighting is soft and even, highlighting her curves. relaxed but provocative, dramatic scenery, intricate details, (blurry background, depth of field:1.1), the picture has an sexuel, alluring and erotic vibe, lascivious pose, cowboy shot from above, ((POV:1.3))",
+        "sampler": "DDIM",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
+          {
+            "name": "Hoseki_ZenlessZoneZero_Orchidea_IllustriousXL_v1",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "Created Date": "2025-05-27T0436:14.6526475Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, (watermark:1.5), ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari, no man, no other persons",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1697082,
+            "modelVersionName": "v2.2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1492934,
+            "modelVersionName": "illustrious V2"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1819901,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lycoris",
+            "weight": 1,
+            "modelVersionId": 1120792,
+            "modelVersionName": "v1.0 illustrious"
+          }
+        ]
+      },
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        164821,
-        382152,
-        720175,
-        953264
+        6056,
+        25820,
+        1056404,
+        1120792,
+        1135769,
+        1492934,
+        1697082,
+        1819901
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "641|1748408400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=641%7C1748408400000"
+    "nextCursor": "642|1756173600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=642%7C1756173600000"
   }
 }
