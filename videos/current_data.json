@@ -1,92 +1,83 @@
 {
   "items": [
     {
-      "id": 35050022,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed6ffa75-222f-49fb-8b14-df5cd515f908/original=true/ed6ffa75-222f-49fb-8b14-df5cd515f908.jpeg",
-      "hash": "UYJ*3QxuS30K~p^+IURQozNGn%%MxGRPS2kC",
+      "id": 79872406,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d641949e-e907-4c07-a893-35a6d58bf4d7/original=true/d641949e-e907-4c07-a893-35a6d58bf4d7.jpeg",
+      "hash": "U39~~M}?000z5RM|-Us:9uRkxts:9v-V~ASg",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-23T04:10:00.000Z",
-      "postId": 8010890,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-02T02:01:29.915Z",
+      "postId": 17742600,
       "stats": {
-        "cryCount": 125,
-        "laughCount": 233,
-        "likeCount": 1926,
+        "cryCount": 133,
+        "laughCount": 276,
+        "likeCount": 2093,
         "dislikeCount": 0,
-        "heartCount": 1047,
-        "commentCount": 5
+        "heartCount": 828,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2456183163,
+        "seed": 1183968877,
+        "draft": false,
         "extra": {
-          "remixOfId": 28153489
+          "remixOfId": 78566516
         },
-        "steps": 40,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up) 1boy, 1girl, young woman, cute face, round face, young face, fit body, big breasts, perfect ass, sweet ass, fit ass, arching ass, lips, brown hair, long hair, green eyes, black pants, tight pants, brown shirt, indoor, sexy, hot, on knees, on all fours, bent over, anal sex, behind sex, huge wide cock in anal, ass grab, brutal anal penetration (motion lines), anal pain expression face, side view, from left, side shot, ass focus, looking away,",
-        "sampler": "Euler a",
-        "cfgScale": 5,
+        "steps": 28,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up,score_7_up, score_6_up, score_5_up, score_4_up, (realistic lighting), solo, 1girl, masterpiece, best quality,\ndark-haired and dark-eyed librarian with glasses, loose wavy black hair to her shoulder, (curvy figure), (tiny waist), hourglass figure, sexy librarian, modern office setting, \nsleeveless black leotard,\nleaning against a desk, scholarly atmosphere, contemporary style, books and sleek decor, warm and muted tones, intellectual and mysterious aura, cozy and sophisticated ambiance, \nwide shot, full body, from beind,\nArsMJStyle, (Colored pencil hyperdetailed realism)",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "SDXL",
         "resources": [],
-        "Created Date": "2024-10-17T0530:29.3712652Z",
-        "negativePrompt": "score_4, score_5, score_6, (muscular female), greyscale",
+        "Created Date": "2025-06-01T2356:31.2544428Z",
+        "negativePrompt": "text, logos, bad quality, nudity",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1759168,
+            "modelVersionName": "Ragnarok_by_RunDiffusion"
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 333587,
-            "modelVersionName": "Smooth 2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 548385,
-            "modelVersionName": "AsuraV2"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
+            "weight": 0.95,
+            "modelVersionId": 135867,
             "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 263801,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1404932,
+            "modelVersionName": "SDXLv2"
           }
         ]
       },
-      "username": "Sharlorde",
-      "baseModel": "Pony",
+      "username": "PBCreator",
+      "baseModel": "SDXL 1.0",
       "modelVersionIds": [
-        290640,
-        333587,
-        436219,
-        548385
+        135867,
+        263801,
+        1404932,
+        1759168
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "659|1748829689915",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=659%7C1748829689915"
+    "nextCursor": "660|1733770728305",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=660%7C1733770728305"
   }
 }
