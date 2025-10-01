@@ -1,66 +1,83 @@
 {
   "items": [
     {
-      "id": 88373746,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e363e32a-466c-4801-83f8-e70e7368c625/original=true/e363e32a-466c-4801-83f8-e70e7368c625.jpeg",
-      "hash": "UBHKeG-W00X50056^R-:01tQ~VE1Rlxs%0M|",
+      "id": 11172507,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99009c70-58ad-4919-94ec-421e8fd0fcab/original=true/99009c70-58ad-4919-94ec-421e8fd0fcab.jpeg",
+      "hash": "UOExkc}?nhIpo#ofWBR+ELR+WCf6%2xZR*Ip",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-15T12:00:00.000Z",
-      "postId": 19602649,
+      "createdAt": "2024-04-30T15:18:57.052Z",
+      "postId": 2453136,
       "stats": {
-        "cryCount": 154,
-        "laughCount": 293,
-        "likeCount": 1962,
+        "cryCount": 108,
+        "laughCount": 212,
+        "likeCount": 1731,
         "dislikeCount": 0,
-        "heartCount": 927,
-        "commentCount": 0
+        "heartCount": 1284,
+        "commentCount": 1
       },
       "meta": {
-        "RNG": "NV",
         "Size": "832x1216",
-        "seed": 1878158290,
-        "Model": "waiNSFWIllustrious_v140",
-        "steps": 35,
-        "hashes": {
-          "model": "bdb59bac77",
-          "lora:GELATOMUSUME_Style_IL": "155c659331d9"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, highly detailed, solo focus, 1girl, lower body, plump, lucoa, ahegao, large breasts, bite mark, cum in pussy, after sex, purple micro bikini, covered nipples, elbow gloves, sitting, sweat, thong aside, reaching towards viewer, armpit, v, silly smile, head grab, tongue out, indoors, dark skinned male, huge penis, g3l4t0musum3,<lora:GELATOMUSUME_Style_IL:1>",
-        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
+        "seed": 1805891299,
+        "steps": 24,
+        "prompt": "1dk, portrait, white skin, black lipstick wearing sexy skimpy outfit, sexy girl, micro skirt, shirt pulled up over breasts, black shirt lifted up to show tits, exposed breasts, skimpy clothes, pressing breasts, awesome breasts, perfectly round breasts, petite body, seductive, blue eyes, tits out, black thigh high stockings, perfect round breasts, eyes closed, moaning, head tilted up, busty petite,\ninside rich mansion\n group sex, eager moaning happy look, hearts in eyes, hearts in pupil, big hearts, consensual sex, fantastical, size difference, spitroast, deepthroat, rough sex, epic sex, head grab, ass grab, arms tied behind back,\nscore_9, score_8_up, score_7_up, 8k, very detailed,\n1girl, solo, very detailed, high detailed texture, depth of field, golden hour, cinematic illumination, volumetric lighting, rating_questionable,",
         "sampler": "Euler a",
-        "cfgScale": 5.8,
-        "resources": [
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "negativePrompt": "score_6, score_5, score_4, fcNeg, simple background, blur, low quality, muscular woman,",
+        "civitaiResources": [
           {
-            "hash": "155c659331d9",
-            "name": "GELATOMUSUME_Style_IL",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640
           },
           {
-            "hash": "bdb59bac77",
-            "name": "waiNSFWIllustrious_v140",
-            "type": "model"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 97691
+          },
+          {
+            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
+            "weight": 1,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "ImageJobNetworkParams { Strength = 1, TriggerWord = , Type = lora }",
+            "weight": 1,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "ImageJobNetworkParams { Strength = 0.6, TriggerWord = , Type = lora }",
+            "weight": 0.6,
+            "modelVersionId": 399443
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712
           }
-        ],
-        "Model hash": "bdb59bac77",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality, worst quality, worst detail, censor,"
+        ]
       },
-      "username": "AiDraMon",
-      "baseModel": "Illustrious",
+      "username": "kokonutnut",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1761560,
-        1988133
+        97691,
+        135867,
+        244808,
+        290640,
+        399443
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "657|1714490337052",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=657%7C1714490337052"
+    "nextCursor": "658|1729656600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=658%7C1729656600000"
   }
 }
