@@ -1,76 +1,111 @@
 {
   "items": [
     {
-      "id": 64952037,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a495442f-3285-4855-be54-4d6798a1e788/original=true/a495442f-3285-4855-be54-4d6798a1e788.jpeg",
-      "hash": "UCJQvSM|0W%M57H?=wr=;fIA?b=x?wt8Ot-p",
-      "width": 1024,
-      "height": 1536,
+      "id": 88784263,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2eec0d1-0c50-4e7e-8f4e-74fb74aedb5d/original=true/f2eec0d1-0c50-4e7e-8f4e-74fb74aedb5d.jpeg",
+      "hash": "UBJaiy1P3Z;1K*v~Iqtl4n-T$fOY^*Ef$%a$",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-21T19:45:17.932Z",
-      "postId": 14471570,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-17T12:35:00.000Z",
+      "postId": 19695462,
       "stats": {
-        "cryCount": 117,
-        "laughCount": 226,
-        "likeCount": 1978,
+        "cryCount": 109,
+        "laughCount": 200,
+        "likeCount": 2104,
         "dislikeCount": 0,
-        "heartCount": 1031,
-        "commentCount": 0
+        "heartCount": 937,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "1024x1536",
-        "seed": 1488229110,
-        "Model": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
-        "steps": 30,
-        "hashes": {
-          "model": "8a5c2c7767",
-          "embed:lazyneg": "e56abc0d9e",
-          "embed:lazypos": "5060dec74f",
-          "lora:extreme-sex-v1.0-illustriousxl": "f2cc02474a",
-          "lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious": "bd7a379343"
-        },
-        "prompt": "embedding:lazypos, extreme sex, 1girl, 20 years old, black hair, fit, slim, medium breasts, straight hair, blunt bangs, hair over one eye, long hair, red eyes,\neyes crossed, torogao, black choker, black jacket, open clothes, long sleeves, big eyes, bed room, open mouth, tongue, saliva, blush, ((animated, bright colors, hentai)), bottom up, from behind, doggystyle, female focus, male out of frame, vaginal, pussy, head grab,  <lora:extreme-sex-v1.0-illustriousxl:1> <lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious:0.8>",
-        "sampler": "Euler a",
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1353314@1984137",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1353314@1984137"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\n(pastel colors:0.5),\nmorning,\nblonde braid,\n(smooth skin:0.8),\n(hand ass folds:0.9),\nroom,\n(messy hairs:1.1),\nparted lips,\nbent over,\n(innie pussy:0.7),\nlooking over shoulder,\npink panties,\nstanding,",
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
         "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "upscalers": [],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/115683231226219655630029771877807201132.jpg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed), bestiality",
+        "civitaiResources": [
           {
-            "hash": "f2cc02474a",
-            "name": "extreme-sex-v1.0-illustriousxl",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 1984137
           },
           {
-            "hash": "bd7a379343",
-            "name": "TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious",
-            "type": "lora",
-            "weight": 0.8
+            "weight": 0.8,
+            "modelVersionId": 1976924
           },
           {
-            "hash": "8a5c2c7767",
-            "name": "JANKU-v2.1-IllustriousXL-NoobESP-NSFW-Mix.safetensors",
-            "type": "model"
+            "weight": 0.8,
+            "modelVersionId": 1082928
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1984137
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1976924
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1082928
           }
         ],
-        "Model hash": "8a5c2c7767",
-        "negativePrompt": "embedding:lazyneg, male focus"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:966483@1082928",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "janxd",
+      "username": "vovkkabanko",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1437130,
-        1470451,
-        1470501,
-        1520822,
-        1525879
+        1082928,
+        1976924,
+        1984137
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "647|1752755700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=647%7C1752755700000"
+    "nextCursor": "648|1754340375354",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=648%7C1754340375354"
   }
 }
