@@ -1,41 +1,79 @@
 {
   "items": [
     {
-      "id": 75151342,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a62c5464-9c54-4e0c-8144-52da69c2dbea/original=true/a62c5464-9c54-4e0c-8144-52da69c2dbea.jpeg",
-      "hash": "UKK0{Sx]Ef~BtS-:4oR*k?New]9F.8jFIAt6",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 87285143,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eca80f4b-6a19-4d6a-9402-ae299d40e63a/original=true/eca80f4b-6a19-4d6a-9402-ae299d40e63a.jpeg",
+      "hash": "UHF#%d9Z0y~W0hxaR*Io00t7w]RiIUWX$xRP",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-05-10T00:37:00.000Z",
-      "postId": 16687680,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-09T21:17:45.525Z",
+      "postId": 19364648,
       "stats": {
-        "cryCount": 146,
-        "laughCount": 275,
-        "likeCount": 1920,
+        "cryCount": 138,
+        "laughCount": 221,
+        "likeCount": 1970,
         "dislikeCount": 0,
-        "heartCount": 964,
+        "heartCount": 976,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 2679042346,
+        "Model": "Oblivious_mix_illustrious.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "a372cb210f",
+          "lora:strap_slip_ilxl_goofy": "bfa8293f288a"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, <lora:strap_slip_ilxl_goofy:1> strap slip, tank top, camisole, spaghetti strap, midriff, cleavage, low neckline, raiden shogun, outdoors, booty shorts, thigh gap, huge thigh, perfect body, perfect female body, curvy, walking, night sky, night, bokeh, star \\(sky\\), cityscape, building, skyscraper,",
+        "Version": "f1.3.0-v1.10.1RC-latest-1031-g9b507cd3",
+        "sampler": "DPM++ 2M",
+        "Emphasis": "No norm",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "bfa8293f288a",
+            "name": "strap_slip_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "a372cb210f",
+            "name": "Oblivious_mix_illustrious.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "a372cb210f",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo, twitter username,",
+        "ADetailer model": "face_yolov9c.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.15",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.8",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        372639,
-        1412563,
-        1490781,
-        1517494
+        1180973
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "674|1752095865525",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=674%7C1752095865525"
+    "nextCursor": "675|1757852100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=675%7C1757852100000"
   }
 }
