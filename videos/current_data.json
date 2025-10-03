@@ -1,79 +1,77 @@
 {
   "items": [
     {
-      "id": 87285143,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eca80f4b-6a19-4d6a-9402-ae299d40e63a/original=true/eca80f4b-6a19-4d6a-9402-ae299d40e63a.jpeg",
-      "hash": "UHF#%d9Z0y~W0hxaR*Io00t7w]RiIUWX$xRP",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 100257011,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7bc42fc7-39d7-49c5-afef-dbcb20046505/original=true/7bc42fc7-39d7-49c5-afef-dbcb20046505.jpeg",
+      "hash": "UCD+T3NeOx^-00%3RLD~^7E1n%%2x|$*bws:",
+      "width": 2048,
+      "height": 3072,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-09T21:17:45.525Z",
-      "postId": 19364648,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-14T12:15:00.000Z",
+      "postId": 22242828,
       "stats": {
-        "cryCount": 138,
-        "laughCount": 221,
-        "likeCount": 1970,
+        "cryCount": 133,
+        "laughCount": 243,
+        "likeCount": 2036,
         "dislikeCount": 0,
-        "heartCount": 976,
+        "heartCount": 891,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 2679042346,
-        "Model": "Oblivious_mix_illustrious.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "a372cb210f",
-          "lora:strap_slip_ilxl_goofy": "bfa8293f288a"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, <lora:strap_slip_ilxl_goofy:1> strap slip, tank top, camisole, spaghetti strap, midriff, cleavage, low neckline, raiden shogun, outdoors, booty shorts, thigh gap, huge thigh, perfect body, perfect female body, curvy, walking, night sky, night, bokeh, star \\(sky\\), cityscape, building, skyscraper,",
-        "Version": "f1.3.0-v1.10.1RC-latest-1031-g9b507cd3",
-        "sampler": "DPM++ 2M",
-        "Emphasis": "No norm",
-        "cfgScale": 6,
+        "Size": "1024x1536",
+        "seed": 391490428750595,
+        "Model": "ramthrustsNSFWPINK_alchemyMix169",
+        "steps": 30,
+        "prompt": ",1girl,  (lamb-oic029:0.44), (alzi xiaomi:1.1), (koujuan:1.1), (ohisashiburi:0.9), Masterpiece, amazing quality, 8k, ultra detailed, refined details, high resolution, HD, masterwork, digital illustration, 7481llu, 69yottea style illu, realistic, photorealistic, flat color, solo, (cat ears:1.3), dynamic pose, dynamic angle, alternate costume, orange eyes, cinematic composition, breasts, nipples, tanlines, naked, smile, pool, closed eyes, tan, grin, one-piece tan, completely nude, armpits, short hair, ass, blush, outdoors, black hair, medium breasts, day, teeth, arm behind head, poolside, lens flare, arms up, pool ladder, from side, standing, ultra-detailed, high contrast, backlighting, bokeh, volumetric lighting, depth of field, standing on one leg, looking at viewer, navel, light smile, stomach, water, arm up, nude, animal ears, legs together, blurry background, clenched hand, absurdres, best quality, newest, very aesthetic, very aesthetic",
+        "Version": "ComfyUI",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "negativePrompt": "(bad quality:1.15), (worst quality:1.3), very displeasing, worst aesthetic, simple shading, saturated, censored, bad hands, missing digits, extra digits, bad anatomy, lowres, scan artifacts, scan dust, bleed through, binding discoloration, young, child, loli, aged down, malformed soles, simple eyes, aliasing, username, tattoo, scars, signature, text, english, chinese, japanese, kanji, wetskin, fluids, multiple person, crowd, huge breasts, huge ass, multiple views, multiple moles, (thick eyelashes:1.5), spot color, (shiny skin:1.3),watermark, greyscale, blush stickers, 3d, riding dildo, suction cup dildo, stickers,",
+        "civitaiResources": [
           {
-            "hash": "bfa8293f288a",
-            "name": "strap_slip_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1892573
           },
           {
-            "hash": "a372cb210f",
-            "name": "Oblivious_mix_illustrious.fp16",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1375651
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1261280
+          },
+          {
+            "type": "lora",
+            "weight": 0.39,
+            "modelVersionId": 1157361
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 2034730
           }
-        ],
-        "Model hash": "a372cb210f",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo, twitter username,",
-        "ADetailer model": "face_yolov9c.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.15",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.8",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
+      "username": "Below_average_enjoyer",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1180973
+        1157361,
+        1261280,
+        1375651,
+        1892573,
+        2034730
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "675|1757852100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=675%7C1757852100000"
+    "nextCursor": "676|1745637148316",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=676%7C1745637148316"
   }
 }
