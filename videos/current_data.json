@@ -1,124 +1,41 @@
 {
   "items": [
     {
-      "id": 79045984,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/34a4c8cd-e61e-4e8c-b974-166a32fee079/original=true/34a4c8cd-e61e-4e8c-b974-166a32fee079.jpeg",
-      "hash": "U5JZYsPA00z?56K5Opvi00JTcBrF}@OE~Bv$",
-      "width": 1024,
-      "height": 1024,
+      "id": 75151342,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a62c5464-9c54-4e0c-8144-52da69c2dbea/original=true/a62c5464-9c54-4e0c-8144-52da69c2dbea.jpeg",
+      "hash": "UKK0{Sx]Ef~BtS-:4oR*k?New]9F.8jFIAt6",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-03T11:08:00.000Z",
-      "postId": 17559943,
+      "browsingLevel": 8,
+      "createdAt": "2025-05-10T00:37:00.000Z",
+      "postId": 16687680,
       "stats": {
-        "cryCount": 157,
-        "laughCount": 306,
-        "likeCount": 1971,
+        "cryCount": 146,
+        "laughCount": 275,
+        "likeCount": 1920,
         "dislikeCount": 0,
-        "heartCount": 875,
+        "heartCount": 964,
         "commentCount": 0
       },
-      "meta": {
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "512x512",
-        "seed": 317946217,
-        "Model": "waiNSFWIllustrious_v100",
-        "steps": 25,
-        "hashes": {
-          "vae": "63aeecb90f",
-          "model": "7e87327f89",
-          "lora:CaitlinFaircIllus": "73ccc87c8de5",
-          "lora:Akabur_IllustriousV1": "4c2dfd0cdad0",
-          "lora:500SharpCivitai_Lascalae": "2de56c350305",
-          "lora:zy_Detailed_Backgrounds_v1": "5aea7e6bc4a0",
-          "lora:mating-press-from-above-illustriousxl-lora-nochekaiser": "c0b867a38e39"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_anime, plot aspects BREAK <lora:Akabur_IllustriousV1:0.9742663426203466>akaburstyle <lora:CaitlinFaircIllus:0.9286070368726603>caitlinf,red hair,green eyes,fingerless, nicely detailed, highly detailed, sharp focus, <lora:mating-press-from-above-illustriousxl-lora-nochekaiser:0.7647309766114989>mating press from above, hetero, completely nude, sex, sweat, missionary, lying, leg lock, on back, hug, back, mating press, open mouth, blush, looking at viewer, zPDXL3 zPDXLxxx sharp_LASCALAE, ultra sharp focus, <lora:500SharpCivitai_Lascalae:0.4857139198498516> \u00f0\u009f\u008d\u0091 brilliant fine BREAK <lora:zy_Detailed_Backgrounds_v1:0.3627633154920614> elaborate dynamic immersive intricate inside of hardware shop focal point daylight",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 2.8,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "hash": "4c2dfd0cdad0",
-            "name": "Akabur_IllustriousV1",
-            "type": "lora",
-            "weight": 0.9742663426203466
-          },
-          {
-            "hash": "73ccc87c8de5",
-            "name": "CaitlinFaircIllus",
-            "type": "lora",
-            "weight": 0.9286070368726603
-          },
-          {
-            "hash": "c0b867a38e39",
-            "name": "mating-press-from-above-illustriousxl-lora-nochekaiser",
-            "type": "lora",
-            "weight": 0.7647309766114989
-          },
-          {
-            "hash": "2de56c350305",
-            "name": "500SharpCivitai_Lascalae",
-            "type": "lora",
-            "weight": 0.4857139198498516
-          },
-          {
-            "hash": "5aea7e6bc4a0",
-            "name": "zy_Detailed_Backgrounds_v1",
-            "type": "lora",
-            "weight": 0.3627633154920614
-          },
-          {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100",
-            "type": "model"
-          }
-        ],
-        "Model hash": "7e87327f89",
-        "Hires upscale": "2",
-        "Schedule type": "Karras",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "simple background, source_furry, source_pony, sketch, monochrome, low-res, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, unfinished, zPDXLxxx-neg",
-        "ADetailer model": "mediapipe_face_mesh_eyes_only",
-        "Unprompted Seed": "317946217",
-        "ADetailer prompt": {},
-        "ADetailer version": "24.11.1",
-        "Unprompted Prompt": {
-          "Akabur_IllustriousV1": "0.9742663426203466>akaburstyle [call sfu/illustrious_disney_character_nsfw_v3]",
-          "zy_Detailed_Backgrounds_v1": "0.3627633154920614> elaborate dynamic immersive intricate inside of hardware shop focal point daylight",
-          "mating-press-from-above-illustriousxl-lora-nochekaiser": "0.7647309766114989>mating press from above"
-        },
-        "Denoising strength": "0.7",
-        "Unprompted Enabled": "True",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer negative prompt": {},
-        "Unprompted Negative Prompt": {
-          "disfigured": "1.3)",
-          "(mutated hands and fingers": "1.4)"
-        },
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "absoluteblackness",
+      "meta": null,
+      "username": "Kalrdr",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        694787,
-        708275,
-        1147346,
-        1367422,
-        1423979,
-        1672458
+        9208,
+        111363,
+        164821,
+        372639,
+        1412563,
+        1490781,
+        1517494
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "673|1746837420000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=673%7C1746837420000"
+    "nextCursor": "674|1752095865525",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=674%7C1752095865525"
   }
 }
