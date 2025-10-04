@@ -1,35 +1,46 @@
 {
   "items": [
     {
-      "id": 7662227,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aad6f21f-f891-48dd-b811-b0ec7433426d/original=true/aad6f21f-f891-48dd-b811-b0ec7433426d.jpeg",
-      "hash": "USMY{LNGE2Rk*0adM_W=Oaxt%1kC0fIooeof",
+      "id": 101062283,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9be4908-6e86-42a6-9f81-c2d56bd9e0c7/original=true/b9be4908-6e86-42a6-9f81-c2d56bd9e0c7.jpeg",
+      "hash": "UNJ7v}-:s9i__L-:xZM{IWR*E3RQ-oV[D+IV",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-03-09T05:41:10.944Z",
-      "postId": 1659494,
+      "createdAt": "2025-09-21T13:11:30.683Z",
+      "postId": 22421675,
       "stats": {
-        "cryCount": 102,
-        "laughCount": 215,
-        "likeCount": 1595,
+        "cryCount": 172,
+        "laughCount": 256,
+        "likeCount": 1944,
         "dislikeCount": 0,
-        "heartCount": 1385,
-        "commentCount": 1
+        "heartCount": 921,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 706259684,
-        "steps": 50,
-        "prompt": "1 girl, moaning, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, huge dick, reverse congress, expressive, anime, cartoon, hearts, speedlines, dynamic, semen, ejaculation, expressiveh, blue hair",
-        "sampler": "DPM2 a",
-        "cfgScale": 10,
+        "seed": 768115821,
+        "draft": false,
+        "steps": 18,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_8, score_9,1girl, 18 year old, sexy girl in skimpy shirt, irish girl, random makeup, random hair colour, random hair style, random eye colour, random skin colour, nipples, no panties, sports headphones on, petite body, perfect breasts, exposing breasts, random clothes, doggystyle sex, getting fucked from behind by giant stuffed teddy bear, cute faced plushie, dripping juices, side view, view from side, penetrated from behind, blowjob, sucking cock, spit roasted, cum in pussy, cum in mouth, cum explosion, cum in hair, cum on face, cum drip, late sunset lighting",
+        "process": "img2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-18T1514:05.4380838Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female , tail,( futanari:1.2), futa, penis",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -37,20 +48,57 @@
           },
           {
             "type": "lora",
-            "weight": 1.75,
+            "weight": 0.4,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 330475
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
             "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 360698
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 354128
           }
         ]
       },
-      "username": "jspp3733410",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
-        290640
+        135867,
+        244808,
+        290640,
+        330475,
+        354128,
+        360698,
+        382152,
+        398847
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "680|1758460290683",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=680%7C1758460290683"
+    "nextCursor": "681|1747367006703",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=681%7C1747367006703"
   }
 }
