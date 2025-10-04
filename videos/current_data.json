@@ -1,77 +1,41 @@
 {
   "items": [
     {
-      "id": 100257011,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7bc42fc7-39d7-49c5-afef-dbcb20046505/original=true/7bc42fc7-39d7-49c5-afef-dbcb20046505.jpeg",
-      "hash": "UCD+T3NeOx^-00%3RLD~^7E1n%%2x|$*bws:",
-      "width": 2048,
-      "height": 3072,
+      "id": 75151342,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a62c5464-9c54-4e0c-8144-52da69c2dbea/original=true/a62c5464-9c54-4e0c-8144-52da69c2dbea.jpeg",
+      "hash": "UKK0{Sx]Ef~BtS-:4oR*k?New]9F.8jFIAt6",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-09-14T12:15:00.000Z",
-      "postId": 22242828,
+      "createdAt": "2025-05-10T00:37:00.000Z",
+      "postId": 16687680,
       "stats": {
-        "cryCount": 133,
-        "laughCount": 243,
-        "likeCount": 2036,
+        "cryCount": 146,
+        "laughCount": 275,
+        "likeCount": 1920,
         "dislikeCount": 0,
-        "heartCount": 891,
+        "heartCount": 964,
         "commentCount": 0
       },
-      "meta": {
-        "Size": "1024x1536",
-        "seed": 391490428750595,
-        "Model": "ramthrustsNSFWPINK_alchemyMix169",
-        "steps": 30,
-        "prompt": ",1girl,  (lamb-oic029:0.44), (alzi xiaomi:1.1), (koujuan:1.1), (ohisashiburi:0.9), Masterpiece, amazing quality, 8k, ultra detailed, refined details, high resolution, HD, masterwork, digital illustration, 7481llu, 69yottea style illu, realistic, photorealistic, flat color, solo, (cat ears:1.3), dynamic pose, dynamic angle, alternate costume, orange eyes, cinematic composition, breasts, nipples, tanlines, naked, smile, pool, closed eyes, tan, grin, one-piece tan, completely nude, armpits, short hair, ass, blush, outdoors, black hair, medium breasts, day, teeth, arm behind head, poolside, lens flare, arms up, pool ladder, from side, standing, ultra-detailed, high contrast, backlighting, bokeh, volumetric lighting, depth of field, standing on one leg, looking at viewer, navel, light smile, stomach, water, arm up, nude, animal ears, legs together, blurry background, clenched hand, absurdres, best quality, newest, very aesthetic, very aesthetic",
-        "Version": "ComfyUI",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "(bad quality:1.15), (worst quality:1.3), very displeasing, worst aesthetic, simple shading, saturated, censored, bad hands, missing digits, extra digits, bad anatomy, lowres, scan artifacts, scan dust, bleed through, binding discoloration, young, child, loli, aged down, malformed soles, simple eyes, aliasing, username, tattoo, scars, signature, text, english, chinese, japanese, kanji, wetskin, fluids, multiple person, crowd, huge breasts, huge ass, multiple views, multiple moles, (thick eyelashes:1.5), spot color, (shiny skin:1.3),watermark, greyscale, blush stickers, 3d, riding dildo, suction cup dildo, stickers,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1892573
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1375651
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1261280
-          },
-          {
-            "type": "lora",
-            "weight": 0.39,
-            "modelVersionId": 1157361
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 2034730
-          }
-        ]
-      },
-      "username": "Below_average_enjoyer",
+      "meta": null,
+      "username": "Kalrdr",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1157361,
-        1261280,
-        1375651,
-        1892573,
-        2034730
+        9208,
+        111363,
+        164821,
+        372639,
+        1412563,
+        1490781,
+        1517494
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "676|1745637148316",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=676%7C1745637148316"
+    "nextCursor": "677|1752057180000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=677%7C1752057180000"
   }
 }
