@@ -1,115 +1,56 @@
 {
   "items": [
     {
-      "id": 57549971,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f57c3d31-0838-4401-b5b5-d974f6e80938/original=true/f57c3d31-0838-4401-b5b5-d974f6e80938.jpeg",
-      "hash": "UMDbj3~WT0of?b-;%2s:I;kCxaofr?adR*a{",
-      "width": 3840,
-      "height": 5568,
+      "id": 7662227,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aad6f21f-f891-48dd-b811-b0ec7433426d/original=true/aad6f21f-f891-48dd-b811-b0ec7433426d.jpeg",
+      "hash": "USMY{LNGE2Rk*0adM_W=Oaxt%1kC0fIooeof",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-13T16:00:00.000Z",
-      "postId": 12880037,
+      "browsingLevel": 16,
+      "createdAt": "2024-03-09T05:41:10.944Z",
+      "postId": 1659494,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 200,
-        "likeCount": 1963,
+        "cryCount": 102,
+        "laughCount": 215,
+        "likeCount": 1595,
         "dislikeCount": 0,
-        "heartCount": 1031,
-        "commentCount": 0
+        "heartCount": 1385,
+        "commentCount": 1
       },
       "meta": {
-        "nsfw": false,
-        "vaes": [],
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/Y2J22TX05D6911R51AHD5M9K20",
-        "steps": 24,
-        "width": 1280,
-        "height": 1856,
-        "models": [],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, rating_explicit, masterpiece, absurdres, (high quality), detailed skin, detailed iris, (detailed character design), (ultra-high resolution), perfectly composed, clear, breathtaking attention to detail, high-resolution, ultra detail, uncensored, narrow waist, ((detailed face, detailed skin), masterpiece, ultra details, ultra detailed, ultra quality, best quality)\nBREAK\ndeflux, Luxanna Crownguard, blonde hair, blue eyes, long hair, black, sexy body, giant ass, perfect ass, round ass, trained thighs, thick thighs, huge breasts, round breasts, perfect breasts, shiny skin, blush, blushed, slutty, horny, slut, black eye lashes, athletic body, hard nipples, ((pale skin)), (horny tan lines), garter belt, micro thong, black lace lingerie, sonsten black lingerie with lace\nBREAK\nperfect face, huge hips, slim hourglass figure, ((bending over a desk, ass focus)), narrowed eyes, belly button piercing, cleavage, camel toe, pose, cleavage, parted lips, standing, oiled skin, looking at viewer, perfect nipples, (smiling), hair behind the ears\nBREAK\n indoors, luxurious bedroom, dark room, dramatic lighting, shadows, sharp contours, (((rear view)))\n<lora:Expressive_H:1>\n",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "Size": "832x1216",
+        "seed": 706259684,
+        "steps": 50,
+        "prompt": "1 girl, moaning, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, huge dick, reverse congress, expressive, anime, cartoon, hearts, speedlines, dynamic, semen, ejaculation, expressiveh, blue hair",
+        "sampler": "DPM2 a",
+        "cfgScale": 10,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-upscale",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "upscaleWidth": 3840,
-        "upscaleHeight": 5568,
-        "negativePrompt": "civit_nsfw, safe_neg, score_4, score_5, score_6, fcNeg, FastNegativeV2, ng_deepnegative_v1_75t, bad hands, bad feet, worst quality, censored, lowres, low detail, blurry, watercolor, bad anatomy, weird fingers, bad proportions, deformed, deformed anatomy, deformed fingers, cum, cum on breasts, teeth, artist tag, artist name, patreon name, patreon tag,",
+        "resources": [],
+        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome",
         "civitaiResources": [
           {
-            "weight": 1,
+            "type": "checkpoint",
             "modelVersionId": 290640
           },
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.65,
+            "type": "lora",
+            "weight": 1.75,
             "modelVersionId": 382152
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 584522
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 106916
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "Abbyss",
+      "username": "jspp3733410",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        164821,
-        290640,
-        382152,
-        398847,
-        436219,
-        584522
+        290640
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "679|1709962870944",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=679%7C1709962870944"
+    "nextCursor": "680|1758460290683",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=680%7C1758460290683"
   }
 }
