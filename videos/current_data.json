@@ -1,104 +1,88 @@
 {
   "items": [
     {
-      "id": 101062283,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9be4908-6e86-42a6-9f81-c2d56bd9e0c7/original=true/b9be4908-6e86-42a6-9f81-c2d56bd9e0c7.jpeg",
-      "hash": "UNJ7v}-:s9i__L-:xZM{IWR*E3RQ-oV[D+IV",
+      "id": 76299955,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2b955222-7589-480a-adf7-63710cc041ab/original=true/2b955222-7589-480a-adf7-63710cc041ab.jpeg",
+      "hash": "UGGHn{IVOu%1~BWB%M%L0Mt7NHofb_RkJVRk",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-21T13:11:30.683Z",
-      "postId": 22421675,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-16T03:43:26.703Z",
+      "postId": 16944955,
       "stats": {
-        "cryCount": 172,
-        "laughCount": 256,
-        "likeCount": 1944,
+        "cryCount": 128,
+        "laughCount": 274,
+        "likeCount": 2010,
         "dislikeCount": 0,
-        "heartCount": 921,
-        "commentCount": 0
+        "heartCount": 881,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 768115821,
+        "nsfw": true,
+        "seed": 1658545526,
         "draft": false,
-        "steps": 18,
+        "steps": 29,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_8, score_9,1girl, 18 year old, sexy girl in skimpy shirt, irish girl, random makeup, random hair colour, random hair style, random eye colour, random skin colour, nipples, no panties, sports headphones on, petite body, perfect breasts, exposing breasts, random clothes, doggystyle sex, getting fucked from behind by giant stuffed teddy bear, cute faced plushie, dripping juices, side view, view from side, penetrated from behind, blowjob, sucking cock, spit roasted, cum in pussy, cum in mouth, cum explosion, cum in hair, cum on face, cum drip, late sunset lighting",
-        "process": "img2img",
+        "prompt": "artist:Konya Karasue, masterpiece,amazing quality, 1girl, megumin, brown hair, windy, witch hat, holding staff, staff pointed towards viewer, blurry forground, full body, outdoors, grassfield, from below, standing, looking down, explosion in background, dramatic pose,\nartist:moriimee, perspective,",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 2.5,
         "clipSkip": 2,
         "quantity": 2,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-18T1514:05.4380838Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female , tail,( futanari:1.2), futa, penis",
+        "Created Date": "2025-05-12T0952:21.0197473Z",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censorship, furry, window, headphones, watermark, picture on walls, photo, explosion, lazyneg,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 1714314,
+            "modelVersionName": "Hemp II"
           },
           {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 135867
-          },
-          {
-            "type": "lora",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 244808
+            "modelVersionId": 1591915,
+            "modelVersionName": "lazyneg"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 330475
+            "modelVersionId": 1247042,
+            "modelVersionName": "v6_noobVv1.0"
           },
           {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 398847
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 360698
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 354128
+            "type": "lycoris",
+            "weight": 1,
+            "modelVersionId": 1724183,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "solumbragt355",
-      "baseModel": "Pony",
+      "username": "adisi",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        244808,
-        290640,
-        330475,
-        354128,
-        360698,
-        382152,
-        398847
+        1244133,
+        1247042,
+        1591915,
+        1714314,
+        1724183
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "681|1747367006703",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=681%7C1747367006703"
+    "nextCursor": "682|1726212000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=682%7C1726212000000"
   }
 }
