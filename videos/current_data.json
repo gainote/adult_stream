@@ -1,105 +1,105 @@
 {
   "items": [
     {
-      "id": 49979886,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/263beaa8-5005-46b2-b996-b06c9c1e1477/original=true/263beaa8-5005-46b2-b996-b06c9c1e1477.jpeg",
-      "hash": "UKJ7j@$*K+nNPq?apJV@59T0xa%1=}WFM_V?",
-      "width": 1280,
-      "height": 1856,
+      "id": 40251204,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/51877493-c9a5-4bee-bbb7-ed484f5d4015/original=true/51877493-c9a5-4bee-bbb7-ed484f5d4015.jpeg",
+      "hash": "U3D@{u020M^j9GEM5lr@0L9[-:^P0f~BwcsT",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-06T21:34:14.991Z",
-      "postId": 11258003,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-15T12:38:40.230Z",
+      "postId": 9173905,
       "stats": {
-        "cryCount": 106,
-        "laughCount": 163,
-        "likeCount": 2025,
+        "cryCount": 104,
+        "laughCount": 167,
+        "likeCount": 1864,
         "dislikeCount": 0,
-        "heartCount": 930,
-        "commentCount": 0
+        "heartCount": 1088,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 785152709,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:594253@982480",
-        "extra": {
-          "remixOfId": 49283644
-        },
-        "steps": 30,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:594253@982480"
-        ],
-        "prompt": "safe_pos, safe_pos, score_9, score_8_up, score_7_up,high quality, 2d anime, detailed, flat colors, flat illustration,\nskinny woman, puffy breasts, beautiful eyes, nose blush, big lips, light brown hair long hair parted hair,\nwearing pink bikini, \nwater, sky background, \n(pov front low view, solo, looking at viewer, smile, open mouth, puffy breasts big nipples-bulge, lying on belly, legs spread, pink puffy wet cameltoe), \n(nozaki yuu)",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, safe_neg, , easynegative, low-quality, worst-quality, monochrome, realistic, signature, extra fingers, low-quality, muscular, bad-anatomy, aliasing, distorted hands, artifacts, poorly drawn, text, logo, bad, distorted, kid, downsampling, blur, bad, watermark,",
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 3926127573,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up), source_cartoon, 1girl, marin kitagawa, long hair, bangs, blonde hair, red eyes, multicolored hair, pink hair, beautiful, adult, pose, nightclub, naked, choker, wet body, sexy, eyes rolling back, blush, dynamic angle, lifted, suspended, carrying sex, motion lines, motion blur, vaginal, spread legs, holding legs",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-11-14T1810:00.4926324Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 982480
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 982480
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 701991
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 982480
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 701991
-          }
-        ],
-        "additionalResources": [
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
           {
-            "name": "urn:air:sdxl:lora:civitai:627905@701991",
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
             "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "MatureOnly",
+      "username": "fixerskorch877",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        164821,
-        701991,
-        982480
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "721|1731674320230",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=721%7C1731674320230"
+    "nextCursor": "722|1757746187124",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=722%7C1757746187124"
   }
 }
