@@ -1,82 +1,58 @@
 {
   "items": [
     {
-      "id": 67049711,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8cc2167-f469-46b9-9a49-e2bfda022f30/original=true/c8cc2167-f469-46b9-9a49-e2bfda022f30.jpeg",
-      "hash": "U6Am;t00$kM{9F?bIUx]57~W9G%M-p9F?boJ",
-      "width": 2688,
-      "height": 3840,
+      "id": 65389968,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/833bb358-a167-4ac9-a6da-ef3db0a97082/original=true/833bb358-a167-4ac9-a6da-ef3db0a97082.jpeg",
+      "hash": "UIJQWY~q02#@S~Eg9cj04.Ri^iaw0LIURhRh",
+      "width": 2112,
+      "height": 3072,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-31T12:20:00.000Z",
-      "postId": 14914130,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-23T19:11:26.837Z",
+      "postId": 14561448,
       "stats": {
-        "cryCount": 100,
-        "laughCount": 189,
-        "likeCount": 1826,
+        "cryCount": 130,
+        "laughCount": 256,
+        "likeCount": 1834,
         "dislikeCount": 0,
-        "heartCount": 1129,
+        "heartCount": 1023,
         "commentCount": 0
       },
       "meta": {
-        "nsfw": false,
+        "seed": 579694931,
         "vaes": [],
         "extra": {},
         "steps": 30,
-        "width": 1280,
-        "height": 1856,
         "models": [],
-        "prompt": "score_9,score_8_up,score_7_up,\n1 tanned curvy italian girl, hot girl, round face, thin nose, long hair, hair in pigtails , brown hair, (oversized huge breasts),  sexy face, narrow face, makeup,\nCute pajamas top ,  pajamas top \npulled over midriff ,  lifting shirt, pierced belly button , close up view, on knees, knees spread wide, all fours, ass up, round ass, \nIn bedroom, frat house BREAK on bed, \nBy night, pajamas down, anus, pussy, (puffy labia:1.4), beautiful woman, intimate photo, realistic image, dim light, cozy atmosphere, perfect lighting, perfect shadows, shiny skin, perfect reflections, lots of shadows\n",
-        "sampler": "Euler a",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), score_9, score_8_up, score_7_up, score_6_up BREAK\n\nmasterpiece, best quality, amazing quality, 1girl, thigh_boots, breasts, fairy,  wings, penis, tattoo, , kissing_penis, microgirl, long_hair, mini_person, boots, high_heels, pointy_ears, , fairy_wings, halo, arm_tattoo ((A lot of Pre-ejaculate leaks out of the penis)) ((clear Pre-ejaculate)) ",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
         "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
         "workflow": "img2img-upscale",
-        "baseModel": "Pony",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "versionIds": [],
         "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/MP27CSPXDR4ZJ8H9E1X8FHWVM0",
-          "width": 1280,
-          "height": 1856,
-          "upscaleWidth": 2688,
-          "upscaleHeight": 3840
-        },
-        "experimental": false,
-        "upscaleWidth": 2688,
-        "upscaleHeight": 3840,
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body",
+        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature, pussy, virgin",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 923681
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 0.55,
+            "modelVersionId": 1056404
           },
           {
             "weight": 1,
-            "modelVersionId": 923681
+            "modelVersionId": 1240288
           },
           {
-            "weight": 3.3,
-            "modelVersionId": 1253021
-          },
-          {
-            "weight": -1.85,
-            "modelVersionId": 1386847
-          },
-          {
-            "weight": 2.3,
-            "modelVersionId": 1506035
-          },
-          {
-            "weight": 3.85,
-            "modelVersionId": 1594293
+            "weight": 0.8,
+            "modelVersionId": 1552717
           },
           {
             "type": "upscaler",
@@ -85,20 +61,18 @@
         ],
         "additionalResources": []
       },
-      "username": "Suby432",
-      "baseModel": "Pony",
+      "username": "Big_Master",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
         164821,
-        923681,
-        1253021,
-        1386847,
-        1506035,
-        1594293
+        1056404,
+        1240288,
+        1552717
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "708|1742757086837",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=708%7C1742757086837"
+    "nextCursor": "709|1752540060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=709%7C1752540060000"
   }
 }
