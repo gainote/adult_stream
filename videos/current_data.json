@@ -1,77 +1,137 @@
 {
   "items": [
     {
-      "id": 95304711,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4a3aa7a-2587-4fcd-bb5f-0f950f2be10f/original=true/c4a3aa7a-2587-4fcd-bb5f-0f950f2be10f.jpeg",
-      "hash": "U8KduYXn.SD%~q^+o#M{5lV@=wxvDj4oxFtR",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 67932075,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f6a41cef-119e-4fd7-863e-6ce827550c8d/original=true/f6a41cef-119e-4fd7-863e-6ce827550c8d.jpeg",
+      "hash": "URMs=$D%?c?Gy?Rj=yjZENs:wcNG.7jZR5Rj",
+      "width": 1920,
+      "height": 2880,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-19T23:21:24.359Z",
-      "postId": 21139516,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-04T17:16:09.925Z",
+      "postId": 15100667,
       "stats": {
-        "cryCount": 122,
-        "laughCount": 190,
-        "likeCount": 2020,
+        "cryCount": 150,
+        "laughCount": 257,
+        "likeCount": 1927,
         "dislikeCount": 0,
-        "heartCount": 946,
+        "heartCount": 945,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 2319685727,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 776790629,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 70,
         "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
+          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
         },
-        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, 1girl, hanging breasts, stretching, loose shirt, barefoot, ?, loose clothes, holding own foot, nipples, nipple slip, matoi ryuuko, black hair, blue eyes, yoga pants, downblouse, no bra, short ponytail, blush, flexible, multicolored hair, hands on feet, short hair, full body, sitting, red hair, streaked hair, looking at viewer, low-cut armhole, medium breasts, from side, oversized clothes, leaning forward, grey background, two-tone hair, leggings, simple background, black pants",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
+        "prompt": "score_9, score_8_up, score_7_up,\n1girl, solo,aqua hair, brown eyes, (bangs:1.5), straight hair, very long hair,  close up, hoop earrings, young girl,\ntopless, black thong, highleg, lace-trimmed thong, bare stomach,  looking at viewer, groin, thin thong, looking back, ass, from behind, covered pussy, bent over, arched back, from above,\n(large breasts:1.5), (head tilt), (twisted torso),\ncowboy shot,\nlight smile, parted lips,\nurushihara satoshi style, JabarandP, dim lighting, backlighting,\nabstract background, white curtains, blurry background, pale skin,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:bra_embellishments_enhancer_XL_v01a:0.8>,   <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "TI hashes": {
+          "unaestheticXL_Alb2": "6c1c4cfa35e9"
+        },
         "resources": [
           {
-            "hash": "78d4ccffb16c",
-            "name": "loose_tank_top_ilxl_goofy",
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
             "type": "lora",
-            "weight": 1
+            "weight": 0.35
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
+            "type": "lora",
+            "weight": 0.15
+          },
+          {
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "9d22b7ef3974",
+            "name": "bra_embellishments_enhancer_XL_v01a",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
             "type": "model"
           }
         ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "25",
+        "Hires upscale": "2",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "wooden frame, shirt, undressing,  multiple thong straps,  bed,  (forehead:1.5),  beard, (plant:1.5), leaf:1.5, 6fingers, (lace straps:1.5),  visible veins, visible thread veins, suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, pencil, sunglasses,",
+        "Denoising strength": "0.02"
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "ceii0502382",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1379960
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "688|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=688%7C1743786969925"
+    "nextCursor": "689|1750638060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=689%7C1750638060000"
   }
 }
