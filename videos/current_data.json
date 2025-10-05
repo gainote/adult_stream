@@ -1,89 +1,136 @@
 {
   "items": [
     {
-      "id": 100031409,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46e48179-4e07-46e8-a368-44fce1731516/original=true/46e48179-4e07-46e8-a368-44fce1731516.jpeg",
-      "hash": "UCJt6e~V009a?axuT0-p00?G_NNx^*V@i^oz",
-      "width": 832,
-      "height": 1216,
+      "id": 66402651,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffbab86f-b01b-4bb0-b880-26e6808edd20/original=true/ffbab86f-b01b-4bb0-b880-26e6808edd20.jpeg",
+      "hash": "UEK^EOV[0%~pPBRj~W$*9tRjNafk^+tR%gt7",
+      "width": 1872,
+      "height": 2808,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-13T06:49:47.124Z",
-      "postId": 22194268,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-29T06:24:25.339Z",
+      "postId": 14776786,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 226,
-        "likeCount": 1899,
+        "cryCount": 145,
+        "laughCount": 305,
+        "likeCount": 1860,
         "dislikeCount": 0,
-        "heartCount": 965,
-        "commentCount": 1
+        "heartCount": 911,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1134249178,
-        "draft": false,
-        "extra": {
-          "remixOfId": 99738446
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 771676857,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 91,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "lora:Crowd of people": "dbb863284f4f",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a"
         },
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, amazing composition, nia (xenoblade),small breasts,petite, tiny breasts, facial, hetero, , 1girl, grabbing, grabbing another's breast, nipples, 1boy, collar, head_out of frame, large_breasts, parted_lips, slight blur",
-        "process": "txt2img",
+        "prompt": "score_9, score_8_up, score_7_up,\n(large breasts:1.5), many men, (men looking at viewer:1.5), 5boys,\n1girl, solo, brown hair, green eyes, bangs:1.5, straight hair, long hair, hoop earrings, rimless eyewear, round eyewear, close up,\n(long necktie:1.5), blue necktie, embarrassed, (open mouth wide:1.5), twisted torso, head tilt, (wide-eyed:1.5), surprised, panicking, (covering crotch:1.5), (coverd pussy by hands:1.5), from above,\nbare shoulders, bare stomach, sitting on desk:1.5,  bare arms,\ncompletely nude, (navel:1.5), nipples,\ncowboy shot,\nurushihara satoshi style, JabarandP, backlighting,\noffice, office desk, laptop, paper,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:Implants2:0.4> breast implants, <lora:Crowd of people:0.8> crowd of people",
+        "Version": "v1.6.0",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-13T0649:28.1241012Z",
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,",
-        "civitaiResources": [
+        "TI hashes": {
+          "unaestheticXL_Alb2": "6c1c4cfa35e9"
+        },
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 145907
+            "weight": 0.35
           },
           {
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 959419
+            "weight": 0.15
           },
           {
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1036362
+            "weight": 0.2
           },
           {
-            "type": "lycoris",
-            "weight": 0.5,
-            "modelVersionId": 1219983
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.4
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "dbb863284f4f",
+            "name": "Crowd of people",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "32",
+        "Hires upscale": "1.95",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "(pussy:1.5), (collared shirt:1.7), holding necktie,  6fingers:1.2, pubic hair,  school chair, school desk,  (forehead:1.5),  beard, (2girl:1.5), visible veins, visible thread veins, (Back of the head:1.5), suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, short necktie, brown desk, convenient censoring,",
+        "Denoising strength": "0.03"
       },
-      "username": "Linkledo",
-      "baseModel": "Illustrious",
+      "username": "ceii0502382",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        145907,
-        959419,
-        1036362,
-        1219983,
-        1240288
+        259791,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "723|1743229465339",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=723%7C1743229465339"
+    "nextCursor": "724|1747113965312",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=724%7C1747113965312"
   }
 }
