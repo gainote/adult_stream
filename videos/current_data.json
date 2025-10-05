@@ -1,42 +1,42 @@
 {
   "items": [
     {
-      "id": 84769727,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/559aac99-bee5-4743-9c04-8a7720330ac1/original=true/559aac99-bee5-4743-9c04-8a7720330ac1.jpeg",
-      "hash": "UNEVa2?FK-o#S-jExwIov$WBRP-TS%xuxZNy",
+      "id": 86963524,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52bb345c-d396-4e99-b601-7ae04bab27bc/original=true/52bb345c-d396-4e99-b601-7ae04bab27bc.jpeg",
+      "hash": "U6C6#_~q0LDO00R4%gI?00F2Vs-;+uogDi%L",
       "width": 2688,
       "height": 3840,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-27T04:15:00.000Z",
-      "postId": 18818646,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-08T06:15:00.000Z",
+      "postId": 19294344,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 243,
-        "likeCount": 2013,
+        "cryCount": 135,
+        "laughCount": 229,
+        "likeCount": 1918,
         "dislikeCount": 0,
-        "heartCount": 878,
-        "commentCount": 0
+        "heartCount": 981,
+        "commentCount": 2
       },
       "meta": {
-        "seed": 1319837121,
+        "seed": 1944769693,
         "vaes": [],
-        "draft": false,
         "extra": {},
-        "steps": 36,
+        "steps": 32,
         "width": 832,
         "height": 1216,
         "models": [],
-        "prompt": "Score_9,score_8_up,score_7_up,Masterpiece, best quality, amazing quality, best quality, cinematic lighting, realistic, (low angle:1.2), from below, soft focus, high contrast, visible hips, thighs, skinny figure, hands underneath breasts, hand on chest, round hips, defined hip_bones,, topless. lifting breasts, pubic hair peek, puffy labia, wedgie, (lowleg lace panties), pubic hair, sensual pose, detailed skin, subtle makeup, outdoor lighting, sun glow, backlit, looking down at camera,  extremely detailed skin, natural skin detail, sunset, purple sunset,",
-        "process": "txt2img",
+        "prompt": "score_9, score_8_up, score_7_up. masterpiece, best quality, amazing quality, ultra realistic, soft lighting,  pretty girl with (freckles:0.7), beautiful eyes, perfect detailed eyes, (intense_pleasure:1.3), (wince:1.4), orgasm face, moaning, wavy, midriff, toned body, 8k , (woman laying down on her side: 1.0), legs closed,panty_down, deeply penetrated, panty_pull, another hand squeezing butt, (deep_skin:1.5), breasts exposed, close up, 1boy, cock, view from above, (spooning sex:1.0), (ass focus:1.2) anal penetration, spreading ass, squeezing butt, (tight pussy), (pussy juice trail), ",
+        "denoise": 0.55,
+        "process": "img2img",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4.5,
+        "cfgScale": 2,
         "clipSkip": 2,
         "modelIds": [],
+        "priority": "low",
         "quantity": 12,
-        "workflow": "txt2img",
         "baseModel": "Pony",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
@@ -45,52 +45,49 @@
         "versionIds": [],
         "aspectRatio": "13:19",
         "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/TANCSRMW7GEZX8TAPMK7C5DTX0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
         "experimental": false,
-        "negativePrompt": "Bad quality,low quality, ugly, lamp, light, camera, tripod,",
+        "negativePrompt": "score_6, score_5, score_4, young, child, chibi, (makeup), fat, , (((puffy nipples))), nude",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 1764228
+            "modelVersionId": 1971591
           },
           {
-            "weight": -1.6,
-            "modelVersionId": 1386847
+            "weight": 0.9,
+            "modelVersionId": 1242203
           },
           {
-            "weight": 0.85,
+            "weight": 3.75,
+            "modelVersionId": 1374404
+          },
+          {
+            "weight": 1.35,
+            "modelVersionId": 1374748
+          },
+          {
+            "weight": 1.5,
             "modelVersionId": 1594293
           },
           {
-            "weight": 3.4,
-            "modelVersionId": 1926656
-          },
-          {
-            "weight": 2.55,
+            "weight": 2.05,
             "modelVersionId": 1681921
           },
           {
-            "weight": 1.85,
-            "modelVersionId": 1851961
-          },
-          {
-            "weight": 0.6,
+            "weight": 0.35,
             "modelVersionId": 1854599
           },
           {
-            "weight": 1.05,
-            "modelVersionId": 1207307
+            "weight": 1.2,
+            "modelVersionId": 1855761
           },
           {
-            "weight": 2.65,
-            "modelVersionId": 1253021
-          },
-          {
-            "weight": 1.15,
-            "modelVersionId": 1926995
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
+            "weight": 3.5,
+            "modelVersionId": 1926656
           },
           {
             "type": "upscaler",
@@ -103,22 +100,20 @@
       "baseModel": "Pony",
       "modelVersionIds": [
         164821,
-        333245,
-        1207307,
-        1253021,
-        1386847,
+        1242203,
+        1374404,
+        1374748,
         1594293,
         1681921,
-        1764228,
-        1851961,
         1854599,
+        1855761,
         1926656,
-        1926995
+        1971591
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "697|1751955300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=697%7C1751955300000"
+    "nextCursor": "698|1727537400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=698%7C1727537400000"
   }
 }
