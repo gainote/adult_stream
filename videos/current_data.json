@@ -1,66 +1,122 @@
 {
   "items": [
     {
-      "id": 74972550,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7044e65-0c58-4d2e-bf23-a703b166e15d/original=true/f7044e65-0c58-4d2e-bf23-a703b166e15d.jpeg",
-      "hash": "UOK^:C~p54n*x[%M-ht7K7S5$fI@IVx]SiVs",
-      "width": 1536,
-      "height": 2040,
+      "id": 100074273,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da59c58f-abd1-465b-98c8-64a5fcc48ab5/original=true/da59c58f-abd1-465b-98c8-64a5fcc48ab5.jpeg",
+      "hash": "UPKU=;PCCmXT1,R*TyoyXS$L+tnNF}XTnNj]",
+      "width": 1080,
+      "height": 1920,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-05-08T11:01:30.512Z",
-      "postId": 16646466,
+      "createdAt": "2025-09-13T15:45:00.000Z",
+      "postId": 22204330,
       "stats": {
-        "cryCount": 148,
-        "laughCount": 203,
-        "likeCount": 1951,
+        "cryCount": 124,
+        "laughCount": 214,
+        "likeCount": 2009,
         "dislikeCount": 0,
-        "heartCount": 955,
+        "heartCount": 909,
         "commentCount": 1
       },
       "meta": {
-        "Eta": "0.67",
-        "RNG": "NV",
-        "ENSD": "31337",
-        "Size": "1024x1360",
-        "seed": 3348635057,
-        "Model": "WAI-Nsfw-Illustrious-14",
-        "steps": 30,
+        "Size": "540x960",
+        "seed": 2076172244,
+        "Model": "JANKUV5NSFWTrainedNoobai_v50",
+        "steps": 35,
         "hashes": {
-          "model": "bdb59bac77"
+          "model": "217daae812",
+          "lora:haiz_ai_illu": "f76bdb0df2cc",
+          "lora:Age Slider LoRA": "b29d760bd945",
+          "lora:ponyv6_noobE11_2_adamW": "c8237b8ce9a9",
+          "lora:Flatline - Illus x Niji": "e3dc740fc1d5",
+          "lora:Lighting - darkness slider": "542a52c66b81",
+          "lora:Inkyo_-_Illustrious_Custom_Style": "396998dde1df"
         },
-        "prompt": "1girl,,furina \\(genshin impact\\),(dappled sunlight:1.40), (close-up:0.80), (shade:1.20), (grass:1.20), (forest:1.20), (nature:1.20), (sunlight:1.20), (tree:1.20),,from above, lens flare, closed mouth, lying, beachball, ring necklace, :3,,small breasts, hair between eyes, streaked hair, long hair, hat, gloves, blue hair, white hair, blue eyes,,hat ribbon, hat bow, blue bikini, ring, bow, cleavage, straw hat, jewelry, necklace, breasts, bikini, bracelet, towel, navel, swimsuit, collarbone, ribbon,,dappled sunlight, light rays, cloud, ball, day, beach, cloudy sky, beach towel, light particles, sand, sunlight, sun, sky, outdoors, shadow, bird,\n,masterpiece,best quality,amazing quality,",
-        "Version": "v1.10.1-89-g2174ce5af",
+        "prompt": "Ruby Rose (RWBY), large breasts, strapless bra and panties, beach,\n<lora:ponyv6_noobE11_2_adamW:0.3> masterpiece, best quality, very aesthetic,\n<lora:haiz_ai_illu:0.5> haiz_ai, no lineart,no outline,\n<lora:Flatline - Illus x Niji:1> Flatline, Flat vector illustration,\n<lora:Lighting - darkness slider:-0.4>,\n<lora:Inkyo_-_Illustrious_Custom_Style:0.6> inkyo,\n<lora:Age Slider LoRA:2>",
+        "Version": "v1.10.1",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
+        "cfgScale": 5,
+        "clipSkip": 7,
         "resources": [
           {
-            "hash": "bdb59bac77",
-            "name": "WAI-Nsfw-Illustrious-14",
+            "hash": "c8237b8ce9a9",
+            "name": "ponyv6_noobE11_2_adamW",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "f76bdb0df2cc",
+            "name": "haiz_ai_illu",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "396998dde1df",
+            "name": "Inkyo_-_Illustrious_Custom_Style",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "e3dc740fc1d5",
+            "name": "Flatline - Illus x Niji",
+            "type": "lora"
+          },
+          {
+            "hash": "542a52c66b81",
+            "name": "Lighting - darkness slider",
+            "type": "lora"
+          },
+          {
+            "hash": "b29d760bd945",
+            "name": "Age Slider LoRA",
+            "type": "lora"
+          },
+          {
+            "hash": "217daae812",
+            "name": "JANKUV5NSFWTrainedNoobai_v50",
             "type": "model"
           }
         ],
-        "Model hash": "bdb59bac77",
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
+        "Model hash": "217daae812",
+        "Hires steps": "35",
+        "Hires prompt": {
+          "haiz_ai_illu": "0.5> haiz_ai",
+          "Age Slider LoRA": "2>",
+          "ponyv6_noobE11_2_adamW": "0.3> masterpiece",
+          "Flatline - Illus x Niji": "1> Flatline",
+          "Lighting - darkness slider": "-0.4>",
+          "Inkyo_-_Illustrious_Custom_Style": "0.6> inkyo"
+        },
+        "Hires upscale": "2",
+        "Schedule type": "Karras",
         "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
-        "Denoising strength": "0.5",
-        "Discard penultimate sigma": "True"
+        "Wildcard prompt": {
+          "haiz_ai_illu": "0.5> haiz_ai",
+          "Age Slider LoRA": "2>",
+          "ponyv6_noobE11_2_adamW": "0.3> masterpiece",
+          "Flatline - Illus x Niji": "1> Flatline",
+          "Lighting - darkness slider": "-0.4>",
+          "Inkyo_-_Illustrious_Custom_Style": "0.6> inkyo"
+        },
+        "Denoising strength": "0.7"
       },
-      "username": "WAI0731",
+      "username": null,
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1761560
+        1150298,
+        1240413,
+        1242320,
+        1389853,
+        1444863,
+        1896532,
+        1953811
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "701|1757778300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=701%7C1757778300000"
+    "nextCursor": "702|1750423768404",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=702%7C1750423768404"
   }
 }
