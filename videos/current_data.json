@@ -1,84 +1,77 @@
 {
   "items": [
     {
-      "id": 88257049,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6731f831-f230-428c-b4e4-acf13e8c5da0/original=true/6731f831-f230-428c-b4e4-acf13e8c5da0.jpeg",
-      "hash": "USKTY@d=JTRP_ND$-:$iI;IU%1Io^+f7MxNa",
-      "width": 2688,
-      "height": 3840,
+      "id": 90569380,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1948708-72a4-496e-8efd-a786e6c6380c/original=true/b1948708-72a4-496e-8efd-a786e6c6380c.jpeg",
+      "hash": "UFLD_Xxtkrxus-j[D%Rj%gj[4nay_Nj[IUof",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-07-15T00:41:00.000Z",
-      "postId": 19577193,
+      "createdAt": "2025-07-26T10:58:48.158Z",
+      "postId": 20085461,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 210,
-        "likeCount": 1959,
+        "cryCount": 202,
+        "laughCount": 344,
+        "likeCount": 1998,
         "dislikeCount": 0,
-        "heartCount": 978,
-        "commentCount": 2
+        "heartCount": 696,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 1160150891,
-        "vaes": [],
-        "extra": {},
-        "steps": 29,
-        "models": [],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, office, desk, solo, 1girl, female focus, lineless, incoth, (incase:0.6), indoors, light blue eyes, transparent nightie, no panties, cowboy shot, small breasts, long black hair, red highlights, elegant ponytail, parted bangs, refined, beautiful, kawaii, dynamic pose, close up, standing at desk, using computer, rear view, butt,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
+        "Size": "832x1216",
+        "seed": 2421436816,
+        "draft": true,
+        "steps": 8,
+        "width": 832,
+        "height": 1216,
+        "prompt": "etro, vhs, film burn, film grain, from above, from side, Full body , anatomically correct:1.5, butterfly trick, alien girl with white, braided hair,long, drooping ears, blue colored eyes, albino skin, golden indigenous tattoos on the face, cat nose, wearing clouds, full body, Sitting in the clouds over a city, looks small in a corner of the sky, cowboy shot, flying high, patterns, intricate weavings, rich colors,adrr-zrb",
+        "process": "txt2img",
+        "sampler": "Euler",
+        "cfgScale": 1,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "SDXL",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-26T1051:31.4362892Z",
+        "experimental": false,
+        "negativePrompt": "simplistic, minimalism, plain, drawing, sketch, frame, watermark, gothic, (dark:1.3), (monochromatic:1.3), (ugly:1.3), gritty, simple, moody, night, washed out, western cartoon, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, grayscale, bw, bad photography, bad art, text font, username, error, logo, words, letters, digits, autograph, trademark, name, blur, blurry, grainy, asymmetrical, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate,",
         "civitaiResources": [
           {
+            "type": "checkpoint",
+            "modelVersionId": 128078,
+            "modelVersionName": "v1.0 VAE fix"
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1612720
+            "modelVersionId": 386977,
+            "modelVersionName": "Zarabi"
           },
           {
-            "weight": 0.6,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1545543
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1589514
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 391999,
+            "modelVersionName": "8 Steps"
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
+      "username": "ic1101k689",
+      "baseModel": "SDXL 1.0",
       "modelVersionIds": [
-        164821,
-        244808,
-        1189052,
-        1545543,
-        1589514,
-        1612720
+        128078,
+        386977,
+        391999
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "710|1753527528158",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=710%7C1753527528158"
+    "nextCursor": "711|1750725660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=711%7C1750725660000"
   }
 }
