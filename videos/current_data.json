@@ -1,88 +1,87 @@
 {
   "items": [
     {
-      "id": 76299955,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2b955222-7589-480a-adf7-63710cc041ab/original=true/2b955222-7589-480a-adf7-63710cc041ab.jpeg",
-      "hash": "UGGHn{IVOu%1~BWB%M%L0Mt7NHofb_RkJVRk",
+      "id": 29095396,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ab7bc3f-342c-416b-ade6-0009db411558/original=true/2ab7bc3f-342c-416b-ade6-0009db411558.jpeg",
+      "hash": "UCFh^$9a80-o0iJV%2n44oi^nhIoV@S4tRNH",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-16T03:43:26.703Z",
-      "postId": 16944955,
+      "browsingLevel": 8,
+      "createdAt": "2024-09-13T07:20:00.000Z",
+      "postId": 6509728,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 274,
-        "likeCount": 2010,
+        "cryCount": 99,
+        "laughCount": 241,
+        "likeCount": 1972,
         "dislikeCount": 0,
-        "heartCount": 881,
-        "commentCount": 2
+        "heartCount": 978,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1658545526,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "artist:Konya Karasue, masterpiece,amazing quality, 1girl, megumin, brown hair, windy, witch hat, holding staff, staff pointed towards viewer, blurry forground, full body, outdoors, grassfield, from below, standing, looking down, explosion in background, dramatic pose,\nartist:moriimee, perspective,",
-        "sampler": "Euler a",
-        "cfgScale": 2.5,
+        "seed": 3271898342,
+        "extra": {
+          "remixOfId": 28681037
+        },
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, high detailed, high quality, masterpiece, no text, quality highlights, 8k detail, detailed background, source_anime, dynamic view, hentai, ultra-detailed, BREAK\n1girl, (((solo_girl))), female focus, expressiveh, beach, short hair, red hair, cowboy shot, earrings, necklace, small breasts, black slingshot bikini, , seductive smile, ponytail, sexy pose, labia, bolero, pensive\nBREAK\ndark abstract background,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2025-05-12T0952:21.0197473Z",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censorship, furry, window, headphones, watermark, picture on walls, photo, explosion, lazyneg,",
+        "Created Date": "2024-09-12T2005:38.9862601Z",
+        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, child, kid, chibi, oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), flat chested, (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist, earrings,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1714314,
-            "modelVersionName": "Hemp II"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1591915,
-            "modelVersionName": "lazyneg"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 1247042,
-            "modelVersionName": "v6_noobVv1.0"
+            "modelVersionId": 372898,
+            "modelVersionName": "Summer Days 2"
           },
           {
-            "type": "lycoris",
-            "weight": 1,
-            "modelVersionId": 1724183,
-            "modelVersionName": "v1.0"
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 379995,
+            "modelVersionName": "XL-Pony"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "adisi",
-      "baseModel": "Illustrious",
+      "username": "DLT8K",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1244133,
-        1247042,
-        1591915,
-        1714314,
-        1724183
+        290640,
+        372898,
+        379995,
+        398847
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "682|1726212000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=682%7C1726212000000"
+    "nextCursor": "683|1758851927936",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=683%7C1758851927936"
   }
 }
