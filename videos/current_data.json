@@ -1,77 +1,79 @@
 {
   "items": [
     {
-      "id": 93301568,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8bfb63a6-b51e-4a23-9d0d-c2fcbb51b043/original=true/8bfb63a6-b51e-4a23-9d0d-c2fcbb51b043.jpeg",
-      "hash": "UqMtBlt7_NRj_3oftQt79aRjV@of%Mj[xuof",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "Mature",
+      "id": 91804213,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/023d4f9e-2d51-49b5-9138-d0a6b37fee74/original=true/023d4f9e-2d51-49b5-9138-d0a6b37fee74.jpeg",
+      "hash": "UBID{y=x%#9aqF9aTexD0fRPnPRkRiR++[tQ",
+      "width": 1216,
+      "height": 832,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-09T23:03:22.379Z",
-      "postId": 20701165,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T19:56:45.877Z",
+      "postId": 20367340,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 166,
-        "likeCount": 1905,
+        "cryCount": 218,
+        "laughCount": 310,
+        "likeCount": 1952,
         "dislikeCount": 0,
-        "heartCount": 1017,
+        "heartCount": 724,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 221893343,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:fishnet_bra_ilxl_goofy": "e03e6e4a87bb"
+        "Size": "1216x832",
+        "seed": 629090905,
+        "draft": false,
+        "extra": {
+          "remixOfId": 91790503
         },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:fishnet_bra_ilxl_goofy:1>fishnet bra, 1girl, , large breasts, nipples,fishnets,  raiden shogun, alternate costume, sitting, white background, yoga pants,",
-        "Version": "v1.10.1-84-g374bb6cc",
+        "steps": 40,
+        "width": 1216,
+        "height": 832,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two naked busty cute 18yo girls  edging, (touching the top of the penis with tongue:1.4)",
         "sampler": "DPM++ 2M",
         "cfgScale": 5,
-        "resources": [
+        "clipSkip": 2,
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "19:13",
+        "Created Date": "2025-08-01T1841:02.2730156Z",
+        "experimental": false,
+        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
+        "civitaiResources": [
           {
-            "hash": "e03e6e4a87bb",
-            "name": "fishnet_bra_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1988773,
+            "modelVersionName": "SDXL Pony 18"
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 571832,
+            "modelVersionName": "Pony"
           }
-        ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "128",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-AnimeSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "brahej",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1379960
+        9208,
+        571832,
+        1988773
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "729|1754078205877",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=729%7C1754078205877"
+    "nextCursor": "730|1708533615073",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=730%7C1708533615073"
   }
 }
