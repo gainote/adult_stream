@@ -1,45 +1,80 @@
 {
   "items": [
     {
-      "id": 67750055,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce0ba93c-098d-4b21-8465-d88dc99bea24/original=true/ce0ba93c-098d-4b21-8465-d88dc99bea24.jpeg",
-      "hash": "UQJ7m{~WOU%M%No}%gxa?HRjtR%M?H-;t7WV",
-      "width": 1536,
+      "id": 23337859,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5063f539-2efc-4417-a641-da73db63ef98/original=true/5063f539-2efc-4417-a641-da73db63ef98.jpeg",
+      "hash": "UFKnJC9aO[VE9t%M#Qoz02X9jFIU}=IUXlae",
+      "width": 1152,
       "height": 1536,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-04-03T20:02:51.994Z",
-      "postId": 15062166,
+      "browsingLevel": 4,
+      "createdAt": "2025-01-23T03:40:12.028Z",
+      "postId": 5200733,
       "stats": {
-        "cryCount": 150,
-        "laughCount": 244,
-        "likeCount": 1910,
+        "cryCount": 128,
+        "laughCount": 252,
+        "likeCount": 2005,
         "dislikeCount": 0,
-        "heartCount": 968,
+        "heartCount": 885,
         "commentCount": 1
       },
       "meta": {
-        "seed": 448697512,
-        "Model": "jam/Illustrious/I_Jam_v01",
-        "steps": 38,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "(masterpiece, best quality), sideview, CivChan, purple eyes, pink hair, blush, aroused, naughty_face, sideways_glance,\nman sitting in chair beside kneeling girl on floor, maid costume, breasts, nipples, detailed skin, penis_on_face, huge penis, precum, big testicles, ass, anus, fingering, female_masturbation, spread_pussy, pussy_juice, erection, licking_penis, garter_straps, open pants,\n<segment:head,0.4,0.5//cid=11>girl, licking_penis, sideways_glance, CivChan, purple eyes, pink hair, blush, aroused, naughty_face, (masterpiece, best quality, realistic, amazing quality, very aesthetic, absurdres, ultra detailed face, ultra detailed eyes)",
-        "sampler": "dpmpp_3m_sde",
-        "cfgScale": 6,
-        "scheduler": "karras",
-        "negativePrompt": "worst quality, bad anatomy, lowres, censored, simple background, text, logo, patreon_logo, monochrome, wet,",
-        "originalSampler": "dpmpp_3m_sde"
+        "": {},
+        "VAE": "sdxl_vae.safetensors",
+        "Size": "1152x1536",
+        "seed": 522192833,
+        "Model": "boleromix_Pony_V1.4",
+        "steps": 15,
+        "hashes": {
+          "vae": "735e4c3a44",
+          "model": "989a88b3c5",
+          "lora:shirizumou_pony_V1.0": "410ab0569b9b"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,source_anime, high res image,masterpiece,best quality,girl,cute face,clear skin,shiny hair,ultra detailed eyes,simple background, <lora:shirizumou_pony_V1.0:0.5> ass sumo wrestling, 2girls, ass, ass to ass, standing ,from side,school swimsuit,pool , on board",
+        "Version": "v1.7.0",
+        "sampler": "DPM++ 2M Karras",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "410ab0569b9b",
+            "name": "shirizumou_pony_V1.0",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "989a88b3c5",
+            "name": "boleromix_Pony_V1.4",
+            "type": "model"
+          }
+        ],
+        "Model hash": "989a88b3c5",
+        "Tile Overlap": "48",
+        "Upscale factor": "1.5",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, pony, furry, censored,realistic,3D",
+        "Keep input size": "true}",
+        "Tile batch size": "4",
+        "Tile tile width": "96",
+        "Tiled Diffusion": {},
+        "Tile tile height": "96",
+        "Denoising strength": "0.4",
+        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
+        "Tiled Diffusion scale factor": "1.5"
       },
-      "username": "Purfecter",
-      "baseModel": null,
-      "modelVersionIds": []
+      "username": "bolero537",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        513252,
+        706410
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "693|1737603612028",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=693%7C1737603612028"
+    "nextCursor": "694|1756260715063",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=694%7C1756260715063"
   }
 }
