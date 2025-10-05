@@ -1,136 +1,112 @@
 {
   "items": [
     {
-      "id": 66402651,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffbab86f-b01b-4bb0-b880-26e6808edd20/original=true/ffbab86f-b01b-4bb0-b880-26e6808edd20.jpeg",
-      "hash": "UEK^EOV[0%~pPBRj~W$*9tRjNafk^+tR%gt7",
-      "width": 1872,
-      "height": 2808,
-      "nsfwLevel": "X",
+      "id": 75922264,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74cff98c-64b4-4803-959b-76da310bc5d4/original=true/74cff98c-64b4-4803-959b-76da310bc5d4.jpeg",
+      "hash": "UOF=dW,-u5M{*0W9%hwbx]jExHnhD*RjIVM{",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-29T06:24:25.339Z",
-      "postId": 14776786,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-13T05:26:05.312Z",
+      "postId": 16857474,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 305,
-        "likeCount": 1860,
+        "cryCount": 118,
+        "laughCount": 231,
+        "likeCount": 1910,
         "dislikeCount": 0,
-        "heartCount": 911,
+        "heartCount": 959,
         "commentCount": 2
       },
       "meta": {
-        "ENSD": "31337",
-        "Size": "960x1440",
-        "seed": 771676857,
-        "Model": "ceiiMixPDXL_v12",
-        "steps": 91,
-        "hashes": {
-          "model": "ce1fb6ae27",
-          "lora:Implants2": "1b5cfb81f113",
-          "lora:JabarandP": "bbf700d6fb1f",
-          "lora:flyx3_XL_PONY": "73d3eeff35f0",
-          "lora:Crowd of people": "dbb863284f4f",
-          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
-          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
-          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
-          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
-          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
-          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a"
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1447861505,
+        "draft": false,
+        "extra": {
+          "remixOfId": 75404347
         },
-        "prompt": "score_9, score_8_up, score_7_up,\n(large breasts:1.5), many men, (men looking at viewer:1.5), 5boys,\n1girl, solo, brown hair, green eyes, bangs:1.5, straight hair, long hair, hoop earrings, rimless eyewear, round eyewear, close up,\n(long necktie:1.5), blue necktie, embarrassed, (open mouth wide:1.5), twisted torso, head tilt, (wide-eyed:1.5), surprised, panicking, (covering crotch:1.5), (coverd pussy by hands:1.5), from above,\nbare shoulders, bare stomach, sitting on desk:1.5,  bare arms,\ncompletely nude, (navel:1.5), nipples,\ncowboy shot,\nurushihara satoshi style, JabarandP, backlighting,\noffice, office desk, laptop, paper,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:Implants2:0.4> breast implants, <lora:Crowd of people:0.8> crowd of people",
-        "Version": "v1.6.0",
+        "steps": 40,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece), ((upper body shot, dutch angle, high angle shot, close-up)), curvy, large breasts, cleavage, hanging breasts, large ass, thick thighs, wide hips, hourglass figure, plump, lusty, hoop earrings, black thong, leather jacket, microbikini, thigh socks, choker, gorgeous face, ponytail, black lipstick, thighs, sexy pose, tattoos, seductive, skindentation, necklace, college, goth, dynamic angle, closeup, living room, smirk, slutty, cocky, flirty, \nSitting on the couch, leaning back, legs up on couch, legs spread open, legs bent, hands on knees,",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 5,
         "clipSkip": 2,
-        "TI hashes": {
-          "unaestheticXL_Alb2": "6c1c4cfa35e9"
-        },
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-05-10T1541:57.7537148Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie,",
+        "civitaiResources": [
           {
-            "hash": "7ad45cc8bb23",
-            "name": "woman_consistency_v2-loha",
+            "type": "checkpoint",
+            "modelVersionId": 1346181,
+            "modelVersionName": "v8"
+          },
+          {
             "type": "lora",
-            "weight": 0.35
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "hash": "1f179d534e0a",
-            "name": "HerrscherAGGA2024_SJ_Style_V1",
             "type": "lora",
-            "weight": 0.15
+            "weight": 0.3,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
           },
           {
-            "hash": "bbf700d6fb1f",
-            "name": "JabarandP",
             "type": "lora",
-            "weight": 0.2
+            "weight": 1,
+            "modelVersionId": 556208,
+            "modelVersionName": "Insta Baddie[PONY]"
           },
           {
-            "hash": "fe4dcbd1435d",
-            "name": "Sinozick_Style_XL_Pony",
             "type": "lora",
-            "weight": 0.2
+            "weight": 0.6,
+            "modelVersionId": 596040,
+            "modelVersionName": "V1"
           },
           {
-            "hash": "73d3eeff35f0",
-            "name": "flyx3_XL_PONY",
             "type": "lora",
-            "weight": 0.1
+            "weight": 2.1,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "02e51928d5e9",
-            "name": "Pivix_PLayboy_Style",
             "type": "lora",
-            "weight": 0.1
+            "weight": 0.1,
+            "modelVersionId": 1500353,
+            "modelVersionName": "v1.1"
           },
           {
-            "hash": "1b5cfb81f113",
-            "name": "Implants2",
             "type": "lora",
-            "weight": 0.4
-          },
-          {
-            "hash": "1fa409cfa4bd",
-            "name": "super lora_flyx3_XL_PONY",
-            "type": "lora"
-          },
-          {
-            "hash": "dbb863284f4f",
-            "name": "Crowd of people",
-            "type": "lora"
-          },
-          {
-            "hash": "ce1fb6ae27",
-            "name": "ceiiMixPDXL_v12",
-            "type": "model"
+            "weight": 0.2,
+            "modelVersionId": 1142665,
+            "modelVersionName": "V1"
           }
-        ],
-        "Model hash": "ce1fb6ae27",
-        "Hires steps": "32",
-        "Hires upscale": "1.95",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "(pussy:1.5), (collared shirt:1.7), holding necktie,  6fingers:1.2, pubic hair,  school chair, school desk,  (forehead:1.5),  beard, (2girl:1.5), visible veins, visible thread veins, (Back of the head:1.5), suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, short necktie, brown desk, convenient censoring,",
-        "Denoising strength": "0.03"
+        ]
       },
-      "username": "ceii0502382",
+      "username": "Wadufuk1",
       "baseModel": "Pony",
       "modelVersionIds": [
-        259791,
-        363593,
-        479455,
-        481798,
-        533690,
-        552788,
-        556026,
-        564399,
-        596072,
-        728486
+        382152,
+        534756,
+        556208,
+        596040,
+        1142665,
+        1242203,
+        1346181,
+        1500353
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "724|1747113965312",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=724%7C1747113965312"
+    "nextCursor": "725|1748435290525",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=725%7C1748435290525"
   }
 }
