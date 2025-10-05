@@ -1,80 +1,101 @@
 {
   "items": [
     {
-      "id": 23337859,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5063f539-2efc-4417-a641-da73db63ef98/original=true/5063f539-2efc-4417-a641-da73db63ef98.jpeg",
-      "hash": "UFKnJC9aO[VE9t%M#Qoz02X9jFIU}=IUXlae",
-      "width": 1152,
-      "height": 1536,
-      "nsfwLevel": "Mature",
+      "id": 96701195,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d0265cb-0b9e-4403-9552-74d1521ef396/original=true/7d0265cb-0b9e-4403-9552-74d1521ef396.jpeg",
+      "hash": "UALC#K~VpIxu00H?s9Mx0K%Mo}-p-;S2XS%L",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-01-23T03:40:12.028Z",
-      "postId": 5200733,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-27T02:11:55.063Z",
+      "postId": 21450132,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 252,
-        "likeCount": 2005,
+        "cryCount": 132,
+        "laughCount": 235,
+        "likeCount": 1881,
         "dislikeCount": 0,
-        "heartCount": 885,
-        "commentCount": 1
+        "heartCount": 1021,
+        "commentCount": 0
       },
       "meta": {
-        "": {},
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "1152x1536",
-        "seed": 522192833,
-        "Model": "boleromix_Pony_V1.4",
-        "steps": 15,
-        "hashes": {
-          "vae": "735e4c3a44",
-          "model": "989a88b3c5",
-          "lora:shirizumou_pony_V1.0": "410ab0569b9b"
+        "Size": "832x1216",
+        "seed": 2093348281,
+        "draft": false,
+        "extra": {
+          "remixOfId": 76428804
         },
-        "prompt": "score_9, score_8_up, score_7_up,source_anime, high res image,masterpiece,best quality,girl,cute face,clear skin,shiny hair,ultra detailed eyes,simple background, <lora:shirizumou_pony_V1.0:0.5> ass sumo wrestling, 2girls, ass, ass to ass, standing ,from side,school swimsuit,pool , on board",
-        "Version": "v1.7.0",
+        "steps": 40,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up), white theme, masterwork, masterpiece, best quality, dynamic pose, dynamic angle, (realistic:1.4), (lineless:1.2), detailed, , , aged up, adult, depth of field, blurry, cheekbones, dynamic lighting, high detail, 8k , girl, kawai girl,Expressiveh, good_hands, best quality,mature woman,      solo, sexy, yor briar,   \n,\nhappy, blushing, breasts, nipples, cum in pussy, multiple boys, penis, motion lines, solo focus, anal penetration, sex, pov, lying on bed, female orgasm, ahegao, rolling eyes, hand on throat, choking, female ejaculation, arched back, trembling, shaking, crying, tears, gangbang, forced fellatio, multiple groping, multiple penises, cum in mouth, bent over,\n,\nmasterpiece, best quality, very aesthetic, absurdres, Detailed face, (detailed background:1.1), 1=2,",
+        "process": "txt2img",
         "sampler": "DPM++ 2M Karras",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-07T0033:17.8098072Z",
+        "experimental": false,
+        "negativePrompt": "lowres, worst quality, worst aesthetic, bad anatomy, old, early, scan artifacts, scanlines, adversarial noise, lossy-lossless, (disembodied:1.1), missing, extra, bad hands, bad eyes, Bad anatomy, low quality, text, worst quality, displeasing, missing fingers, bad hands, bad fingers, puffy sleeves, puffy shoulders,",
+        "civitaiResources": [
           {
-            "hash": "410ab0569b9b",
-            "name": "shirizumou_pony_V1.0",
-            "type": "lora",
-            "weight": 0.5
+            "type": "checkpoint",
+            "modelVersionId": 1240288
           },
           {
-            "hash": "989a88b3c5",
-            "name": "boleromix_Pony_V1.4",
-            "type": "model"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 959419
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1036362
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1056404
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1244133
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1268447
           }
-        ],
-        "Model hash": "989a88b3c5",
-        "Tile Overlap": "48",
-        "Upscale factor": "1.5",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, pony, furry, censored,realistic,3D",
-        "Keep input size": "true}",
-        "Tile batch size": "4",
-        "Tile tile width": "96",
-        "Tiled Diffusion": {},
-        "Tile tile height": "96",
-        "Denoising strength": "0.4",
-        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
-        "Tiled Diffusion scale factor": "1.5"
+        ]
       },
-      "username": "bolero537",
-      "baseModel": "Pony",
+      "username": "swjun79666",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        513252,
-        706410
+        135867,
+        959419,
+        1036362,
+        1056404,
+        1240288,
+        1244133,
+        1268447
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "694|1756260715063",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=694%7C1756260715063"
+    "nextCursor": "695|1726022007802",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=695%7C1726022007802"
   }
 }
