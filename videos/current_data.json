@@ -1,121 +1,66 @@
 {
   "items": [
     {
-      "id": 31609799,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/041d1761-ad40-4bfb-a535-064c4f5b8c17/original=true/041d1761-ad40-4bfb-a535-064c4f5b8c17.jpeg",
-      "hash": "U5B{4F9^9]$%yDkCI:R*OFni=xNG~BM|NGRk",
-      "width": 832,
-      "height": 1216,
+      "id": 74972550,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7044e65-0c58-4d2e-bf23-a703b166e15d/original=true/f7044e65-0c58-4d2e-bf23-a703b166e15d.jpeg",
+      "hash": "UOK^:C~p54n*x[%M-ht7K7S5$fI@IVx]SiVs",
+      "width": 1536,
+      "height": 2040,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-09-28T15:30:00.000Z",
-      "postId": 7117800,
+      "createdAt": "2025-05-08T11:01:30.512Z",
+      "postId": 16646466,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 182,
-        "likeCount": 1857,
+        "cryCount": 148,
+        "laughCount": 203,
+        "likeCount": 1951,
         "dislikeCount": 0,
-        "heartCount": 1130,
-        "commentCount": 3
+        "heartCount": 955,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3786329355,
-        "extra": {
-          "remixOfId": 31248799
+        "Eta": "0.67",
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "1024x1360",
+        "seed": 3348635057,
+        "Model": "WAI-Nsfw-Illustrious-14",
+        "steps": 30,
+        "hashes": {
+          "model": "bdb59bac77"
         },
-        "steps": 8,
-        "prompt": "score_9, score_8_up, score_7_up,  1girl, 18 years old, shining skin, perfect quality, high quality, \nambient occlusion, raytracing, source_anime, shining glossy skin, soft lighting, realistic skin, blum effect, pale skin, masterpiece, absolutely eye-catching, (((close shot of tits:1.3, tits focused:1.2))), perky nipples, perfect round breast, large breasrs, sweaty, (detailed sweat drops:1.3), (goosebumps:1.1), solo, excessive sweat:1.2, ((underboob, from below)), slim waist, (slender body), soft abs, face out of frame",
-        "sampler": "Euler",
-        "cfgScale": 1,
+        "prompt": "1girl,,furina \\(genshin impact\\),(dappled sunlight:1.40), (close-up:0.80), (shade:1.20), (grass:1.20), (forest:1.20), (nature:1.20), (sunlight:1.20), (tree:1.20),,from above, lens flare, closed mouth, lying, beachball, ring necklace, :3,,small breasts, hair between eyes, streaked hair, long hair, hat, gloves, blue hair, white hair, blue eyes,,hat ribbon, hat bow, blue bikini, ring, bow, cleavage, straw hat, jewelry, necklace, breasts, bikini, bracelet, towel, navel, swimsuit, collarbone, ribbon,,dappled sunlight, light rays, cloud, ball, day, beach, cloudy sky, beach towel, light particles, sand, sunlight, sun, sky, outdoors, shadow, bird,\n,masterpiece,best quality,amazing quality,",
+        "Version": "v1.10.1-89-g2174ce5af",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-27T0942:43.2899309Z",
-        "negativePrompt": "score_6, score_5, score_4, skinny, anorexic, furry, (loli, child), muscular body, small breast, low detailed face, asian, bad face, ugly face, mutated hands, negative_hand, (polydactyly:1.2), (polydactyl:1.2), bad fingers, (milf:1.3), face paint, ugly nose, bad nose, glowing eyes, signature, watermark, comics, frames, full body, face focused, face, head, full head, lips, mouth, nose, belly",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 449162,
-            "modelVersionName": "v0.2 For Pony"
-          },
-          {
-            "type": "lora",
-            "modelVersionId": 391999,
-            "modelVersionName": "8 Steps"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "bdb59bac77",
+            "name": "WAI-Nsfw-Illustrious-14",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "bdb59bac77",
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
+        "Denoising strength": "0.5",
+        "Discard penultimate sigma": "True"
       },
-      "username": "PervyCat",
-      "baseModel": "Pony",
+      "username": "WAI0731",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        60938,
-        135867,
-        244808,
-        290640,
-        382152,
-        391999,
-        398847,
-        436219,
-        449162
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "700|1746702090512",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=700%7C1746702090512"
+    "nextCursor": "701|1757778300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=701%7C1757778300000"
   }
 }
