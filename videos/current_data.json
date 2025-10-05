@@ -1,38 +1,92 @@
 {
   "items": [
     {
-      "id": 73452522,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/80dbdf13-37f6-405c-a88d-99d44f3be589/original=true/80dbdf13-37f6-405c-a88d-99d44f3be589.jpeg",
-      "hash": "UC9#{pn%FcN[WAODWBsos:S2W;so|wo1JRa|",
-      "width": 1920,
-      "height": 2816,
+      "id": 58866441,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b477acf-4860-448a-ae54-f47653ccbd91/original=true/3b477acf-4860-448a-ae54-f47653ccbd91.jpeg",
+      "hash": "UCDILCWE0f^j^jxa%1j[0gWV~BNHbHI:Naa#",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-05-01T07:49:38.399Z",
-      "postId": 16314282,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-20T07:01:00.000Z",
+      "postId": 13170428,
       "stats": {
-        "cryCount": 743,
-        "laughCount": 769,
-        "likeCount": 855,
+        "cryCount": 104,
+        "laughCount": 229,
+        "likeCount": 1913,
         "dislikeCount": 0,
-        "heartCount": 869,
+        "heartCount": 989,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "qazsedcAI",
-      "baseModel": "NoobAI",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1385787227,
+        "steps": 30,
+        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject, in the style of cknc, artist:moriimee, in the style of cksc, BREAK\nasian goth woman, bangs, straight-cut bob, no bra, medium pert breasts, fishnet crop-top, underboob, pierced nipples, dragon tattoo, transparent ruffled skirt, posing next to graffiti-covered wall, dynamic pose, sexy, seductive, posing, dark background, silhouetted, directional lighting, viewed from above",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-02-19T0711:31.4419314Z",
+        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1410611,
+            "modelVersionName": "ILLUSTRIOUS v1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1380520,
+            "modelVersionName": "ILLUSTRIOUS"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "Stu43",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1195487,
-        1319527,
-        1470551
+        1244133,
+        1380520,
+        1410435,
+        1410611
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "715|1740034860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=715%7C1740034860000"
+    "nextCursor": "716|1748480880000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=716%7C1748480880000"
   }
 }
