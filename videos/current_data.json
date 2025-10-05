@@ -1,108 +1,92 @@
 {
   "items": [
     {
-      "id": 90471904,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d1a49bcf-20d0-4e00-a157-9297ba57851d/original=true/d1a49bcf-20d0-4e00-a157-9297ba57851d.jpeg",
-      "hash": "U8FF1.}]1EE2lI4.9?tl0yIV%fs+01NZ={-:",
+      "id": 59086600,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47bb1323-aca6-42ec-bb4c-b48dc42f0d60/original=true/47bb1323-aca6-42ec-bb4c-b48dc42f0d60.jpeg",
+      "hash": "U5IyLZ%2Havi00AD0z}Z|_KO7{E2@u^6I:wJ",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-25T23:35:17.470Z",
-      "postId": 20063924,
+      "createdAt": "2025-02-21T08:11:00.000Z",
+      "postId": 13217939,
       "stats": {
-        "cryCount": 398,
-        "laughCount": 456,
-        "likeCount": 1672,
+        "cryCount": 77,
+        "laughCount": 205,
+        "likeCount": 2065,
         "dislikeCount": 0,
-        "heartCount": 722,
-        "commentCount": 2
+        "heartCount": 900,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1231178203,
-        "draft": false,
-        "extra": {
-          "remixOfId": 69984192
-        },
-        "steps": 20,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, detailed, (Front angle:1.3), high detail, perfect face, 1girl, (Ginger hair:1.3), Forest pond background, standing, (thick thighs:1.5), saggy breasts, deflated breasts, (Misty from Pokemon:1.1), smug expression, blue eyes, head tilted,  massive breasts, wide hips, bottom heavy, denim shorts, (red suspenders), worn out yellow tank top, torn up tank top, light skinned female, hands on hips, closed mouth, side ponytail hairstyle\nBREAK",
-        "process": "img2img",
-        "sampler": "DPM++ 2M Karras",
+        "seed": 1024593911,
+        "steps": 30,
+        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject, in the style of cknc, artist:moriimee, in the style of cksc, BREAK femme fatale, red lips, underwear only, black see-through bra, black see-through panties, fishnet stockings, garter belt, lying on bed with red sheets, aiming pistol at viewer, directional lighting, silhouetted, chiascuro, directional moonlight",
+        "sampler": "Euler a",
         "cfgScale": 5,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-24T1244:35.0585434Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality, malformed, deformed, worst quality, simple background, bad hands, bad feet, watermark, rays, dramatic lighting, (angular face:1.3), pointy chin, (tanlines)",
+        "Created Date": "2025-02-20T2200:41.9086658Z",
+        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1376263,
-            "modelVersionName": "SDXL Pony 15"
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
           },
           {
             "type": "lora",
-            "weight": 6,
-            "modelVersionId": 1253021,
+            "weight": 0.4,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1380520,
+            "modelVersionName": "ILLUSTRIOUS"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1410611,
+            "modelVersionName": "ILLUSTRIOUS v1"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 106916,
             "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1272693,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 2.55,
-            "modelVersionId": 1288330,
-            "modelVersionName": "v1.1"
-          },
-          {
-            "type": "lora",
-            "weight": 1.95,
-            "modelVersionId": 1374139,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 2.15,
-            "modelVersionId": 1374404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 3.5,
-            "modelVersionId": 1386847,
-            "modelVersionName": "PONY v1.0"
           }
         ]
       },
-      "username": "zeschloe082273",
-      "baseModel": "Pony",
+      "username": "Stu43",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        1253021,
-        1272693,
-        1288330,
-        1374139,
-        1374404,
-        1376263,
-        1386847
+        1244133,
+        1380520,
+        1410435,
+        1410611
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "706|1740125460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=706%7C1740125460000"
+    "nextCursor": "707|1743423600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=707%7C1743423600000"
   }
 }
