@@ -1,92 +1,104 @@
 {
   "items": [
     {
-      "id": 59086600,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47bb1323-aca6-42ec-bb4c-b48dc42f0d60/original=true/47bb1323-aca6-42ec-bb4c-b48dc42f0d60.jpeg",
-      "hash": "U5IyLZ%2Havi00AD0z}Z|_KO7{E2@u^6I:wJ",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 67049711,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8cc2167-f469-46b9-9a49-e2bfda022f30/original=true/c8cc2167-f469-46b9-9a49-e2bfda022f30.jpeg",
+      "hash": "U6Am;t00$kM{9F?bIUx]57~W9G%M-p9F?boJ",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-21T08:11:00.000Z",
-      "postId": 13217939,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-31T12:20:00.000Z",
+      "postId": 14914130,
       "stats": {
-        "cryCount": 77,
-        "laughCount": 205,
-        "likeCount": 2065,
+        "cryCount": 100,
+        "laughCount": 189,
+        "likeCount": 1826,
         "dislikeCount": 0,
-        "heartCount": 900,
+        "heartCount": 1129,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1024593911,
+        "nsfw": false,
+        "vaes": [],
+        "extra": {},
         "steps": 30,
-        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject, in the style of cknc, artist:moriimee, in the style of cksc, BREAK femme fatale, red lips, underwear only, black see-through bra, black see-through panties, fishnet stockings, garter belt, lying on bed with red sheets, aiming pistol at viewer, directional lighting, silhouetted, chiascuro, directional moonlight",
+        "width": 1280,
+        "height": 1856,
+        "models": [],
+        "prompt": "score_9,score_8_up,score_7_up,\n1 tanned curvy italian girl, hot girl, round face, thin nose, long hair, hair in pigtails , brown hair, (oversized huge breasts),  sexy face, narrow face, makeup,\nCute pajamas top ,  pajamas top \npulled over midriff ,  lifting shirt, pierced belly button , close up view, on knees, knees spread wide, all fours, ass up, round ass, \nIn bedroom, frat house BREAK on bed, \nBy night, pajamas down, anus, pussy, (puffy labia:1.4), beautiful woman, intimate photo, realistic image, dim light, cozy atmosphere, perfect lighting, perfect shadows, shiny skin, perfect reflections, lots of shadows\n",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-02-20T2200:41.9086658Z",
-        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-upscale",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/MP27CSPXDR4ZJ8H9E1X8FHWVM0",
+          "width": 1280,
+          "height": 1856,
+          "upscaleWidth": 2688,
+          "upscaleHeight": 3840
+        },
+        "experimental": false,
+        "upscaleWidth": 2688,
+        "upscaleHeight": 3840,
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1380520,
-            "modelVersionName": "ILLUSTRIOUS"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1410611,
-            "modelVersionName": "ILLUSTRIOUS v1"
-          },
-          {
-            "type": "embed",
             "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "modelVersionId": 923681
           },
           {
-            "type": "embed",
             "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "modelVersionId": 923681
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "weight": 3.3,
+            "modelVersionId": 1253021
+          },
+          {
+            "weight": -1.85,
+            "modelVersionId": 1386847
+          },
+          {
+            "weight": 2.3,
+            "modelVersionId": 1506035
+          },
+          {
+            "weight": 3.85,
+            "modelVersionId": 1594293
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "Stu43",
-      "baseModel": "Illustrious",
+      "username": "Suby432",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1244133,
-        1380520,
-        1410435,
-        1410611
+        164821,
+        923681,
+        1253021,
+        1386847,
+        1506035,
+        1594293
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "707|1743423600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=707%7C1743423600000"
+    "nextCursor": "708|1742757086837",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=708%7C1742757086837"
   }
 }
