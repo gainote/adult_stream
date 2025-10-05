@@ -1,38 +1,68 @@
 {
   "items": [
     {
-      "id": 47652836,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/835ce517-05ec-4dd9-93cd-236de04a7c94/original=true/835ce517-05ec-4dd9-93cd-236de04a7c94.jpeg",
-      "hash": "UACrG;}=E1V@WA^OoKbF0#9vf,bbNy9vEMWD",
-      "width": 832,
-      "height": 1216,
+      "id": 12756447,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/64e0f61b-bf48-45d1-96b3-681198133186/original=true/64e0f61b-bf48-45d1-96b3-681198133186.jpeg",
+      "hash": "UAEB:GD%0fxuysD%wJxZ2^V@v|R*}rsAIoWB",
+      "width": 1408,
+      "height": 2064,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-26T03:37:25.855Z",
-      "postId": 10756665,
+      "browsingLevel": 8,
+      "createdAt": "2024-05-17T14:04:09.531Z",
+      "postId": 2819219,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 234,
-        "likeCount": 1906,
+        "cryCount": 101,
+        "laughCount": 220,
+        "likeCount": 1644,
         "dislikeCount": 0,
-        "heartCount": 1003,
-        "commentCount": 2
+        "heartCount": 1308,
+        "commentCount": 1
       },
       "meta": {
-        "steps": 20,
-        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis and Buzz everyone.",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5
+        "Size": "832x1216",
+        "seed": 3155886372,
+        "steps": 25,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "LORA:princess_xl_v2": "80aa67913a",
+          "LORA:Expressive_H-000001": "7b53da0391",
+          "LORA:sinfully_stylish_SDXL": "033c44dfb8",
+          "LORA:Concept Art DarkSide Style LoRA_Pony XL v6": "f1353bccc9"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,   legs view, close up on legs, feet, round butt, white thighhighs, tan lines, 1girl, delicate and smooth skin, perfect body, thighs, highly detailed, nurse, nurse outfit, blonde,  <lora:Concept Art DarkSide Style LoRA_Pony XL v6:0.8> concept art,   <lora:Expressive_H-000001:0.8> expressiveh,  <lora:princess_xl_v2:0.8>   <lora:sinfully_stylish_SDXL>",
+        "sampler": "Euler a Karras",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "name": "Expressive_H-000001",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "name": "princess_xl_v2",
+            "type": "lora",
+            "weight": 0.8
+          }
+        ],
+        "Model hash": "67ab2fd8ec",
+        "negativePrompt": "score_6, score_5, score_4, 3d, needle,",
+        "ponyDiffusionV6XL_v6StartWithThisOne Version": "ComfyUI"
       },
-      "username": "Rodzilla2025X",
-      "baseModel": "",
-      "modelVersionIds": []
+      "username": "popyay",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        244808,
+        290640,
+        382152,
+        407532,
+        446346
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "691|1715954649531",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=691%7C1715954649531"
+    "nextCursor": "692|1743710571994",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=692%7C1743710571994"
   }
 }
