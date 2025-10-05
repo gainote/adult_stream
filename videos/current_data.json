@@ -1,102 +1,205 @@
 {
   "items": [
     {
-      "id": 100437061,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b1655d3-6540-4d82-9aae-ac80ad9f27d5/original=true/9b1655d3-6540-4d82-9aae-ac80ad9f27d5.jpeg",
-      "hash": "U7C5|.pd0L0K.m~BIU9GofS$aeR*01Mx-p%L",
+      "id": 55974856,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/60e6e58d-64bf-4fa4-ae89-52f947745270/original=true/60e6e58d-64bf-4fa4-ae89-52f947745270.jpeg",
+      "hash": "UONcc:00yYx^?^H=o#b_I=ad%1M|^O-p9FIo",
       "width": 1280,
       "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-09-26T01:58:47.936Z",
-      "postId": 22282013,
+      "createdAt": "2025-02-05T14:02:57.712Z",
+      "postId": 12536663,
       "stats": {
-        "cryCount": 141,
-        "laughCount": 203,
-        "likeCount": 2039,
+        "cryCount": 98,
+        "laughCount": 241,
+        "likeCount": 1934,
         "dislikeCount": 0,
-        "heartCount": 904,
+        "heartCount": 1009,
         "commentCount": 1
       },
       "meta": {
-        "seed": 1214927397,
+        "vaes": [],
         "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
         "extra": {},
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
+        "steps": 34,
         "models": [
           "urn:air:sdxl:checkpoint:civitai:257749@290640"
         ],
-        "prompt": "Score_9, score_8_up, score_7_up, ass focus, 1 girl, leaning, big ass, head down, stretching, grabbing legs, standing,  shiny ass, closed legs, legs together, arched back, slender, hands on knees, (short sequin dress:1.7), (headphones:1.4), knee high boots, indoors, young bedroom, posters on walls, pop posters, heart-throb posters, cum running down legs, cum drip, cum in pussy, (clothes on floor), (bend down touch toes)",
-        "denoise": 0.4,
-        "process": "txt2img",
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, \n\nclose up,\ndynamic angle,\n\nBREAK\n\n(brown girl  :1.4),\n(blonde :1.5),\n(huge braid :1.5),\n(freckles:1.2),\n\n\n\nBREAK\n\nsitting,\n( fitness ball : 1.3),\n\nruanyi0064,fishnet,bodysuit,no panties,\n",
         "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 2,
+        "cfgScale": 7,
+        "modelIds": [],
         "workflow": "img2img-hires",
-        "baseModel": "Pony",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/WBAB8Q3T86HQBTHSAAEBPD6X10.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuR7kV0dV8Oawi-Eor5jIvIVF6NsTHtge82A0UdDn4L55uSlSdbOVoQMY5uhfuO394_p4DMkTUc9M0Ag7HZQWgLs0wYqlXN0Md1_CWqM1q6sujTFZ1sjiJdgOCGagn0kAxwLejYx0laAcqdNpEICzVthfDYQtoxn42NCtLElz3WUCdrZHX3CQrEqNGlZXe00pZFj2mhgGApAYcBiI2jtOmKsMGVwPx4HMX-TW6QOCblSnbth_AQ5auG8YmqtSH4_Zg0-cYGWDh1Hajy5e7uToFcC&exp=2026-09-15T05:52:48.0419418Z",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "score_4, score_5, score_6, deformed,  simple background,",
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, \nsource_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,\n",
         "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 2.8,
+            "modelVersionId": 712947
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 98441
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 128461
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 298238
+          },
+          {
+            "weight": 0.2,
+            "modelVersionId": 983142
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 503013
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
           {
             "type": "checkpoint",
             "modelVersionId": 290640
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847
+            "weight": 2.8,
+            "modelVersionId": 712947
           },
           {
             "type": "lora",
-            "weight": 0.75,
+            "weight": 0.25,
             "modelVersionId": 436219
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 761452
+            "weight": 0.85,
+            "modelVersionId": 382152
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 128461
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 298238
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 983142
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 503013
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:402462@712947",
+            "type": "lora",
+            "strength": 2.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:118427@128461",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:264290@298238",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:217340@983142",
+            "type": "lora",
+            "strength": 0.2,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:256120@503013",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "solumbragt355",
+      "username": "vovkkabanko",
       "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
+        98441,
+        128461,
         164821,
         290640,
+        298238,
         382152,
-        398847,
         436219,
-        761452
+        503013,
+        712947,
+        983142
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "684|1738764177712",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=684%7C1738764177712"
+    "nextCursor": "685|1718717784800",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=685%7C1718717784800"
   }
 }
