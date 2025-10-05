@@ -1,42 +1,149 @@
 {
   "items": [
     {
-      "id": 83039084,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e042fe6c-536a-4464-95c5-de926178bfae/original=true/e042fe6c-536a-4464-95c5-de926178bfae.jpeg",
-      "hash": "U8IO2=pL02?Gt+024;~B00%M-BtPyE-p?G-;",
+      "id": 48191963,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a75c65a6-6879-4695-b55d-5bfa845debca/original=true/a75c65a6-6879-4695-b55d-5bfa845debca.jpeg",
+      "hash": "UBM?h{003stS0do~Dixu00I9jGW;?wxuS%NG",
       "width": 1280,
       "height": 1856,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-20T12:49:28.404Z",
-      "postId": 18442240,
+      "browsingLevel": 8,
+      "createdAt": "2024-12-28T22:51:11.595Z",
+      "postId": 10868149,
       "stats": {
-        "cryCount": 147,
-        "laughCount": 243,
-        "likeCount": 1996,
+        "cryCount": 95,
+        "laughCount": 192,
+        "likeCount": 2061,
         "dislikeCount": 0,
-        "heartCount": 869,
-        "commentCount": 0
+        "heartCount": 906,
+        "commentCount": 2
       },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
+      "meta": {
+        "nsfw": true,
+        "seed": 1998066942,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:454462@819469",
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/P6K33H7HR0XGABYTKD5KW9KSA0",
+        "steps": 26,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:454462@819469"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, source_explicit,,high quality, highly detailed digital-painting,\nwoman, medium breasts, light blue eyes, blonde hair long hair with straight fringe,\n naked, hand grabbing ass,\nin a bedroom, bed, pillow, sheets, \nass view, puffy ass focus, sad smile, horny, ass crotch, labia,\nArielWaifu, Blue eyes, blonde long hair, open mouth",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "modelIds": [],
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "safe_neg, score_4, score_5, score_6, muscular, fury, child, kid, easynegative, censored, low-quality, low-quality, artifacts, bad-anatomy, 3D, signature, monochrome, bad, downsampling, distorted, watermark, text, distorted hands, blur, blurry, extra fingers, twisted, aliasing, poorly drawn, distortion, lowres, realistic, worst-quality, logo, dress,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 819469
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 819469
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.2,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 388624
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 490917
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 819469
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 388624
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 490917
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.2,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:46315@388624",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888212@490917",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "MatureOnly",
+      "baseModel": "PonyPonyPony",
       "modelVersionIds": [
         9208,
-        111363,
         164821,
-        333245,
-        372639,
-        1024244,
-        1412563,
-        1490781
+        244808,
+        244808,
+        388624,
+        388624,
+        490917,
+        490917,
+        819469,
+        819469,
+        819469
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "703|1735426271595",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=703%7C1735426271595"
+    "nextCursor": "704|1728890373065",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=704%7C1728890373065"
   }
 }
