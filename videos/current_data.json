@@ -1,74 +1,73 @@
 {
   "items": [
     {
-      "id": 84108473,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca16df90-b096-4d88-b609-aa1b89c7a0a4/original=true/ca16df90-b096-4d88-b609-aa1b89c7a0a4.jpeg",
-      "hash": "U6IOhL4.00mRFx9FVYD40KMx~W%$xt?^Io9F",
-      "width": 2688,
-      "height": 3840,
+      "id": 88490455,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aea24aad-e006-4cc8-8f30-5895a31832f4/original=true/aea24aad-e006-4cc8-8f30-5895a31832f4.jpeg",
+      "hash": "URQ8#lxvX:%Mx]jExZkDuPbcksozo$i^Rla#",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-24T00:41:00.000Z",
-      "postId": 18673814,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-15T23:12:56.917Z",
+      "postId": 19629181,
       "stats": {
-        "cryCount": 121,
-        "laughCount": 250,
-        "likeCount": 1932,
+        "cryCount": 169,
+        "laughCount": 299,
+        "likeCount": 1892,
         "dislikeCount": 0,
-        "heartCount": 936,
-        "commentCount": 2
+        "heartCount": 876,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 541029737,
-        "vaes": [],
-        "extra": {},
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 239022139,
+        "draft": false,
+        "extra": {
+          "remixOfId": 68188939
+        },
         "steps": 25,
-        "models": [],
-        "prompt": "aesthetic, masterpiece, work of art, best quality, best, anime, detailed, pussy, detailed body, solo, 1girl, solo, sexy elf, light skin, perfect face, eyeliner, small breasts, black hair, double buns, blunt bangs, sidelocks, red eyes, nude, nsfw, cowboy shot, wading, bathing, dynamic pose, dynamic angle, volumetric lighting, cinematic lighting, waterfall, holding crow,",
-        "denoise": 0.4,
+        "width": 832,
+        "height": 1216,
+        "prompt": "kujaku, long hair, blonde hair, aqua eyes, 1girl, solo, huge breasts, masterpiece, best quality, amazing quality, mature female, huge breasts, anime screencap, cowboy shot, dutch angle, general, highres, ultra-detailed, very aesthetic,best quality, best hands, best eyes, best feet, dynamic angire, anime coloring, looking at viewer, indoors, bed, on bed, bed sheet, nude, completely nude, nipples, steam, sweat, sweaty body, heat, physical activity, blush, lying, on back, squeezed boobs focus, cum, cum fluid, cum on face, cum on boobs, pain, screaming",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "bad quality,worst quality ,worst detail, sketch, censor , worst quality , poorly drawn hand ,  low res , patreon username , artist name , blur , blurry ,barbie",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "Created Date": "2025-06-21T0902:28.2971986Z",
+        "experimental": false,
+        "openAIQuality": "medium",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censored, 3d, realistic, shota, loli, yuri, yaoi",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1490781
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
           },
           {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 998990
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 155933
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 1906552,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "ElvishDreams",
+      "username": "yzeed5328",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        155933,
-        164821,
-        998990,
-        1490781
+        1761560,
+        1906552
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "712|1752621176917",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=712%7C1752621176917"
+    "nextCursor": "713|1746085778399",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=713%7C1746085778399"
   }
 }
