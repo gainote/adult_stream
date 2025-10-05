@@ -1,42 +1,38 @@
 {
   "items": [
     {
-      "id": 83842604,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c72649c1-710c-4d0f-84c0-4b57775c1148/original=true/c72649c1-710c-4d0f-84c0-4b57775c1148.jpeg",
-      "hash": "U9HUb4_200$i039t00rW00D$^gah~CxZt8^+",
-      "width": 1280,
-      "height": 1856,
+      "id": 47652836,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/835ce517-05ec-4dd9-93cd-236de04a7c94/original=true/835ce517-05ec-4dd9-93cd-236de04a7c94.jpeg",
+      "hash": "UACrG;}=E1V@WA^OoKbF0#9vf,bbNy9vEMWD",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-23T00:21:00.000Z",
-      "postId": 18616879,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-26T03:37:25.855Z",
+      "postId": 10756665,
       "stats": {
-        "cryCount": 142,
-        "laughCount": 233,
-        "likeCount": 1989,
+        "cryCount": 131,
+        "laughCount": 234,
+        "likeCount": 1906,
         "dislikeCount": 0,
-        "heartCount": 913,
-        "commentCount": 1
+        "heartCount": 1003,
+        "commentCount": 2
       },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        333245,
-        372639,
-        1412563,
-        1490781,
-        1588878
-      ]
+      "meta": {
+        "steps": 20,
+        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis and Buzz everyone.",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5
+      },
+      "username": "Rodzilla2025X",
+      "baseModel": "",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "690|1735184245855",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=690%7C1735184245855"
+    "nextCursor": "691|1715954649531",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=691%7C1715954649531"
   }
 }
