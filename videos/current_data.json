@@ -1,33 +1,73 @@
 {
   "items": [
     {
-      "id": 14713122,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8e7479ca-f06a-4f6d-ac56-cb77f9abac0e/original=true/8e7479ca-f06a-4f6d-ac56-cb77f9abac0e.jpeg",
-      "hash": "UDG*.,M|0Mwc.mR*S|r?FdNaoJWCH[V@Mxni",
-      "width": 2496,
-      "height": 3648,
-      "nsfwLevel": "Mature",
+      "id": 47076962,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2d60f36-62a0-4d91-91d0-ec5be09b4dc5/original=true/e2d60f36-62a0-4d91-91d0-ec5be09b4dc5.jpeg",
+      "hash": "UYM7Gpxu.9Rj?wazofnjnMR*RPxZ%g$*s:E2",
+      "width": 768,
+      "height": 1024,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-06-05T16:03:33.103Z",
-      "postId": 3266194,
+      "browsingLevel": 16,
+      "createdAt": "2025-01-24T12:11:23.472Z",
+      "postId": 10638677,
       "stats": {
-        "cryCount": 152,
-        "laughCount": 250,
-        "likeCount": 1765,
+        "cryCount": 142,
+        "laughCount": 224,
+        "likeCount": 2002,
         "dislikeCount": 0,
-        "heartCount": 1059,
-        "commentCount": 0
+        "heartCount": 857,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "Hizumi___",
-      "baseModel": "",
-      "modelVersionIds": []
+      "meta": {
+        "": {},
+        "Size": "768x1024",
+        "seed": 1497098088,
+        "Model": "boleromix_illustrious_V2.81(VAE)",
+        "steps": 25,
+        "hashes": {
+          "model": "0d14c2fb0c",
+          "lora:kijyoui_illustrious_V1.0": "6fd17afe1019"
+        },
+        "prompt": "masterpiece,amazing quality,best quality,ultra-detailed,8K,illustration,CG,shiny hair,clear skin,ultra-detailed-eyes,simple background,cute girl, eyelashes ,bondage outfit,latex,bound,thighhighs,highheels,boots,grin,breath,squatting,<lora:kijyoui_illustrious_V1.0:0.8> sitting on face, girl on top, girl on person, cunnilingus, 1boy,bdsm,rope,nude,from side,wood floor",
+        "Version": "v1.7.0",
+        "sampler": "DPM++ 2M Karras",
+        "{Method": {},
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "6fd17afe1019",
+            "name": "kijyoui_illustrious_V1.0",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "0d14c2fb0c",
+            "name": "boleromix_illustrious_V2.81(VAE)",
+            "type": "model"
+          }
+        ],
+        "Model hash": "0d14c2fb0c",
+        "Tile Overlap": "48",
+        "negativePrompt": "(worst quality,bad quality,lowres,bad fingers,extra fingersextra legs,missing legs,missing fingers:1.4),monochrome,error,bad anatomy,username, artist name, text,multipul angle,split view,censored,bar censored",
+        "Keep input size": "true}",
+        "Tile batch size": "4",
+        "Tile tile width": "96",
+        "Tiled Diffusion": {},
+        "Tile tile height": "96",
+        "Denoising strength": "0.4"
+      },
+      "username": "bolero537",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1145414
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "719|1737720683472",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=719%7C1737720683472"
+    "nextCursor": "720|1736199254991",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=720%7C1736199254991"
   }
 }
