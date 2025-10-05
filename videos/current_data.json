@@ -1,119 +1,90 @@
 {
   "items": [
     {
-      "id": 86963524,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52bb345c-d396-4e99-b601-7ae04bab27bc/original=true/52bb345c-d396-4e99-b601-7ae04bab27bc.jpeg",
-      "hash": "U6C6#_~q0LDO00R4%gI?00F2Vs-;+uogDi%L",
-      "width": 2688,
-      "height": 3840,
+      "id": 59429794,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b86f613-c2be-4fcf-b55e-a342bf07e5eb/original=true/3b86f613-c2be-4fcf-b55e-a342bf07e5eb.jpeg",
+      "hash": "U7976HMd0M?H.TZ~9vt80gs.^jIo4.kW=|Rj",
+      "width": 1336,
+      "height": 2224,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-08T06:15:00.000Z",
-      "postId": 19294344,
+      "createdAt": "2025-02-23T13:02:00.000Z",
+      "postId": 13294122,
       "stats": {
-        "cryCount": 135,
-        "laughCount": 229,
-        "likeCount": 1918,
+        "cryCount": 86,
+        "laughCount": 247,
+        "likeCount": 2054,
         "dislikeCount": 0,
-        "heartCount": 981,
-        "commentCount": 2
+        "heartCount": 875,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 1944769693,
-        "vaes": [],
-        "extra": {},
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "score_9, score_8_up, score_7_up. masterpiece, best quality, amazing quality, ultra realistic, soft lighting,  pretty girl with (freckles:0.7), beautiful eyes, perfect detailed eyes, (intense_pleasure:1.3), (wince:1.4), orgasm face, moaning, wavy, midriff, toned body, 8k , (woman laying down on her side: 1.0), legs closed,panty_down, deeply penetrated, panty_pull, another hand squeezing butt, (deep_skin:1.5), breasts exposed, close up, 1boy, cock, view from above, (spooning sex:1.0), (ass focus:1.2) anal penetration, spreading ass, squeezing butt, (tight pussy), (pussy juice trail), ",
-        "denoise": 0.55,
-        "process": "img2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 2,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 12,
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/TANCSRMW7GEZX8TAPMK7C5DTX0.jpeg",
-          "width": 832,
-          "height": 1216
+        "Size": "768x1280",
+        "seed": 72571622183639,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
         },
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, young, child, chibi, (makeup), fat, , (((puffy nipples))), nude",
-        "civitaiResources": [
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), kneeling, under tree, tentacle sex,\noutdoors, portal, (glowing summoning circle:1.1), (summoning tentacles:1.1), orchad, garden, scenery, trees, night, orchard background,\n(dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1971591
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "weight": 0.9,
-            "modelVersionId": 1242203
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "weight": 3.75,
-            "modelVersionId": 1374404
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
           },
           {
-            "weight": 1.35,
-            "modelVersionId": 1374748
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
           },
           {
-            "weight": 1.5,
-            "modelVersionId": 1594293
-          },
-          {
-            "weight": 2.05,
-            "modelVersionId": 1681921
-          },
-          {
-            "weight": 0.35,
-            "modelVersionId": 1854599
-          },
-          {
-            "weight": 1.2,
-            "modelVersionId": 1855761
-          },
-          {
-            "weight": 3.5,
-            "modelVersionId": 1926656
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
           }
         ],
-        "additionalResources": []
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, (apples on ground:1.1)"
       },
-      "username": "Suby432",
-      "baseModel": "Pony",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1242203,
-        1374404,
-        1374748,
-        1594293,
-        1681921,
-        1854599,
-        1855761,
-        1926656,
-        1971591
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "698|1727537400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=698%7C1727537400000"
+    "nextCursor": "699|1727537400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=699%7C1727537400000"
   }
 }
