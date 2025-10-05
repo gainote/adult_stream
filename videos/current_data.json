@@ -1,87 +1,102 @@
 {
   "items": [
     {
-      "id": 29095396,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ab7bc3f-342c-416b-ade6-0009db411558/original=true/2ab7bc3f-342c-416b-ade6-0009db411558.jpeg",
-      "hash": "UCFh^$9a80-o0iJV%2n44oi^nhIoV@S4tRNH",
-      "width": 832,
-      "height": 1216,
+      "id": 100437061,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b1655d3-6540-4d82-9aae-ac80ad9f27d5/original=true/9b1655d3-6540-4d82-9aae-ac80ad9f27d5.jpeg",
+      "hash": "U7C5|.pd0L0K.m~BIU9GofS$aeR*01Mx-p%L",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-09-13T07:20:00.000Z",
-      "postId": 6509728,
+      "createdAt": "2025-09-26T01:58:47.936Z",
+      "postId": 22282013,
       "stats": {
-        "cryCount": 99,
-        "laughCount": 241,
-        "likeCount": 1972,
+        "cryCount": 141,
+        "laughCount": 203,
+        "likeCount": 2039,
         "dislikeCount": 0,
-        "heartCount": 978,
+        "heartCount": 904,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3271898342,
-        "extra": {
-          "remixOfId": 28681037
-        },
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, high detailed, high quality, masterpiece, no text, quality highlights, 8k detail, detailed background, source_anime, dynamic view, hentai, ultra-detailed, BREAK\n1girl, (((solo_girl))), female focus, expressiveh, beach, short hair, red hair, cowboy shot, earrings, necklace, small breasts, black slingshot bikini, , seductive smile, ponytail, sexy pose, labia, bolero, pensive\nBREAK\ndark abstract background,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "seed": 1214927397,
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "Score_9, score_8_up, score_7_up, ass focus, 1 girl, leaning, big ass, head down, stretching, grabbing legs, standing,  shiny ass, closed legs, legs together, arched back, slender, hands on knees, (short sequin dress:1.7), (headphones:1.4), knee high boots, indoors, young bedroom, posters on walls, pop posters, heart-throb posters, cum running down legs, cum drip, cum in pussy, (clothes on floor), (bend down touch toes)",
+        "denoise": 0.4,
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-12T2005:38.9862601Z",
-        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, child, kid, chibi, oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), flat chested, (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist, earrings,",
+        "priority": "low",
+        "quantity": 2,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/WBAB8Q3T86HQBTHSAAEBPD6X10.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuR7kV0dV8Oawi-Eor5jIvIVF6NsTHtge82A0UdDn4L55uSlSdbOVoQMY5uhfuO394_p4DMkTUc9M0Ag7HZQWgLs0wYqlXN0Md1_CWqM1q6sujTFZ1sjiJdgOCGagn0kAxwLejYx0laAcqdNpEICzVthfDYQtoxn42NCtLElz3WUCdrZHX3CQrEqNGlZXe00pZFj2mhgGApAYcBiI2jtOmKsMGVwPx4HMX-TW6QOCblSnbth_AQ5auG8YmqtSH4_Zg0-cYGWDh1Hajy5e7uToFcC&exp=2026-09-15T05:52:48.0419418Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "score_4, score_5, score_6, deformed,  simple background,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 372898,
-            "modelVersionName": "Summer Days 2"
+            "weight": 0.45,
+            "modelVersionId": 382152
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 379995,
-            "modelVersionName": "XL-Pony"
+            "weight": 0.45,
+            "modelVersionId": 398847
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.75,
+            "modelVersionId": 436219
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 761452
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": "DLT8K",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
+        164821,
         290640,
-        372898,
-        379995,
-        398847
+        382152,
+        398847,
+        436219,
+        761452
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "683|1758851927936",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=683%7C1758851927936"
+    "nextCursor": "684|1738764177712",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=684%7C1738764177712"
   }
 }
