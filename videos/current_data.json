@@ -1,105 +1,89 @@
 {
   "items": [
     {
-      "id": 40251204,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/51877493-c9a5-4bee-bbb7-ed484f5d4015/original=true/51877493-c9a5-4bee-bbb7-ed484f5d4015.jpeg",
-      "hash": "U3D@{u020M^j9GEM5lr@0L9[-:^P0f~BwcsT",
+      "id": 100031409,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46e48179-4e07-46e8-a368-44fce1731516/original=true/46e48179-4e07-46e8-a368-44fce1731516.jpeg",
+      "hash": "UCJt6e~V009a?axuT0-p00?G_NNx^*V@i^oz",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-11-15T12:38:40.230Z",
-      "postId": 9173905,
+      "createdAt": "2025-09-13T06:49:47.124Z",
+      "postId": 22194268,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 167,
-        "likeCount": 1864,
+        "cryCount": 131,
+        "laughCount": 226,
+        "likeCount": 1899,
         "dislikeCount": 0,
-        "heartCount": 1088,
+        "heartCount": 965,
         "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 3926127573,
+        "seed": 1134249178,
         "draft": false,
-        "steps": 35,
+        "extra": {
+          "remixOfId": 99738446
+        },
+        "steps": 40,
         "width": 832,
         "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up), source_cartoon, 1girl, marin kitagawa, long hair, bangs, blonde hair, red eyes, multicolored hair, pink hair, beautiful, adult, pose, nightclub, naked, choker, wet body, sexy, eyes rolling back, blush, dynamic angle, lifted, suspended, carrying sex, motion lines, motion blur, vaginal, spread legs, holding legs",
-        "sampler": "DPM2 a",
+        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, amazing composition, nia (xenoblade),small breasts,petite, tiny breasts, facial, hetero, , 1girl, grabbing, grabbing another's breast, nipples, 1boy, collar, head_out of frame, large_breasts, parted_lips, slight blur",
+        "process": "txt2img",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 1,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-11-14T1810:00.4926324Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-13T0649:28.1241012Z",
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 145907
           },
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 959419
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.5,
+            "modelVersionId": 1036362
           },
           {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lycoris",
+            "weight": 0.5,
+            "modelVersionId": 1219983
           }
         ]
       },
-      "username": "fixerskorch877",
-      "baseModel": "Pony",
+      "username": "Linkledo",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
+        145907,
+        959419,
+        1036362,
+        1219983,
+        1240288
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "722|1757746187124",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=722%7C1757746187124"
+    "nextCursor": "723|1743229465339",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=723%7C1743229465339"
   }
 }
