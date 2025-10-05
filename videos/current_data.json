@@ -1,44 +1,44 @@
 {
   "items": [
     {
-      "id": 69993080,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad498ec5-477b-445e-824a-5fbe203738b5/original=true/ad498ec5-477b-445e-824a-5fbe203738b5.jpeg",
-      "hash": "UAF5N-Ek1$~DB?MwEkXnMx00=xo~xArB-7Ip",
+      "id": 37527796,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/abf438cf-c3e4-4287-9597-09757797da24/original=true/abf438cf-c3e4-4287-9597-09757797da24.jpeg",
+      "hash": "U7G@b{5=GZ^*?]1h-oni01xtR54:?GRPMxxE",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-24T13:09:00.000Z",
-      "postId": 15548451,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-31T07:35:42.466Z",
+      "postId": 8572503,
       "stats": {
-        "cryCount": 120,
-        "laughCount": 210,
-        "likeCount": 2019,
+        "cryCount": 104,
+        "laughCount": 260,
+        "likeCount": 1867,
         "dislikeCount": 0,
-        "heartCount": 858,
-        "commentCount": 2
+        "heartCount": 975,
+        "commentCount": 11
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 165300444,
+        "seed": 2205718456,
         "extra": {
-          "remixOfId": 56925476
+          "remixOfId": 37492292
         },
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, masterpiece, best quality, (1girl), ash-blonde hair, ((freckles)), blue-gray eyes, smiling,teeth, young-adult, super-cute, gorgeous, soft tan skin, ( large breasts:1.1), relaxed_breasts, slim fit, wide hips, narrow waist, long legs, toned legs, aesthetic, focus on girl, expressiveh, bokeh, looking at viewer, semi-realistic, BREAK.\nfull pouty lips, black eyeliner, eyelashes, smile, smug, (lips parted), perfect skin, shiny hair, (big ponytail), messy hair, (head tilted). \nsporty girl, bottomless , topless, (purple athletic socks), long socks, purple wrist sweatbands, purple hiking sneakers, (nipple outlines:1.2). ((Tiny pubic hair, shaved labia)).\noutdoors, sunny weather, rocky, rock formation, cliffs in distance,few whispy clouds, Arizona, (((sunlight on body, romantic, hidden))),\nlarge cock, (moaning:1.2), ((doggy style sex)), viewed from back side:1.5, (ass focus), orgasm, orgasm face, (dutch angle:1.6), BREAK. \n man with white socks and black sneakers",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7.5,
+        "steps": 35,
+        "prompt": "score_9, score_8_up, score_7_up, beach, sea in the background , waves in the background, wind in hair, beautiful light, 1girl, elf, white skin, tan marks, Oiled skin, sweat, platinium  hair, tall, slim laying on men, wet hair, medium breasts, sexy bikini, sexy, alluring, vaginal sex, impossible penetration, pain, orgasm, mouvement, balls deep,\n1 man, laying on towel, pov, huge penis",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2025-04-05T1808:21.5120283Z",
-        "negativePrompt": "easynegative, (score_6, score_5, score_4), (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), watermark, border, monochrome background, furry, loli, poorly drawn, blurry, blurry eyes, creampie, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, watermark,(signature, logo), easynegative, low-quality, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, (overexposed), high-contrast, bad-contrast, , Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, large hands, SimpleNegativeV3, (large areola), earrings, maid, muscular, jacket, short hair, long hair, necklace, transparent clothes, shiny clothes, crooked fingers, window, large hands, long fingers, mole, fruit, food, belt, bricks, building, strabismus, cum, cock, bikini, piercings",
+        "Created Date": "2024-10-31T0734:35.5610001Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, legs in water",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1599937,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "embed",
@@ -48,44 +48,54 @@
           },
           {
             "type": "lora",
-            "weight": 0.8,
+            "weight": 0.75,
             "modelVersionId": 244808,
             "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
-            "weight": 0.4,
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.45,
+            "weight": 0.35,
             "modelVersionId": 398847,
             "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.65,
+            "weight": 0.6,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "egoform",
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
         244808,
+        290640,
         382152,
         398847,
-        436219,
-        1599937
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "727|1730360142466",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=727%7C1730360142466"
+    "nextCursor": "728|1754780602379",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=728%7C1754780602379"
   }
 }
