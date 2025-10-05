@@ -1,122 +1,42 @@
 {
   "items": [
     {
-      "id": 100074273,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da59c58f-abd1-465b-98c8-64a5fcc48ab5/original=true/da59c58f-abd1-465b-98c8-64a5fcc48ab5.jpeg",
-      "hash": "UPKU=;PCCmXT1,R*TyoyXS$L+tnNF}XTnNj]",
-      "width": 1080,
-      "height": 1920,
+      "id": 83039084,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e042fe6c-536a-4464-95c5-de926178bfae/original=true/e042fe6c-536a-4464-95c5-de926178bfae.jpeg",
+      "hash": "U8IO2=pL02?Gt+024;~B00%M-BtPyE-p?G-;",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-09-13T15:45:00.000Z",
-      "postId": 22204330,
+      "createdAt": "2025-06-20T12:49:28.404Z",
+      "postId": 18442240,
       "stats": {
-        "cryCount": 124,
-        "laughCount": 214,
-        "likeCount": 2009,
+        "cryCount": 147,
+        "laughCount": 243,
+        "likeCount": 1996,
         "dislikeCount": 0,
-        "heartCount": 909,
-        "commentCount": 1
+        "heartCount": 869,
+        "commentCount": 0
       },
-      "meta": {
-        "Size": "540x960",
-        "seed": 2076172244,
-        "Model": "JANKUV5NSFWTrainedNoobai_v50",
-        "steps": 35,
-        "hashes": {
-          "model": "217daae812",
-          "lora:haiz_ai_illu": "f76bdb0df2cc",
-          "lora:Age Slider LoRA": "b29d760bd945",
-          "lora:ponyv6_noobE11_2_adamW": "c8237b8ce9a9",
-          "lora:Flatline - Illus x Niji": "e3dc740fc1d5",
-          "lora:Lighting - darkness slider": "542a52c66b81",
-          "lora:Inkyo_-_Illustrious_Custom_Style": "396998dde1df"
-        },
-        "prompt": "Ruby Rose (RWBY), large breasts, strapless bra and panties, beach,\n<lora:ponyv6_noobE11_2_adamW:0.3> masterpiece, best quality, very aesthetic,\n<lora:haiz_ai_illu:0.5> haiz_ai, no lineart,no outline,\n<lora:Flatline - Illus x Niji:1> Flatline, Flat vector illustration,\n<lora:Lighting - darkness slider:-0.4>,\n<lora:Inkyo_-_Illustrious_Custom_Style:0.6> inkyo,\n<lora:Age Slider LoRA:2>",
-        "Version": "v1.10.1",
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "clipSkip": 7,
-        "resources": [
-          {
-            "hash": "c8237b8ce9a9",
-            "name": "ponyv6_noobE11_2_adamW",
-            "type": "lora",
-            "weight": 0.3
-          },
-          {
-            "hash": "f76bdb0df2cc",
-            "name": "haiz_ai_illu",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "396998dde1df",
-            "name": "Inkyo_-_Illustrious_Custom_Style",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "e3dc740fc1d5",
-            "name": "Flatline - Illus x Niji",
-            "type": "lora"
-          },
-          {
-            "hash": "542a52c66b81",
-            "name": "Lighting - darkness slider",
-            "type": "lora"
-          },
-          {
-            "hash": "b29d760bd945",
-            "name": "Age Slider LoRA",
-            "type": "lora"
-          },
-          {
-            "hash": "217daae812",
-            "name": "JANKUV5NSFWTrainedNoobai_v50",
-            "type": "model"
-          }
-        ],
-        "Model hash": "217daae812",
-        "Hires steps": "35",
-        "Hires prompt": {
-          "haiz_ai_illu": "0.5> haiz_ai",
-          "Age Slider LoRA": "2>",
-          "ponyv6_noobE11_2_adamW": "0.3> masterpiece",
-          "Flatline - Illus x Niji": "1> Flatline",
-          "Lighting - darkness slider": "-0.4>",
-          "Inkyo_-_Illustrious_Custom_Style": "0.6> inkyo"
-        },
-        "Hires upscale": "2",
-        "Schedule type": "Karras",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "Wildcard prompt": {
-          "haiz_ai_illu": "0.5> haiz_ai",
-          "Age Slider LoRA": "2>",
-          "ponyv6_noobE11_2_adamW": "0.3> masterpiece",
-          "Flatline - Illus x Niji": "1> Flatline",
-          "Lighting - darkness slider": "-0.4>",
-          "Inkyo_-_Illustrious_Custom_Style": "0.6> inkyo"
-        },
-        "Denoising strength": "0.7"
-      },
-      "username": null,
+      "meta": null,
+      "username": "Kalrdr",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1150298,
-        1240413,
-        1242320,
-        1389853,
-        1444863,
-        1896532,
-        1953811
+        9208,
+        111363,
+        164821,
+        333245,
+        372639,
+        1024244,
+        1412563,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "702|1750423768404",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=702%7C1750423768404"
+    "nextCursor": "703|1735426271595",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=703%7C1735426271595"
   }
 }
