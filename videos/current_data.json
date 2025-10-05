@@ -1,113 +1,123 @@
 {
   "items": [
     {
-      "id": 16239582,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b098d94-293c-4995-bbe2-ef354178b045/original=true/4b098d94-293c-4995-bbe2-ef354178b045.jpeg",
-      "hash": "UMLp?on92_ui8|9HvzxV1%Xkt8r=9}%KpJS~",
-      "width": 1792,
-      "height": 2432,
+      "id": 41658603,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8c7f3d41-ff57-43b5-8c72-dbbaaf166d9b/original=true/8c7f3d41-ff57-43b5-8c72-dbbaaf166d9b.jpeg",
+      "hash": "UDD8RlJ658R*Io={-oIp~AWGIoWYIobcofNH",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-06-18T13:36:24.800Z",
-      "postId": 3633355,
+      "createdAt": "2024-12-17T11:46:36.351Z",
+      "postId": 9485174,
       "stats": {
-        "cryCount": 117,
-        "laughCount": 367,
-        "likeCount": 1753,
+        "cryCount": 110,
+        "laughCount": 209,
+        "likeCount": 1926,
         "dislikeCount": 0,
-        "heartCount": 1044,
+        "heartCount": 1034,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
-        "Size": "1792x2432",
-        "seed": 916557101,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "ac006fdd7e",
-          "lora:liftpai": "f843593fbe2a",
-          "lora:PijaMix_v1": "1a946326dd2a",
-          "lora:AfrobullLycoXL": "e4242f12d4e7",
-          "lora:greatm8Pony_locon_e16": "0c4b6f1af567"
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 601552073,
+        "draft": false,
+        "extra": {
+          "remixOfId": 36403322
         },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, 2d, 1girl, 1boy, suspended paizuri, (liftpai), size difference, angel and devil, (paizuri), male devil, side view, bald male, horns, red male, female angel, motion lines, looking down, happy, (fully nude), (shiny skin), aroused, blonde hair, large breasts, heaven background, clouds, <lora:greatm8Pony_locon_e16:0.3> <lora:AfrobullLycoXL:0.6> <lora:PijaMix_v1:0.4> <lora:liftpai:0.9>",
-        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up), night, outdoors, summer camp, volumetric lighting, vivid colors, g0thicPXL, lilandavastyle, Expressiveh, imminent sex, mating press, from below, detailed background\nBREAK \n1girl, sexy girl, plaid skirt, perfect detailed face, long blonde hair, blue eyes, blush, light makeup, colour theory, looking up, (small breasts), sweaty skin, cum on face, cum on body, cum in pussy\nBREAK \n1male, (male), out of frame, nude, average penis,",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "freeu_b1": "1.4",
-        "freeu_b2": "1.3",
-        "freeu_s1": "0.9",
-        "freeu_s2": "0.2",
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-11-19T1613:31.8126945Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "easynegative, (score_6, score_5, score_4), (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), watermark, border, monochrome background, blurry eyes, muscular, chibi, loli, large penis, futanari",
+        "civitaiResources": [
           {
-            "hash": "0c4b6f1af567",
-            "name": "greatm8Pony_locon_e16",
-            "type": "lora",
-            "weight": 0.3
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "e4242f12d4e7",
-            "name": "AfrobullLycoXL",
-            "type": "lora",
-            "weight": 0.6
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
-            "hash": "1a946326dd2a",
-            "name": "PijaMix_v1",
             "type": "lora",
-            "weight": 0.4
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "f843593fbe2a",
-            "name": "liftpai",
             "type": "lora",
-            "weight": 0.9
+            "weight": 0.8,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 722613,
+            "modelVersionName": "v0.2-pony"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "ac006fdd7e",
-        "freeu_enabled": "True",
-        "negativePrompt": "source_furry, source_pony, monochrome,3d,(mole:1.2), monochrome background, freckles, aidxlv05_neg, (censored)",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer prompt": {
-          "PijaMix_v1": "0.4>"
-        },
-        "ADetailer version": "24.5.1",
-        "Denoising strength": "0.25",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.51",
-        "multidiffusion_method": "Mixture of Diffusers",
-        "ADetailer dilate erode": "4",
-        "multidiffusion_enabled": "True",
-        "ADetailer inpaint padding": "32",
-        "ADetailer negative prompt": {},
-        "multidiffusion_tile_width": "896",
-        "multidiffusion_tile_height": "1216",
-        "multidiffusion_tile_overlap": "64",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "multidiffusion_tile_batch_size": "4",
-        "ADetailer mask only top k largest": "1"
+        ]
       },
-      "username": "BesolloAI",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
-        324524,
-        429429
+        9208,
+        135867,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219,
+        722613
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "686|1734435996351",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=686%7C1734435996351"
+    "nextCursor": "687|1755645684359",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=687%7C1755645684359"
   }
 }
