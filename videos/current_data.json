@@ -1,76 +1,108 @@
 {
   "items": [
     {
-      "id": 34515518,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b9c62af-1dc0-48ab-8a2a-18204f9975bd/original=true/4b9c62af-1dc0-48ab-8a2a-18204f9975bd.jpeg",
-      "hash": "UiM%D$WB?^ofKQWB%Me.E1tR%1t7%2t6t7WB",
-      "width": 992,
-      "height": 1328,
-      "nsfwLevel": "X",
+      "id": 90471904,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d1a49bcf-20d0-4e00-a157-9297ba57851d/original=true/d1a49bcf-20d0-4e00-a157-9297ba57851d.jpeg",
+      "hash": "U8FF1.}]1EE2lI4.9?tl0yIV%fs+01NZ={-:",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-14T07:19:33.065Z",
-      "postId": 7885943,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-25T23:35:17.470Z",
+      "postId": 20063924,
       "stats": {
-        "cryCount": 140,
-        "laughCount": 291,
-        "likeCount": 1853,
+        "cryCount": 398,
+        "laughCount": 456,
+        "likeCount": 1672,
         "dislikeCount": 0,
-        "heartCount": 968,
-        "commentCount": 64
+        "heartCount": 722,
+        "commentCount": 2
       },
       "meta": {
-        "": {},
-        "Size": "992x1328",
-        "seed": 382724271,
-        "Model": "boleromix_Pony_V1.50",
-        "steps": 15,
-        "hashes": {
-          "model": "79d1849ed0",
-          "lora:grabbing beeasts(guiding hand)_pony_V1.0": "e114c20d1efa"
+        "Size": "832x1216",
+        "seed": 1231178203,
+        "draft": false,
+        "extra": {
+          "remixOfId": 69984192
         },
-        "prompt": "score_9, score_8_up, score_7_up,source_anime, high res image,masterpiece,best quality,(woman,20yo,middle breasts:1.0),cute face,clear skin,shiny hair,ultra detailed eyes,simple background, nude,ponytail  <lora:grabbing beeasts(guiding hand)_pony_V1.0:0.7> grabbing another's breasts, guiding hand, 1boy, pov",
-        "Version": "v1.7.0",
+        "steps": 20,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, detailed, (Front angle:1.3), high detail, perfect face, 1girl, (Ginger hair:1.3), Forest pond background, standing, (thick thighs:1.5), saggy breasts, deflated breasts, (Misty from Pokemon:1.1), smug expression, blue eyes, head tilted,  massive breasts, wide hips, bottom heavy, denim shorts, (red suspenders), worn out yellow tank top, torn up tank top, light skinned female, hands on hips, closed mouth, side ponytail hairstyle\nBREAK",
+        "process": "img2img",
         "sampler": "DPM++ 2M Karras",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
+        "cfgScale": 5,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-24T1244:35.0585434Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, source_pony, source_anime, source_furry, source_cartoon, worst quality, low quality, malformed, deformed, worst quality, simple background, bad hands, bad feet, watermark, rays, dramatic lighting, (angular face:1.3), pointy chin, (tanlines)",
+        "civitaiResources": [
           {
-            "hash": "e114c20d1efa",
-            "name": "grabbing beeasts(guiding hand)_pony_V1.0",
-            "type": "lora"
+            "type": "checkpoint",
+            "modelVersionId": 1376263,
+            "modelVersionName": "SDXL Pony 15"
           },
           {
-            "hash": "79d1849ed0",
-            "name": "boleromix_Pony_V1.50",
-            "type": "model"
+            "type": "lora",
+            "weight": 6,
+            "modelVersionId": 1253021,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1272693,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 2.55,
+            "modelVersionId": 1288330,
+            "modelVersionName": "v1.1"
+          },
+          {
+            "type": "lora",
+            "weight": 1.95,
+            "modelVersionId": 1374139,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 2.15,
+            "modelVersionId": 1374404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 3.5,
+            "modelVersionId": 1386847,
+            "modelVersionName": "PONY v1.0"
           }
-        ],
-        "Model hash": "79d1849ed0",
-        "Tile Overlap": "48",
-        "Upscale factor": "1.3",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, pony, furry, censored,realistic",
-        "Keep input size": "true}",
-        "Tile batch size": "4",
-        "Tile tile width": "96",
-        "Tiled Diffusion": {},
-        "Tile tile height": "96",
-        "Denoising strength": "0.4",
-        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
-        "Tiled Diffusion scale factor": "1.3"
+        ]
       },
-      "username": "bolero537",
+      "username": "zeschloe082273",
       "baseModel": "Pony",
       "modelVersionIds": [
-        920368
+        1253021,
+        1272693,
+        1288330,
+        1374139,
+        1374404,
+        1376263,
+        1386847
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "705|1753486517470",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=705%7C1753486517470"
+    "nextCursor": "706|1740125460000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=706%7C1740125460000"
   }
 }
