@@ -1,68 +1,45 @@
 {
   "items": [
     {
-      "id": 12756447,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/64e0f61b-bf48-45d1-96b3-681198133186/original=true/64e0f61b-bf48-45d1-96b3-681198133186.jpeg",
-      "hash": "UAEB:GD%0fxuysD%wJxZ2^V@v|R*}rsAIoWB",
-      "width": 1408,
-      "height": 2064,
+      "id": 67750055,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce0ba93c-098d-4b21-8465-d88dc99bea24/original=true/ce0ba93c-098d-4b21-8465-d88dc99bea24.jpeg",
+      "hash": "UQJ7m{~WOU%M%No}%gxa?HRjtR%M?H-;t7WV",
+      "width": 1536,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-05-17T14:04:09.531Z",
-      "postId": 2819219,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-03T20:02:51.994Z",
+      "postId": 15062166,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 220,
-        "likeCount": 1644,
+        "cryCount": 150,
+        "laughCount": 244,
+        "likeCount": 1910,
         "dislikeCount": 0,
-        "heartCount": 1308,
+        "heartCount": 968,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3155886372,
-        "steps": 25,
-        "hashes": {
-          "model": "67ab2fd8ec",
-          "LORA:princess_xl_v2": "80aa67913a",
-          "LORA:Expressive_H-000001": "7b53da0391",
-          "LORA:sinfully_stylish_SDXL": "033c44dfb8",
-          "LORA:Concept Art DarkSide Style LoRA_Pony XL v6": "f1353bccc9"
-        },
-        "prompt": "score_9, score_8_up, score_7_up,   legs view, close up on legs, feet, round butt, white thighhighs, tan lines, 1girl, delicate and smooth skin, perfect body, thighs, highly detailed, nurse, nurse outfit, blonde,  <lora:Concept Art DarkSide Style LoRA_Pony XL v6:0.8> concept art,   <lora:Expressive_H-000001:0.8> expressiveh,  <lora:princess_xl_v2:0.8>   <lora:sinfully_stylish_SDXL>",
-        "sampler": "Euler a Karras",
-        "cfgScale": 7,
-        "resources": [
-          {
-            "name": "Expressive_H-000001",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "name": "princess_xl_v2",
-            "type": "lora",
-            "weight": 0.8
-          }
-        ],
-        "Model hash": "67ab2fd8ec",
-        "negativePrompt": "score_6, score_5, score_4, 3d, needle,",
-        "ponyDiffusionV6XL_v6StartWithThisOne Version": "ComfyUI"
+        "seed": 448697512,
+        "Model": "jam/Illustrious/I_Jam_v01",
+        "steps": 38,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "(masterpiece, best quality), sideview, CivChan, purple eyes, pink hair, blush, aroused, naughty_face, sideways_glance,\nman sitting in chair beside kneeling girl on floor, maid costume, breasts, nipples, detailed skin, penis_on_face, huge penis, precum, big testicles, ass, anus, fingering, female_masturbation, spread_pussy, pussy_juice, erection, licking_penis, garter_straps, open pants,\n<segment:head,0.4,0.5//cid=11>girl, licking_penis, sideways_glance, CivChan, purple eyes, pink hair, blush, aroused, naughty_face, (masterpiece, best quality, realistic, amazing quality, very aesthetic, absurdres, ultra detailed face, ultra detailed eyes)",
+        "sampler": "dpmpp_3m_sde",
+        "cfgScale": 6,
+        "scheduler": "karras",
+        "negativePrompt": "worst quality, bad anatomy, lowres, censored, simple background, text, logo, patreon_logo, monochrome, wet,",
+        "originalSampler": "dpmpp_3m_sde"
       },
-      "username": "popyay",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        244808,
-        290640,
-        382152,
-        407532,
-        446346
-      ]
+      "username": "Purfecter",
+      "baseModel": null,
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "692|1743710571994",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=692%7C1743710571994"
+    "nextCursor": "693|1737603612028",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=693%7C1737603612028"
   }
 }
