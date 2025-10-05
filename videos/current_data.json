@@ -1,58 +1,62 @@
 {
   "items": [
     {
-      "id": 65389968,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/833bb358-a167-4ac9-a6da-ef3db0a97082/original=true/833bb358-a167-4ac9-a6da-ef3db0a97082.jpeg",
-      "hash": "UIJQWY~q02#@S~Eg9cj04.Ri^iaw0LIURhRh",
-      "width": 2112,
-      "height": 3072,
+      "id": 88257049,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6731f831-f230-428c-b4e4-acf13e8c5da0/original=true/6731f831-f230-428c-b4e4-acf13e8c5da0.jpeg",
+      "hash": "USKTY@d=JTRP_ND$-:$iI;IU%1Io^+f7MxNa",
+      "width": 2688,
+      "height": 3840,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-23T19:11:26.837Z",
-      "postId": 14561448,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-15T00:41:00.000Z",
+      "postId": 19577193,
       "stats": {
-        "cryCount": 130,
-        "laughCount": 256,
-        "likeCount": 1834,
+        "cryCount": 95,
+        "laughCount": 210,
+        "likeCount": 1959,
         "dislikeCount": 0,
-        "heartCount": 1023,
-        "commentCount": 0
+        "heartCount": 978,
+        "commentCount": 2
       },
       "meta": {
-        "seed": 579694931,
+        "seed": 1160150891,
         "vaes": [],
         "extra": {},
-        "steps": 30,
+        "steps": 29,
         "models": [],
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), score_9, score_8_up, score_7_up, score_6_up BREAK\n\nmasterpiece, best quality, amazing quality, 1girl, thigh_boots, breasts, fairy,  wings, penis, tattoo, , kissing_penis, microgirl, long_hair, mini_person, boots, high_heels, pointy_ears, , fairy_wings, halo, arm_tattoo ((A lot of Pre-ejaculate leaks out of the penis)) ((clear Pre-ejaculate)) ",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, office, desk, solo, 1girl, female focus, lineless, incoth, (incase:0.6), indoors, light blue eyes, transparent nightie, no panties, cowboy shot, small breasts, long black hair, red highlights, elegant ponytail, parted bangs, refined, beautiful, kawaii, dynamic pose, close up, standing at desk, using computer, rear view, butt,",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "modelIds": [],
-        "workflow": "img2img-upscale",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "versionIds": [],
         "controlNets": [],
-        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature, pussy, virgin",
+        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 1240288
+            "modelVersionId": 1612720
           },
           {
-            "weight": 0.55,
-            "modelVersionId": 1056404
+            "weight": 0.6,
+            "modelVersionId": 244808
           },
           {
-            "weight": 1,
-            "modelVersionId": 1240288
+            "weight": 0.6,
+            "modelVersionId": 1189052
           },
           {
-            "weight": 0.8,
-            "modelVersionId": 1552717
+            "weight": 0.75,
+            "modelVersionId": 1545543
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1589514
           },
           {
             "type": "upscaler",
@@ -61,18 +65,20 @@
         ],
         "additionalResources": []
       },
-      "username": "Big_Master",
+      "username": "ElvishDreams",
       "baseModel": "Illustrious",
       "modelVersionIds": [
         164821,
-        1056404,
-        1240288,
-        1552717
+        244808,
+        1189052,
+        1545543,
+        1589514,
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "709|1752540060000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=709%7C1752540060000"
+    "nextCursor": "710|1753527528158",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=710%7C1753527528158"
   }
 }
