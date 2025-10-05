@@ -1,123 +1,77 @@
 {
   "items": [
     {
-      "id": 41658603,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8c7f3d41-ff57-43b5-8c72-dbbaaf166d9b/original=true/8c7f3d41-ff57-43b5-8c72-dbbaaf166d9b.jpeg",
-      "hash": "UDD8RlJ658R*Io={-oIp~AWGIoWYIobcofNH",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 95304711,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4a3aa7a-2587-4fcd-bb5f-0f950f2be10f/original=true/c4a3aa7a-2587-4fcd-bb5f-0f950f2be10f.jpeg",
+      "hash": "U8KduYXn.SD%~q^+o#M{5lV@=wxvDj4oxFtR",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-17T11:46:36.351Z",
-      "postId": 9485174,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-19T23:21:24.359Z",
+      "postId": 21139516,
       "stats": {
-        "cryCount": 110,
-        "laughCount": 209,
-        "likeCount": 1926,
+        "cryCount": 122,
+        "laughCount": 190,
+        "likeCount": 2020,
         "dislikeCount": 0,
-        "heartCount": 1034,
+        "heartCount": 946,
         "commentCount": 0
       },
       "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 601552073,
-        "draft": false,
-        "extra": {
-          "remixOfId": 36403322
+        "seed": 2319685727,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
         },
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up), night, outdoors, summer camp, volumetric lighting, vivid colors, g0thicPXL, lilandavastyle, Expressiveh, imminent sex, mating press, from below, detailed background\nBREAK \n1girl, sexy girl, plaid skirt, perfect detailed face, long blonde hair, blue eyes, blush, light makeup, colour theory, looking up, (small breasts), sweaty skin, cum on face, cum on body, cum in pussy\nBREAK \n1male, (male), out of frame, nude, average penis,",
-        "sampler": "Euler a",
+        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, 1girl, hanging breasts, stretching, loose shirt, barefoot, ?, loose clothes, holding own foot, nipples, nipple slip, matoi ryuuko, black hair, blue eyes, yoga pants, downblouse, no bra, short ponytail, blush, flexible, multicolored hair, hands on feet, short hair, full body, sitting, red hair, streaked hair, looking at viewer, low-cut armhole, medium breasts, from side, oversized clothes, leaning forward, grey background, two-tone hair, leggings, simple background, black pants",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
         "cfgScale": 5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-11-19T1613:31.8126945Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "easynegative, (score_6, score_5, score_4), (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), watermark, border, monochrome background, blurry eyes, muscular, chibi, loli, large penis, futanari",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "hash": "78d4ccffb16c",
+            "name": "loose_tank_top_ilxl_goofy",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 722613,
-            "modelVersionName": "v0.2-pony"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "solumbragt355",
-      "baseModel": "Pony",
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        135867,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        722613
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "687|1755645684359",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=687%7C1755645684359"
+    "nextCursor": "688|1743786969925",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=688%7C1743786969925"
   }
 }
