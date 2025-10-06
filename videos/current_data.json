@@ -1,90 +1,78 @@
 {
   "items": [
     {
-      "id": 91901175,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a292608-f718-4ae7-8034-79680c331d91/original=true/2a292608-f718-4ae7-8034-79680c331d91.jpeg",
-      "hash": "UVJayNxa?w=|0MW;I=bHJokWoLSho#tRxGNG",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 95304715,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/85dd7d9b-beac-4a90-b9d3-c673704d75d6/original=true/85dd7d9b-beac-4a90-b9d3-c673704d75d6.jpeg",
+      "hash": "UBL:7c4T01_N@?ozAbV@4Ttlx^M_}rX9EMWV",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-05T00:15:35.259Z",
-      "postId": 20388024,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-19T23:21:24.359Z",
+      "postId": 21139516,
       "stats": {
-        "cryCount": 168,
-        "laughCount": 228,
-        "likeCount": 2007,
+        "cryCount": 129,
+        "laughCount": 180,
+        "likeCount": 1890,
         "dislikeCount": 0,
-        "heartCount": 762,
-        "commentCount": 0
+        "heartCount": 966,
+        "commentCount": 1
       },
       "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 423380592,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, absurdres, newest, ultra-detailed, highly detailed, detailed background, perfect quality, best quality, very aesthetic, intricate details, detailed face, beautiful face, perfect eyes, detailed eyes, perfect face, perfect anatomy, dynamic lighting, 2d, sunny day, beach,  water reflection, foreshortening, blurry background, BREAK , (( cana, 1girl, long hair, brown hair, purple eyes, large breasts, brown eyes, patterned criss-cross halter bikini,  thigh, (wet:0.7), seductive face, pupils ,barefoot, seductive smile)), BREAK , motion lines, <lora:dio-brandos-pose-illustriousxl-lora-nochekaiser:1>, dio brandos pose, dio brando's pose (jojo), from behind, jojo pose, standing, dynamic angle, dutch angle, cowboy shot, looking at viewer",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "seed": 804088839,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, 1girl, medium breasts, nipples, side ponytail, short shorts, blush, orange hair, blue eyes, misty (pokemon), looking at viewer, sweat, brown background, no bra, leaning forward, simple background, collarbone, short hair, navel, parted lips, downblouse, bare shoulders, cowboy shot, one breast out, mole on breast, hair tie, bare arms, grey shorts",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "Emphasis": "No norm",
+        "cfgScale": 5,
         "resources": [
           {
-            "name": "dio-brandos-pose-illustriousxl-lora-nochekaiser",
+            "hash": "78d4ccffb16c",
+            "name": "loose_tank_top_ilxl_goofy",
             "type": "lora",
             "weight": 1
+          },
+          {
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
+            "type": "model"
           }
         ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-02T0450:10.0557576Z",
-        "experimental": false,
-        "negativePrompt": "lowres, bad, error, fewer, extra, missing, worst quality, lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],comics, panties, red skin, large aerolas, large nipples, bows, white outline, missing finger, shirt design, chibi characters, bald, cape, Disfigured, kitsch, ugly, oversaturated, grain, low-res, Deformed, blurry, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands,1boy, 2 boys, horns, qu33n",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1873831,
-            "modelVersionName": "v2.0p"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1778929,
-            "modelVersionName": "booru"
-          },
-          {
-            "type": "lora",
-            "weight": 1.1,
-            "modelVersionId": 1417184,
-            "modelVersionName": "IXL 2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1783930,
-            "modelVersionName": "v1.0"
-          }
-        ]
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "GEATSZ08",
+      "username": "Goofy_Ai",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1417184,
-        1778929,
-        1783930,
-        1873831
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "763|1755645684359",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=763%7C1755645684359"
+    "nextCursor": "764|1751865600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=764%7C1751865600000"
   }
 }
