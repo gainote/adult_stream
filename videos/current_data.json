@@ -1,61 +1,90 @@
 {
   "items": [
     {
-      "id": 96637864,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/02ab8607-044b-49e1-a135-7c27f5c78ee8/original=true/02ab8607-044b-49e1-a135-7c27f5c78ee8.jpeg",
-      "hash": "UELW*J0f3E0i%$00AtDj00[T=EH?_Nm+9ZIq",
-      "width": 832,
-      "height": 1216,
+      "id": 61847212,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad5d1ce4-6940-4556-bfc5-d5e6a28adf23/original=true/ad5d1ce4-6940-4556-bfc5-d5e6a28adf23.jpeg",
+      "hash": "UnJt;yoz8_M_~qt8IAV@E2ofWCj]V@axbbay",
+      "width": 1344,
+      "height": 2240,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-08-28T18:59:00.000Z",
-      "postId": 21435763,
+      "createdAt": "2025-03-07T19:10:00.000Z",
+      "postId": 13821042,
       "stats": {
         "cryCount": 112,
-        "laughCount": 180,
-        "likeCount": 1945,
+        "laughCount": 228,
+        "likeCount": 1884,
         "dislikeCount": 0,
-        "heartCount": 912,
-        "commentCount": 1
+        "heartCount": 925,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 54927484,
-        "Model": "JANKU v5.0 By JANXD",
+        "Size": "768x1280",
+        "seed": 105120145067971,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//www.deviantart.com/marlandco",
         "steps": 30,
         "hashes": {
-          "model": "217daae812",
-          "embed:lazyneg": "ba21023c70",
-          "embed:lazypos": "3086669265"
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
         },
-        "prompt": "1girl, \nyelan \\(genshin impact\\), \npool, outside, solo, close-up, mole on breast, short hair, blunt bang, looking at viewer, cleavage, breasts, water drop, black bikini, large breasts, bikini, blue hair, green eyes, wet, swimsuit\n, lazypos",
-        "Version": "ComfyUI",
-        "sampler": "Euler a Karras",
-        "cfgScale": 3,
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, (messy bed:1.2), half-naked, tousled hair, sleepy eyes, panties, stockings, lying on bed, stretching, sunlight through window, scattered clothes, empty wine bottle, crumpled sheets, pillow on floor, indoors, bedroom, wooden floor, open curtain, blurred city view, (digital clock:0.9), bright sun lighting, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_ancestral_karras",
+        "cfgScale": 5,
         "clipSkip": 2,
         "resources": [
           {
-            "hash": "217daae812",
-            "name": "JANKU v5.0 By JANXD",
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
             "type": "model"
           }
         ],
-        "Model hash": "217daae812",
-        "negativePrompt": "lazyneg"
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censor, censored, watermark, plain simple background, blank eyes, hydrokinesis, symmetry, huge breasts, sparks, dust, garter straps,"
       },
-      "username": "janxd",
+      "username": "Marland_C",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1833157,
-        1860747,
-        1896532
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "778|1741374600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=778%7C1741374600000"
+    "nextCursor": "779|1754871660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=779%7C1754871660000"
   }
 }
