@@ -1,38 +1,84 @@
 {
   "items": [
     {
-      "id": 51174751,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a992c703-1ed2-45fe-8888-22474e7cf8fa/original=true/a992c703-1ed2-45fe-8888-22474e7cf8fa.jpeg",
-      "hash": "UNEBm|Na0e%3^-WBEJxbo~oLWAbH^loME0W-",
+      "id": 29091144,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f824dc04-682e-4488-8b6e-fc7a10b26198/original=true/f824dc04-682e-4488-8b6e-fc7a10b26198.jpeg",
+      "hash": "U4CidV0M0eVfTp9Z=aiz01xs-W%2~CIo0Lxu",
       "width": 832,
-      "height": 1207,
-      "nsfwLevel": "X",
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-12T16:35:47.067Z",
-      "postId": 11510991,
+      "browsingLevel": 4,
+      "createdAt": "2024-09-13T08:00:00.000Z",
+      "postId": 6508833,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 243,
-        "likeCount": 1945,
+        "cryCount": 93,
+        "laughCount": 244,
+        "likeCount": 1868,
         "dislikeCount": 0,
-        "heartCount": 815,
-        "commentCount": 5
+        "heartCount": 926,
+        "commentCount": 0
       },
       "meta": {
-        "steps": 20,
-        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis or reactions and Buzz everyone.",
+        "Size": "832x1216",
+        "seed": 4222228425,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, high detailed, high quality, masterpiece, no text, quality highlights, 8k detail, detailed background, source_anime, dynamic view, hentai, ultra-detailed, BREAK\n1girl, (((solol))), female focus, expressiveh, (((black hair))), black eyes, , (detailed face), (medium hair),(hair pulled back), witch, skimpy outfit, bare breasts, dark nipples, BREAK\n, forest background",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-12T1938:27.8549774Z",
+        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, child, kid, chibi, oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), flat chested, (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist, earrings, gorget,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 372898,
+            "modelVersionName": "Summer Days 2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 379995,
+            "modelVersionName": "XL-Pony"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
       },
-      "username": "Rodzilla2025X",
-      "baseModel": "",
-      "modelVersionIds": []
+      "username": "DLT8K",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        290640,
+        372898,
+        379995,
+        398847
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "790|1726214400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=790%7C1726214400000"
+    "nextCursor": "791|1732049549850",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=791%7C1732049549850"
   }
 }
