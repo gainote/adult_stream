@@ -1,75 +1,156 @@
 {
   "items": [
     {
-      "id": 31468106,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/93ed8b66-4778-44f1-9dab-13dc4c952d49/original=true/93ed8b66-4778-44f1-9dab-13dc4c952d49.jpeg",
-      "hash": "UAGRC,^*0K%0*0JVNLsARPw]xvtRlB=xv}W;",
-      "width": 832,
-      "height": 1216,
+      "id": 36884132,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/92c63c64-c27b-43f5-834b-632b0e4bdd3b/original=true/92c63c64-c27b-43f5-834b-632b0e4bdd3b.jpeg",
+      "hash": "UBEd|z580#?F?ZnlR+xtX,jaaKX8~AR+EM$%",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-09-26T17:26:37.515Z",
-      "postId": 7034472,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-27T18:23:12.695Z",
+      "postId": 8424142,
       "stats": {
-        "cryCount": 86,
-        "laughCount": 206,
-        "likeCount": 1744,
+        "cryCount": 78,
+        "laughCount": 218,
+        "likeCount": 1723,
         "dislikeCount": 0,
-        "heartCount": 1093,
-        "commentCount": 0
+        "heartCount": 1107,
+        "commentCount": 10
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 48358700,
-        "steps": 27,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  milf, 1woman, gorgeous woman ,  cute face, cute woman, blushing, long black  hair, small breasts, wearing karate uniform , on all fours, ass up, pant,black belt, glossy , milf , bubble ass , ass focus , pussy , pants down, wooden floor, ass focus",
+        "seed": 4259171618,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "steps": 38,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, 1girl,curvy body,toned body,oiled up skin,pale purple skin,mole,freckles,Chel,Eldorado ,In an Aztec temple,wearing a priestess lioncloth and priestess bra ,kneeling,open mouth,tongue out,cum in mouth,cum on hair,horny,messy,massive cum load covering her body and face",
         "sampler": "Euler a",
-        "cfgScale": 6.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-22T1955:58.9000049Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers,",
+        "cfgScale": 5,
+        "modelIds": [],
+        "workflow": "txt2img-hires",
+        "upscalers": [
+          "urn:air:multi:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, pierced nipples, piercings, zPDXLxxx, thick lips,",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 287973
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 333587
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 380277
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
             "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "modelVersionId": 382152
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 333587
           },
           {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:264290@333587",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:352581@398847",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "hornystoryteller",
+      "username": "HeisMad",
       "baseModel": "Pony",
       "modelVersionIds": [
+        164821,
+        287973,
         290640,
+        333587,
+        380277,
+        382152,
+        398847,
         436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "793|1730053392695",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=793%7C1730053392695"
+    "nextCursor": "794|1739015125603",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=794%7C1739015125603"
   }
 }
