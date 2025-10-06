@@ -1,123 +1,73 @@
 {
   "items": [
     {
-      "id": 42615974,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21cc519d-8b9c-4f4e-8565-338535571195/original=true/21cc519d-8b9c-4f4e-8565-338535571195.jpeg",
-      "hash": "UVMsi]%1cEn%?v%Ltlaf%0NIt7oz~UaKrrWB",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 97419060,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9662214-a258-4187-a658-405ba8a96d5b/original=true/b9662214-a258-4187-a658-405ba8a96d5b.jpeg",
+      "hash": "U4C5q~9F0h}UEN57OswI00?Hv}tlE0^+wHEk",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-11-28T20:25:09.364Z",
-      "postId": 9691632,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-31T00:41:00.000Z",
+      "postId": 21612112,
       "stats": {
-        "cryCount": 111,
-        "laughCount": 213,
-        "likeCount": 1945,
+        "cryCount": 115,
+        "laughCount": 181,
+        "likeCount": 1974,
         "dislikeCount": 0,
-        "heartCount": 902,
-        "commentCount": 2
+        "heartCount": 899,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 761163110,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:534425@748555",
+        "seed": 687847568,
         "extra": {},
-        "steps": 32,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:534425@748555"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,high quality, highly detailed, flat illustration, pinup style,\nwoman, wide hips, dark eyes, blushing, long eyelashes, blue hairband,\nwearing light blue o-ring-bikini-top, big cleavage, strapless, (side-tied-bikini-bottom), necklaces,\nbeach sea sky background, rim lighting, smile teeth, looking at viewer lying pose on towel, front view, pov crotch, spreading legs,\nDisneyAurora, 1girl, blonde hair, blue eyes, long hair",
+        "steps": 50,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, solo, (depth of field), medieval setting, indoors, tavern, day time\n\n1girl, (calista:1.5), blue eyes, big breasts, cute face,\n\nnude, black choker, black elbow gloves, black thigh highs,\n\nholding drink tray, walking, dynamic pose, looking at viewer, pussy,",
+        "denoise": 0.4,
         "sampler": "Euler a",
-        "cfgScale": 6,
-        "modelIds": [],
-        "workflow": "img2img-hires",
+        "cfgScale": 3.5,
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, score_4, score_3, score_2, muscular, fury, child, kid, easynegative, low-quality, blur, signature, twisted, realistic, worst-quality, watermark, bad, distorted hands, 3D, distortion, monochrome, extra fingers, bad, blurry, artifacts, lowres, logo, downsampling, bad-anatomy, distorted fingers, text, aliasing,",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 748555
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1416874
           },
           {
             "weight": 1,
-            "modelVersionId": 748555
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 793923
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 933942
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 748555
+            "modelVersionId": 2160818
           },
           {
             "type": "upscaler",
             "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 793923
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 933942
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:362745@793923",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:834772@933942",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
           }
         ]
       },
-      "username": "MatureOnly",
-      "baseModel": "PonyPonyPony",
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
         164821,
-        748555,
-        748555,
-        748555,
-        793923,
-        793923,
-        933942,
-        933942
+        1189052,
+        1416874,
+        1490781,
+        2160818
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "761|1756600860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=761%7C1756600860000"
+    "nextCursor": "762|1754352935259",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=762%7C1754352935259"
   }
 }
