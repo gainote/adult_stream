@@ -1,123 +1,77 @@
 {
   "items": [
     {
-      "id": 78580134,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95bcb173-841a-440d-ad47-28eafe915648/original=true/95bcb173-841a-440d-ad47-28eafe915648.jpeg",
-      "hash": "UbH0heE3}@w|wfoeNHj[RnoeJ8bHWWaeR*jZ",
-      "width": 1280,
-      "height": 1856,
+      "id": 102060824,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/592c9f0c-87b7-440f-ba33-1b05bfd8c3e8/original=true/592c9f0c-87b7-440f-ba33-1b05bfd8c3e8.jpeg",
+      "hash": "UaQ8}LjF.T%M-;V@yDofW:j[WBjZ.7WBMykB",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-05-26T09:56:21.669Z",
-      "postId": 17454112,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-24T01:26:24.537Z",
+      "postId": 22642423,
       "stats": {
-        "cryCount": 226,
-        "laughCount": 385,
-        "likeCount": 1764,
+        "cryCount": 141,
+        "laughCount": 231,
+        "likeCount": 1917,
         "dislikeCount": 0,
-        "heartCount": 800,
-        "commentCount": 2
+        "heartCount": 884,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "seed": 156464234,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1359028@1794965",
-        "extra": {},
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1359028@1794965"
-        ],
-        "prompt": "realistic, HassaKu_illu, 1girl, tokoyami towa, very long hair, (skinny), toned female, thick thighs, wide hips, legs apart, hands on hips, nail polish, green nails, pink nails, multicolored nails, thigh tattoo, bikini, futanari, flaccid, (gigantic penis under clothes:1.6), (lower body, leg focus, penis focus, close-up:1.2), beach, sunset, newest, highres, absurdres, amazing quality, best quality, masterpiece, ",
-        "denoise": 0.35,
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/7ZWHNM51CVFC8RXC0ZNPFX8WW0.jpeg",
-          "width": 832,
-          "height": 1216
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 485733828,
+        "Model": "prefect_illustrious_XL_2.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "9d73bac23a",
+          "lora:nipple_guessing_ilxl_goofy": "7c0f92d12b3e"
         },
-        "experimental": false,
-        "negativePrompt": "penis",
-        "civitaiResources": [
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:nipple_guessing_ilxl_goofy:1> nipple guessing,pov hands, kitagawa marin, !?, 1girl, bikini, black bikini, black choker, blonde hair, bracelet, breast poke, breasts, choker, cleavage, earrings, fake nails, floral print, halterneck, hetero, jewelry, lace, lace choker, large breasts, long hair, meme, multi-strapped bikini bottom, necklace, nipple press, nipple stimulation, poking, print bikini, red eyes, ring, solo focus, standing, string bikini, surprised, swimsuit, white background",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1794965
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1794965
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1398386
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1580764
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1794965
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
+            "hash": "7c0f92d12b3e",
+            "name": "nipple_guessing_ilxl_goofy",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1398386
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1580764
+            "hash": "9d73bac23a",
+            "name": "prefect_illustrious_XL_2.fp16",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1240750@1398386",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1398477@1580764",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "9d73bac23a",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "teifaan",
+      "username": "Goofy_Ai",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1398386,
-        1580764,
-        1794965
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "757|1744606800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=757%7C1744606800000"
+    "nextCursor": "758|1744606800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=758%7C1744606800000"
   }
 }
