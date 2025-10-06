@@ -1,78 +1,125 @@
 {
   "items": [
     {
-      "id": 95304715,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/85dd7d9b-beac-4a90-b9d3-c673704d75d6/original=true/85dd7d9b-beac-4a90-b9d3-c673704d75d6.jpeg",
-      "hash": "UBL:7c4T01_N@?ozAbV@4Ttlx^M_}rX9EMWV",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
+      "id": 86752743,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30885929-4c1a-4dba-8861-07553ce921ec/original=true/30885929-4c1a-4dba-8861-07553ce921ec.jpeg",
+      "hash": "UIM=YM}[xcxbr~RPEND*0MM{Na%2GFx[M_Rj",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-19T23:21:24.359Z",
-      "postId": 21139516,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-07T05:20:00.000Z",
+      "postId": 19247881,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 180,
-        "likeCount": 1890,
+        "cryCount": 119,
+        "laughCount": 215,
+        "likeCount": 1956,
         "dislikeCount": 0,
-        "heartCount": 966,
-        "commentCount": 1
+        "heartCount": 873,
+        "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 804088839,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, 1girl, medium breasts, nipples, side ponytail, short shorts, blush, orange hair, blue eyes, misty (pokemon), looking at viewer, sweat, brown background, no bra, leaning forward, simple background, collarbone, short hair, navel, parted lips, downblouse, bare shoulders, cowboy shot, one breast out, mole on breast, hair tie, bare arms, grey shorts",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "Emphasis": "No norm",
-        "cfgScale": 5,
+        "seed": 382365716,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), <lora:shikimori-illu-nvwls-v1-000006:1>, skmor, pink hair, blue eyes, half updo, very long hair, hair between eyes, medium breasts, black smokyeyes, lash, mascara, glossy red lips, parted lips, firm petite shape, red lips, 1 girl, 1 woman, digital illustration shoot from the side about a young woman in a white bikini, ultra tight micro white bikini, white side-tie string, areola, wedgie, surrounded by bubbles, sitting in the middle of the image, the image also shows a playful and whimsical atmosphere, with a soft and pastel color palette. on the center of the frame, who appear to be a young adult, is sitting with her upper body facing the viewer, looking to the side with a dreamy expression, she has a slim body and bare shoulders, bikini with a white bikini top and bottoms, the background is a sunset, colorful red sky with fluffy white clouds, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from below, blurry background, bright colors, stunningly artwork, (blurry background, depth of field:1.1)",
+        "process": "img2img",
+        "sampler": "DDIM",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [
           {
-            "hash": "78d4ccffb16c",
-            "name": "loose_tank_top_ilxl_goofy",
+            "name": "shikimori-illu-nvwls-v1-000006",
             "type": "lora",
             "weight": 1
-          },
-          {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
           }
         ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-07T0349:35.2630540Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1975117,
+            "modelVersionName": "v1 (Illustrious v0.1)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1193082,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1027964,
+            "modelVersionName": "trt v0.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 211788,
+            "modelVersionName": "v1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1598431,
+            "modelVersionName": "illust"
+          }
+        ]
       },
-      "username": "Goofy_Ai",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1379960
+        9208,
+        135867,
+        211788,
+        244808,
+        1027964,
+        1193082,
+        1598431,
+        1761560,
+        1975117
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "764|1751865600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=764%7C1751865600000"
+    "nextCursor": "765|1741240869402",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=765%7C1741240869402"
   }
 }
