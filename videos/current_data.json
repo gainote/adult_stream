@@ -1,80 +1,104 @@
 {
   "items": [
     {
-      "id": 94589896,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7af64f90-0144-43e1-b730-79a0b9b9a1ce/original=true/7af64f90-0144-43e1-b730-79a0b9b9a1ce.jpeg",
-      "hash": "UTQu$=Vs*0Vr.7yEtlnNyXjvt7j]t7V?WBRj",
+      "id": 95451597,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36f60f1e-0f36-44a7-8437-6b0264295cfd/original=true/36f60f1e-0f36-44a7-8437-6b0264295cfd.jpeg",
+      "hash": "U4A]d2}r020M^+ELnhWV025SIo}[E2$%Ips,",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-17T00:50:00.000Z",
-      "postId": 20985324,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-20T17:42:00.587Z",
+      "postId": 21171935,
       "stats": {
-        "cryCount": 133,
-        "laughCount": 234,
-        "likeCount": 1889,
+        "cryCount": 137,
+        "laughCount": 198,
+        "likeCount": 1801,
         "dislikeCount": 0,
-        "heartCount": 887,
-        "commentCount": 0
+        "heartCount": 1006,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1206817128,
+        "seed": 1404755317,
         "draft": false,
-        "steps": 25,
+        "steps": 24,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, very aesthetic, realism, blond, cat girl, cat ears, blue eyes, cat tail, narrowed eyes,full face blush, ecstasy, bliss, small breasts, big butt, wide hips, soft skin, deep skin, skindentation, bare breasts, nipples, nude, big eyes, steam breath, horny, \nlooking at viewer, blush, smile, simple background, white background, navel, sitting, green eyes, collarbone, full body, sweat, nude, parted lips, barefoot, pussy, cum, nail polish, orange hair, feet, completely nude, lips, toes, un, anus, cum in pussy, arm support, foreshortening, knees up, toenails, pink nails, after sex, cumdrip, toenail polish, foot focus, after vaginal, cum pool, dynamic pose, depth of field, dynamic angle, adult, aged up",
-        "process": "img2img",
-        "sampler": "Euler a",
-        "cfgScale": 5.5,
+        "prompt": "(score_9, score_8_up, score_7_up), raining, street, nightime, dark,  1 girl, nude, ,, small breast,, , facing viewer, sweating, wet, detailed ,brown eyes, dynamic pose,shiny skin, dynamic angles,  legs, feet, sweat, legs spread,sweat drops, , solo, latex body suit, unzipped, simple background, detailed eyes, dof, depth of field, catwoman , catwoman dc, from below,(realistic, ), abs, pussy,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 3,
         "workflow": "txt2img",
         "baseModel": "Illustrious",
         "resources": [],
         "disablePoi": true,
         "aspectRatio": "13:19",
-        "Created Date": "2025-08-15T1719:59.7199334Z",
+        "Created Date": "2025-08-18T1553:22.6900470Z",
         "experimental": false,
-        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes, extra toes,",
+        "negativePrompt": "(((Young, loli))), (signature:1.3), (deformed hands:1.3), (deformed fingers:1.3),(3D:1.3),  bad anatomy, deformed, , low quality, patreon, extra limbs, (blurry:1.3), , mosaic censorship, censor, tail, , (derpibooru_p_low:1.2), borders, camera filter, mouth,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1761560
+            "modelVersionId": 2010753
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1375651
+            "weight": 0.2,
+            "modelVersionId": 2037983
           },
           {
             "type": "lora",
-            "weight": 0.7,
+            "weight": 0.4,
             "modelVersionId": 1552087
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1020899
+            "weight": 0.4,
+            "modelVersionId": 1240413
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1050644
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1131495
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 240274
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1244133
           }
         ]
       },
-      "username": "nvoleuri",
+      "username": "Lemon39",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1020899,
-        1375651,
+        240274,
+        1050644,
+        1131495,
+        1240413,
+        1244133,
         1552087,
-        1761560
+        2010753,
+        2037983
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "784|1755711720587",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=784%7C1755711720587"
+    "nextCursor": "785|1744925127521",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=785%7C1744925127521"
   }
 }
