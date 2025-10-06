@@ -1,75 +1,93 @@
 {
   "items": [
     {
-      "id": 88085960,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b730a205-0274-4edc-ab30-246d936c7d99/original=true/b730a205-0274-4edc-ab30-246d936c7d99.jpeg",
-      "hash": "UCGuE+xa00R*}sofKObb0yWV~Vofkpoy8{WB",
-      "width": 832,
-      "height": 1216,
+      "id": 66675647,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e120dcc0-bd1d-4815-b07d-5da9903c5e1b/original=true/e120dcc0-bd1d-4815-b07d-5da9903c5e1b.jpeg",
+      "hash": "UEF#%N9FTd~WMzWA-5s;00$%IVD*N{t8X7W;",
+      "width": 1408,
+      "height": 2048,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-15T02:00:00.000Z",
-      "postId": 19540563,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-29T18:55:44.046Z",
+      "postId": 14835011,
       "stats": {
-        "cryCount": 133,
-        "laughCount": 285,
-        "likeCount": 1946,
+        "cryCount": 81,
+        "laughCount": 223,
+        "likeCount": 1853,
         "dislikeCount": 0,
-        "heartCount": 837,
+        "heartCount": 1044,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 546501463,
-        "draft": false,
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, high quality, anime screenshot, cleave gagged, 1girl, solo,  <lora:M4lty:1> m4lty, red hair, ponytail, green eyes, gagged, armored dress, cape, breastplate, faulds, detached sleeves, vambraces, looking at viewer, cleave gag, closed mouth, improvised gag, lipstick, arms above head, hands bound, purple earrings, jewelry, red gemstone, defiant expression, nervous eyes, front view, center shot, pov, hanging from ceiling",
+        "seed": 1456819855,
+        "vaes": [],
+        "extra": {},
+        "steps": 40,
+        "models": [],
+        "prompt": "masterpiece,8k ultra-HD,  high detail, depth of field, (blurred background), (dramatic lighting),masterpiece,  very aesthetic,,realistic,  best quality, \n1girl, bathtub, elf, pointy_ears, ass, nude, twintails, frieren, completely_nude, green_eyes, solo, bathing, bath, looking at viewer, wet, huge ass, partially submerged, water, parted bangs, rubber duck\ncinematic lighting, photorealistic, impressionism (1.5),",
         "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "M4lty",
-            "type": "lora",
-            "weight": 1
-          }
+        "cfgScale": 4,
+        "modelIds": [],
+        "workflow": "img2img-upscale",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
         ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-13T1846:01.4666843Z",
-        "experimental": false,
-        "negativePrompt": "bad quality, worst quality, normal quality, worst detail, lowres, low details, manga, sketch, cleavage,",
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "Female tongue, female tongue out, Neck grab, worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
+            "weight": 1,
+            "modelVersionId": 1240288
           },
           {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1405651,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 959419
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 1036362
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1219983
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1232278
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "asyouwerealways77906",
+      "username": "Big_Master",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1405651,
-        1761560
+        145907,
+        164821,
+        959419,
+        1036362,
+        1219983,
+        1232278,
+        1240288
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "735|1743274544046",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=735%7C1743274544046"
+    "nextCursor": "736|1753423200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=736%7C1753423200000"
   }
 }
