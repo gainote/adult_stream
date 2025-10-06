@@ -1,84 +1,69 @@
 {
   "items": [
     {
-      "id": 86094543,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8376bf52-2b6d-4615-8b08-14e6a536379e/original=true/8376bf52-2b6d-4615-8b08-14e6a536379e.jpeg",
-      "hash": "UQKmOu~qyX.8Ga%M?b%MAD={%M-o?HbHt7JA",
-      "width": 2688,
-      "height": 3840,
+      "id": 70816838,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5625029c-8a43-4621-90ac-0a7b7bd79cd7/original=true/5625029c-8a43-4621-90ac-0a7b7bd79cd7.jpeg",
+      "hash": "U7FrO+9a00^5?^x[0LS~0LNZH@t8xtrYm,oe",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-07-04T00:41:00.000Z",
-      "postId": 19105982,
+      "createdAt": "2025-04-18T11:59:18.239Z",
+      "postId": 15729369,
       "stats": {
-        "cryCount": 117,
-        "laughCount": 241,
-        "likeCount": 1940,
+        "cryCount": 116,
+        "laughCount": 218,
+        "likeCount": 1862,
         "dislikeCount": 0,
-        "heartCount": 881,
-        "commentCount": 1
+        "heartCount": 980,
+        "commentCount": 8
       },
       "meta": {
-        "seed": 620246223,
-        "vaes": [],
-        "extra": {},
-        "steps": 29,
-        "models": [],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, office, desk, solo, 1girl, female focus, lineless, incoth, (incase:0.6), indoors, light blue eyes, nude, small breasts, long black hair, red highlights, elegant ponytail, bracelet, choker, parted bangs, refined, beautiful, kawaii, close up, lying on desk, lying on side,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1408773104,
+        "draft": false,
+        "extra": {
+          "remixOfId": 59877099
+        },
+        "steps": 15,
+        "width": 832,
+        "height": 1216,
+        "prompt": "whimsical 1girl,((( long wavy hair,1,5))), (red ginger hair:1.5), blunt bangs, (blue eyes), voluptuous, pale skin, white pale ,freckles, shy smile, blushing, horny, top down, breast press, ass up, from behind view, ass view, ass focus, pussy, anus, perfect juicy ass, some pubic hair, pussy dripping, pussy wet, dynamic pose, panties down, skirt lifted falling over thighs revealing pussy and ass and panties, solo, full moon on back, wild flowers background, white flowers, pussy, feet, soles, glow, dark, x bound, bdsm, bondage, restrained, bound wrists, bound ankles",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 1,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-04-18T1136:45.5381403Z",
         "civitaiResources": [
           {
+            "type": "checkpoint",
+            "modelVersionId": 1295881,
+            "modelVersionName": "v13.0"
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1612720
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1545543
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1589514
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 1666156,
+            "modelVersionName": "V2 Illustrious XL"
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
+      "username": "Claus21",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        244808,
-        1189052,
-        1545543,
-        1589514,
-        1612720
+        1295881,
+        1666156
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "754|1744977558239",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=754%7C1744977558239"
+    "nextCursor": "755|1724687839584",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=755%7C1724687839584"
   }
 }
