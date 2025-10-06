@@ -1,56 +1,77 @@
 {
   "items": [
     {
-      "id": 7606464,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c772feb5-20b7-4adb-9b19-c73c623d2ec2/original=true/c772feb5-20b7-4adb-9b19-c73c623d2ec2.jpeg",
-      "hash": "U4Hw+Hoz0po~00t7X.R*00nhxZV@~Bv},.ax",
-      "width": 832,
-      "height": 1216,
+      "id": 90766876,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f107184b-f9a4-4deb-80d5-245ae0523d68/original=true/f107184b-f9a4-4deb-80d5-245ae0523d68.jpeg",
+      "hash": "U7I}ksvK}+8{20xG4Tvf00^*IBR50M00}=?b",
+      "width": 1216,
+      "height": 832,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-11-01T22:21:38.898Z",
-      "postId": 1647517,
+      "createdAt": "2025-07-27T11:17:15.367Z",
+      "postId": 20129165,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 264,
-        "likeCount": 1879,
+        "cryCount": 258,
+        "laughCount": 381,
+        "likeCount": 1804,
         "dislikeCount": 0,
-        "heartCount": 931,
-        "commentCount": 0
+        "heartCount": 758,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 706259669,
+        "Size": "1216x832",
+        "seed": 1068375612,
+        "draft": false,
         "steps": 30,
-        "prompt": "Nami, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, pov, huge dick, missionary, expressive, anime, cartoon, hearts, speedlines, dynamic",
-        "sampler": "DPM2 a",
-        "cfgScale": 4,
+        "width": 1216,
+        "height": 832,
+        "prompt": "masterpiece, best quality, newest, absurdres, pixelsketcher, very awa, newest, \n{1femboy, 20 years old, elf, drow, gray skin, white hair, short boyish haircut, tall, slim, androgynous, small erect penis, sexy, hot, fit body, (slim fit), wet skin, hard cock, sexy thighs, thick thighs}, \npose, horny, blushing, seductive:1.6, nude, \nanal dildo masturbation, orgasm expression, open mouth, spreads legs, tongue, cumming,\ndetailed background, outdoors, beach",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome, mate colors",
+        "disablePoi": true,
+        "aspectRatio": "19:13",
+        "Created Date": "2025-07-27T1113:45.9521404Z",
+        "experimental": false,
+        "negativePrompt": "ai-artifatcts, worst quality, old, early, loli, futa, low quality, lowres, signature, username, logo, bad hands, mutated hands, artist name, sketch,  bad eyes, blurry eyes, bad face,\n((watermark)), logo, patreon username:1.6, text, bad details, \n(((childlike))), (((childish))), (((minor))),(people in background), speech bubble, tan lines, (female breasts), deformed, pussy, vagina:1.6, girl:1.6, detached penis, conjoined penises, detached limbs, detached head, piercing,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
           },
           {
             "type": "lora",
-            "weight": 1.75,
-            "modelVersionId": 380329
+            "weight": 0.3,
+            "modelVersionId": 1179962,
+            "modelVersionName": "bonifasko"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1277586,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "jspp3733410",
-      "baseModel": "Pony",
+      "username": "goonisher228",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640
+        1179962,
+        1277586,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "733|1753615035367",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=733%7C1753615035367"
+    "nextCursor": "734|1752544800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=734%7C1752544800000"
   }
 }
