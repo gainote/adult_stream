@@ -1,73 +1,112 @@
 {
   "items": [
     {
-      "id": 78439054,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f49859f-a280-427a-983a-5c35798e016b/original=true/5f49859f-a280-427a-983a-5c35798e016b.jpeg",
-      "hash": "UWLfzP?G.moyO?WVO@S#5SV@NGWANHj@bvj[",
+      "id": 34914258,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1d2a1aab-cb95-4577-99e8-1940ae3827a8/original=true/1d2a1aab-cb95-4577-99e8-1940ae3827a8.jpeg",
+      "hash": "UTGI7a?H%N%L~q%M%M%M-;ozMxtR%Mt7s:s:",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-27T09:00:00.000Z",
-      "postId": 17424270,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-17T13:20:00.000Z",
+      "postId": 7979860,
       "stats": {
-        "cryCount": 126,
-        "laughCount": 241,
-        "likeCount": 1878,
+        "cryCount": 138,
+        "laughCount": 268,
+        "likeCount": 1780,
         "dislikeCount": 0,
-        "heartCount": 908,
-        "commentCount": 0
+        "heartCount": 967,
+        "commentCount": 42
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1409555970,
-        "steps": 20,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, disney animation, solo female, \nimtdcalineb, 1girl, freckles, green eyes, aqua eyes, orange hair, red hair, short hair, single hair bun, eyelashes, medium breast,\n<lora:Disney_Animation_v5-V7:1> \njewelry, lipstick, lingerie, fishnet lingerie, sexy, large breasts, cleavage, beautiful, detailed, high detailed, very beautiful, detailed face, detailed eyes, detailed hand, beach, outside, smile, smiling, naughty face, on all fours, pose, seducing, on bed, looking at viewer, face focus",
+        "seed": 3185169858,
+        "steps": 50,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, semi realistic, cinematic lightings, full body in frame, volumetric lighting, raytracing, shining glossy skin, soft lighting, realistic skin, blum effect, masterpiece, absolutely eye-catching,\nBREAK\n1girl, 20 years old, hourglass body, feet, long hair, multicolored hair, pink hair, green hair, green eyes, (detailed eyes), (detailed facial features), lipstick, makeup, anime, (puffy pussy:1.2), detailed face, beautiful face, black chocker, lingerie, micro lingerie, breasts exposed, thighhighs, stockings, high heels, seductive, scdgirl, tattoo, arm tattoo, leg tattoo, nipple piercing, navel piercing, round breasts, breasts together, cleavage, Expressiveh, pose, sexy, dynamic angle, naked, oiled, slick, lotion, lotion drip, sweaty, wet, tan lines, detailed sweat drops, goosebumps, excessive sweat, ((underboob, from below)), looking down, ((close up)), ((breast closeup)), look at the viewer, naughty face, (focus on breasts), (((close shot of tits:1.3, tits focused:1.2))),",
         "sampler": "Euler a",
-        "cfgScale": 3,
+        "cfgScale": 5,
         "clipSkip": 2,
-        "resources": [
-          {
-            "name": "Disney_Animation_v5-V7",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-05-25T1656:33.0623893Z",
-        "negativePrompt": "worst quality, low quality, bad quality, (watermark, signature), navel,",
+        "resources": [],
+        "Created Date": "2024-10-16T1428:35.5834377Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, muscular hands, futa, futanari, furry, shoes, horse, animal, text,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1416874,
-            "modelVersionName": "v1"
+            "weight": 0.1,
+            "modelVersionId": 573095,
+            "modelVersionName": "Pony v1.4"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1194453,
-            "modelVersionName": "Default"
+            "weight": 1.6,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 532934,
+            "modelVersionName": "v3.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Geneker",
-      "baseModel": "Illustrious",
+      "username": "PervyCat",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1194453,
-        1410435,
-        1416874
+        9208,
+        135867,
+        290640,
+        330475,
+        382152,
+        436219,
+        532934,
+        573095
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "775|1729171200000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=775%7C1729171200000"
+    "nextCursor": "776|1756407540000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=776%7C1756407540000"
   }
 }
