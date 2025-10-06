@@ -1,69 +1,89 @@
 {
   "items": [
     {
-      "id": 70816838,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5625029c-8a43-4621-90ac-0a7b7bd79cd7/original=true/5625029c-8a43-4621-90ac-0a7b7bd79cd7.jpeg",
-      "hash": "U7FrO+9a00^5?^x[0LS~0LNZH@t8xtrYm,oe",
+      "id": 26257486,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/50044cdd-c2ea-4726-af84-8b66a19e188d/original=true/50044cdd-c2ea-4726-af84-8b66a19e188d.jpeg",
+      "hash": "UDDlc=~qx^Mx4mRiNFNH0zRjnNS4D%IoIpt7",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-04-18T11:59:18.239Z",
-      "postId": 15729369,
+      "createdAt": "2024-08-26T15:57:19.584Z",
+      "postId": 5869138,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 218,
-        "likeCount": 1862,
+        "cryCount": 62,
+        "laughCount": 292,
+        "likeCount": 1765,
         "dislikeCount": 0,
-        "heartCount": 980,
-        "commentCount": 8
+        "heartCount": 1056,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1408773104,
-        "draft": false,
-        "extra": {
-          "remixOfId": 59877099
-        },
-        "steps": 15,
-        "width": 832,
-        "height": 1216,
-        "prompt": "whimsical 1girl,((( long wavy hair,1,5))), (red ginger hair:1.5), blunt bangs, (blue eyes), voluptuous, pale skin, white pale ,freckles, shy smile, blushing, horny, top down, breast press, ass up, from behind view, ass view, ass focus, pussy, anus, perfect juicy ass, some pubic hair, pussy dripping, pussy wet, dynamic pose, panties down, skirt lifted falling over thighs revealing pussy and ass and panties, solo, full moon on back, wild flowers background, white flowers, pussy, feet, soles, glow, dark, x bound, bdsm, bondage, restrained, bound wrists, bound ankles",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 1,
+        "seed": 4221635412,
+        "steps": 29,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, gorgeous girl , kawai girl , cute face, cute girl, blushing, long black  hair, large perky breasts, cleavage, wardrobe malfunction, (((nipples))), wearing karate uniform , standing, make fist, (karate uniform), pant, karate black belt, perfect lighting, japanese room , dark background , closeup , breast focus, surrounded by crowd , students , boys blushing , exhibitionism",
+        "sampler": "Euler a",
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-04-18T1136:45.5381403Z",
+        "Created Date": "2024-08-23T1905:17.4945360Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1295881,
-            "modelVersionName": "v13.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 1666156,
-            "modelVersionName": "V2 Illustrious XL"
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "Claus21",
+      "username": "hornystoryteller",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1295881,
-        1666156
+        9208,
+        239420,
+        290640,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "755|1724687839584",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=755%7C1724687839584"
+    "nextCursor": "756|1748253381669",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=756%7C1748253381669"
   }
 }
