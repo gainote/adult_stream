@@ -1,104 +1,155 @@
 {
   "items": [
     {
-      "id": 95451597,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36f60f1e-0f36-44a7-8437-6b0264295cfd/original=true/36f60f1e-0f36-44a7-8437-6b0264295cfd.jpeg",
-      "hash": "U4A]d2}r020M^+ELnhWV025SIo}[E2$%Ips,",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 70366223,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0af4af5d-f42c-4fa9-9d21-d1d1a22117a3/original=true/0af4af5d-f42c-4fa9-9d21-d1d1a22117a3.jpeg",
+      "hash": "U7EL2M5P00~E57W;^-W=00xb%g9YEjwMD#s;",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-20T17:42:00.587Z",
-      "postId": 21171935,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-17T21:25:27.521Z",
+      "postId": 15632426,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 198,
-        "likeCount": 1801,
+        "cryCount": 119,
+        "laughCount": 224,
+        "likeCount": 1903,
         "dislikeCount": 0,
-        "heartCount": 1006,
+        "heartCount": 893,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1404755317,
-        "draft": false,
-        "steps": 24,
+        "nsfw": true,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1224788@1379960",
+        "extra": {
+          "remixOfId": 67732166
+        },
+        "steps": 40,
         "width": 832,
         "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up), raining, street, nightime, dark,  1 girl, nude, ,, small breast,, , facing viewer, sweating, wet, detailed ,brown eyes, dynamic pose,shiny skin, dynamic angles,  legs, feet, sweat, legs spread,sweat drops, , solo, latex body suit, unzipped, simple background, detailed eyes, dof, depth of field, catwoman , catwoman dc, from below,(realistic, ), abs, pussy,",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 3.5,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1224788@1379960"
+        ],
+        "prompt": "masterpiece, best quality, very aesthetic, absurdres, (((masterpiece,amazing quality,best quality,ultra-detailed,8K,illustration, amazing quality, newest, absurdres, realistic))),  \nscore_9_up,score_8_up,\nBREAK, brown hair, brown eyes, blush,small breasts, ponytail, on pink bed, pink bed, slim, petite, young, ((slim girl:1.2)), white choker, lying on bed, calm, spread legs, girl in center of frame, smug, ((solo)), half closed eyes, white lingerie, sitting on armchair, crossed legs, ((feet focus)), head on arm, elbow on armchair armrest, BREAK 1girl,nude, (white stockings), indoor background, view from below pussy, looking down, professional lighting, , Photorealistic, source_real, 8k, night, blurry background, sharp focus,",
+        "denoise": 0.55,
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
         "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
         "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-18T1553:22.6900470Z",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/DT8HN34NRCCY7QWKN03XTK92J0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
         "experimental": false,
-        "negativePrompt": "(((Young, loli))), (signature:1.3), (deformed hands:1.3), (deformed fingers:1.3),(3D:1.3),  bad anatomy, deformed, , low quality, patreon, extra limbs, (blurry:1.3), , mosaic censorship, censor, tail, , (derpibooru_p_low:1.2), borders, camera filter, mouth,",
+        "negativePrompt": "bad quality, worst quality, worst detail, censor, bad anatomy,",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1379960
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1379960
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1141520
+          },
+          {
+            "weight": 0.4,
+            "modelVersionId": 1157361
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1375651
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1582690
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 2010753
+            "modelVersionId": 1379960
           },
           {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 2037983
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1552087
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1240413
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1050644
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1131495
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 240274
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 1244133
+            "modelVersionId": 1141520
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1157361
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1375651
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1582690
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1018079@1141520",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1031927@1157361",
+            "type": "lora",
+            "strength": 0.4,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1221007@1375651",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1400090@1582690",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Lemon39",
+      "username": null,
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        240274,
-        1050644,
-        1131495,
-        1240413,
-        1244133,
-        1552087,
-        2010753,
-        2037983
+        164821,
+        1141520,
+        1157361,
+        1375651,
+        1379960,
+        1582690
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "785|1744925127521",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=785%7C1744925127521"
+    "nextCursor": "786|1742408927122",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=786%7C1742408927122"
   }
 }
