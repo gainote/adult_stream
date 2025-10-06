@@ -1,92 +1,113 @@
 {
   "items": [
     {
-      "id": 78465287,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72aadd29-0282-4bde-aaed-d81b10b59b27/original=true/72aadd29-0282-4bde-aaed-d81b10b59b27.jpeg",
-      "hash": "URHenOIA0zt-p{Mdt6b^IUIT-pn$s9M{s.sl",
-      "width": 1280,
-      "height": 1856,
+      "id": 97909509,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c74c053a-6c1b-4fa0-aeb7-bf4c7c5e9269/original=true/c74c053a-6c1b-4fa0-aeb7-bf4c7c5e9269.jpeg",
+      "hash": "UED+J9~VozJA?a?HNHRkEN?Gt6RjIU9aV@IV",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-05-26T00:41:00.000Z",
-      "postId": 17429447,
+      "createdAt": "2025-09-02T09:24:00.000Z",
+      "postId": 21722647,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 259,
-        "likeCount": 1843,
+        "cryCount": 122,
+        "laughCount": 214,
+        "likeCount": 1969,
         "dislikeCount": 0,
-        "heartCount": 975,
-        "commentCount": 0
+        "heartCount": 887,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 803958684,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 25,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "official art, masterpiece, best quality, personal_ami,\nelf girl, short girl, nude, slim,\n tsurime eyes, sharp eyes, red eyes, dark blue hair, double buns, blunt bangs, wading, lake, butt, looking back, rear view, faceless male, male pov, view from above, grabbing ass, ass focus, ass spread, penis,",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "ng_deepnegative_v1_75t, monocrome, anime, big head, low res, worst quality, bad quality, bad anatomy, censored, mosaic, text, logo, extra fingers, clone, futa, blurred eyes, undetailed eyes, (jpeg artifacts), ugly face, out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, bad art, sign, amateur, extra limbs, dull colours, lacklustre, poorly drawn, bad art, text, bad quality eyes, bad anatomy, abominations, more than 2 legs, large breasts,",
+        "Size": "832x1216",
+        "seed": 1966788075,
+        "draft": false,
+        "extra": {
+          "remixOfId": 97773354
+        },
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "lazypos, masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting), masterpiece, best quality, very aesthetic, 8k, realistic, simple_background, (medieval tavern) half close-up, sexy pose,\nblushing, small head, pretty girl, white hair, half-up hairstyle, red lipstick, black eyeliner, blue eyes, seductive smile, wearing soft jacket, dark cloth, puffy, flowing, puffy pink nipples, ((slim body)), (pert breasts), medium breasts, Dynamic angle, sexy pose, ear piercings, portrait, girl, black garter belt and stockings, holding a glass of wine, looking at viewer, wet skin",
+        "process": "txt2img",
+        "sampler": "Euler",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-02T0723:13.4432899Z",
+        "experimental": false,
+        "negativePrompt": "lazyneg, Female tongue, female tongue out, Neck grab, worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
         "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1477753
-          },
           {
             "type": "checkpoint",
             "modelVersionId": 1240288
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 145907
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1477753
-          }
-        ],
-        "additionalResources": [
+            "weight": 0.45,
+            "modelVersionId": 959419
+          },
           {
-            "name": "urn:air:sdxl:lora:civitai:1309467@1477753",
             "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 0.9,
+            "modelVersionId": 1036362
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.5,
+            "modelVersionId": 1219983
+          },
+          {
+            "type": "lora",
+            "weight": 1.35,
+            "modelVersionId": 1268294
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 2121199
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1833157
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 2110071
           }
         ]
       },
-      "username": "ElvishDreams",
+      "username": "OddlyGee",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
+        145907,
+        959419,
+        1036362,
+        1219983,
         1240288,
-        1477753
+        1268294,
+        1833157,
+        2110071,
+        2121199
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "742|1756805040000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=742%7C1756805040000"
+    "nextCursor": "743|1729055500196",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=743%7C1729055500196"
   }
 }
