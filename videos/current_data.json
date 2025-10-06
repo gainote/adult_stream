@@ -1,70 +1,112 @@
 {
   "items": [
     {
-      "id": 64929811,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89e10e8b-62f1-4e80-b8bc-69986a2244db/original=true/89e10e8b-62f1-4e80-b8bc-69986a2244db.jpeg",
-      "hash": "UIEVmB~p?GE1%#.8IpE1?bI=%1V@9axtofxt",
-      "width": 816,
+      "id": 38514841,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/602b3500-981a-4bc5-bfdb-6b42ee7b8900/original=true/602b3500-981a-4bc5-bfdb-6b42ee7b8900.jpeg",
+      "hash": "U3Kb,gI904-;1kWU0$wb00%M}+nN^,w[t6bJ",
+      "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-21T17:19:59.162Z",
-      "postId": 14466991,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-05T17:08:42.954Z",
+      "postId": 8791348,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 194,
-        "likeCount": 1917,
+        "cryCount": 121,
+        "laughCount": 223,
+        "likeCount": 1815,
         "dislikeCount": 0,
-        "heartCount": 977,
-        "commentCount": 0
+        "heartCount": 1025,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "816x1216",
-        "seed": 1571585096,
-        "Model": "autismmixSDXL_autismmixPony.safetensors",
-        "steps": 25,
-        "hashes": {
-          "model": "821aa5537f",
-          "embed:lazydn": "36c19a142a",
-          "embed:lazyup": "2d56e88bd2",
-          "embed:lazympos": "3a5c2a561b",
-          "lora:TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL": "60b4fd5e4d"
-        },
-        "prompt": "embedding:lazyup, embedding:lazympos, source_anime,1girl, blonde hair, long hair, \nblack leggings, textured leggings,\nass, outdoors, bent over, <lora:TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL:0.5>",
+        "Size": "832x1216",
+        "seed": 102014799,
+        "steps": 50,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_anime, BREAK, 1girl, samus aran, perfect body,,  blush, pose, moaning, (wet body, sweat, wet, perfect ratio proportioned face, hourglass body, perfect waist to hip ratio, perfect female body, glossy skin, glossy body, oiled body, oiled skin, wet body, deep skin, sweat), BREAK\n pose, choker, , oiled, laying on side, , sexy, pose, saliva, hearts\n, 1 boy, missionary sex, male pov, looking a viewer",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 6.5,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-11-05T0927:33.2094257Z",
+        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, no extra legs, no extra arms,",
+        "civitaiResources": [
           {
-            "hash": "60b4fd5e4d",
-            "name": "TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL",
-            "type": "lora",
-            "weight": 0.5
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "821aa5537f",
-            "name": "autismmixSDXL_autismmixPony.safetensors",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 438417,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 348611,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "821aa5537f",
-        "negativePrompt": "embedding:lazydn"
+        ]
       },
-      "username": "janxd",
+      "username": "daadsad",
       "baseModel": "Pony",
       "modelVersionIds": [
-        324619,
-        1473187,
-        1473204,
-        1557746,
-        1558647
+        9208,
+        244808,
+        290640,
+        348611,
+        382152,
+        398847,
+        436219,
+        438417
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "749|1730826522954",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=749%7C1730826522954"
+    "nextCursor": "750|1752755700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=750%7C1752755700000"
   }
 }
