@@ -1,77 +1,75 @@
 {
   "items": [
     {
-      "id": 90766876,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f107184b-f9a4-4deb-80d5-245ae0523d68/original=true/f107184b-f9a4-4deb-80d5-245ae0523d68.jpeg",
-      "hash": "U7I}ksvK}+8{20xG4Tvf00^*IBR50M00}=?b",
-      "width": 1216,
-      "height": 832,
+      "id": 88085960,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b730a205-0274-4edc-ab30-246d936c7d99/original=true/b730a205-0274-4edc-ab30-246d936c7d99.jpeg",
+      "hash": "UCGuE+xa00R*}sofKObb0yWV~Vofkpoy8{WB",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-27T11:17:15.367Z",
-      "postId": 20129165,
+      "createdAt": "2025-07-15T02:00:00.000Z",
+      "postId": 19540563,
       "stats": {
-        "cryCount": 258,
-        "laughCount": 381,
-        "likeCount": 1804,
+        "cryCount": 133,
+        "laughCount": 285,
+        "likeCount": 1946,
         "dislikeCount": 0,
-        "heartCount": 758,
+        "heartCount": 837,
         "commentCount": 1
       },
       "meta": {
-        "Size": "1216x832",
-        "seed": 1068375612,
+        "Size": "832x1216",
+        "seed": 546501463,
         "draft": false,
-        "steps": 30,
-        "width": 1216,
-        "height": 832,
-        "prompt": "masterpiece, best quality, newest, absurdres, pixelsketcher, very awa, newest, \n{1femboy, 20 years old, elf, drow, gray skin, white hair, short boyish haircut, tall, slim, androgynous, small erect penis, sexy, hot, fit body, (slim fit), wet skin, hard cock, sexy thighs, thick thighs}, \npose, horny, blushing, seductive:1.6, nude, \nanal dildo masturbation, orgasm expression, open mouth, spreads legs, tongue, cumming,\ndetailed background, outdoors, beach",
-        "process": "txt2img",
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, high quality, anime screenshot, cleave gagged, 1girl, solo,  <lora:M4lty:1> m4lty, red hair, ponytail, green eyes, gagged, armored dress, cape, breastplate, faulds, detached sleeves, vambraces, looking at viewer, cleave gag, closed mouth, improvised gag, lipstick, arms above head, hands bound, purple earrings, jewelry, red gemstone, defiant expression, nervous eyes, front view, center shot, pov, hanging from ceiling",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 2,
         "workflow": "txt2img",
         "baseModel": "Illustrious",
-        "resources": [],
+        "resources": [
+          {
+            "name": "M4lty",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
         "disablePoi": true,
-        "aspectRatio": "19:13",
-        "Created Date": "2025-07-27T1113:45.9521404Z",
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-13T1846:01.4666843Z",
         "experimental": false,
-        "negativePrompt": "ai-artifatcts, worst quality, old, early, loli, futa, low quality, lowres, signature, username, logo, bad hands, mutated hands, artist name, sketch,  bad eyes, blurry eyes, bad face,\n((watermark)), logo, patreon username:1.6, text, bad details, \n(((childlike))), (((childish))), (((minor))),(people in background), speech bubble, tan lines, (female breasts), deformed, pussy, vagina:1.6, girl:1.6, detached penis, conjoined penises, detached limbs, detached head, piercing,",
+        "negativePrompt": "bad quality, worst quality, normal quality, worst detail, lowres, low details, manga, sketch, cleavage,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1179962,
-            "modelVersionName": "bonifasko"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1277586,
+            "weight": 1,
+            "modelVersionId": 1405651,
             "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "goonisher228",
+      "username": "asyouwerealways77906",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1179962,
-        1277586,
-        1490781
+        1405651,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "734|1752544800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=734%7C1752544800000"
+    "nextCursor": "735|1743274544046",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=735%7C1743274544046"
   }
 }
