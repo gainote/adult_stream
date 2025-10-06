@@ -1,112 +1,95 @@
 {
   "items": [
     {
-      "id": 38514841,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/602b3500-981a-4bc5-bfdb-6b42ee7b8900/original=true/602b3500-981a-4bc5-bfdb-6b42ee7b8900.jpeg",
-      "hash": "U3Kb,gI904-;1kWU0$wb00%M}+nN^,w[t6bJ",
+      "id": 88784264,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b0dce87-8608-42eb-a3b4-0b3aa70800d5/original=true/4b0dce87-8608-42eb-a3b4-0b3aa70800d5.jpeg",
+      "hash": "UHK,snpcUH-U0~I:4;n40f8{#,?Ht8R5s;t6",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-05T17:08:42.954Z",
-      "postId": 8791348,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-17T12:35:00.000Z",
+      "postId": 19695462,
       "stats": {
-        "cryCount": 121,
-        "laughCount": 223,
-        "likeCount": 1815,
+        "cryCount": 92,
+        "laughCount": 206,
+        "likeCount": 1984,
         "dislikeCount": 0,
-        "heartCount": 1025,
-        "commentCount": 2
+        "heartCount": 901,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 102014799,
-        "steps": 50,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_anime, BREAK, 1girl, samus aran, perfect body,,  blush, pose, moaning, (wet body, sweat, wet, perfect ratio proportioned face, hourglass body, perfect waist to hip ratio, perfect female body, glossy skin, glossy body, oiled body, oiled skin, wet body, deep skin, sweat), BREAK\n pose, choker, , oiled, laying on side, , sexy, pose, saliva, hearts\n, 1 boy, missionary sex, male pov, looking a viewer",
-        "sampler": "Euler a",
-        "cfgScale": 6.5,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1353314@1984137",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1353314@1984137"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\n\nblonde braid,\n(smooth skin:0.8),\n\nsea,\n(hand breasts:1.1),\nsmile,\npanties,\ncameltoe,\n(freckles:0.5),\n(messy hairs:0.8),\nhigh angle,\n",
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-11-05T0927:33.2094257Z",
-        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, no extra legs, no extra arms,",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "upscalers": [],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/212431330601366418452463140147480683536.jpg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed), bestiality",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1984137
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1976924
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1984137
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
+            "weight": 0.8,
+            "modelVersionId": 1976924
+          }
+        ],
+        "additionalResources": [
           {
+            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 438417,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 348611,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "strength": 0.8,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "daadsad",
-      "baseModel": "Pony",
+      "username": "vovkkabanko",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        348611,
-        382152,
-        398847,
-        436219,
-        438417
+        1976924,
+        1984137
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "750|1752755700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=750%7C1752755700000"
+    "nextCursor": "751|1729012661874",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=751%7C1729012661874"
   }
 }
