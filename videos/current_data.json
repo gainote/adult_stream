@@ -1,78 +1,77 @@
 {
   "items": [
     {
-      "id": 34764866,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1bbcee78-e08a-4114-aad0-9cb9493458b7/original=true/1bbcee78-e08a-4114-aad0-9cb9493458b7.jpeg",
-      "hash": "UdL:vKMx*J$i5BR%NyWEv$i^n4Ny.7r=oIWY",
+      "id": 89821021,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e41ad032-0cdf-4ca8-9961-848590938fa6/original=true/e41ad032-0cdf-4ca8-9961-848590938fa6.jpeg",
+      "hash": "UBG*g1S%?]?H0L%h01Z~14-;,.9a?^x]^jnN",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-15T17:17:41.874Z",
-      "postId": 7944283,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-04T00:23:00.000Z",
+      "postId": 19923235,
       "stats": {
-        "cryCount": 126,
-        "laughCount": 297,
-        "likeCount": 1804,
+        "cryCount": 179,
+        "laughCount": 225,
+        "likeCount": 1950,
         "dislikeCount": 0,
-        "heartCount": 955,
-        "commentCount": 62
+        "heartCount": 827,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3149354247,
-        "extra": {
-          "remixOfId": 28214254
-        },
-        "steps": 30,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, austr, anime, 1girl, makima, yellow ringed eyes, naked, freckles, perfect face, detailed eyes, perfect eyes, sexy, sexy girl, beautiful eyes, perfect cute face, petite body, round ass, large saggy breasts, arched back, crying, screaming, girl getting fucked from behind, 1boy, large penis, sex, penetration, doggystyle, hair grab, (view from side), beach background, soft shading, clean lines",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "seed": 1451077215,
+        "draft": false,
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, (very lewd look), caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, smaller natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-10-15T1704:05.2845525Z",
-        "negativePrompt": "score_5, score_4, score_3, ugly, fat",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-22T1609:43.6619033Z",
+        "experimental": false,
+        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 958674,
-            "modelVersionName": "AUSTR v1.0"
+            "weight": 0.85,
+            "modelVersionId": 1189052,
+            "modelVersionName": "Illustrious"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1416874,
+            "modelVersionName": "[illustrious]"
           }
         ]
       },
-      "username": "blacksnowskill",
-      "baseModel": "Pony",
+      "username": "bm609",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        958674
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "752|1754266980000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=752%7C1754266980000"
+    "nextCursor": "753|1751589660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=753%7C1751589660000"
   }
 }
