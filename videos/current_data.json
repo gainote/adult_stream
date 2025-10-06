@@ -1,84 +1,81 @@
 {
   "items": [
     {
-      "id": 29352370,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/32db4115-0a16-41a2-a102-d731155198d3/original=true/32db4115-0a16-41a2-a102-d731155198d3.jpeg",
-      "hash": "UEAmbc?Z4:D*~otQD*M|o#RkM{S1xun*R%WV",
+      "id": 101749019,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/69e1768f-3c24-4249-af43-9611ef38af8e/original=true/69e1768f-3c24-4249-af43-9611ef38af8e.jpeg",
+      "hash": "U7H-fGR4Gt00159G%~xv?b%2M{}@u40z$$-o",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-09-15T07:45:00.000Z",
-      "postId": 6567442,
+      "createdAt": "2025-09-22T15:07:00.000Z",
+      "postId": 22572073,
       "stats": {
-        "cryCount": 108,
-        "laughCount": 227,
-        "likeCount": 1861,
+        "cryCount": 132,
+        "laughCount": 218,
+        "likeCount": 1916,
         "dislikeCount": 0,
-        "heartCount": 941,
-        "commentCount": 0
+        "heartCount": 865,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1433565388,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, flat color, dark theme, g4n1m3, comicbookpage style,\n1girl, tribal girl, jungle, naked, sitting against tree, dark skin, dark nipples, , pubic hair, holding spear",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "Model": "urn:air:sdxl:checkpoint:civitai:131986@1945419",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:131986@1945419"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality,\n\ndetailed anatomy,\n\n(cell shading:0.9),\ngray background,\naccurate lines,\nsmooth skin,\n\nspread legs,\ninnie pussy,\nselfie,\none breast out,\nlong hairs,\nparted lips,\n\n\n\n",
+        "denoise": 0.05,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-14T0035:24.6553845Z",
-        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, child, kid, chibi, oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), flat chested, (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist, earrings, gorget,",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/54302979996561408844100935333646996323.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuSCVOrCv-azjVpiQ-v-Xuk_wecdEQpER7BbIaEaH278YQ4dM23LBnipI1zmGFGiruTaDK07Qt9yIHNghxcG7mVvQyO7W772UExrSH83wUVOZmZJ_N_bP-HbG2J_dpGr2yfRlRHWK_ObuSb6H924UybSe4hhfIvMqHaUSB6kxEryPVD0Qa77TAmuuIGBQLJVWEZ_OjWAPSFkwVfWF5bBCY9rhPsoz9-Axc5sDqno0LnxSZWJwLD3a-zk3VKYntofQeE-QhINy8ROwJSn1XokwfdjYGQtG-gw4UaY9zqnHWIv8A&exp=2026-09-22T06:27:09.2278391Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "censor, censored, monochrome, watermark, artist name, bestiality,\n",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 706363,
-            "modelVersionName": "v5.2"
+            "modelVersionId": 1945419
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 481798,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 501154,
-            "modelVersionName": "Gothic Retro Anime v1.0"
+            "weight": 0.35,
+            "modelVersionId": 1976924
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 514793,
-            "modelVersionName": "comicbookpage v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "modelVersionId": 2234776
           }
         ]
       },
-      "username": "DLT8K",
-      "baseModel": "Pony",
+      "username": "vovkkabanko",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        481798,
-        501154,
-        514793,
-        706363
+        1945419,
+        1976924,
+        2234776
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "788|1758553620000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=788%7C1758553620000"
+    "nextCursor": "789|1736699747067",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=789%7C1736699747067"
   }
 }
