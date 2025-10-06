@@ -1,114 +1,56 @@
 {
   "items": [
     {
-      "id": 99227698,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/740a54bc-492f-4046-beff-ec54d8788a5a/original=true/740a54bc-492f-4046-beff-ec54d8788a5a.jpeg",
-      "hash": "UPM$-z?b4.%K?]%NOX-;?H?b%2WC%$JUI;o#",
-      "width": 1008,
-      "height": 1760,
-      "nsfwLevel": "Mature",
+      "id": 84338367,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1210169-47d1-4de6-b37c-a6d2727f5d0e/original=true/f1210169-47d1-4de6-b37c-a6d2727f5d0e.jpeg",
+      "hash": "UHINaInipI%M~qa$%Lx]Ne%MIUofxaX8D%ni",
+      "width": 1536,
+      "height": 2304,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-09T01:48:10.738Z",
-      "postId": 22016540,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-24T23:55:00.000Z",
+      "postId": 18721113,
       "stats": {
-        "cryCount": 138,
-        "laughCount": 232,
-        "likeCount": 1989,
+        "cryCount": 104,
+        "laughCount": 231,
+        "likeCount": 1830,
         "dislikeCount": 0,
-        "heartCount": 828,
-        "commentCount": 0
+        "heartCount": 1022,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "672x1176",
-        "seed": 68539030,
-        "Model": "waiNSFWIllustrious_v150",
-        "steps": 27,
+        "Size": "2305x1537",
+        "seed": 909979062918813,
+        "Model": "A-mix",
+        "steps": 30,
         "hashes": {
-          "model": "befc694a29",
-          "lora:0__11Xx": "50ba8bbe485f",
-          "lora:mon_monmon2133": "9dcf6d165d08",
-          "lora:ppw_v8_noobVpredv1_1_128": "8279aebd6de4",
-          "lora:illustrious_best_quality_v1": "b2861f71ebf6",
-          "lora:illustriousXL_stabilizer_v1.23": "7514c36d93bc",
-          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "5256ee0c312f"
+          "model": "b199b92ee9"
         },
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, newest, incredibly absurdres, ultra detailed, 8k, HDR, High quality digital art, official art, advertising style, detailed background,\ncheerleader, on one knee, panty shot, foreground, knee, red and white uniform, \nmedium breasts, underboob, bouncing breasts,\nStomach, navel, pom-poms,\nblonde ponytail, sun visor,\nBrown eyes, :d, looking at viewer\nBREAK\npainting \\(medium\\), cinematic lighting, ambient occlusion, dynamic composition, foreshortening,\nschoolyard, Ginkgo, fallen leaves, soft sunlight, depth of field, bokeh,",
-        "Version": "f1.0.0v2-v1.10.1RC-latest-2454-g9086b215",
-        "sampler": "Euler a",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
+        "prompt": "1girl, hetero, 1boy, oral, breasts, fellatio, large penis, nipples, nude, kneeling, medium breasts, mixed-sex bathing, barefoot, closed eyes, hands on another's head, completely nude, indoors, shared bathing, wet, from side, short hair, standing, pubic hair, erection, bathroom, brown hair, showering, , male pubic hair, , hand on another's head, , solo focus, backlighting, testicles, irrumatio, navel, deepthroat, seiza,  water, window, sitting, black hair, shower \\(place\\), full body, head grab, masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral",
+        "CFG Scale": "6.0",
         "resources": [
           {
-            "hash": "b2861f71ebf6",
-            "name": "illustrious_best_quality_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "8279aebd6de4",
-            "name": "ppw_v8_noobVpredv1_1_128",
-            "type": "lora"
-          },
-          {
-            "hash": "DA259DF60E36",
-            "name": "NOOB_vp1_detailer_by_volnovik_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "7514c36d93bc",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora"
-          },
-          {
-            "hash": "9dcf6d165d08",
-            "name": "mon_monmon2133",
-            "type": "lora"
-          },
-          {
-            "hash": "50ba8bbe485f",
-            "name": "0__11Xx",
-            "type": "lora"
-          },
-          {
-            "hash": "5256ee0c312f",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora"
-          },
-          {
-            "hash": "befc694a29",
-            "name": "waiNSFWIllustrious_v150",
+            "hash": "b199b92ee9",
+            "name": "A-mix",
             "type": "model"
           }
         ],
-        "Model hash": "befc694a29",
-        "Hires steps": "14",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "lowres, bad quality, worst quality, bad anatomy, bad hands, sketch, jpeg artifacts, text, signature, censor, shiny skin,",
-        "Hires CFG Scale": "7",
-        "Denoising strength": "0.45",
-        "Token merging ratio": "0.2",
-        "Token merging ratio hr": "0.2"
+        "Model hash": "b199b92ee9",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "kuronekoAI",
+      "username": "phinjo",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        567119,
-        1116960,
-        1150423,
-        1209350,
-        1345990,
-        1348455,
-        2014011,
-        2167369
+        1915059
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "746|1750809300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=746%7C1750809300000"
+    "nextCursor": "747|1743977258705",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=747%7C1743977258705"
   }
 }
