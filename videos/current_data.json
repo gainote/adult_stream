@@ -1,59 +1,66 @@
 {
   "items": [
     {
-      "id": 29091144,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f824dc04-682e-4488-8b6e-fc7a10b26198/original=true/f824dc04-682e-4488-8b6e-fc7a10b26198.jpeg",
-      "hash": "U4CidV0M0eVfTp9Z=aiz01xs-W%2~CIo0Lxu",
+      "id": 41012227,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4658be12-d7b7-43e2-aa70-00d320c23dc0/original=true/4658be12-d7b7-43e2-aa70-00d320c23dc0.jpeg",
+      "hash": "U6FiT0000[~X0XU[0i9~NaXS#QRO-;EM-O+@",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-09-13T08:00:00.000Z",
-      "postId": 6508833,
+      "createdAt": "2024-11-19T20:52:29.850Z",
+      "postId": 9342407,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 244,
-        "likeCount": 1868,
+        "cryCount": 121,
+        "laughCount": 200,
+        "likeCount": 1937,
         "dislikeCount": 0,
-        "heartCount": 926,
-        "commentCount": 0
+        "heartCount": 872,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 4222228425,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, high detailed, high quality, masterpiece, no text, quality highlights, 8k detail, detailed background, source_anime, dynamic view, hentai, ultra-detailed, BREAK\n1girl, (((solol))), female focus, expressiveh, (((black hair))), black eyes, , (detailed face), (medium hair),(hair pulled back), witch, skimpy outfit, bare breasts, dark nipples, BREAK\n, forest background",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "nsfw": true,
+        "seed": 61197792,
+        "draft": false,
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, source_anime,anime style, highly detailed, colorful,\nwoman, solo, skinny body, big pink sunglasses, long eyelashes, white hair, long single braid,\nwearing (light blue micro-bikini),\noutdoor pool, in water, \nstanding pose, low angle view, closeup, rear view, big ass, volumetric lighting, smirk, smile, topless, big breasts, \nElsa, ElsaXPL",
+        "sampler": "Euler a",
+        "cfgScale": 6,
         "clipSkip": 2,
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-09-12T1938:27.8549774Z",
-        "negativePrompt": "score_6, score_5, score_4, pale, white, pony, negativeXL_D, low quality, child, kid, chibi, oversaturated, disfigured, poorly, bad, wrong, mutated, worst quality, normal quality, ugly face, mutated hands, extra fingers, poorly drawn hands, fused fingers, too many fingers, long neck, bad hands, shoes, text, logos, patreon logo, signature, signature artist, multiple female, multiple male, bad anatomy, ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), blurry eyes, pumped body, tiny hands, tiny feet, multiple women, (((disproportionately large head))), flat chested, (disproportionately long torso), bad anatomy, six fingers, ((low quality hands)), bad hands, bad anatomy, comics, comic panel, text, signature, signature artist, earrings, gorget,",
+        "Created Date": "2024-11-19T2048:16.4913545Z",
+        "negativePrompt": "score_4, score_3, score_2, muscular, fury, child, kid, easynegative, watermark, bad, extra fingers, 3D, twisted, blur, monochrome, censored, signature, realistic, muscular, bad-anatomy, text, worst-quality, bad, distorted, blurry, artifacts, lowres, distorted fingers, distorted hands, low-quality,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 742228,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 372898,
-            "modelVersionName": "Summer Days 2"
+            "modelVersionId": 426638,
+            "modelVersionName": "-PONY XL-"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 379995,
-            "modelVersionName": "XL-Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.2,
+            "modelVersionId": 825325,
+            "modelVersionName": "tamaytka"
           },
           {
             "type": "embed",
@@ -67,18 +74,18 @@
           }
         ]
       },
-      "username": "DLT8K",
+      "username": "MatureOnly",
       "baseModel": "Pony",
       "modelVersionIds": [
-        290640,
-        372898,
-        379995,
-        398847
+        9208,
+        426638,
+        742228,
+        825325
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "791|1732049549850",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=791%7C1732049549850"
+    "nextCursor": "792|1727371597515",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=792%7C1727371597515"
   }
 }
