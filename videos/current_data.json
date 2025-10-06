@@ -1,38 +1,123 @@
 {
   "items": [
     {
-      "id": 85563020,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/94841907-4626-43f0-b577-fef88f6aeec8/original=true/94841907-4626-43f0-b577-fef88f6aeec8.jpeg",
-      "hash": "U9HKwsn22wE2O;00?a,.0zVs~B4.AL9GTMT0",
+      "id": 42615974,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21cc519d-8b9c-4f4e-8565-338535571195/original=true/21cc519d-8b9c-4f4e-8565-338535571195.jpeg",
+      "hash": "UVMsi]%1cEn%?v%Ltlaf%0NIt7oz~UaKrrWB",
       "width": 1280,
       "height": 1856,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-01T04:45:00.000Z",
-      "postId": 18990117,
+      "browsingLevel": 4,
+      "createdAt": "2024-11-28T20:25:09.364Z",
+      "postId": 9691632,
       "stats": {
-        "cryCount": 118,
-        "laughCount": 231,
-        "likeCount": 1932,
+        "cryCount": 111,
+        "laughCount": 213,
+        "likeCount": 1945,
         "dislikeCount": 0,
-        "heartCount": 890,
-        "commentCount": 3
+        "heartCount": 902,
+        "commentCount": 2
       },
-      "meta": null,
-      "username": "Regular209",
-      "baseModel": "Illustrious",
+      "meta": {
+        "seed": 761163110,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:534425@748555",
+        "extra": {},
+        "steps": 32,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:534425@748555"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,high quality, highly detailed, flat illustration, pinup style,\nwoman, wide hips, dark eyes, blushing, long eyelashes, blue hairband,\nwearing light blue o-ring-bikini-top, big cleavage, strapless, (side-tied-bikini-bottom), necklaces,\nbeach sea sky background, rim lighting, smile teeth, looking at viewer lying pose on towel, front view, pov crotch, spreading legs,\nDisneyAurora, 1girl, blonde hair, blue eyes, long hair",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_4, score_3, score_2, muscular, fury, child, kid, easynegative, low-quality, blur, signature, twisted, realistic, worst-quality, watermark, bad, distorted hands, 3D, distortion, monochrome, extra fingers, bad, blurry, artifacts, lowres, logo, downsampling, bad-anatomy, distorted fingers, text, aliasing,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 748555
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 748555
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 793923
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 933942
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 748555
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 793923
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 933942
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:362745@793923",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:834772@933942",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "MatureOnly",
+      "baseModel": "PonyPonyPony",
       "modelVersionIds": [
+        9208,
         164821,
-        947620,
-        1757828,
-        1851805
+        748555,
+        748555,
+        748555,
+        793923,
+        793923,
+        933942,
+        933942
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "760|1732825509364",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=760%7C1732825509364"
+    "nextCursor": "761|1756600860000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=761%7C1756600860000"
   }
 }
