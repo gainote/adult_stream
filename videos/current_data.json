@@ -1,99 +1,80 @@
 {
   "items": [
     {
-      "id": 50038400,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a32fc50e-d36a-4d26-a871-d6140b7b292a/original=true/a32fc50e-d36a-4d26-a871-d6140b7b292a.jpeg",
-      "hash": "URG9Km0K%#X7-;D*VsRj-=M_jFoJ?wRjRjkD",
-      "width": 2560,
-      "height": 3712,
-      "nsfwLevel": "Mature",
+      "id": 94589896,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7af64f90-0144-43e1-b730-79a0b9b9a1ce/original=true/7af64f90-0144-43e1-b730-79a0b9b9a1ce.jpeg",
+      "hash": "UTQu$=Vs*0Vr.7yEtlnNyXjvt7j]t7V?WBRj",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-01-07T06:33:00.000Z",
-      "postId": 11269295,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-17T00:50:00.000Z",
+      "postId": 20985324,
       "stats": {
-        "cryCount": 89,
-        "laughCount": 176,
-        "likeCount": 1980,
+        "cryCount": 133,
+        "laughCount": 234,
+        "likeCount": 1889,
         "dislikeCount": 0,
-        "heartCount": 900,
-        "commentCount": 1
+        "heartCount": 887,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 890017319,
-        "vaes": [],
-        "extra": {},
-        "steps": 38,
-        "models": [],
-        "prompt": "safe_pos, safe_pos, safe_pos, zPDXL3, score_9, score_8_up, score_7_up, masterpiece, high quality, realistic, raw lighting, detailed face, detailed eyes, (warm colors, bokeh, Natural skin, Freckles) BREAK \n(from side)).\n1girl, 32yo,realistic, cute perfect face, round face, black ponytail hair, green eyes, freckles, tan skin, translucent, medium breasts, (juicy plump ass:1.2),pov, black micro bikini, skinny, sexy pose, hips, thick thighs,\nfrom below, bikini top, lowleg thong, hands on hips.\n((rising from water, wet)).\n(ocean background).\nBREAK good lighting, photo, photorealistic, film grain, ultra realistic, shallow depth of field,\ndetailed background, dynamic angle, volumetric lighting,",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 6.5,
-        "modelIds": [],
-        "workflow": "img2img-upscale",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, safe_neg, CyberRealistic_Negative_PONY, score_6_up, score_5_up, score_4_up, ((monochrome)), low-res, low quality, worst quality, normal quality, blurry, jpeg artifacts, error, signature, watermark, patreon, username, artist name, text",
+        "Size": "832x1216",
+        "seed": 1206817128,
+        "draft": false,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, very aesthetic, realism, blond, cat girl, cat ears, blue eyes, cat tail, narrowed eyes,full face blush, ecstasy, bliss, small breasts, big butt, wide hips, soft skin, deep skin, skindentation, bare breasts, nipples, nude, big eyes, steam breath, horny, \nlooking at viewer, blush, smile, simple background, white background, navel, sitting, green eyes, collarbone, full body, sweat, nude, parted lips, barefoot, pussy, cum, nail polish, orange hair, feet, completely nude, lips, toes, un, anus, cum in pussy, arm support, foreshortening, knees up, toenails, pink nails, after sex, cumdrip, toenail polish, foot focus, after vaginal, cum pool, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "process": "img2img",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-15T1719:59.7199334Z",
+        "experimental": false,
+        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes, extra toes,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1177183
+            "type": "checkpoint",
+            "modelVersionId": 1761560
           },
           {
-            "weight": 1,
-            "modelVersionId": 1177183
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1375651
           },
           {
-            "weight": 1.1,
-            "modelVersionId": 321609
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1552087
           },
           {
-            "weight": 1,
-            "modelVersionId": 720175
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 972770
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 983142
-          },
-          {
-            "weight": 2.2,
-            "modelVersionId": 1242203
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1020899
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "0dang",
-      "baseModel": "Pony",
+      "username": "nvoleuri",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        321609,
-        720175,
-        972770,
-        983142,
-        1177183,
-        1242203
+        1020899,
+        1375651,
+        1552087,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "783|1755391800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=783%7C1755391800000"
+    "nextCursor": "784|1755711720587",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=784%7C1755711720587"
   }
 }
