@@ -1,77 +1,70 @@
 {
   "items": [
     {
-      "id": 68400762,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca9aa3aa-da9f-4e4c-896e-dc799b8f35b1/original=true/ca9aa3aa-da9f-4e4c-896e-dc799b8f35b1.jpeg",
-      "hash": "U9J*9l00t,01IV01Nbj[00xv~WM|RO_N4n?b",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 64929811,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89e10e8b-62f1-4e80-b8bc-69986a2244db/original=true/89e10e8b-62f1-4e80-b8bc-69986a2244db.jpeg",
+      "hash": "UIEVmB~p?GE1%#.8IpE1?bI=%1V@9axtofxt",
+      "width": 816,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-06T22:07:38.705Z",
-      "postId": 15201893,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-21T17:19:59.162Z",
+      "postId": 14466991,
       "stats": {
-        "cryCount": 114,
-        "laughCount": 243,
-        "likeCount": 1881,
+        "cryCount": 97,
+        "laughCount": 194,
+        "likeCount": 1917,
         "dislikeCount": 0,
-        "heartCount": 949,
+        "heartCount": 977,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 3897778457,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
+        "Size": "816x1216",
+        "seed": 1571585096,
+        "Model": "autismmixSDXL_autismmixPony.safetensors",
+        "steps": 25,
         "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:bursting_breasts_ilxl_goofy": "e7d32425e821"
+          "model": "821aa5537f",
+          "embed:lazydn": "36c19a142a",
+          "embed:lazyup": "2d56e88bd2",
+          "embed:lazympos": "3a5c2a561b",
+          "lora:TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL": "60b4fd5e4d"
         },
-        "prompt": "masterpiece,best quality,amazing quality, <lora:bursting_breasts_ilxl_goofy:1>bursting breasts, 1girl, niijima makoto, crown braid, brown hair, alternate breast size, red eyes, button gap, gigantic breasts, white shirt, blush, short hair, undersized clothes, black skirt, window, long sleeves, indoors, trembling, popped button, upper body, breast expansion, looking down, closed mouth, curtains, embarrassed, cleavage, sweat, bright pupils, buttons, collared shirt",
-        "Version": "f1.3.0-v1.10.1RC-latest-1007-g7ed29402",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 6,
+        "prompt": "embedding:lazyup, embedding:lazympos, source_anime,1girl, blonde hair, long hair, \nblack leggings, textured leggings,\nass, outdoors, bent over, <lora:TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL:0.5>",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
         "resources": [
           {
-            "hash": "e7d32425e821",
-            "name": "bursting_breasts_ilxl_goofy",
+            "hash": "60b4fd5e4d",
+            "name": "TrendCraft_The_Peoples_Style_Detailer-v2.0A-3_13_2025-PonyXL",
             "type": "lora",
-            "weight": 1
+            "weight": 0.5
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
+            "hash": "821aa5537f",
+            "name": "autismmixSDXL_autismmixPony.safetensors",
             "type": "model"
           }
         ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "Model hash": "821aa5537f",
+        "negativePrompt": "embedding:lazydn"
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "janxd",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1379960
+        324619,
+        1473187,
+        1473204,
+        1557746,
+        1558647
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "748|1742577599162",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=748%7C1742577599162"
+    "nextCursor": "749|1730826522954",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=749%7C1730826522954"
   }
 }
