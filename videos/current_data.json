@@ -1,160 +1,73 @@
 {
   "items": [
     {
-      "id": 45789343,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17d1ac26-d17e-4069-92a7-863bab7d0625/original=true/17d1ac26-d17e-4069-92a7-863bab7d0625.jpeg",
-      "hash": "UEFY0_$f01%g~qNH4.x]=|%1IUxaNeIpWBae",
-      "width": 1280,
-      "height": 1856,
+      "id": 78439054,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f49859f-a280-427a-983a-5c35798e016b/original=true/5f49859f-a280-427a-983a-5c35798e016b.jpeg",
+      "hash": "UWLfzP?G.moyO?WVO@S#5SV@NGWANHj@bvj[",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-12-16T07:16:17.537Z",
-      "postId": 10368345,
+      "createdAt": "2025-05-27T09:00:00.000Z",
+      "postId": 17424270,
       "stats": {
-        "cryCount": 86,
-        "laughCount": 163,
-        "likeCount": 1939,
+        "cryCount": 126,
+        "laughCount": 241,
+        "likeCount": 1878,
         "dislikeCount": 0,
-        "heartCount": 967,
-        "commentCount": 3
+        "heartCount": 908,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "seed": 1919286580,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/1C62EDDJZKNR781P1S51J6VKT0",
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, score_6_up, 1 girl, cute kawaii girl, leaning, Big ass, head down, legs straight, standing, (ass focus:1.2), closed legs, closeup, hands on knees, showing off ass, juicy ass, round ass, shiny ass, ginger hair, mini skirt, striped thigh highs, detailed background, (pinup girl pose:1.4), dynamic view, arching back, sexy pose, hourglass figure, legs crossed, long legs, (leg focus:0.6), (tip toes:1.1) , bedroom, indoors, window lighting,  side view",
-        "denoise": 0.45,
-        "sampler": "DPM++ 2M",
-        "cfgScale": 4,
+        "Size": "832x1216",
+        "seed": 1409555970,
+        "steps": 20,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, disney animation, solo female, \nimtdcalineb, 1girl, freckles, green eyes, aqua eyes, orange hair, red hair, short hair, single hair bun, eyelashes, medium breast,\n<lora:Disney_Animation_v5-V7:1> \njewelry, lipstick, lingerie, fishnet lingerie, sexy, large breasts, cleavage, beautiful, detailed, high detailed, very beautiful, detailed face, detailed eyes, detailed hand, beach, outside, smile, smiling, naughty face, on all fours, pose, seducing, on bed, looking at viewer, face focus",
+        "sampler": "Euler a",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "safe_neg, core_6, score_5, score_4, worst quality, barefoot, knees bent, legs apart,,low quality, text, censored, deformed, bad hand, blurry, (watermark), 3d, ng_deepnegative_v1_75t",
-        "civitaiResources": [
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 0.35,
-            "modelVersionId": 761452
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 5637
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
+            "name": "Disney_Animation_v5-V7",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 761452
+            "weight": 1
           }
         ],
-        "additionalResources": [
+        "Created Date": "2025-05-25T1656:33.0623893Z",
+        "negativePrompt": "worst quality, low quality, bad quality, (watermark, signature), navel,",
+        "civitaiResources": [
           {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
+            "type": "checkpoint",
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:888231@398847",
             "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
+            "weight": 1,
+            "modelVersionId": 1416874,
+            "modelVersionName": "v1"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:300005@436219",
             "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:661736@761452",
-            "type": "lora",
-            "strength": 0.35,
-            "strengthClip": 1
+            "weight": 1,
+            "modelVersionId": 1194453,
+            "modelVersionName": "Default"
           }
         ]
       },
-      "username": "DrPeeHands",
-      "baseModel": "Pony",
+      "username": "Geneker",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        5637,
-        164821,
-        290640,
-        382152,
-        398847,
-        436219,
-        761452
+        1194453,
+        1410435,
+        1416874
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "774|1748336400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=774%7C1748336400000"
+    "nextCursor": "775|1729171200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=775%7C1729171200000"
   }
 }
