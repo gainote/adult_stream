@@ -1,94 +1,160 @@
 {
   "items": [
     {
-      "id": 74761859,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9024e63e-8a63-4a75-adc1-3832d6f14d65/original=true/9024e63e-8a63-4a75-adc1-3832d6f14d65.jpeg",
-      "hash": "UFMF8#~BQ,Kj;_}p%fOFqZR5#+I;+tkCxaNG",
-      "width": 720,
-      "height": 1280,
-      "nsfwLevel": "X",
+      "id": 45789343,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17d1ac26-d17e-4069-92a7-863bab7d0625/original=true/17d1ac26-d17e-4069-92a7-863bab7d0625.jpeg",
+      "hash": "UEFY0_$f01%g~qNH4.x]=|%1IUxaNeIpWBae",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-05-07T13:00:00.000Z",
-      "postId": 16600460,
+      "browsingLevel": 4,
+      "createdAt": "2024-12-16T07:16:17.537Z",
+      "postId": 10368345,
       "stats": {
-        "cryCount": 106,
-        "laughCount": 175,
-        "likeCount": 1829,
+        "cryCount": 86,
+        "laughCount": 163,
+        "likeCount": 1939,
         "dislikeCount": 0,
-        "heartCount": 1045,
-        "commentCount": 1
+        "heartCount": 967,
+        "commentCount": 3
       },
       "meta": {
-        "Size": "720x1280",
-        "seed": 266685925,
-        "Model": "ilustmix_v63",
-        "steps": 30,
-        "hashes": {
-          "model": "54361fc47c",
-          "lora:Detailer_NoobAI_Incrs_v1": "9f242f949d7b",
-          "lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1": "ca72422dcb3e"
-        },
-        "prompt": "8K, depth of field, dynamic angle, sexy pose, best quality, detailed eyes, perfect eyes, realistic eyes, skindentation, single, one, red hair hair, one side up hair, blue eyes, lipstick, thick eyebrows, black eyebrows, darker eyeshadow, full lips, slim body, flexible body, , medium breast, realistic breast, naked, BREAK, (realistic nipples), ((realistic pussy, puffy pussy)), (pussy presentation:1.3), BREAK, lying, on side, from bellow, movie perspective, orange background, <lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1:0.5> artist:moriimee,  <lora:Detailer_NoobAI_Incrs_v1:0.7> detailed,",
-        "Version": "f2.0.1v1.10.1-previous-659-gc055f2d4",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "resources": [
+        "nsfw": true,
+        "seed": 1919286580,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/1C62EDDJZKNR781P1S51J6VKT0",
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, score_6_up, 1 girl, cute kawaii girl, leaning, Big ass, head down, legs straight, standing, (ass focus:1.2), closed legs, closeup, hands on knees, showing off ass, juicy ass, round ass, shiny ass, ginger hair, mini skirt, striped thigh highs, detailed background, (pinup girl pose:1.4), dynamic view, arching back, sexy pose, hourglass figure, legs crossed, long legs, (leg focus:0.6), (tip toes:1.1) , bedroom, indoors, window lighting,  side view",
+        "denoise": 0.45,
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "safe_neg, core_6, score_5, score_4, worst quality, barefoot, knees bent, legs apart,,low quality, text, censored, deformed, bad hand, blurry, (watermark), 3d, ng_deepnegative_v1_75t",
+        "civitaiResources": [
           {
-            "hash": "ca72422dcb3e",
-            "name": "MoriiMee_Gothic_Niji_Style_Illustrious_r1",
-            "type": "lora",
-            "weight": 0.5
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "9f242f949d7b",
-            "name": "Detailer_NoobAI_Incrs_v1",
-            "type": "lora",
-            "weight": 0.7
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "54361fc47c",
-            "name": "ilustmix_v63",
-            "type": "model"
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 0.35,
+            "modelVersionId": 761452
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 5637
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 761452
           }
         ],
-        "Model hash": "54361fc47c",
-        "Schedule type": "Automatic",
-        "negativePrompt": "3D, leather:1.3, loli, man, multiple, closeup:1.3, close, parted lips, portrait, shine, (worst quality, low quality, sketch:1.1),error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowers, multiple views, signature,",
-        "ADetailer model": "face_yolov8s.pt",
-        "ADetailer version": "25.3.0",
-        "ADetailer mask blur": "20",
-        "ADetailer model 2nd": "female-breast-v4.7.pt",
-        "ADetailer model 3rd": "vagina-v4.1.pt",
-        "ADetailer confidence": "0.6",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "20",
-        "ADetailer mask blur 3rd": "40",
-        "ADetailer confidence 2nd": "0.5",
-        "ADetailer confidence 3rd": "0.2",
-        "ADetailer inpaint padding": "32",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer dilate erode 3rd": "4",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer inpaint padding 3rd": "32",
-        "ADetailer denoising strength 2nd": "0.4",
-        "ADetailer denoising strength 3rd": "0.4",
-        "ADetailer inpaint only masked 2nd": "True",
-        "ADetailer inpaint only masked 3rd": "True"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888231@398847",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@761452",
+            "type": "lora",
+            "strength": 0.35,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "GZees",
-      "baseModel": "Illustrious",
+      "username": "DrPeeHands",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1191626,
-        1244133
+        5637,
+        164821,
+        290640,
+        382152,
+        398847,
+        436219,
+        761452
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "772|1734333377537",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=772%7C1734333377537"
+    "nextCursor": "773|1748336400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=773%7C1748336400000"
   }
 }
