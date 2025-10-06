@@ -1,72 +1,88 @@
 {
   "items": [
     {
-      "id": 91804217,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1dfd4c8-7b7c-4c43-9d5e-2913e852014a/original=true/f1dfd4c8-7b7c-4c43-9d5e-2913e852014a.jpeg",
-      "hash": "UCINN+IUTI0173M{0z-U%fX8}?xaXltR={R-",
-      "width": 1024,
-      "height": 1024,
+      "id": 33511269,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08d037b9-ec08-4702-a5e3-daefaefaa7eb/original=true/08d037b9-ec08-4702-a5e3-daefaefaa7eb.jpeg",
+      "hash": "U9Kce90001?aPp00-;~p1M9tNH9a00JA^*VY",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T19:52:35.110Z",
-      "postId": 20367340,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-08T15:57:13.286Z",
+      "postId": 7665190,
       "stats": {
-        "cryCount": 195,
-        "laughCount": 336,
-        "likeCount": 1922,
+        "cryCount": 109,
+        "laughCount": 248,
+        "likeCount": 1820,
         "dislikeCount": 0,
-        "heartCount": 746,
-        "commentCount": 0
+        "heartCount": 1020,
+        "commentCount": 3
       },
       "meta": {
-        "Size": "1024x1024",
-        "seed": 629090905,
-        "draft": false,
-        "extra": {
-          "remixOfId": 91790503
+        "": {},
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "1248x1824",
+        "seed": 3776886036,
+        "Model": "prefect_pony_xl_v2.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "517caf19d7",
+          "lora:pussy_floss_pdxl_goofy": "896b8c589b53"
         },
-        "steps": 40,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two nude busty cute 18yo girls  edging, (touching the top of the penis with tongue:1.4)",
+        "prompt": "score_9,score_8_up,score_7_up,<lora:pussy_floss_pdxl_goofy:1>  pussy floss, 1girls, azula, big breasts, bikini, breasts, female,  huge breasts, large breasts, mommy,slingshot swimsuit, thick thighs, wide hips,red lips",
+        "Version": "v1.10.1",
         "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-08-01T1835:50.4704153Z",
-        "experimental": false,
-        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
-        "civitaiResources": [
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1988773,
-            "modelVersionName": "SDXL Pony 18"
+            "hash": "896b8c589b53",
+            "name": "pussy_floss_pdxl_goofy",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "hash": "517caf19d7",
+            "name": "prefect_pony_xl_v2.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "517caf19d7",
+        "Tile Overlap": "48",
+        "Schedule type": "Karras",
+        "Upscale factor": "1.5",
+        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
+        "ADetailer model": "face_yolov8s.pt",
+        "Keep input size": "true}",
+        "Tile batch size": "6",
+        "Tile tile width": "160",
+        "Tiled Diffusion": {},
+        "Tile tile height": "160",
+        "ADetailer version": "24.8.0",
+        "Denoising strength": "0.4",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "Tiled Diffusion upscaler": "4x-UltraSharp",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "Tiled Diffusion scale factor": "1.5",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "brahej",
+      "username": "Goofy_Ai",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        1988773
+        686553,
+        935220
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "739|1728403033286",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=739%7C1728403033286"
+    "nextCursor": "740|1749688620000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=740%7C1749688620000"
   }
 }
