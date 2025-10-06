@@ -1,66 +1,47 @@
 {
   "items": [
     {
-      "id": 41012227,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4658be12-d7b7-43e2-aa70-00d320c23dc0/original=true/4658be12-d7b7-43e2-aa70-00d320c23dc0.jpeg",
-      "hash": "U6FiT0000[~X0XU[0i9~NaXS#QRO-;EM-O+@",
+      "id": 31468106,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/93ed8b66-4778-44f1-9dab-13dc4c952d49/original=true/93ed8b66-4778-44f1-9dab-13dc4c952d49.jpeg",
+      "hash": "UAGRC,^*0K%0*0JVNLsARPw]xvtRlB=xv}W;",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-11-19T20:52:29.850Z",
-      "postId": 9342407,
+      "browsingLevel": 8,
+      "createdAt": "2024-09-26T17:26:37.515Z",
+      "postId": 7034472,
       "stats": {
-        "cryCount": 121,
-        "laughCount": 200,
-        "likeCount": 1937,
+        "cryCount": 86,
+        "laughCount": 206,
+        "likeCount": 1744,
         "dislikeCount": 0,
-        "heartCount": 872,
-        "commentCount": 1
+        "heartCount": 1093,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 61197792,
-        "draft": false,
-        "steps": 34,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, source_anime,anime style, highly detailed, colorful,\nwoman, solo, skinny body, big pink sunglasses, long eyelashes, white hair, long single braid,\nwearing (light blue micro-bikini),\noutdoor pool, in water, \nstanding pose, low angle view, closeup, rear view, big ass, volumetric lighting, smirk, smile, topless, big breasts, \nElsa, ElsaXPL",
+        "seed": 48358700,
+        "steps": 27,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  milf, 1woman, gorgeous woman ,  cute face, cute woman, blushing, long black  hair, small breasts, wearing karate uniform , on all fours, ass up, pant,black belt, glossy , milf , bubble ass , ass focus , pussy , pants down, wooden floor, ass focus",
         "sampler": "Euler a",
-        "cfgScale": 6,
+        "cfgScale": 6.5,
         "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-11-19T2048:16.4913545Z",
-        "negativePrompt": "score_4, score_3, score_2, muscular, fury, child, kid, easynegative, watermark, bad, extra fingers, 3D, twisted, blur, monochrome, censored, signature, realistic, muscular, bad-anatomy, text, worst-quality, bad, distorted, blurry, artifacts, lowres, distorted fingers, distorted hands, low-quality,",
+        "Created Date": "2024-09-22T1955:58.9000049Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 742228,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 426638,
-            "modelVersionName": "-PONY XL-"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 825325,
-            "modelVersionName": "tamaytka"
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "embed",
@@ -71,21 +52,24 @@
             "type": "embed",
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "MatureOnly",
+      "username": "hornystoryteller",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        426638,
-        742228,
-        825325
+        290640,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "792|1727371597515",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=792%7C1727371597515"
+    "nextCursor": "793|1730053392695",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=793%7C1730053392695"
   }
 }
