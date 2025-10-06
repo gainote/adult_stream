@@ -1,92 +1,61 @@
 {
   "items": [
     {
-      "id": 81758252,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90204105-2cf3-4a6a-9c80-e5f580601f1a/original=true/90204105-2cf3-4a6a-9c80-e5f580601f1a.jpeg",
-      "hash": "ULM?-%~q0M?a10%g%19F9FWCn39F0KtRozxu",
+      "id": 78465287,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72aadd29-0282-4bde-aaed-d81b10b59b27/original=true/72aadd29-0282-4bde-aaed-d81b10b59b27.jpeg",
+      "hash": "URHenOIA0zt-p{Mdt6b^IUIT-pn$s9M{s.sl",
       "width": 1280,
       "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-06-12T00:37:00.000Z",
-      "postId": 18161565,
+      "createdAt": "2025-05-26T00:41:00.000Z",
+      "postId": 17429447,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 229,
-        "likeCount": 1906,
+        "cryCount": 116,
+        "laughCount": 259,
+        "likeCount": 1843,
         "dislikeCount": 0,
-        "heartCount": 965,
-        "commentCount": 6
+        "heartCount": 975,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": false,
-        "seed": 1896560531,
+        "seed": 803958684,
         "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1277670@1772645",
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
         "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
+        "steps": 25,
         "models": [
-          "urn:air:sdxl:checkpoint:civitai:1277670@1772645"
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
         ],
-        "prompt": "masterpiece, absurdres, masterpiece, best_quality, ultra-detailed, newest, sharp focus, best quality, amazing quality, very aesthetic, soft focus, Rapscallionstyle, artist:moriimee, lazypos, lazyneg, SagawaStyle, vanripper,\nwhite hue, surreal, perspective, (1girl), laying on bed, messy long hair, dark hair, white tshirt, underboob, aroused, horny face, half opened mouth, moaning, breathing steam, dutch angle, face focus, large breast, hand in panties, pink panties, pillow humping, riding white pillow, grabing breast, twitching thighs, strong (((depth of field))), sunny, light particles, side view,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
+        "prompt": "official art, masterpiece, best quality, personal_ami,\nelf girl, short girl, nude, slim,\n tsurime eyes, sharp eyes, red eyes, dark blue hair, double buns, blunt bangs, wading, lake, butt, looking back, rear view, faceless male, male pov, view from above, grabbing ass, ass focus, ass spread, penis,",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
         "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
         "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
-        "disablePoi": true,
         "versionIds": [],
         "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/75K8X23XNJVW79RSAPA1KC2H30.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "bad quality, worst quality, worst detail, censor, missing fingers, extra fingers, blurry eyes, poorly drawn eyes, skewed eyes, bad anatomy, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, cencored. signature, watermark, censored, logo, waterprints, title, cropped image, ",
+        "negativePrompt": "ng_deepnegative_v1_75t, monocrome, anime, big head, low res, worst quality, bad quality, bad anatomy, censored, mosaic, text, logo, extra fingers, clone, futa, blurred eyes, undetailed eyes, (jpeg artifacts), ugly face, out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, bad art, sign, amateur, extra limbs, dull colours, lacklustre, poorly drawn, bad art, text, bad quality eyes, bad anatomy, abominations, more than 2 legs, large breasts,",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 1772645
+            "modelVersionId": 1240288
           },
           {
             "weight": 1,
-            "modelVersionId": 1772645
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1169143
+            "modelVersionId": 1240288
           },
           {
             "weight": 1,
-            "modelVersionId": 1833157
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1860747
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 895984
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 989634
+            "modelVersionId": 1477753
           },
           {
             "type": "checkpoint",
-            "modelVersionId": 1772645
+            "modelVersionId": 1240288
           },
           {
             "type": "upscaler",
@@ -94,56 +63,30 @@
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1169143
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 895984
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 989634
+            "weight": 1,
+            "modelVersionId": 1477753
           }
         ],
         "additionalResources": [
           {
-            "name": "urn:air:sdxl:lora:civitai:389869@1169143",
+            "name": "urn:air:sdxl:lora:civitai:1309467@1477753",
             "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:801308@895984",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:884077@989634",
-            "type": "lora",
-            "strength": 0.45,
+            "strength": 1,
             "strengthClip": 1
           }
         ]
       },
-      "username": "Futurabbit",
+      "username": "ElvishDreams",
       "baseModel": "Illustrious",
       "modelVersionIds": [
         164821,
-        895984,
-        989634,
-        1169143,
-        1772645,
-        1833157,
-        1860747
+        1240288,
+        1477753
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "741|1748220060000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=741%7C1748220060000"
+    "nextCursor": "742|1756805040000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=742%7C1756805040000"
   }
 }
