@@ -1,51 +1,73 @@
 {
   "items": [
     {
-      "id": 7560824,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/297220c4-ba32-4255-8ab7-258ba532c433/original=true/297220c4-ba32-4255-8ab7-258ba532c433.jpeg",
-      "hash": "UJJHUO-;PUKk0:U]n6.8?b#j+[?G?^IUkVt7",
-      "width": 832,
-      "height": 1216,
+      "id": 89979309,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2eddeec4-2fc1-41f7-b93e-52fb7b3a2896/original=true/2eddeec4-2fc1-41f7-b93e-52fb7b3a2896.jpeg",
+      "hash": "UAE2FCEL01-p~BxaM{Io0LR+%1s:E2M|t7t7",
+      "width": 3840,
+      "height": 2688,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-03-06T06:01:09.402Z",
-      "postId": 1637932,
+      "createdAt": "2025-07-23T11:24:38.575Z",
+      "postId": 19956746,
       "stats": {
-        "cryCount": 114,
-        "laughCount": 232,
-        "likeCount": 1900,
+        "cryCount": 93,
+        "laughCount": 183,
+        "likeCount": 1857,
         "dislikeCount": 0,
-        "heartCount": 917,
+        "heartCount": 1028,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 202238614,
-        "steps": 50,
-        "prompt": "1 girl, Robin, robin one piece, nico robin,  eyewear on head, nico robin, long hair, black hair, hair slicked back, eyewear on head, sunglasses, closed eyes, collarbone, nipples, cleavage, blue open jacket, cropped jacket, unzipped, short sleeves, midriff, very blushy, score_9, score_8, score_7, one piece anatomy, enormous breasts, smart, sea, sky, from upward, large hips, sexy thighs, source_anime, face close up, high angle shot, big lips, kiss lips, going for a kiss, pink soft lips, pov, slut face, squeezing breast hard, breast squeeze, expressive style",
-        "sampler": "DPM2 a",
-        "cfgScale": 7,
+        "seed": 1148149625,
+        "vaes": [],
+        "draft": false,
+        "extra": {},
+        "steps": 25,
+        "width": 1216,
+        "height": 832,
+        "models": [],
+        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 1girl, big ass, asshole, anus, woman is spreading her butt cheeks with one hand, slight side view showing ass hole, high detail ass hole, zoomed in, only ass in view, pink anus, closed anus, tight anus. small anus, nails painted dark green, dark green nails, Dark, moody background. one hand, one hand in view. realistic skin, skin texture, small mole, 5 fingers, high detail vagina. moles, small moles, one hand, one leg bent, one leg straight. ",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "(fingers, hands), (signature:1.3), (deformed hands:1.3), (deformed fingers:1.3), flat colors, score_6, score_5, score_4, background character, 2 girls, man's face, random objects, man face, 2 faces, monster, yellow skin, blue skin, below view, speech bubble, censor, circle object, bad quality, bad tongue, vaginal system, closed mouth, face far from camera",
+        "modelIds": [],
+        "quantity": 2,
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "19:13",
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "bad quality, worst quality, lowres, deformed, watermark, simple background, gape, big asshole, 6 fingers, two hands,",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640
+            "weight": 1,
+            "modelVersionId": 2011731
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "jspp3733410",
-      "baseModel": "Pony",
+      "username": "Jurassic_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640
+        164821,
+        2011731
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "766|1753269878575",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=766%7C1753269878575"
+    "nextCursor": "767|1745871067600",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=767%7C1745871067600"
   }
 }
