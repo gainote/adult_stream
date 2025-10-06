@@ -1,64 +1,114 @@
 {
   "items": [
     {
-      "id": 87197097,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a1423dd8-57d0-42d0-aa5a-b3ba127d13ad/original=true/a1423dd8-57d0-42d0-aa5a-b3ba127d13ad.jpeg",
-      "hash": "UMGkza9F00_N~qV@DitS%gWB9Z%LV[xas:Io",
-      "width": 1496,
-      "height": 496,
-      "nsfwLevel": "X",
+      "id": 99227698,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/740a54bc-492f-4046-beff-ec54d8788a5a/original=true/740a54bc-492f-4046-beff-ec54d8788a5a.jpeg",
+      "hash": "UPM$-z?b4.%K?]%NOX-;?H?b%2WC%$JUI;o#",
+      "width": 1008,
+      "height": 1760,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-12T13:20:22.186Z",
-      "postId": 19345069,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-09T01:48:10.738Z",
+      "postId": 22016540,
       "stats": {
-        "cryCount": 132,
-        "laughCount": 208,
-        "likeCount": 1981,
+        "cryCount": 138,
+        "laughCount": 232,
+        "likeCount": 1989,
         "dislikeCount": 0,
-        "heartCount": 867,
-        "commentCount": 2
+        "heartCount": 828,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "1500x500",
-        "seed": 130573572,
-        "Model": "prefectIllustriousXL_v10",
-        "steps": 30,
+        "Size": "672x1176",
+        "seed": 68539030,
+        "Model": "waiNSFWIllustrious_v150",
+        "steps": 27,
         "hashes": {
-          "model": "3a2df45ef8",
-          "lora:ATRex_style": "2c4f237a634c"
+          "model": "befc694a29",
+          "lora:0__11Xx": "50ba8bbe485f",
+          "lora:mon_monmon2133": "9dcf6d165d08",
+          "lora:ppw_v8_noobVpredv1_1_128": "8279aebd6de4",
+          "lora:illustrious_best_quality_v1": "b2861f71ebf6",
+          "lora:illustriousXL_stabilizer_v1.23": "7514c36d93bc",
+          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "5256ee0c312f"
         },
-        "prompt": "<lora:ATRex_style:0.25>, core_9, score_8_up, score_7_up, score_6_up, source_anime, rating_explicit, 4K, long shot, full body, shiny skin, oil skin, (glossy sweaty skin, motion blur, motion lines, intense movement lines, twitching, wet, sweat), (best quality, ultra-detailed, high resolution, an extremely delicate and beautiful, expressive, more details, incredibly absurdness, anime coloring:1.2), (highres, best quality, masterpiece, anime coloring:1.2, ultra-detailed, cinematic angle, expressive, anime style), (light particles),\n1girl, mature female, milf, curvy body, extremely long legs, focus on legs, legs close-up, from waist down, black stockings, school uniform skirt, sitting pose, both legs fully straightened and stretched forward, smooth shiny skin, detailed thighs and calves, oil skin, sheer stockings, soft lighting, dramatic single beam of light shining on legs, visible sweat droplets on legs, cinematic angle, cropped composition, ultra-detailed, high resolution, best quality, anime style",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, newest, incredibly absurdres, ultra detailed, 8k, HDR, High quality digital art, official art, advertising style, detailed background,\ncheerleader, on one knee, panty shot, foreground, knee, red and white uniform, \nmedium breasts, underboob, bouncing breasts,\nStomach, navel, pom-poms,\nblonde ponytail, sun visor,\nBrown eyes, :d, looking at viewer\nBREAK\npainting \\(medium\\), cinematic lighting, ambient occlusion, dynamic composition, foreshortening,\nschoolyard, Ginkgo, fallen leaves, soft sunlight, depth of field, bokeh,",
+        "Version": "f1.0.0v2-v1.10.1RC-latest-2454-g9086b215",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
         "resources": [
           {
-            "hash": "2c4f237a634c",
-            "name": "ATRex_style",
-            "type": "lora",
-            "weight": 0.25
+            "hash": "b2861f71ebf6",
+            "name": "illustrious_best_quality_v1",
+            "type": "lora"
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefectIllustriousXL_v10",
+            "hash": "8279aebd6de4",
+            "name": "ppw_v8_noobVpredv1_1_128",
+            "type": "lora"
+          },
+          {
+            "hash": "DA259DF60E36",
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
+            "type": "lora"
+          },
+          {
+            "hash": "7514c36d93bc",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora"
+          },
+          {
+            "hash": "9dcf6d165d08",
+            "name": "mon_monmon2133",
+            "type": "lora"
+          },
+          {
+            "hash": "50ba8bbe485f",
+            "name": "0__11Xx",
+            "type": "lora"
+          },
+          {
+            "hash": "5256ee0c312f",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora"
+          },
+          {
+            "hash": "befc694a29",
+            "name": "waiNSFWIllustrious_v150",
             "type": "model"
           }
         ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras"
+        "Model hash": "befc694a29",
+        "Hires steps": "14",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
+        "negativePrompt": "lowres, bad quality, worst quality, bad anatomy, bad hands, sketch, jpeg artifacts, text, signature, censor, shiny skin,",
+        "Hires CFG Scale": "7",
+        "Denoising strength": "0.45",
+        "Token merging ratio": "0.2",
+        "Token merging ratio hr": "0.2"
       },
-      "username": "poiu2131544",
+      "username": "kuronekoAI",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1379960,
-        1804885
+        567119,
+        1116960,
+        1150423,
+        1209350,
+        1345990,
+        1348455,
+        2014011,
+        2167369
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "745|1750809300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=745%7C1750809300000"
+    "nextCursor": "746|1750809300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=746%7C1750809300000"
   }
 }
