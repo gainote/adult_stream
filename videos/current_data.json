@@ -1,95 +1,78 @@
 {
   "items": [
     {
-      "id": 88784264,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b0dce87-8608-42eb-a3b4-0b3aa70800d5/original=true/4b0dce87-8608-42eb-a3b4-0b3aa70800d5.jpeg",
-      "hash": "UHK,snpcUH-U0~I:4;n40f8{#,?Ht8R5s;t6",
+      "id": 34764866,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1bbcee78-e08a-4114-aad0-9cb9493458b7/original=true/1bbcee78-e08a-4114-aad0-9cb9493458b7.jpeg",
+      "hash": "UdL:vKMx*J$i5BR%NyWEv$i^n4Ny.7r=oIWY",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-17T12:35:00.000Z",
-      "postId": 19695462,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-15T17:17:41.874Z",
+      "postId": 7944283,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 206,
-        "likeCount": 1984,
+        "cryCount": 126,
+        "laughCount": 297,
+        "likeCount": 1804,
         "dislikeCount": 0,
-        "heartCount": 901,
-        "commentCount": 0
+        "heartCount": 955,
+        "commentCount": 62
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1353314@1984137",
-        "extra": {},
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1353314@1984137"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\n\nblonde braid,\n(smooth skin:0.8),\n\nsea,\n(hand breasts:1.1),\nsmile,\npanties,\ncameltoe,\n(freckles:0.5),\n(messy hairs:0.8),\nhigh angle,\n",
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
+        "Size": "832x1216",
+        "seed": 3149354247,
+        "extra": {
+          "remixOfId": 28214254
+        },
+        "steps": 30,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, austr, anime, 1girl, makima, yellow ringed eyes, naked, freckles, perfect face, detailed eyes, perfect eyes, sexy, sexy girl, beautiful eyes, perfect cute face, petite body, round ass, large saggy breasts, arched back, crying, screaming, girl getting fucked from behind, 1boy, large penis, sex, penetration, doggystyle, hair grab, (view from side), beach background, soft shading, clean lines",
+        "sampler": "Euler a",
         "cfgScale": 7,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
-        "baseModel": "Illustrious",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/212431330601366418452463140147480683536.jpg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed), bestiality",
+        "resources": [],
+        "Created Date": "2024-10-15T1704:05.2845525Z",
+        "negativePrompt": "score_5, score_4, score_3, ugly, fat",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1984137
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1976924
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1984137
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 1976924
-          }
-        ],
-        "additionalResources": [
+            "modelVersionId": 958674,
+            "modelVersionName": "AUSTR v1.0"
+          },
           {
-            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "vovkkabanko",
-      "baseModel": "Illustrious",
+      "username": "blacksnowskill",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1976924,
-        1984137
+        290640,
+        958674
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "751|1729012661874",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=751%7C1729012661874"
+    "nextCursor": "752|1754266980000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=752%7C1754266980000"
   }
 }
