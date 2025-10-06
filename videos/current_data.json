@@ -1,31 +1,95 @@
 {
   "items": [
     {
-      "id": 46775937,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44a5b4f7-4866-4d3e-9a85-c8ab63c6a1c2/original=true/44a5b4f7-4866-4d3e-9a85-c8ab63c6a1c2.jpeg",
-      "hash": "UIE_~#~p_3%M.7Wq?Hbb9FIBMxM{%L%MIURi",
-      "width": 1280,
-      "height": 1856,
+      "id": 44590157,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fb0a26d4-5f80-493f-9846-fe3b90a1240c/original=true/fb0a26d4-5f80-493f-9846-fe3b90a1240c.jpeg",
+      "hash": "UJJswd}??FnO0LR*xt$%XnI;t7kC-:bHxuE3",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-12-21T13:09:02.344Z",
-      "postId": 10576464,
+      "createdAt": "2024-12-09T17:49:05.301Z",
+      "postId": 10111139,
       "stats": {
-        "cryCount": 81,
+        "cryCount": 73,
         "laughCount": 159,
-        "likeCount": 1827,
+        "likeCount": 1867,
         "dislikeCount": 0,
-        "heartCount": 1092,
-        "commentCount": 0
+        "heartCount": 1059,
+        "commentCount": 7
       },
-      "meta": null,
-      "username": "sabbufik419",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 563871014,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "low angle view from below, score_9, score_8_up, score_8, score_7, through glass floor, sexy nymph nerd girl, beautiful face, cute ((hair pull)), gorgeous, eyes, tongue out, salvia, moaning, arousal, (multicolored hair with highlights), (thigh high socks:1.5), pink nipples, small breasts, anal penetration, prone position, ass slightly in the air, 1boy, 19 years-old, doggystyle ass up, cum in ass",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-12-08T1139:39.6692656Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "fixerskorch877",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        164821,
         244808,
         290640,
         382152,
@@ -35,7 +99,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "769|1733766545301",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=769%7C1733766545301"
+    "nextCursor": "770|1744763820000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=770%7C1744763820000"
   }
 }
