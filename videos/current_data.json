@@ -1,79 +1,113 @@
 {
   "items": [
     {
-      "id": 91804213,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/023d4f9e-2d51-49b5-9138-d0a6b37fee74/original=true/023d4f9e-2d51-49b5-9138-d0a6b37fee74.jpeg",
-      "hash": "UBID{y=x%#9aqF9aTexD0fRPnPRkRiR++[tQ",
-      "width": 1216,
-      "height": 832,
-      "nsfwLevel": "X",
+      "id": 86206838,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ec2cf14-fe52-4b40-bd62-9c861531e204/original=true/5ec2cf14-fe52-4b40-bd62-9c861531e204.jpeg",
+      "hash": "U5Dlo}.m00P;y@MJ$yHXGa-5,C.lsp_2%#nN",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T19:56:45.877Z",
-      "postId": 20367340,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-04T11:30:00.000Z",
+      "postId": 19129705,
       "stats": {
-        "cryCount": 218,
-        "laughCount": 310,
-        "likeCount": 1952,
+        "cryCount": 120,
+        "laughCount": 208,
+        "likeCount": 1935,
         "dislikeCount": 0,
-        "heartCount": 724,
-        "commentCount": 0
+        "heartCount": 940,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "1216x832",
-        "seed": 629090905,
-        "draft": false,
-        "extra": {
-          "remixOfId": 91790503
+        "Size": "832x1216",
+        "seed": 4140100032,
+        "Model": "LucentXL_untitled_pony_b2",
+        "steps": 32,
+        "hashes": {
+          "model": "7a67cafac4",
+          "lora:RawCam_250_v1": "61a5dbda26b2",
+          "lora:RealSkin_xxXL_v1": "d67c6e09dbf9",
+          "lora:amateur_egirl_v1.9": "f5d3d7fcee7a",
+          "lora:puffy_tits_PONY_v1": "a228c3d6a690",
+          "lora:ILXL_Realism_Slider_V.1": "220b18b3587b",
+          "lora:nippleXL1_alpha2.5_rank2_noxattn_250steps": "7f8ec22f0923",
+          "lora:amesuku_gyaru_himekaji_v1_alpha1.5_rank2_noxattn_100steps": "5c60007c0b3e"
         },
-        "steps": 40,
-        "width": 1216,
-        "height": 832,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two naked busty cute 18yo girls  edging, (touching the top of the penis with tongue:1.4)",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "19:13",
-        "Created Date": "2025-08-01T1841:02.2730156Z",
-        "experimental": false,
-        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
-        "civitaiResources": [
+        "prompt": "score_9, score_8_up, score_7_up, 1girl, brunette hair, short hair, clear eyes, (freckles:0.5), dimples, small breasts, breasts apart, puffy_breasts, exposed breasts, visible belly and navel, joyful expression, passionate eyes, gentle sweet face, wearing long sleeves, (side view, from side:1.2), looking at viewer, (ambient occlusion), (cinematic lighting:1.3), (4K image quality:1.3), (sharp detail:1.3), (highly realistic:1.3), (dim warm cinematic lighting:1.3)\n<lora:amateur_egirl_v1.9:1.5>\n<lora:puffy_tits_PONY_v1:2.5>\n<lora:ILXL_Realism_Slider_V.1:2>\n<lora:RealSkin_xxXL_v1:1.5>\n<lora:RawCam_250_v1:3>\n",
+        "Version": "v1.10.0",
+        "sampler": "DPM++ SDE",
+        "cfgScale": 4.5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1988773,
-            "modelVersionName": "SDXL Pony 18"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "hash": "f5d3d7fcee7a",
+            "name": "amateur_egirl_v1.9",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 571832,
-            "modelVersionName": "Pony"
+            "weight": 1.5
+          },
+          {
+            "hash": "a228c3d6a690",
+            "name": "puffy_tits_PONY_v1",
+            "type": "lora",
+            "weight": 2.5
+          },
+          {
+            "hash": "220b18b3587b",
+            "name": "ILXL_Realism_Slider_V.1",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "d67c6e09dbf9",
+            "name": "RealSkin_xxXL_v1",
+            "type": "lora",
+            "weight": 1.5
+          },
+          {
+            "hash": "61a5dbda26b2",
+            "name": "RawCam_250_v1",
+            "type": "lora",
+            "weight": 3
+          },
+          {
+            "hash": "7f8ec22f0923",
+            "name": "nippleXL1_alpha2.5_rank2_noxattn_250steps",
+            "type": "lora",
+            "weight": 3
+          },
+          {
+            "hash": "5c60007c0b3e",
+            "name": "amesuku_gyaru_himekaji_v1_alpha1.5_rank2_noxattn_100steps",
+            "type": "lora",
+            "weight": 2
+          },
+          {
+            "hash": "7a67cafac4",
+            "name": "LucentXL_untitled_pony_b2",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "7a67cafac4",
+        "Hires steps": "15",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires upscaler": "Latent",
+        "negativePrompt": "score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs",
+        "Denoising strength": "0.5"
       },
-      "username": "brahej",
+      "username": "klaabu",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        571832,
-        1988773
+        1681903,
+        1681921,
+        1926656,
+        1971591
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "731|1751628600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=731%7C1751628600000"
+    "nextCursor": "732|1730499698898",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=732%7C1730499698898"
   }
 }
