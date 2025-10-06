@@ -1,41 +1,94 @@
 {
   "items": [
     {
-      "id": 70167130,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08b6eb59-2f9e-4aac-9c91-7b4cbbc985ec/original=true/08b6eb59-2f9e-4aac-9c91-7b4cbbc985ec.jpeg",
-      "hash": "UBHA|gxa014.0eE19aoz00=|M{%2~V%LM|n%",
-      "width": 1280,
-      "height": 1856,
+      "id": 74761859,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9024e63e-8a63-4a75-adc1-3832d6f14d65/original=true/9024e63e-8a63-4a75-adc1-3832d6f14d65.jpeg",
+      "hash": "UFMF8#~BQ,Kj;_}p%fOFqZR5#+I;+tkCxaNG",
+      "width": 720,
+      "height": 1280,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-04-16T00:37:00.000Z",
-      "postId": 15589359,
+      "createdAt": "2025-05-07T13:00:00.000Z",
+      "postId": 16600460,
       "stats": {
-        "cryCount": 124,
-        "laughCount": 232,
-        "likeCount": 1860,
+        "cryCount": 106,
+        "laughCount": 175,
+        "likeCount": 1829,
         "dislikeCount": 0,
-        "heartCount": 940,
-        "commentCount": 2
+        "heartCount": 1045,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "Size": "720x1280",
+        "seed": 266685925,
+        "Model": "ilustmix_v63",
+        "steps": 30,
+        "hashes": {
+          "model": "54361fc47c",
+          "lora:Detailer_NoobAI_Incrs_v1": "9f242f949d7b",
+          "lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1": "ca72422dcb3e"
+        },
+        "prompt": "8K, depth of field, dynamic angle, sexy pose, best quality, detailed eyes, perfect eyes, realistic eyes, skindentation, single, one, red hair hair, one side up hair, blue eyes, lipstick, thick eyebrows, black eyebrows, darker eyeshadow, full lips, slim body, flexible body, , medium breast, realistic breast, naked, BREAK, (realistic nipples), ((realistic pussy, puffy pussy)), (pussy presentation:1.3), BREAK, lying, on side, from bellow, movie perspective, orange background, <lora:MoriiMee_Gothic_Niji_Style_Illustrious_r1:0.5> artist:moriimee,  <lora:Detailer_NoobAI_Incrs_v1:0.7> detailed,",
+        "Version": "f2.0.1v1.10.1-previous-659-gc055f2d4",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "ca72422dcb3e",
+            "name": "MoriiMee_Gothic_Niji_Style_Illustrious_r1",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "9f242f949d7b",
+            "name": "Detailer_NoobAI_Incrs_v1",
+            "type": "lora",
+            "weight": 0.7
+          },
+          {
+            "hash": "54361fc47c",
+            "name": "ilustmix_v63",
+            "type": "model"
+          }
+        ],
+        "Model hash": "54361fc47c",
+        "Schedule type": "Automatic",
+        "negativePrompt": "3D, leather:1.3, loli, man, multiple, closeup:1.3, close, parted lips, portrait, shine, (worst quality, low quality, sketch:1.1),error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowers, multiple views, signature,",
+        "ADetailer model": "face_yolov8s.pt",
+        "ADetailer version": "25.3.0",
+        "ADetailer mask blur": "20",
+        "ADetailer model 2nd": "female-breast-v4.7.pt",
+        "ADetailer model 3rd": "vagina-v4.1.pt",
+        "ADetailer confidence": "0.6",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "20",
+        "ADetailer mask blur 3rd": "40",
+        "ADetailer confidence 2nd": "0.5",
+        "ADetailer confidence 3rd": "0.2",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer dilate erode 3rd": "4",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer inpaint padding 3rd": "32",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer denoising strength 3rd": "0.4",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer inpaint only masked 3rd": "True"
+      },
+      "username": "GZees",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        372639,
-        1327752,
-        1412563,
-        1490781
+        1191626,
+        1244133
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "771|1746622800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=771%7C1746622800000"
+    "nextCursor": "772|1734333377537",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=772%7C1734333377537"
   }
 }
