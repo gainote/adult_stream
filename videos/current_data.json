@@ -1,93 +1,83 @@
 {
   "items": [
     {
-      "id": 66675647,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e120dcc0-bd1d-4815-b07d-5da9903c5e1b/original=true/e120dcc0-bd1d-4815-b07d-5da9903c5e1b.jpeg",
-      "hash": "UEF#%N9FTd~WMzWA-5s;00$%IVD*N{t8X7W;",
-      "width": 1408,
-      "height": 2048,
-      "nsfwLevel": "X",
+      "id": 90011993,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cfd019f7-e23a-46a8-ae25-7e463239fd72/original=true/cfd019f7-e23a-46a8-ae25-7e463239fd72.jpeg",
+      "hash": "UdLgqm-;~qxv$%RkWVkC?vRjWWfkIUofxuog",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-29T18:55:44.046Z",
-      "postId": 14835011,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-25T06:00:00.000Z",
+      "postId": 19963773,
       "stats": {
-        "cryCount": 81,
-        "laughCount": 223,
-        "likeCount": 1853,
+        "cryCount": 212,
+        "laughCount": 370,
+        "likeCount": 1877,
         "dislikeCount": 0,
-        "heartCount": 1044,
+        "heartCount": 741,
         "commentCount": 1
       },
       "meta": {
-        "seed": 1456819855,
-        "vaes": [],
-        "extra": {},
-        "steps": 40,
-        "models": [],
-        "prompt": "masterpiece,8k ultra-HD,  high detail, depth of field, (blurred background), (dramatic lighting),masterpiece,  very aesthetic,,realistic,  best quality, \n1girl, bathtub, elf, pointy_ears, ass, nude, twintails, frieren, completely_nude, green_eyes, solo, bathing, bath, looking at viewer, wet, huge ass, partially submerged, water, parted bangs, rubber duck\ncinematic lighting, photorealistic, impressionism (1.5),",
+        "Size": "832x1216",
+        "seed": 1603423486,
+        "draft": false,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, (((masterpiece))), 1girl, best quality, expressive eyes, perfect face, ultra-detailed, sexy, high res, ((solo)), angelic beauty, detailed, ((((sexy woman)))), (((mature woman))), curvy sexy body, {{{massive perky breasts}}}, shiny skin, sexy waist,\nsmall waist, wide hips, (((vary sexy hot body, well endowed))), curvy torso,\n(( barnyard background)), 1dk, full body, \n black hair, hair ornament, brown eyes, hairclip, light skin, hair bun, light skinned female, very long ponytail, {{{huge breasts}}}, ((smug)), evil smile, T shirt, horse legs, taur, cow horns ,\n hooves, hooved feet, 1girl, monster girl, hooves, fur lower half, bones, full lips painted with a subtle golden sheen, and large, alluring eyes that seem to hold the promise of untold treasures. A smirk playing at the corners of her mouth, hinting at amusement and curiosity about. Her pose is one of confident elegance, with one hip slightly cocked to the side and her weight resting on one leg.",
         "sampler": "Euler a",
-        "cfgScale": 4,
-        "modelIds": [],
-        "workflow": "img2img-upscale",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "Female tongue, female tongue out, Neck grab, worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 8,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-23T1530:44.3141593Z",
+        "experimental": false,
+        "negativePrompt": "(worst quality, low quality:1.4), (greyscale, monochrome:1.1), cropped, lowres , username, blurry, trademark, watermark, title, strabismus, clothing cutout, side slit,worst hand, (ugly face:1.2), extra leg, extra arm, bad foot, text, name, badhandv4, easynegative, EasyNegativeV2, negative_hand, ng_deepnegative_v1_75t",
         "civitaiResources": [
           {
+            "type": "checkpoint",
+            "modelVersionId": 1714002,
+            "modelVersionName": "Walnut"
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1240288
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1240288
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
           },
           {
-            "weight": 0.45,
-            "modelVersionId": 959419
-          },
-          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 1036362
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1219983
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1232278
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 348189,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "Big_Master",
+      "username": "Dragonking123",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        164821,
-        959419,
-        1036362,
-        1219983,
-        1232278,
-        1240288
+        135867,
+        348189,
+        1244133,
+        1714002
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "736|1753423200000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=736%7C1753423200000"
+    "nextCursor": "737|1757100120000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=737%7C1757100120000"
   }
 }
