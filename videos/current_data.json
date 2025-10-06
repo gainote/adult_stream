@@ -1,56 +1,77 @@
 {
   "items": [
     {
-      "id": 84338367,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1210169-47d1-4de6-b37c-a6d2727f5d0e/original=true/f1210169-47d1-4de6-b37c-a6d2727f5d0e.jpeg",
-      "hash": "UHINaInipI%M~qa$%Lx]Ne%MIUofxaX8D%ni",
-      "width": 1536,
-      "height": 2304,
-      "nsfwLevel": "X",
+      "id": 68400762,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca9aa3aa-da9f-4e4c-896e-dc799b8f35b1/original=true/ca9aa3aa-da9f-4e4c-896e-dc799b8f35b1.jpeg",
+      "hash": "U9J*9l00t,01IV01Nbj[00xv~WM|RO_N4n?b",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-24T23:55:00.000Z",
-      "postId": 18721113,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-06T22:07:38.705Z",
+      "postId": 15201893,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 231,
-        "likeCount": 1830,
+        "cryCount": 114,
+        "laughCount": 243,
+        "likeCount": 1881,
         "dislikeCount": 0,
-        "heartCount": 1022,
-        "commentCount": 1
+        "heartCount": 949,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "2305x1537",
-        "seed": 909979062918813,
-        "Model": "A-mix",
-        "steps": 30,
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 3897778457,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
         "hashes": {
-          "model": "b199b92ee9"
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:bursting_breasts_ilxl_goofy": "e7d32425e821"
         },
-        "prompt": "1girl, hetero, 1boy, oral, breasts, fellatio, large penis, nipples, nude, kneeling, medium breasts, mixed-sex bathing, barefoot, closed eyes, hands on another's head, completely nude, indoors, shared bathing, wet, from side, short hair, standing, pubic hair, erection, bathroom, brown hair, showering, , male pubic hair, , hand on another's head, , solo focus, backlighting, testicles, irrumatio, navel, deepthroat, seiza,  water, window, sitting, black hair, shower \\(place\\), full body, head grab, masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
-        "Version": "ComfyUI",
-        "sampler": "euler_ancestral",
-        "CFG Scale": "6.0",
+        "prompt": "masterpiece,best quality,amazing quality, <lora:bursting_breasts_ilxl_goofy:1>bursting breasts, 1girl, niijima makoto, crown braid, brown hair, alternate breast size, red eyes, button gap, gigantic breasts, white shirt, blush, short hair, undersized clothes, black skirt, window, long sleeves, indoors, trembling, popped button, upper body, breast expansion, looking down, closed mouth, curtains, embarrassed, cleavage, sweat, bright pupils, buttons, collared shirt",
+        "Version": "f1.3.0-v1.10.1RC-latest-1007-g7ed29402",
+        "sampler": "DPM++ 2M SDE",
+        "cfgScale": 6,
         "resources": [
           {
-            "hash": "b199b92ee9",
-            "name": "A-mix",
+            "hash": "e7d32425e821",
+            "name": "bursting_breasts_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
             "type": "model"
           }
         ],
-        "Model hash": "b199b92ee9",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "phinjo",
+      "username": "Goofy_Ai",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1915059
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "747|1743977258705",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=747%7C1743977258705"
+    "nextCursor": "748|1742577599162",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=748%7C1742577599162"
   }
 }
