@@ -1,83 +1,82 @@
 {
   "items": [
     {
-      "id": 90011993,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cfd019f7-e23a-46a8-ae25-7e463239fd72/original=true/cfd019f7-e23a-46a8-ae25-7e463239fd72.jpeg",
-      "hash": "UdLgqm-;~qxv$%RkWVkC?vRjWWfkIUofxuog",
+      "id": 98500085,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a56bd14-f718-4d09-9229-6ddf6d5c97d0/original=true/2a56bd14-f718-4d09-9229-6ddf6d5c97d0.jpeg",
+      "hash": "U3GSGy0000~B9Y-p?w4m00NGQ-~q00so4TXm",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-25T06:00:00.000Z",
-      "postId": 19963773,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-05T19:22:00.000Z",
+      "postId": 21855050,
       "stats": {
-        "cryCount": 212,
-        "laughCount": 370,
-        "likeCount": 1877,
+        "cryCount": 140,
+        "laughCount": 232,
+        "likeCount": 1985,
         "dislikeCount": 0,
-        "heartCount": 741,
-        "commentCount": 1
+        "heartCount": 842,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1603423486,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, (((masterpiece))), 1girl, best quality, expressive eyes, perfect face, ultra-detailed, sexy, high res, ((solo)), angelic beauty, detailed, ((((sexy woman)))), (((mature woman))), curvy sexy body, {{{massive perky breasts}}}, shiny skin, sexy waist,\nsmall waist, wide hips, (((vary sexy hot body, well endowed))), curvy torso,\n(( barnyard background)), 1dk, full body, \n black hair, hair ornament, brown eyes, hairclip, light skin, hair bun, light skinned female, very long ponytail, {{{huge breasts}}}, ((smug)), evil smile, T shirt, horse legs, taur, cow horns ,\n hooves, hooved feet, 1girl, monster girl, hooves, fur lower half, bones, full lips painted with a subtle golden sheen, and large, alluring eyes that seem to hold the promise of untold treasures. A smirk playing at the corners of her mouth, hinting at amusement and curiosity about. Her pose is one of confident elegance, with one hip slightly cocked to the side and her weight resting on one leg.",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "seed": 254797977,
+        "steps": 28,
+        "prompt": "(4k,8k,Ultra HD), masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, cinematic, \nBREAK\nambient occlusion, raytracing, soft lighting, blum effect, masterpiece, absolutely eye-catching, intricate cinematic background, \nBREAK\nmasterpiece, amazing quality, best quality, ultra-detailed, 8K, illustrating, CG,detailed background, cute girl, eyelashes\nBREAK\nAka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns,\nBREAK\narms behind head, arms up, breasts, parted lips, navel, collarbone, collared shirt, cowboy shot, dress shirt, hands in hair, hands on own head, long shirt, long sleeves, looking at viewer, medium breasts, naked shirt, see-through silhouette, shirt, light smile, solo,\nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1), wlop,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 8,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-23T1530:44.3141593Z",
-        "experimental": false,
-        "negativePrompt": "(worst quality, low quality:1.4), (greyscale, monochrome:1.1), cropped, lowres , username, blurry, trademark, watermark, title, strabismus, clothing cutout, side slit,worst hand, (ugly face:1.2), extra leg, extra arm, bad foot, text, name, badhandv4, easynegative, EasyNegativeV2, negative_hand, ng_deepnegative_v1_75t",
+        "Created Date": "2025-09-05T0852:36.4140943Z",
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1714002,
-            "modelVersionName": "Walnut"
+            "modelVersionId": 1761560
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1209350
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
+            "weight": 0.45,
+            "modelVersionId": 1447126
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 348189,
-            "modelVersionName": "v1.0"
+            "weight": 0.4,
+            "modelVersionId": 2034730
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1278054
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1888209
           }
         ]
       },
-      "username": "Dragonking123",
+      "username": "BeeZ333",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        348189,
-        1244133,
-        1714002
+        1209350,
+        1278054,
+        1447126,
+        1761560,
+        1888209,
+        2034730
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "737|1757100120000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=737%7C1757100120000"
+    "nextCursor": "738|1754077955110",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=738%7C1754077955110"
   }
 }
