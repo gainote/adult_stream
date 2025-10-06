@@ -1,88 +1,149 @@
 {
   "items": [
     {
-      "id": 33511269,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08d037b9-ec08-4702-a5e3-daefaefaa7eb/original=true/08d037b9-ec08-4702-a5e3-daefaefaa7eb.jpeg",
-      "hash": "U9Kce90001?aPp00-;~p1M9tNH9a00JA^*VY",
-      "width": 1248,
-      "height": 1824,
+      "id": 81758252,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90204105-2cf3-4a6a-9c80-e5f580601f1a/original=true/90204105-2cf3-4a6a-9c80-e5f580601f1a.jpeg",
+      "hash": "ULM?-%~q0M?a10%g%19F9FWCn39F0KtRozxu",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-10-08T15:57:13.286Z",
-      "postId": 7665190,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-12T00:37:00.000Z",
+      "postId": 18161565,
       "stats": {
-        "cryCount": 109,
-        "laughCount": 248,
-        "likeCount": 1820,
+        "cryCount": 93,
+        "laughCount": 229,
+        "likeCount": 1906,
         "dislikeCount": 0,
-        "heartCount": 1020,
-        "commentCount": 3
+        "heartCount": 965,
+        "commentCount": 6
       },
       "meta": {
-        "": {},
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "1248x1824",
-        "seed": 3776886036,
-        "Model": "prefect_pony_xl_v2.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "517caf19d7",
-          "lora:pussy_floss_pdxl_goofy": "896b8c589b53"
+        "nsfw": false,
+        "seed": 1896560531,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1277670@1772645",
+        "extra": {},
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1277670@1772645"
+        ],
+        "prompt": "masterpiece, absurdres, masterpiece, best_quality, ultra-detailed, newest, sharp focus, best quality, amazing quality, very aesthetic, soft focus, Rapscallionstyle, artist:moriimee, lazypos, lazyneg, SagawaStyle, vanripper,\nwhite hue, surreal, perspective, (1girl), laying on bed, messy long hair, dark hair, white tshirt, underboob, aroused, horny face, half opened mouth, moaning, breathing steam, dutch angle, face focus, large breast, hand in panties, pink panties, pillow humping, riding white pillow, grabing breast, twitching thighs, strong (((depth of field))), sunny, light particles, side view,",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/75K8X23XNJVW79RSAPA1KC2H30.jpeg",
+          "width": 832,
+          "height": 1216
         },
-        "prompt": "score_9,score_8_up,score_7_up,<lora:pussy_floss_pdxl_goofy:1>  pussy floss, 1girls, azula, big breasts, bikini, breasts, female,  huge breasts, large breasts, mommy,slingshot swimsuit, thick thighs, wide hips,red lips",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ 2M",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
-        "resources": [
+        "experimental": false,
+        "negativePrompt": "bad quality, worst quality, worst detail, censor, missing fingers, extra fingers, blurry eyes, poorly drawn eyes, skewed eyes, bad anatomy, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, cencored. signature, watermark, censored, logo, waterprints, title, cropped image, ",
+        "civitaiResources": [
           {
-            "hash": "896b8c589b53",
-            "name": "pussy_floss_pdxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 1772645
           },
           {
-            "hash": "517caf19d7",
-            "name": "prefect_pony_xl_v2.fp16",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 1772645
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1169143
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1833157
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1860747
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 895984
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 989634
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1772645
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1169143
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 895984
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 989634
           }
         ],
-        "Model hash": "517caf19d7",
-        "Tile Overlap": "48",
-        "Schedule type": "Karras",
-        "Upscale factor": "1.5",
-        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
-        "ADetailer model": "face_yolov8s.pt",
-        "Keep input size": "true}",
-        "Tile batch size": "6",
-        "Tile tile width": "160",
-        "Tiled Diffusion": {},
-        "Tile tile height": "160",
-        "ADetailer version": "24.8.0",
-        "Denoising strength": "0.4",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Tiled Diffusion upscaler": "4x-UltraSharp",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "Tiled Diffusion scale factor": "1.5",
-        "ADetailer inpaint only masked": "True"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:389869@1169143",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:801308@895984",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:884077@989634",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Pony",
+      "username": "Futurabbit",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        686553,
-        935220
+        164821,
+        895984,
+        989634,
+        1169143,
+        1772645,
+        1833157,
+        1860747
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "740|1749688620000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=740%7C1749688620000"
+    "nextCursor": "741|1748220060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=741%7C1748220060000"
   }
 }
