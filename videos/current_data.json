@@ -1,113 +1,56 @@
 {
   "items": [
     {
-      "id": 86206838,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ec2cf14-fe52-4b40-bd62-9c861531e204/original=true/5ec2cf14-fe52-4b40-bd62-9c861531e204.jpeg",
-      "hash": "U5Dlo}.m00P;y@MJ$yHXGa-5,C.lsp_2%#nN",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 7606464,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c772feb5-20b7-4adb-9b19-c73c623d2ec2/original=true/c772feb5-20b7-4adb-9b19-c73c623d2ec2.jpeg",
+      "hash": "U4Hw+Hoz0po~00t7X.R*00nhxZV@~Bv},.ax",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-04T11:30:00.000Z",
-      "postId": 19129705,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-01T22:21:38.898Z",
+      "postId": 1647517,
       "stats": {
-        "cryCount": 120,
-        "laughCount": 208,
-        "likeCount": 1935,
+        "cryCount": 129,
+        "laughCount": 264,
+        "likeCount": 1879,
         "dislikeCount": 0,
-        "heartCount": 940,
-        "commentCount": 1
+        "heartCount": 931,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 4140100032,
-        "Model": "LucentXL_untitled_pony_b2",
-        "steps": 32,
-        "hashes": {
-          "model": "7a67cafac4",
-          "lora:RawCam_250_v1": "61a5dbda26b2",
-          "lora:RealSkin_xxXL_v1": "d67c6e09dbf9",
-          "lora:amateur_egirl_v1.9": "f5d3d7fcee7a",
-          "lora:puffy_tits_PONY_v1": "a228c3d6a690",
-          "lora:ILXL_Realism_Slider_V.1": "220b18b3587b",
-          "lora:nippleXL1_alpha2.5_rank2_noxattn_250steps": "7f8ec22f0923",
-          "lora:amesuku_gyaru_himekaji_v1_alpha1.5_rank2_noxattn_100steps": "5c60007c0b3e"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, 1girl, brunette hair, short hair, clear eyes, (freckles:0.5), dimples, small breasts, breasts apart, puffy_breasts, exposed breasts, visible belly and navel, joyful expression, passionate eyes, gentle sweet face, wearing long sleeves, (side view, from side:1.2), looking at viewer, (ambient occlusion), (cinematic lighting:1.3), (4K image quality:1.3), (sharp detail:1.3), (highly realistic:1.3), (dim warm cinematic lighting:1.3)\n<lora:amateur_egirl_v1.9:1.5>\n<lora:puffy_tits_PONY_v1:2.5>\n<lora:ILXL_Realism_Slider_V.1:2>\n<lora:RealSkin_xxXL_v1:1.5>\n<lora:RawCam_250_v1:3>\n",
-        "Version": "v1.10.0",
-        "sampler": "DPM++ SDE",
-        "cfgScale": 4.5,
-        "resources": [
+        "seed": 706259669,
+        "steps": 30,
+        "prompt": "Nami, huge breasts, breast movement,score_9, score_8_up, score_7_up, 1girl, source_anime, pov, huge dick, missionary, expressive, anime, cartoon, hearts, speedlines, dynamic",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "negativePrompt": "score_6, score_5, score_4, pubic hair, pony, gaping, muscular, makeup, censored, furry, young, childish, blue penis, green penis, black hair, monochrome, mate colors",
+        "civitaiResources": [
           {
-            "hash": "f5d3d7fcee7a",
-            "name": "amateur_egirl_v1.9",
-            "type": "lora",
-            "weight": 1.5
+            "type": "checkpoint",
+            "modelVersionId": 290640
           },
           {
-            "hash": "a228c3d6a690",
-            "name": "puffy_tits_PONY_v1",
             "type": "lora",
-            "weight": 2.5
-          },
-          {
-            "hash": "220b18b3587b",
-            "name": "ILXL_Realism_Slider_V.1",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "d67c6e09dbf9",
-            "name": "RealSkin_xxXL_v1",
-            "type": "lora",
-            "weight": 1.5
-          },
-          {
-            "hash": "61a5dbda26b2",
-            "name": "RawCam_250_v1",
-            "type": "lora",
-            "weight": 3
-          },
-          {
-            "hash": "7f8ec22f0923",
-            "name": "nippleXL1_alpha2.5_rank2_noxattn_250steps",
-            "type": "lora",
-            "weight": 3
-          },
-          {
-            "hash": "5c60007c0b3e",
-            "name": "amesuku_gyaru_himekaji_v1_alpha1.5_rank2_noxattn_100steps",
-            "type": "lora",
-            "weight": 2
-          },
-          {
-            "hash": "7a67cafac4",
-            "name": "LucentXL_untitled_pony_b2",
-            "type": "model"
+            "weight": 1.75,
+            "modelVersionId": 380329
           }
-        ],
-        "Model hash": "7a67cafac4",
-        "Hires steps": "15",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires upscaler": "Latent",
-        "negativePrompt": "score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs",
-        "Denoising strength": "0.5"
+        ]
       },
-      "username": "klaabu",
+      "username": "jspp3733410",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1681903,
-        1681921,
-        1926656,
-        1971591
+        290640
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "732|1730499698898",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=732%7C1730499698898"
+    "nextCursor": "733|1753615035367",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=733%7C1753615035367"
   }
 }
