@@ -1,73 +1,90 @@
 {
   "items": [
     {
-      "id": 97419060,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9662214-a258-4187-a658-405ba8a96d5b/original=true/b9662214-a258-4187-a658-405ba8a96d5b.jpeg",
-      "hash": "U4C5q~9F0h}UEN57OswI00?Hv}tlE0^+wHEk",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
+      "id": 91901175,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a292608-f718-4ae7-8034-79680c331d91/original=true/2a292608-f718-4ae7-8034-79680c331d91.jpeg",
+      "hash": "UVJayNxa?w=|0MW;I=bHJokWoLSho#tRxGNG",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-31T00:41:00.000Z",
-      "postId": 21612112,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-05T00:15:35.259Z",
+      "postId": 20388024,
       "stats": {
-        "cryCount": 115,
-        "laughCount": 181,
-        "likeCount": 1974,
+        "cryCount": 168,
+        "laughCount": 228,
+        "likeCount": 2007,
         "dislikeCount": 0,
-        "heartCount": 899,
-        "commentCount": 1
+        "heartCount": 762,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 687847568,
-        "extra": {},
-        "steps": 50,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, solo, (depth of field), medieval setting, indoors, tavern, day time\n\n1girl, (calista:1.5), blue eyes, big breasts, cute face,\n\nnude, black choker, black elbow gloves, black thigh highs,\n\nholding drink tray, walking, dynamic pose, looking at viewer, pussy,",
-        "denoise": 0.4,
+        "Size": "832x1216",
+        "seed": 423380592,
+        "draft": false,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, absurdres, newest, ultra-detailed, highly detailed, detailed background, perfect quality, best quality, very aesthetic, intricate details, detailed face, beautiful face, perfect eyes, detailed eyes, perfect face, perfect anatomy, dynamic lighting, 2d, sunny day, beach,  water reflection, foreshortening, blurry background, BREAK , (( cana, 1girl, long hair, brown hair, purple eyes, large breasts, brown eyes, patterned criss-cross halter bikini,  thigh, (wet:0.7), seductive face, pupils ,barefoot, seductive smile)), BREAK , motion lines, <lora:dio-brandos-pose-illustriousxl-lora-nochekaiser:1>, dio brandos pose, dio brando's pose (jojo), from behind, jojo pose, standing, dynamic angle, dutch angle, cowboy shot, looking at viewer",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
+          {
+            "name": "dio-brandos-pose-illustriousxl-lora-nochekaiser",
+            "type": "lora",
+            "weight": 1
+          }
         ],
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-02T0450:10.0557576Z",
+        "experimental": false,
+        "negativePrompt": "lowres, bad, error, fewer, extra, missing, worst quality, lowres,(bad),text,error,fewer,extra,missing,worst quality,jpeg artifacts,low quality,watermark,unfinished,displeasing,oldest,early,chromatic aberration,signature,extra digits,artistic error,username,scan,[abstract],comics, panties, red skin, large aerolas, large nipples, bows, white outline, missing finger, shirt design, chibi characters, bald, cape, Disfigured, kitsch, ugly, oversaturated, grain, low-res, Deformed, blurry, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands,1boy, 2 boys, horns, qu33n",
         "civitaiResources": [
           {
+            "type": "checkpoint",
+            "modelVersionId": 1873831,
+            "modelVersionName": "v2.0p"
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1490781
+            "modelVersionId": 1778929,
+            "modelVersionName": "booru"
           },
           {
-            "weight": 0.85,
-            "modelVersionId": 1189052
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 1417184,
+            "modelVersionName": "IXL 2.0"
           },
           {
-            "weight": 0.5,
-            "modelVersionId": 1416874
-          },
-          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 2160818
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 1783930,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "ElvishDreams",
+      "username": "GEATSZ08",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1189052,
-        1416874,
-        1490781,
-        2160818
+        1417184,
+        1778929,
+        1783930,
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "762|1754352935259",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=762%7C1754352935259"
+    "nextCursor": "763|1755645684359",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=763%7C1755645684359"
   }
 }
