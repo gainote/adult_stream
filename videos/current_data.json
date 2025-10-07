@@ -1,91 +1,78 @@
 {
   "items": [
     {
-      "id": 19097253,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/77ddedae-eed2-4d79-aa10-e2453acaa287/original=true/77ddedae-eed2-4d79-aa10-e2453acaa287.jpeg",
-      "hash": "UHFX0K9b5RM|0}NH-oWonkNG-Uni~AIpX8M|",
-      "width": 832,
-      "height": 1216,
+      "id": 47656091,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d2523ab8-b0e9-4e58-95c8-99e92cc4fc5f/original=true/d2523ab8-b0e9-4e58-95c8-99e92cc4fc5f.jpeg",
+      "hash": "UBG*4vtR03xu01M{0eoe9v?G~BE2x[IorrR*",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-07-09T10:13:23.518Z",
-      "postId": 4262082,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-26T04:25:00.000Z",
+      "postId": 10757294,
       "stats": {
-        "cryCount": 100,
-        "laughCount": 176,
-        "likeCount": 1690,
+        "cryCount": 117,
+        "laughCount": 220,
+        "likeCount": 1832,
         "dislikeCount": 0,
-        "heartCount": 1129,
+        "heartCount": 925,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 494941948,
-        "steps": 24,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, lying on stomach , cute face, sexy body, pink panties, kawaii girl, sexy body, perfect cute face, narrow hips, thighs, surprised, topless, nude big breasts, puffy nipples, reading book, question mark,  small tight ass, (((shiny ass))),long brown wavy hair, freckles, pale skin, hazel eyes, feet, twin ponytails, blushing, head down eyes up, (embarrassed:0.4), (worried:0.4), nose blush, lying on side, concentrating, stacks of textbooks, looking at viewer, from front, front view, ass crack, anus, pussy, couch",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "Size": "512x768",
+        "seed": 2724243271,
+        "Model": "re-mixmain.fp16",
+        "steps": 30,
+        "hashes": {
+          "model": "25657b43ea"
+        },
+        "prompt": "1girl, large breasts, white thighhighs, , red eyes,  christmas, white fur trim,  garter straps,  santa costume,  santa dress,  indoors,  fur-trimmed headwear,  garter belt, parted lips, lace trim, teeth, night, log cabin, red hair,  white hair, white tips, , two-tone hair, very short hair, bob, tomboy, window,  snowing  1girl, breasts, hetero, nipples, 1boy, (muscular male), head back, cowgirl position, nude, straddling, pov, sex, navel, girl on top, completely nude, cum, orgasm, tongue, cum in pussy, female orgasm, vaginal, innie pussy, solo focus, sweat, stomach, saliva, thighs, trembling, arms behind back, breasts apart, collarbone ,hair over one eye, white eyelashes, colored eyelashes, zPDXL3, detailxl,  Score_PnyReal, (lineless:1.5)",
+        "Version": "f0.0.17v1.8.0rc-latest-277-g0af28699",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-09T1013:00.8879458Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, plain background",
-        "civitaiResources": [
+        "TI hashes": {
+          "zPDXL3": "1727c6cddf61",
+          "detailxl": "cad765d41c8a",
+          "zPDXL-neg": "31a5da9018b9",
+          "negativeXL_D": "fff5d51ab655",
+          "Score_PnyReal": "63e618ba9fc7",
+          "unaestheticXL_bp5": "ea3af2932609",
+          "PDXLneg-NoAniPny_-neg": "9a5caeded086"
+        },
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "25657b43ea",
+            "name": "re-mixmain.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "25657b43ea",
+        "Hires prompt": {},
+        "Hires upscale": "2",
+        "Hires upscaler": "None",
+        "negativePrompt": "black hair, muscular female, negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,  half-closed eyes,",
+        "ADetailer model": "face_yolov8s.pt",
+        "ADetailer version": "24.5.1",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "4",
+        "ADetailer denoising strength": "0.3",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": null,
+      "username": "phinjo",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        290640,
-        382152,
-        398847,
-        436219
+        1116628
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "817|1735187100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=817%7C1735187100000"
+    "nextCursor": "818|1740073254229",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=818%7C1740073254229"
   }
 }
