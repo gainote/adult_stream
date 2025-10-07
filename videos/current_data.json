@@ -1,121 +1,38 @@
 {
   "items": [
     {
-      "id": 96083621,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a21dcd1d-e0c8-40e5-b3c3-7d53b89619e0/original=true/a21dcd1d-e0c8-40e5-b3c3-7d53b89619e0.jpeg",
-      "hash": "U7AA2R0K01~Wt6V@R,NG0L?G-VE2E1xaWBjF",
-      "width": 1152,
-      "height": 2016,
-      "nsfwLevel": "Mature",
+      "id": 73452589,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a59df0c9-1fc6-4b50-98b8-bf6da72d07bf/original=true/a59df0c9-1fc6-4b50-98b8-bf6da72d07bf.jpeg",
+      "hash": "U47d{^RPIWoy_KofM|t7R.WYIVj@M|RkDjjZ",
+      "width": 1920,
+      "height": 2816,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-23T21:18:37.202Z",
-      "postId": 21312484,
+      "browsingLevel": 16,
+      "createdAt": "2025-05-01T07:49:38.399Z",
+      "postId": 16314282,
       "stats": {
-        "cryCount": 114,
-        "laughCount": 178,
-        "likeCount": 1887,
+        "cryCount": 733,
+        "laughCount": 738,
+        "likeCount": 817,
         "dislikeCount": 0,
-        "heartCount": 927,
-        "commentCount": 4
+        "heartCount": 816,
+        "commentCount": 0
       },
-      "meta": {
-        "TI": {},
-        "Size": "768x1344",
-        "seed": 3600179139,
-        "Model": "illustrijEVO_lvl2",
-        "steps": 35,
-        "hashes": {
-          "model": "26e849d38a",
-          "lora:HRGKS": "eae24e11decd",
-          "lora:reij-rt": "de266b8de516",
-          "lora:DetailerILv2": "ec445f789fbe",
-          "lora:cyber-sijren": "7bfb7ca1cc8a",
-          "lora:retro_scifi_artstyle": "05c6d2cea061",
-          "lora:HyperdetailedRealismMJ7Illustrious": "04d1683e8d54"
-        },
-        "prompt": "IllusP0s, <lora:HRGKS:0.8>, bsshrgks,<lora:cyber-sijren:0.5>,cybersijren, <lora:HyperdetailedRealismMJ7Illustrious:0.4>, arsmjstyle,\n(masterpiece, best quality, absurdres, highres, ultra-detailed, editorial style, artistic photography), pinup style,\nlinear hatching, anime coloring,  (dramatic lighting, chiaroscuro, dynamic perspective),\n(close up, straight on),\n1girl, blonde hair, wavy hair, medium hair, bangs topknot, oversized tank top, crop tank top, underboob, linea alba, toned, navel, denim shorts,  unbuttoned, \ncontrapposto, blue bandaged arm, hand on waistband, leaning to the side, arching waist, fashion pose, \none hand behind head, armpit, elbow up,\nforced perspective, dark background, moody fashion atmosphere, adv fashion style, (erotic, fashion, lewd, elegant, provocative), k-pop fashion, manhwa style, sharp lineart, muted color palette, trendy,\n jeddtl02, <lora:reij-rt:0.8>, <lora:DetailerILv2:0.6>,  <lora:retro_scifi_artstyle:0.4>",
-        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "eae24e11decd",
-            "name": "HRGKS",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "7bfb7ca1cc8a",
-            "name": "cyber-sijren",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "04d1683e8d54",
-            "name": "HyperdetailedRealismMJ7Illustrious",
-            "type": "lora",
-            "weight": 0.4
-          },
-          {
-            "hash": "de266b8de516",
-            "name": "reij-rt",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "ec445f789fbe",
-            "name": "DetailerILv2",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "05c6d2cea061",
-            "name": "retro_scifi_artstyle",
-            "type": "lora",
-            "weight": 0.4
-          },
-          {
-            "hash": "26e849d38a",
-            "name": "illustrijEVO_lvl2",
-            "type": "model"
-          }
-        ],
-        "Model hash": "26e849d38a",
-        "Hires steps": "25",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "remacri_original",
-        "negativePrompt": "IllusN3g, poorly detailed, jpeg artifacts, worst quality, bad quality, lowres, bad anatomy, deformed face,animal ears,extra fingers,oversaturation,bad anthropometry, face tattoo, portrait \\(object\\),",
-        "ADetailer model": "face_yolov8s.pt",
-        "Hires CFG Scale": "5",
-        "ADetailer prompt": {},
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "hornie_squirrel",
-      "baseModel": "Illustrious",
+      "meta": null,
+      "username": "qazsedcAI",
+      "baseModel": "NoobAI",
       "modelVersionIds": [
-        1021743,
-        1156521,
-        1736373,
-        1753229,
-        2060359,
-        2091617,
-        2136687
+        164821,
+        1195487,
+        1319527,
+        1470551
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "809|1746085778399",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=809%7C1746085778399"
+    "nextCursor": "810|1754077954464",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=810%7C1754077954464"
   }
 }
