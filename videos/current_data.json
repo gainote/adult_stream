@@ -1,81 +1,124 @@
 {
   "items": [
     {
-      "id": 103950366,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af76b316-e1a9-4f07-97f0-9cff6c66c782/original=true/af76b316-e1a9-4f07-97f0-9cff6c66c782.jpeg",
-      "hash": "UCNv=7H=_N~Bie4T?b-o%$8_RjRP?I-;I.I;",
-      "width": 832,
-      "height": 1216,
+      "id": 57993571,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/629f998f-6a22-4de5-a6e8-857e35e699c1/original=true/629f998f-6a22-4de5-a6e8-857e35e699c1.jpeg",
+      "hash": "U5PFWG0000IwK^^f%QE813NyEV#T}Y578_?F",
+      "width": 1344,
+      "height": 1896,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-10-03T18:10:00.000Z",
-      "postId": 23063130,
+      "createdAt": "2025-02-15T16:49:00.000Z",
+      "postId": 12979324,
       "stats": {
-        "cryCount": 112,
-        "laughCount": 211,
-        "likeCount": 1895,
+        "cryCount": 78,
+        "laughCount": 196,
+        "likeCount": 1862,
         "dislikeCount": 0,
-        "heartCount": 888,
-        "commentCount": 4
+        "heartCount": 960,
+        "commentCount": 0
       },
       "meta": {
-        "Model": "urn:air:sdxl:checkpoint:civitai:1025051@2186168",
-        "extra": {},
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1025051@2186168"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality,\n\nsexy hot,\nposing,\ncell shading,\n(pastel colors:0.4),\n\n(messy hairs:0.3),\n\nstanding,\nbent over,\nhand vacuum cleaner,\nroom,\nblack socks,\nblack shirt,\nupdo,\nass folds,\ninnie pussy,\nwhite carpet,",
-        "denoise": 0.01,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
-        "baseModel": "Illustrious",
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/92295141806430356048735308765049895366.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQBfcPCfjHskU1m7TXEQmGb1D_hW7VByokAN3YdXLozI7OmcORt9GCB8CCvBIaM-0x2KY6v-XwjghicL-07NPwRXJPJE2_0jddJJpLvxKKVLajHhsQVP0xmEXLeQY1baiOwtfX5XsBpQimmvw6q7_wLY6eHt8f4PnMEHzD6RZTLNtGGU7Sp-W9CQP4aZIdvBOd_iH7q_sDeb-nZGO2MnYx5xvD5YxeNMsRUbc-EaurJgWrwIGD_n-rFxfLM2p_fDZnVls_y7TK8FCjjallobtQWSjz_yyRprW6kzan3DJM-Ew&exp=2026-10-03T16:51:15.0045772Z",
-          "width": 832,
-          "height": 1216
+        "TI": {},
+        "Size": "1344x1896",
+        "seed": 218040900,
+        "Model": "waiNSFWIllustrious_v110",
+        "steps": 40,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:96YOTTEA-WAI": "7a6cdc714921",
+          "lora:veluflora-wai": "fbcbfb1106da",
+          "lora:a31_style_koni": "668963c77d2a",
+          "lora:ag31_style_ba_v1": "77af56ed043a",
+          "lora:InniePussy1 Pony v2": "a12d32670361",
+          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
+          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
+          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
         },
-        "experimental": false,
-        "negativePrompt": "censor, censored, watermark, artist name, bestiality,\n",
-        "civitaiResources": [
+        "prompt": "beautiful girl, blonde hair,  bow, blue eyes, idol, long hair, jewelry, star-shaped pupils, long eyelashes,\nnaked, pussy, (1girl), colorful, (large breasts, perfect round breasts), explicit, nsfw, perfect body, adult, athletic:1.3, perfect body, (slim:1.3, narrow waist), ((innie pussy)), inside, breast-press\none leg up, holding one leg, ((holding phone)),\nvery awa, masterpiece, highres, absurdres,\n<lora:veluflora-wai:0.7> vfaix, <lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>,<lora:96YOTTEA-WAI:0.45>, <lora:a31_style_koni:0.5>, <lora:ag31_style_ba_v1:0.8>, (jyt:0.6) <lora:InniePussy1 Pony v2:1>",
+        "Version": "f2.0.1v1.10.1-previous-633-ge073e4ec",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 2186168
+            "hash": "fbcbfb1106da",
+            "name": "veluflora-wai",
+            "type": "lora",
+            "weight": 0.7
           },
           {
+            "hash": "DA259DF60E36",
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2234776
+            "weight": 0.3
           },
           {
+            "hash": "33d8271217ed",
+            "name": "noobai_ep11_stabilizer_v0.138_fp16",
             "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 1976924
+            "weight": 0.3
+          },
+          {
+            "hash": "72ea46a2b089",
+            "name": "ponyv6_noobV1_2_adamW",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "7a6cdc714921",
+            "name": "96YOTTEA-WAI",
+            "type": "lora",
+            "weight": 0.45
+          },
+          {
+            "hash": "668963c77d2a",
+            "name": "a31_style_koni",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "77af56ed043a",
+            "name": "ag31_style_ba_v1",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "a12d32670361",
+            "name": "InniePussy1 Pony v2",
+            "type": "lora"
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "c3688ee04c",
+        "Schedule type": "Automatic",
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, 2 girls, child, loli, (watermark), censored, pubic hair, sagging breasts",
+        "Denoising strength": "0.3",
+        "SD upscale overlap": "64",
+        "SD upscale upscaler": "4x-UltraSharp"
       },
-      "username": "vovkkabanko",
+      "username": "BallsyBalls",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1976924,
-        2186168,
-        2234776
+        400010,
+        438698,
+        630159,
+        1082928,
+        1209350,
+        1247042,
+        1308598,
+        1311785,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "815|1739638140000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=815%7C1739638140000"
+    "nextCursor": "816|1720520003518",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=816%7C1720520003518"
   }
 }
