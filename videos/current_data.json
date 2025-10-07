@@ -1,51 +1,112 @@
 {
   "items": [
     {
-      "id": 298049,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/500dc311-2944-49b6-7615-be8714424300/original=true/500dc311-2944-49b6-7615-be8714424300.jpeg",
-      "hash": "UAH^t?0000~W1J$%4o^+00%M~B0LMJ%M%gMd",
-      "width": 512,
-      "height": 1280,
+      "id": 76353016,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/018faeda-32cf-400f-9984-c18aaa7ff103/original=true/018faeda-32cf-400f-9984-c18aaa7ff103.jpeg",
+      "hash": "UGF5v,vKUH,o0ftlITyDkWNI-7EPTyv|J:wb",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-02-02T17:49:18.748Z",
-      "postId": 109879,
+      "createdAt": "2025-05-17T15:39:59.397Z",
+      "postId": 16956773,
       "stats": {
-        "cryCount": 58,
-        "laughCount": 118,
-        "likeCount": 1471,
+        "cryCount": 121,
+        "laughCount": 250,
+        "likeCount": 1879,
         "dislikeCount": 0,
-        "heartCount": 1456,
-        "commentCount": 5
+        "heartCount": 851,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "512x1280",
-        "seed": 3393406027,
-        "Model": "chilloutmix_NiPrunedFp32Fix",
-        "steps": 20,
-        "prompt": "RAW photo, best quality, high resolution, (masterpiece), (photorealistic:1.4), professional photography, sharp focus, HDR, 8K resolution, intricate detail, sophisticated detail, depth of field, extremely detailed CG unity 8k wallpaper, (front light), NSFW, (full body nude:1.2), 1girl, standing, 18 yo beautiful supermodel, (smiling:1.3), random color and style hair, very skinny slender fit-muscled body, thin waist, long legs, tall height, (naturally sagging enormous breasts:1.2), extremely detailed face eyes lips areolas nipples pussy and highheels, (looking at viewer:1.1), (high gloss sweaty skin:1.2), highly detailed public background, (Kpop idol makeup), (PureErosFace_V1:0.3)",
-        "sampler": "DPM++ SDE Karras",
-        "cfgScale": 7,
-        "resources": [
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 693596842,
+        "draft": false,
+        "extra": {
+          "remixOfId": 75923318
+        },
+        "steps": 40,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece), 1girl, solo, curvy, large breasts, beautiful eyes, brown eyes, eyelashes, eyeshadow, large ass, thick thighs, wide hips, hourglass figure, plump, lusty, piercings, bikini, sideboob, underboob, choker, necklace, gorgeous face, thighs, tattoos, neck tattoos, shoulder tattoos, belly tattoos, seductive, skindentation, dynamic angle, closeup, outside, pool, swimming pool, smirk, smile, slutty, cocky, flirty, \nboth hands on breasts, squeezing breasts, hair up, standing, \nClose up, from above,",
+        "sampler": "DDIM",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-05-13T0245:55.0342983Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects), milf, elderly, selfie, jeans, (car), (car interior), (transport), selfie,",
+        "civitaiResources": [
           {
-            "hash": "fc2511737a",
-            "name": "chilloutmix_NiPrunedFp32Fix",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1764228,
+            "modelVersionName": "b 1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 556208,
+            "modelVersionName": "Insta Baddie[PONY]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 1.65,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 1500353,
+            "modelVersionName": "v1.1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 1142665,
+            "modelVersionName": "V1"
           }
-        ],
-        "Model hash": "fc2511737a",
-        "negativePrompt": "(EasyNegative:1.0), paintings, sketches, lowres, (monochrome), (grayscale), polar lowres, jpeg artifacts, text, watermark, white letters, (worst quality:2), (low quality:2), (normal quality:2), signature, watermark, username, blurry, poorly drawn hands, poorly drawn face, mutation, deformed, {Multiple people}, cropped, extra digit, fewer digits, error, extra limbs, extra arms, extra legs, fused fingers, too many fingers, malformed limbs, skin spots, acnes, skin blemishes, age spot, glans, extra fingers, fewer fingers, multi nipples, bad anatomy, bad hands, bad feet, long neck, cross-eyed, mutated hands, fused fingers, too many fingers, extra digit, fewer digits, missing fingers, malformed limbs, extra limbs, extra arms, extra legs, missing arms, missing legs, bad body, bad proportions, gross proportions, wrong feet bottom render, abdominal stretch, (fused fingers), (bad body), pants, briefs, knickers, kecks, thong, bra, covered nipples, underwear",
-        "Face restoration": "CodeFormer"
+        ]
       },
-      "username": "GoodPrompt",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": []
+      "username": "Wadufuk1",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        382152,
+        534756,
+        556208,
+        596040,
+        1142665,
+        1242203,
+        1500353,
+        1764228
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "812|1747496399397",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=812%7C1747496399397"
+    "nextCursor": "813|1733875380000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=813%7C1733875380000"
   }
 }
