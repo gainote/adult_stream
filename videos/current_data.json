@@ -1,123 +1,105 @@
 {
   "items": [
     {
-      "id": 44189284,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/992fab75-3b9d-497f-87cd-fd3b844171b7/original=true/992fab75-3b9d-497f-87cd-fd3b844171b7.jpeg",
-      "hash": "UOJ7ad~VtR-:-oay%2Rj?bay-pIpn4afSh$*",
-      "width": 1280,
-      "height": 1856,
+      "id": 23648227,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/372cf432-57bb-4477-9e88-297e3896d890/original=true/372cf432-57bb-4477-9e88-297e3896d890.jpeg",
+      "hash": "U7DvH200?__4L}9u9a=xo}-Vk?xvD4ROt-R*",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-12-07T14:46:33.301Z",
-      "postId": 10029495,
+      "createdAt": "2024-11-21T12:56:36.467Z",
+      "postId": 5274368,
       "stats": {
-        "cryCount": 126,
-        "laughCount": 198,
-        "likeCount": 1899,
+        "cryCount": 133,
+        "laughCount": 237,
+        "likeCount": 1780,
         "dislikeCount": 0,
-        "heartCount": 891,
-        "commentCount": 5
+        "heartCount": 962,
+        "commentCount": 2
       },
       "meta": {
-        "nsfw": true,
-        "seed": 784814259,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:663229@742228",
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/WHRK4V84MFKR5BHHRR591A8HM0",
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:663229@742228"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,flat colors, flat illustration, lineart, highly detailed, ultra detailed, sheets background,nose blush, black eyes, big lips, glossy lips, mature woman, puffy (black hair, wavy hair),dark eyes, wet \n(grey lingerie bra and panties and stockings:1.3),\n(closeup, front low view, half closed eyes, screaming open mouth wide, saliva, on fours, ass up. man behind woman doggystyle sex grabbing ass, emphasis lines:1.3)",
-        "denoise": 0.4,
+        "Size": "832x1216",
+        "seed": 1428959837,
+        "steps": 26,
+        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, score_9, score_8_up, score_7_up, (Super high quality, ultra hd, masterpiece), perfect face, perfect body,1 girl,drawn style, clear bubbles, bubble girl, long hair, transparent, (transparent blue body:1.5),(cum), big breasts, petite, outdoor bubble fountain, bubbles, nude, sunny, cute, doggy style, standing doggy, bouncing breasts, 1boy, human male, sex, (((see through body))), (( penis visible:1.3)), (cum visible inside)",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "safe_neg, score_4, score_3, score_2, muscular, fury, child, kid, easynegative, low-quality, bad-anatomy, artifacts, bad, realistic, distortion, monochrome, extra fingers, lowres, 3D, downsampling, blur, poorly drawn, worst-quality, blurry, chocker",
+        "resources": [],
+        "Created Date": "2024-08-01T1142:21.0120177Z",
+        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:99890@106916, embedding:urn:air:sd1:embedding:civitai:222256@250712, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, extra dicks, fat, chuby",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 742228
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 742228
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 323435
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 382152
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 742228
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 390898,
+            "modelVersionName": "v1.0 [Pony]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
             "weight": 0.9,
-            "modelVersionId": 323435
+            "modelVersionId": 501402,
+            "modelVersionName": "v1.0"
           },
           {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 382152
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:287556@323435",
-            "type": "lora",
-            "strength": 0.9,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "MatureOnly",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        323435,
+        239420,
+        290640,
         382152,
-        742228
+        390898,
+        398847,
+        436219,
+        501402
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "804|1732193796467",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=804%7C1732193796467"
+    "nextCursor": "805|1730831419875",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=805%7C1730831419875"
   }
 }
