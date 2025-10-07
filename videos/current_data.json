@@ -1,60 +1,123 @@
 {
   "items": [
     {
-      "id": 70198478,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63f77121-7132-49b5-8bfb-b79c70a8bdcd/original=true/63f77121-7132-49b5-8bfb-b79c70a8bdcd.jpeg",
-      "hash": "U6G*Tt-p00^kKN?H~B?a00Na_M-p_24oD*xt",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 44189284,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/992fab75-3b9d-497f-87cd-fd3b844171b7/original=true/992fab75-3b9d-497f-87cd-fd3b844171b7.jpeg",
+      "hash": "UOJ7ad~VtR-:-oay%2Rj?bay-pIpn4afSh$*",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-15T14:23:52.242Z",
-      "postId": 15596131,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-07T14:46:33.301Z",
+      "postId": 10029495,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 231,
-        "likeCount": 1897,
+        "cryCount": 126,
+        "laughCount": 198,
+        "likeCount": 1899,
         "dislikeCount": 0,
-        "heartCount": 851,
-        "commentCount": 0
+        "heartCount": 891,
+        "commentCount": 5
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1013503872,
-        "steps": 34,
-        "prompt": "lust_(fma),  woman, dark eyes, red lips,\ndark purple, long hair, large breasts, \n(satin, lace dark bra with bulges), satin lace panties, black garter belt straps, lace stockings, \nlow close view, (lying, spreading legs), smile, hand in hair,\n(satin sheets background, black pillow), rose petals,\nsexy tasteful,  (soft lighting), rich colors, detailed textures, high resolution, ultra high quality",
+        "nsfw": true,
+        "seed": 784814259,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:663229@742228",
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/WHRK4V84MFKR5BHHRR591A8HM0",
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:663229@742228"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,flat colors, flat illustration, lineart, highly detailed, ultra detailed, sheets background,nose blush, black eyes, big lips, glossy lips, mature woman, puffy (black hair, wavy hair),dark eyes, wet \n(grey lingerie bra and panties and stockings:1.3),\n(closeup, front low view, half closed eyes, screaming open mouth wide, saliva, on fours, ass up. man behind woman doggystyle sex grabbing ass, emphasis lines:1.3)",
+        "denoise": 0.4,
         "sampler": "Euler a",
-        "cfgScale": 7.5,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-04-15T1157:20.0643930Z",
-        "negativePrompt": "worst quality, low quality, sketch, error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowers, multiple views, signature, 3D, full coverage, modesty, tattoo, necklace,",
+        "modelIds": [],
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "safe_neg, score_4, score_3, score_2, muscular, fury, child, kid, easynegative, low-quality, bad-anatomy, artifacts, bad, realistic, distortion, monochrome, extra fingers, lowres, 3D, downsampling, blur, poorly drawn, worst-quality, blurry, chocker",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 742228
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 742228
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 323435
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 382152
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1613008,
-            "modelVersionName": "v2.0"
+            "modelVersionId": 742228
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1241428,
-            "modelVersionName": "illust"
+            "weight": 0.9,
+            "modelVersionId": 323435
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 382152
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:287556@323435",
+            "type": "lora",
+            "strength": 0.9,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
           }
         ]
       },
       "username": "MatureOnly",
-      "baseModel": "Illustrious",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1241428,
-        1613008
+        164821,
+        323435,
+        382152,
+        742228
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "803|1733582793301",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=803%7C1733582793301"
+    "nextCursor": "804|1732193796467",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=804%7C1732193796467"
   }
 }
