@@ -1,108 +1,80 @@
 {
   "items": [
     {
-      "id": 77546094,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ff1b33e0-95e0-44f8-ba35-32878313ebce/original=true/ff1b33e0-95e0-44f8-ba35-32878313ebce.jpeg",
-      "hash": "UdPPQ5E2?^ww?a-=t7RPM{NeM{RO.St8oJof",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 48698309,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fdb5cc35-ffd5-483d-86ab-e2e82eedcc40/original=true/fdb5cc35-ffd5-483d-86ab-e2e82eedcc40.jpeg",
+      "hash": "UYL:ik~VI;niInxts9Rkbvoy-pt6M{jZt7t6",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-21T06:30:00.000Z",
-      "postId": 17224847,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-05T19:26:12.916Z",
+      "postId": 10973984,
       "stats": {
-        "cryCount": 94,
-        "laughCount": 255,
-        "likeCount": 1948,
+        "cryCount": 86,
+        "laughCount": 179,
+        "likeCount": 1850,
         "dislikeCount": 0,
-        "heartCount": 823,
+        "heartCount": 1005,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 669701143,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:tove-nikke-richy-v1_ixl:1>, tovrd, blue eyes, blonde hair, long hair, braid, large breasts, smokyeyes, lash, pink mascara, glossy pink lips, parted lips, pink nails, long nails, firm perky ass, body writing, tattoo, breast tattoo, tally, 1girl, barcode tattoo, pubic tattoo, clothes writing, chest tattoo, heart tattoo, long hair, breasts, leg tattoo, barcode, thighhighs, solo, shirt, number tattoo, arm tattoo, mori calliope, stomach tattoo, looking at viewer, virtual youtuber, bodypaint, facepaint, cleavage, shoulder tattoo, smile, large breasts, simple background, bangs, sitting, white background, body markings, black legwear, collarbone, white shirt, t-shirt, blunt bangs, profanity, eyebrows visible through hair. relaxed yet provocative, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, aroused, ((dynamic dutch angle:1.5)), from side, blurry background, bright colors, stunningly artwork",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "": {},
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "1248x1824",
+        "seed": 2554603315,
+        "Model": "prefect_pony_v5.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "d1a2aac8e5"
+        },
+        "prompt": "score_9,score_8_up,score_7_up, , source anime, yor briar, 1girl, ass, barefoot, black hair, breasts, feet, g-string, long hair, red eyes, soles, sweat, thong, toes, topless,from behind, wariza,",
+        "Version": "v1.10.1",
+        "sampler": "DPM++ 2M",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
         "resources": [
           {
-            "name": "tove-nikke-richy-v1_ixl",
-            "type": "lora",
-            "weight": 1
+            "hash": "d1a2aac8e5",
+            "name": "prefect_pony_v5.fp16",
+            "type": "model"
           }
         ],
-        "Created Date": "2025-05-20T1629:35.4030744Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, (watermark:1.5), ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1612720,
-            "modelVersionName": "v13.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1809862,
-            "modelVersionName": "tove-nikke-richy-v1_ixl"
-          }
-        ]
+        "Model hash": "d1a2aac8e5",
+        "Tile Overlap": "48",
+        "Schedule type": "Karras",
+        "Upscale factor": "1.5",
+        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Keep input size": "true}",
+        "Tile batch size": "6",
+        "Tile tile width": "160",
+        "Tiled Diffusion": {},
+        "Tile tile height": "160",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.15",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "Tiled Diffusion upscaler": "4x-UltraSharp",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "Tiled Diffusion scale factor": "1.5",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "Goofy_Ai",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        6056,
-        25820,
-        1056404,
-        1135769,
-        1373674,
-        1612720,
-        1809862
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "798|1736105172916",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=798%7C1736105172916"
+    "nextCursor": "799|1755726808841",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=799%7C1755726808841"
   }
 }
