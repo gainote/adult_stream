@@ -1,132 +1,74 @@
 {
   "items": [
     {
-      "id": 44807460,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e9500491-c13e-4010-a887-c65e5214d9bd/original=true/e9500491-c13e-4010-a887-c65e5214d9bd.jpeg",
-      "hash": "U8INp$Io9Exa^PS#={M|00R*%hae}lRj10s.",
+      "id": 101209228,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/11284fb9-eb4f-46d7-a8db-4621c7cba17e/original=true/11284fb9-eb4f-46d7-a8db-4621c7cba17e.jpeg",
+      "hash": "UKKwX,x]*0?bFgxtO@Na01rq%gRj?GMw%M$%",
       "width": 1280,
       "height": 1856,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-12-10T21:41:15.905Z",
-      "postId": 10155498,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-19T10:13:18.693Z",
+      "postId": 22453702,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 232,
-        "likeCount": 1900,
+        "cryCount": 155,
+        "laughCount": 236,
+        "likeCount": 1870,
         "dislikeCount": 0,
-        "heartCount": 832,
-        "commentCount": 8
+        "heartCount": 830,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "seed": 534110312,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1047139",
+        "seed": 2090845907,
+        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1199750",
         "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/02G6WYMTYZKE1HRF5E6YWR8AD0",
-        "steps": 28,
-        "width": 832,
-        "height": 1216,
+        "steps": 36,
         "models": [
-          "urn:air:sdxl:checkpoint:civitai:439889@1047139"
+          "urn:air:sdxl:checkpoint:civitai:439889@1199750"
         ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, score_6_up, source_anime, anime, hentai, highly detailed, masterpiece, rating_explicit, easynegative,\n\n3 girls, \none girl has black hair, drill bangs, \none girl has blonde hair, drill bangs, \none girl has ginger hair, drill bangs,\n\nlarge hips, medium breasts,\n\n(surprised, screaming, big eyes, clenched teeth, looking at viewer:1.3),\n\n(serafuku, pleated skirt:1.25), \n\n(3 girls lying in a box, open box, view from above, protection foam, arms behind back, tied up, ropes:1.8),\n\n(dark grey background)",
-        "denoise": 0.4,
+        "prompt": "score_9, score_8, score_7, (rim lighting, volumetric lighting, colorfull, digital art),\n(below view rear view , in water water level, 1man sex from behind with big penis and balls, vaginal sex:1.6)\n(motion lines:1.5),\n(wearing aqua transparent strapless, o-ring bandeau top with breasts out and nipples out, medium breasts, bikini-thong pulled with vagina and penis, girl wearing large beige sunhat :1.6), huge nipples,\nwaterfall and sky background, sad face, blushing, clenched teeth,,\n(Takashiro Hiroko, 1girl, female, closed eyes, long hair, red hair, earrings, blushing:1.4)",
         "sampler": "Euler a",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 1,
+        "cfgScale": 8,
         "workflow": "img2img-hires",
-        "baseModel": "Pony",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "safe_neg, score_4, score_5, score_6, muscular, fury, child, kid, easynegative, distorted, watermark, downsampling, blurry, muscular, distortion, signature, logo, artifacts, low-quality, low-quality, worst-quality, text, 3D, bad, twisted,",
+        "negativePrompt": ", distorted fingers, bad, low-quality, lowres, monochrome, downsampling, artifacts, 3D, distorted, watermark, worst-quality, distortion, kid, low-quality, blurry, blur, twisted, bad, bad-anatomy, muscular, child, distorted hands, fury, aliasing, muscular, wet, see-through, ",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1047139
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1047139
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.4,
-            "modelVersionId": 793923
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 382152
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1047139
+            "modelVersionId": 1199750
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 636553
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 726388
           },
           {
             "type": "upscaler",
             "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 793923
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 382152
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:362745@793923",
-            "type": "lora",
-            "strength": 0.4,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.9,
-            "strengthClip": 1
           }
         ]
       },
       "username": "MatureOnly",
-      "baseModel": "PonyPonyPony",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
         164821,
-        382152,
-        382152,
-        793923,
-        793923,
-        1047139,
-        1047139,
-        1047139
+        636553,
+        726388,
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "821|1758276798693",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=821%7C1758276798693"
+    "nextCursor": "822|1757254676644",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=822%7C1757254676644"
   }
 }
