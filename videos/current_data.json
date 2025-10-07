@@ -1,112 +1,60 @@
 {
   "items": [
     {
-      "id": 32185165,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26b47c53-72f9-4ae9-b080-89561013cce8/original=true/26b47c53-72f9-4ae9-b080-89561013cce8.jpeg",
-      "hash": "U7CX.~0g0#=y10a#$%s:t7Nx}rEfxbI;R*WC",
+      "id": 70198478,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/63f77121-7132-49b5-8bfb-b79c70a8bdcd/original=true/63f77121-7132-49b5-8bfb-b79c70a8bdcd.jpeg",
+      "hash": "U6G*Tt-p00^kKN?H~B?a00Na_M-p_24oD*xt",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-01T02:00:47.463Z",
-      "postId": 7366075,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-15T14:23:52.242Z",
+      "postId": 15596131,
       "stats": {
-        "cryCount": 86,
-        "laughCount": 178,
-        "likeCount": 1701,
+        "cryCount": 137,
+        "laughCount": 231,
+        "likeCount": 1897,
         "dislikeCount": 0,
-        "heartCount": 1152,
-        "commentCount": 3
+        "heartCount": 851,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1699101860,
-        "steps": 29,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon,\nBREAK, 1girl, Catwoman, ponytail, black lips, no hat, bangs, open uniform, pose, sexy, rooftop, night, dynamic angle, ahegao, deepthroat black hearts ,blowjob, saliva dripping, choker, kiss marks on cock, slick, lotion, face focus, grabbing head, motion lines, motion blur, facefuck",
+        "seed": 1013503872,
+        "steps": 34,
+        "prompt": "lust_(fma),  woman, dark eyes, red lips,\ndark purple, long hair, large breasts, \n(satin, lace dark bra with bulges), satin lace panties, black garter belt straps, lace stockings, \nlow close view, (lying, spreading legs), smile, hand in hair,\n(satin sheets background, black pillow), rose petals,\nsexy tasteful,  (soft lighting), rich colors, detailed textures, high resolution, ultra high quality",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7.5,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-10-01T0140:09.3013937Z",
-        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy",
+        "Created Date": "2025-04-15T1157:20.0643930Z",
+        "negativePrompt": "worst quality, low quality, sketch, error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowers, multiple views, signature, 3D, full coverage, modesty, tattoo, necklace,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808,
+            "modelVersionId": 1613008,
             "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 373439,
-            "modelVersionName": "Lil Andava style PDXL V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 438417,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.8,
+            "modelVersionId": 1241428,
+            "modelVersionName": "illust"
           }
         ]
       },
-      "username": "Bancin",
-      "baseModel": "Pony",
+      "username": "MatureOnly",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        128461,
-        244808,
-        290640,
-        373439,
-        382152,
-        398847,
-        436219,
-        438417
+        1241428,
+        1613008
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "802|1744727032242",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=802%7C1744727032242"
+    "nextCursor": "803|1733582793301",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=803%7C1733582793301"
   }
 }
