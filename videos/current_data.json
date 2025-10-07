@@ -1,74 +1,94 @@
 {
   "items": [
     {
-      "id": 101209228,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/11284fb9-eb4f-46d7-a8db-4621c7cba17e/original=true/11284fb9-eb4f-46d7-a8db-4621c7cba17e.jpeg",
-      "hash": "UKKwX,x]*0?bFgxtO@Na01rq%gRj?GMw%M$%",
-      "width": 1280,
-      "height": 1856,
+      "id": 98928758,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8190d5e-bddb-4377-b43e-9e2f3a2460a0/original=true/c8190d5e-bddb-4377-b43e-9e2f3a2460a0.jpeg",
+      "hash": "UHGaat5S0M~A%fxZIVxZ$%S4s.I;xuoeIoIq",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-19T10:13:18.693Z",
-      "postId": 22453702,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-07T14:17:56.644Z",
+      "postId": 21950873,
       "stats": {
-        "cryCount": 155,
-        "laughCount": 236,
-        "likeCount": 1870,
+        "cryCount": 113,
+        "laughCount": 226,
+        "likeCount": 1830,
         "dislikeCount": 0,
-        "heartCount": 830,
-        "commentCount": 0
+        "heartCount": 922,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 2090845907,
-        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1199750",
-        "extra": {},
-        "steps": 36,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:439889@1199750"
-        ],
-        "prompt": "score_9, score_8, score_7, (rim lighting, volumetric lighting, colorfull, digital art),\n(below view rear view , in water water level, 1man sex from behind with big penis and balls, vaginal sex:1.6)\n(motion lines:1.5),\n(wearing aqua transparent strapless, o-ring bandeau top with breasts out and nipples out, medium breasts, bikini-thong pulled with vagina and penis, girl wearing large beige sunhat :1.6), huge nipples,\nwaterfall and sky background, sad face, blushing, clenched teeth,,\n(Takashiro Hiroko, 1girl, female, closed eyes, long hair, red hair, earrings, blushing:1.4)",
-        "sampler": "Euler a",
-        "cfgScale": 8,
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "negativePrompt": ", distorted fingers, bad, low-quality, lowres, monochrome, downsampling, artifacts, 3D, distorted, watermark, worst-quality, distortion, kid, low-quality, blurry, blur, twisted, bad, bad-anatomy, muscular, child, distorted hands, fury, aliasing, muscular, wet, see-through, ",
+        "Size": "832x1216",
+        "seed": 721070646,
+        "draft": false,
+        "extra": {
+          "remixOfId": 98174969
+        },
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, \n(realistic:1), (flat color:1.75), (haiz_ai:1), (lineart:1.5), (no outline:1), (Flat vector:1.1),\n1girl, topless girl in laundry room, dynamic angle, from above and behind. kneeling, leaning on one arm, leaning to side, washing machine, stuck in washing machine, head inside, open washing machine, wearing  g string panties, ass focus, clothes on floor, clothes basket\nvibrant colors, warm tones, subtle light, artistic composition, intricate fabric texture, high detail, cover page, masterwork, masterpiece, best quality, very aesthetic, absurdres, newest, huge filesize, highres, detailed, detailed fingers, raytracing, volumetric lighting, ambient occlusion, perfect anatomy, \nS4bit4mago_illu, anime style, artist:moriimee,",
+        "sampler": "Euler",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-07T1417:39.5108858Z",
+        "experimental": false,
+        "negativePrompt": "aBase:bad quality,worst quality,worst detail,sketch,censor,\nworst quality, low quality, displeasing, text, watermark, \nbad anatomy, artist name, signature,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1199750
+            "modelVersionId": 1761560
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 636553
+            "weight": 1,
+            "modelVersionId": 2034730
+          },
+          {
+            "type": "lora",
+            "weight": 4,
+            "modelVersionId": 1242203
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 1530645
           },
           {
             "type": "lora",
             "weight": 0.4,
-            "modelVersionId": 726388
+            "modelVersionId": 1736373
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1380520
           }
         ]
       },
-      "username": "MatureOnly",
-      "baseModel": "Pony",
+      "username": "MrPool34",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        636553,
-        726388,
-        1199750
+        1242203,
+        1380520,
+        1530645,
+        1736373,
+        1761560,
+        2034730
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "822|1757254676644",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=822%7C1757254676644"
+    "nextCursor": "823|1755520975996",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=823%7C1755520975996"
   }
 }
