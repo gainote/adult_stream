@@ -1,78 +1,35 @@
 {
   "items": [
     {
-      "id": 95304716,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/878f8d08-419a-4f3f-b77f-d63058dfde96/original=true/878f8d08-419a-4f3f-b77f-d63058dfde96.jpeg",
-      "hash": "UAL3=T0000~WF|IA4.xu01NH#*?v_NxF8_%2",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 24427033,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/24a21e45-0a3b-4b18-8b0d-03b30b0ebdc6/original=true/24a21e45-0a3b-4b18-8b0d-03b30b0ebdc6.jpeg",
+      "hash": "UIID~#W[0m$_~oRooNXM58RkxtS2Ius*t5s=",
+      "width": 4320,
+      "height": 5760,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-19T23:21:24.359Z",
-      "postId": 21139516,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-29T05:45:12.977Z",
+      "postId": 5456881,
       "stats": {
-        "cryCount": 98,
-        "laughCount": 170,
-        "likeCount": 1952,
+        "cryCount": 147,
+        "laughCount": 328,
+        "likeCount": 1868,
         "dislikeCount": 0,
-        "heartCount": 902,
-        "commentCount": 0
+        "heartCount": 779,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 804088850,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:loose_tank_top_ilxl_goofy": "78d4ccffb16c"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, absurdres, <lora:loose_tank_top_ilxl_goofy:1> loose tank top, large breasts, red eyes, dolphin shorts, sparkle, downblouse, pointy ears, indoors, black shorts, smile, white tank top, cleavage, short shorts, manga (object), medium hair, book, 1girl, no bra, bookshelf, white hair, blush, pornography, closed mouth, blurry background, condom box, loose clothes, loose shirt, collarbone, leaning forward, shelf, library, looking at viewer, solo focus, bare shoulders, magazine (object), hand in own hair, vampire, hand up, hanging breasts",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "Emphasis": "No norm",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "78d4ccffb16c",
-            "name": "loose_tank_top_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "prompt": "DM me for ComfyUI workflows"
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1379960
-      ]
+      "username": "MishGUN",
+      "baseModel": "SDXL 1.0",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "796|1745905512977",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=796%7C1745905512977"
+    "nextCursor": "797|1747809000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=797%7C1747809000000"
   }
 }
