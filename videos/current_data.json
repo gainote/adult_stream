@@ -1,124 +1,91 @@
 {
   "items": [
     {
-      "id": 57993571,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/629f998f-6a22-4de5-a6e8-857e35e699c1/original=true/629f998f-6a22-4de5-a6e8-857e35e699c1.jpeg",
-      "hash": "U5PFWG0000IwK^^f%QE813NyEV#T}Y578_?F",
-      "width": 1344,
-      "height": 1896,
+      "id": 19097253,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/77ddedae-eed2-4d79-aa10-e2453acaa287/original=true/77ddedae-eed2-4d79-aa10-e2453acaa287.jpeg",
+      "hash": "UHFX0K9b5RM|0}NH-oWonkNG-Uni~AIpX8M|",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-02-15T16:49:00.000Z",
-      "postId": 12979324,
+      "createdAt": "2024-07-09T10:13:23.518Z",
+      "postId": 4262082,
       "stats": {
-        "cryCount": 78,
-        "laughCount": 196,
-        "likeCount": 1862,
+        "cryCount": 100,
+        "laughCount": 176,
+        "likeCount": 1690,
         "dislikeCount": 0,
-        "heartCount": 960,
+        "heartCount": 1129,
         "commentCount": 0
       },
       "meta": {
-        "TI": {},
-        "Size": "1344x1896",
-        "seed": 218040900,
-        "Model": "waiNSFWIllustrious_v110",
-        "steps": 40,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:96YOTTEA-WAI": "7a6cdc714921",
-          "lora:veluflora-wai": "fbcbfb1106da",
-          "lora:a31_style_koni": "668963c77d2a",
-          "lora:ag31_style_ba_v1": "77af56ed043a",
-          "lora:InniePussy1 Pony v2": "a12d32670361",
-          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
-          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
-          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
-        },
-        "prompt": "beautiful girl, blonde hair,  bow, blue eyes, idol, long hair, jewelry, star-shaped pupils, long eyelashes,\nnaked, pussy, (1girl), colorful, (large breasts, perfect round breasts), explicit, nsfw, perfect body, adult, athletic:1.3, perfect body, (slim:1.3, narrow waist), ((innie pussy)), inside, breast-press\none leg up, holding one leg, ((holding phone)),\nvery awa, masterpiece, highres, absurdres,\n<lora:veluflora-wai:0.7> vfaix, <lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>,<lora:96YOTTEA-WAI:0.45>, <lora:a31_style_koni:0.5>, <lora:ag31_style_ba_v1:0.8>, (jyt:0.6) <lora:InniePussy1 Pony v2:1>",
-        "Version": "f2.0.1v1.10.1-previous-633-ge073e4ec",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "resources": [
+        "Size": "832x1216",
+        "seed": 494941948,
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, lying on stomach , cute face, sexy body, pink panties, kawaii girl, sexy body, perfect cute face, narrow hips, thighs, surprised, topless, nude big breasts, puffy nipples, reading book, question mark,  small tight ass, (((shiny ass))),long brown wavy hair, freckles, pale skin, hazel eyes, feet, twin ponytails, blushing, head down eyes up, (embarrassed:0.4), (worried:0.4), nose blush, lying on side, concentrating, stacks of textbooks, looking at viewer, from front, front view, ass crack, anus, pussy, couch",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-07-09T1013:00.8879458Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, plain background",
+        "civitaiResources": [
           {
-            "hash": "fbcbfb1106da",
-            "name": "veluflora-wai",
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
             "type": "lora",
-            "weight": 0.7
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "hash": "DA259DF60E36",
-            "name": "NOOB_vp1_detailer_by_volnovik_v1",
             "type": "lora",
-            "weight": 0.3
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
-            "hash": "33d8271217ed",
-            "name": "noobai_ep11_stabilizer_v0.138_fp16",
             "type": "lora",
-            "weight": 0.3
+            "weight": 0.75,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
-            "hash": "72ea46a2b089",
-            "name": "ponyv6_noobV1_2_adamW",
-            "type": "lora",
-            "weight": 0.3
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "hash": "7a6cdc714921",
-            "name": "96YOTTEA-WAI",
-            "type": "lora",
-            "weight": 0.45
-          },
-          {
-            "hash": "668963c77d2a",
-            "name": "a31_style_koni",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "77af56ed043a",
-            "name": "ag31_style_ba_v1",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "a12d32670361",
-            "name": "InniePussy1 Pony v2",
-            "type": "lora"
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110",
-            "type": "model"
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "c3688ee04c",
-        "Schedule type": "Automatic",
-        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, 2 girls, child, loli, (watermark), censored, pubic hair, sagging breasts",
-        "Denoising strength": "0.3",
-        "SD upscale overlap": "64",
-        "SD upscale upscaler": "4x-UltraSharp"
+        ]
       },
-      "username": "BallsyBalls",
-      "baseModel": "Illustrious",
+      "username": null,
+      "baseModel": "Pony",
       "modelVersionIds": [
-        400010,
-        438698,
-        630159,
-        1082928,
-        1209350,
-        1247042,
-        1308598,
-        1311785,
-        1410435
+        9208,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "816|1720520003518",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=816%7C1720520003518"
+    "nextCursor": "817|1735187100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=817%7C1735187100000"
   }
 }
