@@ -1,78 +1,42 @@
 {
   "items": [
     {
-      "id": 38525216,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/12ceecfd-ac3d-490b-a710-43b9ad286de6/original=true/12ceecfd-ac3d-490b-a710-43b9ad286de6.jpeg",
-      "hash": "UEFE$IMJFeoc0%4.~WIU?Ga0a$w]%gE1IptQ",
-      "width": 832,
-      "height": 1216,
+      "id": 86445437,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9bf734fb-a159-4180-a8d9-60c8587a8dad/original=true/9bf734fb-a159-4180-a8d9-60c8587a8dad.jpeg",
+      "hash": "U3L3x*0R00MdUT0001~q0fVa=}~p4;E2JS%h",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-05T18:30:19.875Z",
-      "postId": 8793902,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-06T00:37:00.000Z",
+      "postId": 19181704,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 205,
-        "likeCount": 1747,
+        "cryCount": 127,
+        "laughCount": 207,
+        "likeCount": 1945,
         "dislikeCount": 0,
-        "heartCount": 1064,
+        "heartCount": 830,
         "commentCount": 0
       },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 3339426311,
-        "extra": {
-          "remixOfId": 31703933
-        },
-        "steps": 27,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, pretty office girl, face, sexy woman , kawaii face, horny face,  topless , perfect cute face, (((small breasts))), long straight hair, bangs, freckles, pale skin,  blushing,  (embarrassed:0.4), horny girl , puffy  nipples , nipple focus, safe, boobjob, boobjob, boobjob, penis , veiny penis , licking penis",
-        "sampler": "Euler a",
-        "cfgScale": 6.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-28T1737:05.9231725Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "hornystoryteller",
-      "baseModel": "Pony",
+      "meta": null,
+      "username": "Kalrdr",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        436219
+        9208,
+        111363,
+        164821,
+        333245,
+        372639,
+        1412563,
+        1453108,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "806|1751762220000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=806%7C1751762220000"
+    "nextCursor": "807|1744693200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=807%7C1744693200000"
   }
 }
