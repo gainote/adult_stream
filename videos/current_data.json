@@ -1,36 +1,36 @@
 {
   "items": [
     {
-      "id": 39748077,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b55353bf-3292-42b5-97be-d35ae185a645/original=true/b55353bf-3292-42b5-97be-d35ae185a645.jpeg",
-      "hash": "U57]x2}E5REMxaJ7ADof0}AD$*=xbI$jwdNa",
+      "id": 32185165,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26b47c53-72f9-4ae9-b080-89561013cce8/original=true/26b47c53-72f9-4ae9-b080-89561013cce8.jpeg",
+      "hash": "U7CX.~0g0#=y10a#$%s:t7Nx}rEfxbI;R*WC",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-11-12T15:53:44.470Z",
-      "postId": 9063505,
+      "createdAt": "2024-10-01T02:00:47.463Z",
+      "postId": 7366075,
       "stats": {
-        "cryCount": 102,
-        "laughCount": 180,
-        "likeCount": 1798,
+        "cryCount": 86,
+        "laughCount": 178,
+        "likeCount": 1701,
         "dislikeCount": 0,
-        "heartCount": 1038,
-        "commentCount": 1
+        "heartCount": 1152,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3648119516,
-        "steps": 35,
-        "prompt": "score_9, score_8_up, score_8, score_7, (rim lighting:1.2), (semi realistic:1.2), (NSFW:1.1), (shocked deepthroat:1.1), motion blur, head grab, throat bulge, (low view:1.1), 1boy, 1girl stunning slim body, beautiful breasts cleavage, Karai, short black hair, black bob cut, green eyes, black tight ninja outfit, bare breasts, nipples, in sewer shaft",
-        "sampler": "DPM2 a",
+        "seed": 1699101860,
+        "steps": 29,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon,\nBREAK, 1girl, Catwoman, ponytail, black lips, no hat, bangs, open uniform, pose, sexy, rooftop, night, dynamic angle, ahegao, deepthroat black hearts ,blowjob, saliva dripping, choker, kiss marks on cock, slick, lotion, face focus, grabbing head, motion lines, motion blur, facefuck",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-11-11T1722:44.5077545Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "Created Date": "2024-10-01T0140:09.3013937Z",
+        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -39,33 +39,45 @@
           },
           {
             "type": "lora",
-            "weight": 0.45,
+            "weight": 1,
+            "modelVersionId": 128461,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 373439,
+            "modelVersionName": "Lil Andava style PDXL V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
             "type": "lora",
-            "weight": 0.35,
+            "weight": 0.45,
             "modelVersionId": 398847,
             "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
+            "weight": 0.45,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 0.5,
+            "modelVersionId": 438417,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "embed",
@@ -79,20 +91,22 @@
           }
         ]
       },
-      "username": "fixerskorch877",
+      "username": "Bancin",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
+        128461,
         244808,
         290640,
+        373439,
         382152,
         398847,
-        436219
+        436219,
+        438417
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "801|1727748047463",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=801%7C1727748047463"
+    "nextCursor": "802|1744727032242",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=802%7C1744727032242"
   }
 }
