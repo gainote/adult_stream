@@ -1,78 +1,98 @@
 {
   "items": [
     {
-      "id": 95492956,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b79ee8b7-e3bd-4d05-832f-89528cb61c60/original=true/b79ee8b7-e3bd-4d05-832f-89528cb61c60.jpeg",
-      "hash": "ULLpR6xt0KIA*0tRM_9F0LWBtPRQ-VRPRiXT",
-      "width": 1248,
-      "height": 1824,
+      "id": 39748077,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b55353bf-3292-42b5-97be-d35ae185a645/original=true/b55353bf-3292-42b5-97be-d35ae185a645.jpeg",
+      "hash": "U57]x2}E5REMxaJ7ADof0}AD$*=xbI$jwdNa",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-08-20T21:53:28.841Z",
-      "postId": 21180826,
+      "createdAt": "2024-11-12T15:53:44.470Z",
+      "postId": 9063505,
       "stats": {
-        "cryCount": 132,
-        "laughCount": 224,
-        "likeCount": 1831,
+        "cryCount": 102,
+        "laughCount": 180,
+        "likeCount": 1798,
         "dislikeCount": 0,
-        "heartCount": 931,
-        "commentCount": 0
+        "heartCount": 1038,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 1847639170,
-        "Model": "prefect_illustrious_XL_2.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "9d73bac23a",
-          "lora:double_anal_ilxl_goofy": "25dd2547fc66"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:double_anal_ilxl_goofy:1> double anal, female shez \\(fire emblem\\), anal, breasts, double penetration, multiple anal, nipples, pussy",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "Emphasis": "No norm",
-        "cfgScale": 5,
-        "resources": [
+        "seed": 3648119516,
+        "steps": 35,
+        "prompt": "score_9, score_8_up, score_8, score_7, (rim lighting:1.2), (semi realistic:1.2), (NSFW:1.1), (shocked deepthroat:1.1), motion blur, head grab, throat bulge, (low view:1.1), 1boy, 1girl stunning slim body, beautiful breasts cleavage, Karai, short black hair, black bob cut, green eyes, black tight ninja outfit, bare breasts, nipples, in sewer shaft",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-11-11T1722:44.5077545Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
           {
-            "hash": "25dd2547fc66",
-            "name": "double_anal_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "9d73bac23a",
-            "name": "prefect_illustrious_XL_2.fp16",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "9d73bac23a",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "face_yolov9c.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1873831
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "800|1731426824470",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=800%7C1731426824470"
+    "nextCursor": "801|1727748047463",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=801%7C1727748047463"
   }
 }
