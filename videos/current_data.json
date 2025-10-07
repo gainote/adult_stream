@@ -1,56 +1,132 @@
 {
   "items": [
     {
-      "id": 59051373,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bca81b3b-b8a4-43af-be8b-eb676309cdda/original=true/bca81b3b-b8a4-43af-be8b-eb676309cdda.jpeg",
-      "hash": "U59jl#_4E0EdF1X99YRi00InxGxvi^xu-=a}",
-      "width": 1024,
-      "height": 1536,
+      "id": 44807460,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e9500491-c13e-4010-a887-c65e5214d9bd/original=true/e9500491-c13e-4010-a887-c65e5214d9bd.jpeg",
+      "hash": "U8INp$Io9Exa^PS#={M|00R*%hae}lRj10s.",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-02-20T17:40:54.229Z",
-      "postId": 13209727,
+      "createdAt": "2024-12-10T21:41:15.905Z",
+      "postId": 10155498,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 215,
-        "likeCount": 1941,
+        "cryCount": 128,
+        "laughCount": 232,
+        "likeCount": 1900,
         "dislikeCount": 0,
-        "heartCount": 808,
-        "commentCount": 0
+        "heartCount": 832,
+        "commentCount": 8
       },
       "meta": {
-        "seed": 3893647581,
-        "vaes": [
-          "sdxl-vae-fp16-fix.safetensors"
+        "nsfw": true,
+        "seed": 534110312,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1047139",
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/02G6WYMTYZKE1HRF5E6YWR8AD0",
+        "steps": 28,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:439889@1047139"
         ],
-        "comfy": "{\"prompt\": {\"10001\": {\"class_type\": \"ECHOCheckpointLoaderSimple\", \"inputs\": {\"ckpt_name\": \"EMS-557253-EMS.safetensors\"}, \"_properties\": null}, \"10011\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10001\", 1], \"model\": [\"10001\", 0], \"text\": \"<lora:EMS-754797-EMS.safetensors:0.800000>,<lora:EMS-591385-EMS.safetensors:0.400000>,<lora:EMS-679424-EMS.safetensors:1.000000>\"}, \"_properties\": null}, \"10012\": {\"class_type\": \"VAELoader\", \"inputs\": {\"vae_name\": \"sdxl-vae-fp16-fix.safetensors\"}, \"_properties\": null}, \"10013\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"10011\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"10014\": {\"class_type\": \"EmptyLatentImage\", \"inputs\": {\"batch_size\": 2, \"height\": 1152, \"width\": 768}, \"_properties\": null}, \"10025\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10013\", 0], \"text\": \"1girl, kojiro/(evertale/), blue eyes, black hair, huge breasts, katana, fighting stance, front view, looking at viewer, long katana, dark atmosphere, blank gaze, blood on katana, blood ion steel, dripping blood, GUWEIZ, cutesexyrobutts, wlop, orange maru, (houkisei:0.5), (quasarcake:0.5), masterpiece, best quality, highly detailed, good quality, newest\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"10026\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10013\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, simple background, dark-skinned male, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11001\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 1.0, \"ensd\": 31337, \"latent_image\": [\"10014\", 0], \"model\": [\"10011\", 0], \"negative\": [\"10026\", 0], \"positive\": [\"10025\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 3893647581, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11008\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11001\", 0], \"vae\": [\"10012\", 0]}, \"_properties\": null}, \"11011\": {\"class_type\": \"UpscaleModelLoader\", \"inputs\": {\"model_name\": \"RealESRGAN_x4plus_anime_6B.pth\"}, \"_properties\": null}, \"11012\": {\"class_type\": \"ImageUpscaleWithModel\", \"inputs\": {\"image\": [\"11008\", 0], \"upscale_model\": [\"11011\", 0]}, \"_properties\": null}, \"11013\": {\"class_type\": \"ImageScale\", \"inputs\": {\"crop\": \"disabled\", \"height\": 1536, \"image\": [\"11012\", 0], \"upscale_method\": \"nearest-exact\", \"width\": 1024}, \"_properties\": null}, \"11014\": {\"class_type\": \"VAEEncode\", \"inputs\": {\"pixels\": [\"11013\", 0], \"vae\": [\"10012\", 0]}, \"_properties\": null}, \"11015\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 0.35, \"ensd\": 31337, \"latent_image\": [\"11014\", 0], \"model\": [\"10011\", 0], \"negative\": [\"10026\", 0], \"positive\": [\"10025\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 3893647581, \"seed_mode\": \"A1111\", \"steps\": 20}, \"_properties\": null}, \"11016\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11015\", 0], \"vae\": [\"10012\", 0]}, \"_properties\": null}, \"11018\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10013\", 0], \"model\": [\"10011\", 0], \"text\": \"ECHO_EMPTY\"}, \"_properties\": null}, \"11019\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"11018\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"11021\": {\"class_type\": \"YoloDetectorProvider\", \"inputs\": {\"max_faces\": 5, \"model_name\": \"bbox/face_yolov8n_v2.pt\"}, \"_properties\": null}, \"11022\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"perfect eyes\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, simple background, dark-skinned male, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11025\": {\"class_type\": \"FaceDetector_ad\", \"inputs\": {\"bbox_detector\": [\"11021\", 0], \"bbox_threshold\": 0.5, \"dilate_erode\": 4, \"image\": [\"11016\", 0], \"mask_merge_mode\": \"None\", \"x_offset\": 0, \"y_offset\": 0}, \"_properties\": null}, \"11026\": {\"class_type\": \"InpaintCrop_ad\", \"inputs\": {\"blend_pixels\": 16.0, \"blur_mask\": 4.0, \"context_expand_factor\": 1.0, \"context_expand_pixels\": 32, \"fill_mask_holes\": true, \"force_height\": 1152, \"force_width\": 768, \"images\": [\"11025\", 0], \"invert_mask\": false, \"masks\": [\"11025\", 1], \"mode\": \"forced size\", \"rescale_algorithm\": \"bicubic\"}, \"_properties\": null}, \"11027\": {\"class_type\": \"InpaintModelConditioning\", \"inputs\": {\"mask\": [\"11026\", 2], \"negative\": [\"11024\", 0], \"noise_mask\": true, \"pixels\": [\"11026\", 1], \"positive\": [\"11022\", 0], \"vae\": [\"10012\", 0]}, \"_properties\": null}, \"11028\": {\"class_type\": \"DifferentialDiffusion\", \"inputs\": {\"model\": [\"11018\", 0]}, \"_properties\": null}, \"11029\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"control_after_generate\": \"fixed\", \"denoise\": 0.4, \"ensd\": 31337, \"latent_image\": [\"11027\", 2], \"model\": [\"11028\", 0], \"negative\": [\"11027\", 1], \"positive\": [\"11027\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 3893647581, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11030\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11029\", 0], \"vae\": [\"10012\", 0]}, \"_properties\": null}, \"11031\": {\"class_type\": \"InpaintStitchOneImage_ad\", \"inputs\": {\"inpainted_images\": [\"11030\", 0], \"rescale_algorithm\": \"bicubic\", \"stitchs\": [\"11026\", 0]}, \"_properties\": null}, \"12004\": {\"class_type\": \"SaveImage\", \"inputs\": {\"filename_prefix\": \"830843663859949497\", \"images\": [\"11031\", 0]}, \"_properties\": null}}, \"workflow\": undefined}",
-        "steps": 25,
-        "width": 768,
-        "height": 1152,
-        "models": [],
-        "prompt": "1girl, kojiro/(evertale/), blue eyes, black hair, huge breasts, katana, fighting stance, front view, looking at viewer, long katana, dark atmosphere, blank gaze, blood on katana, blood ion steel, dripping blood, GUWEIZ, cutesexyrobutts, wlop, orange maru, (houkisei:0.5), (quasarcake:0.5), masterpiece, best quality, highly detailed, good quality, newest",
-        "denoise": 1,
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, score_6_up, source_anime, anime, hentai, highly detailed, masterpiece, rating_explicit, easynegative,\n\n3 girls, \none girl has black hair, drill bangs, \none girl has blonde hair, drill bangs, \none girl has ginger hair, drill bangs,\n\nlarge hips, medium breasts,\n\n(surprised, screaming, big eyes, clenched teeth, looking at viewer:1.3),\n\n(serafuku, pleated skirt:1.25), \n\n(3 girls lying in a box, open box, view from above, protection foam, arms behind back, tied up, ropes:1.8),\n\n(dark grey background)",
+        "denoise": 0.4,
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 6,
+        "clipSkip": 2,
         "modelIds": [],
-        "scheduler": "normal",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
         "upscalers": [
-          "RealESRGAN_x4plus_anime_6B.pth"
+          "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "versionIds": [],
         "controlNets": [],
-        "negativePrompt": "(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, simple background, dark-skinned male, comic, frames",
-        "additionalResources": []
+        "experimental": false,
+        "negativePrompt": "safe_neg, score_4, score_5, score_6, muscular, fury, child, kid, easynegative, distorted, watermark, downsampling, blurry, muscular, distortion, signature, logo, artifacts, low-quality, low-quality, worst-quality, text, 3D, bad, twisted,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1047139
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1047139
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.4,
+            "modelVersionId": 793923
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 382152
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1047139
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 793923
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 382152
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:362745@793923",
+            "type": "lora",
+            "strength": 0.4,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.9,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Twisowk",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "username": "MatureOnly",
+      "baseModel": "PonyPonyPony",
+      "modelVersionIds": [
+        9208,
+        164821,
+        382152,
+        382152,
+        793923,
+        793923,
+        1047139,
+        1047139,
+        1047139
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "820|1757254676644",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=820%7C1757254676644"
+    "nextCursor": "821|1758276798693",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=821%7C1758276798693"
   }
 }
