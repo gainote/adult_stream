@@ -1,105 +1,128 @@
 {
   "items": [
     {
-      "id": 62512387,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d688dd71-cf9d-444b-b7d5-100b4ce1b0c0/original=true/d688dd71-cf9d-444b-b7d5-100b4ce1b0c0.jpeg",
-      "hash": "UOINzIx^b_%g3ZOGs.SO0$kDeTs:wIt7kCjF",
-      "width": 1152,
-      "height": 1680,
-      "nsfwLevel": "X",
+      "id": 43126550,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/62ae8260-57d6-4dce-9393-8d9282f77438/original=true/62ae8260-57d6-4dce-9393-8d9282f77438.jpeg",
+      "hash": "U6EB,39G01}@01tRE1kC00%2^*9aKOE1RQ%1",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-09T17:35:05.712Z",
-      "postId": 13959819,
+      "browsingLevel": 4,
+      "createdAt": "2024-12-02T08:11:00.000Z",
+      "postId": 9810287,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 168,
-        "likeCount": 1795,
+        "cryCount": 89,
+        "laughCount": 170,
+        "likeCount": 1858,
         "dislikeCount": 0,
-        "heartCount": 1024,
-        "commentCount": 1
+        "heartCount": 965,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "768x1120",
-        "seed": 2917411840,
-        "Model": "be-re065-mix",
-        "steps": 30,
-        "Script": "X/Y/Z plot",
-        "X Type": "Checkpoint name",
-        "hashes": {
-          "model": "51d46b1b1b",
-          "lora:Detailer_NoobAI_Incrs_v1": "9f242f949d7b"
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 587751805,
+        "draft": false,
+        "extra": {
+          "remixOfId": 42887153
         },
-        "prompt": "multiple girls, 2girls, feet, barefoot, toes, swimsuit, soles, bikini, ass, on stomach, hair flower, foreshortening, pink bikini, , brown hair, braided ponytail, pussy, lying, braid, black hair, flower, hair ornament, outdoors, long hair, palm tree, ocean, day, foot focus, from behind, sky, blue sky, sand, bottomless, legs, side-by-side, tree, bow, white bikini, pink flower, water, back, on bed, \naerith gainsborough\ntifa lockhart,, masterwork, masterpiece, best quality, dynamic lighting , dynamic pose,,  dynamic angle, , , (realistic:1.2), (lineless:1.2), detailed, <lora:Detailer_NoobAI_Incrs_v1:1>, nose",
-        "Refiner": "bemixwa11.fp16 [350aae7e41]",
-        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
+        "steps": 27,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, mole under eye, source_anime, masterpiece, fancy, asian girl, asian, slanted eyes, black eyeliner and mascara, long eyelashes, dark eyeshadow, blunt bangs, goth hair, black lipstick, curvy , sexy lips, big eyes, big ass, thighs, perfect glossy skin, score_6_up, 1girl, solo, yor briar, yor forgfer, perfect face, perfect eyes, sexy, sexy girl, beautiful eyes, petite body, wide hips, perfect cute face, standing, large breasts, Without a bra, race bra, cleavage, oversized top, seductive look, black panties, takes off panties, girl pulling down underwear to knees, clothes pulled down, leaning forward, perfect hands, blush",
         "sampler": "Euler a",
-        "X Values": "be-re065-mix.safetensors [51d46b1b1b]",
-        "cfgScale": 6,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-12-01T1630:20.2833079Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "source_furry, source_pony, source_Futanari, off shoulder,  jacket, bowtie, source_cartoon, gay, monochrome, DeepNegative_xl_v1, censored, 3d, unaestheticXL_3x3",
+        "civitaiResources": [
           {
-            "hash": "9f242f949d7b",
-            "name": "Detailer_NoobAI_Incrs_v1",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "51d46b1b1b",
-            "name": "be-re065-mix",
-            "type": "model"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.1,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.35,
+            "modelVersionId": 534952,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 641519,
+            "modelVersionName": "_3x3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1025139,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 626162,
+            "modelVersionName": "XL v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "51d46b1b1b",
-        "Hires steps": "30",
-        "ControlNet 0": {
-          "Model": "diffusion_pytorch_model [15e6ad5d]",
-          "Module": "invert (from white bg & black line)",
-          "Weight": "0.5",
-          "Hr Option": "Both",
-          "Resize Mode": "Crop and Resize",
-          "Threshold A": "0.5",
-          "Threshold B": "0.5",
-          "Control Mode": "Balanced",
-          "Guidance End": "1.0",
-          "Pixel Perfect": "False",
-          "Processor Res": "512",
-          "Guidance Start": "0.0"
-        },
-        "ADetailer VAE": "sdxl_vae.safetensors",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "None",
-        "negativePrompt": "blurry, lowres, worst quality, low quality, bad anatomy, bad hands,  jpeg artifacts, signature, watermark, text, logo, artist name, censored, patreon username, (anime:1.2)",
-        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
-        "ADetailer steps": "20",
-        "Hires CFG Scale": "7",
-        "ADetailer sampler": "DPM++ 2M",
-        "ADetailer version": "24.11.1",
-        "Refiner switch at": "0.7",
-        "Denoising strength": "0.4",
-        "ADetailer mask blur": "4",
-        "ADetailer scheduler": "Automatic",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer use separate VAE": "True",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer use separate steps": "True",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer use separate sampler": "True"
+        ]
       },
-      "username": "phinjo",
-      "baseModel": null,
+      "username": "neKIT1232",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1191626
+        9208,
+        290640,
+        382152,
+        398847,
+        534952,
+        626162,
+        641519,
+        1025139
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "835|1733127060000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=835%7C1733127060000"
+    "nextCursor": "836|1745031021371",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=836%7C1745031021371"
   }
 }
