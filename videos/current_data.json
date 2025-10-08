@@ -1,92 +1,66 @@
 {
   "items": [
     {
-      "id": 96446784,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d3ce6fad-f995-46ae-b67e-a4d03903806f/original=true/d3ce6fad-f995-46ae-b67e-a4d03903806f.jpeg",
-      "hash": "UAIDUn00Ad?G00IrE09Y0f~W^9xZk7RpI.^,",
-      "width": 832,
-      "height": 1216,
+      "id": 67554742,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fde2c5c7-56ac-4faf-a5b9-5c005a4b6d98/original=true/fde2c5c7-56ac-4faf-a5b9-5c005a4b6d98.jpeg",
+      "hash": "U7LM|:^-00IT0G$,Mu4-00Mc9Z0dHXs7K+EO",
+      "width": 1536,
+      "height": 2040,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-26T17:37:17.319Z",
-      "postId": 21392030,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-02T21:43:07.666Z",
+      "postId": 15020692,
       "stats": {
-        "cryCount": 125,
-        "laughCount": 209,
-        "likeCount": 1877,
+        "cryCount": 128,
+        "laughCount": 185,
+        "likeCount": 1783,
         "dislikeCount": 0,
-        "heartCount": 864,
-        "commentCount": 0
+        "heartCount": 978,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1375954768,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, very aesthetic, realism, zzMarnie, aqua eyes, black choker, red ribbon, pink dress, jewelry, black jacket, open clothes, long sleeves, soft skin, deep skin, skindentation, bare breasts, pink nipples, nip slip, upskirt, steam breath, horny, \nnipples, navel, (perfect feets), toes, barefoot>,<looking at viewer, partered lips, blush ,female masturbation, huge object insertion, huge dildo grab, arched back>, <lying on side, spread legs, sexy pose>, <indoors, night, old house, detailed background>, <face out of frame, dynamic angle, (feet focus: 1.5), spreading pussy with fingers, spreading pussy, grabbing own breasts, slimy dildo,",
-        "process": "txt2img",
+        "Eta": "0.67",
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "1024x1360",
+        "seed": 3110712554,
+        "Model": "WAI-Nsfw-Illustrious-13",
+        "steps": 30,
+        "hashes": {
+          "model": "a810e710a2"
+        },
+        "prompt": "ganyu \\(genshin impact\\),shenhe \\(genshin impact\\),xianyun \\(genshin impact\\),genshin impact,3girls,aerial fireworks,ahoge,architecture,ass,ass focus,back,black hair,blue eyes,blue hair,braid,breasts,chinese hairpin,completely nude,cowboy shot,earrings,east asian architecture,facing away,fireworks,from behind,girl sandwich,goat horns,green hair,hair ornament,hair over one eye,high ponytail,horns,jewelry,lantern festival,large breasts,leaning forward,long hair,looking afar,looking at viewer,looking back,multicolored hair,multiple girls,night,night sky,nude,ponytail,sandwiched,sitting,sky,star \\(sky\\),take your pick,tassel,tassel earrings,two-tone hair,underlighting,very long hair,white hair \n,masterpiece,best quality,amazing quality,",
+        "Version": "v1.10.1-84-g374bb6cc3",
         "sampler": "Euler a",
-        "cfgScale": 5.5,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-24T0352:21.1545764Z",
-        "experimental": false,
-        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes, extra toes, bad hands, extra fingers",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1761560
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1375651
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1552087
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1020899
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1216138
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1055873
+            "hash": "a810e710a2",
+            "name": "WAI-Nsfw-Illustrious-13",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "a810e710a2",
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
+        "Denoising strength": "0.4",
+        "Discard penultimate sigma": "True"
       },
-      "username": "jaycrazyai",
+      "username": "WAI0731",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1020899,
-        1055873,
-        1216138,
-        1375651,
-        1552087,
-        1761560
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "838|1743630187666",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=838%7C1743630187666"
+    "nextCursor": "839|1740616860000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=839%7C1740616860000"
   }
 }
