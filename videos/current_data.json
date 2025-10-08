@@ -1,128 +1,40 @@
 {
   "items": [
     {
-      "id": 43126550,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/62ae8260-57d6-4dce-9393-8d9282f77438/original=true/62ae8260-57d6-4dce-9393-8d9282f77438.jpeg",
-      "hash": "U6EB,39G01}@01tRE1kC00%2^*9aKOE1RQ%1",
+      "id": 70951430,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6427d195-1282-4bdc-9078-422562eeab71/original=true/6427d195-1282-4bdc-9078-422562eeab71.jpeg",
+      "hash": "UMIDwIys4:NFBDJVg4x[9aXT-;bc-U-:%MI;",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-12-02T08:11:00.000Z",
-      "postId": 9810287,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-19T02:50:21.371Z",
+      "postId": 15760101,
       "stats": {
-        "cryCount": 89,
-        "laughCount": 170,
-        "likeCount": 1858,
+        "cryCount": 92,
+        "laughCount": 232,
+        "likeCount": 1827,
         "dislikeCount": 0,
-        "heartCount": 965,
+        "heartCount": 926,
         "commentCount": 0
       },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 587751805,
-        "draft": false,
-        "extra": {
-          "remixOfId": 42887153
-        },
-        "steps": 27,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, mole under eye, source_anime, masterpiece, fancy, asian girl, asian, slanted eyes, black eyeliner and mascara, long eyelashes, dark eyeshadow, blunt bangs, goth hair, black lipstick, curvy , sexy lips, big eyes, big ass, thighs, perfect glossy skin, score_6_up, 1girl, solo, yor briar, yor forgfer, perfect face, perfect eyes, sexy, sexy girl, beautiful eyes, petite body, wide hips, perfect cute face, standing, large breasts, Without a bra, race bra, cleavage, oversized top, seductive look, black panties, takes off panties, girl pulling down underwear to knees, clothes pulled down, leaning forward, perfect hands, blush",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-12-01T1630:20.2833079Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "source_furry, source_pony, source_Futanari, off shoulder,  jacket, bowtie, source_cartoon, gay, monochrome, DeepNegative_xl_v1, censored, 3d, unaestheticXL_3x3",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.35,
-            "modelVersionId": 534952,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 641519,
-            "modelVersionName": "_3x3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1025139,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 626162,
-            "modelVersionName": "XL v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "neKIT1232",
-      "baseModel": "Pony",
+      "meta": null,
+      "username": "bakaisersama659",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        290640,
-        382152,
-        398847,
-        534952,
-        626162,
-        641519,
-        1025139
+        25820,
+        431425,
+        1400144,
+        1409002,
+        1460321,
+        1658812
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "836|1745031021371",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=836%7C1745031021371"
+    "nextCursor": "837|1756229837319",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=837%7C1756229837319"
   }
 }
