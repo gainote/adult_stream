@@ -1,80 +1,74 @@
 {
   "items": [
     {
-      "id": 100658806,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/88a06786-9635-42d4-bc9f-7cd6dc15206a/original=true/88a06786-9635-42d4-bc9f-7cd6dc15206a.jpeg",
-      "hash": "UKHU:{_3FyT09ZIpX8jF4.xCwI-p~VtlT0S2",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 76345107,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2948694c-0553-4446-82ba-eb021fdf9785/original=true/2948694c-0553-4446-82ba-eb021fdf9785.jpeg",
+      "hash": "URM@1L%M9ZtSOYxuD%S500WBNGRk_NaeM|NG",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-16T12:14:05.421Z",
-      "postId": 22331469,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-16T23:37:20.022Z",
+      "postId": 16955079,
       "stats": {
-        "cryCount": 135,
-        "laughCount": 228,
-        "likeCount": 1852,
+        "cryCount": 121,
+        "laughCount": 224,
+        "likeCount": 1855,
         "dislikeCount": 0,
-        "heartCount": 868,
+        "heartCount": 885,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 312529730,
-        "draft": false,
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, very aesthetic, realism, \n1girl, \nlying back, after sex, after vaginal, after anal, holding , holding money,  arms up, breasts appart,convenient censoring, money on pussy, cum , cum in pussy , cum on body , cum on breasts, cum on clothes, cum on hair, cum on hands , facial, from above , full body , half-closed eye, unworn bra , used condom, used tissue , tissue box,  breasts out, pussy exposed, trimmed pussy hair, looking at viewer, ashamed, cum on face, cum on breasts, cum dripping from money, cum dripping from mouth,\nbanknote , blue bra, blue eyes , blue panties, blue skirt , blue sweater vest , blush , bra , breasts , breasts out, brown hair , clothes lift , clothes pull, collared shirt , green necktie,  lace-trimmed bra, lace trim, large breasts , medium hair , money , navel , necktie , nipples , open clothes, open shirt , panties , panties around one leg, school uniform , shirt , shirt lift, skirt , skirt around one leg , solo , sweater vest, thighs , underwear , unworn underwear , white shirt, \nindoors , window, deprecated appartment,, 7481llu, usnr",
-        "process": "txt2img",
+        "seed": 3825462215,
+        "Model": "waiNSFWIllustrious_v140",
+        "steps": 30,
+        "hashes": {
+          "model": "bdb59bac77",
+          "lora:Lativi_V2_epoch_10": "ac4cd23befa8"
+        },
+        "prompt": "masterpiece,best quality,amazing quality,\n1girl, gold bikini, solo, breasts, swimsuit, bikini, blue eyes, hair over one eye, skirt, long hair, asuna (blue archive), halo, smile, navel, open clothes, large breasts, blush, shirt, hair ribbon, bangs, open shirt, white shirt, skirt pull, ribbon, grin, looking at viewer, collarbone, school uniform, undressing, blue skirt, cleavage, yellow bikini, light brown hair, side-tie bikini bottom, blue ribbon, pleated skirt, alternate costume, stomach, shiny,\n<lora:Lativi_V2_epoch_10:1>",
+        "Version": "f1.1.5-v1.10.1RC-latest-864-g943a2f48",
         "sampler": "Euler a",
-        "cfgScale": 5.5,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-16T1212:09.4410191Z",
-        "experimental": false,
-        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes,child, teen, young, extra toes,multiple dildos, shirt,",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 2170227
+            "hash": "ac4cd23befa8",
+            "name": "Lativi_V2_epoch_10",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1375651
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1552087
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1020899
+            "hash": "bdb59bac77",
+            "name": "waiNSFWIllustrious_v140",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "bdb59bac77",
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "4x-AnimeSharp",
+        "mswmsa_enabled": "False",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,simple background,transparent background,text,english text, doujin cover,bar censor,censored, mosaic censoring,",
+        "raunet_enabled": "False",
+        "Denoising strength": "0.5",
+        "mswmsa_simple_enabled": "False",
+        "raunet_simple_enabled": "False"
       },
-      "username": "glide78454",
+      "username": "Galerd",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1020899,
-        1375651,
-        1552087,
-        2170227
+        1761560,
+        1790094
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "833|1747438640022",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=833%7C1747438640022"
+    "nextCursor": "834|1741541705712",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=834%7C1741541705712"
   }
 }
