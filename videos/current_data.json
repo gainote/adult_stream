@@ -1,33 +1,63 @@
 {
   "items": [
     {
-      "id": 99557264,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bb3a13fd-5a7b-42c7-8e39-97060242355a/original=true/bb3a13fd-5a7b-42c7-8e39-97060242355a.jpeg",
-      "hash": "UMFP1=~qyD8_-;-oVsaeD%M_IAbbE0IUR5V@",
-      "width": 3840,
-      "height": 3840,
-      "nsfwLevel": "Mature",
+      "id": 83891932,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3bd49e12-891b-45f9-9382-d2764c72f2fc/original=true/3bd49e12-891b-45f9-9382-d2764c72f2fc.jpeg",
+      "hash": "U9GkLCbvtQVr8w4n%MozKj_Nn3WX8w9t?G-o",
+      "width": 2560,
+      "height": 3712,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-11T17:57:44.735Z",
-      "postId": 22090065,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-22T23:30:00.000Z",
+      "postId": 18627253,
       "stats": {
-        "cryCount": 177,
-        "laughCount": 305,
-        "likeCount": 1925,
+        "cryCount": 96,
+        "laughCount": 187,
+        "likeCount": 1764,
         "dislikeCount": 0,
-        "heartCount": 663,
-        "commentCount": 1
+        "heartCount": 1023,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "Rodzilla2025X",
-      "baseModel": "Pony",
-      "modelVersionIds": []
+      "meta": {
+        "vaes": [],
+        "extra": {},
+        "steps": 40,
+        "models": [],
+        "prompt": "1girl, 1 boy, very large penis, hardcore sex, visible penetration, anal sex, ass up, doggystyle, female in all fours, cheating girlfriend, female in bliss, orgasming female,\nmasterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up\n",
+        "denoise": 0.5,
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "modelIds": [],
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": " lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits, censored, patreon username",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1916444
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
+        "additionalResources": []
+      },
+      "username": "phinjo",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        164821,
+        1916444
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "845|1750635000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=845%7C1750635000000"
+    "nextCursor": "846|1737836271357",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=846%7C1737836271357"
   }
 }
