@@ -1,96 +1,126 @@
 {
   "items": [
     {
-      "id": 104057803,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f346f18e-bc60-43f8-a1c4-75b35104d596/original=true/f346f18e-bc60-43f8-a1c4-75b35104d596.jpeg",
-      "hash": "UEHAU%~Ut+^jS1oyofsm0NRjwJNGoJIVM|Nb",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 15170133,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/badc9135-d0bf-4890-8e71-0bd200dc122a/original=true/badc9135-d0bf-4890-8e71-0bd200dc122a.jpeg",
+      "hash": "UJMic$001O-U~pM|x^In_M-o?bs,yXozWE%M",
+      "width": 1792,
+      "height": 2432,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-10-04T06:42:00.000Z",
-      "postId": 23087648,
+      "browsingLevel": 4,
+      "createdAt": "2024-06-09T12:18:21.746Z",
+      "postId": 3366558,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 191,
-        "likeCount": 1810,
+        "cryCount": 95,
+        "laughCount": 250,
+        "likeCount": 1656,
         "dislikeCount": 0,
-        "heartCount": 853,
-        "commentCount": 0
+        "heartCount": 996,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 26319235,
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "1girl, dark brown hair, short hair, low twin tails, crop top, orange top, off shoulder, purple thigh highs, purple garter, blush, embarrassed, spread butt cheeks, pussy focus, labia, sexy pose, detailed background, \n\ns1_dram, masterpiece, depth of field, blurry background, best quality, very aesthetic,  photorealistic, natural skin, goosebumps, soft lighting, volumetric lighting, ",
-        "denoise": 0.4,
-        "process": "txt2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/EQACV4QXJRFGDYJ3CMQDX03MY0.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQryh0ewdcLpaG0bPOiBIJ8ZJSSYzVRbR9fCX2P_ZWIXSEvOneakjv1gadmH__SLJVrWqQFwydUw2mFplarGgrsTe_oJaVokoZgtwNKRFQMLjK311F7qAQFTrvOaGTgB10n3QFwnUJWpJwpzAra8HPTis4R0VAE660dIGH7SSH3O5lmVl1zCg6G-U68RZmWykjVnEPyY6nDtcOU8sjbY3ZCS6x-0DzBw4oZ4w3F-9hLt-KiT3c2FVfTX2a8Zzz_p7e_NLc7uPDv4Jnj_gWsi7Rg&exp=2026-10-04T05:35:39.3588213Z",
-          "width": 832,
-          "height": 1216
+        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
+        "Size": "1792x2432",
+        "seed": 3023190349,
+        "Model": "autismmixSDXL_autismmixConfetti",
+        "steps": 30,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "ac006fdd7e",
+          "lora:facegrab": "c2b4659828f4",
+          "lora:hutagoXL": "c6648d256138",
+          "lora:90s4n1m3XLP": "7d8a231b555d",
+          "lora:incase-ilff-v3-4": "d9e83908a1c7",
+          "lora:Sakura_No_Tomoru_Ei_E_Style_pony": "bf7571721bb5"
         },
-        "experimental": false,
-        "negativePrompt": "((3d, cgi, cartoon)),  ugly, worst quality, low quality, unrealistic, ",
-        "civitaiResources": [
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, 1boy, 2d, source_anime, anime, facegrab, close-up, asuka langley, ahegao, blue eyes, fully nude, medium breasts, white background,\n90s4n1m3, <lora:incase-ilff-v3-4:0.15> <lora:hutagoXL:0.6> <lora:90s4n1m3XLP:0.7><lora:Sakura_No_Tomoru_Ei_E_Style_pony:0.2>   <lora:facegrab:1>",
+        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "freeu_b1": "1.4",
+        "freeu_b2": "1.3",
+        "freeu_s1": "0.9",
+        "freeu_s2": "0.2",
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
+            "hash": "d9e83908a1c7",
+            "name": "incase-ilff-v3-4",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 959419
+            "weight": 0.15
           },
           {
+            "hash": "c6648d256138",
+            "name": "hutagoXL",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 2209882
+            "weight": 0.6
           },
           {
+            "hash": "7d8a231b555d",
+            "name": "90s4n1m3XLP",
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 2034730
+            "weight": 0.7
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "bf7571721bb5",
+            "name": "Sakura_No_Tomoru_Ei_E_Style_pony",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "c2b4659828f4",
+            "name": "facegrab",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "ac006fdd7e",
+            "name": "autismmixSDXL_autismmixConfetti",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "ac006fdd7e",
+        "freeu_enabled": "True",
+        "negativePrompt": "source_pony, source_furry, watermark, text, 3d, muscular female, (mole), (monochrome)",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer prompt": {
+          "Sakura_No_Tomoru_Ei_E_Style_pony": "0.2>"
+        },
+        "ADetailer version": "24.5.1",
+        "Denoising strength": "0.2",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "multidiffusion_method": "Mixture of Diffusers",
+        "ADetailer dilate erode": "4",
+        "multidiffusion_enabled": "True",
+        "ADetailer inpaint width": "1024",
+        "ADetailer inpaint height": "1024",
+        "ADetailer inpaint padding": "32",
+        "ADetailer negative prompt": {},
+        "multidiffusion_tile_width": "896",
+        "multidiffusion_tile_height": "1216",
+        "ADetailer mask merge invert": "Merge",
+        "multidiffusion_tile_overlap": "64",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "multidiffusion_tile_batch_size": "4",
+        "ADetailer mask only top k largest": "1",
+        "ADetailer use inpaint width height": "True"
       },
-      "username": "DrPeeHands",
-      "baseModel": "Illustrious",
+      "username": "BesolloAI",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        959419,
-        1240288,
-        2034730,
-        2209882
+        324524,
+        436219,
+        449963,
+        473140
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "896|1717935501746",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=896%7C1717935501746"
+    "nextCursor": "897|1754349576738",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=897%7C1754349576738"
   }
 }
