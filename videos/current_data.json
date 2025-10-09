@@ -1,63 +1,38 @@
 {
   "items": [
     {
-      "id": 83891932,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3bd49e12-891b-45f9-9382-d2764c72f2fc/original=true/3bd49e12-891b-45f9-9382-d2764c72f2fc.jpeg",
-      "hash": "U9GkLCbvtQVr8w4n%MozKj_Nn3WX8w9t?G-o",
-      "width": 2560,
+      "id": 53872300,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ceb911e3-57dd-4762-b0ac-898a09304d72/original=true/ceb911e3-57dd-4762-b0ac-898a09304d72.jpeg",
+      "hash": "ULKKNP%N64rXL4yETJR60-JC%g-;-=M|s-?a",
+      "width": 2556,
       "height": 3712,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-06-22T23:30:00.000Z",
-      "postId": 18627253,
+      "createdAt": "2025-01-25T20:17:51.357Z",
+      "postId": 12089559,
       "stats": {
-        "cryCount": 96,
-        "laughCount": 187,
-        "likeCount": 1764,
+        "cryCount": 137,
+        "laughCount": 258,
+        "likeCount": 1856,
         "dislikeCount": 0,
-        "heartCount": 1023,
-        "commentCount": 0
+        "heartCount": 819,
+        "commentCount": 3
       },
       "meta": {
-        "vaes": [],
-        "extra": {},
-        "steps": 40,
-        "models": [],
-        "prompt": "1girl, 1 boy, very large penis, hardcore sex, visible penetration, anal sex, ass up, doggystyle, female in all fours, cheating girlfriend, female in bliss, orgasming female,\nmasterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up\n",
-        "denoise": 0.5,
-        "sampler": "Euler a",
-        "cfgScale": 5,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": " lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits, censored, patreon username",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1916444
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
+        "steps": 20,
+        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis or reactions and Buzz everyone.",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5
       },
-      "username": "phinjo",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        164821,
-        1916444
-      ]
+      "username": "Rodzilla2025X",
+      "baseModel": "",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "846|1737836271357",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=846%7C1737836271357"
+    "nextCursor": "847|1757699400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=847%7C1757699400000"
   }
 }
