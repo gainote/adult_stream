@@ -1,83 +1,40 @@
 {
   "items": [
     {
-      "id": 86873009,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/062eb615-6fa9-4e07-a8b1-e631d4dc510c/original=true/062eb615-6fa9-4e07-a8b1-e631d4dc510c.jpeg",
-      "hash": "U4G%u?0|00}t+6aKtd%M00={yW560LjGpIXl",
-      "width": 2688,
-      "height": 3840,
+      "id": 19698860,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21efee91-93e4-4521-aff8-81bc3edaa030/original=true/21efee91-93e4-4521-aff8-81bc3edaa030.jpeg",
+      "hash": "UDGHxZ9F_N={9]V?9aWqo}M{NGNw_3RiIpW;",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-08T00:41:00.000Z",
-      "postId": 19275290,
+      "createdAt": "2024-07-13T21:33:03.702Z",
+      "postId": 4398842,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 211,
-        "likeCount": 1853,
+        "cryCount": 87,
+        "laughCount": 179,
+        "likeCount": 1765,
         "dislikeCount": 0,
-        "heartCount": 793,
+        "heartCount": 970,
         "commentCount": 0
       },
-      "meta": {
-        "vaes": [],
-        "extra": {},
-        "steps": 29,
-        "models": [],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, medieval setting, tavern, bar, solo, 1girl, elf bartender, female focus, lineless, incoth, (incase:0.6), indoors, green eyes, slave bikini, pelvic curtain, no panties, slave collar, cowboy shot, small breasts, long pink hair, swept hair, refined, beautiful, kawaii, dynamic pose, close up, standing behind bar, bartending, butt,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1612720
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1545543
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1589514
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          }
-        ],
-        "additionalResources": []
-      },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
+      "meta": null,
+      "username": "JoHue",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        244808,
-        1189052,
-        1545543,
-        1589514,
-        1612720
+        9208,
+        135867,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "893|1720906383702",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=893%7C1720906383702"
+    "nextCursor": "894|1753056600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=894%7C1753056600000"
   }
 }
