@@ -1,36 +1,39 @@
 {
   "items": [
     {
-      "id": 16504126,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be8e4cf4-60fc-4450-b42d-bce2af7be1b7/original=true/be8e4cf4-60fc-4450-b42d-bce2af7be1b7.jpeg",
-      "hash": "UMLzX3Mx_N-;?^IU?btQ00%Mn$Rj%gt7ROt7",
+      "id": 34515410,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1738c1a4-e81b-49ce-a3d2-acc3d4ebd16b/original=true/1738c1a4-e81b-49ce-a3d2-acc3d4ebd16b.jpeg",
+      "hash": "U9B._,DN0zs+~X9EOFRit-nhM_t7yXNH9E-=",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-06-20T17:46:26.966Z",
-      "postId": 3702819,
+      "createdAt": "2024-10-14T07:15:43.047Z",
+      "postId": 7885904,
       "stats": {
-        "cryCount": 62,
-        "laughCount": 173,
-        "likeCount": 1877,
+        "cryCount": 118,
+        "laughCount": 243,
+        "likeCount": 1678,
         "dislikeCount": 0,
-        "heartCount": 924,
-        "commentCount": 1
+        "heartCount": 996,
+        "commentCount": 61
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 776720289,
+        "seed": 1078515651,
+        "extra": {
+          "remixOfId": 34364766
+        },
         "steps": 35,
-        "prompt": "(score_9, score_8_up, score_7_up), 1girl, 20 year old, 1 male out of frame, thick long black hair with two messy buns, small perky breasts, pretty face, petite, amber eyes, eye contact, blushing, smug, shiny skin, sexy pose, light freckles, innie pussy, sexy black and white maid outfit with skirt, deep anal cowgirl, sexy pose, cozy bedroom background, deep orange lighting, god rays, volumetric lighting,   lilandavastyle, OverallDetail, Expressiveh",
-        "sampler": "Euler a",
-        "cfgScale": 4.5,
+        "prompt": "score_9, score_8_up, score_7_up, BREAK, 1girl, 20 years old, solo, short ginger hair, dark green eyes, heavy freckles, heavy makeup, mascara, looking up, light blush, medium perky breasts, moon earrings, white business shirt, tie, choker, black tights, exhausted, looking up, eyes up, cock slumped over girl face, cock worship, penis on face, holding cock, medium size cock, detailed background, night, moonlight, inside, office, volumetric lighting, vivid colours, from above, full body shot, gothic, detailed drawing, glshs, partially illuminated",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-06-20T1743:31.4012852Z",
-        "negativePrompt": "(deformed, distorted, disfigured:1.3), furry, loli, poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, missing fingers, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, background characters, SimpleNegativeV3, massive penis, muscular,",
+        "Created Date": "2024-10-14T0712:27.0954156Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -40,20 +43,32 @@
           {
             "type": "embed",
             "weight": 1,
-            "modelVersionId": 287973,
-            "modelVersionName": "V3"
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 378684,
-            "modelVersionName": "v2.0 (Max. Compatibility)"
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
-            "weight": 1.4,
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "embed",
@@ -67,18 +82,20 @@
           }
         ]
       },
-      "username": "WiseBurrito",
+      "username": "Fusrohdah",
       "baseModel": "Pony",
       "modelVersionIds": [
-        287973,
+        9208,
+        244808,
         290640,
-        378684,
-        382152
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "869|1728890143047",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=869%7C1728890143047"
+    "nextCursor": "870|1745023260000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=870%7C1745023260000"
   }
 }
