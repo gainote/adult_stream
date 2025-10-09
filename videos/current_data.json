@@ -1,133 +1,73 @@
 {
   "items": [
     {
-      "id": 91416833,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8110617e-dd64-47b2-aba2-e2678d7d537f/original=true/8110617e-dd64-47b2-aba2-e2678d7d537f.jpeg",
-      "hash": "ULGbM6-p.TNF?wt7tlR*9ZRkMds:axbHi_s:",
+      "id": 80421016,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ba2176e-bc22-4e7d-8678-e7222ac5d12a/original=true/9ba2176e-bc22-4e7d-8678-e7222ac5d12a.jpeg",
+      "hash": "UBGQ%]16CS_31OFf%MNf0L}q#RRPrWMwMxEL",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-30T17:59:20.974Z",
-      "postId": 20279936,
+      "createdAt": "2025-06-04T18:46:26.861Z",
+      "postId": 17861085,
       "stats": {
-        "cryCount": 175,
-        "laughCount": 316,
-        "likeCount": 1882,
+        "cryCount": 131,
+        "laughCount": 232,
+        "likeCount": 1730,
         "dislikeCount": 0,
-        "heartCount": 683,
-        "commentCount": 1
+        "heartCount": 963,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1233231596,
-        "draft": true,
-        "steps": 8,
+        "seed": 1499621413,
+        "draft": false,
+        "steps": 19,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, BREAK, RAW, 8k, source_photo, source_real, front view,\nLow quality, traditional media, amateur, real life photo, film grain, detailed face, absurdres, Cute Young Woman, beautiful face, beautiful seductive eyes, ((super small body)), sweaty skin, narrow hips, (freckles), aroused, looking at viewer, facing viewer, smug expression, (high blonde ponytail, tendrils hair hair  imminent anal, anal sex, imminent penetration, ((squatting)), (((grabbing penis))), ((reverse anal cowgirl position)), ((guided anal penetration)),\nBREAK (1boy, african male, boy lying back, boy head outer frame), giant penis on anus,(score_9, score_8_fluxenh4nce, real_beauty, detailed_eye_model, perfect hands, perfection, dynamic angle,1 girl, supermodel, gorgeous, 18 years old, (tiny waist),breast implants, fake tits,(medium perky breasts),perfect figure, very skinny,tanned skin,(long hair, red hair, straight hair, bimbo lips, slender nose, high prominent cheekbones, defined and slightly pointed jawline, highly detailed face, highly detailed skin, realistic skin, (shiny skin: 1.2),nude,BREAK,she is afraid,submissive, trembling. in pain.exhausted,moaning,heavy breathing,BREAK,sun tanning,in motel room,on bed,((pov man))), grab her,rough,violence, violent anal sex, her first anal penetration,painful anal sex,Humiliation,painful anal torture,sexual harassment,deep penetration,motion lines,",
-        "process": "txt2img",
-        "sampler": "Euler",
-        "cfgScale": 1,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, three girls, (depth of field), shower, dim light, evening, threesome\nhourglass figure, naked, horny face, blushing, blonde hair, pixie cut, heavy blushing, surprised, futanari, makeup, blowjob, penis, balls, open eyes, ass, nude, sweat, steam, wet, horny, pleasure face, deepthroat, irrumatio, rimjob\nBREAK hourglass figure, naked, horny face, smirk, black hair, pixie cut, heavy blushing, futanari, medium cock, heavy balls\nBREAK hourglass figure, naked, horny face, smirk, red hair, pixie cut, heavy blushing, medium tits, watching, masturbating\ndynamic pose, from above",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-27T2215:55.2666898Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, pony, furry, monochrome, curvy, fat, pubic hair, , watermark, simple background, (angular face:1.3), pointy chin, flat chested, border\n,artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed),",
+        "Created Date": "2025-05-30T1039:52.3414387Z",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, grayscale, worst aesthetic, old, oldest, text, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, (worst quality, bad quality:1.2), sketch, jpeg artifacts, signature, watermark, username, simple background, conjoined",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 895084,
-            "modelVersionName": "v4 Pixel Precision Beauty"
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 575452,
-            "modelVersionName": "v1.0"
+            "weight": 0.85,
+            "modelVersionId": 1189052,
+            "modelVersionName": "Illustrious"
           },
           {
             "type": "lora",
-            "weight": 1.4,
-            "modelVersionId": 534952,
-            "modelVersionName": "Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 1.3,
-            "modelVersionId": 407574,
-            "modelVersionName": "Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 3,
-            "modelVersionId": 558248,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 2,
-            "modelVersionId": 1253021,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": -1.15,
-            "modelVersionId": 1386847,
-            "modelVersionName": "PONY v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": -1.5,
-            "modelVersionId": 517898,
-            "modelVersionName": "Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 536311,
-            "modelVersionName": "Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1719634,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 391999,
-            "modelVersionName": "8 Steps"
+            "weight": 0.5,
+            "modelVersionId": 1416874,
+            "modelVersionName": "v1"
           }
         ]
       },
-      "username": "Vasilyevich",
-      "baseModel": "Pony",
+      "username": "sgnerpo99",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        391999,
-        407574,
-        517898,
-        534952,
-        536311,
-        558248,
-        575452,
-        895084,
-        1253021,
-        1386847,
-        1719634
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "855|1749062786861",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=855%7C1749062786861"
+    "nextCursor": "856|1755218100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=856%7C1755218100000"
   }
 }
