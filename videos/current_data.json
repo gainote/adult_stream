@@ -1,56 +1,74 @@
 {
   "items": [
     {
-      "id": 92354985,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da327cfe-3014-4a8f-8892-a4eca6725cd2/original=true/da327cfe-3014-4a8f-8892-a4eca6725cd2.jpeg",
-      "hash": "U5H_.1002_ODMcI;-p$%00?w~UH=ITVsaxOZ",
-      "width": 768,
-      "height": 1344,
-      "nsfwLevel": "X",
+      "id": 101211063,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a653e9e-5e8e-43b9-894a-1eb7709eab4e/original=true/6a653e9e-5e8e-43b9-894a-1eb7709eab4e.jpeg",
+      "hash": "U6IEU?D400710Lz;~C.lF^L~X-In~CRkIW%1",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-04T23:19:36.738Z",
-      "postId": 20487218,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-19T10:34:08.506Z",
+      "postId": 22454092,
       "stats": {
-        "cryCount": 180,
-        "laughCount": 236,
-        "likeCount": 1862,
+        "cryCount": 134,
+        "laughCount": 203,
+        "likeCount": 1845,
         "dislikeCount": 0,
-        "heartCount": 718,
+        "heartCount": 812,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1344",
-        "seed": 17496451499994080000,
-        "Model": "improvedMix_v50",
-        "steps": 60,
-        "hashes": {
-          "model": "f76b10ecff"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, (masterpiece:1.2), best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, (ultimate quality:1.2), (flawless beauty:1.2), (beautiful&aesthetic:1.2), (1girl), (bikini:1.2), (face&body skin:1.2), (white blanket wrapped body:1.1), (almost nude:1.0), (medium full body shot:1.4), looking at viewer, (lying down on the bed:1.2), full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
-        "Version": "ComfyUI",
-        "sampler": "lms_simple",
-        "CFG Scale": "5.0",
-        "resources": [
-          {
-            "hash": "f76b10ecff",
-            "name": "improvedMix_v50",
-            "type": "model"
-          }
+        "seed": 931704995,
+        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1199750",
+        "extra": {},
+        "steps": 36,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:439889@1199750"
         ],
-        "Model hash": "f76b10ecff",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
+        "prompt": "score_9, score_8, score_7, (rim lighting, volumetric lighting, colorfull, digital art),\n(dutch angle view),\n(wearing aqua transparent strapless, satin shiny o-ring bandeau top under-breasts, medium breasts, o-ring bikini bottom, aqua covered nipples, :1.3), huge nipples, (large sunhat),\nwaterfall background, \nlooking at viewer, sitting on a rock, hands on side, legs, feet, crotch, cameltoe, smile open mouth,\n(Takashiro Hiroko, 1girl, mature female, purple eyes, long hair, red hair, earrings, blushing)",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "negativePrompt": ", distorted fingers, bad, low-quality, lowres, monochrome, downsampling, artifacts, 3D, distorted, watermark, worst-quality, distortion, kid, low-quality, blurry, blur, twisted, bad, bad-anatomy, muscular, child, distorted hands, fury, aliasing, muscular, wet, see-through, ",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1199750
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 636553
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 726388
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ]
       },
-      "username": "fujiangjiang",
-      "baseModel": "Illustrious",
+      "username": "MatureOnly",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1696071
+        164821,
+        636553,
+        726388,
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "898|1758278048506",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=898%7C1758278048506"
+    "nextCursor": "899|1738429131781",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=899%7C1738429131781"
   }
 }
