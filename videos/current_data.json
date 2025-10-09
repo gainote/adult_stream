@@ -1,69 +1,77 @@
 {
   "items": [
     {
-      "id": 41368118,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d78e13c8-59a9-495e-af7b-b1a99bf4cd25/original=true/d78e13c8-59a9-495e-af7b-b1a99bf4cd25.jpeg",
-      "hash": "U9C6Jl~U0001odI;9u%1D%-V%MIp0MR*}@s,",
-      "width": 1080,
-      "height": 1920,
+      "id": 94898622,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ef6f5055-b7ba-44c0-900e-b931c5ac9939/original=true/ef6f5055-b7ba-44c0-900e-b931c5ac9939.jpeg",
+      "hash": "UbLp{$f+%#xu_NR*?Hof9aWBWAWBxuWBRjWB",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-11-21T21:30:49.114Z",
-      "postId": 9420782,
+      "createdAt": "2025-08-17T23:37:20.758Z",
+      "postId": 21052407,
       "stats": {
-        "cryCount": 81,
-        "laughCount": 141,
-        "likeCount": 1795,
+        "cryCount": 115,
+        "laughCount": 199,
+        "likeCount": 1817,
         "dislikeCount": 0,
-        "heartCount": 998,
-        "commentCount": 1
+        "heartCount": 882,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "720x1280",
-        "seed": 2827863319,
-        "Model": "4",
-        "steps": 55,
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 403303981,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
         "hashes": {
-          "model": "93b103228c"
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:sos_adult_style_ilxl_goofy": "1b153aa696f6"
         },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1 women, blonde, 22 years old, Detailed, intimate, clear, personal, highly contrasted, excellent composition, advanced cinematic perfect light, highly color focused, neon light, simple black background, very slutty, lustful, oily skin, nude breast, side parted breast, medium lush breasts, dress pulled down, blue dress, blue hair ribbon",
-        "Version": "f2.0.1v1.10.1-previous-621-gf4a6a08e",
-        "sampler": "Euler a",
-        "cfgScale": 9,
-        "clipSkip": 2,
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:sos_adult_style_ilxl_goofy:1> hatsune miku, 1girl, animal ears, between breasts, bikini, bow, bowtie, breasts, detached collar, hair ornament, hairpin, heart, looking at viewer, meme attire, middle finger, midriff, miku collar bikini, navel, necktie, necktie between breasts, pubic tattoo, purple hair, pussy, rabbit ears, red bow, red bowtie, skindentation, spread legs, squatting, striped bikini, striped clothes, sweat, swimsuit, tattoo, thighhighs, trembling, twintails, uncensored",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
         "resources": [
           {
-            "hash": "93b103228c",
-            "name": "4",
+            "hash": "1b153aa696f6",
+            "name": "sos_adult_style_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
             "type": "model"
           }
         ],
-        "Model hash": "93b103228c",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "nmkdSiaxCX_200k",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "9",
-        "ADetailer prompt": "shadows",
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
         "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
+        "Denoising strength": "0.21",
+        "SD upscale overlap": "64",
         "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
         "ADetailer confidence": "0.3",
         "ADetailer dilate erode": "4",
         "ADetailer inpaint padding": "32",
         "ADetailer denoising strength": "0.4",
         "ADetailer inpaint only masked": "True"
       },
-      "username": "reijlita",
-      "baseModel": "Pony",
-      "modelVersionIds": []
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1379960
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "884|1755473840758",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=884%7C1755473840758"
+    "nextCursor": "885|1742839560000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=885%7C1742839560000"
   }
 }
