@@ -1,186 +1,84 @@
 {
   "items": [
     {
-      "id": 85623844,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46241325-b1b6-4288-88db-d7c7d0bf5c61/original=true/46241325-b1b6-4288-88db-d7c7d0bf5c61.jpeg",
-      "hash": "UILC*P^%02J.~B57$i%20#9uRQR*?a-oIq$*",
+      "id": 37437562,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0bf2cd5d-ef63-4dc3-a411-6260e7d6acdc/original=true/0bf2cd5d-ef63-4dc3-a411-6260e7d6acdc.jpeg",
+      "hash": "U5Du*x|Z0003F}D%N1?b-Qbq0f-ox94?xu?G",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-01T10:49:00.000Z",
-      "postId": 19003152,
+      "browsingLevel": 8,
+      "createdAt": "2024-10-30T20:42:42.234Z",
+      "postId": 8550506,
       "stats": {
-        "cryCount": 107,
-        "laughCount": 193,
-        "likeCount": 1766,
+        "cryCount": 120,
+        "laughCount": 223,
+        "likeCount": 1823,
         "dislikeCount": 0,
-        "heartCount": 983,
-        "commentCount": 3
+        "heartCount": 883,
+        "commentCount": 12
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit,\n\nblonde braid,\nopened mouth,\nyellow eyes,\npenis,\nteadrop breasts,\n(tan:0.7),\n(freckles:1.2),\nhand head,\nmessy hairs,\nman out of frame,\nlooking up,\nwatch,\ndynamic,\n(white cum tongue:0.7),\n",
-        "denoise": 0.05,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
+        "Size": "832x1216",
+        "seed": 835283975,
+        "steps": 34,
+        "prompt": "score_9, score_8_up, score_7_up, realistic, a woman, solo, cute perfect face, freckles, kawai girl, large tear shaped breasts, blue tubetop, panties pulled down, hand on panties, pubic hair,  thighs, thin waist, looking at viewer, wide hips, cowboy shot, sexy posing, horny,, blurry background, light particles,\nslavya, blonde hair, very long hair, long hair, twin braids, blue eyes, 1girl,",
+        "sampler": "Euler a",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
-        "baseModel": "Pony",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/239003689316888481716194564011730532298.jpg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "\n\nsource_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ribs, jewelry, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, more than five fingers, crosseyed, easynegative, bestiality",
+        "resources": [],
+        "Created Date": "2024-10-30T1926:18.3574273Z",
+        "negativePrompt": "score_5, score_4, 3d, simple background",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 1959359
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 98441
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 128461
-          },
-          {
-            "weight": 0.55,
-            "modelVersionId": 298238
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 471794
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 983142
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1959359
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 128461
+            "weight": 0.2,
+            "modelVersionId": 761452,
+            "modelVersionName": "v2"
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 298238
+            "weight": 0.8,
+            "modelVersionId": 608278,
+            "modelVersionName": "V1"
           },
           {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 382152
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 471794
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 983142
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1730868@1959359",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:118427@128461",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:264290@298238",
-            "type": "lora",
-            "strength": 0.55,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.9,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:200255@471794",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:217340@983142",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "vovkkabanko",
+      "username": "NemoCurat",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        98441,
-        128461,
-        290640,
-        298238,
-        382152,
-        471794,
-        983142,
-        1959359
+        436219,
+        608278,
+        761452,
+        817261
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "861|1730320962234",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=861%7C1730320962234"
+    "nextCursor": "862|1750809300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=862%7C1750809300000"
   }
 }
