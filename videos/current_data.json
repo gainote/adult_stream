@@ -1,73 +1,113 @@
 {
   "items": [
     {
-      "id": 80421016,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ba2176e-bc22-4e7d-8678-e7222ac5d12a/original=true/9ba2176e-bc22-4e7d-8678-e7222ac5d12a.jpeg",
-      "hash": "UBGQ%]16CS_31OFf%MNf0L}q#RRPrWMwMxEL",
+      "id": 94283413,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4d2ee99-c292-44b0-9c58-ade26925eca9/original=true/b4d2ee99-c292-44b0-9c58-ade26925eca9.jpeg",
+      "hash": "U8BWrV005S^j.ms.w_aeDj.SvgKPbvtRozV?",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-04T18:46:26.861Z",
-      "postId": 17861085,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-15T00:35:00.000Z",
+      "postId": 20918105,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 232,
-        "likeCount": 1730,
+        "cryCount": 146,
+        "laughCount": 209,
+        "likeCount": 1896,
         "dislikeCount": 0,
-        "heartCount": 963,
-        "commentCount": 2
+        "heartCount": 804,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1499621413,
+        "seed": 727221149,
         "draft": false,
-        "steps": 19,
+        "extra": {
+          "remixOfId": 93405885
+        },
+        "steps": 32,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, three girls, (depth of field), shower, dim light, evening, threesome\nhourglass figure, naked, horny face, blushing, blonde hair, pixie cut, heavy blushing, surprised, futanari, makeup, blowjob, penis, balls, open eyes, ass, nude, sweat, steam, wet, horny, pleasure face, deepthroat, irrumatio, rimjob\nBREAK hourglass figure, naked, horny face, smirk, black hair, pixie cut, heavy blushing, futanari, medium cock, heavy balls\nBREAK hourglass figure, naked, horny face, smirk, red hair, pixie cut, heavy blushing, medium tits, watching, masturbating\ndynamic pose, from above",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
+        "prompt": "masterpiece, best quality, amazing quality, ultra realistic, soft lighting,1girl, freckles, gorgeous girl, kawaii girl, cute face, cute girl, curly ginger hair, topless,puffy nipples, (slim fit), breast focus, sexy thighs, (waist chain:1.2), ((wide hip)), (purple body_stocking)  glossy, pretty girl, ass focus on girl.  ((from side)) looking_back.well lit room, blue background, red background",
+        "process": "img2img",
+        "sampler": "DPM++ SDE",
+        "cfgScale": 4.5,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 2,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-05-30T1039:52.3414387Z",
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, grayscale, worst aesthetic, old, oldest, text, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, (worst quality, bad quality:1.2), sketch, jpeg artifacts, signature, watermark, username, simple background, conjoined",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-12T0537:15.2167713Z",
+        "experimental": false,
+        "negativePrompt": "indoors, bedroom, car, (child:1.3)",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
+            "modelVersionId": 1971591
+          },
+          {
+            "type": "lora",
+            "weight": 1.3,
+            "modelVersionId": 1207307
+          },
+          {
+            "type": "lora",
+            "weight": 3.5,
+            "modelVersionId": 1253021
           },
           {
             "type": "lora",
             "weight": 0.85,
-            "modelVersionId": 1189052,
-            "modelVersionName": "Illustrious"
+            "modelVersionId": 1260971
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874,
-            "modelVersionName": "v1"
+            "weight": -1,
+            "modelVersionId": 1386847
+          },
+          {
+            "type": "lora",
+            "weight": -2.7,
+            "modelVersionId": 1430143
+          },
+          {
+            "type": "lora",
+            "weight": 3,
+            "modelVersionId": 1506035
+          },
+          {
+            "type": "lora",
+            "weight": 1.5,
+            "modelVersionId": 1594293
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1854599
           }
         ]
       },
-      "username": "sgnerpo99",
-      "baseModel": "Illustrious",
+      "username": "0dang",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1189052,
-        1416874,
-        1490781
+        1207307,
+        1253021,
+        1260971,
+        1386847,
+        1430143,
+        1506035,
+        1594293,
+        1854599,
+        1971591
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "856|1755218100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=856%7C1755218100000"
+    "nextCursor": "857|1757667414023",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=857%7C1757667414023"
   }
 }
