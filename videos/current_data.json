@@ -1,84 +1,56 @@
 {
   "items": [
     {
-      "id": 37437562,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0bf2cd5d-ef63-4dc3-a411-6260e7d6acdc/original=true/0bf2cd5d-ef63-4dc3-a411-6260e7d6acdc.jpeg",
-      "hash": "U5Du*x|Z0003F}D%N1?b-Qbq0f-ox94?xu?G",
-      "width": 832,
-      "height": 1216,
+      "id": 84334099,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6d9b05f-fd00-4e6f-9c61-f7ff0c95f7f0/original=true/a6d9b05f-fd00-4e6f-9c61-f7ff0c95f7f0.jpeg",
+      "hash": "U6Crp7?v1$x]0fOrM{Eg0K#8-9M{~CELZ$?G",
+      "width": 1536,
+      "height": 2304,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-10-30T20:42:42.234Z",
-      "postId": 8550506,
+      "createdAt": "2025-06-24T23:55:00.000Z",
+      "postId": 18721113,
       "stats": {
-        "cryCount": 120,
-        "laughCount": 223,
-        "likeCount": 1823,
+        "cryCount": 119,
+        "laughCount": 241,
+        "likeCount": 1766,
         "dislikeCount": 0,
-        "heartCount": 883,
-        "commentCount": 12
+        "heartCount": 919,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 835283975,
-        "steps": 34,
-        "prompt": "score_9, score_8_up, score_7_up, realistic, a woman, solo, cute perfect face, freckles, kawai girl, large tear shaped breasts, blue tubetop, panties pulled down, hand on panties, pubic hair,  thighs, thin waist, looking at viewer, wide hips, cowboy shot, sexy posing, horny,, blurry background, light particles,\nslavya, blonde hair, very long hair, long hair, twin braids, blue eyes, 1girl,",
-        "sampler": "Euler a",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-30T1926:18.3574273Z",
-        "negativePrompt": "score_5, score_4, 3d, simple background",
-        "civitaiResources": [
+        "Size": "2305x1537",
+        "seed": 937050588453327,
+        "Model": "riMixPONYIllustrious_riMix",
+        "steps": 30,
+        "hashes": {
+          "model": "f944b4784b"
+        },
+        "prompt": "breasts, multiple girls, 2girls, pointy ears, red skin, nipples, colored skin, black hair, horns, demon horns, yuri, green eyes, elf, demon girl, demon tail, long hair, grabbing, tail, parted lips, nude, diadem, , grabbing another's breast, braid, broken horn, upper body, braided ponytail, grabbing from behind, interspecies, circlet, shiny skin, completely nude, scar, large breasts, looking at viewer, , collarbone, muscular female, blunt bangs masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral",
+        "CFG Scale": "6.0",
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 817261,
-            "modelVersionName": "v6.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 761452,
-            "modelVersionName": "v2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 608278,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "f944b4784b",
+            "name": "riMixPONYIllustrious_riMix",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "f944b4784b",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "NemoCurat",
-      "baseModel": "Pony",
+      "username": "phinjo",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        436219,
-        608278,
-        761452,
-        817261
+        1916444
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "862|1750809300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=862%7C1750809300000"
+    "nextCursor": "863|1731859302890",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=863%7C1731859302890"
   }
 }
