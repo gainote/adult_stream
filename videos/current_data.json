@@ -1,74 +1,71 @@
 {
   "items": [
     {
-      "id": 55591768,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25bec8f1-ec83-464c-b0e6-3115caf90237/original=true/25bec8f1-ec83-464c-b0e6-3115caf90237.jpeg",
-      "hash": "UTC%v@D%IU-=.Tn$Rko#tSofn*Rj%NR*WAjF",
-      "width": 1296,
-      "height": 2160,
+      "id": 103383451,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/728eda2d-a2b5-46ed-a878-341165c2d5e6/original=true/728eda2d-a2b5-46ed-a878-341165c2d5e6.jpeg",
+      "hash": "UDH^bX00w6Ee{#B.vgXnQ8Y5jGRjr@Iokq#R",
+      "width": 1264,
+      "height": 1848,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-02-06T20:15:00.000Z",
-      "postId": 12454298,
+      "createdAt": "2025-10-01T13:51:11.009Z",
+      "postId": 22935725,
       "stats": {
-        "cryCount": 74,
-        "laughCount": 205,
-        "likeCount": 1985,
+        "cryCount": 138,
+        "laughCount": 204,
+        "likeCount": 1884,
         "dislikeCount": 0,
-        "heartCount": 798,
-        "commentCount": 0
+        "heartCount": 833,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 857009292953904,
-        "Model": "waiNSFWIllustrious_v90.safetensors",
-        "https": "//civitai.com/user/Marland_C",
+        "Size": "832x1216",
+        "seed": 100393026,
+        "Model": "Illustrij-GEN",
         "steps": 30,
         "hashes": {
-          "model": "178fc987b2",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+          "model": "8d33b2bd3e"
         },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, long hair, (wet hair:1.1), heterochromia, black sclera, red eyes, blue eyes, eyebrows, eyelashes, head tilt, head back, (translucent white wet dress:1.1), seductive look, teasing pose, fabric clinging to body, covered nipples,\noutdoors, sitting on wet wooden pier, heavy rain, nighttime, dim light, misty lake, rippling surface, distant forest, water reflections, intricate details, erotic atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:klskx_wai:0.8> <lora:spo_sdxl_10ep_4k-data_lora_webui:0.5>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5.5,
+        "prompt": "masterpiece, high_quality, highres, realistic,\n2 women, flirty, head_tilt, hanky panky,\nbikini, skin pressed, underboob, oversized sweatshirt, longsleeves, lace, see-through, choker, \ndark-blonde hair, thin hair, windswept hair, long hair, tan skin, gray eyes,\ndutchview, high angle, touching, arola flasher, swimsuit wedgie pose, teasing eyes,\ndark, shadows,\nsplit colored background",
+        "Version": "f2.0.1v1.10.1-previous-626-ga332f7cc",
+        "sampler": "Euler a",
+        "cfgScale": 6,
         "clipSkip": 2,
         "resources": [
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "178fc987b2",
-            "name": "waiNSFWIllustrious_v90.safetensors",
+            "hash": "8d33b2bd3e",
+            "name": "Illustrij-GEN",
             "type": "model"
           }
         ],
-        "Model hash": "178fc987b2",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, bra"
+        "Model hash": "8d33b2bd3e",
+        "Hires steps": "30",
+        "Hires upscale": "1.526",
+        "Original Size": "832x1216",
+        "Schedule type": "Automatic",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_foolhardy_Remacri",
+        "negativePrompt": "worst_quality, bad_quality, poorly_detailed,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "7",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.2",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Marland_C",
+      "username": "reijlita",
       "baseModel": "Illustrious",
-      "modelVersionIds": [
-        567119,
-        1283437,
-        1284348
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "850|1759326671009",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=850%7C1759326671009"
+    "nextCursor": "851|1739014999512",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=851%7C1739014999512"
   }
 }
