@@ -1,108 +1,78 @@
 {
   "items": [
     {
-      "id": 100618846,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b305b2a-147d-4645-a7a2-f65a48984705/original=true/0b305b2a-147d-4645-a7a2-f65a48984705.jpeg",
-      "hash": "UGG@-]00ozrr|=Shs.9t0LT0?HNHAcIo%Lt7",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 60292837,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d21330f3-3b6e-4b50-9bc9-35ac344d2dfc/original=true/d21330f3-3b6e-4b50-9bc9-35ac344d2dfc.jpeg",
+      "hash": "UfMjEvIp?^xu_Nof%Mxut-t7xukCV?WBMxWB",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-16T08:25:00.000Z",
-      "postId": 22322071,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-26T19:54:34.694Z",
+      "postId": 13484876,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 191,
-        "likeCount": 1941,
+        "cryCount": 95,
+        "laughCount": 214,
+        "likeCount": 1873,
         "dislikeCount": 0,
-        "heartCount": 774,
-        "commentCount": 1
+        "heartCount": 856,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 1809409223,
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism, high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, amazing composition, slight blur,\n\nGirl , ginger hair, side ponytail, white lace bra, close up, lips parted, pull bra, large breasts, head out of frame, whir simple background",
-        "denoise": 0.4,
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/V61F3CH3YHCPAAQ831B22SAZF0.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuTk0N6Ok_CN9p6TOgVJlxzwExCUps84DOiMIHrWkSyZCii_Cn2ogZ6kjZYDrSysPire1e_46DjGRn0mINTGwWVkJ01LyVcfg3-HMx2uviXAWvBj6R5uUGx6Bt5eAYwYcsfUHQuAjA6XFEtQ0KY55NaW6-a9wfgUA19fA9MMi9ked59TvnC_84qI7fm_76HEyD7fb2Gf2RU4vbbBcpOBll6TcJOALkDnNfNtbD59KqQedK1iazM-rFwovWI881WMgxTWUudWyJ-mPEXyly3cdlVf&exp=2026-09-16T06:22:42.0524114Z",
-          "width": 832,
-          "height": 1216
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 3020715778,
+        "Model": "prefectPonyXL_v5",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "d1a2aac8e5",
+          "lora:dovakini-chan_pdxl_goofy": "593f719cdcba"
         },
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,",
-        "civitaiResources": [
+        "prompt": "score_9,score_8_up,score_7_up,score_6_up,  <lora:dovakini-chan_pdxl_goofy:1>dovakini-chan, 1girl, huge breasts, female pubic hair, thighhighs, abs, holding sword, swimsuit, horned helmet, side-tie bikini bottom, fake horns, yellow cape, brown gloves, muscular female, smile, thigh boots, navel, pubic hair peek, holding weapon, white bikini, sweat, blush, white background, simple background, micro bikini, covered nipples, areola slip, string bikini, looking at viewer, armor, closed mouth, jaggy lines, cross-laced footwear, underboob, amulet",
+        "Version": "f1.3.0-v1.10.1RC-latest-1014-g542450b9",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
+            "hash": "593f719cdcba",
+            "name": "dovakini-chan_pdxl_goofy",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 145907
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 959419
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1036362
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.5,
-            "modelVersionId": 1219983
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 2209882
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "d1a2aac8e5",
+            "name": "prefectPonyXL_v5",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "d1a2aac8e5",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo, twitter username,",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.3",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "DrPeeHands",
-      "baseModel": "Illustrious",
+      "username": "Goofy_Ai",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        145907,
-        164821,
-        959419,
-        1036362,
-        1219983,
-        1240288,
-        2209882
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "867|1740599674694",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=867%7C1740599674694"
+    "nextCursor": "868|1718905586966",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=868%7C1718905586966"
   }
 }
