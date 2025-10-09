@@ -1,40 +1,76 @@
 {
   "items": [
     {
-      "id": 40633490,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0432e6f1-4af6-4f92-ace7-feceab8819fd/original=true/0432e6f1-4af6-4f92-ace7-feceab8819fd.jpeg",
-      "hash": "UIF|b.wu5Soe$y=wxZoL9u$%-UR*}?NasnR+",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 28771535,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/33ef65ea-a378-4e6b-80b2-c640ecfdb564/original=true/33ef65ea-a378-4e6b-80b2-c640ecfdb564.jpeg",
+      "hash": "URO|9D=|?^IV?u%g?HIA%#S$oLadi^WVShxu",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-11-17T16:01:42.890Z",
-      "postId": 9257777,
+      "browsingLevel": 4,
+      "createdAt": "2024-09-11T02:33:27.802Z",
+      "postId": 6436447,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 187,
-        "likeCount": 1842,
+        "cryCount": 151,
+        "laughCount": 185,
+        "likeCount": 1869,
         "dislikeCount": 0,
-        "heartCount": 915,
+        "heartCount": 840,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "sabbufik419",
+      "meta": {
+        "": {},
+        "Size": "1248x1824",
+        "seed": 1396108648,
+        "Model": "prefect_pony_xl_v3.fp16",
+        "steps": 20,
+        "hashes": {
+          "model": "e31a2563f0"
+        },
+        "prompt": "score_9,score_8_up,score_7_up, 1girl,solo,wariza,barefoot,feet,toenails,toenail polish,toes,spread toes,maid headdress,maid,gloves,apron,looking at viewer,white gloves,white background,blue eyes,blush,simple background,short sleeves,closed mouth,shoes,maid apron,dress,zettai ryouiki,black hair,short hair,puffy sleeves,black dress,white apron,frills,hand between legs,between legs,bow,bowtie,puffy short sleeves,black bow,black bowtie,medium hair,brown hair,v arms,frilled apron,black ribbon,ribbon,expressionless,collared dress,lace trim,",
+        "Version": "v1.10.1",
+        "sampler": "DPM++ 2M",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "e31a2563f0",
+            "name": "prefect_pony_xl_v3.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "e31a2563f0",
+        "Tile Overlap": "48",
+        "Schedule type": "Karras",
+        "Upscale factor": "1.5",
+        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
+        "ADetailer model": "face_yolov8s.pt",
+        "Keep input size": "true}",
+        "Tile batch size": "6",
+        "Tile tile width": "160",
+        "Tiled Diffusion": {},
+        "Tile tile height": "160",
+        "ADetailer version": "24.8.0",
+        "Denoising strength": "0.25",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "Tiled Diffusion upscaler": "4x-UltraSharp",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "Tiled Diffusion scale factor": "1.5",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
       "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        239420,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "864|1726022007802",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=864%7C1726022007802"
+    "nextCursor": "865|1755304860000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=865%7C1755304860000"
   }
 }
