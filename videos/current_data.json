@@ -1,80 +1,96 @@
 {
   "items": [
     {
-      "id": 89312715,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b7155aab-33e4-4de5-80bf-da7bb4594c87/original=true/b7155aab-33e4-4de5-80bf-da7bb4594c87.jpeg",
-      "hash": "UILy_:4.00~V5p?I4oRl0057xvt5Z$Dj?I%2",
-      "width": 1024,
-      "height": 1024,
+      "id": 104057803,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f346f18e-bc60-43f8-a1c4-75b35104d596/original=true/f346f18e-bc60-43f8-a1c4-75b35104d596.jpeg",
+      "hash": "UEHAU%~Ut+^jS1oyofsm0NRjwJNGoJIVM|Nb",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-21T00:10:00.000Z",
-      "postId": 19812257,
+      "browsingLevel": 8,
+      "createdAt": "2025-10-04T06:42:00.000Z",
+      "postId": 23087648,
       "stats": {
-        "cryCount": 123,
-        "laughCount": 233,
-        "likeCount": 1782,
+        "cryCount": 143,
+        "laughCount": 191,
+        "likeCount": 1810,
         "dislikeCount": 0,
-        "heartCount": 862,
+        "heartCount": 853,
         "commentCount": 0
       },
       "meta": {
-        "Size": "1024x1024",
-        "seed": 1371369782,
-        "draft": false,
-        "extra": {
-          "remixOfId": 88413037
-        },
-        "steps": 15,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, ultra detailed eyes, elaborate background, realistic,  shiny hair,shiny skin, dynamic angle,\n1girl, solo,sweating,  wet skin,\nPlump Anal,No panties,\nAnal show off,beautiful anus,\nShort and petite ,\nWaist-reaching blonde twin-tails (long hair tied with black ribbons),\nLarge dark blue eyes,\n black ribbon,\nFeisty and cute, with a devilish smile\nPanties partially removed,Uncensored,\ncheerleader,stadium,outdoor",
+        "seed": 26319235,
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "1girl, dark brown hair, short hair, low twin tails, crop top, orange top, off shoulder, purple thigh highs, purple garter, blush, embarrassed, spread butt cheeks, pussy focus, labia, sexy pose, detailed background, \n\ns1_dram, masterpiece, depth of field, blurry background, best quality, very aesthetic,  photorealistic, natural skin, goosebumps, soft lighting, volumetric lighting, ",
+        "denoise": 0.4,
         "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 5,
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
         "baseModel": "Illustrious",
-        "resources": [],
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
         "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-07-20T0345:04.2523864Z",
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/EQACV4QXJRFGDYJ3CMQDX03MY0.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQryh0ewdcLpaG0bPOiBIJ8ZJSSYzVRbR9fCX2P_ZWIXSEvOneakjv1gadmH__SLJVrWqQFwydUw2mFplarGgrsTe_oJaVokoZgtwNKRFQMLjK311F7qAQFTrvOaGTgB10n3QFwnUJWpJwpzAra8HPTis4R0VAE660dIGH7SSH3O5lmVl1zCg6G-U68RZmWykjVnEPyY6nDtcOU8sjbY3ZCS6x-0DzBw4oZ4w3F-9hLt-KiT3c2FVfTX2a8Zzz_p7e_NLc7uPDv4Jnj_gWsi7Rg&exp=2026-10-04T05:35:39.3588213Z",
+          "width": 832,
+          "height": 1216
+        },
         "experimental": false,
-        "negativePrompt": "ugly, disfigured, poorly drawn face, malformed hands, mutated hands, poorly drawn hands, mutated hands and fingers, bad hands, missing fingers, fused fingers, too many fingers, text, worst quality, bad quality, worst detail, sketch, jpeg artifacts, 3d, (censor), monochrome, blurry, lowres, loli, simple background, white background, logo, watermark, mosaic,inserted into the anus,",
+        "negativePrompt": "((3d, cgi, cartoon)),  ugly, worst quality, low quality, unrealistic, ",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
+            "modelVersionId": 1240288
           },
           {
             "type": "lora",
             "weight": 0.4,
-            "modelVersionId": 1041204,
-            "modelVersionName": "xmc v0.3"
+            "modelVersionId": 959419
           },
           {
             "type": "lora",
-            "weight": 1.5,
-            "modelVersionId": 1116960,
-            "modelVersionName": "v1.0 [Illustrious]"
+            "weight": 0.4,
+            "modelVersionId": 2209882
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 2034730
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": "arriel0911195",
+      "username": "DrPeeHands",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1041204,
-        1116960,
-        1761560
+        164821,
+        959419,
+        1240288,
+        2034730,
+        2209882
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "895|1717935501746",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=895%7C1717935501746"
+    "nextCursor": "896|1717935501746",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=896%7C1717935501746"
   }
 }
