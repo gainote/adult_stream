@@ -1,152 +1,109 @@
 {
   "items": [
     {
-      "id": 60312709,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1d3b9bb7-1013-4ab5-b399-cc960cf6fb83/original=true/1d3b9bb7-1013-4ab5-b399-cc960cf6fb83.jpeg",
-      "hash": "ULIOLgXn?^={x^t7NaIUTKaJs,NeM{NGxas:",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 51455990,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af9bd437-c2cc-467c-a28d-b74008eeb068/original=true/af9bd437-c2cc-467c-a28d-b74008eeb068.jpeg",
+      "hash": "U8JQs3OS00i^0g9G~V4:000L^kv#?G-A_1o{",
+      "width": 3072,
+      "height": 5376,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-27T00:41:00.000Z",
-      "postId": 13489445,
+      "browsingLevel": 4,
+      "createdAt": "2025-01-14T00:31:00.000Z",
+      "postId": 11573362,
       "stats": {
-        "cryCount": 134,
-        "laughCount": 205,
-        "likeCount": 1869,
+        "cryCount": 112,
+        "laughCount": 187,
+        "likeCount": 1834,
         "dislikeCount": 0,
-        "heartCount": 864,
-        "commentCount": 0
+        "heartCount": 938,
+        "commentCount": 3
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {
-          "remixOfId": 56118366
+        "seed": 0,
+        "Model": "",
+        "steps": 20,
+        "hashes": {
+          "lora:PDXL_NP21i": "0cf22449e4",
+          "lora:hand 4 SDXL": "2ad54bfcac",
+          "lora:feet v3 SDXL": "945760630b",
+          "lora:add-detail-xl": "0d9bd1b873",
+          "lora:feet_anime_il_v2": "d262d48cdc",
+          "lora:Expressive_H-000001": "7b53da0391",
+          "lora:HandFixer_pdxl_Incrs_v1": "f013d372ae",
+          "lora:StS_PonyXL_Detail_Slider_v1": "e557f50a1e",
+          "lora:breasts_size_slider_illustrious_goofy": "61e2e0e923"
         },
-        "steps": 32,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_8, 1girl, solo, perfect face, light blue eyes, nude, long black opera gloves, black thigh high stockings, black masquerade eye mask, small breasts, long black hair, red highlights, red lipstick, elegant ponytail, parted bangs, sitting in chair, refined, volumetric lighting, cinematic lighting, blank background, from side",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 4.5,
-        "modelIds": [],
-        "workflow": "img2img-facefix",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, hands on own face, chibi, child, border, signature",
-        "civitaiResources": [
+        "sampler": "Euler A",
+        "cfgScale": 7,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
+            "hash": "d262d48cdc",
+            "name": "feet_anime_il_v2",
+            "type": "lora"
           },
           {
-            "weight": 1,
-            "modelVersionId": 290640
+            "hash": "945760630b",
+            "name": "feet v3 SDXL",
+            "type": "lora"
           },
           {
-            "weight": 1,
-            "modelVersionId": 60938
+            "hash": "2ad54bfcac",
+            "name": "hand 4 SDXL",
+            "type": "lora"
           },
           {
-            "weight": 1,
-            "modelVersionId": 179964
+            "hash": "f013d372ae",
+            "name": "HandFixer_pdxl_Incrs_v1",
+            "type": "lora"
           },
           {
-            "weight": 0.65,
-            "modelVersionId": 244808
+            "hash": "61e2e0e923",
+            "name": "breasts_size_slider_illustrious_goofy",
+            "type": "lora"
           },
           {
-            "weight": 0.7,
-            "modelVersionId": 298238
+            "hash": "7b53da0391",
+            "name": "Expressive_H-000001",
+            "type": "lora"
           },
           {
-            "weight": 0.5,
-            "modelVersionId": 378950
+            "hash": "e557f50a1e",
+            "name": "StS_PonyXL_Detail_Slider_v1",
+            "type": "lora"
           },
           {
-            "weight": 0.65,
-            "modelVersionId": 421754
+            "hash": "0d9bd1b873",
+            "name": "add-detail-xl",
+            "type": "lora"
           },
           {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 298238
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 378950
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 421754
+            "hash": "0cf22449e4",
+            "name": "PDXL_NP21i",
+            "type": "lora"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:212532@244808",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:264290@298238",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:211726@378950",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:377690@421754",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "",
+        "Schedule type": "Karras"
       },
-      "username": "ElvishDreams",
-      "baseModel": "Pony",
+      "username": "Tozi_White",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        60938,
-        179964,
-        244808,
-        290640,
-        298238,
-        378950,
-        421754
+        135867,
+        382152,
+        471781,
+        471794,
+        712947,
+        945805,
+        994596,
+        1061714,
+        1253442
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "843|1736814660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=843%7C1736814660000"
+    "nextCursor": "844|1757613464735",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=844%7C1757613464735"
   }
 }
