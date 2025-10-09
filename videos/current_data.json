@@ -1,77 +1,156 @@
 {
   "items": [
     {
-      "id": 94898622,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ef6f5055-b7ba-44c0-900e-b931c5ac9939/original=true/ef6f5055-b7ba-44c0-900e-b931c5ac9939.jpeg",
-      "hash": "UbLp{$f+%#xu_NR*?Hof9aWBWAWBxuWBRjWB",
-      "width": 1248,
-      "height": 1824,
+      "id": 65602745,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/797b6eb1-6a0d-4a76-b1b0-f848926cc88a/original=true/797b6eb1-6a0d-4a76-b1b0-f848926cc88a.jpeg",
+      "hash": "UEMFtR00Y%xuIV00.RxuYOtQ8_$+sr-;-;M{",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-08-17T23:37:20.758Z",
-      "postId": 21052407,
+      "createdAt": "2025-03-24T18:06:00.000Z",
+      "postId": 14606232,
       "stats": {
-        "cryCount": 115,
-        "laughCount": 199,
-        "likeCount": 1817,
+        "cryCount": 128,
+        "laughCount": 225,
+        "likeCount": 1819,
         "dislikeCount": 0,
-        "heartCount": 882,
-        "commentCount": 0
+        "heartCount": 840,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 403303981,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:sos_adult_style_ilxl_goofy": "1b153aa696f6"
+        "nsfw": true,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "steps": 25,
+        "width": 1280,
+        "height": 1856,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, g0th1c, zPDXL3 human female, short, small, petite body, slender, slender legs, small perky breasts, aesthetic face, shoulder length red hair, short hair, amber eyes, round eyes, very small nose, big ears, small lips, small mouth, small head, freckles, round ears, ashen skin, cheeky smile, dedicated face, enthusiastic face, lopsided smile, beautiful, very revealing red dress, deep cleavage, silk dress, visible thighs, background is luxurious brothel room, decorated background, artistic brackground, background dominant colour is red, golden and white furnitures, white and gold, lying on floor, lying on white carpet, lying on stomach, ass, small butts, round butts, tight dress, from behind, looking back",
+        "denoise": 0.15,
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 3,
+        "workflow": "img2img-facefix",
+        "baseModel": "Pony",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/KPSBZK8K2PW51KTKN8SFKF7Q70",
+          "width": 1280,
+          "height": 1856
         },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:sos_adult_style_ilxl_goofy:1> hatsune miku, 1girl, animal ears, between breasts, bikini, bow, bowtie, breasts, detached collar, hair ornament, hairpin, heart, looking at viewer, meme attire, middle finger, midriff, miku collar bikini, navel, necktie, necktie between breasts, pubic tattoo, purple hair, pussy, rabbit ears, red bow, red bowtie, skindentation, spread legs, squatting, striped bikini, striped clothes, sweat, swimsuit, tattoo, thighhighs, trembling, twintails, uncensored",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, bunny ears, extra hands, jacket, long ears, pointy ears, asian eyes, empty background, multiple people, big breasts, curved horns, evil smile, scary smile, bangs, big nose, long nose, small ears, big lips, big nipple, long hair, sleeves",
+        "civitaiResources": [
           {
-            "hash": "1b153aa696f6",
-            "name": "sos_adult_style_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1029540
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 704723
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 720175
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1356581
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1029540
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 704723
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1356581
           }
         ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.21",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888231@1029540",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:599757@704723",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:200255@1356581",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "Seismoh",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1379960
+        290640,
+        333245,
+        382152,
+        704723,
+        720175,
+        1029540,
+        1356581
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "886|1742839560000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=886%7C1742839560000"
+    "nextCursor": "887|1754384100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=887%7C1754384100000"
   }
 }
