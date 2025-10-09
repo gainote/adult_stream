@@ -1,137 +1,89 @@
 {
   "items": [
     {
-      "id": 48950722,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd3a2daa-94db-45c7-8ab2-3bed719fe091/original=true/bd3a2daa-94db-45c7-8ab2-3bed719fe091.jpeg",
-      "hash": "U6D8%w0g00Ej9t~BJB0ybE%0Nyw^pJE2IU^j",
+      "id": 24086611,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2600344a-9838-4c9a-a453-38e85ee44b30/original=true/2600344a-9838-4c9a-a453-38e85ee44b30.jpeg",
+      "hash": "UILDZ5?G~q4nOt%gM|IUSKVXr=S$W?R+X9xZ",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-01T19:59:19.140Z",
-      "postId": 11030816,
+      "browsingLevel": 4,
+      "createdAt": "2024-08-13T09:02:16.583Z",
+      "postId": 5374271,
       "stats": {
-        "cryCount": 91,
-        "laughCount": 184,
-        "likeCount": 1796,
+        "cryCount": 58,
+        "laughCount": 155,
+        "likeCount": 1823,
         "dislikeCount": 0,
-        "heartCount": 959,
+        "heartCount": 994,
         "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "seed": 113206270,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/QXDR8V4GJ7AHPMZR7MGJAGTQF0",
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "safe_pos, perfect face, smug, detailed face, fucked silly, blush, orgasm, dominate, score_9, score_8_up, score_8, score_7_up, 1girl, 1futa, round table, missionary, vaginal sex,  ExpressiveH, g0thicPXL, glowing, neon,  dutch angle, from above, ",
-        "denoise": 0.5,
-        "sampler": "dpmpp_2_ancestral",
-        "cfgScale": 4,
+        "Size": "832x1216",
+        "seed": 1518816303,
+        "steps": 29,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, gorgeous girl , kawai girl , cute face, cute girl, black hair, bangs, blushing, choker, (((red polka dot sexy bikini))) , lipstick, large saggy breast, cleavage, (slim fit), wide hips, skirt, small skirt , sexy navel , sexy , sexy thighs , posing , dynamic view, boob focus , pinterest, wallpaper art , artstyle",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 3,
-        "workflow": "img2img-facefix",
-        "baseModel": "Pony",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "safe_neg, ng_deepnegative_v1_75t, monochrome, background characters",
+        "resources": [],
+        "Created Date": "2024-08-10T1452:40.5410479Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 5637
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 382152
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 244808
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 398847
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:212532@244808",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:888231@398847",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "revenge623",
+      "username": "dororooo",
       "baseModel": "Pony",
       "modelVersionIds": [
-        5637,
-        244808,
+        9208,
+        239420,
         290640,
-        382152,
-        398847
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "877|1723539736583",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=877%7C1723539736583"
+    "nextCursor": "878|1743786969925",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=878%7C1743786969925"
   }
 }
