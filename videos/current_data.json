@@ -1,126 +1,56 @@
 {
   "items": [
     {
-      "id": 15170133,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/badc9135-d0bf-4890-8e71-0bd200dc122a/original=true/badc9135-d0bf-4890-8e71-0bd200dc122a.jpeg",
-      "hash": "UJMic$001O-U~pM|x^In_M-o?bs,yXozWE%M",
-      "width": 1792,
-      "height": 2432,
-      "nsfwLevel": "Mature",
+      "id": 92354985,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da327cfe-3014-4a8f-8892-a4eca6725cd2/original=true/da327cfe-3014-4a8f-8892-a4eca6725cd2.jpeg",
+      "hash": "U5H_.1002_ODMcI;-p$%00?w~UH=ITVsaxOZ",
+      "width": 768,
+      "height": 1344,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-06-09T12:18:21.746Z",
-      "postId": 3366558,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-04T23:19:36.738Z",
+      "postId": 20487218,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 250,
-        "likeCount": 1656,
+        "cryCount": 180,
+        "laughCount": 236,
+        "likeCount": 1862,
         "dislikeCount": 0,
-        "heartCount": 996,
-        "commentCount": 1
+        "heartCount": 718,
+        "commentCount": 0
       },
       "meta": {
-        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
-        "Size": "1792x2432",
-        "seed": 3023190349,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 30,
+        "Size": "768x1344",
+        "seed": 17496451499994080000,
+        "Model": "improvedMix_v50",
+        "steps": 60,
         "hashes": {
-          "vae": "235745af8d",
-          "model": "ac006fdd7e",
-          "lora:facegrab": "c2b4659828f4",
-          "lora:hutagoXL": "c6648d256138",
-          "lora:90s4n1m3XLP": "7d8a231b555d",
-          "lora:incase-ilff-v3-4": "d9e83908a1c7",
-          "lora:Sakura_No_Tomoru_Ei_E_Style_pony": "bf7571721bb5"
+          "model": "f76b10ecff"
         },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, 1boy, 2d, source_anime, anime, facegrab, close-up, asuka langley, ahegao, blue eyes, fully nude, medium breasts, white background,\n90s4n1m3, <lora:incase-ilff-v3-4:0.15> <lora:hutagoXL:0.6> <lora:90s4n1m3XLP:0.7><lora:Sakura_No_Tomoru_Ei_E_Style_pony:0.2>   <lora:facegrab:1>",
-        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "freeu_b1": "1.4",
-        "freeu_b2": "1.3",
-        "freeu_s1": "0.9",
-        "freeu_s2": "0.2",
+        "prompt": "score_9, score_8_up, score_7_up, (masterpiece:1.2), best quality, highres, amazing quality, ultra-detailed, absurdres, photorealistic, detailed background, ultra sharp image, very aesthetic, high resolution, perfect lighting, dynamic scene, dynamic pose, dynamic angle Shot, (ultimate quality:1.2), (flawless beauty:1.2), (beautiful&aesthetic:1.2), (1girl), (bikini:1.2), (face&body skin:1.2), (white blanket wrapped body:1.1), (almost nude:1.0), (medium full body shot:1.4), looking at viewer, (lying down on the bed:1.2), full body, young, realistic skin, shining skin, smooth skin, medium breasts, slender, thin, pretty face, beautiful eyes, perfect eyes, sexy lips, sensual, erotic posture, alluring, voluptuous, dynamic motion, (sfw), (more detail:1.3)",
+        "Version": "ComfyUI",
+        "sampler": "lms_simple",
+        "CFG Scale": "5.0",
         "resources": [
           {
-            "hash": "d9e83908a1c7",
-            "name": "incase-ilff-v3-4",
-            "type": "lora",
-            "weight": 0.15
-          },
-          {
-            "hash": "c6648d256138",
-            "name": "hutagoXL",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "7d8a231b555d",
-            "name": "90s4n1m3XLP",
-            "type": "lora",
-            "weight": 0.7
-          },
-          {
-            "hash": "bf7571721bb5",
-            "name": "Sakura_No_Tomoru_Ei_E_Style_pony",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "hash": "c2b4659828f4",
-            "name": "facegrab",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
+            "hash": "f76b10ecff",
+            "name": "improvedMix_v50",
             "type": "model"
           }
         ],
-        "Model hash": "ac006fdd7e",
-        "freeu_enabled": "True",
-        "negativePrompt": "source_pony, source_furry, watermark, text, 3d, muscular female, (mole), (monochrome)",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer prompt": {
-          "Sakura_No_Tomoru_Ei_E_Style_pony": "0.2>"
-        },
-        "ADetailer version": "24.5.1",
-        "Denoising strength": "0.2",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "multidiffusion_method": "Mixture of Diffusers",
-        "ADetailer dilate erode": "4",
-        "multidiffusion_enabled": "True",
-        "ADetailer inpaint width": "1024",
-        "ADetailer inpaint height": "1024",
-        "ADetailer inpaint padding": "32",
-        "ADetailer negative prompt": {},
-        "multidiffusion_tile_width": "896",
-        "multidiffusion_tile_height": "1216",
-        "ADetailer mask merge invert": "Merge",
-        "multidiffusion_tile_overlap": "64",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "multidiffusion_tile_batch_size": "4",
-        "ADetailer mask only top k largest": "1",
-        "ADetailer use inpaint width height": "True"
+        "Model hash": "f76b10ecff",
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, censor, bad hand, (bad anatomy:1.3), deformed, artist name, watermark, signature, username, Stable_Yogis_Illustrious_Negatives-neg, completely_nude, bad hands, less fingers, extra fingers, extra finger per foot, extra fingers on feet, extra hand, low quality, bad feet anatomy, extra arm, poorly drawn, EasyNegativeV2, negative_hand, black and white, belly bulge, score_5_up, score_4_up, mannequin, drool, (jewellery), text, (worst quality, blurry), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, fused fingers, extra fingers), (deformed toes, missing toes, extra toes), morbid, mutilated, bad_pictures, (amputee:1.3) (bad_pictures:0.8) penis, tail, horns, (Tail) demon tail, bad_prompt_version2, NegfeetV2, nude, nake, completely nude"
       },
-      "username": "BesolloAI",
-      "baseModel": "Pony",
+      "username": "fujiangjiang",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        324524,
-        436219,
-        449963,
-        473140
+        1696071
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "897|1754349576738",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=897%7C1754349576738"
+    "nextCursor": "898|1758278048506",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=898%7C1758278048506"
   }
 }
