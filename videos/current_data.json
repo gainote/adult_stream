@@ -1,78 +1,84 @@
 {
   "items": [
     {
-      "id": 60292837,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d21330f3-3b6e-4b50-9bc9-35ac344d2dfc/original=true/d21330f3-3b6e-4b50-9bc9-35ac344d2dfc.jpeg",
-      "hash": "UfMjEvIp?^xu_Nof%Mxut-t7xukCV?WBMxWB",
-      "width": 1248,
-      "height": 1824,
+      "id": 16504126,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be8e4cf4-60fc-4450-b42d-bce2af7be1b7/original=true/be8e4cf4-60fc-4450-b42d-bce2af7be1b7.jpeg",
+      "hash": "UMLzX3Mx_N-;?^IU?btQ00%Mn$Rj%gt7ROt7",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-26T19:54:34.694Z",
-      "postId": 13484876,
+      "browsingLevel": 16,
+      "createdAt": "2024-06-20T17:46:26.966Z",
+      "postId": 3702819,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 214,
-        "likeCount": 1873,
+        "cryCount": 62,
+        "laughCount": 173,
+        "likeCount": 1877,
         "dislikeCount": 0,
-        "heartCount": 856,
-        "commentCount": 0
+        "heartCount": 924,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 3020715778,
-        "Model": "prefectPonyXL_v5",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "d1a2aac8e5",
-          "lora:dovakini-chan_pdxl_goofy": "593f719cdcba"
-        },
-        "prompt": "score_9,score_8_up,score_7_up,score_6_up,  <lora:dovakini-chan_pdxl_goofy:1>dovakini-chan, 1girl, huge breasts, female pubic hair, thighhighs, abs, holding sword, swimsuit, horned helmet, side-tie bikini bottom, fake horns, yellow cape, brown gloves, muscular female, smile, thigh boots, navel, pubic hair peek, holding weapon, white bikini, sweat, blush, white background, simple background, micro bikini, covered nipples, areola slip, string bikini, looking at viewer, armor, closed mouth, jaggy lines, cross-laced footwear, underboob, amulet",
-        "Version": "f1.3.0-v1.10.1RC-latest-1014-g542450b9",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
+        "seed": 776720289,
+        "steps": 35,
+        "prompt": "(score_9, score_8_up, score_7_up), 1girl, 20 year old, 1 male out of frame, thick long black hair with two messy buns, small perky breasts, pretty face, petite, amber eyes, eye contact, blushing, smug, shiny skin, sexy pose, light freckles, innie pussy, sexy black and white maid outfit with skirt, deep anal cowgirl, sexy pose, cozy bedroom background, deep orange lighting, god rays, volumetric lighting,   lilandavastyle, OverallDetail, Expressiveh",
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-06-20T1743:31.4012852Z",
+        "negativePrompt": "(deformed, distorted, disfigured:1.3), furry, loli, poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, missing fingers, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, background characters, SimpleNegativeV3, massive penis, muscular,",
+        "civitaiResources": [
           {
-            "hash": "593f719cdcba",
-            "name": "dovakini-chan_pdxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "d1a2aac8e5",
-            "name": "prefectPonyXL_v5",
-            "type": "model"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 287973,
+            "modelVersionName": "V3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 378684,
+            "modelVersionName": "v2.0 (Max. Compatibility)"
+          },
+          {
+            "type": "lora",
+            "weight": 1.4,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "d1a2aac8e5",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo, twitter username,",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.3",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
+      "username": "WiseBurrito",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1199750
+        287973,
+        290640,
+        378684,
+        382152
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "868|1718905586966",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=868%7C1718905586966"
+    "nextCursor": "869|1728890143047",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=869%7C1728890143047"
   }
 }
