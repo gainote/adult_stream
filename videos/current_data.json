@@ -1,73 +1,137 @@
 {
   "items": [
     {
-      "id": 59064624,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b080856-e95f-4c5e-b7d7-7155e9ea4c6d/original=true/3b080856-e95f-4c5e-b7d7-7155e9ea4c6d.jpeg",
-      "hash": "UEH-S@0L00nPB9-:E19Z00%#~WE1xDD*-;$*",
-      "width": 1248,
-      "height": 1824,
+      "id": 48950722,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd3a2daa-94db-45c7-8ab2-3bed719fe091/original=true/bd3a2daa-94db-45c7-8ab2-3bed719fe091.jpeg",
+      "hash": "U6D8%w0g00Ej9t~BJB0ybE%0Nyw^pJE2IU^j",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-22T12:11:00.000Z",
-      "postId": 13116573,
+      "browsingLevel": 16,
+      "createdAt": "2025-01-01T19:59:19.140Z",
+      "postId": 11030816,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 213,
-        "likeCount": 1860,
+        "cryCount": 91,
+        "laughCount": 184,
+        "likeCount": 1796,
         "dislikeCount": 0,
-        "heartCount": 862,
+        "heartCount": 959,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "ae",
-        "Size": "832x1216",
-        "seed": 3710903563,
-        "Model": "hosekiLustrousmix_illustriousV1",
-        "steps": 24,
-        "hashes": {
-          "vae": "afc8e28272",
-          "model": "35c7d75822",
-          "lora:Mei_Misaki_ILXL": "fe2733e0c7",
-          "lora:HighlegArmor-Persona3-Illustrious-V1": "d744677c0a"
-        },
-        "prompt": "masterpiece, best quality, 1girl, solo, black hair, short hair, misaki mei, highleg armor, bikini armor, side cutout, armored elbow gloves, gold armor, bare shoulders, tentacles, restrained, tentacle pit, bent over, from behind, looking back, dutch angle, red eyes, eyepatch, armored thigh boots, ass, kneepits, looking at viewer, arm support, surprised, flying sweatdrops, sweatdrop, parted lips, wedgie, pussy peek",
-        "Version": "ComfyUI",
-        "sampler": "euler_ancestral_karras",
-        "cfgScale": 6,
-        "TI hashes": {},
-        "resources": [
+        "nsfw": true,
+        "seed": 113206270,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/QXDR8V4GJ7AHPMZR7MGJAGTQF0",
+        "steps": 40,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, perfect face, smug, detailed face, fucked silly, blush, orgasm, dominate, score_9, score_8_up, score_8, score_7_up, 1girl, 1futa, round table, missionary, vaginal sex,  ExpressiveH, g0thicPXL, glowing, neon,  dutch angle, from above, ",
+        "denoise": 0.5,
+        "sampler": "dpmpp_2_ancestral",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "modelIds": [],
+        "quantity": 3,
+        "workflow": "img2img-facefix",
+        "baseModel": "Pony",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "safe_neg, ng_deepnegative_v1_75t, monochrome, background characters",
+        "civitaiResources": [
           {
-            "hash": "fe2733e0c7",
-            "name": "Mei_Misaki_ILXL",
-            "type": "lora"
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "d744677c0a",
-            "name": "HighlegArmor-Persona3-Illustrious-V1",
-            "type": "lora"
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "35c7d75822",
-            "name": "hosekiLustrousmix_illustriousV1",
-            "type": "model"
+            "weight": 0.6,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 5637
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 398847
           }
         ],
-        "Model hash": "35c7d75822",
-        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, helmet, bed, bed sheet, penis, futanari, handprint,"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:888231@398847",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Deto15",
-      "baseModel": "Illustrious",
+      "username": "revenge623",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1053830,
-        1076221,
-        1423104
+        5637,
+        244808,
+        290640,
+        382152,
+        398847
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "876|1735761559140",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=876%7C1735761559140"
+    "nextCursor": "877|1723539736583",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=877%7C1723539736583"
   }
 }
