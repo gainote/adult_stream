@@ -1,89 +1,134 @@
 {
   "items": [
     {
-      "id": 24086611,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2600344a-9838-4c9a-a453-38e85ee44b30/original=true/2600344a-9838-4c9a-a453-38e85ee44b30.jpeg",
-      "hash": "UILDZ5?G~q4nOt%gM|IUSKVXr=S$W?R+X9xZ",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 67930994,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3061a9e6-40ac-4476-9a57-0dc7e128d5b2/original=true/3061a9e6-40ac-4476-9a57-0dc7e128d5b2.jpeg",
+      "hash": "UQNmD~tR.TR-E2nNn4V@NFo}v}bHS$V@RjkC",
+      "width": 1920,
+      "height": 2880,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-08-13T09:02:16.583Z",
-      "postId": 5374271,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-04T17:16:09.925Z",
+      "postId": 15100667,
       "stats": {
-        "cryCount": 58,
-        "laughCount": 155,
-        "likeCount": 1823,
+        "cryCount": 119,
+        "laughCount": 223,
+        "likeCount": 1785,
         "dislikeCount": 0,
-        "heartCount": 994,
+        "heartCount": 896,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1518816303,
-        "steps": 29,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, gorgeous girl , kawai girl , cute face, cute girl, black hair, bangs, blushing, choker, (((red polka dot sexy bikini))) , lipstick, large saggy breast, cleavage, (slim fit), wide hips, skirt, small skirt , sexy navel , sexy , sexy thighs , posing , dynamic view, boob focus , pinterest, wallpaper art , artstyle",
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 1885833643,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 85,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
+          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,\n (groin gap:1.5), 1girl, solo,aqua hair, brown eyes, (bangs:1.5), straight hair, very long hair,  close up, hoop earrings, young girl,\ntopless, nipples,  black thong, highleg, lace-trimmed thong, bare stomach,  looking at viewer, groin, thin thong, from below, arms up, \n(large breasts:1.5), (head tilt), (twisted torso), \ncowboy shot,\nlight smile, parted lips,\nurushihara satoshi style, JabarandP, dim lighting, backlighting,\nabstract background, white curtains, blurry background, pale skin,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:bra_embellishments_enhancer_XL_v01a:0.8>,   <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-08-10T1452:40.5410479Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 0.35
           },
           {
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.15
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
+            "type": "lora",
+            "weight": 0.2
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
+            "type": "lora",
+            "weight": 0.2
           },
           {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "9d22b7ef3974",
+            "name": "bra_embellishments_enhancer_XL_v01a",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "25",
+        "Hires upscale": "2",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "shirt, undressing,  multiple thong straps,  bed,  (forehead:1.5),  beard, (plant:1.5), leaf:1.5, 6fingers, (lace straps:1.5),  visible veins, visible thread veins, suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, pencil, sunglasses,",
+        "Denoising strength": "0.02"
       },
-      "username": "dororooo",
+      "username": "ceii0502382",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        239420,
-        290640,
-        436219
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "878|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=878%7C1743786969925"
+    "nextCursor": "879|1759532517469",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=879%7C1759532517469"
   }
 }
