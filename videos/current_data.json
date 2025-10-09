@@ -1,53 +1,86 @@
 {
   "items": [
     {
-      "id": 94449454,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/62918b1d-90e0-4422-a728-d7dd7aef1cea/original=true/62918b1d-90e0-4422-a728-d7dd7aef1cea.jpeg",
-      "hash": "U5AvIR$|005X2v-Qv}NL0KkB^QwJ}mElkYwb",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
+      "id": 100618846,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b305b2a-147d-4645-a7a2-f65a48984705/original=true/0b305b2a-147d-4645-a7a2-f65a48984705.jpeg",
+      "hash": "UGG@-]00ozrr|=Shs.9t0LT0?HNHAcIo%Lt7",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-16T00:41:00.000Z",
-      "postId": 20955194,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-16T08:25:00.000Z",
+      "postId": 22322071,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 216,
-        "likeCount": 1807,
+        "cryCount": 137,
+        "laughCount": 191,
+        "likeCount": 1941,
         "dislikeCount": 0,
-        "heartCount": 876,
-        "commentCount": 0
+        "heartCount": 774,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 1946839147,
+        "seed": 1809409223,
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
         "extra": {},
-        "steps": 26,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, (depth of field), indoors, living room, night time,\n\n((1woman, solo, beautiful, zerilol, green hair, amber/orange eyes, parted bangs, short hair, twintails, bandaid on cheek, nude, presenting ass, small anus, detailed pussy, clitoris, wet pussy,)),\n\n((1man, man out of frame)),\n\nall fours, on the ground, rug, cozy living room, spreading ass, looking back at viewer, sassy smile, ass grab, buttjob,",
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism, high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, amazing composition, slight blur,\n\nGirl , ginger hair, side ponytail, white lace bra, close up, lips parted, pull bra, large breasts, head out of frame, whir simple background",
         "denoise": 0.4,
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, dirt,",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/V61F3CH3YHCPAAQ831B22SAZF0.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuTk0N6Ok_CN9p6TOgVJlxzwExCUps84DOiMIHrWkSyZCii_Cn2ogZ6kjZYDrSysPire1e_46DjGRn0mINTGwWVkJ01LyVcfg3-HMx2uviXAWvBj6R5uUGx6Bt5eAYwYcsfUHQuAjA6XFEtQ0KY55NaW6-a9wfgUA19fA9MMi9ked59TvnC_84qI7fm_76HEyD7fb2Gf2RU4vbbBcpOBll6TcJOALkDnNfNtbD59KqQedK1iazM-rFwovWI881WMgxTWUudWyJ-mPEXyly3cdlVf&exp=2026-09-16T06:22:42.0524114Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,",
         "civitaiResources": [
           {
+            "type": "checkpoint",
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1490781
+            "modelVersionId": 145907
           },
           {
-            "weight": 0.8,
-            "modelVersionId": 1189052
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 959419
           },
           {
-            "weight": 0.9,
-            "modelVersionId": 1221880
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1036362
           },
           {
+            "type": "lycoris",
             "weight": 0.5,
-            "modelVersionId": 1416874
+            "modelVersionId": 1219983
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 2209882
           },
           {
             "type": "upscaler",
@@ -55,19 +88,21 @@
           }
         ]
       },
-      "username": "ElvishDreams",
+      "username": "DrPeeHands",
       "baseModel": "Illustrious",
       "modelVersionIds": [
+        145907,
         164821,
-        1189052,
-        1221880,
-        1416874,
-        1490781
+        959419,
+        1036362,
+        1219983,
+        1240288,
+        2209882
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "866|1758011100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=866%7C1758011100000"
+    "nextCursor": "867|1740599674694",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=867%7C1740599674694"
   }
 }
