@@ -1,77 +1,56 @@
 {
   "items": [
     {
-      "id": 71456455,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b476141d-621d-4d48-8f73-91901b1d4d6e/original=true/b476141d-621d-4d48-8f73-91901b1d4d6e.jpeg",
-      "hash": "U8I;S69aUajC1J%h=_%M00r;IB-;01#joz01",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 84334115,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6c791f1-8fa6-49ee-9822-8f2ed2137208/original=true/e6c791f1-8fa6-49ee-9822-8f2ed2137208.jpeg",
+      "hash": "UDGa|C.9%~~W9Z%M%1IV0K4nMdsl~B?HI=NG",
+      "width": 1536,
+      "height": 2304,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-04-21T21:43:00.000Z",
-      "postId": 15873484,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-24T23:55:00.000Z",
+      "postId": 18721113,
       "stats": {
-        "cryCount": 120,
-        "laughCount": 230,
-        "likeCount": 1782,
+        "cryCount": 108,
+        "laughCount": 217,
+        "likeCount": 1816,
         "dislikeCount": 0,
-        "heartCount": 919,
-        "commentCount": 1
+        "heartCount": 909,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 904420446,
-        "draft": false,
-        "extra": {
-          "remixOfId": 67153495
+        "Size": "2305x1537",
+        "seed": 254478186742179,
+        "Model": "A-mix",
+        "steps": 30,
+        "hashes": {
+          "model": "b199b92ee9"
         },
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9,score_8_up,score_7_up, , source anime, 1girl, solo, gogotomago, ear piercing, light-skinned female, blushing, looking on vagina, big breasts, brown eyes, uncensored, hetero, midriff, clavicles, thin narrow waist, narrow hips, thigh gap, big ass, hourglass body, posing, arching back, pink big meaty huge fat pussy, closed mouth, lips, lipstick, solo focus, inside bedroom, natural lighting, side window, pink big nipples, pink big areola, erected clitoris, shocked but enjoing, pussy juice, gaping vagina,",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-04-21T1147:02.1347216Z",
-        "negativePrompt": "realistic, monochrome, greyscale, artist name, logo, web address, patreon, signature, watermark, crying, discoloration, censored, censor, sleeves, bad anatomy, extra arms, extra fingers, extra limbs, cum, bystanders, 2 boys, 2 girls, sex from behind",
-        "civitaiResources": [
+        "prompt": "1girl, breasts, nipples, solo, black hair, sweater, short hair, navel, hair over one eye, skirt, medium breasts, sweater lift, clothes lift, brown eyes, no bra, indoors, pleated skirt, black sweater, shiny skin, black skirt, turtleneck, long sleeves, ribbed sweater, lifted by self masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral",
+        "CFG Scale": "6.0",
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1199750,
-            "modelVersionName": "v5.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 429834,
-            "modelVersionName": "v1.0"
+            "hash": "b199b92ee9",
+            "name": "A-mix",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "b199b92ee9",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
       },
-      "username": "aZalf",
-      "baseModel": "Pony",
+      "username": "phinjo",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        382152,
-        429834,
-        1199750
+        1915059
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "859|1750809300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=859%7C1750809300000"
+    "nextCursor": "860|1751366940000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=860%7C1751366940000"
   }
 }
