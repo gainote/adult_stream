@@ -1,40 +1,80 @@
 {
   "items": [
     {
-      "id": 19698860,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/21efee91-93e4-4521-aff8-81bc3edaa030/original=true/21efee91-93e4-4521-aff8-81bc3edaa030.jpeg",
-      "hash": "UDGHxZ9F_N={9]V?9aWqo}M{NGNw_3RiIpW;",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 89312715,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b7155aab-33e4-4de5-80bf-da7bb4594c87/original=true/b7155aab-33e4-4de5-80bf-da7bb4594c87.jpeg",
+      "hash": "UILy_:4.00~V5p?I4oRl0057xvt5Z$Dj?I%2",
+      "width": 1024,
+      "height": 1024,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-07-13T21:33:03.702Z",
-      "postId": 4398842,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-21T00:10:00.000Z",
+      "postId": 19812257,
       "stats": {
-        "cryCount": 87,
-        "laughCount": 179,
-        "likeCount": 1765,
+        "cryCount": 123,
+        "laughCount": 233,
+        "likeCount": 1782,
         "dislikeCount": 0,
-        "heartCount": 970,
+        "heartCount": 862,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "JoHue",
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "1024x1024",
+        "seed": 1371369782,
+        "draft": false,
+        "extra": {
+          "remixOfId": 88413037
+        },
+        "steps": 15,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, ultra detailed eyes, elaborate background, realistic,  shiny hair,shiny skin, dynamic angle,\n1girl, solo,sweating,  wet skin,\nPlump Anal,No panties,\nAnal show off,beautiful anus,\nShort and petite ,\nWaist-reaching blonde twin-tails (long hair tied with black ribbons),\nLarge dark blue eyes,\n black ribbon,\nFeisty and cute, with a devilish smile\nPanties partially removed,Uncensored,\ncheerleader,stadium,outdoor",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-07-20T0345:04.2523864Z",
+        "experimental": false,
+        "negativePrompt": "ugly, disfigured, poorly drawn face, malformed hands, mutated hands, poorly drawn hands, mutated hands and fingers, bad hands, missing fingers, fused fingers, too many fingers, text, worst quality, bad quality, worst detail, sketch, jpeg artifacts, 3d, (censor), monochrome, blurry, lowres, loli, simple background, white background, logo, watermark, mosaic,inserted into the anus,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1041204,
+            "modelVersionName": "xmc v0.3"
+          },
+          {
+            "type": "lora",
+            "weight": 1.5,
+            "modelVersionId": 1116960,
+            "modelVersionName": "v1.0 [Illustrious]"
+          }
+        ]
+      },
+      "username": "arriel0911195",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        135867,
-        290640,
-        382152,
-        398847,
-        436219
+        1041204,
+        1116960,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "894|1753056600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=894%7C1753056600000"
+    "nextCursor": "895|1717935501746",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=895%7C1717935501746"
   }
 }
