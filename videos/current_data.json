@@ -1,63 +1,73 @@
 {
   "items": [
     {
-      "id": 34946875,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eefdfd72-e24f-4157-8273-f4f82bfb5fce/original=true/eefdfd72-e24f-4157-8273-f4f82bfb5fce.jpeg",
-      "hash": "UUKJogRjRPkW~CoexaR*?bt6jFayE2t7s:WB",
-      "width": 832,
-      "height": 1216,
+      "id": 59064624,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b080856-e95f-4c5e-b7d7-7155e9ea4c6d/original=true/3b080856-e95f-4c5e-b7d7-7155e9ea4c6d.jpeg",
+      "hash": "UEH-S@0L00nPB9-:E19Z00%#~WE1xDD*-;$*",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-17T03:56:00.000Z",
-      "postId": 7987309,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-22T12:11:00.000Z",
+      "postId": 13116573,
       "stats": {
-        "cryCount": 120,
-        "laughCount": 238,
-        "likeCount": 1750,
+        "cryCount": 95,
+        "laughCount": 213,
+        "likeCount": 1860,
         "dislikeCount": 0,
-        "heartCount": 924,
-        "commentCount": 8
+        "heartCount": 862,
+        "commentCount": 0
       },
       "meta": {
+        "VAE": "ae",
         "Size": "832x1216",
-        "seed": 2234845447,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, 1girl, blonde, fake tits, long legs, wide hips, thin waist, pink background, slutty clothes, profile, no panties, wet pussy, gold bracelets, close up, face focus, handbag, high heels, glory hole, graffiti, lying on floor, cum running out of pussy, legs spread, exhausted, blank eyes, excessive cum",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-16T1836:40.3461297Z",
-        "negativePrompt": "pony, gaping, censored, deformed hands, multiple fingers, film, video, lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, parody, multiple views, low quality, watermark, blur, 3d, realistic, realism,",
-        "civitaiResources": [
+        "seed": 3710903563,
+        "Model": "hosekiLustrousmix_illustriousV1",
+        "steps": 24,
+        "hashes": {
+          "vae": "afc8e28272",
+          "model": "35c7d75822",
+          "lora:Mei_Misaki_ILXL": "fe2733e0c7",
+          "lora:HighlegArmor-Persona3-Illustrious-V1": "d744677c0a"
+        },
+        "prompt": "masterpiece, best quality, 1girl, solo, black hair, short hair, misaki mei, highleg armor, bikini armor, side cutout, armored elbow gloves, gold armor, bare shoulders, tentacles, restrained, tentacle pit, bent over, from behind, looking back, dutch angle, red eyes, eyepatch, armored thigh boots, ass, kneepits, looking at viewer, arm support, surprised, flying sweatdrops, sweatdrop, parted lips, wedgie, pussy peek",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral_karras",
+        "cfgScale": 6,
+        "TI hashes": {},
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 828380,
-            "modelVersionName": "v3"
+            "hash": "fe2733e0c7",
+            "name": "Mei_Misaki_ILXL",
+            "type": "lora"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "hash": "d744677c0a",
+            "name": "HighlegArmor-Persona3-Illustrious-V1",
+            "type": "lora"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "35c7d75822",
+            "name": "hosekiLustrousmix_illustriousV1",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "35c7d75822",
+        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, helmet, bed, bed sheet, penis, futanari, handprint,"
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "Deto15",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        828380
+        1053830,
+        1076221,
+        1423104
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "874|1740226260000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=874%7C1740226260000"
+    "nextCursor": "875|1735761559140",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=875%7C1735761559140"
   }
 }
