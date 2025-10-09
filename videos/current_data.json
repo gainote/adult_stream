@@ -1,56 +1,40 @@
 {
   "items": [
     {
-      "id": 84334099,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6d9b05f-fd00-4e6f-9c61-f7ff0c95f7f0/original=true/a6d9b05f-fd00-4e6f-9c61-f7ff0c95f7f0.jpeg",
-      "hash": "U6Crp7?v1$x]0fOrM{Eg0K#8-9M{~CELZ$?G",
-      "width": 1536,
-      "height": 2304,
+      "id": 40633490,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0432e6f1-4af6-4f92-ace7-feceab8819fd/original=true/0432e6f1-4af6-4f92-ace7-feceab8819fd.jpeg",
+      "hash": "UIF|b.wu5Soe$y=wxZoL9u$%-UR*}?NasnR+",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-06-24T23:55:00.000Z",
-      "postId": 18721113,
+      "createdAt": "2024-11-17T16:01:42.890Z",
+      "postId": 9257777,
       "stats": {
-        "cryCount": 119,
-        "laughCount": 241,
-        "likeCount": 1766,
+        "cryCount": 101,
+        "laughCount": 187,
+        "likeCount": 1842,
         "dislikeCount": 0,
-        "heartCount": 919,
-        "commentCount": 1
+        "heartCount": 915,
+        "commentCount": 0
       },
-      "meta": {
-        "Size": "2305x1537",
-        "seed": 937050588453327,
-        "Model": "riMixPONYIllustrious_riMix",
-        "steps": 30,
-        "hashes": {
-          "model": "f944b4784b"
-        },
-        "prompt": "breasts, multiple girls, 2girls, pointy ears, red skin, nipples, colored skin, black hair, horns, demon horns, yuri, green eyes, elf, demon girl, demon tail, long hair, grabbing, tail, parted lips, nude, diadem, , grabbing another's breast, braid, broken horn, upper body, braided ponytail, grabbing from behind, interspecies, circlet, shiny skin, completely nude, scar, large breasts, looking at viewer, , collarbone, muscular female, blunt bangs masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
-        "Version": "ComfyUI",
-        "sampler": "euler_ancestral",
-        "CFG Scale": "6.0",
-        "resources": [
-          {
-            "hash": "f944b4784b",
-            "name": "riMixPONYIllustrious_riMix",
-            "type": "model"
-          }
-        ],
-        "Model hash": "f944b4784b",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
-      },
-      "username": "phinjo",
-      "baseModel": "Illustrious",
+      "meta": null,
+      "username": "sabbufik419",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1916444
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "863|1731859302890",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=863%7C1731859302890"
+    "nextCursor": "864|1726022007802",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=864%7C1726022007802"
   }
 }
