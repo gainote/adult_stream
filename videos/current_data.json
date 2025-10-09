@@ -1,77 +1,41 @@
 {
   "items": [
     {
-      "id": 30547114,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/307bd0cc-ee74-4e39-9a31-e90d959ba914/original=true/307bd0cc-ee74-4e39-9a31-e90d959ba914.jpeg",
-      "hash": "U8Gt{JV@t+~W%#E14T%g1O9Z8{xv~WI:0e-:",
-      "width": 832,
-      "height": 1216,
+      "id": 70988999,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b17158c4-a4b7-4b97-9f15-ae214694a2bf/original=true/b17158c4-a4b7-4b97-9f15-ae214694a2bf.jpeg",
+      "hash": "UEIzbdni0g?GM_IV9aE10K?Hxu?G~Voz%MS3",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-09-22T07:10:00.000Z",
-      "postId": 6834399,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-20T00:37:00.000Z",
+      "postId": 15768431,
       "stats": {
-        "cryCount": 118,
-        "laughCount": 198,
-        "likeCount": 1726,
+        "cryCount": 103,
+        "laughCount": 233,
+        "likeCount": 1776,
         "dislikeCount": 0,
-        "heartCount": 949,
-        "commentCount": 3
+        "heartCount": 879,
+        "commentCount": 0
       },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 3939163395,
-        "steps": 28,
-        "prompt": "Score_9, score_8_up, score_7_up, , Watercolor,\n 2girls, onsen, topless, small nipples, , black hair, asian, small breasts, large breasts, breast lift",
-        "sampler": "Euler a",
-        "cfgScale": 6.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-21T0753:09.0971805Z",
-        "negativePrompt": "Monochrome, naked, (hairband, round chin), glasses,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 828380,
-            "modelVersionName": "v3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 725772,
-            "modelVersionName": "Watercolor Anime"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 705269,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "Cantaloupe9291",
-      "baseModel": "Pony",
+      "meta": null,
+      "username": "Kalrdr",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        705269,
-        725772,
-        828380
+        9208,
+        111363,
+        164821,
+        372639,
+        1412563,
+        1490781,
+        1579851
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "903|1745109420000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=903%7C1745109420000"
+    "nextCursor": "904|1744776000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=904%7C1744776000000"
   }
 }
