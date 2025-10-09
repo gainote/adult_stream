@@ -1,156 +1,112 @@
 {
   "items": [
     {
-      "id": 65602745,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/797b6eb1-6a0d-4a76-b1b0-f848926cc88a/original=true/797b6eb1-6a0d-4a76-b1b0-f848926cc88a.jpeg",
-      "hash": "UEMFtR00Y%xuIV00.RxuYOtQ8_$+sr-;-;M{",
-      "width": 1280,
-      "height": 1856,
+      "id": 92429605,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36747e87-2669-4d1b-9ac4-027b481063d4/original=true/36747e87-2669-4d1b-9ac4-027b481063d4.jpeg",
+      "hash": "UBBygE9v]$=w}qJU^4oyMeJ.-UEgK4Or%1E2",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-03-24T18:06:00.000Z",
-      "postId": 14606232,
+      "createdAt": "2025-08-05T08:55:00.000Z",
+      "postId": 20503980,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 225,
-        "likeCount": 1819,
+        "cryCount": 164,
+        "laughCount": 190,
+        "likeCount": 1962,
         "dislikeCount": 0,
-        "heartCount": 840,
-        "commentCount": 1
+        "heartCount": 695,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": true,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "steps": 25,
-        "width": 1280,
-        "height": 1856,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, g0th1c, zPDXL3 human female, short, small, petite body, slender, slender legs, small perky breasts, aesthetic face, shoulder length red hair, short hair, amber eyes, round eyes, very small nose, big ears, small lips, small mouth, small head, freckles, round ears, ashen skin, cheeky smile, dedicated face, enthusiastic face, lopsided smile, beautiful, very revealing red dress, deep cleavage, silk dress, visible thighs, background is luxurious brothel room, decorated background, artistic brackground, background dominant colour is red, golden and white furnitures, white and gold, lying on floor, lying on white carpet, lying on stomach, ass, small butts, round butts, tight dress, from behind, looking back",
-        "denoise": 0.15,
-        "sampler": "Euler a",
+        "Size": "832x1216",
+        "seed": 443076466,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece,best quality,good quality,newest,very aesthetic,absurdres,Visual impact,A shot with tension, ultra-high resolution,32K UHD,sharp focus, Emotionalization,unconventional supreme masterpiece, masterful details,temperate atmosphere,with a high-end texture,newest,movie perspective, extreme aesthetic, highly detailed face,lazypos,\nBREAK \nlascivious, \nlascivious face, (glowing bioluminescent tattoos),cowboy shot,dynamic high-angle perspective,hourglass figure,translucent clothing,naughty smile,Pubic hair,lacy thong, wet pussy,big ass, big breasts, ((narrow waist)),toned,\n(slim and fit), cleavage, underboob, sideboob, navle, ass focus, slender body,skinny body, hair in a messy bangs,\npuffy pussy, puffy nipple, (stylish and confident mood:1.3),topless,micro skirt, micro thong, clothes undone,mecha, (pull down clothes:1.6),\nBREAK \n(A striking Instagram influencer, taking a selfie in a trendy sushi restaurant, wearing a lace lingerie top under an open kimono, holding chopsticks with a playful smirk, neon signs and bamboo decor, cinematic composition, close-up perspective, warm vibrant tones with red and green hues, chic and exotic mood:1.2)",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 6,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 3,
-        "workflow": "img2img-facefix",
-        "baseModel": "Pony",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/KPSBZK8K2PW51KTKN8SFKF7Q70",
-          "width": 1280,
-          "height": 1856
-        },
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-29T1135:25.5523540Z",
         "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), weights, bunny ears, extra hands, jacket, long ears, pointy ears, asian eyes, empty background, multiple people, big breasts, curved horns, evil smile, scary smile, bangs, big nose, long nose, small ears, big lips, big nipple, long hair, sleeves",
+        "negativePrompt": "EasyNegativeV2, score_6, score_5, score_4, source_pony, source_anime, blurry face, distorted face, low detail face,source_furry, source_cartoon, worst quality, low quality, normal quality, lowres, bad anatomy, bad hands, extra limbs, missing limbs, distorted face, blurry, sketch artifacts, anatomical nonsense, watermark, jpeg artifacts, signature, ugly, leather, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, text, message,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1029540
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 704723
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 720175
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1356581
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 1963726,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1029540
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 704723
+            "weight": 0.4,
+            "modelVersionId": 947620,
+            "modelVersionName": "cfg scale BOOST"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 1356581
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
+            "modelVersionId": 567119,
+            "modelVersionName": "v1.0"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:888231@1029540",
             "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
+            "weight": 1.7,
+            "modelVersionId": 1681921,
+            "modelVersionName": "v1.0"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:599757@704723",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 107234,
+            "modelVersionName": "v2"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:200255@1356581",
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1833157,
+            "modelVersionName": "lazypos v2"
+          },
+          {
             "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 0.9,
+            "modelVersionId": 1299528,
+            "modelVersionName": "Noob/Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1967210,
+            "modelVersionName": "v2.0"
           }
         ]
       },
-      "username": "Seismoh",
-      "baseModel": "Pony",
+      "username": "topbow38",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        333245,
-        382152,
-        704723,
-        720175,
-        1029540,
-        1356581
+        107234,
+        567119,
+        947620,
+        1299528,
+        1681921,
+        1833157,
+        1963726,
+        1967210
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "887|1754384100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=887%7C1754384100000"
+    "nextCursor": "888|1748563560000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=888%7C1748563560000"
   }
 }
