@@ -1,71 +1,66 @@
 {
   "items": [
     {
-      "id": 103383451,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/728eda2d-a2b5-46ed-a878-341165c2d5e6/original=true/728eda2d-a2b5-46ed-a878-341165c2d5e6.jpeg",
-      "hash": "UDH^bX00w6Ee{#B.vgXnQ8Y5jGRjr@Iokq#R",
-      "width": 1264,
-      "height": 1848,
-      "nsfwLevel": "Mature",
+      "id": 27576240,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad86bdd8-a7cf-4e71-805d-12e281a8a62c/original=true/ad86bdd8-a7cf-4e71-805d-12e281a8a62c.jpeg",
+      "hash": "URKTPinhTJw_~WE1%LIUSOI=-pjFVsjER*xZ",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-10-01T13:51:11.009Z",
-      "postId": 22935725,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-08T11:43:19.512Z",
+      "postId": 6166751,
       "stats": {
-        "cryCount": 138,
-        "laughCount": 204,
-        "likeCount": 1884,
+        "cryCount": 122,
+        "laughCount": 268,
+        "likeCount": 1832,
         "dislikeCount": 0,
-        "heartCount": 833,
-        "commentCount": 1
+        "heartCount": 838,
+        "commentCount": 0
       },
       "meta": {
+        "VAE": "sdxl_vae.safetensors",
         "Size": "832x1216",
-        "seed": 100393026,
-        "Model": "Illustrij-GEN",
+        "seed": 39325421,
+        "Model": "hassakuXLHentai_v13BetterEyesVersion",
         "steps": 30,
         "hashes": {
-          "model": "8d33b2bd3e"
+          "vae": "235745af8d",
+          "model": "bbad3bea96",
+          "lora:Licking stomach": "79f60398dfed"
         },
-        "prompt": "masterpiece, high_quality, highres, realistic,\n2 women, flirty, head_tilt, hanky panky,\nbikini, skin pressed, underboob, oversized sweatshirt, longsleeves, lace, see-through, choker, \ndark-blonde hair, thin hair, windswept hair, long hair, tan skin, gray eyes,\ndutchview, high angle, touching, arola flasher, swimsuit wedgie pose, teasing eyes,\ndark, shadows,\nsplit colored background",
-        "Version": "f2.0.1v1.10.1-previous-626-ga332f7cc",
-        "sampler": "Euler a",
+        "prompt": "score_9, score_7_up,  licking stomach, navel,  1girl, 1boy, stomach, makima \\(chainsaw man\\),    <lora:Licking stomach:1>",
+        "Version": "f1.1.0dev-v1.10.1RC-latest-1147-g3e80b4d8",
+        "sampler": "Euler A Comfy",
         "cfgScale": 6,
         "clipSkip": 2,
         "resources": [
           {
-            "hash": "8d33b2bd3e",
-            "name": "Illustrij-GEN",
+            "hash": "79f60398dfed",
+            "name": "Licking stomach",
+            "type": "lora"
+          },
+          {
+            "hash": "bbad3bea96",
+            "name": "hassakuXLHentai_v13BetterEyesVersion",
             "type": "model"
           }
         ],
-        "Model hash": "8d33b2bd3e",
-        "Hires steps": "30",
-        "Hires upscale": "1.526",
-        "Original Size": "832x1216",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x_foolhardy_Remacri",
-        "negativePrompt": "worst_quality, bad_quality, poorly_detailed,",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "7",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.2",
-        "ADetailer inpaint only masked": "True"
+        "Model hash": "bbad3bea96",
+        "Schedule type": "Align Your Steps",
+        "negativePrompt": "simple background, watermark,"
       },
-      "username": "reijlita",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "username": null,
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        575495
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "851|1739014999512",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=851%7C1739014999512"
+    "nextCursor": "852|1750056660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=852%7C1750056660000"
   }
 }
