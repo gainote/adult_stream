@@ -1,83 +1,92 @@
 {
   "items": [
     {
-      "id": 79872407,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d18b649c-9acf-4369-aaff-9373e30da2cf/original=true/d18b649c-9acf-4369-aaff-9373e30da2cf.jpeg",
-      "hash": "U3Al,[VZ010M0MtQ-Un*01?aVtW;~o0Mxs^j",
+      "id": 99094267,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c0c62f33-d369-4fd6-af87-418a5fb5880b/original=true/c0c62f33-d369-4fd6-af87-418a5fb5880b.jpeg",
+      "hash": "URG+]-Kj.T%2?IXnkrMdX.V@EMVsi^RiR*%2",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-06-02T02:01:21.548Z",
-      "postId": 17742600,
+      "createdAt": "2025-09-08T09:27:53.312Z",
+      "postId": 21986314,
       "stats": {
-        "cryCount": 123,
-        "laughCount": 251,
-        "likeCount": 1906,
+        "cryCount": 114,
+        "laughCount": 238,
+        "likeCount": 1856,
         "dislikeCount": 0,
-        "heartCount": 737,
+        "heartCount": 808,
         "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1183968876,
+        "seed": 1216582786,
         "draft": false,
-        "extra": {
-          "remixOfId": 78566516
-        },
-        "steps": 28,
+        "steps": 30,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up,score_7_up, score_6_up, score_5_up, score_4_up, (realistic lighting), solo, 1girl, masterpiece, best quality,\ndark-haired and dark-eyed librarian with glasses, loose wavy black hair to her shoulder, (curvy figure), (tiny waist), hourglass figure, sexy librarian, modern office setting, \nsleeveless black leotard,\nleaning against a desk, scholarly atmosphere, contemporary style, books and sleek decor, warm and muted tones, intellectual and mysterious aura, cozy and sophisticated ambiance, \nwide shot, full body, from beind,\nArsMJStyle, (Colored pencil hyperdetailed realism)",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "prompt": "masterpiece, best quality, very aesthetic, realism, dynamic pose, foreshortening, extreme perspective, best quality, very awa, absurdres, model style,\n1girl, solo, Female, tall, freckles, nerdy, shocked, annoyed, disgusted, annoyed, freckles, long pigtails, orange hair, huge pigtails, large round glasses, \ninnocent, skinny, tiny breasts, hip bones, \ncocked hips, possing, modeling, \nsmall swimsuit, black navy swimsuit, \ncollege pool, swim team, pool, wet, outdoor pool,\nsoft teal bubbles, fluffy white clouds, outdoor,\nsunbeams, beautiful day,fluffy soft,",
+        "process": "txt2img",
+        "sampler": "Euler a",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 2,
         "workflow": "txt2img",
-        "baseModel": "SDXL",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2025-06-01T2356:44.6269160Z",
-        "negativePrompt": "text, logos, bad quality, nudity",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-08T0924:39.8609479Z",
+        "experimental": false,
+        "negativePrompt": "bad quality,worst quality,worst detail,censor, ugly, bad hands, (text, logo, signed, signiture:1), ugly feet, malformed feet, fused toes, ugly toes, stubby toes, missing toes, extra toes,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1759168,
-            "modelVersionName": "Ragnarok_by_RunDiffusion"
+            "modelVersionId": 1761560
           },
           {
             "type": "lora",
-            "weight": 0.95,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 0.7,
+            "modelVersionId": 1375651
           },
           {
             "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 263801,
-            "modelVersionName": "v2.0"
+            "weight": 0.7,
+            "modelVersionId": 1552087
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1404932,
-            "modelVersionName": "SDXLv2"
+            "weight": 0.7,
+            "modelVersionId": 1020899
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1607510
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1050644
           }
         ]
       },
-      "username": "PBCreator",
-      "baseModel": "SDXL 1.0",
+      "username": "molny",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        263801,
-        1404932,
-        1759168
+        1020899,
+        1050644,
+        1375651,
+        1552087,
+        1607510,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "882|1757323673312",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=882%7C1757323673312"
+    "nextCursor": "883|1732224649114",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=883%7C1732224649114"
   }
 }
