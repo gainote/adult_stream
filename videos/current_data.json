@@ -1,42 +1,74 @@
 {
   "items": [
     {
-      "id": 88593825,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cad99210-dd74-4712-9cb5-a5ed9fb2acf9/original=true/cad99210-dd74-4712-9cb5-a5ed9fb2acf9.jpeg",
-      "hash": "UQLzNP~mPxtMtPt6xGWUZ,D+,0-pTVs:%KIW",
-      "width": 2624,
-      "height": 3840,
-      "nsfwLevel": "X",
+      "id": 55591768,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25bec8f1-ec83-464c-b0e6-3115caf90237/original=true/25bec8f1-ec83-464c-b0e6-3115caf90237.jpeg",
+      "hash": "UTC%v@D%IU-=.Tn$Rko#tSofn*Rj%NR*WAjF",
+      "width": 1296,
+      "height": 2160,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-16T11:40:49.162Z",
-      "postId": 19652279,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-06T20:15:00.000Z",
+      "postId": 12454298,
       "stats": {
-        "cryCount": 551,
-        "laughCount": 633,
-        "likeCount": 1127,
+        "cryCount": 74,
+        "laughCount": 205,
+        "likeCount": 1985,
         "dislikeCount": 0,
-        "heartCount": 752,
-        "commentCount": 1
+        "heartCount": 798,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "qazsedcAI",
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "768x1280",
+        "seed": 857009292953904,
+        "Model": "waiNSFWIllustrious_v90.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "178fc987b2",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, long hair, (wet hair:1.1), heterochromia, black sclera, red eyes, blue eyes, eyebrows, eyelashes, head tilt, head back, (translucent white wet dress:1.1), seductive look, teasing pose, fabric clinging to body, covered nipples,\noutdoors, sitting on wet wooden pier, heavy rain, nighttime, dim light, misty lake, rippling surface, distant forest, water reflections, intricate details, erotic atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:klskx_wai:0.8> <lora:spo_sdxl_10ep_4k-data_lora_webui:0.5>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "178fc987b2",
+            "name": "waiNSFWIllustrious_v90.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "178fc987b2",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, bra"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        324619,
-        382152,
-        517898,
-        575618,
-        600326,
-        1196553,
-        1196555
+        567119,
+        1283437,
+        1284348
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "849|1738872900000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=849%7C1738872900000"
+    "nextCursor": "850|1759326671009",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=850%7C1759326671009"
   }
 }
