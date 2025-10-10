@@ -1,89 +1,113 @@
 {
   "items": [
     {
-      "id": 87680859,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/34ada74d-53db-4baf-9d08-d8a7544957d0/original=true/34ada74d-53db-4baf-9d08-d8a7544957d0.jpeg",
-      "hash": "UbMi:0^+~DNG:-VsIBR*H?xu$+R%RQM|s:kA",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 38738457,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53a9d0be-4f0f-4646-b6ba-8056d6b203a7/original=true/53a9d0be-4f0f-4646-b6ba-8056d6b203a7.jpeg",
+      "hash": "UUGtQgx[EMoe~At7$*%1%fozaesmgNkWR+xF",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-11T21:39:05.056Z",
-      "postId": 19450339,
+      "browsingLevel": 8,
+      "createdAt": "2024-11-07T00:03:00.000Z",
+      "postId": 8842307,
       "stats": {
-        "cryCount": 126,
-        "laughCount": 243,
-        "likeCount": 1806,
+        "cryCount": 92,
+        "laughCount": 184,
+        "likeCount": 1748,
         "dislikeCount": 0,
-        "heartCount": 805,
+        "heartCount": 954,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 2565563854,
-        "Model": "prefect_illustrious_XL_2.fp16",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "9d73bac23a",
-          "lora:sora_nikke_ilxl_goofy": "36d3e460bc51"
+        "seed": 2427396924,
+        "extra": {
+          "remixOfId": 37995515
         },
-        "prompt": "masterpiece,best quality,amazing quality, <lora:sora_nikke_ilxl_goofy:1>sora \\(nikke\\), black hair, red eyes, twintails, two side up, choker,huge breasts, 1girl, gradient background,colorful background, pleated skirt, school uniform, shirt, skirt, solo, white shirt",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
+        "steps": 34,
+        "prompt": "(score_9, score_8_up, score_7_up), 1girl, sexy elf woman, small breasts, shaved pussy, dressing room, (((hidden camera, spycam, voyeur))), (((undressing))), camera view from above, looking away, blushing, black hair, green eyes, long straight hair",
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-11-05T1919:40.0051536Z",
+        "negativePrompt": "SimpleNegativeV3, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5)",
+        "civitaiResources": [
           {
-            "hash": "36d3e460bc51",
-            "name": "sora_nikke_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "9d73bac23a",
-            "name": "prefect_illustrious_XL_2.fp16",
-            "type": "model"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 287973,
+            "modelVersionName": "V3"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 545059,
+            "modelVersionName": "V1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 298238,
+            "modelVersionName": "Smooth Anime"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 421754,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "9d73bac23a",
-        "Detail Daemon": {
-          "ed": "0.8",
-          "st": "0.2",
-          "exp": "1",
-          "bias": "0.5",
-          "fade": "0",
-          "mode": "uncond",
-          "amount": "0.19",
-          "smooth": "1",
-          "ed_offset": "0",
-          "st_offset": "0"
-        },
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.21",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "ElvishDreams",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1873831
+        244808,
+        287973,
+        290640,
+        298238,
+        421754,
+        436219,
+        545059
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "913|1730937780000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=913%7C1730937780000"
+    "nextCursor": "914|1743309760341",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=914%7C1743309760341"
   }
 }
