@@ -1,41 +1,108 @@
 {
   "items": [
     {
-      "id": 70988999,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b17158c4-a4b7-4b97-9f15-ae214694a2bf/original=true/b17158c4-a4b7-4b97-9f15-ae214694a2bf.jpeg",
-      "hash": "UEIzbdni0g?GM_IV9aE10K?Hxu?G~Voz%MS3",
-      "width": 1280,
-      "height": 1856,
+      "id": 70321461,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d6f32c4-c2ed-4a61-844e-9240cb8dba75/original=true/6d6f32c4-c2ed-4a61-844e-9240cb8dba75.jpeg",
+      "hash": "UDMPX%MJ00MxlCn5Vtx^PBM{xCE1-=9YDitP",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-20T00:37:00.000Z",
-      "postId": 15768431,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-16T04:00:00.000Z",
+      "postId": 15622637,
       "stats": {
-        "cryCount": 103,
-        "laughCount": 233,
-        "likeCount": 1776,
+        "cryCount": 101,
+        "laughCount": 234,
+        "likeCount": 1733,
         "dislikeCount": 0,
-        "heartCount": 879,
+        "heartCount": 920,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 773241067,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:drake-nikke-richy-v1_ixl:1>,drakrnd, red eyes, short hair, white hair, single earring, hair ornament, medium breasts, grey mascara, puffy lips, glossy pink lipstick, fingernails, nail polish, red long nails, nailsart, 1girl, 1 woman, pretty face llight blush, raunchy makeup, seductive eyes, raunchy smoky eyes, eyeliner, mascara, earrings, naked, breast press, penis, kissing penis shaft, saliva on penis, twitching penis, pre cum, testicles, upper body, background girlish playful room, e-girl room, selfie, recording, looking at viewer, from side, (medium firm perky Breasts:1.2), (cockring:1.2), soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, dynamic dutch angle, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
+          {
+            "name": "drake-nikke-richy-v1_ixl",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "Created Date": "2025-04-14T1602:42.4663991Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1612720,
+            "modelVersionName": "v13.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1655107,
+            "modelVersionName": "drake-nikke-richy-v1_ixl"
+          }
+        ]
+      },
+      "username": "Chimi83",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        372639,
-        1412563,
-        1490781,
-        1579851
+        6056,
+        25820,
+        1056404,
+        1135769,
+        1373674,
+        1612720,
+        1655107
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "904|1744776000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=904%7C1744776000000"
+    "nextCursor": "905|1703938967164",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=905%7C1703938967164"
   }
 }
