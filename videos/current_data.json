@@ -1,39 +1,36 @@
 {
   "items": [
     {
-      "id": 38738457,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53a9d0be-4f0f-4646-b6ba-8056d6b203a7/original=true/53a9d0be-4f0f-4646-b6ba-8056d6b203a7.jpeg",
-      "hash": "UUGtQgx[EMoe~At7$*%1%fozaesmgNkWR+xF",
+      "id": 23650146,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab9b38d8-2bfb-4c2f-bca0-a54e439663ac/original=true/ab9b38d8-2bfb-4c2f-bca0-a54e439663ac.jpeg",
+      "hash": "U3CFI#0$01;11K5mxZjE00}U^jxu5lI:W:XS",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-11-07T00:03:00.000Z",
-      "postId": 8842307,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-30T04:30:37.534Z",
+      "postId": 5274907,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 184,
-        "likeCount": 1748,
+        "cryCount": 96,
+        "laughCount": 241,
+        "likeCount": 1736,
         "dislikeCount": 0,
-        "heartCount": 954,
-        "commentCount": 0
+        "heartCount": 905,
+        "commentCount": 3
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2427396924,
-        "extra": {
-          "remixOfId": 37995515
-        },
-        "steps": 34,
-        "prompt": "(score_9, score_8_up, score_7_up), 1girl, sexy elf woman, small breasts, shaved pussy, dressing room, (((hidden camera, spycam, voyeur))), (((undressing))), camera view from above, looking away, blushing, black hair, green eyes, long straight hair",
+        "seed": 3990522314,
+        "steps": 26,
+        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, score_9, score_8_up, score_7_up, (Super high quality, ultra hd, masterpiece), perfect face, perfect body,1 girl,drawn style, (clear smoke), (smoke girl:1.5), long hair, transparent, (transparent smoke body:1.5),(cum), big breasts, petite, outdoor, (camp fire), forest, smoke, nude, sunny, cute, doggy style, standing doggy, bouncing breasts, 1boy, human male, sex, (((see through body))), (( penis visible:1.3)), (cum visible inside), (cum on body),",
         "sampler": "Euler a",
-        "cfgScale": 4.5,
+        "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-11-05T1919:40.0051536Z",
-        "negativePrompt": "SimpleNegativeV3, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5)",
+        "Created Date": "2024-08-10T1558:41.1314227Z",
+        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:99890@106916, embedding:urn:air:sd1:embedding:civitai:222256@250712, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, extra dicks, fat, chubby, child",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -41,28 +38,28 @@
             "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 287973,
-            "modelVersionName": "V3"
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 545059,
-            "modelVersionName": "V1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 421754,
+            "modelVersionId": 239420,
             "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 390898,
+            "modelVersionName": "v1.0 [Pony]"
           },
           {
             "type": "lora",
@@ -72,9 +69,9 @@
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 0.9,
+            "modelVersionId": 501402,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "embed",
@@ -85,29 +82,24 @@
             "type": "embed",
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "ElvishDreams",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
-        244808,
-        287973,
+        239420,
         290640,
-        298238,
-        421754,
+        382152,
+        390898,
+        398847,
         436219,
-        545059
+        501402
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "914|1743309760341",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=914%7C1743309760341"
+    "nextCursor": "915|1743309760341",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=915%7C1743309760341"
   }
 }
