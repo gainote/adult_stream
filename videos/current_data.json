@@ -1,42 +1,77 @@
 {
   "items": [
     {
-      "id": 97946139,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/42f2cf8e-333c-4b2b-a3be-700c6743dbe2/original=true/42f2cf8e-333c-4b2b-a3be-700c6743dbe2.jpeg",
-      "hash": "UAEx@R4.K*~VcXM{E1xtEhxawItRxZxt$i9a",
+      "id": 89821026,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e479db30-ee4f-4526-94ad-669699d7ef5d/original=true/e479db30-ee4f-4526-94ad-669699d7ef5d.jpeg",
+      "hash": "UHF}sE~q.8.S9HEN9uENF|%M^jozKj-p%MxG",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-09-03T10:47:12.425Z",
-      "postId": 21730628,
+      "createdAt": "2025-08-04T00:23:00.000Z",
+      "postId": 19923235,
       "stats": {
-        "cryCount": 130,
-        "laughCount": 210,
-        "likeCount": 1863,
+        "cryCount": 146,
+        "laughCount": 205,
+        "likeCount": 1858,
         "dislikeCount": 0,
-        "heartCount": 782,
+        "heartCount": 777,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "ShishigamiDono",
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1633016772,
+        "draft": false,
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, very lewd look, caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, small natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-22T1618:37.8884544Z",
+        "experimental": false,
+        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1189052,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1416874,
+            "modelVersionName": "[illustrious]"
+          }
+        ]
+      },
+      "username": "bm609",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        382152,
-        391999,
-        534756,
-        556208,
-        596040,
-        677052,
-        756152,
-        2071650
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "908|1754266980000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=908%7C1754266980000"
+    "nextCursor": "909|1757986692754",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=909%7C1757986692754"
   }
 }
