@@ -1,79 +1,204 @@
 {
   "items": [
     {
-      "id": 91901170,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d3603ea6-6416-45bd-9d9b-a093075ff365/original=true/d3603ea6-6416-45bd-9d9b-a093075ff365.jpeg",
-      "hash": "UHIN:L~pK%SgNFRj%2of9]M|w]sn^*xaIUR*",
-      "width": 832,
-      "height": 1216,
+      "id": 87049076,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c94c06dd-43c5-414a-8ae8-ad44ef3846db/original=true/c94c06dd-43c5-414a-8ae8-ad44ef3846db.jpeg",
+      "hash": "UAIp-$?IE20f~X0$0eE36S0ft4Iox]D%i]-U",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-08-02T08:42:46.879Z",
-      "postId": 20388029,
+      "createdAt": "2025-07-08T17:20:00.000Z",
+      "postId": 19312185,
       "stats": {
-        "cryCount": 192,
-        "laughCount": 252,
-        "likeCount": 1810,
+        "cryCount": 116,
+        "laughCount": 212,
+        "likeCount": 1804,
         "dislikeCount": 0,
-        "heartCount": 730,
+        "heartCount": 850,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3623074430,
-        "draft": false,
-        "extra": {
-          "remixOfId": 90186862
-        },
-        "steps": 32,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1717586@1943723",
+        "extra": {},
+        "steps": 30,
         "width": 832,
         "height": 1216,
-        "prompt": "a standing topless woman in blue jeans, confident pose, clean indoor lighting, minimal backdrop  <lora:Woman877.v2:0.7> woman877, 25-year-old French woman, light beige skin with natural freckles, thick jet blonde hair in a layered cut with soft waves, brown eyes, oval face, petite frame with a delicate waist",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1717586@1943723"
+        ],
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), <lora:sdslillia-illu-nvwls-v1-000006:1> sdslil, white hair, long hair, pink hair, red eyes, big breasts, gold necklace, pink smokyeyes, lash, mascara, glossy pink lips, parted lips, firm petite shape, pink lips, large breasts, round opulent breats, fingernails, nail polish, ass, round ass, ((firm round petite ass)), presenting proud her ass, fair skin, sky, 1girl, braid, red nails, breasts, pink nails, navel, cleavage, black nails, solo, floral print, long hair, collarbone, looking at viewer, bikini, ((peachy bikini)), fingernails, gradient background, gradient, multicolored nails, bangs, swimsuit, bare shoulders, yellow nails, blush, strap pull, blue nails, large breasts, purple nails, print bikini, matching thong, stomach, serene beach at night, lies on its side on a beach chair, lovely yet smug grin expression, ((Lying:1.6)) starry sky, shooting stars, creating a vibrant and energetic atmosphere, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, dynamic dutch angle, view from above, bright colors, stunningly artwork",
+        "denoise": 0.5,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "SDXL",
-        "resources": [
-          {
-            "name": "Woman877.v2",
-            "type": "lora",
-            "weight": 0.7
-          }
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "disablePoi": true,
+        "versionIds": [],
         "aspectRatio": "13:19",
-        "Created Date": "2025-08-02T0829:02.4998791Z",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/43B2TT30H38REE7VFJH9EYGWX0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
         "experimental": false,
-        "negativePrompt": "cartoon, illustration, anime, painting, CGI, 3D render, low quality, watermark, logo, label, deformed eyes, deformed iris",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, ",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1943723
+          },
+          {
+            "weight": 0.55,
+            "modelVersionId": 1598431
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 1193082
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1027964
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 211788
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 135867
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1975115
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1970318,
-            "modelVersionName": "XL3"
+            "modelVersionId": 1943723
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 2043110,
-            "modelVersionName": "V2 (SFW) - SDXL"
+            "weight": 0.55,
+            "modelVersionId": 1598431
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1193082
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1027964
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 211788
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1975115
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1414247@1598431",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:536084@1193082",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:918427@1027964",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:188573@211788",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:122359@135867",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1745185@1975115",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "rhp_01",
-      "baseModel": "SDXL 1.0",
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        1970318,
-        2043110
+        9208,
+        135867,
+        164821,
+        211788,
+        244808,
+        1027964,
+        1193082,
+        1598431,
+        1943723,
+        1975115
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "911|1751995200000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=911%7C1751995200000"
+    "nextCursor": "912|1752269945056",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=912%7C1752269945056"
   }
 }
