@@ -1,105 +1,124 @@
 {
   "items": [
     {
-      "id": 23650146,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab9b38d8-2bfb-4c2f-bca0-a54e439663ac/original=true/ab9b38d8-2bfb-4c2f-bca0-a54e439663ac.jpeg",
-      "hash": "U3CFI#0$01;11K5mxZjE00}U^jxu5lI:W:XS",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 104283886,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae6b89ce-5875-4ca8-b220-50769bba8a3b/original=true/ae6b89ce-5875-4ca8-b220-50769bba8a3b.jpeg",
+      "hash": "U6B:Q=AV585P0M$xD%xC00H@~pr?JV-q4.x^",
+      "width": 1920,
+      "height": 2816,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-30T04:30:37.534Z",
-      "postId": 5274907,
+      "browsingLevel": 4,
+      "createdAt": "2025-10-09T02:34:43.142Z",
+      "postId": 23138665,
       "stats": {
-        "cryCount": 96,
-        "laughCount": 241,
-        "likeCount": 1736,
+        "cryCount": 136,
+        "laughCount": 177,
+        "likeCount": 2065,
         "dislikeCount": 0,
-        "heartCount": 905,
-        "commentCount": 3
+        "heartCount": 604,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3990522314,
-        "steps": 26,
-        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, score_9, score_8_up, score_7_up, (Super high quality, ultra hd, masterpiece), perfect face, perfect body,1 girl,drawn style, (clear smoke), (smoke girl:1.5), long hair, transparent, (transparent smoke body:1.5),(cum), big breasts, petite, outdoor, (camp fire), forest, smoke, nude, sunny, cute, doggy style, standing doggy, bouncing breasts, 1boy, human male, sex, (((see through body))), (( penis visible:1.3)), (cum visible inside), (cum on body),",
+        "Model": "urn:air:sdxl:checkpoint:civitai:1277670@1896532",
+        "extra": {},
+        "steps": 20,
+        "width": 1280,
+        "height": 1856,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1277670@1896532"
+        ],
+        "prompt": "Lazypos, masterpiece, best quality, very aesthetic,\nBREAK\n1 girl, Large breast, long hair,\nRMei, Fol005, RM_Act, raiden mei, purple hair, purple eyes, collared jacket, epaulettes, collared dress, alt black jacket, gold trim, alternate white dress, feathers, gold rose, side capelet, red capelet, alt layered sleeves, different black sleeves, alt frilled sleeves, different white sleeves, red ascot, gemstone, thigh garter, tiara, red horns, brown high heel boots,\nBREAK\nplaying trumpet, depth of field, holding, instrument, light particles, looking at viewer, music, night, night sky, bass clef, baton \\(instrument\\),  eighth notes, beamed notes, cloud, note, light particles, moonlight, music, musical note, night, night sky, quarter note, sheet music, note, starry sky, starry sky print, treble clef, sitting, dynamic angle, blurry foreground, smile,\nBREAK\n(rella:1.2), (redum4:1.2) (au \\(d elete\\):1.2) (dino \\(dinoartforame\\):1.1), wlop, epic,",
+        "denoise": 0.2,
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-08-10T1558:41.1314227Z",
-        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:99890@106916, embedding:urn:air:sd1:embedding:civitai:222256@250712, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, extra dicks, fat, chubby, child",
+        "priority": "normal",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/9ARA13MFPRTE6QJMJMKBD9SK70?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQQ8fvxuaJoahAoRdF91anRjtmbL-n2pZza_DuS4qQvfBOLh0Frfm7WqTi4x_71dmvKYrdxSbtc1tvvSziybgIR13NOhEnS3wKRM-pow7D2Z8_qWB59cOIKxYN73gEw1Pyr9x96MYC_J-GxMHFVArVya-wV7L6AOyckFnbjspcATL8BWtWeV6TVoa3Gnh0mVPSAZa17XW4P19Z1-H5UMcXFwvanxbde9izDw1QuIq4LLDrgYYTDfc61HuJ9NGPGWFovitEXc8IMZU1bWOYz2plt&exp=2026-10-04T14:08:30.8410855Z",
+          "width": 1280,
+          "height": 1856
+        },
+        "experimental": false,
+        "negativePrompt": "Lazyneg, (realistic, photorealistic) ,(worst quality, bad quality:1.2), lipstick, 3d lips, lowres,low quality,bad_quality,anatomical nonsense,interlocked fingers,extra fingers,watermark,transparent,logo,text,signature,jpeg artifacts,username,censored,extra digit,ugly,bad_hands,bad_feet,bad_anatomy,deformed anatomy,bad proportions,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1896532
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1833157
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.3,
+            "modelVersionId": 1191626
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.1,
+            "modelVersionId": 1278054
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1247042
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1398703
+          },
+          {
+            "type": "lora",
+            "weight": -0.5,
+            "modelVersionId": 1444863
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1303412
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 390898,
-            "modelVersionName": "v1.0 [Pony]"
+            "weight": 0.3,
+            "modelVersionId": 2237448
           },
           {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 501402,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": "solumbragt355",
-      "baseModel": "Pony",
+      "username": "Heibei",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        239420,
-        290640,
-        382152,
-        390898,
-        398847,
-        436219,
-        501402
+        164821,
+        1191626,
+        1247042,
+        1278054,
+        1303412,
+        1398703,
+        1444863,
+        1833157,
+        1896532,
+        2237448
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "915|1743309760341",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=915%7C1743309760341"
+    "nextCursor": "916|1743309760341",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=916%7C1743309760341"
   }
 }
