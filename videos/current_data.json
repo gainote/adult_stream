@@ -1,77 +1,79 @@
 {
   "items": [
     {
-      "id": 89821026,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e479db30-ee4f-4526-94ad-669699d7ef5d/original=true/e479db30-ee4f-4526-94ad-669699d7ef5d.jpeg",
-      "hash": "UHF}sE~q.8.S9HEN9uENF|%M^jozKj-p%MxG",
+      "id": 91901170,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d3603ea6-6416-45bd-9d9b-a093075ff365/original=true/d3603ea6-6416-45bd-9d9b-a093075ff365.jpeg",
+      "hash": "UHIN:L~pK%SgNFRj%2of9]M|w]sn^*xaIUR*",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-04T00:23:00.000Z",
-      "postId": 19923235,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-02T08:42:46.879Z",
+      "postId": 20388029,
       "stats": {
-        "cryCount": 146,
-        "laughCount": 205,
-        "likeCount": 1858,
+        "cryCount": 192,
+        "laughCount": 252,
+        "likeCount": 1810,
         "dislikeCount": 0,
-        "heartCount": 777,
+        "heartCount": 730,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1633016772,
+        "seed": 3623074430,
         "draft": false,
-        "steps": 19,
+        "extra": {
+          "remixOfId": 90186862
+        },
+        "steps": 32,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, very lewd look, caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, small natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
+        "prompt": "a standing topless woman in blue jeans, confident pose, clean indoor lighting, minimal backdrop  <lora:Woman877.v2:0.7> woman877, 25-year-old French woman, light beige skin with natural freckles, thick jet blonde hair in a layered cut with soft waves, brown eyes, oval face, petite frame with a delicate waist",
         "process": "txt2img",
         "sampler": "DPM++ 2M Karras",
         "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 1,
+        "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
+        "baseModel": "SDXL",
+        "resources": [
+          {
+            "name": "Woman877.v2",
+            "type": "lora",
+            "weight": 0.7
+          }
+        ],
         "disablePoi": true,
         "aspectRatio": "13:19",
-        "Created Date": "2025-07-22T1618:37.8884544Z",
+        "Created Date": "2025-08-02T0829:02.4998791Z",
         "experimental": false,
-        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
+        "negativePrompt": "cartoon, illustration, anime, painting, CGI, 3D render, low quality, watermark, logo, label, deformed eyes, deformed iris",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
+            "modelVersionId": 1970318,
+            "modelVersionName": "XL3"
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052,
-            "modelVersionName": "Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874,
-            "modelVersionName": "[illustrious]"
+            "weight": 0.7,
+            "modelVersionId": 2043110,
+            "modelVersionName": "V2 (SFW) - SDXL"
           }
         ]
       },
-      "username": "bm609",
-      "baseModel": "Illustrious",
+      "username": "rhp_01",
+      "baseModel": "SDXL 1.0",
       "modelVersionIds": [
-        1189052,
-        1416874,
-        1490781
+        1970318,
+        2043110
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "910|1754124166879",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=910%7C1754124166879"
+    "nextCursor": "911|1751995200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=911%7C1751995200000"
   }
 }
