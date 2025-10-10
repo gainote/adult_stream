@@ -1,204 +1,89 @@
 {
   "items": [
     {
-      "id": 87049076,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c94c06dd-43c5-414a-8ae8-ad44ef3846db/original=true/c94c06dd-43c5-414a-8ae8-ad44ef3846db.jpeg",
-      "hash": "UAIp-$?IE20f~X0$0eE36S0ft4Iox]D%i]-U",
-      "width": 1280,
-      "height": 1856,
+      "id": 87680859,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/34ada74d-53db-4baf-9d08-d8a7544957d0/original=true/34ada74d-53db-4baf-9d08-d8a7544957d0.jpeg",
+      "hash": "UbMi:0^+~DNG:-VsIBR*H?xu$+R%RQM|s:kA",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-08T17:20:00.000Z",
-      "postId": 19312185,
+      "createdAt": "2025-07-11T21:39:05.056Z",
+      "postId": 19450339,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 212,
-        "likeCount": 1804,
+        "cryCount": 126,
+        "laughCount": 243,
+        "likeCount": 1806,
         "dislikeCount": 0,
-        "heartCount": 850,
+        "heartCount": 805,
         "commentCount": 0
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1717586@1943723",
-        "extra": {},
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 2565563854,
+        "Model": "prefect_illustrious_XL_2.fp16",
         "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1717586@1943723"
-        ],
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), <lora:sdslillia-illu-nvwls-v1-000006:1> sdslil, white hair, long hair, pink hair, red eyes, big breasts, gold necklace, pink smokyeyes, lash, mascara, glossy pink lips, parted lips, firm petite shape, pink lips, large breasts, round opulent breats, fingernails, nail polish, ass, round ass, ((firm round petite ass)), presenting proud her ass, fair skin, sky, 1girl, braid, red nails, breasts, pink nails, navel, cleavage, black nails, solo, floral print, long hair, collarbone, looking at viewer, bikini, ((peachy bikini)), fingernails, gradient background, gradient, multicolored nails, bangs, swimsuit, bare shoulders, yellow nails, blush, strap pull, blue nails, large breasts, purple nails, print bikini, matching thong, stomach, serene beach at night, lies on its side on a beach chair, lovely yet smug grin expression, ((Lying:1.6)) starry sky, shooting stars, creating a vibrant and energetic atmosphere, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, dynamic dutch angle, view from above, bright colors, stunningly artwork",
-        "denoise": 0.5,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/43B2TT30H38REE7VFJH9EYGWX0.jpeg",
-          "width": 832,
-          "height": 1216
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "9d73bac23a",
+          "lora:sora_nikke_ilxl_goofy": "36d3e460bc51"
         },
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, ",
-        "civitaiResources": [
+        "prompt": "masterpiece,best quality,amazing quality, <lora:sora_nikke_ilxl_goofy:1>sora \\(nikke\\), black hair, red eyes, twintails, two side up, choker,huge breasts, 1girl, gradient background,colorful background, pleated skirt, school uniform, shirt, skirt, solo, white shirt",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1943723
-          },
-          {
-            "weight": 0.55,
-            "modelVersionId": 1598431
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.25,
-            "modelVersionId": 1193082
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1027964
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 211788
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 135867
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1975115
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1943723
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
+            "hash": "36d3e460bc51",
+            "name": "sora_nikke_ilxl_goofy",
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1598431
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1193082
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1027964
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 211788
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 135867
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1975115
+            "hash": "9d73bac23a",
+            "name": "prefect_illustrious_XL_2.fp16",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1414247@1598431",
-            "type": "lora",
-            "strength": 0.55,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:536084@1193082",
-            "type": "lora",
-            "strength": 0.25,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:918427@1027964",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:212532@244808",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:188573@211788",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:122359@135867",
-            "type": "lora",
-            "strength": 0.45,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1745185@1975115",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "9d73bac23a",
+        "Detail Daemon": {
+          "ed": "0.8",
+          "st": "0.2",
+          "exp": "1",
+          "bias": "0.5",
+          "fade": "0",
+          "mode": "uncond",
+          "amount": "0.19",
+          "smooth": "1",
+          "ed_offset": "0",
+          "st_offset": "0"
+        },
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.21",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Chimi83",
+      "username": "Goofy_Ai",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        135867,
-        164821,
-        211788,
-        244808,
-        1027964,
-        1193082,
-        1598431,
-        1943723,
-        1975115
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "912|1752269945056",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=912%7C1752269945056"
+    "nextCursor": "913|1730937780000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=913%7C1730937780000"
   }
 }
