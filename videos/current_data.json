@@ -1,41 +1,73 @@
 {
   "items": [
     {
-      "id": 71837018,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ca87d64-6ce9-44a9-94ad-29e4e032807a/original=true/9ca87d64-6ce9-44a9-94ad-29e4e032807a.jpeg",
-      "hash": "UQH1xtIo4o~WVYD*WBjFW;x]%2ofIAIobIay",
-      "width": 1280,
-      "height": 1856,
+      "id": 33666087,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05129105-2ebf-47bc-8a88-0d8cf32c1ed5/original=true/05129105-2ebf-47bc-8a88-0d8cf32c1ed5.jpeg",
+      "hash": "UCFhn.8x1Q029^Qk~Bwa00^*S5S1=yPC9Gxa",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-25T05:56:50.395Z",
-      "postId": 15957500,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-09T13:48:03.317Z",
+      "postId": 7698664,
       "stats": {
-        "cryCount": 123,
-        "laughCount": 204,
-        "likeCount": 1824,
+        "cryCount": 93,
+        "laughCount": 243,
+        "likeCount": 1691,
         "dislikeCount": 0,
-        "heartCount": 808,
-        "commentCount": 0
+        "heartCount": 932,
+        "commentCount": 7
       },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3821049585,
+        "extra": {
+          "remixOfId": 33061150
+        },
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, godrays, 1girl, May (pokemon), subway, crowded train, sunny day, tube top, sweat, biting lip, blush, moaning, sexy, pose, posing, face focus, closeup, 1man, groped from behind, groping boobs, nipples",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-10-09T1340:03.9584489Z",
+        "negativePrompt": "score_4, score_5, score_6, fat, ugly",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 937383,
+            "modelVersionName": "DTLDR v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "blacksnowskill",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        372639,
-        1412563,
-        1425924,
-        1490781
+        290640,
+        937383
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "935|1735498467375",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=935%7C1735498467375"
+    "nextCursor": "936|1728481683317",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=936%7C1728481683317"
   }
 }
