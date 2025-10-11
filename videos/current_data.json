@@ -1,38 +1,91 @@
 {
   "items": [
     {
-      "id": 45652334,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5393fe68-5204-4a52-af9c-0b58d6f20ad1/original=true/5393fe68-5204-4a52-af9c-0b58d6f20ad1.jpeg",
-      "hash": "UKEe=GIo0fxa~WRjRjoz%LRjs.t7-;RjjZxu",
-      "width": 1280,
-      "height": 1856,
+      "id": 18485619,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0d4430f4-853f-41f2-a92d-191d18cd7eea/original=true/0d4430f4-853f-41f2-a92d-191d18cd7eea.jpeg",
+      "hash": "UIGaRI~90zNF0hEMVvfkSwNHRloL~U-UMyRj",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-12-15T13:32:04.656Z",
-      "postId": 10338794,
+      "createdAt": "2024-07-05T02:29:03.930Z",
+      "postId": 4129322,
       "stats": {
-        "cryCount": 86,
-        "laughCount": 177,
-        "likeCount": 1875,
+        "cryCount": 88,
+        "laughCount": 221,
+        "likeCount": 1613,
         "dislikeCount": 0,
-        "heartCount": 833,
-        "commentCount": 2
+        "heartCount": 1049,
+        "commentCount": 4
       },
-      "meta": null,
-      "username": "paulmuc",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1685725229,
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, lying on stomach , cute face, sexy body, pink panties, kawaii girl, 20 years old, sexy body, perfect cute face, narrow hips, thighs, surprised, topless, big breasts, puffy nipples, reading book, question mark,  small tight ass, (((shiny ass))), long brown wavy hair, freckles, pale skin, hazel eyes, feet, twin ponytails, blushing,  head down eyes up, (embarrassed:0.4), (worried:0.4), nose blush, lying on side, concentrating, looking down, from front, front view, ass crack, anus, pussy slightly visible, pussy partially visible, forest camp",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-07-05T0228:31.4487323Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, plain background",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
-        164821,
+        9208,
+        290640,
         382152,
-        953264
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "924|1720146543930",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=924%7C1720146543930"
+    "nextCursor": "925|1758851890221",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=925%7C1758851890221"
   }
 }
