@@ -1,114 +1,38 @@
 {
   "items": [
     {
-      "id": 42429911,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4d967bf6-e6fe-4d6c-841b-b9efb10ad4d4/original=true/4d967bf6-e6fe-4d6c-841b-b9efb10ad4d4.jpeg",
-      "hash": "U8EUiO00S}^*03xt}@9aD*={oe9uo}={0L?a",
-      "width": 832,
-      "height": 1216,
+      "id": 45652334,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5393fe68-5204-4a52-af9c-0b58d6f20ad1/original=true/5393fe68-5204-4a52-af9c-0b58d6f20ad1.jpeg",
+      "hash": "UKEe=GIo0fxa~WRjRjoz%LRjs.t7-;RjjZxu",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-11-27T19:44:18.251Z",
-      "postId": 9651880,
+      "createdAt": "2024-12-15T13:32:04.656Z",
+      "postId": 10338794,
       "stats": {
-        "cryCount": 87,
-        "laughCount": 140,
-        "likeCount": 1793,
+        "cryCount": 86,
+        "laughCount": 177,
+        "likeCount": 1875,
         "dislikeCount": 0,
-        "heartCount": 952,
-        "commentCount": 1
+        "heartCount": 833,
+        "commentCount": 2
       },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1940057422,
-        "draft": false,
-        "extra": {
-          "remixOfId": 41702460
-        },
-        "steps": 25,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up,  1girl, 18 years old, solo, chestnut brown hair, fringe hair, ponytail, light brown eyes, ((freckles)), cute, (lowering pants), open white shirt, unbuttoned, , pulling down pants, hands on pants, naked breasts, perky breasts, nipples, sexy expression,  sitting, (legs raised up), ass view, bubble ass, ass hole,  looking at viewer, in front of bed, college, dramatic lighting, pretty girl, pull down pant,  pussy from behind, leaning back",
-        "sampler": "Euler a",
-        "cfgScale": 8,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-11-27T1856:03.5476345Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 637541,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
-          }
-        ]
-      },
-      "username": "Cluny",
+      "meta": null,
+      "username": "paulmuc",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        290640,
+        135867,
+        164821,
         382152,
-        398847,
-        436219,
-        637541
+        953264
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "923|1734269524656",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=923%7C1734269524656"
+    "nextCursor": "924|1720146543930",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=924%7C1720146543930"
   }
 }
