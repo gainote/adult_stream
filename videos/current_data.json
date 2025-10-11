@@ -1,72 +1,86 @@
 {
   "items": [
     {
-      "id": 91804218,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17c1c989-0175-4999-a3c4-314694d97518/original=true/17c1c989-0175-4999-a3c4-314694d97518.jpeg",
-      "hash": "UAH^;S~W0z010gRlJB^*.8Ip$%-p.8x]^*9a",
-      "width": 1024,
-      "height": 1024,
+      "id": 98948161,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a9f42865-f7bc-4ef9-9046-7ceddac4414e/original=true/a9f42865-f7bc-4ef9-9046-7ceddac4414e.jpeg",
+      "hash": "UQI|H-~BE2V?Szt7%2t60fRjt6s:oJV@M{Rk",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T19:52:35.030Z",
-      "postId": 20367340,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-07T16:39:28.566Z",
+      "postId": 21955014,
       "stats": {
-        "cryCount": 214,
-        "laughCount": 310,
-        "likeCount": 1777,
+        "cryCount": 129,
+        "laughCount": 219,
+        "likeCount": 1897,
         "dislikeCount": 0,
-        "heartCount": 663,
-        "commentCount": 0
+        "heartCount": 718,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "1024x1024",
-        "seed": 629090905,
+        "Size": "832x1216",
+        "seed": 1487848698,
         "draft": false,
-        "extra": {
-          "remixOfId": 91790503
-        },
-        "steps": 40,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two nude busty cute 18yo girls  edging, (touching the top of the penis with tongue:1.4)",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
+        "steps": 22,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, good quality, newest, highres, absurdres, volumetric lighting,gradient color, BREAK raytracing, volumetric lighting, ambient occlusion, girl, luminescent background, masterpiece, best quality, very awa, absurdres, \nBREAK \nSeris_Vritra_NYX, 1girl, white hair, long hair, black horns, white hair, straight hair, purple eyes\nBREAK \n1girl, barefoot, bow, box, breasts, christmas, christmas lights, christmas decorations, christmas present, christmas tree, (covering nipples), covering privates, feet, on top, fur trim, gift, gift box, hair between eyes, in box, in container, legs, long hair, looking at viewer, from above, lying down, naked, on back, red bow, red bow tie, small breasts, solo, ((star \\(symbol\\))), white hair,\nBREAK\n(bokeh:1.4), cozy light, sunlight, sunbeam, lens flare, sidelighting, light rays,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
         "clipSkip": 2,
-        "quantity": 3,
+        "quantity": 1,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
         "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-08-01T1835:48.1084981Z",
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-07T1136:42.6369408Z",
         "experimental": false,
-        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
+        "negativePrompt": "(worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, (closed eyes:1.2)",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1988773,
-            "modelVersionName": "SDXL Pony 18"
+            "modelVersionId": 1714314
           },
           {
-            "type": "embed",
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1157361
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1375651
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1582690
+          },
+          {
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 1576196
           }
         ]
       },
-      "username": "brahej",
-      "baseModel": "Pony",
+      "username": "TurtleMe",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        1988773
+        1157361,
+        1375651,
+        1576196,
+        1582690,
+        1714314
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "928|1757263168566",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=928%7C1757263168566"
+    "nextCursor": "929|1753579774421",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=929%7C1753579774421"
   }
 }
