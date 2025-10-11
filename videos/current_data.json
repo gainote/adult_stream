@@ -1,91 +1,90 @@
 {
   "items": [
     {
-      "id": 18485619,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0d4430f4-853f-41f2-a92d-191d18cd7eea/original=true/0d4430f4-853f-41f2-a92d-191d18cd7eea.jpeg",
-      "hash": "UIGaRI~90zNF0hEMVvfkSwNHRloL~U-UMyRj",
-      "width": 832,
-      "height": 1216,
+      "id": 100598535,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/614d82f1-4a0f-4847-9bf7-d208211e653d/original=true/614d82f1-4a0f-4847-9bf7-d208211e653d.jpeg",
+      "hash": "UKEn;XE19u~BX8M{%1kC9at7o2E2M|xuofV@",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-07-05T02:29:03.930Z",
-      "postId": 4129322,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-26T01:58:10.221Z",
+      "postId": 22317616,
       "stats": {
-        "cryCount": 88,
-        "laughCount": 221,
-        "likeCount": 1613,
+        "cryCount": 145,
+        "laughCount": 224,
+        "likeCount": 1740,
         "dislikeCount": 0,
-        "heartCount": 1049,
-        "commentCount": 4
+        "heartCount": 859,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1685725229,
-        "steps": 24,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, lying on stomach , cute face, sexy body, pink panties, kawaii girl, 20 years old, sexy body, perfect cute face, narrow hips, thighs, surprised, topless, big breasts, puffy nipples, reading book, question mark,  small tight ass, (((shiny ass))), long brown wavy hair, freckles, pale skin, hazel eyes, feet, twin ponytails, blushing,  head down eyes up, (embarrassed:0.4), (worried:0.4), nose blush, lying on side, concentrating, looking down, from front, front view, ass crack, anus, pussy slightly visible, pussy partially visible, forest camp",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "seed": 430365099,
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
+        "extra": {},
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
+        ],
+        "prompt": "18yo, masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, MFF, (depth of field), convent, dim light, evening, threesome, one male and two girls,( 1boy, priest getting blowjob in convent:1.7), \nhourglass figure, horny face, blushing, long hair, heavy blushing, surprised, makeup, blowjob, big veiny penis, balls, open eyes, sweat,(front fastened nun dress:1.4), (nun robes:1.2), pleasure face, deepthroat, irrumatio, rimjob\nBREAK hourglass figure,(priest attire:1.2), black long hair, heavy blushing, \nBREAK hourglass figure, exposed breasts, nipples, horny face, long white hair, heavy blushing, medium tits, watching, masturbating\ndynamic pose, from side,\nBREAK\ncum on breasts, cum on face, cum explosion, \nBREAK\n(walk in caught:1.6),( surprise:1.5),( shocked:1.5)",
+        "denoise": 0.4,
+        "process": "img2img",
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-07-05T0228:31.4487323Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, plain background",
+        "priority": "low",
+        "quantity": 2,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/0F82703YQPF3JA1ZZBYS9PTJ80.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuSS0XYKwdMbXUKTeHh6Z43zjOYWQqeIhzNPfirKSEMCn8wrqB3Vosgnx9G-PFOBdE7QICuNNIWQYXN7Nhdnc-KtWPYav6zX34UfM27UiNZNyVv5GRufgbb34pYMlR-hAjIflGkkHsejxIq7tfFZFz3L71YOCfApuqr0TISFCIpdQoCqkP0THo-KBWrGihf0SL6jyI16JN8Ex1NSLpeBZisyHzjCFByMyU5m09K9qh3NZVLudunNubdk4cHQ9wcUSS0EKt0T0abuBhrje1M-Y0h2&exp=2026-09-16T03:39:12.5398951Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "(futa:1.5),( futanari:1.3), bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, grayscale, worst aesthetic, old, oldest, text, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, (worst quality, bad quality:1.2), sketch, jpeg artifacts, signature, watermark, username, simple background, conjoined",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 1490781
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.85,
+            "modelVersionId": 1189052
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.5,
+            "modelVersionId": 1416874
           },
           {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "solumbragt355",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        290640,
-        382152,
-        398847,
-        436219
+        164821,
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "925|1758851890221",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=925%7C1758851890221"
+    "nextCursor": "926|1754503061300",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=926%7C1754503061300"
   }
 }
