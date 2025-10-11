@@ -1,45 +1,91 @@
 {
   "items": [
     {
-      "id": 56727051,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3887b158-cec5-4e67-93ce-0b320befc859/original=true/3887b158-cec5-4e67-93ce-0b320befc859.jpeg",
-      "hash": "USLW@dxu-jt6~pt7~pWU0Kj[-;WB.8ofR5Rk",
-      "width": 3840,
-      "height": 5568,
+      "id": 76121583,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/03f5d153-8388-4324-b53f-cba194cda53e/original=true/03f5d153-8388-4324-b53f-cba194cda53e.jpeg",
+      "hash": "U59jM$0LXS~U9vRixuNHS5M|ofxtNbIpIVkC",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-02-09T08:29:02.010Z",
-      "postId": 12700807,
+      "createdAt": "2025-05-18T07:32:58.883Z",
+      "postId": 16903168,
       "stats": {
-        "cryCount": 201,
-        "laughCount": 330,
-        "likeCount": 1726,
+        "cryCount": 119,
+        "laughCount": 226,
+        "likeCount": 1776,
         "dislikeCount": 0,
-        "heartCount": 707,
+        "heartCount": 840,
         "commentCount": 2
       },
-      "meta": null,
-      "username": "AcheronVoid",
-      "baseModel": "IllustriousIllustrious",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 2971064820,
+        "draft": false,
+        "extra": {
+          "remixOfId": 74197933
+        },
+        "steps": 15,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, newest, absurdres, incredibly absurdres, best quality, amazing quality, very aesthetic, newest, no lineart, no outline, scenery, (chiaroscuro), 1girl, old woman, 45years old,  very dark skin,dark nipples, breasts, solo, freckles, Messy chignon, tied hair, (wet hair:1.1), large breasts, cleavage, dark brown hair, brown eyes, white t-shirt, black thong, eyelashes,  holding a cup, brushing teeth, holding toothbrush, foam in mouth, detailed, dramatic light, \nlooking at mirror, standing in front of mirror, near window, (black hair, long hair, white clothes, messy hair)),  \nhigh detail, sharp shading, centered composition, soft shadows , (dark room), bedroom, decorative plants, lamp, warm light, volumetric lighting, raytracing, shadows, from above, perspective, depth of field, usnr, panties, socks, oversized t-shirt, off one shoulder, S4bit4mago_illu",
+        "sampler": "Euler a",
+        "cfgScale": 2.5,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-05-13T0746:02.7365377Z",
+        "negativePrompt": "lowres, (worst quality,bad quality,low quality:1.2), bad anatomy, bad perspective, bad proportions, (bad hands,extra fingers, extra digits),",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1714314,
+            "modelVersionName": "Hemp II"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1247042,
+            "modelVersionName": "v6_noobVv1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1282885,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1345990,
+            "modelVersionName": "illus01 v1.23"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1552087,
+            "modelVersionName": "USNR_STYLE_ILL_V1.0"
+          }
+        ]
+      },
+      "username": null,
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        164821,
-        183635,
-        224985,
-        472931,
-        1195460,
-        1195487,
-        1214240,
-        1244133,
-        1367422,
-        1367422
+        1247042,
+        1282885,
+        1345990,
+        1552087,
+        1714314
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "932|1747553578883",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=932%7C1747553578883"
+    "nextCursor": "933|1758503279217",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=933%7C1758503279217"
   }
 }
