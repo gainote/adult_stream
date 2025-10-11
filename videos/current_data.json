@@ -1,90 +1,98 @@
 {
   "items": [
     {
-      "id": 100598535,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/614d82f1-4a0f-4847-9bf7-d208211e653d/original=true/614d82f1-4a0f-4847-9bf7-d208211e653d.jpeg",
-      "hash": "UKEn;XE19u~BX8M{%1kC9at7o2E2M|xuofV@",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 92689245,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9036332-0e29-421b-90fb-67f5bf3e753b/original=true/d9036332-0e29-421b-90fb-67f5bf3e753b.jpeg",
+      "hash": "U9Db]C00_NR500?bD$%M00^+IU%14--otSD$",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-26T01:58:10.221Z",
-      "postId": 22317616,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-06T17:57:41.300Z",
+      "postId": 20561355,
       "stats": {
-        "cryCount": 145,
-        "laughCount": 224,
-        "likeCount": 1740,
+        "cryCount": 96,
+        "laughCount": 141,
+        "likeCount": 1829,
         "dislikeCount": 0,
-        "heartCount": 859,
+        "heartCount": 900,
         "commentCount": 0
       },
       "meta": {
-        "seed": 430365099,
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
-        "extra": {},
-        "steps": 19,
+        "Size": "832x1216",
+        "seed": 2117873079,
+        "draft": false,
+        "steps": 38,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
-        ],
-        "prompt": "18yo, masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, MFF, (depth of field), convent, dim light, evening, threesome, one male and two girls,( 1boy, priest getting blowjob in convent:1.7), \nhourglass figure, horny face, blushing, long hair, heavy blushing, surprised, makeup, blowjob, big veiny penis, balls, open eyes, sweat,(front fastened nun dress:1.4), (nun robes:1.2), pleasure face, deepthroat, irrumatio, rimjob\nBREAK hourglass figure,(priest attire:1.2), black long hair, heavy blushing, \nBREAK hourglass figure, exposed breasts, nipples, horny face, long white hair, heavy blushing, medium tits, watching, masturbating\ndynamic pose, from side,\nBREAK\ncum on breasts, cum on face, cum explosion, \nBREAK\n(walk in caught:1.6),( surprise:1.5),( shocked:1.5)",
-        "denoise": 0.4,
-        "process": "img2img",
+        "prompt": "Asuka Langley, frills, blue and white striped panties, garter belt, ribbons, lace stockings, close-up, extreme closeup, camel toe, ass focus, laying down, ripped clothing, up close, pantie focus, from behind, looking back at viewer, ass, bubble butt, juicy ass, pawg, fishnet bodystocking, fishnet covered ass, fishnet pants, fishnets on booty, \ndramatic lighting, masterpiece, best quality, good quality, very aesthetic, details, dynamic lighting,  dramatic lighting, cel shaded,",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
+        "cfgScale": 3,
         "clipSkip": 2,
-        "priority": "low",
-        "quantity": 2,
-        "workflow": "img2img-hires",
+        "quantity": 3,
+        "workflow": "txt2img",
         "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
+        "resources": [],
         "disablePoi": true,
         "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/0F82703YQPF3JA1ZZBYS9PTJ80.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuSS0XYKwdMbXUKTeHh6Z43zjOYWQqeIhzNPfirKSEMCn8wrqB3Vosgnx9G-PFOBdE7QICuNNIWQYXN7Nhdnc-KtWPYav6zX34UfM27UiNZNyVv5GRufgbb34pYMlR-hAjIflGkkHsejxIq7tfFZFz3L71YOCfApuqr0TISFCIpdQoCqkP0THo-KBWrGihf0SL6jyI16JN8Ex1NSLpeBZisyHzjCFByMyU5m09K9qh3NZVLudunNubdk4cHQ9wcUSS0EKt0T0abuBhrje1M-Y0h2&exp=2026-09-16T03:39:12.5398951Z",
-          "width": 832,
-          "height": 1216
-        },
+        "Created Date": "2025-08-06T1756:06.5959383Z",
         "experimental": false,
-        "negativePrompt": "(futa:1.5),( futanari:1.3), bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, thick, strings, grayscale, worst aesthetic, old, oldest, text, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, (worst quality, bad quality:1.2), sketch, jpeg artifacts, signature, watermark, username, simple background, conjoined",
+        "negativePrompt": "(low-quality, worst-quality:1.4), (bad-anatomy), (inaccurate-limb:1.2) bad-composition, inaccurate-eyes, extra-digit, fewer-digits, (extra-arms:1.2), fat, chubby, loli, chibi, furry, watermark, oversaturated, glossy-skin, shiny-skin,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1490781
+            "modelVersionId": 1240288,
+            "modelVersionName": "v1.3 - Style A"
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
+            "weight": 1,
+            "modelVersionId": 145907,
+            "modelVersionName": "v3.0"
           },
           {
             "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 1416874
+            "modelVersionId": 959419,
+            "modelVersionName": "SDXL_Illustrious-XL"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1036362,
+            "modelVersionName": "v4_noobEv1.0"
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.5,
+            "modelVersionId": 1219983,
+            "modelVersionName": "v0.4"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 2038085,
+            "modelVersionName": "v1.0 illustrious"
           }
         ]
       },
-      "username": "solumbragt355",
+      "username": "780_guy",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1189052,
-        1416874,
-        1490781
+        145907,
+        959419,
+        1036362,
+        1219983,
+        1240288,
+        2038085
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "926|1754503061300",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=926%7C1754503061300"
+    "nextCursor": "927|1754077955030",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=927%7C1754077955030"
   }
 }
