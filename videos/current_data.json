@@ -1,39 +1,47 @@
 {
   "items": [
     {
-      "id": 38738457,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53a9d0be-4f0f-4646-b6ba-8056d6b203a7/original=true/53a9d0be-4f0f-4646-b6ba-8056d6b203a7.jpeg",
-      "hash": "UUGtQgx[EMoe~At7$*%1%fozaesmgNkWR+xF",
+      "id": 42429911,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4d967bf6-e6fe-4d6c-841b-b9efb10ad4d4/original=true/4d967bf6-e6fe-4d6c-841b-b9efb10ad4d4.jpeg",
+      "hash": "U8EUiO00S}^*03xt}@9aD*={oe9uo}={0L?a",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-11-07T00:03:00.000Z",
-      "postId": 8842307,
+      "createdAt": "2024-11-27T19:44:18.251Z",
+      "postId": 9651880,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 184,
-        "likeCount": 1748,
+        "cryCount": 87,
+        "laughCount": 140,
+        "likeCount": 1793,
         "dislikeCount": 0,
-        "heartCount": 954,
-        "commentCount": 0
+        "heartCount": 952,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2427396924,
+        "nsfw": false,
+        "seed": 1940057422,
+        "draft": false,
         "extra": {
-          "remixOfId": 37995515
+          "remixOfId": 41702460
         },
-        "steps": 34,
-        "prompt": "(score_9, score_8_up, score_7_up), 1girl, sexy elf woman, small breasts, shaved pussy, dressing room, (((hidden camera, spycam, voyeur))), (((undressing))), camera view from above, looking away, blushing, black hair, green eyes, long straight hair",
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up,  1girl, 18 years old, solo, chestnut brown hair, fringe hair, ponytail, light brown eyes, ((freckles)), cute, (lowering pants), open white shirt, unbuttoned, , pulling down pants, hands on pants, naked breasts, perky breasts, nipples, sexy expression,  sitting, (legs raised up), ass view, bubble ass, ass hole,  looking at viewer, in front of bed, college, dramatic lighting, pretty girl, pull down pant,  pussy from behind, leaning back",
         "sampler": "Euler a",
-        "cfgScale": 4.5,
+        "cfgScale": 8,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-11-05T1919:40.0051536Z",
-        "negativePrompt": "SimpleNegativeV3, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5)",
+        "Created Date": "2024-11-27T1856:03.5476345Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands,",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -43,38 +51,32 @@
           {
             "type": "embed",
             "weight": 1,
-            "modelVersionId": 287973,
-            "modelVersionName": "V3"
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 545059,
-            "modelVersionName": "V1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 421754,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.5,
+            "weight": 0.55,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 0.7,
+            "modelVersionId": 637541,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "embed",
@@ -93,21 +95,20 @@
           }
         ]
       },
-      "username": "ElvishDreams",
+      "username": "Cluny",
       "baseModel": "Pony",
       "modelVersionIds": [
-        244808,
-        287973,
+        9208,
         290640,
-        298238,
-        421754,
+        382152,
+        398847,
         436219,
-        545059
+        637541
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "922|1732736658251",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=922%7C1732736658251"
+    "nextCursor": "923|1734269524656",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=923%7C1734269524656"
   }
 }
