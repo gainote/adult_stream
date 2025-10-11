@@ -1,98 +1,72 @@
 {
   "items": [
     {
-      "id": 92689245,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9036332-0e29-421b-90fb-67f5bf3e753b/original=true/d9036332-0e29-421b-90fb-67f5bf3e753b.jpeg",
-      "hash": "U9Db]C00_NR500?bD$%M00^+IU%14--otSD$",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 91804218,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17c1c989-0175-4999-a3c4-314694d97518/original=true/17c1c989-0175-4999-a3c4-314694d97518.jpeg",
+      "hash": "UAH^;S~W0z010gRlJB^*.8Ip$%-p.8x]^*9a",
+      "width": 1024,
+      "height": 1024,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-06T17:57:41.300Z",
-      "postId": 20561355,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T19:52:35.030Z",
+      "postId": 20367340,
       "stats": {
-        "cryCount": 96,
-        "laughCount": 141,
-        "likeCount": 1829,
+        "cryCount": 214,
+        "laughCount": 310,
+        "likeCount": 1777,
         "dislikeCount": 0,
-        "heartCount": 900,
+        "heartCount": 663,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2117873079,
+        "Size": "1024x1024",
+        "seed": 629090905,
         "draft": false,
-        "steps": 38,
-        "width": 832,
-        "height": 1216,
-        "prompt": "Asuka Langley, frills, blue and white striped panties, garter belt, ribbons, lace stockings, close-up, extreme closeup, camel toe, ass focus, laying down, ripped clothing, up close, pantie focus, from behind, looking back at viewer, ass, bubble butt, juicy ass, pawg, fishnet bodystocking, fishnet covered ass, fishnet pants, fishnets on booty, \ndramatic lighting, masterpiece, best quality, good quality, very aesthetic, details, dynamic lighting,  dramatic lighting, cel shaded,",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 3,
+        "extra": {
+          "remixOfId": 91790503
+        },
+        "steps": 40,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, painting, detailed eyes, \n an erected penis, precum, two nude busty cute 18yo girls  edging, (touching the top of the penis with tongue:1.4)",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
         "clipSkip": 2,
         "quantity": 3,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
         "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-06T1756:06.5959383Z",
+        "aspectRatio": "1:1",
+        "Created Date": "2025-08-01T1835:48.1084981Z",
         "experimental": false,
-        "negativePrompt": "(low-quality, worst-quality:1.4), (bad-anatomy), (inaccurate-limb:1.2) bad-composition, inaccurate-eyes, extra-digit, fewer-digits, (extra-arms:1.2), fat, chubby, loli, chibi, furry, watermark, oversaturated, glossy-skin, shiny-skin,",
+        "negativePrompt": "easynegative, badhandv4, (worst quality, low quality, normal quality), bad-artist, blurry, ugly, ((bad anatomy)),((bad hands)),((bad proportions)),((duplicate limbs)),((fused limbs)),((interlocking fingers)),((poorly drawn face)), glowing eyes, mask.",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1240288,
-            "modelVersionName": "v1.3 - Style A"
+            "modelVersionId": 1988773,
+            "modelVersionName": "SDXL Pony 18"
           },
           {
-            "type": "lora",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 145907,
-            "modelVersionName": "v3.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 959419,
-            "modelVersionName": "SDXL_Illustrious-XL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1036362,
-            "modelVersionName": "v4_noobEv1.0"
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.5,
-            "modelVersionId": 1219983,
-            "modelVersionName": "v0.4"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2038085,
-            "modelVersionName": "v1.0 illustrious"
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           }
         ]
       },
-      "username": "780_guy",
-      "baseModel": "Illustrious",
+      "username": "brahej",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        145907,
-        959419,
-        1036362,
-        1219983,
-        1240288,
-        2038085
+        9208,
+        1988773
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "927|1754077955030",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=927%7C1754077955030"
+    "nextCursor": "928|1757263168566",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=928%7C1757263168566"
   }
 }
