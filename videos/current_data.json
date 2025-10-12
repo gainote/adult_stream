@@ -1,122 +1,142 @@
 {
   "items": [
     {
-      "id": 44154804,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/03a81488-6ae7-4a1e-b2f6-7cf84517b997/original=true/03a81488-6ae7-4a1e-b2f6-7cf84517b997.jpeg",
-      "hash": "U%Ms$jM{_Nxu-;jFkWbbxut7ofj[s:bbRjs:",
+      "id": 75419919,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d7b3cae5-6ee3-4a86-ab4f-02fc694666d7/original=true/d7b3cae5-6ee3-4a86-ab4f-02fc694666d7.jpeg",
+      "hash": "ULKcLUAH_Kxu-.t7xZxu5-n$R6ayEMnieoNG",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-12-07T09:54:05.983Z",
-      "postId": 10021789,
+      "createdAt": "2025-05-12T03:11:00.000Z",
+      "postId": 16749606,
       "stats": {
-        "cryCount": 90,
-        "laughCount": 178,
-        "likeCount": 1812,
+        "cryCount": 112,
+        "laughCount": 230,
+        "likeCount": 1754,
         "dislikeCount": 0,
-        "heartCount": 874,
-        "commentCount": 6
+        "heartCount": 855,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 994350186,
-        "draft": false,
-        "extra": {
-          "remixOfId": 43633628
-        },
-        "steps": 27,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, Expressiveh, mole under eye, source_anime, masterpiece, fancy, asian girl, asian, slanted eyes, black eyeliner and mascara, long eyelashes, dark eyeshadow, black lipstick, curvy, sexy lips, big eyes, big ass, thighs, perfect glossy skin, bare shoulders, bare neck, bare arm, easynegative, jsyu, IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII, \n1girl, (((solo))), female focus, (21years old), kanroji-mitsuri\n(warm skin), (multiple pierced ears), light blue hair, pink hair,\n(long hair), messy hair, (intricate hair), (green eyes, multicolored hair, twin_braids), (body tattoos),\n(Floral tattoos), (black tattoos), beauty face, seductive, gorgeous, (hourglass body), (perfect slender body), (large breasts), large cleavage, (sexy), collarbone,\nbare shoulders, navel, \n...\nclosed mouth, smirk, (looking at viewer), standing,\n((naked)), (black choker),\nupper body, (side view),\n...\n((white background))",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-12-04T1651:35.0673987Z",
-        "negativePrompt": "source_furry, source_pony, source_Futanari, off shoulder,  jacket, bowtie, source_cartoon, gay, monochrome, DeepNegative_xl_v1, censored, 3d, unaestheticXL_3x3",
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "steps": 21,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "rating_explicit, source_anime, score_9, score_8_up, score_7_up, Expressiveh,  18 year old girl, cute and sexy girl, innocent girl, petite, gray eyes, (bold black eyeliner:0.5), slender body, (petite body), sexy girl, romantic, intimate, (1girl, solo), (slim fit body), narrow hips, young adult, super-cute,\n\nasian girl, asian scene, asian background, BREAK.\n\n(red dress with golden pattern), China dress, (skinny girl), long legs, tanned skin, slim thighs, ((black  twin buns)), indoors, (living room), proper size furniture, (pubic curtain), in heat, lips parted, horny face, thick pouty lips, skinny girl with large breasts, (covered large breasts), relaxed breasts, (deflated breasts), (skindentation), (covered nipple outlines), covered nipples, head tilt, ((sideboob:1.1)), afternoon light, (round eyewear), girl focus, golden hour lighting, ((close-up of sideboob)), sideboob visible, beautiful legs, breasts spilling, sexual, black wedge sandals, extremely detailed face, portrait, weight-shift, knee to side, sitting on couch, hugging own knee, both knees up, knees bend, random pose, pussy, crotch focus, slutty pose, cameltoe:0.9, low angle \n",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 9,
+        "modelIds": [],
+        "workflow": "img2img-facefix",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, compression artifacts, poorly drawn, low-resolution, bad, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, , Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), zPDXLxxx, maid, muscular, black dress, (dress cutout), panties, pubic hair, tied hair, hair decoration, (earrings), necklace, cross, necktie, (cleavage), silver dress, dark furniture, (bob hair), multiple characters , long dress, ceiling, black trimmed ",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "type": "embed",
             "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 287973
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 380277
+          },
+          {
+            "weight": 1.2,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 398847
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 472970
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "lora",
+            "weight": 1.2,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 398847
           },
           {
             "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.35,
-            "modelVersionId": 534952,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 626162,
-            "modelVersionName": "XL v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 641519,
-            "modelVersionName": "_3x3"
+            "modelVersionId": 436219
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 1025139,
-            "modelVersionName": "V1"
+            "modelVersionId": 472970
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 1.2,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "name": "urn:air:sdxl:lora:civitai:888231@398847",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:424512@472970",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "swjun79666",
+      "username": "egoform",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
+        287973,
         290640,
+        380277,
         382152,
         398847,
-        534952,
-        626162,
-        641519,
-        1025139
+        436219,
+        472970
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "946|1747019460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=946%7C1747019460000"
+    "nextCursor": "947|1720044744400",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=947%7C1720044744400"
   }
 }
