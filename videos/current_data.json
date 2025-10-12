@@ -1,142 +1,105 @@
 {
   "items": [
     {
-      "id": 75419919,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d7b3cae5-6ee3-4a86-ab4f-02fc694666d7/original=true/d7b3cae5-6ee3-4a86-ab4f-02fc694666d7.jpeg",
-      "hash": "ULKcLUAH_Kxu-.t7xZxu5-n$R6ayEMnieoNG",
+      "id": 18325694,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c2c3744-bc2f-40c5-8348-3a0c074e0200/original=true/6c2c3744-bc2f-40c5-8348-3a0c074e0200.jpeg",
+      "hash": "UEFg|6%~EyA@yGK8V{NMPp%Nj?-U.9o~M{s:",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-05-12T03:11:00.000Z",
-      "postId": 16749606,
+      "browsingLevel": 16,
+      "createdAt": "2024-07-03T22:12:24.400Z",
+      "postId": 4094428,
       "stats": {
-        "cryCount": 112,
-        "laughCount": 230,
-        "likeCount": 1754,
+        "cryCount": 85,
+        "laughCount": 175,
+        "likeCount": 1690,
         "dislikeCount": 0,
-        "heartCount": 855,
-        "commentCount": 1
+        "heartCount": 1002,
+        "commentCount": 0
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "steps": 21,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "rating_explicit, source_anime, score_9, score_8_up, score_7_up, Expressiveh,  18 year old girl, cute and sexy girl, innocent girl, petite, gray eyes, (bold black eyeliner:0.5), slender body, (petite body), sexy girl, romantic, intimate, (1girl, solo), (slim fit body), narrow hips, young adult, super-cute,\n\nasian girl, asian scene, asian background, BREAK.\n\n(red dress with golden pattern), China dress, (skinny girl), long legs, tanned skin, slim thighs, ((black  twin buns)), indoors, (living room), proper size furniture, (pubic curtain), in heat, lips parted, horny face, thick pouty lips, skinny girl with large breasts, (covered large breasts), relaxed breasts, (deflated breasts), (skindentation), (covered nipple outlines), covered nipples, head tilt, ((sideboob:1.1)), afternoon light, (round eyewear), girl focus, golden hour lighting, ((close-up of sideboob)), sideboob visible, beautiful legs, breasts spilling, sexual, black wedge sandals, extremely detailed face, portrait, weight-shift, knee to side, sitting on couch, hugging own knee, both knees up, knees bend, random pose, pussy, crotch focus, slutty pose, cameltoe:0.9, low angle \n",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 9,
-        "modelIds": [],
-        "workflow": "img2img-facefix",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, compression artifacts, poorly drawn, low-resolution, bad, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, , Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), zPDXLxxx, maid, muscular, black dress, (dress cutout), panties, pubic hair, tied hair, hair decoration, (earrings), necklace, cross, necktie, (cleavage), silver dress, dark furniture, (bob hair), multiple characters , long dress, ceiling, black trimmed ",
+        "Size": "832x1216",
+        "seed": 54969800,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, 1girl, blonde twintails, skimpy clothing, , tan skin, ultra detailed,  beautiful fit girl,  (young:1.5)\nexited, horny, blushing, \nsmall perky breasts, navel, topless, bare shoulders, freckles,  mountains, \nblowjob, chipmunking, dynamic angle,\npussy, dripping vagina, fingering, \n1man,  explorer,  cum dripping, twitching penis, cum dripping from pussy,\nnoises, sound effects, motion lines, action effects, \nhearts, floating hearts, post sex,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-07-03T2204:29.4261810Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, deformed hands",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 287973
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 380277
-          },
-          {
-            "weight": 1.2,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 398847
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 472970
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 382152
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 398847
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 472970
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 1.2,
-            "strengthClip": 1
+            "modelVersionId": 524172,
+            "modelVersionName": "Chipmunking v2.0 PonyXL"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:888231@398847",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:300005@436219",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:424512@472970",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "egoform",
+      "username": "Typhoon",
       "baseModel": "Pony",
       "modelVersionIds": [
-        287973,
+        9208,
+        244808,
         290640,
-        380277,
         382152,
         398847,
         436219,
-        472970
+        524172
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "947|1720044744400",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=947%7C1720044744400"
+    "nextCursor": "948|1738041171118",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=948%7C1738041171118"
   }
 }
