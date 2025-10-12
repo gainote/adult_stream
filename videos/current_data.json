@@ -1,74 +1,82 @@
 {
   "items": [
     {
-      "id": 87802606,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72aa2d95-60be-4a60-9a51-8cd19c94f303/original=true/72aa2d95-60be-4a60-9a51-8cd19c94f303.jpeg",
-      "hash": "UQFYJnxuI;xa~qxuWVs:R*t7xakCM{oKxuof",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 56799121,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ec08886-be6d-4d73-9740-b96871c92d58/original=true/5ec08886-be6d-4d73-9740-b96871c92d58.jpeg",
+      "hash": "UBAdcst7yFo$PXo}Mxt9EmNGR5V@v|xvxtjr",
+      "width": 1232,
+      "height": 2064,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-12T12:24:17.272Z",
-      "postId": 19478527,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-11T21:01:00.000Z",
+      "postId": 12716947,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 213,
-        "likeCount": 1863,
+        "cryCount": 99,
+        "laughCount": 242,
+        "likeCount": 1881,
         "dislikeCount": 0,
-        "heartCount": 778,
+        "heartCount": 735,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2243428370,
-        "Model": "realcartoonXL_v7",
-        "steps": 60,
+        "Size": "768x1280",
+        "seed": 695605009935195,
+        "Model": "waiNSFWIllustrious_v100.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
         "hashes": {
-          "model": "d766a0808d",
-          "lora:SLE_v2": "ae1fa9ce84e4",
-          "embed:lazyneg": "ba21023c70",
-          "embed:lazypos": "3086669265"
+          "model": "7e87327f89",
+          "lora:neba": "47f46b6490",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
         },
-        "prompt": "lazypos, photo-realistic, realistic skin, realistic textures, photorealistic, ultrarealistic, 8k, ((seductive pose in revealing outfit, explicit pose, erotic, intimate, arousing, lewd, vulgar, rating_explicit, rating_nsfw, explicit, nsfw)), impossible clothing, (sexy:1.5), (slender, lean, fit, athletic:1.5), medium breasts, (perfect body:1.5), A photo-realistic shoot from a side camera angle about a woman taking a selfie in a bedroom setting, wearing a white striped crop top and white panties. the image also shows a bed with a beige blanket and a nightstand with a drawer in the background. on the middle of the image, a 20-year-old woman, who appears to be in her mid-twenties, is standing with her back to the camera, looking at her phone with a neutral expression. she has long, dark brown hair tied back in a ponytail, and her eyes are closed. her body is toned and muscular, with a focus on her abs and toned thighs. she is wearing white panties and a white crop top, which is cropped to reveal her midriff. her expression is neutral, and she is holding her phone up to take the selfie. the lighting in the image is soft and natural, coming from the window behind her. 1girl, solo, phone, underwear, panties, cellphone, navel, rating:sensitive, shirt, black hair, holding phone, holding, smartphone, white panties, indoors, standing, striped shirt, striped clothes, looking at phone, realistic, selfie, nail polish, piercing, ponytail, feet out of frame, <lora:SLE_v2:1>",
-        "Version": "v1.10.1",
-        "sampler": "Euler a",
-        "cfgScale": 8,
-        "TI hashes": {
-          "lazyneg": "ba21023c7054",
-          "lazypos": "30866692653c"
-        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, high ponytail, heterochromia, red eyes, blue eyes, glowing eyes, eyebrows, eyelashes, latex, shiny reflections, slime \\(substance\\), (black slime:1.1), (tentacle sex:1.3), vaginal, (living clothes:1.3), (orgasm:1.1), pussy juice, (large insertion:1.2), many eyes, bound, tentacle in mouth, ahegao, indoors, bed, bedroom, city view through window, glass walls, dim ambient lighting, scattered clothes on bed, intimate atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:neba:0.85> <lora:spo_sdxl_10ep_4k-data_lora_webui:0.96> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
+        "clipSkip": 2,
         "resources": [
           {
-            "hash": "ae1fa9ce84e4",
-            "name": "SLE_v2",
+            "hash": "47f46b6490",
+            "name": "neba",
             "type": "lora",
-            "weight": 1
+            "weight": 0.85
           },
           {
-            "hash": "d766a0808d",
-            "name": "realcartoonXL_v7",
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 0.96
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "7e87327f89",
+            "name": "waiNSFWIllustrious_v100.safetensors",
             "type": "model"
           }
         ],
-        "Model hash": "d766a0808d",
-        "Schedule type": "Automatic",
-        "negativePrompt": "lazyneg, lowres, worst quality, bad anatomy, bad proportions, distorted hands, extra limbs, missing fingers, deformed, bad feet, duplicate limbs, poor lighting, background visible, simple background, ugly, deformed face, extra features",
-        "Denoising strength": "0.35"
+        "Model hash": "7e87327f89",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, suction cups,"
       },
-      "username": "bonkaiii187",
-      "baseModel": "SDXL 1.0",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        686204,
-        1557805,
-        1833157,
-        1860747
+        1348706,
+        1367422,
+        1284348,
+        567119
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "941|1739307660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=941%7C1739307660000"
+    "nextCursor": "942|1718541817442",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=942%7C1718541817442"
   }
 }
