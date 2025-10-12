@@ -1,75 +1,74 @@
 {
   "items": [
     {
-      "id": 30088489,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/847a3599-6cbb-4ad6-91ea-4cecd56adde7/original=true/847a3599-6cbb-4ad6-91ea-4cecd56adde7.jpeg",
-      "hash": "U5Aw6n00C8-o00~qD$x]DhS$^kIU?cR+EMxC",
+      "id": 87802606,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72aa2d95-60be-4a60-9a51-8cd19c94f303/original=true/72aa2d95-60be-4a60-9a51-8cd19c94f303.jpeg",
+      "hash": "UQFYJnxuI;xa~qxuWVs:R*t7xakCM{oKxuof",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-09-18T15:38:13.988Z",
-      "postId": 6732573,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-12T12:24:17.272Z",
+      "postId": 19478527,
       "stats": {
-        "cryCount": 94,
-        "laughCount": 161,
-        "likeCount": 1745,
+        "cryCount": 104,
+        "laughCount": 213,
+        "likeCount": 1863,
         "dislikeCount": 0,
-        "heartCount": 958,
-        "commentCount": 3
+        "heartCount": 778,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3556478990,
-        "steps": 27,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  1 girl , wet kawai girl, sexy,  sitting in water , blushing , horny, huge boobs, nipples , cleavage , in hotspring, ,naked, arms raised back, portrait",
+        "seed": 2243428370,
+        "Model": "realcartoonXL_v7",
+        "steps": 60,
+        "hashes": {
+          "model": "d766a0808d",
+          "lora:SLE_v2": "ae1fa9ce84e4",
+          "embed:lazyneg": "ba21023c70",
+          "embed:lazypos": "3086669265"
+        },
+        "prompt": "lazypos, photo-realistic, realistic skin, realistic textures, photorealistic, ultrarealistic, 8k, ((seductive pose in revealing outfit, explicit pose, erotic, intimate, arousing, lewd, vulgar, rating_explicit, rating_nsfw, explicit, nsfw)), impossible clothing, (sexy:1.5), (slender, lean, fit, athletic:1.5), medium breasts, (perfect body:1.5), A photo-realistic shoot from a side camera angle about a woman taking a selfie in a bedroom setting, wearing a white striped crop top and white panties. the image also shows a bed with a beige blanket and a nightstand with a drawer in the background. on the middle of the image, a 20-year-old woman, who appears to be in her mid-twenties, is standing with her back to the camera, looking at her phone with a neutral expression. she has long, dark brown hair tied back in a ponytail, and her eyes are closed. her body is toned and muscular, with a focus on her abs and toned thighs. she is wearing white panties and a white crop top, which is cropped to reveal her midriff. her expression is neutral, and she is holding her phone up to take the selfie. the lighting in the image is soft and natural, coming from the window behind her. 1girl, solo, phone, underwear, panties, cellphone, navel, rating:sensitive, shirt, black hair, holding phone, holding, smartphone, white panties, indoors, standing, striped shirt, striped clothes, looking at phone, realistic, selfie, nail polish, piercing, ponytail, feet out of frame, <lora:SLE_v2:1>",
+        "Version": "v1.10.1",
         "sampler": "Euler a",
-        "cfgScale": 6.5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-17T2017:16.0534811Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body",
-        "civitaiResources": [
+        "cfgScale": 8,
+        "TI hashes": {
+          "lazyneg": "ba21023c7054",
+          "lazypos": "30866692653c"
+        },
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
+            "hash": "ae1fa9ce84e4",
+            "name": "SLE_v2",
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "hash": "d766a0808d",
+            "name": "realcartoonXL_v7",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "d766a0808d",
+        "Schedule type": "Automatic",
+        "negativePrompt": "lazyneg, lowres, worst quality, bad anatomy, bad proportions, distorted hands, extra limbs, missing fingers, deformed, bad feet, duplicate limbs, poor lighting, background visible, simple background, ugly, deformed face, extra features",
+        "Denoising strength": "0.35"
       },
-      "username": "hornystoryteller",
-      "baseModel": "Pony",
+      "username": "bonkaiii187",
+      "baseModel": "SDXL 1.0",
       "modelVersionIds": [
-        290640,
-        436219
+        686204,
+        1557805,
+        1833157,
+        1860747
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "940|1752323057272",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=940%7C1752323057272"
+    "nextCursor": "941|1739307660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=941%7C1739307660000"
   }
 }
