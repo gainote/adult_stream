@@ -1,54 +1,124 @@
 {
   "items": [
     {
-      "id": 91901169,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e218badb-b567-40c2-a94d-d27db262e87f/original=true/e218badb-b567-40c2-a94d-d27db262e87f.jpeg",
-      "hash": "U89@t{rr118^M|OtIARi00u5;d-;*JMctQIA",
-      "width": 640,
-      "height": 1280,
-      "nsfwLevel": "Mature",
+      "id": 83795073,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/60c19c09-9364-4650-b081-c75b90d23171/original=true/60c19c09-9364-4650-b081-c75b90d23171.jpeg",
+      "hash": "U5F=Hz^j0MV@0000Eg~C.A-;^N9t00~B-pEL",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-02T08:42:46.310Z",
-      "postId": 20388030,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-22T07:14:00.000Z",
+      "postId": 18606201,
       "stats": {
-        "cryCount": 179,
-        "laughCount": 285,
-        "likeCount": 1784,
+        "cryCount": 104,
+        "laughCount": 205,
+        "likeCount": 1797,
         "dislikeCount": 0,
-        "heartCount": 710,
+        "heartCount": 852,
         "commentCount": 1
       },
       "meta": {
-        "seed": 1107218453,
-        "vaes": [
-          "uno/ae.safetensors"
-        ],
-        "comfy": "{\"prompt\": {\"5\": {\"inputs\": {\"width\": 640, \"height\": 1280, \"batch_size\": 1}, \"class_type\": \"EmptyLatentImage\", \"_meta\": {\"title\": \"Empty Latent Image\"}}, \"6\": {\"inputs\": {\"text\": \"masterpiece, nsfw, photorealistic image of a stunning oriental mage, short blue hair with undercut, mage hat, necklaces, earrings, filmy erotic see-through robes, no underwear, no bra, alluring, erotic, direct flirty gaze, holding a magical staff with a glowing jewel, cowboy shot, dutch angle, Perfect Composition, realistic photographic image, RAW photo highest quality, shes wearing round gold framed glasses , (side view:0.6),standing, posing, \", \"clip\": [\"27\", 1]}, \"class_type\": \"CLIPTextEncode\", \"_meta\": {\"title\": \"CLIP Text Encode (Prompt)\"}}, \"8\": {\"inputs\": {\"samples\": [\"13\", 0], \"vae\": [\"10\", 0]}, \"class_type\": \"VAEDecode\", \"_meta\": {\"title\": \"VAE Decode\"}}, \"9\": {\"inputs\": {\"filename_prefix\": \"ComfyUI\", \"images\": [\"8\", 0]}, \"class_type\": \"SaveImage\", \"_meta\": {\"title\": \"Save Image\"}}, \"10\": {\"inputs\": {\"vae_name\": \"uno/ae.safetensors\"}, \"class_type\": \"VAELoader\", \"_meta\": {\"title\": \"Load VAE\"}}, \"11\": {\"inputs\": {\"clip_name1\": \"t5xxl_fp8_e4m3fn.safetensors\", \"clip_name2\": \"clip_l.safetensors\", \"type\": \"flux\", \"device\": \"default\"}, \"class_type\": \"DualCLIPLoader\", \"_meta\": {\"title\": \"DualCLIPLoader\"}}, \"12\": {\"inputs\": {\"unet_name\": \"flux/flux1Dev8x8E4m3fn.Dkyf.safetensors\", \"weight_dtype\": \"default\"}, \"class_type\": \"UNETLoader\", \"_meta\": {\"title\": \"Load Diffusion Model\"}}, \"13\": {\"inputs\": {\"noise\": [\"25\", 0], \"guider\": [\"22\", 0], \"sampler\": [\"16\", 0], \"sigmas\": [\"17\", 0], \"latent_image\": [\"5\", 0]}, \"class_type\": \"SamplerCustomAdvanced\", \"_meta\": {\"title\": \"SamplerCustomAdvanced\"}}, \"16\": {\"inputs\": {\"sampler_name\": \"euler_ancestral\"}, \"class_type\": \"KSamplerSelect\", \"_meta\": {\"title\": \"KSamplerSelect\"}}, \"17\": {\"inputs\": {\"scheduler\": \"simple\", \"steps\": 15, \"denoise\": 1.0, \"model\": [\"12\", 0]}, \"class_type\": \"BasicScheduler\", \"_meta\": {\"title\": \"BasicScheduler\"}}, \"22\": {\"inputs\": {\"model\": [\"27\", 0], \"conditioning\": [\"6\", 0]}, \"class_type\": \"BasicGuider\", \"_meta\": {\"title\": \"BasicGuider\"}}, \"25\": {\"inputs\": {\"noise_seed\": 1107218453}, \"class_type\": \"RandomNoise\", \"_meta\": {\"title\": \"RandomNoise\"}}, \"27\": {\"inputs\": {\"PowerLoraLoaderHeaderWidget\": {\"type\": \"PowerLoraLoaderHeaderWidget\"}, \"lora_1\": {\"on\": true, \"lora\": \"flux/FLUX.1-Turbo-Alpha.safetensors\", \"strength\": 1}, \"lora_2\": {\"on\": false, \"lora\": \"flux/real/Flux_Improved_Female_Nudity_v2.safetensors\", \"strength\": 0.5}, \"lora_3\": {\"on\": true, \"lora\": \"flux/real/fantasy/MoriiMee_Gothic_Niji_Style_FLUX.safetensors\", \"strength\": 0.7}, \"lora_4\": {\"on\": false, \"lora\": \"flux/real/nipplediffusion-ghost-f1.safetensors\", \"strength\": 0.25}, \"lora_5\": {\"on\": false, \"lora\": \"flux/SexyLingerie_V2_FLUX.safetensors\", \"strength\": 1}, \"lora_6\": {\"on\": false, \"lora\": \"flux/Rawfully_0.2_for_Flux.safetensors\", \"strength\": 1}, \"lora_7\": {\"on\": false, \"lora\": \"flux/OpenBraFlux.1.0.safetensors\", \"strength\": 1}, \"lora_8\": {\"on\": false, \"lora\": \"flux/aidmaWomanBodyTattoo-FLUX-V0.1.safetensors\", \"strength\": 1}, \"lora_9\": {\"on\": false, \"lora\": \"flux/big-boobs-clothed-v2.safetensors\", \"strength\": 1}, \"lora_10\": {\"on\": false, \"lora\": \"flux/est3tic_lingerie_v1_FLUX-DEV.safetensors\", \"strength\": 1}, \"lora_11\": {\"on\": false, \"lora\": \"flux/real/FC Flux Perfect Busts.safetensors\", \"strength\": 1}, \"lora_12\": {\"on\": false, \"lora\": \"flux/real/fantasy/MoriiMee_Gothic_Niji_Style_FLUX.safetensors\", \"strength\": 1}, \"lora_13\": {\"on\": true, \"lora\": \"flux/flux_jill_2.safetensors\", \"strength\": 1.7}, \"\\u2795 Add Lora\": \"\", \"model\": [\"28\", 0], \"clip\": [\"28\", 1]}, \"class_type\": \"Power Lora Loader (rgthree)\", \"_meta\": {\"title\": \"Power Lora Loader (rgthree)\"}}, \"28\": {\"inputs\": {\"PowerLoraLoaderHeaderWidget\": {\"type\": \"PowerLoraLoaderHeaderWidget\"}, \"lora_1\": {\"on\": false, \"lora\": \"flux/real/FC Flux Perfect Busts.safetensors\", \"strength\": 1}, \"lora_2\": {\"on\": false, \"lora\": \"flux/flux_jill_2.safetensors\", \"strength\": 1}, \"\\u2795 Add Lora\": \"\", \"model\": [\"12\", 0], \"clip\": [\"11\", 0]}, \"class_type\": \"Power Lora Loader (rgthree)\", \"_meta\": {\"title\": \"Power Lora Loader (rgthree)\"}}, \"31\": {\"inputs\": {\"model_name\": \"4x_foolhardy_Remacri.pth\"}, \"class_type\": \"UpscaleModelLoader\", \"_meta\": {\"title\": \"Load Upscale Model\"}}, \"32\": {\"inputs\": {\"upscale_model\": [\"31\", 0], \"image\": [\"8\", 0]}, \"class_type\": \"ImageUpscaleWithModel\", \"_meta\": {\"title\": \"Upscale Image (using Model)\"}}, \"33\": {\"inputs\": {\"upscale_method\": \"lanczos\", \"scale_by\": 0.5, \"image\": [\"32\", 0]}, \"class_type\": \"ImageScaleBy\", \"_meta\": {\"title\": \"Half size\"}}, \"34\": {\"inputs\": {\"filename_prefix\": \"ComfyUI\", \"images\": [\"33\", 0]}, \"class_type\": \"SaveImage\", \"_meta\": {\"title\": \"Save Image\"}}}, \"workflow\": {\"id\": \"77615934-47bb-4bfa-8e5b-ba88cb0dd256\", \"revision\": 0, \"last_node_id\": 34, \"last_link_id\": 57, \"nodes\": [{\"id\": 10, \"type\": \"VAELoader\", \"pos\": [104, 809], \"size\": [315, 58], \"flags\": {}, \"order\": 0, \"mode\": 0, \"inputs\": [], \"outputs\": [{\"name\": \"VAE\", \"type\": \"VAE\", \"slot_index\": 0, \"links\": [12]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"VAELoader\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"uno/ae.safetensors\"]}, {\"id\": 11, \"type\": \"DualCLIPLoader\", \"pos\": [50.96212387084961, 631.14404296875], \"size\": [315, 130], \"flags\": {}, \"order\": 1, \"mode\": 0, \"inputs\": [], \"outputs\": [{\"name\": \"CLIP\", \"type\": \"CLIP\", \"slot_index\": 0, \"links\": [51]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"DualCLIPLoader\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"t5xxl_fp8_e4m3fn.safetensors\", \"clip_l.safetensors\", \"flux\", \"default\"]}, {\"id\": 16, \"type\": \"KSamplerSelect\", \"pos\": [100, 130], \"size\": [315, 58], \"flags\": {}, \"order\": 2, \"mode\": 0, \"inputs\": [], \"outputs\": [{\"name\": \"SAMPLER\", \"type\": \"SAMPLER\", \"links\": [19]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"KSamplerSelect\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"euler_ancestral\"]}, {\"id\": 28, \"type\": \"Power Lora Loader (rgthree)\", \"pos\": [545.5020141601562, 921.4922485351562], \"size\": [324.8211669921875, 166], \"flags\": {}, \"order\": 8, \"mode\": 0, \"inputs\": [{\"dir\": 3, \"name\": \"model\", \"type\": \"MODEL\", \"link\": 50}, {\"dir\": 3, \"name\": \"clip\", \"type\": \"CLIP\", \"link\": 51}], \"outputs\": [{\"dir\": 4, \"name\": \"MODEL\", \"shape\": 3, \"type\": \"MODEL\", \"links\": [52]}, {\"dir\": 4, \"name\": \"CLIP\", \"shape\": 3, \"type\": \"CLIP\", \"links\": [53]}], \"properties\": {\"cnr_id\": \"rgthree-comfy\", \"ver\": \"1.0.2507112302\", \"Show Strengths\": \"Single Strength\", \"widget_ue_connectable\": {}}, \"widgets_values\": [{}, {\"type\": \"PowerLoraLoaderHeaderWidget\"}, {\"on\": false, \"lora\": \"flux/real/FC Flux Perfect Busts.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/flux_jill_2.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {}, \"\"]}, {\"id\": 12, \"type\": \"UNETLoader\", \"pos\": [102.8766860961914, 467.1429443359375], \"size\": [315, 82], \"flags\": {}, \"order\": 3, \"mode\": 0, \"inputs\": [], \"outputs\": [{\"name\": \"MODEL\", \"type\": \"MODEL\", \"slot_index\": 0, \"links\": [38, 50]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"UNETLoader\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"flux/flux1Dev8x8E4m3fn.Dkyf.safetensors\", \"default\"]}, {\"id\": 33, \"type\": \"ImageScaleBy\", \"pos\": [2722.87548828125, 862.7077026367188], \"size\": [315, 82], \"flags\": {\"collapsed\": false}, \"order\": 16, \"mode\": 0, \"inputs\": [{\"name\": \"image\", \"type\": \"IMAGE\", \"link\": 55}], \"outputs\": [{\"name\": \"IMAGE\", \"type\": \"IMAGE\", \"slot_index\": 0, \"links\": [56]}], \"title\": \"Half size\", \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"ImageScaleBy\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"lanczos\", 0.5]}, {\"id\": 13, \"type\": \"SamplerCustomAdvanced\", \"pos\": [558.0587158203125, 538.8380126953125], \"size\": [355.20001220703125, 106], \"flags\": {\"collapsed\": false}, \"order\": 12, \"mode\": 0, \"inputs\": [{\"name\": \"noise\", \"type\": \"NOISE\", \"link\": 37}, {\"name\": \"guider\", \"type\": \"GUIDER\", \"link\": 30}, {\"name\": \"sampler\", \"type\": \"SAMPLER\", \"link\": 19}, {\"name\": \"sigmas\", \"type\": \"SIGMAS\", \"link\": 20}, {\"name\": \"latent_image\", \"type\": \"LATENT\", \"link\": 23}], \"outputs\": [{\"name\": \"output\", \"type\": \"LATENT\", \"slot_index\": 0, \"links\": [24]}, {\"name\": \"denoised_output\", \"type\": \"LATENT\", \"links\": null}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"SamplerCustomAdvanced\", \"widget_ue_connectable\": {}}, \"widgets_values\": []}, {\"id\": 8, \"type\": \"VAEDecode\", \"pos\": [555.5810546875, 745.37353515625], \"size\": [210, 46], \"flags\": {\"collapsed\": false}, \"order\": 13, \"mode\": 0, \"inputs\": [{\"name\": \"samples\", \"type\": \"LATENT\", \"link\": 24}, {\"name\": \"vae\", \"type\": \"VAE\", \"link\": 12}], \"outputs\": [{\"name\": \"IMAGE\", \"type\": \"IMAGE\", \"slot_index\": 0, \"links\": [9, 57]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"VAEDecode\", \"widget_ue_connectable\": {}}, \"widgets_values\": []}, {\"id\": 32, \"type\": \"ImageUpscaleWithModel\", \"pos\": [2666.6787109375, 1147.4259033203125], \"size\": [241.79998779296875, 46], \"flags\": {\"collapsed\": false}, \"order\": 15, \"mode\": 0, \"inputs\": [{\"name\": \"upscale_model\", \"type\": \"UPSCALE_MODEL\", \"link\": 54}, {\"name\": \"image\", \"type\": \"IMAGE\", \"link\": 57}], \"outputs\": [{\"name\": \"IMAGE\", \"type\": \"IMAGE\", \"slot_index\": 0, \"links\": [55]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"ImageUpscaleWithModel\", \"widget_ue_connectable\": {}}, \"widgets_values\": []}, {\"id\": 34, \"type\": \"SaveImage\", \"pos\": [3401.766845703125, 511.8451843261719], \"size\": [1625.4693603515625, 1933.6580810546875], \"flags\": {}, \"order\": 17, \"mode\": 0, \"inputs\": [{\"name\": \"images\", \"type\": \"IMAGE\", \"link\": 56}], \"outputs\": [], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"SaveImage\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"ComfyUI\"]}, {\"id\": 31, \"type\": \"UpscaleModelLoader\", \"pos\": [2409.806640625, 1284.0494384765625], \"size\": [315, 58], \"flags\": {\"collapsed\": false}, \"order\": 4, \"mode\": 0, \"inputs\": [], \"outputs\": [{\"name\": \"UPSCALE_MODEL\", \"type\": \"UPSCALE_MODEL\", \"slot_index\": 0, \"links\": [54]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"UpscaleModelLoader\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"4x_foolhardy_Remacri.pth\"]}, {\"id\": 9, \"type\": \"SaveImage\", \"pos\": [1845.3741455078125, -414.7165222167969], \"size\": [985.3012084960938, 1060.3828125], \"flags\": {}, \"order\": 14, \"mode\": 0, \"inputs\": [{\"name\": \"images\", \"type\": \"IMAGE\", \"link\": 9}], \"outputs\": [], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"SaveImage\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"ComfyUI\"]}, {\"id\": 25, \"type\": \"RandomNoise\", \"pos\": [100, 295], \"size\": [315, 82], \"flags\": {}, \"order\": 5, \"mode\": 0, \"inputs\": [], \"outputs\": [{\"name\": \"NOISE\", \"type\": \"NOISE\", \"links\": [37]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"RandomNoise\", \"widget_ue_connectable\": {}}, \"widgets_values\": [1107218453, \"fixed\"]}, {\"id\": 27, \"type\": \"Power Lora Loader (rgthree)\", \"pos\": [910.4041137695312, 746.8524780273438], \"size\": [324.8211669921875, 430], \"flags\": {}, \"order\": 9, \"mode\": 0, \"inputs\": [{\"dir\": 3, \"name\": \"model\", \"type\": \"MODEL\", \"link\": 52}, {\"dir\": 3, \"name\": \"clip\", \"type\": \"CLIP\", \"link\": 53}], \"outputs\": [{\"dir\": 4, \"name\": \"MODEL\", \"shape\": 3, \"type\": \"MODEL\", \"links\": [49]}, {\"dir\": 4, \"name\": \"CLIP\", \"shape\": 3, \"type\": \"CLIP\", \"links\": [47]}], \"properties\": {\"cnr_id\": \"rgthree-comfy\", \"ver\": \"1.0.2507112302\", \"Show Strengths\": \"Single Strength\", \"widget_ue_connectable\": {}}, \"widgets_values\": [{}, {\"type\": \"PowerLoraLoaderHeaderWidget\"}, {\"on\": true, \"lora\": \"flux/FLUX.1-Turbo-Alpha.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/real/Flux_Improved_Female_Nudity_v2.safetensors\", \"strength\": 0.5, \"strengthTwo\": null}, {\"on\": true, \"lora\": \"flux/real/fantasy/MoriiMee_Gothic_Niji_Style_FLUX.safetensors\", \"strength\": 0.7, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/real/nipplediffusion-ghost-f1.safetensors\", \"strength\": 0.25, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/SexyLingerie_V2_FLUX.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/Rawfully_0.2_for_Flux.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/OpenBraFlux.1.0.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/aidmaWomanBodyTattoo-FLUX-V0.1.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/big-boobs-clothed-v2.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/est3tic_lingerie_v1_FLUX-DEV.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/real/FC Flux Perfect Busts.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": false, \"lora\": \"flux/real/fantasy/MoriiMee_Gothic_Niji_Style_FLUX.safetensors\", \"strength\": 1, \"strengthTwo\": null}, {\"on\": true, \"lora\": \"flux/flux_jill_2.safetensors\", \"strength\": 1.7, \"strengthTwo\": null}, {}, \"\"]}, {\"id\": 22, \"type\": \"BasicGuider\", \"pos\": [1058.7952880859375, 250.2239990234375], \"size\": [241.79998779296875, 46], \"flags\": {\"collapsed\": false}, \"order\": 11, \"mode\": 0, \"inputs\": [{\"name\": \"model\", \"type\": \"MODEL\", \"link\": 49}, {\"name\": \"conditioning\", \"type\": \"CONDITIONING\", \"link\": 40}], \"outputs\": [{\"name\": \"GUIDER\", \"type\": \"GUIDER\", \"slot_index\": 0, \"links\": [30]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"BasicGuider\", \"widget_ue_connectable\": {}}, \"widgets_values\": []}, {\"id\": 6, \"type\": \"CLIPTextEncode\", \"pos\": [739.3275146484375, -259.9771423339844], \"size\": [442.2394104003906, 249.0358428955078], \"flags\": {}, \"order\": 10, \"mode\": 0, \"inputs\": [{\"name\": \"clip\", \"type\": \"CLIP\", \"link\": 47}], \"outputs\": [{\"name\": \"CONDITIONING\", \"type\": \"CONDITIONING\", \"slot_index\": 0, \"links\": [40]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"CLIPTextEncode\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"masterpiece, nsfw, photorealistic image of a stunning oriental mage, short blue hair with undercut, mage hat, necklaces, earrings, filmy erotic see-through robes, no underwear, no bra, alluring, erotic, direct flirty gaze, holding a magical staff with a glowing jewel, cowboy shot, dutch angle, Perfect Composition, realistic photographic image, RAW photo highest quality, shes wearing round gold framed glasses , (side view:0.6),standing, posing, \"]}, {\"id\": 5, \"type\": \"EmptyLatentImage\", \"pos\": [519, 361], \"size\": [315, 106], \"flags\": {}, \"order\": 6, \"mode\": 0, \"inputs\": [], \"outputs\": [{\"name\": \"LATENT\", \"type\": \"LATENT\", \"slot_index\": 0, \"links\": [23]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"EmptyLatentImage\", \"widget_ue_connectable\": {}}, \"widgets_values\": [640, 1280, 1]}, {\"id\": 17, \"type\": \"BasicScheduler\", \"pos\": [525.20703125, 102.16110229492188], \"size\": [315, 106], \"flags\": {}, \"order\": 7, \"mode\": 0, \"inputs\": [{\"name\": \"model\", \"type\": \"MODEL\", \"link\": 38}], \"outputs\": [{\"name\": \"SIGMAS\", \"type\": \"SIGMAS\", \"links\": [20]}], \"properties\": {\"cnr_id\": \"comfy-core\", \"ver\": \"0.3.42\", \"Node name for S&R\": \"BasicScheduler\", \"widget_ue_connectable\": {}}, \"widgets_values\": [\"simple\", 15, 1]}], \"links\": [[9, 8, 0, 9, 0, \"IMAGE\"], [12, 10, 0, 8, 1, \"VAE\"], [19, 16, 0, 13, 2, \"SAMPLER\"], [20, 17, 0, 13, 3, \"SIGMAS\"], [23, 5, 0, 13, 4, \"LATENT\"], [24, 13, 0, 8, 0, \"LATENT\"], [30, 22, 0, 13, 1, \"GUIDER\"], [37, 25, 0, 13, 0, \"NOISE\"], [38, 12, 0, 17, 0, \"MODEL\"], [40, 6, 0, 22, 1, \"CONDITIONING\"], [47, 27, 1, 6, 0, \"CLIP\"], [49, 27, 0, 22, 0, \"MODEL\"], [50, 12, 0, 28, 0, \"MODEL\"], [51, 11, 0, 28, 1, \"CLIP\"], [52, 28, 0, 27, 0, \"MODEL\"], [53, 28, 1, 27, 1, \"CLIP\"], [54, 31, 0, 32, 0, \"UPSCALE_MODEL\"], [55, 32, 0, 33, 0, \"IMAGE\"], [56, 33, 0, 34, 0, \"IMAGE\"], [57, 8, 0, 32, 1, \"IMAGE\"]], \"groups\": [], \"config\": {}, \"extra\": {\"ds\": {\"scale\": 0.8906049985822486, \"offset\": [256.85704886813136, 423.5630590885391]}, \"ue_links\": [], \"links_added_by_ue\": [], \"frontendVersion\": \"1.23.4\", \"VHS_latentpreview\": false, \"VHS_latentpreviewrate\": 0, \"VHS_MetadataImage\": true, \"VHS_KeepIntermediate\": true}, \"version\": 0.4, \"widget_idx_map\": {\"16\": {\"sampler_name\": 0}, \"17\": {\"scheduler\": 0}, \"25\": {\"noise_seed\": 0}}, \"seed_widgets\": {\"25\": 0}}}",
-        "steps": 15,
-        "width": 640,
-        "height": 1280,
+        "nsfw": false,
+        "seed": 1770049944,
+        "vaes": [],
+        "draft": false,
+        "extra": {},
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
         "models": [],
-        "prompt": "masterpiece, nsfw, photorealistic image of a stunning oriental mage, short blue hair with undercut, mage hat, necklaces, earrings, filmy erotic see-through robes, no underwear, no bra, alluring, erotic, direct flirty gaze, holding a magical staff with a glowing jewel, cowboy shot, dutch angle, Perfect Composition, realistic photographic image, RAW photo highest quality, shes wearing round gold framed glasses , (side view:0.6),standing, posing, ",
-        "denoise": 1,
-        "sampler": "Euler a",
+        "prompt": "score_9, score_8_up, score_7_up, award-winning masterpiece, RAW editorial photo, fair skinned woman, feminine features,  light blonde hair, hair in braids, thin body, green eyes, eyes in light, big eyes, solo portrait in a dark cinematic fine-art style, nude, breasts, sitting, both legs up, (aroused:1.4), eyes half closed, pleasure,on pink sofa, legs spread, vagina exposed, wet vagina, textured pink soft cushions,  bookcase with books in background, vase with pink flowers in background, pink flowers, pink and  green walls, many flowers in vases, cute lace white socks very girly, relaxed yet intense expression, hands behind back, posing sweet, hands hidden, high-quality image, ultra-detailed realism, contours emphasized on face and body, soft highlights blended with deep shadows, ",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
         "modelIds": [],
-        "scheduler": "simple",
+        "quantity": 6,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "upscalers": [
-          "4x_foolhardy_Remacri.pth"
+          "urn:air:other:upscaler:civitai:147759@164821"
         ],
+        "disablePoi": true,
         "versionIds": [],
         "controlNets": [],
+        "experimental": false,
+        "openAIQuality": "medium",
+        "negativePrompt": "score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, deformed hands, blurry, bad quality, low quality,",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1838857
+          },
+          {
+            "weight": 1.1,
+            "modelVersionId": 1242203
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 1260971
+          },
+          {
+            "weight": -1.7,
+            "modelVersionId": 1386847
+          },
+          {
+            "weight": 2.8,
+            "modelVersionId": 1430143
+          },
+          {
+            "weight": 2.35,
+            "modelVersionId": 1506035
+          },
+          {
+            "weight": 0.95,
+            "modelVersionId": 1594293
+          },
+          {
+            "weight": 2.45,
+            "modelVersionId": 1681921
+          },
+          {
+            "weight": 3.9,
+            "modelVersionId": 1926656
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1926995
+          },
+          {
+            "weight": 2.65,
+            "modelVersionId": 1681903
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ],
         "additionalResources": []
       },
-      "username": "SnooPineapples5892139",
-      "baseModel": "",
-      "modelVersionIds": []
+      "username": "klaabu",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        164821,
+        1242203,
+        1260971,
+        1386847,
+        1430143,
+        1506035,
+        1594293,
+        1681903,
+        1681921,
+        1838857,
+        1926656,
+        1926995
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "938|1750576440000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=938%7C1750576440000"
+    "nextCursor": "939|1726673893988",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=939%7C1726673893988"
   }
 }
