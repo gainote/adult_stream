@@ -1,60 +1,106 @@
 {
   "items": [
     {
-      "id": 66964345,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/291a196f-d6a5-4bf2-86d4-8a0ad2b0da6d/original=true/291a196f-d6a5-4bf2-86d4-8a0ad2b0da6d.jpeg",
-      "hash": "UQL:f#|2XW-CF5#St8s.4nx[-TW.kXVsWCR,",
+      "id": 36536055,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/32e6328f-32bb-4a31-81c6-453fa50fea22/original=true/32e6328f-32bb-4a31-81c6-453fa50fea22.jpeg",
+      "hash": "UHGsovx@-.=x}@xZxtsTxtM|J7Vt-VV[W=V[",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-04-02T07:05:00.000Z",
-      "postId": 14896425,
+      "createdAt": "2024-10-25T23:32:00.000Z",
+      "postId": 8345184,
       "stats": {
-        "cryCount": 119,
-        "laughCount": 243,
-        "likeCount": 1753,
+        "cryCount": 111,
+        "laughCount": 224,
+        "likeCount": 1710,
         "dislikeCount": 0,
-        "heartCount": 820,
-        "commentCount": 0
+        "heartCount": 890,
+        "commentCount": 10
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1433787822,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "(Opening:0.0), score_9, score_8_up, masterpiece, best quality, erotic tease, absurdres, high detailed, 1girl, 18yo, short bob hair, short hair, (((black hair over eyes))),large breasts, blush, full lips, riding cock, having sex, looking at viewer, (Pose:0.0), arched back, breast press, grabbing breast, skindentation, masturbating, squirt, excessive pussy juice, (Scene:0.0), pink glow behind, lit from side, colorful, soft pastel gradient",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
+        "seed": 1403669757,
+        "extra": {
+          "remixOfId": 35710731
+        },
+        "steps": 29,
+        "prompt": "Expressiveh, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, godrays, 1girl, Ariel from the little mermaid, on the beach, sexy pose, revealing outfit, hot, sweat, large breasts, dynamic angle, blush, looking up, leaning forward, licking cock, runny makeup, face focus, closeup, nail polish, precum, saliva dripping, from side, handjob",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-03-31T0152:25.3728486Z",
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad eyes, bad teeth, long body, blurry,",
+        "Created Date": "2024-10-25T1900:28.7768063Z",
+        "negativePrompt": "easynegative, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female, mixed characters",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1478064,
-            "modelVersionName": "v8.5"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "someperson358",
+      "username": "NeoCortex",
       "baseModel": "Pony",
       "modelVersionIds": [
-        1478064
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "962|1729899120000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=962%7C1729899120000"
+    "nextCursor": "963|1743966200333",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=963%7C1743966200333"
   }
 }
