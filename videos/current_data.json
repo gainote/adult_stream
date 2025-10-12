@@ -1,78 +1,128 @@
 {
   "items": [
     {
-      "id": 28771553,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a364a730-48c4-451b-ac9f-83f2fb93e649/original=true/a364a730-48c4-451b-ac9f-83f2fb93e649.jpeg",
-      "hash": "UQNm7-n4.TRPIpM{IAMxS$a0r?og?v%MxuNa",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
+      "id": 53841184,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/446f3080-46eb-4a7b-a0e6-236b5cf62182/original=true/446f3080-46eb-4a7b-a0e6-236b5cf62182.jpeg",
+      "hash": "UNIDRL~W7fI;cE^+-VOr5+tR$*WB-WNakWrr",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-09-11T02:33:27.802Z",
-      "postId": 6436447,
+      "browsingLevel": 4,
+      "createdAt": "2025-01-25T16:23:49.988Z",
+      "postId": 12082823,
       "stats": {
-        "cryCount": 78,
-        "laughCount": 241,
-        "likeCount": 1636,
+        "cryCount": 75,
+        "laughCount": 179,
+        "likeCount": 1803,
         "dislikeCount": 0,
-        "heartCount": 973,
+        "heartCount": 871,
         "commentCount": 0
       },
       "meta": {
-        "": {},
-        "Size": "1248x1824",
-        "seed": 1709835906,
-        "Model": "prefect_pony_xl_v3.fp16",
-        "steps": 20,
-        "hashes": {
-          "model": "e31a2563f0"
-        },
-        "prompt": "score_9,score_8_up,score_7_up, 1girl, modeus (helltaker), ass visible through thighs, black horns, breasts, completely nude, demon girl, demon horns, demon tail, futanari, heart, heart-shaped pupils, horns, looking at viewer, medium breasts, medium hair, navel, nude, penetration gesture, penis, red eyes, short hair, simple background, smile, solo, standing, stomach, symbol-shaped pupils, tail, thigh gap, thighs, uncensored, white background",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ 2M",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
-        "resources": [
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 452552320,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, good quality, newest, highres, absurdres, volumetric lighting,gradient color,\nBREAK \nraytracing, volumetric lighting, ambient occlusion, girl, luminescent background, masterpiece, best quality, very awa, absurdres, \nBREAK\nAka-Oni, oni, colored skin, (red skin:1.3), straight horns, solo, long hair, model style,\nevil eyes, evil, bullying, sinister, \nBREAK\nmasterpiece,amazing quality,best quality,ultra-detailed,8K,illustration,CG,shiny hair,clear skin,ultra-detailed-eyes,background,cute girl, eyelashes\nBREAK,\n (hypersexual, absurd proportions, highly detailed features, sexualized:1.1), (tight outfit, skin indentation, skindentation:1.3), skinny waist, wide hips,( elegant legs pointed towards viewer, feet close to viewer, feet focus, focused on feet, extreme close-up:1.3), (living room, suede couch, windows, window sills, detailed background:1.3) seductive. Cute summer dress, long dress, floral design on dress, blonde pubic hair, white panties, underwear, no bra, barefoot",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-01-25T1618:48.2391779Z",
+        "negativePrompt": "lowres, (worst quality,bad quality,low quality:1.2), bad anatomy, old, moon behind character,",
+        "civitaiResources": [
           {
-            "hash": "e31a2563f0",
-            "name": "prefect_pony_xl_v3.fp16",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1283437,
+            "modelVersionName": "v9.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 145907,
+            "modelVersionName": "v3.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 959419,
+            "modelVersionName": "SDXL_Illustrious-XL"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1240413,
+            "modelVersionName": "v6_noobEv1.1"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1268447,
+            "modelVersionName": "v1.1 [noobai-v-pred-1]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1032397,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.6,
+            "modelVersionId": 1267486,
+            "modelVersionName": "v5.311P[Illustrious v0.1]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1225664,
+            "modelVersionName": "V5.2 - Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1308598,
+            "modelVersionName": "nb_ep11 v0.138"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "e31a2563f0",
-        "Tile Overlap": "48",
-        "Schedule type": "Karras",
-        "Upscale factor": "1.5",
-        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
-        "ADetailer model": "face_yolov8n.pt",
-        "Keep input size": "true}",
-        "Tile batch size": "6",
-        "Tile tile width": "160",
-        "Tiled Diffusion": {},
-        "Tile tile height": "160",
-        "ADetailer version": "24.8.0",
-        "Denoising strength": "0.2",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Tiled Diffusion upscaler": "4x-UltraSharp",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "Tiled Diffusion scale factor": "1.5",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Pony",
+      "username": "BeeZ333",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        828380
+        145907,
+        959419,
+        1032397,
+        1225664,
+        1240413,
+        1267486,
+        1268447,
+        1283437,
+        1308598
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "966|1737822229988",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=966%7C1737822229988"
+    "nextCursor": "967|1737957660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=967%7C1737957660000"
   }
 }
