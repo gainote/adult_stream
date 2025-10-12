@@ -1,41 +1,65 @@
 {
   "items": [
     {
-      "id": 75794316,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b48dcd5a-f912-4272-b0f5-c9dd6b7339a3/original=true/b48dcd5a-f912-4272-b0f5-c9dd6b7339a3.jpeg",
-      "hash": "U6HdjX~V014.0fs:0eS300IooI-:^+o}^*M{",
-      "width": 1280,
-      "height": 1856,
+      "id": 103024044,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9f7b86ce-7b4b-44aa-8714-e4d31f430913/original=true/9f7b86ce-7b4b-44aa-8714-e4d31f430913.jpeg",
+      "hash": "U8DG__1vM{=J}FJ-EL$50|,@1Hn%BT#.=fJ6",
+      "width": 2048,
+      "height": 3072,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-05-13T00:37:00.000Z",
-      "postId": 16829892,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-29T02:05:00.000Z",
+      "postId": 22856927,
       "stats": {
-        "cryCount": 107,
-        "laughCount": 187,
-        "likeCount": 1768,
+        "cryCount": 111,
+        "laughCount": 191,
+        "likeCount": 1808,
         "dislikeCount": 0,
-        "heartCount": 877,
+        "heartCount": 826,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "Size": "1024x1536",
+        "seed": 1028755399624435,
+        "Model": "ramthrustsNSFWPINK_alchemyMix169",
+        "steps": 25,
+        "prompt": ",1girl, elysia \\(honkai impact\\), Masterpiece, amazing quality, catgirlstyle, colored lineart, solo, dynamic pose, vibrant colors, cinematic position, pink hair, pointy ears, topless, sheer robe, nipple slip, thighs spread, pussy peek, panties aside, erotic pose, red lighting, bedroom eyes, lingerie falling off, sultry smile, highly detailed, realistic shading, high contrast, backlighting, bokeh, volumetric lighting, depth of field, spread legs, breasts, underwear, breasts apart, lace, presenting, black garter belt, looking at viewer, hair down, pussy juice stain, uncensored, no bra, bedroom, lace panties, large areolae, lace trim, nipples, smile, panties, lace-trimmed legwear, thighhighs, pussy, clothing aside, messy hair, blue eyes, blurry, long bangs, kneeling, come hither, light particles, best quality",
+        "Version": "ComfyUI",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "negativePrompt": "(bad quality:1.1),(worst quality:1.1),bad details, (bad hands:1.2), artist name, patreon username, signature, name, logo, cross, child, loli, aged down, realistic, blush stickers, female ejaculation",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1892573
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 2255398
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1570070
+          }
+        ]
+      },
+      "username": "Below_average_enjoyer",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        372639,
-        1009096,
-        1412563,
-        1490781
+        1570070,
+        1892573,
+        2255398
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "956|1759111500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=956%7C1759111500000"
+    "nextCursor": "957|1750638060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=957%7C1750638060000"
   }
 }
