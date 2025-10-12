@@ -1,87 +1,195 @@
 {
   "items": [
     {
-      "id": 34931655,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b75ea7b8-b4da-4fc4-a6a2-99497fa01dc9/original=true/b75ea7b8-b4da-4fc4-a6a2-99497fa01dc9.jpeg",
-      "hash": "UfO{,R-;%gxZ?^kD-;IUE,t7nhRjibs:s.IU",
-      "width": 1248,
-      "height": 1824,
+      "id": 84791653,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a74bda1b-c528-4d4b-a7c3-c65590909332/original=true/a74bda1b-c528-4d4b-a7c3-c65590909332.jpeg",
+      "hash": "U99?tO570f~C$yE2t6=xE2xa%1I:ozt7NHR,",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2024-10-16T16:35:11.443Z",
-      "postId": 7983645,
+      "createdAt": "2025-06-27T07:02:00.000Z",
+      "postId": 18823630,
       "stats": {
-        "cryCount": 111,
-        "laughCount": 247,
-        "likeCount": 1664,
+        "cryCount": 77,
+        "laughCount": 175,
+        "likeCount": 1796,
         "dislikeCount": 0,
-        "heartCount": 922,
-        "commentCount": 32
+        "heartCount": 892,
+        "commentCount": 0
       },
       "meta": {
-        "": {},
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "1248x1824",
-        "seed": 2081279144,
-        "Model": "prefect_pony_xl_v2.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "517caf19d7",
-          "lora:thong_over_anus_pdxl_goofy": "086cf8e73d17"
-        },
-        "prompt": "score_9,score_8_up,score_7_up, <lora:thong_over_anus_pdxl_goofy:1> thong over anus, ass focus, 1girl, anus, stocking (psg), striped, solo, anus peek, huge ass, ass, thong, multicolored hair, striped thighhighs, looking at viewer, thighhighs, panties, black hair, long hair, underwear, pubic hair, white background, striped panties, female pubic hair, bangs, simple background, looking back, hair bow, bow, thighs, pink hair, blunt bangs, blue eyes, g-string",
-        "Version": "v1.10.1",
+        "seed": 1745473446,
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:296576@333245"
+        ],
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": ", 1girl, solo,  brunette hair, (freckles:1.5), updo, elegant hairdo, pearl necklace, hair pin, flowing dress dark blue fabric, see-through silhouette, simple background, dark background, rim light , natural breasts, side view, bending, lean sideways, round butt, (hanging breasts, breast focus:1.1), puffy nipples, breasts covered,  lean sideways, sexy pose, dynamic pose, (smug, raise eyebrow:1.1), glance at viewer\n\nmasterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k,( light particles:1.4), nsfw, ",
+        "denoise": 0.3,
+        "process": "img2img",
         "sampler": "DPM++ 2M",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
-        "resources": [
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/50ZGYGCGWJVSSFNDHY4CA08M70.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
+        "civitaiResources": [
           {
-            "hash": "086cf8e73d17",
-            "name": "thong_over_anus_pdxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "weight": 1,
+            "modelVersionId": 1240288
           },
           {
-            "hash": "517caf19d7",
-            "name": "prefect_pony_xl_v2.fp16",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 1864838
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1280045
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          },
+          {
+            "weight": 1.95,
+            "modelVersionId": 1726985
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 333245
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1864838
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1280045
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          },
+          {
+            "type": "lora",
+            "weight": 1.95,
+            "modelVersionId": 1726985
           }
         ],
-        "Model hash": "517caf19d7",
-        "Tile Overlap": "48",
-        "Schedule type": "Karras",
-        "Upscale factor": "1.5",
-        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
-        "ADetailer model": "face_yolov8n.pt",
-        "Keep input size": "true}",
-        "Tile batch size": "6",
-        "Tile tile width": "160",
-        "Tiled Diffusion": {},
-        "Tile tile height": "160",
-        "ADetailer version": "24.8.0",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Tiled Diffusion upscaler": "4x-UltraSharp",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "Tiled Diffusion scale factor": "1.5",
-        "ADetailer inpaint only masked": "True"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1647387@1864838",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:120723@145907",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
+            "type": "lora",
+            "strength": 1.95,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Pony",
+      "username": "DrPeeHands",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        686553
+        145907,
+        164821,
+        333245,
+        1189052,
+        1240288,
+        1280045,
+        1416874,
+        1726985,
+        1864838
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "953|1751007720000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=953%7C1751007720000"
+    "nextCursor": "954|1757796000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=954%7C1757796000000"
   }
 }
