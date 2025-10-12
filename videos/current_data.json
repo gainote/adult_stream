@@ -1,80 +1,113 @@
 {
   "items": [
     {
-      "id": 89312714,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb7fe0dd-3575-4706-af7b-c0bb175c00ec/original=true/eb7fe0dd-3575-4706-af7b-c0bb175c00ec.jpeg",
-      "hash": "UIK0Tu4:00^j0exa%2v}000L?H?u_NIoIVOs",
-      "width": 1024,
-      "height": 1024,
+      "id": 58837638,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c47fc061-2e85-4b4d-9e23-d2e4a813fd3d/original=true/c47fc061-2e85-4b4d-9e23-d2e4a813fd3d.jpeg",
+      "hash": "UEEob^Dj01%M~pD*ad%2NwR*IUoMRkt6RikC",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-21T00:10:00.000Z",
-      "postId": 19812257,
+      "createdAt": "2025-02-20T08:11:00.000Z",
+      "postId": 13163949,
       "stats": {
-        "cryCount": 109,
-        "laughCount": 225,
-        "likeCount": 1796,
+        "cryCount": 94,
+        "laughCount": 204,
+        "likeCount": 1758,
         "dislikeCount": 0,
-        "heartCount": 814,
-        "commentCount": 0
+        "heartCount": 889,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "1024x1024",
-        "seed": 1371369782,
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 705541775,
         "draft": false,
-        "extra": {
-          "remixOfId": 88413037
-        },
-        "steps": 15,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, ultra detailed eyes, elaborate background, realistic,  shiny hair,shiny skin, dynamic angle,\n1girl, solo,sweating,  wet skin,\nPlump Anal,No panties,\nAnal show off,beautiful anus,\nShort and petite ,\nWaist-reaching blonde twin-tails (long hair tied with black ribbons),\nLarge dark blue eyes,\n black ribbon,\nFeisty and cute, with a devilish smile\nPanties partially removed,Uncensored,\nChinese clothing,Chinese restaurant,",
-        "process": "txt2img",
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, realistic, photorealistic, hyperrealistic, rating_explicit, uncensored, 1girl 35 year old, milf, auburn hair, braid, (blue eyes), perky breasts, bubble butt, adorable face, innocent, young, cute, kawaii, tiny waist, narrow hips, skinny, petite, (blush:0.5), stand, standing, (((full body))),\nindoors, kitchen,\n(((long dress, conservative clothing, long skirt, long sleeves, shoulders covered, apron))), ashamed, embarrassed, naughty smile, \nphone exposure, phone pov, pov holding a phone, white male hand, (close phone:2), (close screen:2),\n(on the phone screen character: ((missionary sex)), vaginal sex, looking camera, open eyes, beautiful eyes, beautiful nose, lips, slutty, half open mouth, perky breasts, elbows, legs spread, nsfw)",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 2.5,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 1,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-07-20T0342:06.2680314Z",
-        "experimental": false,
-        "negativePrompt": "ugly, disfigured, poorly drawn face, malformed hands, mutated hands, poorly drawn hands, mutated hands and fingers, bad hands, missing fingers, fused fingers, too many fingers, text, worst quality, bad quality, worst detail, sketch, jpeg artifacts, 3d, (censor), monochrome, blurry, lowres, loli, simple background, white background, logo, watermark, mosaic,inserted into the anus,",
+        "Created Date": "2025-02-10T1903:45.2993773Z",
+        "negativePrompt": "score_6, score_5, score_4, censored, chibi, 3d, photo, monochrome, elven ears, anime, huge breasts, big breasts, too many fingers, 6 fingers, 7 fingers, ahegao, (extra fingers), text, logo, watermark, trans, femboy, white collar, bowtie, face cracks, see-through dress",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
+            "modelVersionId": 770375,
+            "modelVersionName": "MeichiDarkAnimV2_Lust"
           },
           {
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1041204,
-            "modelVersionName": "xmc v0.3"
+            "weight": 1,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight [M]"
           },
           {
             "type": "lora",
-            "weight": 1.5,
-            "modelVersionId": 1116960,
-            "modelVersionName": "v1.0 [Illustrious]"
+            "weight": 0.55,
+            "modelVersionId": 378950,
+            "modelVersionName": "Pony V2.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 380277,
+            "modelVersionName": "XXX Rating"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 518136,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "arriel0911195",
-      "baseModel": "Illustrious",
+      "username": "w552",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1041204,
-        1116960,
-        1761560
+        330475,
+        378950,
+        380277,
+        382152,
+        518136,
+        770375
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "950|1740039060000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=950%7C1740039060000"
+    "nextCursor": "951|1749569100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=951%7C1749569100000"
   }
 }
