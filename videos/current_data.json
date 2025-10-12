@@ -1,179 +1,42 @@
 {
   "items": [
     {
-      "id": 85420748,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dda6db46-6359-4e89-9a71-2c7b9ff55be9/original=true/dda6db46-6359-4e89-9a71-2c7b9ff55be9.jpeg",
-      "hash": "U3B.$I}s000z00%2GG5QzoxF^*oe_NNG4:Nd",
+      "id": 84451916,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6573c22-f843-42f7-9983-77f85d67e61c/original=true/d6573c22-f843-42f7-9983-77f85d67e61c.jpeg",
+      "hash": "UBGkwh~p000M0LE24.xtM^-o$*9v59e,$yM}",
       "width": 1280,
       "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-06-30T10:48:00.000Z",
-      "postId": 18958517,
+      "createdAt": "2025-06-26T00:37:00.000Z",
+      "postId": 18746367,
       "stats": {
-        "cryCount": 91,
-        "laughCount": 195,
-        "likeCount": 1775,
+        "cryCount": 105,
+        "laughCount": 224,
+        "likeCount": 1818,
         "dislikeCount": 0,
-        "heartCount": 854,
-        "commentCount": 2
+        "heartCount": 769,
+        "commentCount": 0
       },
-      "meta": {
-        "seed": 2112336569,
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:296576@333245"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": " 1girl, ginger hair, freckles, kneeling, hands on floor, on table, loin cloth, ass view, showing off ass, look back at viewer, shy, blush, feet, soles, breasts hanging, black_fabric, bikini top, skimpy outfit, knees apart, labia\n\nsee-through silhouette, glow, masterpiece, ultra-HD, cinematic lighting, photorealistic, realistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, 8k,( light particles:1.4), nsfw, black background, rim light, s1_dram ",
-        "denoise": 0.3,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/0VX0Y21G76QZYV662JB617XFC0.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1280045
-          },
-          {
-            "weight": 1.75,
-            "modelVersionId": 1726985
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1864838
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 333245
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1280045
-          },
-          {
-            "type": "lora",
-            "weight": 1.75,
-            "modelVersionId": 1726985
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1864838
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
-            "type": "lora",
-            "strength": 1.75,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1647387@1864838",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "DrPeeHands",
+      "meta": null,
+      "username": "Kalrdr",
       "baseModel": "Illustrious",
       "modelVersionIds": [
+        9208,
+        111363,
         164821,
         333245,
-        1189052,
-        1240288,
-        1280045,
-        1416874,
-        1726985,
-        1864838
+        372639,
+        1412563,
+        1490781,
+        1890044
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "984|1750898220000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=984%7C1750898220000"
+    "nextCursor": "985|1758672960000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=985%7C1758672960000"
   }
 }
