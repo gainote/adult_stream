@@ -1,41 +1,72 @@
 {
   "items": [
     {
-      "id": 18325694,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c2c3744-bc2f-40c5-8348-3a0c074e0200/original=true/6c2c3744-bc2f-40c5-8348-3a0c074e0200.jpeg",
-      "hash": "UEFg|6%~EyA@yGK8V{NMPp%Nj?-U.9o~M{s:",
+      "id": 54323973,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6fa98405-cacc-406e-94fe-f03742ddf3dc/original=true/6fa98405-cacc-406e-94fe-f03742ddf3dc.jpeg",
+      "hash": "UIMZH-KQ.mVX~VrW.8MxxuM{-pMxiuR4Ip?b",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-07-03T22:12:24.400Z",
-      "postId": 4094428,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-28T05:12:51.118Z",
+      "postId": 12184970,
       "stats": {
-        "cryCount": 85,
-        "laughCount": 175,
-        "likeCount": 1690,
+        "cryCount": 87,
+        "laughCount": 163,
+        "likeCount": 1723,
         "dislikeCount": 0,
-        "heartCount": 1002,
-        "commentCount": 0
+        "heartCount": 973,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 54969800,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, Expressiveh, 1girl, blonde twintails, skimpy clothing, , tan skin, ultra detailed,  beautiful fit girl,  (young:1.5)\nexited, horny, blushing, \nsmall perky breasts, navel, topless, bare shoulders, freckles,  mountains, \nblowjob, chipmunking, dynamic angle,\npussy, dripping vagina, fingering, \n1man,  explorer,  cum dripping, twitching penis, cum dripping from pussy,\nnoises, sound effects, motion lines, action effects, \nhearts, floating hearts, post sex,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5.5,
+        "nsfw": true,
+        "seed": 1869902914,
+        "draft": false,
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, close up, (focus on huge penis:1.3), table, , photo card of cute girl, stapple, (text:1.2) , man out of frame, veins, messy room, view from above, (cute flying heart:0.6)\n",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-07-03T2204:29.4261810Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, deformed hands",
+        "Created Date": "2025-01-28T0415:46.1752422Z",
+        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
         "civitaiResources": [
           {
             "type": "checkpoint",
             "modelVersionId": 290640,
             "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 983142,
+            "modelVersionName": "v1.4-pony"
+          },
+          {
+            "type": "lora",
+            "weight": 2.8,
+            "modelVersionId": 712947,
+            "modelVersionName": "v1.4"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 1158247,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "embed",
@@ -45,61 +76,60 @@
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
+            "weight": 0.8,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 98441,
+            "modelVersionName": "V2"
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 1,
+            "modelVersionId": 128461,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 524172,
-            "modelVersionName": "Chipmunking v2.0 PonyXL"
+            "weight": 0.55,
+            "modelVersionId": 298238,
+            "modelVersionName": "Smooth Anime"
           },
           {
             "type": "embed",
+            "weight": 1,
             "modelVersionId": 250708,
             "modelVersionName": "safe_pos"
           },
           {
             "type": "embed",
+            "weight": 1,
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Typhoon",
+      "username": "vovkkabanko",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        244808,
+        98441,
+        128461,
         290640,
+        298238,
         382152,
-        398847,
         436219,
-        524172
+        712947,
+        983142,
+        1158247
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "948|1738041171118",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=948%7C1738041171118"
+    "nextCursor": "949|1753056600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=949%7C1753056600000"
   }
 }
