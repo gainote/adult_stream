@@ -1,195 +1,85 @@
 {
   "items": [
     {
-      "id": 84791653,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a74bda1b-c528-4d4b-a7c3-c65590909332/original=true/a74bda1b-c528-4d4b-a7c3-c65590909332.jpeg",
-      "hash": "U99?tO570f~C$yE2t6=xE2xa%1I:ozt7NHR,",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 100126428,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14726f67-aaad-402d-aa9e-cb2933aacd5a/original=true/14726f67-aaad-402d-aa9e-cb2933aacd5a.jpeg",
+      "hash": "UIN9nMK6EzR5.mtSMxoyD$M{I9bY4nRPozs9",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-27T07:02:00.000Z",
-      "postId": 18823630,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-13T20:40:00.000Z",
+      "postId": 22215963,
       "stats": {
-        "cryCount": 77,
-        "laughCount": 175,
-        "likeCount": 1796,
+        "cryCount": 153,
+        "laughCount": 233,
+        "likeCount": 1701,
         "dislikeCount": 0,
-        "heartCount": 892,
+        "heartCount": 852,
         "commentCount": 0
       },
       "meta": {
-        "seed": 1745473446,
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:296576@333245"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": ", 1girl, solo,  brunette hair, (freckles:1.5), updo, elegant hairdo, pearl necklace, hair pin, flowing dress dark blue fabric, see-through silhouette, simple background, dark background, rim light , natural breasts, side view, bending, lean sideways, round butt, (hanging breasts, breast focus:1.1), puffy nipples, breasts covered,  lean sideways, sexy pose, dynamic pose, (smug, raise eyebrow:1.1), glance at viewer\n\nmasterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k,( light particles:1.4), nsfw, ",
-        "denoise": 0.3,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/50ZGYGCGWJVSSFNDHY4CA08M70.jpeg",
-          "width": 832,
-          "height": 1216
+        "Size": "832x1216",
+        "seed": 2935247354,
+        "extra": {
+          "remixOfId": 64947509
         },
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
-        "civitaiResources": [
+        "steps": 29,
+        "prompt": "embedding:lazypos, 1girl, adult girl, beautiful eyes, (((hetero, penis resting on face, penis, from above, partial side view, bed room, open mouth, tongue, saliva, blush))), ((focus on girl)), head grab, large  cock, ((cumshot, cum on hair, cum on face, cum on nose,cum in mouth)) penis worship, penis on face, ((animated, bright colors, hentai)) _Best_Lewd_Expression_v1.0__Pony_XL:1> <lora:TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious:0.8>, microbikini, cute slute, long hair, ((awe face, penis awe)), ((looking at penis)), big breast, nipples slip out",
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1240288
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1864838
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1280045
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          },
-          {
-            "weight": 1.95,
-            "modelVersionId": 1726985
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 333245
-          },
-          {
+            "name": "TrendCraft_The_Peoples_Style_Detailer-v1.0A-3_13_2025-illustrious",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1864838
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1280045
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 145907
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1416874
-          },
-          {
-            "type": "lora",
-            "weight": 1.95,
-            "modelVersionId": 1726985
+            "weight": 0.8
           }
         ],
-        "additionalResources": [
+        "Created Date": "2025-05-13T0050:22.3700680Z",
+        "negativePrompt": "embedding:lazyneg",
+        "civitaiResources": [
           {
-            "name": "urn:air:sdxl:lora:civitai:1647387@1864838",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "type": "checkpoint",
+            "modelVersionId": 1596786
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1470451
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:120723@145907",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1470501
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
             "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
+            "weight": 0.8,
+            "modelVersionId": 1525879
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
             "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
-            "type": "lora",
-            "strength": 1.95,
-            "strengthClip": 1
+            "weight": 0.7,
+            "modelVersionId": 1370805
           }
         ]
       },
-      "username": "DrPeeHands",
+      "username": "Liauria",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        164821,
-        333245,
-        1189052,
-        1240288,
-        1280045,
-        1416874,
-        1726985,
-        1864838
+        1370805,
+        1470451,
+        1470501,
+        1525879,
+        1596786
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "954|1757796000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=954%7C1757796000000"
+    "nextCursor": "955|1747096620000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=955%7C1747096620000"
   }
 }
