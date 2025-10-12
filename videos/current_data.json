@@ -1,104 +1,84 @@
 {
   "items": [
     {
-      "id": 94828033,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aaf72822-f960-4f38-afa8-f816210f2eaa/original=true/aaf72822-f960-4f38-afa8-f816210f2eaa.jpeg",
-      "hash": "UBGkLH0f0e%h%~0ftR~p-osoX9x]Nw9uM{-p",
-      "width": 832,
-      "height": 1216,
+      "id": 91632858,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/437310ef-303e-4cd0-94cf-c5ce46396ddc/original=true/437310ef-303e-4cd0-94cf-c5ce46396ddc.jpeg",
+      "hash": "UIJs;C^kEL.7NH~W.Rb^0K.7%MIU%fIoMx%2",
+      "width": 1024,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-17T14:30:52.315Z",
-      "postId": 21037022,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-04T01:00:00.000Z",
+      "postId": 20324430,
       "stats": {
-        "cryCount": 112,
-        "laughCount": 166,
-        "likeCount": 1731,
+        "cryCount": 178,
+        "laughCount": 227,
+        "likeCount": 1815,
         "dislikeCount": 0,
-        "heartCount": 926,
+        "heartCount": 715,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 516998065,
+        "Size": "1024x1024",
+        "seed": 110039162,
         "draft": false,
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9_up, score_9, score_8_up, score_8, score_7_up, score_7, raw, high quality, 4k resolution, absurdres, morimee_style, masterpiece, best quality, \ngod rays, interesting background, tropical background, palmtrees, resort, sunshine, sunny day, unique background, dramatic light, dramatic pose, dramatic angle, silver necklace, black lipstick, long hair, wet hair, hair strands, wet ponytail, black hair, brown eyes, (designer swimsuit, leotard swimsuit), (large breasts:1.3), (big ass, wide hips), see through, wet swimsuit, nipple bulge, underboob, sideboob, cameltoe, muscular arms, soft belly, belly, soft lighting, seductive face, sitting on a beach chair, wet body, unique angle, body focus, outdoors, swiming in water, sexy smile, close up, looking at viewer, from below, low exposure, detailed texture, emotional depth, dramatic mood, serene atmosphere, cinematic lighting, tattoos, adjusting bikini, pulling bikini, pulling straps,",
+        "steps": 28,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "masterpiece, best quality, absurdres, lazypos,\n1girl, solo, adult,\nlupa \\(wuthering waves\\), yellow eyes, red hair, pink hair, gradient hair, twintails, \nbare shoulders, red cape, sidelocks, hair ribbon, hair ornament, bodysuit, black hairband, white bodysuit, bracer, bustier,\ntorn clothes, (exploding clothes:1.8), (covered breasts:1.5),\nhuge breasts, nipples, bursting breasts, (bouncing breasts:1.4), lactation,\n(tentacles:1.2), (pink tentacles:1.1), multiple tentacles,\nprecum,\nblush, angry, surprised, (screaming:1.2),\nrestrained, suspension, arms spread, arm grab, (upper body:1.1),\nindoors, colosseum, arena,\nmotion lines, dutch angle, foreshortening, emphasis lines,",
         "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 2,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
         "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-27T0524:54.1587507Z",
+        "aspectRatio": "1:1",
+        "Created Date": "2025-07-31T2049:59.8714250Z",
         "experimental": false,
-        "negativePrompt": "score_4, score_5, score_6, extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless,watermark,signature, logo, easynegative, low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx, (((curly hair))), ((curly hairstyle)), 3D, tanlines, abs,",
+        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), lazyneg, bad hands, bad faces, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, monochrome, sketch, octopus, futanari, simple background,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 1053830,
+            "modelVersionName": "Illustrious v1"
           },
           {
             "type": "lora",
-            "weight": 2.25,
-            "modelVersionId": 240274
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219
+            "weight": 1.5,
+            "modelVersionId": 1719794,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "embed",
             "weight": 1,
-            "modelVersionId": 287973
+            "modelVersionId": 1833157,
+            "modelVersionName": "lazypos v2"
           },
           {
-            "type": "embed",
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 380277
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 398847
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1122823
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1142665
+            "modelVersionId": 1994852,
+            "modelVersionName": "Illustrious&noob_2.0"
           }
         ]
       },
-      "username": "Wadufuk1",
-      "baseModel": "Pony",
+      "username": "darkdill",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        240274,
-        287973,
-        290640,
-        380277,
-        398847,
-        436219,
-        1122823,
-        1142665
+        1053830,
+        1719794,
+        1833157,
+        1994852
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "960|1754269200000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=960%7C1754269200000"
+    "nextCursor": "961|1743577500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=961%7C1743577500000"
   }
 }
