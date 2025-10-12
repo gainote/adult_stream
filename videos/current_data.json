@@ -1,89 +1,42 @@
 {
   "items": [
     {
-      "id": 87683285,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e17ff484-20c2-4424-ab71-9986c855a834/original=true/e17ff484-20c2-4424-ab71-9986c855a834.jpeg",
-      "hash": "UUMQn#-;_3s;~qM{%Nofx]tR_3s:D%ozRPa{",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 17576,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3fac76fe-6824-4794-87cd-b807b60a8700/original=true/3fac76fe-6824-4794-87cd-b807b60a8700.jpeg",
+      "hash": "U8IqDh00GZ^k01J.^+RkAI-UOYD%~Vxb%2xa",
+      "width": 400,
+      "height": 720,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-11T21:55:56.411Z",
-      "postId": 19450339,
+      "browsingLevel": 8,
+      "createdAt": "2023-09-22T22:27:04.983Z",
+      "postId": 83968,
       "stats": {
-        "cryCount": 134,
-        "laughCount": 209,
-        "likeCount": 1753,
+        "cryCount": 0,
+        "laughCount": 1,
+        "likeCount": 10,
         "dislikeCount": 0,
-        "heartCount": 824,
+        "heartCount": 1,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "832x1216",
-        "seed": 2565563899,
-        "Model": "prefect_illustrious_XL_2.fp16",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "9d73bac23a",
-          "lora:sora_nikke_ilxl_goofy": "36d3e460bc51"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, <lora:sora_nikke_ilxl_goofy:1> sora \\(nikke\\), black hair, red eyes, twintails, two side up, choker, white shirt, black bra ,bra visible through clothes, translucent shirt, pencil skirt, white pantyhose, largebreasts,jacket, looking at viewer, parted lips, white background,",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "36d3e460bc51",
-            "name": "sora_nikke_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "9d73bac23a",
-            "name": "prefect_illustrious_XL_2.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "9d73bac23a",
-        "Detail Daemon": {
-          "ed": "0.8",
-          "st": "0.2",
-          "exp": "1",
-          "bias": "0.5",
-          "fade": "0",
-          "mode": "uncond",
-          "amount": "0.19",
-          "smooth": "1",
-          "ed_offset": "0",
-          "st_offset": "0"
-        },
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.21",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "Size": "400x720",
+        "seed": 3665098472,
+        "steps": 110,
+        "prompt": "Masterpiece colored picture of a beautiful nude Russian woman, wide hips, big butt, toned, full-length photo, 70mm lens, brunette, messy hair, hourglass figure, aesthetic, symmetrical, posing, athletic, sharp, pale skin, hazel eyes, textured skin, perfect body, long hair, angular face, goosebumps, 1girl, realistic, in a bed, from behind, big heart shaped ass, showing ass, top down camera, C cup breasts, detailed, slim, small waist, (toned abs:1.2), (perfect fingers:1.2), large eyes, amused, perfect pussy, pubic hair, photographed by a Nikon Z7 II Camera",
+        "sampler": "DPM++ 2S a Karras",
+        "cfgScale": 6,
+        "Model hash": "4cf12f5d",
+        "negativePrompt": "floating limbs, disconnected limbs, anime, kitsch, cartoon, penis, fake, (black and white), airbrush, drawing, illustration, boring, 3d render, long neck, out of frame, extra fingers, mutated hands, monochrome, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, glitchy, bokeh, (((long neck))), (child), (childlike), 3D, 3DCG, cgstation, red eyes, multiple subjects, extra heads, close up, man, ((asian)), text, bad anatomy, morphing, messy broken legs decay, ((simple background)), deformed body, lowres, bad anatomy, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low jpeg artifacts, signature, watermark, username, blurry, out of focus, old, amateur drawing, odd, fat, morphing, ((simple background)), artifacts, signature, artist name, [blurry], disfigured, mutated, (poorly hands), messy broken legs, decay, painting, duplicate, closeup, piercing"
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1873831
-      ]
+      "username": "skeezito",
+      "baseModel": "SD 1.5",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "973|1739692860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=973%7C1739692860000"
+    "nextCursor": "974|1695426688523",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=974%7C1695426688523"
   }
 }
