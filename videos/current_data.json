@@ -1,53 +1,93 @@
 {
   "items": [
     {
-      "id": 104817147,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cf23e558-2a69-4315-8b88-c1d87380b1c8/original=true/cf23e558-2a69-4315-8b88-c1d87380b1c8.jpeg",
-      "hash": "U9MG0L0=1lbd00j_Ef-SCm^+Ri^OITyEROEk",
-      "width": 2496,
-      "height": 3648,
-      "nsfwLevel": "X",
+      "id": 97082601,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26aa7c3a-f2c0-4220-a5ec-4440310e1821/original=true/26aa7c3a-f2c0-4220-a5ec-4440310e1821.jpeg",
+      "hash": "UHGQO|+t_#TL+u#kaeKQrWr=ofX9TeW;N]jb",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-10-08T04:33:21.609Z",
-      "postId": 23255414,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-29T16:18:48.132Z",
+      "postId": 21535677,
       "stats": {
-        "cryCount": 111,
-        "laughCount": 163,
-        "likeCount": 1847,
+        "cryCount": 139,
+        "laughCount": 203,
+        "likeCount": 1806,
         "dislikeCount": 0,
-        "heartCount": 792,
+        "heartCount": 762,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 77803749659190,
-        "Model": "pdav2_1",
-        "steps": 30,
-        "prompt": "(masterpiece, best quality, ultra-detailed, anime style, 8k), 1girl, poolside chair, leaning back, presenting feet, soles, toes, white skirt, no panties, red nails, perfect feet,tan, vagina, looking at viewer, grin, sharp teeth",
-        "Version": "ComfyUI",
+        "seed": 1203678713,
+        "steps": 36,
+        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, \n(flat color:1.8), (haiz_ai:1), (white lineart:1), (outline:1), (Flat vector:1),\n(artist:incase:0.5),\nupper body, from above, solo, simple background, red background, fade background, 1girl, solo, MELiara:1.2, alien, ((blue skin)):1, freckles:1, blue lips, amazing face, perfect anatomy, perfect hands, flat chest, petite body, petite face, tiny tits, tiny breasts, blue eyes, pink bikini bra, detailed eyes, high detail eyes, detailed iris, dynamic pose, gaze straight at the viewer, stunning artwork, masterpiece, best quality, absurdres, 8k, highres, newest, (blending), depth of field, dynamic angle, white heart choker, showing boobs, breasts out, exposed breasts, front-tie top, halterneck, short shorts, denim, denim shorts, teasing viewer, ahegao face, open mouth, teeth, tongue out, saliva,\nstanding, double V gesture, tiny breasts, flat breasts",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "negativePrompt": "lowres, worst quality, bad quality:1.3, modern, recent, oldest, signature, username, logo, watermark, jpeg artifacts, bad hands, cropped, missing fingers,extra fingers,bad hands, extra digits, fewer digits, error, bad anatomy, ugly, disfigured, young, text, extra toes, missing toes",
+        "Created Date": "2025-08-27T1938:27.6447812Z",
+        "negativePrompt": "tanline, Base:bad quality, worst quality, worst detail, sketch, censor,\nworst quality, low quality, displeasing, text, watermark, \nbad anatomy, artist name, signature,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 2283658
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 2034730
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1860423
+          },
+          {
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 1859062
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1535275
+          },
+          {
+            "type": "lora",
+            "weight": -2,
+            "modelVersionId": 1858609
+          },
+          {
+            "type": "lora",
+            "weight": -1.5,
+            "modelVersionId": 1835318
+          },
+          {
+            "type": "vae",
+            "weight": 1,
+            "modelVersionId": 333245
           }
         ]
       },
-      "username": "kyomei",
+      "username": "ZenosDamnian",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        2283658
+        1535275,
+        1761560,
+        1835318,
+        1858609,
+        1859062,
+        1860423,
+        2034730
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "987|1756484328132",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=987%7C1756484328132"
+    "nextCursor": "988|1754431200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=988%7C1754431200000"
   }
 }
