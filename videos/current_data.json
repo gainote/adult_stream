@@ -1,124 +1,75 @@
 {
   "items": [
     {
-      "id": 83795073,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/60c19c09-9364-4650-b081-c75b90d23171/original=true/60c19c09-9364-4650-b081-c75b90d23171.jpeg",
-      "hash": "U5F=Hz^j0MV@0000Eg~C.A-;^N9t00~B-pEL",
-      "width": 2688,
-      "height": 3840,
+      "id": 30088489,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/847a3599-6cbb-4ad6-91ea-4cecd56adde7/original=true/847a3599-6cbb-4ad6-91ea-4cecd56adde7.jpeg",
+      "hash": "U5Aw6n00C8-o00~qD$x]DhS$^kIU?cR+EMxC",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-06-22T07:14:00.000Z",
-      "postId": 18606201,
+      "createdAt": "2024-09-18T15:38:13.988Z",
+      "postId": 6732573,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 205,
-        "likeCount": 1797,
+        "cryCount": 94,
+        "laughCount": 161,
+        "likeCount": 1745,
         "dislikeCount": 0,
-        "heartCount": 852,
-        "commentCount": 1
+        "heartCount": 958,
+        "commentCount": 3
       },
       "meta": {
-        "nsfw": false,
-        "seed": 1770049944,
-        "vaes": [],
-        "draft": false,
-        "extra": {},
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "score_9, score_8_up, score_7_up, award-winning masterpiece, RAW editorial photo, fair skinned woman, feminine features,  light blonde hair, hair in braids, thin body, green eyes, eyes in light, big eyes, solo portrait in a dark cinematic fine-art style, nude, breasts, sitting, both legs up, (aroused:1.4), eyes half closed, pleasure,on pink sofa, legs spread, vagina exposed, wet vagina, textured pink soft cushions,  bookcase with books in background, vase with pink flowers in background, pink flowers, pink and  green walls, many flowers in vases, cute lace white socks very girly, relaxed yet intense expression, hands behind back, posing sweet, hands hidden, high-quality image, ultra-detailed realism, contours emphasized on face and body, soft highlights blended with deep shadows, ",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "Size": "832x1216",
+        "seed": 3556478990,
+        "steps": 27,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,  1 girl , wet kawai girl, sexy,  sitting in water , blushing , horny, huge boobs, nipples , cleavage , in hotspring, ,naked, arms raised back, portrait",
+        "sampler": "Euler a",
+        "cfgScale": 6.5,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 6,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "controlNets": [],
-        "experimental": false,
-        "openAIQuality": "medium",
-        "negativePrompt": "score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, deformed hands, blurry, bad quality, low quality,",
+        "resources": [],
+        "Created Date": "2024-09-17T2017:16.0534811Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1838857
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "weight": 1.1,
-            "modelVersionId": 1242203
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
-            "weight": 0.75,
-            "modelVersionId": 1260971
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "weight": -1.7,
-            "modelVersionId": 1386847
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           },
           {
-            "weight": 2.8,
-            "modelVersionId": 1430143
-          },
-          {
-            "weight": 2.35,
-            "modelVersionId": 1506035
-          },
-          {
-            "weight": 0.95,
-            "modelVersionId": 1594293
-          },
-          {
-            "weight": 2.45,
-            "modelVersionId": 1681921
-          },
-          {
-            "weight": 3.9,
-            "modelVersionId": 1926656
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1926995
-          },
-          {
-            "weight": 2.65,
-            "modelVersionId": 1681903
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "additionalResources": []
+        ]
       },
-      "username": "klaabu",
+      "username": "hornystoryteller",
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1242203,
-        1260971,
-        1386847,
-        1430143,
-        1506035,
-        1594293,
-        1681903,
-        1681921,
-        1838857,
-        1926656,
-        1926995
+        290640,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "939|1726673893988",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=939%7C1726673893988"
+    "nextCursor": "940|1752323057272",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=940%7C1752323057272"
   }
 }
