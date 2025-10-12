@@ -1,36 +1,47 @@
 {
   "items": [
     {
-      "id": 20247862,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c36c087b-9568-4b05-9306-55d5121888c8/original=true/c36c087b-9568-4b05-9306-55d5121888c8.jpeg",
-      "hash": "U4B.TLpK0fn2MzF1;1#76_NH}u=|I;^Ps90}",
+      "id": 41626472,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/179564e7-7d82-4b7d-bad9-ba3e16fb4c72/original=true/179564e7-7d82-4b7d-bad9-ba3e16fb4c72.jpeg",
+      "hash": "UFI|:m8{k?JA4.%MD*NG0yE2D*%1~VRkkXxG",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-07-17T15:35:49.882Z",
-      "postId": 4516307,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-26T10:52:15.149Z",
+      "postId": 9478068,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 166,
-        "likeCount": 1595,
+        "cryCount": 100,
+        "laughCount": 172,
+        "likeCount": 1749,
         "dislikeCount": 0,
-        "heartCount": 1053,
-        "commentCount": 2
+        "heartCount": 885,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2024067631,
-        "steps": 36,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, sexy beautiful Dora the explorer, grown up, adult,18 years old, black bob cut hair with straight bangs, wet hair, brown eyes, perfect eyes, big eyes, perfect teeths, thicc lips, glossy lips, sexys, medium perky breasts, cleavage, ((tan skin)), wet skin, navel, small hips, slender, small round butt, earrings, ((orange booty shorts wide open revealing pussy)),((small pink tank top)), ((black brazilian thong)),((wet purple backpack)), ((wet clothes)), swollen pussy, underboob, intense pleasure, cowboy shot, nipples visible, panting, embarrassed, blushing, cleavage, breast grab, looking away, rain, dynamic angle,",
+        "nsfw": true,
+        "seed": 2147483648,
+        "draft": false,
+        "extra": {
+          "remixOfId": 40419985
+        },
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, Expressiveh, 1girl. 20 year old, (anka), pretty face, detailed face, cute face, supermodel, soft and smooth skin, hotel room, thigh highs, lace panties, lying on bed of leaves, lying sideways, one leg up, pulling panties away, cute pussy, blush, look full of adoration, anticipated, highly detailed, dynamic pose, detailed background, cum in pussy, exposed breast, cum on breast, cum on body, cum on hands, crowd, crowded, (public park)",
         "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-07-17T1512:37.3404410Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative",
+        "Created Date": "2024-11-23T0934:06.8281613Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -45,27 +56,33 @@
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 0.65,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "lora",
-            "weight": 0.65,
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.55,
+            "weight": 0.35,
             "modelVersionId": 398847,
             "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.3,
+            "weight": 0.5,
             "modelVersionId": 436219,
             "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 706355,
+            "modelVersionName": "V1"
           },
           {
             "type": "embed",
@@ -79,20 +96,21 @@
           }
         ]
       },
-      "username": "Cony3D",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        239420,
+        244808,
         290640,
         382152,
         398847,
-        436219
+        436219,
+        706355
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "993|1732618335149",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=993%7C1732618335149"
+    "nextCursor": "994|1750564200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=994%7C1750564200000"
   }
 }
