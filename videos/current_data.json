@@ -1,104 +1,110 @@
 {
   "items": [
     {
-      "id": 85137916,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b5b32c7-217e-47ed-964c-01c2f0b5dcbe/original=true/4b5b32c7-217e-47ed-964c-01c2f0b5dcbe.jpeg",
-      "hash": "UB9Z]NEJK-$dI.S#Na$*veo%RNo#jWWCbXoM",
-      "width": 2624,
-      "height": 3840,
+      "id": 26521526,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9fc13d17-9d23-4925-8295-c00b8a3e17f0/original=true/9fc13d17-9d23-4925-8295-c00b8a3e17f0.jpeg",
+      "hash": "U7EBgm=}N*xKsw~D$-$-9?^S=_WGEb%3EKNF",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-06-29T01:07:00.000Z",
-      "postId": 18897633,
+      "createdAt": "2024-08-28T04:51:59.038Z",
+      "postId": 5927735,
       "stats": {
-        "cryCount": 119,
-        "laughCount": 208,
-        "likeCount": 1833,
+        "cryCount": 71,
+        "laughCount": 163,
+        "likeCount": 1620,
         "dislikeCount": 0,
-        "heartCount": 757,
-        "commentCount": 0
+        "heartCount": 1064,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 329625993,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
-        "extra": {},
-        "steps": 27,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
-        ],
-        "prompt": "eXV6_dXRhcm, pixel art, 1girl, red hair, long hair, mind control hair ornament, blue eyes, pink eyes, (gradient eyes, multicolored eyes), gradient hair, multicolored hair, purple tips, purple highlights, medium breasts,\n(corruption, dark persona:1.2), female combatant, (shiny clothes), highleg leotard, latex leotard, sash, sleeveless, elbow gloves, mind control collar, glowing collar, fishnet pantyhose, covered nipples, turtleneck, ninja mask, [bandana over mouth], covered face,\noutdoors, science fiction, dark cyberpunk city, rooftop, bright neon lights, cityscape, city lights, skyscrapers, skyline, high up, night, dark, \nsolo, on one knee, arms behind back, expressionless, half-closed eyes, empty eyes, (no pupils:1.2), gun, (energy gun), sniper rifle, anti-materiel rifle, (huge weapon)",
+        "Size": "832x1216",
+        "seed": 1080099090,
+        "steps": 29,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_anime, \nBREAK, 1girl, Raven, stripclub, on pole, looking at viewer, blush, sweat, fishnet top, sexy, crowd, neon lights, dim, pose, slut, hot, highleg thong, face focus, stage, girl focus, closeup",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "lowres, (bad), bad anatomy, text, error, fewer, extra, missing, cropped, worst quality, jpeg artifacts, low quality, signature, watermark, username, artist name, blurry, extra limb, missing limb, (mutation, mutated), disconnected, unfinished, ugly, disgusting, displeasing, amputation, extra digits, artistic error, (nipples, areolae:1.2), cameltoe, (holding)",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-08-28T0430:06.2129769Z",
+        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1866315
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1652667
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1490781
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1866315
+            "weight": 0.45,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1652667
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1648877@1866315",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 0.7,
+            "modelVersionId": 373439,
+            "modelVersionName": "Lil Andava style PDXL V1"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1461427@1652667",
             "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 0.85,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 438417,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 333587,
+            "modelVersionName": "Smooth 2"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "Zlia",
-      "baseModel": "Illustrious",
+      "username": "Bancin",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1490781,
-        1652667,
-        1866315
+        290640,
+        333587,
+        373439,
+        382152,
+        398847,
+        436219,
+        438417
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "980|1724820719038",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=980%7C1724820719038"
+    "nextCursor": "981|1744850460000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=981%7C1744850460000"
   }
 }
