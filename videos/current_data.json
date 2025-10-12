@@ -1,119 +1,38 @@
 {
   "items": [
     {
-      "id": 15998148,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3280e95a-4656-4aeb-b7b3-ea1573fd8b2e/original=true/3280e95a-4656-4aeb-b7b3-ea1573fd8b2e.jpeg",
-      "hash": "UKKwFMT2xa?ayZGcRP%2B?ICIpT0MeXnxFof",
-      "width": 1792,
-      "height": 2432,
+      "id": 50832553,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b203a347-d04f-4bbb-9fdb-1c472bde292b/original=true/b203a347-d04f-4bbb-9fdb-1c472bde292b.jpeg",
+      "hash": "U8Edx3~Ab]OD%K}?-nbu0MNGjFNHE29bE2RQ",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-16T12:43:37.442Z",
-      "postId": 3573409,
+      "browsingLevel": 16,
+      "createdAt": "2025-01-11T01:11:49.889Z",
+      "postId": 11436016,
       "stats": {
-        "cryCount": 82,
-        "laughCount": 182,
-        "likeCount": 1609,
+        "cryCount": 114,
+        "laughCount": 221,
+        "likeCount": 1742,
         "dislikeCount": 0,
-        "heartCount": 1084,
-        "commentCount": 0
+        "heartCount": 877,
+        "commentCount": 2
       },
       "meta": {
-        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
-        "Size": "1792x2432",
-        "seed": 747987156,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "ac006fdd7e",
-          "lora:sitpov": "45348b4380f7",
-          "lora:PijaMix_v1": "1a946326dd2a",
-          "lora:flooxyfloox": "a4f95cfe4726",
-          "lora:greatm8Pony_locon_e16": "0c4b6f1af567"
-        },
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, 2d, 1girl, solo, from below, (povsit), nico robin (One Piece), nico robin, spread legs, blue eyes, close-up, slingshot swimsuit, half-closed eyes, cameltoe, large breasts, wet, dripping, thick thighs, sweaty, expressionless, looking at viewer, (blue sky background), <lora:greatm8Pony_locon_e16:0.3> <lora:flooxyfloox:0.2> <lora:PijaMix_v1:0.6> <lora:sitpov:0.9>",
-        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
+        "steps": 20,
+        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis or reactions and Buzz everyone.",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "freeu_b1": "1.4",
-        "freeu_b2": "1.3",
-        "freeu_s1": "0.9",
-        "freeu_s2": "0.2",
-        "TI hashes": {
-          "aidxlv05_neg": "84a6266ecaa6"
-        },
-        "resources": [
-          {
-            "hash": "0c4b6f1af567",
-            "name": "greatm8Pony_locon_e16",
-            "type": "lora",
-            "weight": 0.3
-          },
-          {
-            "hash": "a4f95cfe4726",
-            "name": "flooxyfloox",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "hash": "1a946326dd2a",
-            "name": "PijaMix_v1",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "45348b4380f7",
-            "name": "sitpov",
-            "type": "lora",
-            "weight": 0.9
-          },
-          {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
-            "type": "model"
-          }
-        ],
-        "Model hash": "ac006fdd7e",
-        "freeu_enabled": "True",
-        "negativePrompt": "source_furry, source_pony, monochrome,3d,mole, monochrome background, freckles, aidxlv05_neg, cracked wall, cracks",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer prompt": {
-          "PijaMix_v1": "0.6>"
-        },
-        "ADetailer version": "24.5.1",
-        "Denoising strength": "0.25",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.25",
-        "multidiffusion_method": "Mixture of Diffusers",
-        "ADetailer dilate erode": "4",
-        "multidiffusion_enabled": "True",
-        "ADetailer inpaint width": "1024",
-        "ADetailer inpaint height": "1024",
-        "ADetailer inpaint padding": "32",
-        "ADetailer negative prompt": {},
-        "multidiffusion_tile_width": "896",
-        "multidiffusion_tile_height": "1216",
-        "ADetailer mask merge invert": "Merge",
-        "multidiffusion_tile_overlap": "64",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True",
-        "multidiffusion_tile_batch_size": "4",
-        "ADetailer mask only top k largest": "1",
-        "ADetailer use inpaint width height": "True"
+        "cfgScale": 5
       },
-      "username": "BesolloAI",
+      "username": "Rodzilla2025X",
       "baseModel": "Pony",
-      "modelVersionIds": [
-        324524
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "943|1736557909889",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=943%7C1736557909889"
+    "nextCursor": "944|1736014775641",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=944%7C1736014775641"
   }
 }
