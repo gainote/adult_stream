@@ -1,110 +1,107 @@
 {
   "items": [
     {
-      "id": 60660287,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1c116e9-8b54-42cb-818b-1e1a1835a4ee/original=true/b1c116e9-8b54-42cb-818b-1e1a1835a4ee.jpeg",
-      "hash": "UELMbT000f^+.8rr%fNaM{4:~ps.57D%9axu",
-      "width": 832,
-      "height": 1216,
+      "id": 82300259,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3cb561b5-3f87-43be-aa42-f60093c8ef84/original=true/3cb561b5-3f87-43be-aa42-f60093c8ef84.jpeg",
+      "hash": "UADlH400%#IAKj9F~WD%Fe9F^+D%~CIUEMNG",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-28T16:00:00.000Z",
-      "postId": 13569509,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-14T17:21:00.000Z",
+      "postId": 18280601,
       "stats": {
-        "cryCount": 91,
-        "laughCount": 231,
-        "likeCount": 1749,
+        "cryCount": 95,
+        "laughCount": 193,
+        "likeCount": 1753,
         "dislikeCount": 0,
-        "heartCount": 839,
-        "commentCount": 0
+        "heartCount": 866,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1278409150,
-        "extra": {
-          "remixOfId": 59415941
-        },
-        "steps": 15,
-        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field,  in the style of cknc, artist:moriimee, in the style of cksc,\n1girl, makima (chainsaw_man), long_orange_hair, tied_up, yellow_eyes, medium_breasts, topless, nipples_piercing, glossy_lips, sitting, legs_extended, footjob, toes_rubbing_cock, precum_dripping, 1boy, faceless_male, lying_in_front, holding_her_ankles, balls_tightening, breast_focus, motion_lines:1.1, motion_blur:1.1,\nBREAK\nretro_office, neon_desk_lamp, velvet_chair,\nBREAK\nretro_colors, piercing_gleam, soft_shadows, seductive_curves, slick_feet, rich_details, view_front, from_front,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-02-28T1453:54.8552376Z",
-        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature",
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
+        "extra": {},
+        "steps": 29,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), detailed face, (dynamic:1), 2girls, gbf_style, naked, ass, laying, back, tattoo treatment table, tattoo shop, brown hair, BREAK, black hair, brown eyes, white pupils, goth, crop top, skirt, sitting, working on, holding tattoo  machine, tattoo pen, tattooed, tramp stamp, ",
+        "sampler": "Euler a",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, (loli, child:1.15), curvy, ",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 1880647
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1032397
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1410435,
-            "modelVersionName": "v11.0"
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 1446624,
-            "modelVersionName": "V1"
+            "weight": 0.7,
+            "modelVersionId": 1880647
           },
           {
             "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 1446939,
-            "modelVersionName": "V1"
-          },
+            "weight": 0.85,
+            "modelVersionId": 1032397
+          }
+        ],
+        "additionalResources": [
           {
+            "name": "urn:air:sdxl:lora:civitai:1661570@1880647",
             "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 1464029,
-            "modelVersionName": "V1"
+            "strength": 0.7,
+            "strengthClip": 1
           },
           {
+            "name": "urn:air:sdxl:lora:civitai:478058@1032397",
             "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 1459943,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.1,
-            "modelVersionId": 1468613,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1468700,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "strength": 0.85,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Buzz_lover",
+      "username": "Plantra",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1410435,
-        1446624,
-        1446939,
-        1459943,
-        1464029,
-        1468613,
-        1468700
+        164821,
+        1032397,
+        1761560,
+        1880647
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "990|1749921660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=990%7C1749921660000"
+    "nextCursor": "991|1721230549882",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=991%7C1721230549882"
   }
 }
