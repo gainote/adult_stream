@@ -1,105 +1,83 @@
 {
   "items": [
     {
-      "id": 43844847,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82ef3f62-c666-420c-afdb-5fc5816347ae/original=true/82ef3f62-c666-420c-afdb-5fc5816347ae.jpeg",
-      "hash": "UAEw{_}T%Lx@7c=v%1xaAaJAaijbEM9{V{NI",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 93428100,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0291f19-4394-47ba-b15e-bc6bec8ce9cc/original=true/e0291f19-4394-47ba-b15e-bc6bec8ce9cc.jpeg",
+      "hash": "UVL4~mtTPXxv5am+XUEND..7Djiv?Hx@xYxt",
+      "width": 1152,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-05T17:46:44.742Z",
-      "postId": 9958308,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-11T10:40:37.987Z",
+      "postId": 20727865,
       "stats": {
-        "cryCount": 77,
-        "laughCount": 141,
-        "likeCount": 1709,
+        "cryCount": 123,
+        "laughCount": 207,
+        "likeCount": 1740,
         "dislikeCount": 0,
-        "heartCount": 991,
-        "commentCount": 6
+        "heartCount": 847,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1514457839,
-        "draft": false,
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, 21 years old, 1girl, thick thighs , medium breasts, tan lines , south asian, pink french braid hair, come hither, freckles, sexy body, no panties, (beautiful face:1.1), shy, cute face, night, perfect ass, spread legs, pussy focus, hoodie, pink thigh high stripped socks, sitting on floor, fingering, moaning",
-        "sampler": "DPM2 a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-12-04T1752:48.4387693Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
-        "civitaiResources": [
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "768x1216",
+        "seed": 1002175683,
+        "Model": "hassakuXLIllustrious_v13StyleA",
+        "steps": 28,
+        "hashes": {
+          "model": "163ac69059",
+          "lora:Chun-li_Swimsuit_Illu_Dwnsty": "41fc8ccc7749"
+        },
+        "prompt": "best quality, absurdres, newest, very aesthetic, amazing quality, highres, ultra detailed, mature female, \n <lora:Chun-li_Swimsuit_Illu_Dwnsty:1>, chnl1sfsw1m, brown eyes, black hair, hair bun, double bun, swept bangs, braided hair rings, short hair, hair ornament, hair flower, blue flower, earrings, jewelry, blue one-piece swimsuit, highleg swimsuit, gold trim, large breasts, back cutout, belly chain, gold chain, blue bracelet, blue nails, nail polish, toned female, thick thighs, thigh ribbon, blue ribbon, 1girl, ass, water, blue sky, looking at viewer, cloud, smile, wading, outdoors, day, parted lips, looking back, bare shoulders, partially submerged, ocean, from side, profile, hand sup, arm up, dutch angle,",
+        "Version": "f2.0.1v1.10.1-previous-636-gb835f24a",
+        "sampler": "Euler a",
+        "Module 1": "sdxl_vae",
+        "cfgScale": 5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
+            "hash": "41fc8ccc7749",
+            "name": "Chun-li_Swimsuit_Illu_Dwnsty",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 1
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "163ac69059",
+            "name": "hassakuXLIllustrious_v13StyleA",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "163ac69059",
+        "Hires steps": "10",
+        "Hires upscale": "1.5",
+        "Schedule type": "Normal",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "worst quality, low quality,  lowres, watermark, patreon username, artist name, artist logo, text, error, jpeg artifacts, unfinished, oldest, signature, artistic error, username, english text, 4koma, 2koma",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "5",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "SGM noise multiplier": "True",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "Discard penultimate sigma": "True",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "fixerskorch877",
-      "baseModel": "Pony",
+      "username": "dwnsty",
+      "baseModel": null,
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
+        2099415
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "977|1754908837987",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=977%7C1754908837987"
+    "nextCursor": "978|1754266980000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=978%7C1754266980000"
   }
 }
