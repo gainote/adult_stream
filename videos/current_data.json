@@ -1,42 +1,81 @@
 {
   "items": [
     {
-      "id": 17576,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3fac76fe-6824-4794-87cd-b807b60a8700/original=true/3fac76fe-6824-4794-87cd-b807b60a8700.jpeg",
-      "hash": "U8IqDh00GZ^k01J.^+RkAI-UOYD%~Vxb%2xa",
-      "width": 400,
-      "height": 720,
+      "id": 100248063,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3225139b-88a9-4140-b186-852b65440583/original=true/3225139b-88a9-4140-b186-852b65440583.jpeg",
+      "hash": "UTJGTW~BbvR.tlxvS$t70eRkniShNHIVV@$f",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2023-09-22T22:27:04.983Z",
-      "postId": 83968,
+      "createdAt": "2025-09-16T15:07:00.000Z",
+      "postId": 22240905,
       "stats": {
-        "cryCount": 0,
-        "laughCount": 1,
-        "likeCount": 10,
+        "cryCount": 125,
+        "laughCount": 194,
+        "likeCount": 1767,
         "dislikeCount": 0,
-        "heartCount": 1,
-        "commentCount": 0
+        "heartCount": 833,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "400x720",
-        "seed": 3665098472,
-        "steps": 110,
-        "prompt": "Masterpiece colored picture of a beautiful nude Russian woman, wide hips, big butt, toned, full-length photo, 70mm lens, brunette, messy hair, hourglass figure, aesthetic, symmetrical, posing, athletic, sharp, pale skin, hazel eyes, textured skin, perfect body, long hair, angular face, goosebumps, 1girl, realistic, in a bed, from behind, big heart shaped ass, showing ass, top down camera, C cup breasts, detailed, slim, small waist, (toned abs:1.2), (perfect fingers:1.2), large eyes, amused, perfect pussy, pubic hair, photographed by a Nikon Z7 II Camera",
-        "sampler": "DPM++ 2S a Karras",
-        "cfgScale": 6,
-        "Model hash": "4cf12f5d",
-        "negativePrompt": "floating limbs, disconnected limbs, anime, kitsch, cartoon, penis, fake, (black and white), airbrush, drawing, illustration, boring, 3d render, long neck, out of frame, extra fingers, mutated hands, monochrome, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, glitchy, bokeh, (((long neck))), (child), (childlike), 3D, 3DCG, cgstation, red eyes, multiple subjects, extra heads, close up, man, ((asian)), text, bad anatomy, morphing, messy broken legs decay, ((simple background)), deformed body, lowres, bad anatomy, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low jpeg artifacts, signature, watermark, username, blurry, out of focus, old, amateur drawing, odd, fat, morphing, ((simple background)), artifacts, signature, artist name, [blurry], disfigured, mutated, (poorly hands), messy broken legs, decay, painting, duplicate, closeup, piercing"
+        "Model": "urn:air:sdxl:checkpoint:civitai:1025051@2186168",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1025051@2186168"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\n\nsmooth skin,\n(freckles:0.9),\n(messy hairs:0.9),\n\n ass folds,\nbent over,\nopen (fishnet:0.5)  pantyhose,\nrabbit ears,\nback head,\norange sofa,\nroom,\n(high angle:0.8),\nhorny posing,\nblonde,\n(waist:1.2),\n(shy:1.2),\n(small innie accurate pussy:0.7),\n",
+        "denoise": 0.02,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/121747853419315676203598758648303053614.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuSOIecZF9wjJIBfx10TFpM7fYz8NIC7DlNenhsq_tkQBzVn-uJnsKQkFmFFRSQpUulo2EViCVUxXfPyyjOyIXUdd-77Xps6V_f7SFAwvQcDhxIOvupPCdQ9Lbjz5NQ1syFlZFJg-1oYsC-CrJxn-AfzJ5gOc6rxeo2b1bRnL3W6emEgMZSH5FblCwD2xo9nODgATCitE8TQk0cqNujj6PtGrW0GYZYwuI5YYJK2rXqPzxd67xGLCoVKwcnmxp6Wy_6ZhsD2oW--CwhF0BqE7J0SGgMCeu5dqm6HyhqYtJ5J0g&exp=2026-09-14T08:30:05.0580800Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "\nbad quality, worst quality, worst detail,censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, blurry face, greyscale, (deformed), bestiality,\n",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 2186168
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 1976924
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 2204273
+          }
+        ]
       },
-      "username": "skeezito",
-      "baseModel": "SD 1.5",
-      "modelVersionIds": []
+      "username": "vovkkabanko",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1976924,
+        2186168,
+        2204273
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "974|1695426688523",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=974%7C1695426688523"
+    "nextCursor": "975|1752709680000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=975%7C1752709680000"
   }
 }
