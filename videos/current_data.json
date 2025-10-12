@@ -1,42 +1,155 @@
 {
   "items": [
     {
-      "id": 84451916,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6573c22-f843-42f7-9983-77f85d67e61c/original=true/d6573c22-f843-42f7-9983-77f85d67e61c.jpeg",
-      "hash": "UBGkwh~p000M0LE24.xtM^-o$*9v59e,$yM}",
-      "width": 1280,
-      "height": 1856,
+      "id": 102022519,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06e3a045-d6d8-4b5e-91bd-be25b01ed561/original=true/06e3a045-d6d8-4b5e-91bd-be25b01ed561.jpeg",
+      "hash": "U5A0k4~W00EM?cxZ9YE100oz^-M_9E%N^,xZ",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-26T00:37:00.000Z",
-      "postId": 18746367,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-24T00:16:00.000Z",
+      "postId": 22633610,
       "stats": {
-        "cryCount": 105,
-        "laughCount": 224,
-        "likeCount": 1818,
+        "cryCount": 137,
+        "laughCount": 203,
+        "likeCount": 1743,
         "dislikeCount": 0,
-        "heartCount": 769,
+        "heartCount": 830,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "Kalrdr",
+      "meta": {
+        "TI": {},
+        "Size": "832x1216",
+        "seed": 1285234406,
+        "Model": "JANKUV5NSFWTrainedNoobaiEPS_v50",
+        "steps": 30,
+        "prompt": "1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,\ndutch angle,  from above, from front,\nblonde hair, long hair,straight hair,\nred eyes(,looking at viewer),\nlight smile,heavy breathing, \nlarge breasts,collarbone,large areolae, naked,\nfeet out of frame,\nlying back, on back,on bed,pink bed,\npink condom wrapper in mouth,\nhead on pillow,\n(beckoning), hand up,hand focus, foreshortening, hand on own chest,arm up, reaching towards viewer, \nindicate details, vignetting, shadow,dark,night,convenient leg, \nlazypos\n<lora:freng_style:0.8>\n<lora:CunnyfunkyV7.0:0.8>\n<lora:fashiongirl-v1-ILXL:1>\n<lora:Murata_san_style_v2:0.55>\n<lora:ma1ma1helmes_b:0.4> ma1ma1helmes_b_illu,sketch\n<lora:lightingSlider:-0.7> dark, late night, blue hour",
+        "Version": "f2.0.1v1.10.1-1.10.1",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "resources": [
+          {
+            "name": "freng_style",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "name": "CunnyfunkyV7.0",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "name": "fashiongirl-v1-ILXL",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "name": "Murata_san_style_v2",
+            "type": "lora",
+            "weight": 0.55
+          },
+          {
+            "name": "ma1ma1helmes_b",
+            "type": "lora",
+            "weight": 0.4
+          }
+        ],
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_IllustrationJaNai_V1_DAT2_190k",
+        "negativePrompt": "lazyneg,lazyhand,lazyloli,logo,badge,dated,symbol-shaped pupils,  lips,multicolored hair,water,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "5",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1896532
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1986244
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1920055
+          },
+          {
+            "type": "lycoris",
+            "weight": 1,
+            "modelVersionId": 1420683
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1306061
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1447126
+          },
+          {
+            "type": "lora",
+            "weight": -0.7,
+            "modelVersionId": 1444863
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1833157
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1860747
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1833199
+          }
+        ],
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.5",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "hand_yolov8n.pt",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.3",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer denoising strength 2nd": "0.25",
+        "ADetailer inpaint only masked 2nd": "True"
+      },
+      "username": "Bunnykiin",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        111363,
-        164821,
-        333245,
-        372639,
-        1412563,
-        1490781,
-        1890044
+        1306061,
+        1420683,
+        1444863,
+        1447126,
+        1833157,
+        1833199,
+        1860747,
+        1896532,
+        1920055,
+        1986244
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "985|1758672960000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=985%7C1758672960000"
+    "nextCursor": "986|1756484328132",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=986%7C1756484328132"
   }
 }
