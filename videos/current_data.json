@@ -1,144 +1,79 @@
 {
   "items": [
     {
-      "id": 54095009,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbe925ac-67b5-45d8-b3fb-77b01e5b0c86/original=true/dbe925ac-67b5-45d8-b3fb-77b01e5b0c86.jpeg",
-      "hash": "UKI#Dcx^I:%g?^x]D%xv0KxaIAj@M|s.xtn$",
-      "width": 3072,
-      "height": 5376,
+      "id": 51166806,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b624659b-27b5-4c85-8c8f-b70c714ef973/original=true/b624659b-27b5-4c85-8c8f-b70c714ef973.jpeg",
+      "hash": "UAG*]AD%00~VyEE1RO-p00ae.8x]IoxZ4nkD",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-27T06:01:00.000Z",
-      "postId": 12136769,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-13T08:05:00.000Z",
+      "postId": 11509019,
       "stats": {
-        "cryCount": 83,
-        "laughCount": 170,
-        "likeCount": 1749,
+        "cryCount": 85,
+        "laughCount": 180,
+        "likeCount": 1807,
         "dislikeCount": 0,
-        "heartCount": 923,
-        "commentCount": 2
+        "heartCount": 852,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 0,
-        "Model": "waiNSFWIllustrious_v90",
+        "Size": "832x1216",
+        "seed": 1576149518,
+        "Model": "ilustmix_v10_1153726",
         "steps": 25,
         "hashes": {
-          "model": "178fc987b2",
-          "lora:ILXL_NPi": "8987b357df",
-          "lora:ILXL_NP21i": "19368c466c",
-          "lora:g0thicILL3": "9e6f5d6e5b",
-          "lora:hand 4 SDXL": "2ad54bfcac",
-          "lora:feet v3 SDXL": "945760630b",
-          "lora:add-detail-xl": "0d9bd1b873",
-          "lora:reij-detaILer": "5dc980fda3",
-          "lora:feet_anime_il_v2": "d262d48cdc",
-          "lora:Expressive_H-000001": "7b53da0391",
-          "lora:HandFixer_pdxl_Incrs_v1": "f013d372ae",
-          "lora:StS_PonyXL_Detail_Slider_v1": "e557f50a1e",
-          "lora:illustriousXL_stabilizer_v1": "1ae641b2d0",
-          "lora:breasts_size_slider_illustrious_goofy": "61e2e0e923"
+          "model": "3e63a8cfe3"
         },
-        "sampler": "Euler A",
-        "cfgScale": 7,
+        "prompt": "depth of field, focused subject, dynamic angle, dynamic pose, best quality, detailed eyes, perfect eyes, realistic eyes, white hair, long hair, blue eyes, ((full lips)), (black eyeliner), (freckles), slim body, (chains), (web lines on wrists), (web lines on ankles), (web dress), (white dress), torn dress, revealing dress, small ass, [small breast], realistic breast, naked, BREAK, (realistic nipples), ((vagina, vulva, clitoris)), (pussy presentation:1.3), BREAK, sitting, legs drawn up, chin on knees, arms on sides, front view, looking at viewer, movie perspective, dark background, abstract background, ((spider web)), (web lines), dynamic light,",
+        "Version": "v1.10.1",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "resources": [
           {
-            "hash": "d262d48cdc",
-            "name": "feet_anime_il_v2",
-            "type": "lora"
-          },
-          {
-            "hash": "945760630b",
-            "name": "feet v3 SDXL",
-            "type": "lora"
-          },
-          {
-            "hash": "2ad54bfcac",
-            "name": "hand 4 SDXL",
-            "type": "lora"
-          },
-          {
-            "hash": "f013d372ae",
-            "name": "HandFixer_pdxl_Incrs_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "5dc980fda3",
-            "name": "reij-detaILer",
-            "type": "lora"
-          },
-          {
-            "hash": "8987b357df",
-            "name": "ILXL_NPi",
-            "type": "lora"
-          },
-          {
-            "hash": "19368c466c",
-            "name": "ILXL_NP21i",
-            "type": "lora"
-          },
-          {
-            "hash": "1ae641b2d0",
-            "name": "illustriousXL_stabilizer_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "9e6f5d6e5b",
-            "name": "g0thicILL3",
-            "type": "lora"
-          },
-          {
-            "hash": "61e2e0e923",
-            "name": "breasts_size_slider_illustrious_goofy",
-            "type": "lora"
-          },
-          {
-            "hash": "e557f50a1e",
-            "name": "StS_PonyXL_Detail_Slider_v1",
-            "type": "lora"
-          },
-          {
-            "hash": "0d9bd1b873",
-            "name": "add-detail-xl",
-            "type": "lora"
-          },
-          {
-            "hash": "7b53da0391",
-            "name": "Expressive_H-000001",
-            "type": "lora"
-          },
-          {
-            "hash": "178fc987b2",
-            "name": "waiNSFWIllustrious_v90",
+            "hash": "3e63a8cfe3",
+            "name": "ilustmix_v10_1153726",
             "type": "model"
           }
         ],
-        "Model hash": "178fc987b2",
-        "Schedule type": "Karras"
+        "Model hash": "3e63a8cfe3",
+        "Schedule type": "Automatic",
+        "negativePrompt": "child, bed, (glowing eyes), (worst quality, low quality, sketch:1.1),error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowers, multiple views, signature, 3D,",
+        "ADetailer model": "face_yolov8s.pt",
+        "ADetailer version": "24.11.1",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "female-breast-v4.7.pt",
+        "ADetailer model 3rd": "vagina-v4.1.pt",
+        "ADetailer confidence": "0.6",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer mask blur 3rd": "4",
+        "ADetailer confidence 2nd": "0.6",
+        "ADetailer confidence 3rd": "0.6",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer dilate erode 3rd": "4",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer inpaint padding 3rd": "32",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer denoising strength 3rd": "0.4",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer inpaint only masked 3rd": "True"
       },
-      "username": "Tozi_White",
-      "baseModel": "IllustriousIllustrious",
+      "username": "GZees",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        1283437,
-        1330692,
-        1229794,
-        471794,
-        1156521,
-        1061714,
-        382152,
-        1277370,
-        471781,
-        1124566,
-        1253442,
-        712947,
-        945805
+        1248100
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "969|1736755500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=969%7C1736755500000"
+    "nextCursor": "970|1746664380000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=970%7C1746664380000"
   }
 }
