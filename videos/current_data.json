@@ -1,82 +1,116 @@
 {
   "items": [
     {
-      "id": 74867263,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f14d3d52-5766-4c26-960d-517b5cc3d839/original=true/f14d3d52-5766-4c26-960d-517b5cc3d839.jpeg",
-      "hash": "UOJtL:-SM{s.0$o0s.of02E3Rkt7~9E3M|xt",
-      "width": 1560,
-      "height": 2880,
-      "nsfwLevel": "Mature",
+      "id": 95573031,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/306739fd-a181-4dab-9796-a6b284cac3e1/original=true/306739fd-a181-4dab-9796-a6b284cac3e1.jpeg",
+      "hash": "U8Eex*ITRi0M~9DhVrJD4n?bMc%$rqx^9Fx]",
+      "width": 1792,
+      "height": 2304,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-08T00:33:00.000Z",
-      "postId": 16623678,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-21T09:18:00.000Z",
+      "postId": 21198679,
       "stats": {
-        "cryCount": 134,
-        "laughCount": 215,
-        "likeCount": 1906,
+        "cryCount": 120,
+        "laughCount": 182,
+        "likeCount": 1791,
         "dislikeCount": 0,
-        "heartCount": 667,
-        "commentCount": 2
+        "heartCount": 827,
+        "commentCount": 0
       },
       "meta": {
-        "RNG": "CPU",
-        "Size": "1344x1344",
-        "seed": 2435121432,
-        "Model": "waiIllustrious_v90",
-        "steps": 28,
+        "Size": "896x1152",
+        "seed": 636921689,
+        "Model": "cyberrealisticPony_v120",
+        "steps": 35,
         "hashes": {
-          "model": "178fc987b2",
-          "lora:nhl-004": "2abfc69f8d0c",
-          "lora:nhl-002-nai": "710940408878"
+          "model": "119a879b00",
+          "lora:Remacri": "E1A73BD89C",
+          "lora:RealSkin_xxXL_v1": "229FD1D9A1",
+          "lora:natural_breasts_v1": "70efb7db703d",
+          "lora:amateur_style_v1_pony": "033E6462E9"
         },
-        "prompt": "1girl,  (by\nmorihito, by kotteri,\n:1.2),  by kukka,  \n*ADELE DESCRIPTION*\n,masterpiece, highres, \n<lora:nhl-004:0.65> nhl-004, <lora:nhl-002-nai:0.3>  nhl-002,",
-        "Version": "f1.6.5dev-v1.10.1RC-latest-2104-g7af1b9d7",
-        "sampler": "Euler a",
-        "Emphasis": "No norm",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "Mask blur": "4",
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, high quality, realistic,\n1girl, 23yo, tan skin, (huge breasts), small nipples, (flat stomach), slim, petite, skinny, sexy pose, realistic skin with natural imperfections, high-resolution skin pores, nude, looking_back, tight pussy, labia, beautiful pussy,\ncute face, blonde ponytail hair, blue eyes, (freckles:0.6), intense stare, exhausted, detailed face, detailed eyes,\nluxurious desert tent at sunset, sheer fabrics, silk cushions, aromatic spices, (fetal_position), tasty ass, crunchy ass,\nlow-angle view, ultra-detailed shading, 8k resolution, morning dew light\n<lora:natural_breasts_v1:1> <lora:amateur_style_v1_pony:1> <lora:RealSkin_xxXL_v1:1>",
+        "Version": "f2.0.1v1.10.1-previous-665-gae278f79",
+        "sampler": "DPM++ 2M SDE",
+        "Module 1": "sdxl_vae",
+        "cfgScale": 5,
         "resources": [
           {
-            "hash": "2abfc69f8d0c",
-            "name": "nhl-004",
+            "hash": "70efb7db703d",
+            "name": "natural_breasts_v1",
             "type": "lora",
-            "weight": 0.65
+            "weight": 1
           },
           {
-            "hash": "710940408878",
-            "name": "nhl-002-nai",
+            "hash": "033E6462E9",
+            "name": "amateur_style_v1_pony",
             "type": "lora",
-            "weight": 0.3
+            "weight": 1
           },
           {
-            "hash": "178fc987b2",
-            "name": "waiIllustrious_v90",
+            "hash": "229FD1D9A1",
+            "name": "RealSkin_xxXL_v1",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "E1A73BD89C",
+            "name": "Remacri",
+            "type": "lora"
+          },
+          {
+            "hash": "119a879b00",
+            "name": "cyberrealisticPony_v120",
             "type": "model"
           }
         ],
-        "Model hash": "178fc987b2",
-        "Inpaint area": "Only masked",
-        "Schedule type": "Beta",
-        "negativePrompt": "jpeg artifacts, bad hands, (text:1.1), error, missing finger, extra digits, fewer digits, cropped, signature, watermark, username, bad anatomy, blurry,\nscanlines, hair intakes,\nworst quality, low quality, low score, bad score, lowres,\nai-generated, ai-assisted,",
-        "Beta schedule beta": "0.6",
-        "Denoising strength": "0.01",
-        "Beta schedule alpha": "0.6",
-        "Masked area padding": "32"
+        "Model hash": "119a879b00",
+        "Hires steps": "5",
+        "Hires upscale": "2",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_foolhardy_Remacri",
+        "ADetailer model": "mediapipe_face_full",
+        "Hires CFG Scale": "5",
+        "ADetailer prompt": {},
+        "dynthres_enabled": "True",
+        "ADetailer version": "25.3.0",
+        "dynthres_cfg_mode": "Constant",
+        "Denoising strength": "0.1",
+        "dynthres_sched_val": "1",
+        "ADetailer mask blur": "8",
+        "dynthres_mimic_mode": "Constant",
+        "ADetailer confidence": "0.3",
+        "dynthres_mimic_scale": "7",
+        "ADetailer dilate erode": "4",
+        "ADetailer extract line": "3",
+        "dynthres_cfg_scale_min": "0",
+        "ADetailer extract enable": "True",
+        "dynthres_interpolate_phi": "1",
+        "dynthres_mimic_scale_min": "0",
+        "ADetailer inpaint padding": "32",
+        "dynthres_scaling_startpoint": "MEAN",
+        "ADetailer denoising strength": "0.3",
+        "dynthres_variability_measure": "AD",
+        "ADetailer inpaint only masked": "True",
+        "dynthres_threshold_percentile": "1",
+        "dynthres_separate_feature_channels": "enable"
       },
-      "username": "witcherhannibal",
-      "baseModel": "Illustrious",
+      "username": "titan77",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1283437,
-        1536744,
-        1596323
+        164821,
+        1594293,
+        1681921,
+        1928679
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "971|1755767880000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=971%7C1755767880000"
+    "nextCursor": "972|1752270956411",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=972%7C1752270956411"
   }
 }
