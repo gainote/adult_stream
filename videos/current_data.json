@@ -1,72 +1,87 @@
 {
   "items": [
     {
-      "id": 81524278,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/96b7ee9e-b105-4087-832a-eef5b72957c1/original=true/96b7ee9e-b105-4087-832a-eef5b72957c1.jpeg",
-      "hash": "UFK^W=NI00~X00E0%hRk00D%NJShtmxbnOyC",
-      "width": 1216,
-      "height": 1024,
-      "nsfwLevel": "X",
+      "id": 34931655,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b75ea7b8-b4da-4fc4-a6a2-99497fa01dc9/original=true/b75ea7b8-b4da-4fc4-a6a2-99497fa01dc9.jpeg",
+      "hash": "UfO{,R-;%gxZ?^kD-;IUE,t7nhRjibs:s.IU",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-06-10T15:25:00.000Z",
-      "postId": 18108766,
+      "browsingLevel": 4,
+      "createdAt": "2024-10-16T16:35:11.443Z",
+      "postId": 7983645,
       "stats": {
-        "cryCount": 141,
-        "laughCount": 204,
-        "likeCount": 1735,
+        "cryCount": 111,
+        "laughCount": 247,
+        "likeCount": 1664,
         "dislikeCount": 0,
-        "heartCount": 863,
-        "commentCount": 8
+        "heartCount": 922,
+        "commentCount": 32
       },
       "meta": {
-        "Size": "1216x1024",
-        "seed": 1168518268,
-        "Model": "ntrMIXIllustriousXL_xiii",
-        "steps": 29,
+        "": {},
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "1248x1824",
+        "seed": 2081279144,
+        "Model": "prefect_pony_xl_v2.fp16",
+        "steps": 20,
         "hashes": {
-          "model": "1207404b17",
-          "lora:GEN(illust) 0.2v": "ad5c03327d87"
+          "vae": "235745af8d",
+          "model": "517caf19d7",
+          "lora:thong_over_anus_pdxl_goofy": "086cf8e73d17"
         },
-        "prompt": "1girl, large breast, long hair, skirt, shirt, black hair, hair ornament, twintails, white shirt, sailor collar, heterochromia, Overly detailed, decorated, lots of accessories, piercings, bandages, bandaids, under-eye bags, dark circles under the eyes, Jirai kei, gothic   \n,\nnaked towel, sideboob, wet clothes, covering breasts, covering crotch, areolae, onsen, full-face blush, blush, embarrassed, looking at looking at viewer, from below, dynamic angle \n,\nmasterpiece, best quality, very aesthetic, absurdres, Detailed face, detailed background, <lora:GEN(illust) 0.2v:1> cinematic, lighting, 1=2",
-        "Version": "f2.0.1v1.10.1-previous-662-g0ced1d0c",
-        "sampler": "Euler a",
-        "cfgScale": 5,
+        "prompt": "score_9,score_8_up,score_7_up, <lora:thong_over_anus_pdxl_goofy:1> thong over anus, ass focus, 1girl, anus, stocking (psg), striped, solo, anus peek, huge ass, ass, thong, multicolored hair, striped thighhighs, looking at viewer, thighhighs, panties, black hair, long hair, underwear, pubic hair, white background, striped panties, female pubic hair, bangs, simple background, looking back, hair bow, bow, thighs, pink hair, blunt bangs, blue eyes, g-string",
+        "Version": "v1.10.1",
+        "sampler": "DPM++ 2M",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
         "resources": [
           {
-            "hash": "ad5c03327d87",
-            "name": "GEN(illust) 0.2v",
-            "type": "lora"
+            "hash": "086cf8e73d17",
+            "name": "thong_over_anus_pdxl_goofy",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "hash": "1207404b17",
-            "name": "ntrMIXIllustriousXL_xiii",
+            "hash": "517caf19d7",
+            "name": "prefect_pony_xl_v2.fp16",
             "type": "model"
           }
         ],
-        "Model hash": "1207404b17",
-        "Schedule type": "Automatic",
-        "negativePrompt": "bad quality,worst quality,worst detail,watermark, bad anatomy,",
+        "Model hash": "517caf19d7",
+        "Tile Overlap": "48",
+        "Schedule type": "Karras",
+        "Upscale factor": "1.5",
+        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
         "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "25.3.0",
+        "Keep input size": "true}",
+        "Tile batch size": "6",
+        "Tile tile width": "160",
+        "Tiled Diffusion": {},
+        "Tile tile height": "160",
+        "ADetailer version": "24.8.0",
+        "Denoising strength": "0.3",
         "ADetailer mask blur": "4",
         "ADetailer confidence": "0.3",
         "ADetailer dilate erode": "4",
+        "Tiled Diffusion upscaler": "4x-UltraSharp",
         "ADetailer inpaint padding": "32",
         "ADetailer denoising strength": "0.4",
+        "Tiled Diffusion scale factor": "1.5",
         "ADetailer inpaint only masked": "True"
       },
-      "username": "MrZhigga",
-      "baseModel": "Illustrious",
+      "username": "Goofy_Ai",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1099179,
-        1166878
+        686553
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "952|1729096511443",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=952%7C1729096511443"
+    "nextCursor": "953|1751007720000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=953%7C1751007720000"
   }
 }
