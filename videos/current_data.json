@@ -1,56 +1,179 @@
 {
   "items": [
     {
-      "id": 50945554,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0629bd3-47c2-4f06-9a25-03b16d44d4e4/original=true/a0629bd3-47c2-4f06-9a25-03b16d44d4e4.jpeg",
-      "hash": "UMCsgFMyjYa$~oE1WBofS^E1WEt7oeWBoNof",
-      "width": 1536,
-      "height": 2304,
-      "nsfwLevel": "Mature",
+      "id": 85420748,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dda6db46-6359-4e89-9a71-2c7b9ff55be9/original=true/dda6db46-6359-4e89-9a71-2c7b9ff55be9.jpeg",
+      "hash": "U3B.$I}s000z00%2GG5QzoxF^*oe_NNG4:Nd",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-01-11T14:20:21.558Z",
-      "postId": 11460141,
+      "browsingLevel": 8,
+      "createdAt": "2025-06-30T10:48:00.000Z",
+      "postId": 18958517,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 192,
-        "likeCount": 1878,
+        "cryCount": 91,
+        "laughCount": 195,
+        "likeCount": 1775,
         "dislikeCount": 0,
-        "heartCount": 753,
-        "commentCount": 0
+        "heartCount": 854,
+        "commentCount": 2
       },
       "meta": {
-        "seed": 979425305,
+        "seed": 2112336569,
         "vaes": [
-          "sdxl-vae-fp16-fix.safetensors"
+          "urn:air:sdxl:vae:civitai:296576@333245"
         ],
-        "comfy": "{\"prompt\": {\"10001\": {\"class_type\": \"ECHOCheckpointLoaderSimple\", \"inputs\": {\"ckpt_name\": \"EMS-557253-EMS.safetensors\"}, \"_properties\": null}, \"10010\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10001\", 1], \"model\": [\"10001\", 0], \"text\": \"<lora:EMS-591385-EMS.safetensors:0.400000>,<lora:EMS-651494-EMS.safetensors:0.600000>,<lora:EMS-672653-EMS.safetensors:0.400000>\"}, \"_properties\": null}, \"10011\": {\"class_type\": \"VAELoader\", \"inputs\": {\"vae_name\": \"sdxl-vae-fp16-fix.safetensors\"}, \"_properties\": null}, \"10012\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"10010\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"10013\": {\"class_type\": \"EmptyLatentImage\", \"inputs\": {\"batch_size\": 2, \"height\": 1152, \"width\": 768}, \"_properties\": null}, \"10024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"1girl, annora, goth girl, solo, bangs over eyes, short hair, goth clothes, choker, high shoes, fishnet, skull print, cutesexyrobutts, wlop, orange maru, dishwasher1910, masterpiece, best quality, good quality, absurdres, newest, very aesthetic\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"10025\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"(low quality, worst quality), patreon, artist name, displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, simple background, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11001\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 1.0, \"ensd\": 31337, \"latent_image\": [\"10013\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 979425305, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11008\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11001\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11011\": {\"class_type\": \"UpscaleModelLoader\", \"inputs\": {\"model_name\": \"RealESRGAN_x4plus_anime_6B.pth\"}, \"_properties\": null}, \"11012\": {\"class_type\": \"ImageUpscaleWithModel\", \"inputs\": {\"image\": [\"11008\", 0], \"upscale_model\": [\"11011\", 0]}, \"_properties\": null}, \"11013\": {\"class_type\": \"ImageScale\", \"inputs\": {\"crop\": \"disabled\", \"height\": 2304, \"image\": [\"11012\", 0], \"upscale_method\": \"nearest-exact\", \"width\": 1536}, \"_properties\": null}, \"11014\": {\"class_type\": \"VAEEncode\", \"inputs\": {\"pixels\": [\"11013\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11015\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 0.35, \"ensd\": 31337, \"latent_image\": [\"11014\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 979425305, \"seed_mode\": \"A1111\", \"steps\": 20}, \"_properties\": null}, \"11016\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11015\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11018\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10012\", 0], \"model\": [\"10010\", 0], \"text\": \"ECHO_EMPTY\"}, \"_properties\": null}, \"11019\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"11018\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"11021\": {\"class_type\": \"YoloDetectorProvider\", \"inputs\": {\"max_faces\": 5, \"model_name\": \"bbox/face_yolov8n_v2.pt\"}, \"_properties\": null}, \"11022\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"1girl, annora, goth girl, solo, bangs over eyes, short hair, goth clothes, choker, high shoes, fishnet, skull print, cutesexyrobutts, wlop, orange maru, dishwasher1910, masterpiece, best quality, good quality, absurdres, newest, very aesthetic\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"(low quality, worst quality), patreon, artist name, displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, simple background, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11025\": {\"class_type\": \"FaceDetector_ad\", \"inputs\": {\"bbox_detector\": [\"11021\", 0], \"bbox_threshold\": 0.5, \"dilate_erode\": 4, \"image\": [\"11016\", 0], \"mask_merge_mode\": \"None\", \"x_offset\": 0, \"y_offset\": 0}, \"_properties\": null}, \"11026\": {\"class_type\": \"InpaintCrop_ad\", \"inputs\": {\"blend_pixels\": 16.0, \"blur_mask\": 4.0, \"context_expand_factor\": 1.0, \"context_expand_pixels\": 32, \"fill_mask_holes\": true, \"force_height\": 1152, \"force_width\": 768, \"images\": [\"11025\", 0], \"invert_mask\": false, \"masks\": [\"11025\", 1], \"mode\": \"forced size\", \"rescale_algorithm\": \"bicubic\"}, \"_properties\": null}, \"11027\": {\"class_type\": \"InpaintModelConditioning\", \"inputs\": {\"mask\": [\"11026\", 2], \"negative\": [\"11024\", 0], \"noise_mask\": true, \"pixels\": [\"11026\", 1], \"positive\": [\"11022\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11028\": {\"class_type\": \"DifferentialDiffusion\", \"inputs\": {\"model\": [\"11018\", 0]}, \"_properties\": null}, \"11029\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"control_after_generate\": \"fixed\", \"denoise\": 0.4, \"ensd\": 31337, \"latent_image\": [\"11027\", 2], \"model\": [\"11028\", 0], \"negative\": [\"11027\", 1], \"positive\": [\"11027\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 979425305, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11030\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11029\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11031\": {\"class_type\": \"InpaintStitchOneImage_ad\", \"inputs\": {\"inpainted_images\": [\"11030\", 0], \"rescale_algorithm\": \"bicubic\", \"stitchs\": [\"11026\", 0]}, \"_properties\": null}, \"12004\": {\"class_type\": \"SaveImage\", \"inputs\": {\"filename_prefix\": \"816625269115832988\", \"images\": [\"11031\", 0]}, \"_properties\": null}}, \"workflow\": undefined}",
-        "steps": 25,
-        "width": 768,
-        "height": 1152,
-        "models": [],
-        "prompt": "1girl, annora, goth girl, solo, bangs over eyes, short hair, goth clothes, choker, high shoes, fishnet, skull print, cutesexyrobutts, wlop, orange maru, dishwasher1910, masterpiece, best quality, good quality, absurdres, newest, very aesthetic",
-        "denoise": 1,
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": " 1girl, ginger hair, freckles, kneeling, hands on floor, on table, loin cloth, ass view, showing off ass, look back at viewer, shy, blush, feet, soles, breasts hanging, black_fabric, bikini top, skimpy outfit, knees apart, labia\n\nsee-through silhouette, glow, masterpiece, ultra-HD, cinematic lighting, photorealistic, realistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, 8k,( light particles:1.4), nsfw, black background, rim light, s1_dram ",
+        "denoise": 0.3,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3,
+        "clipSkip": 2,
         "modelIds": [],
-        "scheduler": "normal",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
         "upscalers": [
-          "RealESRGAN_x4plus_anime_6B.pth"
+          "urn:air:other:upscaler:civitai:147759@164821"
         ],
+        "disablePoi": true,
         "versionIds": [],
+        "aspectRatio": "13:19",
         "controlNets": [],
-        "negativePrompt": "(low quality, worst quality), patreon, artist name, displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, simple background, comic, frames",
-        "additionalResources": []
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/0VX0Y21G76QZYV662JB617XFC0.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1280045
+          },
+          {
+            "weight": 1.75,
+            "modelVersionId": 1726985
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1864838
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 333245
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1280045
+          },
+          {
+            "type": "lora",
+            "weight": 1.75,
+            "modelVersionId": 1726985
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1864838
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
+            "type": "lora",
+            "strength": 1.75,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1647387@1864838",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Twisowk",
+      "username": "DrPeeHands",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        164821,
+        333245,
+        1189052,
+        1240288,
+        1280045,
+        1416874,
+        1726985,
+        1864838
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "983|1751280480000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=983%7C1751280480000"
+    "nextCursor": "984|1750898220000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=984%7C1750898220000"
   }
 }
