@@ -1,83 +1,77 @@
 {
   "items": [
     {
-      "id": 93428100,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0291f19-4394-47ba-b15e-bc6bec8ce9cc/original=true/e0291f19-4394-47ba-b15e-bc6bec8ce9cc.jpeg",
-      "hash": "UVL4~mtTPXxv5am+XUEND..7Djiv?Hx@xYxt",
-      "width": 1152,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 89821023,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7c491fc0-15c9-4f0f-bc4b-7d1fc2ca3a92/original=true/7c491fc0-15c9-4f0f-bc4b-7d1fc2ca3a92.jpeg",
+      "hash": "UBGt{ROZ?]?H0L%h01Z~14-;,.9a?^x]^ji^",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-11T10:40:37.987Z",
-      "postId": 20727865,
+      "browsingLevel": 8,
+      "createdAt": "2025-08-04T00:23:00.000Z",
+      "postId": 19923235,
       "stats": {
-        "cryCount": 123,
-        "laughCount": 207,
-        "likeCount": 1740,
+        "cryCount": 149,
+        "laughCount": 205,
+        "likeCount": 1826,
         "dislikeCount": 0,
-        "heartCount": 847,
+        "heartCount": 737,
         "commentCount": 0
       },
       "meta": {
-        "RNG": "NV",
-        "ENSD": "31337",
-        "Size": "768x1216",
-        "seed": 1002175683,
-        "Model": "hassakuXLIllustrious_v13StyleA",
-        "steps": 28,
-        "hashes": {
-          "model": "163ac69059",
-          "lora:Chun-li_Swimsuit_Illu_Dwnsty": "41fc8ccc7749"
-        },
-        "prompt": "best quality, absurdres, newest, very aesthetic, amazing quality, highres, ultra detailed, mature female, \n <lora:Chun-li_Swimsuit_Illu_Dwnsty:1>, chnl1sfsw1m, brown eyes, black hair, hair bun, double bun, swept bangs, braided hair rings, short hair, hair ornament, hair flower, blue flower, earrings, jewelry, blue one-piece swimsuit, highleg swimsuit, gold trim, large breasts, back cutout, belly chain, gold chain, blue bracelet, blue nails, nail polish, toned female, thick thighs, thigh ribbon, blue ribbon, 1girl, ass, water, blue sky, looking at viewer, cloud, smile, wading, outdoors, day, parted lips, looking back, bare shoulders, partially submerged, ocean, from side, profile, hand sup, arm up, dutch angle,",
-        "Version": "f2.0.1v1.10.1-previous-636-gb835f24a",
-        "sampler": "Euler a",
-        "Module 1": "sdxl_vae",
-        "cfgScale": 5,
-        "resources": [
+        "Size": "832x1216",
+        "seed": 1451077215,
+        "draft": false,
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, very lewd look, caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, smaller natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-22T1610:15.2720281Z",
+        "experimental": false,
+        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
+        "civitaiResources": [
           {
-            "hash": "41fc8ccc7749",
-            "name": "Chun-li_Swimsuit_Illu_Dwnsty",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
           },
           {
-            "hash": "163ac69059",
-            "name": "hassakuXLIllustrious_v13StyleA",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 1189052,
+            "modelVersionName": "Illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1416874,
+            "modelVersionName": "[illustrious]"
           }
-        ],
-        "Model hash": "163ac69059",
-        "Hires steps": "10",
-        "Hires upscale": "1.5",
-        "Schedule type": "Normal",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "worst quality, low quality,  lowres, watermark, patreon username, artist name, artist logo, text, error, jpeg artifacts, unfinished, oldest, signature, artistic error, username, english text, 4koma, 2koma",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "5",
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "SGM noise multiplier": "True",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "Discard penultimate sigma": "True",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "dwnsty",
-      "baseModel": null,
+      "username": "bm609",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        2099415
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "978|1754266980000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=978%7C1754266980000"
+    "nextCursor": "979|1751159220000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=979%7C1751159220000"
   }
 }
