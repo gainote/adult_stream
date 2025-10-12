@@ -1,84 +1,60 @@
 {
   "items": [
     {
-      "id": 91632858,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/437310ef-303e-4cd0-94cf-c5ce46396ddc/original=true/437310ef-303e-4cd0-94cf-c5ce46396ddc.jpeg",
-      "hash": "UIJs;C^kEL.7NH~W.Rb^0K.7%MIU%fIoMx%2",
-      "width": 1024,
-      "height": 1024,
+      "id": 66964345,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/291a196f-d6a5-4bf2-86d4-8a0ad2b0da6d/original=true/291a196f-d6a5-4bf2-86d4-8a0ad2b0da6d.jpeg",
+      "hash": "UQL:f#|2XW-CF5#St8s.4nx[-TW.kXVsWCR,",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-08-04T01:00:00.000Z",
-      "postId": 20324430,
+      "createdAt": "2025-04-02T07:05:00.000Z",
+      "postId": 14896425,
       "stats": {
-        "cryCount": 178,
-        "laughCount": 227,
-        "likeCount": 1815,
+        "cryCount": 119,
+        "laughCount": 243,
+        "likeCount": 1753,
         "dislikeCount": 0,
-        "heartCount": 715,
+        "heartCount": 820,
         "commentCount": 0
       },
       "meta": {
-        "Size": "1024x1024",
-        "seed": 110039162,
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1433787822,
         "draft": false,
-        "steps": 28,
-        "width": 1024,
-        "height": 1024,
-        "prompt": "masterpiece, best quality, absurdres, lazypos,\n1girl, solo, adult,\nlupa \\(wuthering waves\\), yellow eyes, red hair, pink hair, gradient hair, twintails, \nbare shoulders, red cape, sidelocks, hair ribbon, hair ornament, bodysuit, black hairband, white bodysuit, bracer, bustier,\ntorn clothes, (exploding clothes:1.8), (covered breasts:1.5),\nhuge breasts, nipples, bursting breasts, (bouncing breasts:1.4), lactation,\n(tentacles:1.2), (pink tentacles:1.1), multiple tentacles,\nprecum,\nblush, angry, surprised, (screaming:1.2),\nrestrained, suspension, arms spread, arm grab, (upper body:1.1),\nindoors, colosseum, arena,\nmotion lines, dutch angle, foreshortening, emphasis lines,",
-        "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "(Opening:0.0), score_9, score_8_up, masterpiece, best quality, erotic tease, absurdres, high detailed, 1girl, 18yo, short bob hair, short hair, (((black hair over eyes))),large breasts, blush, full lips, riding cock, having sex, looking at viewer, (Pose:0.0), arched back, breast press, grabbing breast, skindentation, masturbating, squirt, excessive pussy juice, (Scene:0.0), pink glow behind, lit from side, colorful, soft pastel gradient",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 2,
+        "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "1:1",
-        "Created Date": "2025-07-31T2049:59.8714250Z",
-        "experimental": false,
-        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), lazyneg, bad hands, bad faces, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, monochrome, sketch, octopus, futanari, simple background,",
+        "Created Date": "2025-03-31T0152:25.3728486Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad eyes, bad teeth, long body, blurry,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1053830,
-            "modelVersionName": "Illustrious v1"
-          },
-          {
-            "type": "lora",
-            "weight": 1.5,
-            "modelVersionId": 1719794,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1833157,
-            "modelVersionName": "lazypos v2"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1994852,
-            "modelVersionName": "Illustrious&noob_2.0"
+            "modelVersionId": 1478064,
+            "modelVersionName": "v8.5"
           }
         ]
       },
-      "username": "darkdill",
-      "baseModel": "Illustrious",
+      "username": "someperson358",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1053830,
-        1719794,
-        1833157,
-        1994852
+        1478064
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "961|1743577500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=961%7C1743577500000"
+    "nextCursor": "962|1729899120000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=962%7C1729899120000"
   }
 }
