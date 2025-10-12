@@ -1,107 +1,98 @@
 {
   "items": [
     {
-      "id": 82300259,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3cb561b5-3f87-43be-aa42-f60093c8ef84/original=true/3cb561b5-3f87-43be-aa42-f60093c8ef84.jpeg",
-      "hash": "UADlH400%#IAKj9F~WD%Fe9F^+D%~CIUEMNG",
-      "width": 1280,
-      "height": 1856,
+      "id": 20247862,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c36c087b-9568-4b05-9306-55d5121888c8/original=true/c36c087b-9568-4b05-9306-55d5121888c8.jpeg",
+      "hash": "U4B.TLpK0fn2MzF1;1#76_NH}u=|I;^Ps90}",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-06-14T17:21:00.000Z",
-      "postId": 18280601,
+      "createdAt": "2024-07-17T15:35:49.882Z",
+      "postId": 4516307,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 193,
-        "likeCount": 1753,
+        "cryCount": 93,
+        "laughCount": 166,
+        "likeCount": 1595,
         "dislikeCount": 0,
-        "heartCount": 866,
-        "commentCount": 1
+        "heartCount": 1053,
+        "commentCount": 2
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
-        "extra": {},
-        "steps": 29,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), detailed face, (dynamic:1), 2girls, gbf_style, naked, ass, laying, back, tattoo treatment table, tattoo shop, brown hair, BREAK, black hair, brown eyes, white pupils, goth, crop top, skirt, sitting, working on, holding tattoo  machine, tattoo pen, tattooed, tramp stamp, ",
+        "Size": "832x1216",
+        "seed": 2024067631,
+        "steps": 36,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, solo, sexy beautiful Dora the explorer, grown up, adult,18 years old, black bob cut hair with straight bangs, wet hair, brown eyes, perfect eyes, big eyes, perfect teeths, thicc lips, glossy lips, sexys, medium perky breasts, cleavage, ((tan skin)), wet skin, navel, small hips, slender, small round butt, earrings, ((orange booty shorts wide open revealing pussy)),((small pink tank top)), ((black brazilian thong)),((wet purple backpack)), ((wet clothes)), swollen pussy, underboob, intense pleasure, cowboy shot, nipples visible, panting, embarrassed, blushing, cleavage, breast grab, looking away, rain, dynamic angle,",
         "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "modelIds": [],
-        "workflow": "img2img-hires",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, (loli, child:1.15), curvy, ",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-07-17T1512:37.3404410Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, (watermark), ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1761560
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1761560
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 1880647
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1032397
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1761560
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1880647
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1032397
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1661570@1880647",
-            "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:478058@1032397",
             "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Plantra",
-      "baseModel": "Illustrious",
+      "username": "Cony3D",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1032397,
-        1761560,
-        1880647
+        9208,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "991|1721230549882",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=991%7C1721230549882"
+    "nextCursor": "992|1759978500943",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=992%7C1759978500943"
   }
 }
