@@ -1,82 +1,119 @@
 {
   "items": [
     {
-      "id": 56799121,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5ec08886-be6d-4d73-9740-b96871c92d58/original=true/5ec08886-be6d-4d73-9740-b96871c92d58.jpeg",
-      "hash": "UBAdcst7yFo$PXo}Mxt9EmNGR5V@v|xvxtjr",
-      "width": 1232,
-      "height": 2064,
+      "id": 15998148,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3280e95a-4656-4aeb-b7b3-ea1573fd8b2e/original=true/3280e95a-4656-4aeb-b7b3-ea1573fd8b2e.jpeg",
+      "hash": "UKKwFMT2xa?ayZGcRP%2B?ICIpT0MeXnxFof",
+      "width": 1792,
+      "height": 2432,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-11T21:01:00.000Z",
-      "postId": 12716947,
+      "browsingLevel": 8,
+      "createdAt": "2024-06-16T12:43:37.442Z",
+      "postId": 3573409,
       "stats": {
-        "cryCount": 99,
-        "laughCount": 242,
-        "likeCount": 1881,
+        "cryCount": 82,
+        "laughCount": 182,
+        "likeCount": 1609,
         "dislikeCount": 0,
-        "heartCount": 735,
+        "heartCount": 1084,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 695605009935195,
-        "Model": "waiNSFWIllustrious_v100.safetensors",
-        "https": "//civitai.com/user/Marland_C",
+        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
+        "Size": "1792x2432",
+        "seed": 747987156,
+        "Model": "autismmixSDXL_autismmixConfetti",
         "steps": 30,
         "hashes": {
-          "model": "7e87327f89",
-          "lora:neba": "47f46b6490",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
+          "vae": "235745af8d",
+          "model": "ac006fdd7e",
+          "lora:sitpov": "45348b4380f7",
+          "lora:PijaMix_v1": "1a946326dd2a",
+          "lora:flooxyfloox": "a4f95cfe4726",
+          "lora:greatm8Pony_locon_e16": "0c4b6f1af567"
         },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, solo, turquoise hair, high ponytail, heterochromia, red eyes, blue eyes, glowing eyes, eyebrows, eyelashes, latex, shiny reflections, slime \\(substance\\), (black slime:1.1), (tentacle sex:1.3), vaginal, (living clothes:1.3), (orgasm:1.1), pussy juice, (large insertion:1.2), many eyes, bound, tentacle in mouth, ahegao, indoors, bed, bedroom, city view through window, glass walls, dim ambient lighting, scattered clothes on bed, intimate atmosphere, intricate details, (blurry background, depth of field:1.1) <lora:neba:0.85> <lora:spo_sdxl_10ep_4k-data_lora_webui:0.96> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, 2d, 1girl, solo, from below, (povsit), nico robin (One Piece), nico robin, spread legs, blue eyes, close-up, slingshot swimsuit, half-closed eyes, cameltoe, large breasts, wet, dripping, thick thighs, sweaty, expressionless, looking at viewer, (blue sky background), <lora:greatm8Pony_locon_e16:0.3> <lora:flooxyfloox:0.2> <lora:PijaMix_v1:0.6> <lora:sitpov:0.9>",
+        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "freeu_b1": "1.4",
+        "freeu_b2": "1.3",
+        "freeu_s1": "0.9",
+        "freeu_s2": "0.2",
+        "TI hashes": {
+          "aidxlv05_neg": "84a6266ecaa6"
+        },
         "resources": [
           {
-            "hash": "47f46b6490",
-            "name": "neba",
+            "hash": "0c4b6f1af567",
+            "name": "greatm8Pony_locon_e16",
             "type": "lora",
-            "weight": 0.85
+            "weight": 0.3
           },
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "hash": "a4f95cfe4726",
+            "name": "flooxyfloox",
             "type": "lora",
-            "weight": 0.96
+            "weight": 0.2
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
+            "hash": "1a946326dd2a",
+            "name": "PijaMix_v1",
             "type": "lora",
-            "weight": 0.7000000000000001
+            "weight": 0.6
           },
           {
-            "hash": "7e87327f89",
-            "name": "waiNSFWIllustrious_v100.safetensors",
+            "hash": "45348b4380f7",
+            "name": "sitpov",
+            "type": "lora",
+            "weight": 0.9
+          },
+          {
+            "hash": "ac006fdd7e",
+            "name": "autismmixSDXL_autismmixConfetti",
             "type": "model"
           }
         ],
-        "Model hash": "7e87327f89",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, watermark, signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, earrings, suction cups,"
+        "Model hash": "ac006fdd7e",
+        "freeu_enabled": "True",
+        "negativePrompt": "source_furry, source_pony, monochrome,3d,mole, monochrome background, freckles, aidxlv05_neg, cracked wall, cracks",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer prompt": {
+          "PijaMix_v1": "0.6>"
+        },
+        "ADetailer version": "24.5.1",
+        "Denoising strength": "0.25",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.25",
+        "multidiffusion_method": "Mixture of Diffusers",
+        "ADetailer dilate erode": "4",
+        "multidiffusion_enabled": "True",
+        "ADetailer inpaint width": "1024",
+        "ADetailer inpaint height": "1024",
+        "ADetailer inpaint padding": "32",
+        "ADetailer negative prompt": {},
+        "multidiffusion_tile_width": "896",
+        "multidiffusion_tile_height": "1216",
+        "ADetailer mask merge invert": "Merge",
+        "multidiffusion_tile_overlap": "64",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "multidiffusion_tile_batch_size": "4",
+        "ADetailer mask only top k largest": "1",
+        "ADetailer use inpaint width height": "True"
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "BesolloAI",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1348706,
-        1367422,
-        1284348,
-        567119
+        324524
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "942|1718541817442",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=942%7C1718541817442"
+    "nextCursor": "943|1736557909889",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=943%7C1736557909889"
   }
 }
