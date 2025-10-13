@@ -1,110 +1,134 @@
 {
   "items": [
     {
-      "id": 34368482,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/58a9d3f3-6882-48b4-b66e-6eab29d1941a/original=true/58a9d3f3-6882-48b4-b66e-6eab29d1941a.jpeg",
-      "hash": "UEF}_^00_NIU?w00^+NGkDt7xaaKD%R*M{%M",
-      "width": 832,
-      "height": 1216,
+      "id": 67930676,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/182814b6-8823-48c9-b59e-1cf717698041/original=true/182814b6-8823-48c9-b59e-1cf717698041.jpeg",
+      "hash": "UbMQO@nOE1NF.may=|WUENs:xFNa%Mn$RPWC",
+      "width": 1920,
+      "height": 2880,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-13T14:30:00.000Z",
-      "postId": 7852786,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-04T17:16:09.925Z",
+      "postId": 15100667,
       "stats": {
-        "cryCount": 112,
-        "laughCount": 245,
-        "likeCount": 1596,
+        "cryCount": 114,
+        "laughCount": 211,
+        "likeCount": 1686,
         "dislikeCount": 0,
-        "heartCount": 903,
-        "commentCount": 61
+        "heartCount": 843,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1746347912,
-        "steps": 29,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 2girls, long hair, freckles, ponytail, cute, (large saggy breasts), nipples , table, bend forward short hair, office, open shirt , black bra, from behind , ( from behind, kissing from behind) ,  expressive ecstasy, office room , breast grab, fingering and grabbing breasts and kissing from behind, panties pulled down, dappled light, dappled sunlight, nf, Expressiveh,  pale white skin, sexy,",
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 609349082,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 82,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
+          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,\n1girl, solo,aqua hair, brown eyes, (bangs:1.5), straight hair, very long hair,  close up, hoop earrings, young girl,\ncompletely nude, black panties, highleg, bare stomach,  looking at viewer, groin, looking back, (ass), from behind, (bent over), from above, close up ass, \n(large breasts:1.5), (head tilt), (twisted torso), panty pull, pussy, fingers in panties, (string panties), \ncowboy shot,\nlight smile, parted lips,\nurushihara satoshi style, JabarandP, dim lighting, backlighting,\nabstract background, white curtains, blurry background, pale skin,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:bra_embellishments_enhancer_XL_v01a:0.8>,   <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-09T0720:32.3503609Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark),easynegative",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
             "type": "lora",
-            "weight": 0.95,
-            "modelVersionId": 910261,
-            "modelVersionName": "Dappled Light"
+            "weight": 0.35
           },
           {
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 935970,
-            "modelVersionName": "NF Style"
+            "weight": 0.15
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.2
           },
           {
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.2
           },
           {
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 601357,
-            "modelVersionName": "v1.0"
+            "weight": 0.1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
+            "type": "lora",
+            "weight": 0.1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "9d22b7ef3974",
+            "name": "bra_embellishments_enhancer_XL_v01a",
+            "type": "lora",
+            "weight": 0.8
           },
           {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "25",
+        "Hires upscale": "2",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "6fingers, (bed:1.5), wooden frame, shirt, (forehead:1.5),  beard, (plant:1.5), leaf:1.5, (lace straps:1.5),  visible veins, visible thread veins, suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, pencil, sunglasses,",
+        "Denoising strength": "0.02"
       },
-      "username": "kamadra",
+      "username": "ceii0502382",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        290640,
-        382152,
-        436219,
-        601357,
-        910261,
-        935970
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1029|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1029%7C1743786969925"
+    "nextCursor": "1030|1742451055460",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1030%7C1742451055460"
   }
 }
