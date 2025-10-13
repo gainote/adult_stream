@@ -1,114 +1,71 @@
 {
   "items": [
     {
-      "id": 80496274,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffaa30c8-8292-430a-a854-1055fc9798c5/original=true/ffaa30c8-8292-430a-a854-1055fc9798c5.jpeg",
-      "hash": "UQM~F[kV?1IqE5xuD$$,56xINFafELnmbYNG",
+      "id": 11751787,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/29420529-922c-4035-8317-196d7c7f8a44/original=true/29420529-922c-4035-8317-196d7c7f8a44.jpeg",
+      "hash": "UJKAKL4;?^oenlS$Eg$iF1Rkt7bbnO-oMxtQ",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-05T06:00:00.000Z",
-      "postId": 17877300,
+      "browsingLevel": 16,
+      "createdAt": "2024-05-07T02:30:56.681Z",
+      "postId": 2588537,
       "stats": {
-        "cryCount": 111,
-        "laughCount": 207,
-        "likeCount": 1709,
+        "cryCount": 65,
+        "laughCount": 171,
+        "likeCount": 1515,
         "dislikeCount": 0,
-        "heartCount": 848,
-        "commentCount": 1
+        "heartCount": 1124,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 513813194,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:yi_xuan_zzz_illust_scarxzys:1.2>, yi xuan (zenless zone zero), yellow eyes, white hair, long hair, hair ornament, large breasts, smokyeyes, lash, black mascara, glossy pink lips, parted lips, pink nails, long nails, pink neon themed Disco background, A 3D render shoot about a 1 girl, beautiful girl, she is a succubus, she is sweet, playful and a little naive, she wears a white lace lingerie which doesn't hide much but highlights her delicate curves perfectly. She is always looking for new playmates. she has tiny curled horns and also small ((wings on her waist:1.3))), she looks like 18 or 19. She knows her appearance and likes to play the innocent to get what she needs, as a succubus she needs a lot of love and physical affection. Her pretty appearance and her sexy, petite body help her to get what she wants. (((realistic))), (((parted lips))) (((full body shot))), (((earrings and navel piercing))), (((cameltoe))) (((detailed face and eyes: 1.5)), and the lighting is soft and even, highlighting her curves. relaxed but provocative, dramatic scenery, intricate details, (blurry background, depth of field:1.1), the picture has an sexuel, alluring and erotic vibe, lascivious pose, view from sideways below, blurry background, bright colors, stunningly artwork",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
+        "seed": 1056041441,
+        "steps": 50,
+        "prompt": "score_9, score_8_up, score_8,  1girl, cute, excited, white skin, brown eyes, Seductive look, green tshirt, flat breasts, one breast out, hold breasts, pov from below, bra, lucy heartfilia",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "yi_xuan_zzz_illust_scarxzys",
-            "type": "lora",
-            "weight": 1.2
-          }
-        ],
-        "Created Date": "2025-06-05T0254:58.9447963Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, (watermark:1.5), ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "resources": [],
+        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, phone, smartphone, mutated hands, low res, blurry face, (hairy pussy:1.2), pumped body, athletic body, black and white",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
+            "modelVersionId": 290640
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1865856,
-            "modelVersionName": "v1.0"
+            "type": "ImageJobNetworkParams { Strength = 0.25, TriggerWord = , Type = lora }",
+            "weight": 0.25,
+            "modelVersionId": 244808
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
+            "type": "ImageJobNetworkParams { Strength = 0.8, TriggerWord = , Type = lora }",
+            "weight": 0.8,
+            "modelVersionId": 298238
           },
           {
             "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
+            "modelVersionId": 250708
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1828979,
-            "modelVersionName": "leviathan-artist-v1_ixl"
+            "type": "embed",
+            "modelVersionId": 250712
           }
         ]
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "Atomicbooger",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        6056,
-        25820,
-        1056404,
-        1135769,
-        1373674,
-        1761560,
-        1828979,
-        1865856
+        244808,
+        290640,
+        298238
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1020|1715049056681",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1020%7C1715049056681"
+    "nextCursor": "1021|1744039911343",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1021%7C1744039911343"
   }
 }
