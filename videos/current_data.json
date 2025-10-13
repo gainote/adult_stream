@@ -1,108 +1,77 @@
 {
   "items": [
     {
-      "id": 84944367,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6803982-96a0-4bb6-89a1-b039e00198a6/original=true/a6803982-96a0-4bb6-89a1-b039e00198a6.jpeg",
-      "hash": "UJEecX~CS6XR$jozK4Rk4.IVRjIoKNxHwcso",
-      "width": 2688,
-      "height": 3840,
+      "id": 63856713,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e9d9c627-a0c8-47e6-a238-7f43f75e99e4/original=true/e9d9c627-a0c8-47e6-a238-7f43f75e99e4.jpeg",
+      "hash": "UFGb9q^*GwE1B?S%NM-nD*S6MdR*R.IUS2%1",
+      "width": 1152,
+      "height": 1680,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-28T01:15:00.000Z",
-      "postId": 18856472,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-16T14:00:00.000Z",
+      "postId": 14241682,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 225,
-        "likeCount": 1680,
+        "cryCount": 78,
+        "laughCount": 184,
+        "likeCount": 1683,
         "dislikeCount": 0,
-        "heartCount": 812,
+        "heartCount": 900,
         "commentCount": 0
       },
       "meta": {
-        "seed": 2179049953,
-        "vaes": [],
-        "draft": false,
-        "extra": {},
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "models": [],
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, moe, (taragao:1.4),,erokawa, fully nude, shaved vagina, erokawa girl, tight, large breasts, half sideways, kawaii girl, solo, cleavage, sexy, sweaty skin, breasts freakles, detailed, high res, cheek mole, blush, embarrassment, look away, slightly smile, visible nipples, shiny glossy breasts, twin tails haircut, godrays, bite lip, young, bedroom, late night, sexy, lustful",
-        "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "Size": "768x1120",
+        "seed": 2393330947,
+        "Model": "be-re085-mix",
+        "steps": 30,
+        "hashes": {
+          "model": "0597f90762"
+        },
+        "prompt": "1girl, breasts, underwear, panties, navel, solo, from below, large breasts, hat, looking at viewer, clothes lift, brown hair, jewelry, cameltoe, lifted by self, shirt, underboob, upshirt, no bra, parted lips, shirt lift, red nails, choker, nail polish, fingernails, earrings, stomach, looking down, lips, brown eyes, grey panties, piercing, white shirt, thighs, long hair, bracelet, artist name, baseball cap, black panties, black choker, lace-trimmed panties, , teeth, long fingernails, collar, ear piercing, lace trim, day, realistic, black hair, mole, white headwear, blue sky, cowboy shot, covered nipples, sky, masterwork, masterpiece, best quality, dynamic lighting , dynamic pose,,  dynamic angle, , , (realistic:1.2), (lineless:1.2), detailed,  , aged up, adult, depth of field, dynamic lighting, blurry, cheekbones,",
+        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
+        "sampler": "Euler a",
+        "cfgScale": 6,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 4,
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), bad hands, missing fingers, ",
-        "civitaiResources": [
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 4.5,
-            "modelVersionId": 1726904
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1029540
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 239420
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 2.75,
-            "modelVersionId": 1926995
-          },
-          {
-            "weight": 3,
-            "modelVersionId": 1854599
-          },
-          {
-            "weight": 1.5,
-            "modelVersionId": 1506035
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "0597f90762",
+            "name": "be-re085-mix",
+            "type": "model"
           }
         ],
-        "additionalResources": []
+        "Model hash": "0597f90762",
+        "Hires steps": "30",
+        "ADetailer VAE": "sdxl_vae.safetensors",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "None",
+        "negativePrompt": "blurry, lowres, worst quality, low quality, bad anatomy, bad hands,  jpeg artifacts, signature, watermark, text, logo, artist name, censored, patreon username, (anime:1.2), loli, (big_mouth:0.5), wide_lips",
+        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
+        "ADetailer steps": "20",
+        "Hires CFG Scale": "7",
+        "ADetailer sampler": "DPM++ 2M",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.35",
+        "ADetailer mask blur": "4",
+        "ADetailer scheduler": "Automatic",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer use separate VAE": "True",
+        "ADetailer denoising strength": "0.45",
+        "ADetailer use separate steps": "True",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer use separate sampler": "True"
       },
-      "username": "Suby432",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        164821,
-        239420,
-        290640,
-        436219,
-        1029540,
-        1506035,
-        1726904,
-        1854599,
-        1926995
-      ]
+      "username": "phinjo",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1037|1742133600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1037%7C1742133600000"
+    "nextCursor": "1038|1737603327937",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1038%7C1737603327937"
   }
 }
