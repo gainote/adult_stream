@@ -1,31 +1,93 @@
 {
   "items": [
     {
-      "id": 46775945,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f3c4b620-397b-4fde-8dc9-5da7f3ba2f80/original=true/f3c4b620-397b-4fde-8dc9-5da7f3ba2f80.jpeg",
-      "hash": "UCD[;60K.SM{_N4o~VIUNbMy$*M|w]kqIVxa",
-      "width": 1280,
-      "height": 1856,
+      "id": 38764140,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a91ebf06-089d-45da-bcba-c8a53245ae19/original=true/a91ebf06-089d-45da-bcba-c8a53245ae19.jpeg",
+      "hash": "UHD*^d_N^+-pWFEMM{In0L4.IUNGxCe-W;X9",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-21T13:09:02.344Z",
-      "postId": 10576464,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-07T02:16:23.432Z",
+      "postId": 8847683,
       "stats": {
-        "cryCount": 76,
-        "laughCount": 138,
-        "likeCount": 1769,
+        "cryCount": 114,
+        "laughCount": 188,
+        "likeCount": 1667,
         "dislikeCount": 0,
-        "heartCount": 918,
-        "commentCount": 0
+        "heartCount": 932,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": "sabbufik419",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3562792184,
+        "steps": 29,
+        "prompt": "score_9, score_8_up, score_7_up, 1girl, solo, Rei ayanami (evangelion), dynamic angle, sexy, steam, ahegao, blush, hearts, pose blowjob, grabbing head, thighhighs, garter belt, sexy, blush, sweat, living room, sexy, pose, steam, face focus, closeup, dynamic angle, hearts, lingerie, hands on man thighs",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-11-07T0207:04.2352049Z",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, greyscale",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
+          }
+        ]
+      },
+      "username": "Bancin",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        164821,
         244808,
         290640,
         382152,
@@ -35,7 +97,7 @@
     }
   ],
   "metadata": {
-    "nextCursor": "999|1730945783432",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=999%7C1730945783432"
+    "nextCursor": "1000|1739756700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1000%7C1739756700000"
   }
 }
