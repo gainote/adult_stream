@@ -1,71 +1,65 @@
 {
   "items": [
     {
-      "id": 35684134,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bfaa43b0-7b6c-49d9-b0e5-6435597b780e/original=true/bfaa43b0-7b6c-49d9-b0e5-6435597b780e.jpeg",
-      "hash": "UqJRm$M{_NxvOtofR*R+tRR*WBoeWWofV@WB",
+      "id": 18129464,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5add64f1-a389-4ebd-92d4-2e6bacff6729/original=true/5add64f1-a389-4ebd-92d4-2e6bacff6729.jpeg",
+      "hash": "UCI|5Z9ZK5-U2@-B~Tag%M^K^jIp?tV[9vt6",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-10-21T00:30:05.520Z",
-      "postId": 8154380,
+      "browsingLevel": 8,
+      "createdAt": "2024-07-02T13:33:34.551Z",
+      "postId": 4052962,
       "stats": {
-        "cryCount": 103,
-        "laughCount": 228,
-        "likeCount": 1700,
+        "cryCount": 77,
+        "laughCount": 210,
+        "likeCount": 1624,
         "dislikeCount": 0,
-        "heartCount": 858,
-        "commentCount": 6
+        "heartCount": 978,
+        "commentCount": 5
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2122604016,
-        "steps": 30,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, (score_9, score_8_up:1.1),((( long straight hair,1,5))), (dark blue hair:1.5), blunt bangs, (green eyes), voluptuous, pale skin, , goth attire, punk attire, ripped cropped t-shirt, leather pants, pierced navel, belly tattoo, , spiky armbands, chocker,, cowboy shot, nipple peek, <lora:tongue-piercing-ponyxl-lora-nochekaiser:1>, tongue piercing, tongue, tongue out, open mouth,",
-        "sampler": "Euler a",
-        "cfgScale": 10,
+        "seed": 116998489,
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, lying on stomach , cute face, sexy body, pink panties, kawaii girl, sexy body, perfect cute face, narrow hips, thighs, surprised, topless, big breasts, puffy nipples, reading book, question mark,  small tight ass, (((shiny ass))),long brown wavy hair, freckles, pale skin, hazel eyes, feet, twin ponytails, blushing,  head down eyes up, (embarrassed:0.4), (worried:0.4), nose blush, lying on side, concentrating, in bedroom, stacks of textbooks, looking down, from front, front view, ass crack, anus, pussy slightly visible, pussy partially visible, beach",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
-          {
-            "name": "tongue-piercing-ponyxl-lora-nochekaiser",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2024-10-21T0001:09.6196941Z",
-        "negativePrompt": "score_6, score_5, score_4, source_pony, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, 3d art, nipple ring,  extra hands, extra fingers,  tan lines,",
+        "resources": [],
+        "Created Date": "2024-07-02T1332:54.8047280Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, plain background",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 817261,
-            "modelVersionName": "v6.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "lora",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 705995,
-            "modelVersionName": "booru"
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
             "weight": 0.75,
-            "modelVersionId": 705845,
-            "modelVersionName": "Incase"
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "embed",
@@ -82,16 +76,16 @@
       "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
-        128461,
+        9208,
+        290640,
         382152,
-        705845,
-        705995,
-        817261
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1007|1719927214551",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1007%7C1719927214551"
+    "nextCursor": "1008|1712239192226",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1008%7C1712239192226"
   }
 }
