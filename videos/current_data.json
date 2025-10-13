@@ -1,90 +1,91 @@
 {
   "items": [
     {
-      "id": 59436166,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bdbe233b-5c7d-4315-a8c4-47133f55fc4a/original=true/bdbe233b-5c7d-4315-a8c4-47133f55fc4a.jpeg",
-      "hash": "U59%VaW?00xGLyW;4:f54VsT}kWX00of}8R*",
-      "width": 1344,
-      "height": 2240,
-      "nsfwLevel": "X",
+      "id": 95962231,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0be5fefc-8407-48f4-8df3-19c7ad7e7d94/original=true/0be5fefc-8407-48f4-8df3-19c7ad7e7d94.jpeg",
+      "hash": "UHN]2@0g%%0PIynM=~=|9jNxRrIp^%MxM{NN",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-23T20:30:00.000Z",
-      "postId": 13295668,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-24T02:42:00.000Z",
+      "postId": 21284692,
       "stats": {
-        "cryCount": 128,
-        "laughCount": 197,
-        "likeCount": 1752,
+        "cryCount": 121,
+        "laughCount": 183,
+        "likeCount": 1768,
         "dislikeCount": 0,
-        "heartCount": 772,
+        "heartCount": 775,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 474728017377622,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
-        "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), (ahegao:0.9), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), sitting, wide spread legs, under tree, (tentacle sex:1.1), bound, bound arms, bound legs, outdoors, (void portal \\(object\\) below:1.2), (glowing summoning circle:1.2), (summoning tentacles:1.1), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 4.5,
+        "Size": "832x1216",
+        "seed": 1464982041,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, stunning, best quality, very aesthetic, absurdres, detailed face, Ultra_HD, 8k, dinamic angle, solo, shiny skin, face focus, face closeup, from above, clear image, foreshortening, bokeh, full body, dappled sunlight, shadow, BREAK, 1girl, Veilchen, Bob cut, Purple eyes, Short girl, Shy, Cute, small breast, Anime girl, Beautiful girl, perfect body, wide hips, narrow waist, banana boat, inflatable toy, water, wet, straddling, riding, water drop, splashing, sunglasses on head, perfect hands, outstretched arm,   outstretched arm, hand to the sky, hand up, open hand, fingers spread, hand closeup, shielding with hand, shield the sun's rays, sun's rays, lying on back, lying on banana boat, face up, half closed eyes, asymmetrical eyes, perfect eyes, looking at viewer, intense look, posing, sexy pose, very flexible, sweat, spread legs, feet in water, cross bikini, o-ring, black bikini, ass ripple, skindentation, thighs ripple, \nBREAK,\nDetailed background, swimming pool, exotic background, sunlight, sunny day, vivid color, volumetric lighting, perfect water reflection, bokeh,",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-16T0852:00.7418932Z",
+        "experimental": false,
+        "negativePrompt": "bad quality, worst quality, worst detail, watermark, futanari, bad anatomy, bad proportions, bad hands, extra digits, blurry, bad reflection, bad lightining,",
+        "civitaiResources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 2010753
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 1
+            "weight": 0.8,
+            "modelVersionId": 2064204
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.6
+            "weight": 1,
+            "modelVersionId": 2109644
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
             "type": "lora",
-            "weight": 0.7000000000000001
+            "weight": 1,
+            "modelVersionId": 2014002
           },
           {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 2019319
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1144547
           }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, suction cups, symmetry, fire"
+        ]
       },
-      "username": "Marland_C",
+      "username": "Mephistophele",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1345990,
-        1284348,
-        567119,
-        1050644,
-        1410435
+        1144547,
+        2010753,
+        2014002,
+        2019319,
+        2064204,
+        2109644
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1035|1756003320000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1035%7C1756003320000"
+    "nextCursor": "1036|1751073300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1036%7C1751073300000"
   }
 }
