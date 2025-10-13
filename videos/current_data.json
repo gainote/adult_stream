@@ -1,130 +1,44 @@
 {
   "items": [
     {
-      "id": 99716077,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd1e8bae-023d-47a5-9af2-1c1e7b54e344/original=true/fd1e8bae-023d-47a5-9af2-1c1e7b54e344.jpeg",
-      "hash": "UAJa7fvMGa0;2x4n$yVs00X9010e;c~W^jb_",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 54281588,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3cd0f55f-bb1d-4426-9ee6-d63936fc9db9/original=true/3cd0f55f-bb1d-4426-9ee6-d63936fc9db9.jpeg",
+      "hash": "UPEn;Mt7NbRk~Bt7$*R*x[ofxZj[o}j]oeay",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-12T00:41:41.000Z",
-      "postId": 22119527,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-28T23:01:02.309Z",
+      "postId": 12175737,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 170,
-        "likeCount": 1785,
+        "cryCount": 98,
+        "laughCount": 171,
+        "likeCount": 1700,
         "dislikeCount": 0,
-        "heartCount": 815,
+        "heartCount": 915,
         "commentCount": 0
       },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 3966977940,
-        "Model": "JANKUV5NSFWTrainedNoobaiEPS_v50",
-        "steps": 30,
-        "prompt": "1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,\ndutch angle,dynamic pose,close-up,from below\nbaltimore \\(azur lane\\), baltimore \\(after-school ace\\) \\(azur lane\\),\nlarge breasts, collarbone,\ncollared shirt,  pleated skirt, beige clothes around waist,choker, unbuttoned shirt, competition swimsuit, pulling own shirt, \nbarefoot, (resenting foot),soles, head tilted,\nsitting, looking at viewer,on bench, shushing, parted lips, light smile, \nlocker room,\n,indicate details, ,clean background,vignetting, hadow, dappled moonlight, light rays, warm color,foreshortening, \nmasterpiece,best quality,amazing quality,newest,absurdres,highres, newest,very awa,\n<lora:lighting_v2>\n<lora:114558v4df2fsdf5:0.4> 15546+456868, <lora:fashiongirl-v1-ILXL:1> <lora:CunnyfunkyV7.0:0.5>,    <lora:0__11Xx:0.55> 0__11Xx_illu",
-        "Version": "f2.0.1v1.10.1-1.10.1",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "resources": [
-          {
-            "name": "114558v4df2fsdf5",
-            "type": "lora",
-            "weight": 0.4
-          },
-          {
-            "name": "fashiongirl-v1-ILXL",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "name": "CunnyfunkyV7.0",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "name": "0__11Xx",
-            "type": "lora",
-            "weight": 0.55
-          }
-        ],
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x_IllustrationJaNai_V1_DAT2_190k",
-        "negativePrompt": "(worst quality, bad quality:1.2),low quality,simple background,transparent,logo,text,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,bad hands,bad fingers,child, loli, symbol-shaped pupils,lips,multicolored hair,simple background,wet,navel,",
-        "ADetailer model": "face_yolov8s.pt",
-        "Hires CFG Scale": "5",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1896532
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1967210
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1195582
-          },
-          {
-            "type": "lycoris",
-            "weight": 1,
-            "modelVersionId": 1420683
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1920055
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1348455
-          }
-        ],
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.4",
-        "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "hand_yolov8s.pt",
-        "ADetailer steps 2nd": "30",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.3",
-        "ADetailer inpaint padding": "32",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer inpaint width 2nd": "1024",
-        "ADetailer denoising strength": "0.3",
-        "ADetailer inpaint height 2nd": "1024",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer denoising strength 2nd": "0.3",
-        "ADetailer use separate steps 2nd": "True",
-        "ADetailer inpaint only masked 2nd": "True",
-        "ADetailer use inpaint width height 2nd": "True"
-      },
-      "username": "Bunnykiin",
-      "baseModel": "Illustrious",
+      "meta": null,
+      "username": null,
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1195582,
-        1348455,
-        1420683,
-        1896532,
-        1920055,
-        1967210
+        9208,
+        164821,
+        289788,
+        290640,
+        358694,
+        382152,
+        398847,
+        436219,
+        533716,
+        1242203
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1011|1738105262309",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1011%7C1738105262309"
+    "nextCursor": "1012|1730358733803",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1012%7C1730358733803"
   }
 }
