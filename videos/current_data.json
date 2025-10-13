@@ -1,54 +1,104 @@
 {
   "items": [
     {
-      "id": 88482812,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6899b410-6cf7-4277-8253-3586e0353faa/original=true/6899b410-6cf7-4277-8253-3586e0353faa.jpeg",
-      "hash": "UJHnyz~q.8og9FM{IpS400IURPR*4nE1t7w^",
-      "width": 1536,
-      "height": 2304,
-      "nsfwLevel": "Mature",
+      "id": 79766682,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/759fd4a1-7b65-4314-ae70-caac4a17e60e/original=true/759fd4a1-7b65-4314-ae70-caac4a17e60e.jpeg",
+      "hash": "UEIXHj~V01pIx[H?=|TK5k0es,^0=uWBJUNG",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-15T23:30:00.000Z",
-      "postId": 19627413,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-01T11:37:29.534Z",
+      "postId": 17720266,
       "stats": {
-        "cryCount": 74,
-        "laughCount": 155,
-        "likeCount": 1828,
+        "cryCount": 159,
+        "laughCount": 294,
+        "likeCount": 1708,
         "dislikeCount": 0,
-        "heartCount": 823,
-        "commentCount": 1
+        "heartCount": 718,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 1075752448364820,
-        "Model": "unknown_model",
-        "steps": 30,
-        "hashes": {
-          "model": "unknown_hash"
+        "Size": "832x1216",
+        "seed": 433719693,
+        "draft": false,
+        "extra": {
+          "remixOfId": 57613408
         },
-        "prompt": "The image depicts a curvaceous young woman, lying on her back on a cluttered bed, with her long black hair cascading down like a waterfall. Her large breasts are prominently displayed, straining against the short sleeves of her white t-shirt. Her black thigh-highs are visible, adding a touch of sensuality to the scene. A black choker encircles her neck, attention to her delicate features.\nHer eyes, a deep, rich black, seem to bore into the viewer, a subtle invitation to explore the contours of her body. A blush rises to her cheeks, a gentle flush that speaks of her inner turmoil. Her stomach is exposed, a smooth expanse of skin that invites the eye to linger.\nA tattoo adorns her left thigh, a delicate pattern that speaks of her individuality. Her hips are wide, a gentle curve that speaks of her femininity. She's upside (1girl, solo, long hair, breasts, looking at viewer, blush, shirt, large breasts, black hair, thighhighs, navel, white shirt, short sleeves, thighs, lying, choker, indoors, black thighhighs, stomach, on back, black eyes, collar, tattoo, on bed, bottomless, t-shirt, wide hips, upside-down, leg tattoo:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up",
-        "Version": "ComfyUI",
+        "steps": 19,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, hyper-realistic, highest quality, masterpiece, absurdres, best quality, masterpiece:1.4.\nTheme: cuckold, humiliation, breeding, bnwo.\nCharacters: (Wife, long intricate brunette hair, brown eyes, perfect sexy face, small perky breasts, ExpressiveH, slim face, slightly fit body, detailed eyes,  perfect body, fair-skinned female, blushing, small waist, long legs, small shoulders, small round butt, slim hips, skinny thighs, sweaty skin: 1.4); (handsome dark skin male with large penis).\nScene: (Cheating__Cuckold.safetensors : 1.8), iindoors, bathtub, bath, tiles, tile wall, shallow depth of field, bokeh background, dynamic angle, volumetric lighting, Expressiveh, wife vagina penetrated by big thick black penis with handsome dark skin male lover, after sex cuddling, sweaty, excessive sweat, (cuckold sex), dynamic angle, zoom out, unique pose,",
         "sampler": "Euler a",
-        "cfgScale": 6,
-        "resources": [
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-06-01T1135:46.0194124Z",
+        "negativePrompt": "score_6, score_5, score_4, source_pony, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres,blurry, username,text,logo,watermark, signature,(text:1.4), cartoon, muscular girl, muscular woman, ugly, disgusting, Deformed, bad anatomy, bad hands, unnatural face, unnatural body, error, extra limb, missing limbs, deformed fingers, extra fingers, twins, fat, chubby body, fused_limbs, bad_anatomy, same hair, twins, futa, cross-eyed, imperfect eyes, skewed eyes, Asian, African, Japanese, Chinese, Indian, low light, dim light, (simple background), solo, tan lines.",
+        "civitaiResources": [
           {
-            "hash": "unknown_hash",
-            "name": "unknown_model",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1838857,
+            "modelVersionName": "v11.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": -0.7,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 1037996,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 826436,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 523786,
+            "modelVersionName": "Cheating / Cuckold"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 747642,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "unknown_hash",
-        "Schedule type": "",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli"
+        ]
       },
-      "username": "phinjo",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "username": "simplesimonpieman",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        382152,
+        523786,
+        747642,
+        826436,
+        1037996,
+        1838857
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1015|1748777849534",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1015%7C1748777849534"
+    "nextCursor": "1016|1745500140000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1016%7C1745500140000"
   }
 }
