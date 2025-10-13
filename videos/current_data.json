@@ -1,91 +1,69 @@
 {
   "items": [
     {
-      "id": 18129464,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5add64f1-a389-4ebd-92d4-2e6bacff6729/original=true/5add64f1-a389-4ebd-92d4-2e6bacff6729.jpeg",
-      "hash": "UCI|5Z9ZK5-U2@-B~Tag%M^K^jIp?tV[9vt6",
+      "id": 9149023,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a14573e-2002-4b0d-a1fd-b81bd48f2511/original=true/8a14573e-2002-4b0d-a1fd-b81bd48f2511.jpeg",
+      "hash": "UEDlA,~qK6IVTegio}nikq%2RkM{9uoJ$%o0",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-07-02T13:33:34.551Z",
-      "postId": 4052962,
+      "browsingLevel": 16,
+      "createdAt": "2024-04-04T13:59:52.226Z",
+      "postId": 1975512,
       "stats": {
-        "cryCount": 77,
-        "laughCount": 210,
-        "likeCount": 1624,
+        "cryCount": 59,
+        "laughCount": 187,
+        "likeCount": 1550,
         "dislikeCount": 0,
-        "heartCount": 978,
-        "commentCount": 5
+        "heartCount": 1092,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 116998489,
-        "steps": 24,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, lying on stomach , cute face, sexy body, pink panties, kawaii girl, sexy body, perfect cute face, narrow hips, thighs, surprised, topless, big breasts, puffy nipples, reading book, question mark,  small tight ass, (((shiny ass))),long brown wavy hair, freckles, pale skin, hazel eyes, feet, twin ponytails, blushing,  head down eyes up, (embarrassed:0.4), (worried:0.4), nose blush, lying on side, concentrating, in bedroom, stacks of textbooks, looking down, from front, front view, ass crack, anus, pussy slightly visible, pussy partially visible, beach",
-        "sampler": "DPM++ 2M Karras",
+        "seed": 1106899347,
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_7_up,  2girls, 1girl (Snow White) and 1girl (Elsa), lesbian, ((anilingus)), rimming, rimjob, ass licking, jack-o-pose, side view, library, getting caught, expressive, (full bodies in view)",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2024-07-02T1332:54.8047280Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, plain background",
+        "negativePrompt": "score_6, score_5, score_4, (bad anatomy), hairbun, pony, gaping, muscular, censored, furry, child, kid, chibi, 3d, ((futa)), (monochrome:1.4)",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.8,
+            "modelVersionId": 330475
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.8,
+            "modelVersionId": 378684
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.8,
+            "modelVersionId": 382152
           }
         ]
       },
-      "username": null,
+      "username": "perchancekage0000",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
         290640,
-        382152,
-        398847,
-        436219
+        330475,
+        378684,
+        382152
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1008|1712239192226",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1008%7C1712239192226"
+    "nextCursor": "1009|1754349558495",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1009%7C1754349558495"
   }
 }
