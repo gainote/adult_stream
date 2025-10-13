@@ -1,37 +1,105 @@
 {
   "items": [
     {
-      "id": 50536076,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/461c27e7-9015-4203-a150-fb7c6f250afb/original=true/461c27e7-9015-4203-a150-fb7c6f250afb.jpeg",
-      "hash": "UBEof7%1yr9G00x]4nM{?woz-:%MWBofD%IA",
-      "width": 1280,
-      "height": 1856,
+      "id": 44323473,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/430c9bd9-b83d-4689-8c92-86085032e2ca/original=true/430c9bd9-b83d-4689-8c92-86085032e2ca.jpeg",
+      "hash": "UJDu#z_3%h-;k?~W^+xu-pbcxut7jYoLIoRk",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-09T14:23:26.969Z",
-      "postId": 11372312,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-08T06:42:41.111Z",
+      "postId": 10056729,
       "stats": {
-        "cryCount": 90,
-        "laughCount": 156,
-        "likeCount": 1770,
+        "cryCount": 80,
+        "laughCount": 161,
+        "likeCount": 1705,
         "dislikeCount": 0,
-        "heartCount": 846,
-        "commentCount": 4
+        "heartCount": 916,
+        "commentCount": 2
       },
-      "meta": null,
-      "username": null,
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1964425991,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, 1dk, (realistic), looking at viewer, very detailed, Expressiveh, shy smile, sultry eyes, come hither look, seductive smile, open legs, kneeling, (sexy expression:1.2), posing for photo, arms up, arms behind head, BREAK, 1girl, young cute slut, pale skin, (goth), medium breasts, wide hips, massive round ass, bubble butt,thin waist, blushing, long hair, (black hair), sidelocks, bangs,messy hair, ponytail, blue eyes, earrings, necklace, eyelashes, makeup, detailed face, detailed hair, bangle, blushing, ( (loose crop top), black top, long sleeves, loose top), covered nipples, no panties,bottomless, puffy nipples, nipples sticking upwards, female pubic hair, BREAK, indoors, livingroom, facesitting a boy off frame, shaggy carpet, plants, posters, window, focus, depth of field, realistic photo, (sunlight)",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-12-07T1220:14.2031343Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "fixerskorch877",
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        1163294,
-        1242203
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1024|1733640161111",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1024%7C1733640161111"
+    "nextCursor": "1025|1750811820000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1025%7C1750811820000"
   }
 }
