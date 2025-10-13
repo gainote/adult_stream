@@ -1,71 +1,108 @@
 {
   "items": [
     {
-      "id": 11751787,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/29420529-922c-4035-8317-196d7c7f8a44/original=true/29420529-922c-4035-8317-196d7c7f8a44.jpeg",
-      "hash": "UJKAKL4;?^oenlS$Eg$iF1Rkt7bbnO-oMxtQ",
+      "id": 30319547,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e727aa78-7e4f-4ce8-9831-be55bbba76ce/original=true/e727aa78-7e4f-4ce8-9831-be55bbba76ce.jpeg",
+      "hash": "UDKc9N0M0y~Ufi}t9]S}9GI;RjWT%L0MRjE1",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-05-07T02:30:56.681Z",
-      "postId": 2588537,
+      "browsingLevel": 8,
+      "createdAt": "2024-09-19T23:16:57.240Z",
+      "postId": 6784324,
       "stats": {
-        "cryCount": 65,
-        "laughCount": 171,
-        "likeCount": 1515,
+        "cryCount": 83,
+        "laughCount": 192,
+        "likeCount": 1661,
         "dislikeCount": 0,
-        "heartCount": 1124,
+        "heartCount": 932,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1056041441,
-        "steps": 50,
-        "prompt": "score_9, score_8_up, score_8,  1girl, cute, excited, white skin, brown eyes, Seductive look, green tshirt, flat breasts, one breast out, hold breasts, pov from below, bra, lucy heartfilia",
-        "sampler": "DPM++ 2M Karras",
+        "seed": 3727728206,
+        "extra": {
+          "remixOfId": 28700539
+        },
+        "steps": 30,
+        "prompt": "score_9, score_8_up, score_8, 1 elf girl, solo, sexy witch girl, perfect face, thick eyeliner, small breasts, long pink hair, green eyes, perfect detailed face, short, sheer nightgown, no panties, detailed pussy, detailed anatomy, indoors, bedroom, large panther\ngirl and panther sleeping peacefully on the bed, end table with books, cozy bedroom, dildo on the bed next to girl",
+        "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
         "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, phone, smartphone, mutated hands, low res, blurry face, (hairy pussy:1.2), pumped body, athletic body, black and white",
+        "Created Date": "2024-09-19T0353:56.8759799Z",
+        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, mutated hands, low res, blurry face, (hairy pussy:1.2), pumped body, athletic body, black and white, sepia, bad anatomy, chain",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "type": "ImageJobNetworkParams { Strength = 0.25, TriggerWord = , Type = lora }",
-            "weight": 0.25,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "ImageJobNetworkParams { Strength = 0.8, TriggerWord = , Type = lora }",
-            "weight": 0.8,
-            "modelVersionId": 298238
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
             "type": "embed",
-            "modelVersionId": 250708
+            "weight": 1,
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
           },
           {
             "type": "embed",
-            "modelVersionId": 250712
+            "weight": 1,
+            "modelVersionId": 179964,
+            "modelVersionName": "NegativeDynamics v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 298238,
+            "modelVersionName": "Smooth Anime"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 378950,
+            "modelVersionName": "Pony V2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 421754,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Atomicbooger",
+      "username": "ElvishDreams",
       "baseModel": "Pony",
       "modelVersionIds": [
+        60938,
+        179964,
         244808,
         290640,
-        298238
+        298238,
+        378950,
+        421754
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1021|1744039911343",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1021%7C1744039911343"
+    "nextCursor": "1022|1733334062281",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1022%7C1733334062281"
   }
 }
