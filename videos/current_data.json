@@ -1,56 +1,108 @@
 {
   "items": [
     {
-      "id": 44599107,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fdd5f4ac-61db-461c-95e1-76549392ead2/original=true/fdd5f4ac-61db-461c-95e1-76549392ead2.jpeg",
-      "hash": "UJK,~q.8KjjF_NjY-;Rj%~-;^*IAofxa-;NH",
-      "width": 1024,
-      "height": 1536,
-      "nsfwLevel": "Mature",
+      "id": 49727640,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6082a90d-c07c-4587-a18f-471e355db8d4/original=true/6082a90d-c07c-4587-a18f-471e355db8d4.jpeg",
+      "hash": "U9ELQm?uyD5=03-o={~BKPMyXS-UoM^+-ot7",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-12-09T18:58:48.305Z",
-      "postId": 10113088,
+      "browsingLevel": 16,
+      "createdAt": "2025-01-05T15:49:19.323Z",
+      "postId": 11201003,
       "stats": {
-        "cryCount": 100,
-        "laughCount": 172,
-        "likeCount": 1758,
+        "cryCount": 79,
+        "laughCount": 191,
+        "likeCount": 1750,
         "dislikeCount": 0,
-        "heartCount": 822,
-        "commentCount": 7
+        "heartCount": 830,
+        "commentCount": 6
       },
       "meta": {
-        "seed": 397968492,
-        "vaes": [
-          "sdxl-vae-fp16-fix.safetensors"
-        ],
-        "comfy": "{\"prompt\": {\"10001\": {\"class_type\": \"ECHOCheckpointLoaderSimple\", \"inputs\": {\"ckpt_name\": \"EMS-557253-EMS.safetensors\"}, \"_properties\": null}, \"10010\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10001\", 1], \"model\": [\"10001\", 0], \"text\": \"<lora:EMS-560287-EMS.safetensors:1.000000>\"}, \"_properties\": null}, \"10011\": {\"class_type\": \"VAELoader\", \"inputs\": {\"vae_name\": \"sdxl-vae-fp16-fix.safetensors\"}, \"_properties\": null}, \"10012\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"10010\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"10013\": {\"class_type\": \"EmptyLatentImage\", \"inputs\": {\"batch_size\": 2, \"height\": 1152, \"width\": 768}, \"_properties\": null}, \"10024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"1girl, nico robin, one piece, black fur, cat ears, cat pose, soft smile, blush, large breasts, thick thighs, ((cat paws)), catgirl costume, midriff, leaning forward, beautiful skin, beautiful eyes, natural beauty, extraordinary beautiful woman, attractive woman, super sexy woman, lustful body, sexy woman with seductive obscene body, sensual body, voluptuous body, sexy beauty, no piercings, )), black cat lingerie, cat cutout, cat ear panties, black bandeau, black side-tie panties, cleavage cutout, jingle bell, paw pose, black thighhighs, black tail, squatting, simple background, from above, mittens, bare shoulders, collarbone, open legs, modeus, masterpiece, best quality, good quality, newest, very aesthetic, absurdres\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"10025\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"10012\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11001\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 1.0, \"ensd\": 31337, \"latent_image\": [\"10013\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 397968492, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11008\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11001\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11011\": {\"class_type\": \"UpscaleModelLoader\", \"inputs\": {\"model_name\": \"RealESRGAN_x4plus_anime_6B.pth\"}, \"_properties\": null}, \"11012\": {\"class_type\": \"ImageUpscaleWithModel\", \"inputs\": {\"image\": [\"11008\", 0], \"upscale_model\": [\"11011\", 0]}, \"_properties\": null}, \"11013\": {\"class_type\": \"ImageScale\", \"inputs\": {\"crop\": \"disabled\", \"height\": 1536, \"image\": [\"11012\", 0], \"upscale_method\": \"nearest-exact\", \"width\": 1024}, \"_properties\": null}, \"11014\": {\"class_type\": \"VAEEncode\", \"inputs\": {\"pixels\": [\"11013\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11015\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"denoise\": 0.35, \"ensd\": 31337, \"latent_image\": [\"11014\", 0], \"model\": [\"10010\", 0], \"negative\": [\"10025\", 0], \"positive\": [\"10024\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 397968492, \"seed_mode\": \"A1111\", \"steps\": 20}, \"_properties\": null}, \"11016\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11015\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11018\": {\"class_type\": \"LoraTagLoader\", \"inputs\": {\"clip\": [\"10012\", 0], \"model\": [\"10010\", 0], \"text\": \"ECHO_EMPTY\"}, \"_properties\": null}, \"11019\": {\"class_type\": \"CLIPSetLastLayer\", \"inputs\": {\"clip\": [\"11018\", 1], \"stop_at_clip_layer\": -2}, \"_properties\": null}, \"11021\": {\"class_type\": \"YoloDetectorProvider\", \"inputs\": {\"max_faces\": 5, \"model_name\": \"bbox/face_yolov8n_v2.pt\"}, \"_properties\": null}, \"11022\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"1girl, nico robin, one piece, black fur, cat ears, cat pose, soft smile, blush, large breasts, thick thighs, ((cat paws)), catgirl costume, midriff, leaning forward, beautiful skin, beautiful eyes, natural beauty, extraordinary beautiful woman, attractive woman, super sexy woman, lustful body, sexy woman with seductive obscene body, sensual body, voluptuous body, sexy beauty, no piercings, )), black cat lingerie, cat cutout, cat ear panties, black bandeau, black side-tie panties, cleavage cutout, jingle bell, paw pose, black thighhighs, black tail, squatting, simple background, from above, mittens, bare shoulders, collarbone, open legs, modeus, masterpiece, best quality, good quality, newest, very aesthetic, absurdres\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11024\": {\"class_type\": \"CLIPTextEncode\", \"inputs\": {\"clip\": [\"11019\", 0], \"text\": \"(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames\", \"token_normalization\": \"none\", \"weight_interpretation\": \"comfy\"}, \"_properties\": null}, \"11025\": {\"class_type\": \"FaceDetector_ad\", \"inputs\": {\"bbox_detector\": [\"11021\", 0], \"bbox_threshold\": 0.5, \"dilate_erode\": 4, \"image\": [\"11016\", 0], \"mask_merge_mode\": \"None\", \"x_offset\": 0, \"y_offset\": 0}, \"_properties\": null}, \"11026\": {\"class_type\": \"InpaintCrop_ad\", \"inputs\": {\"blend_pixels\": 16.0, \"blur_mask\": 4.0, \"context_expand_factor\": 1.0, \"context_expand_pixels\": 32, \"fill_mask_holes\": true, \"force_height\": 1152, \"force_width\": 768, \"images\": [\"11025\", 0], \"invert_mask\": false, \"masks\": [\"11025\", 1], \"mode\": \"forced size\", \"rescale_algorithm\": \"bicubic\"}, \"_properties\": null}, \"11027\": {\"class_type\": \"InpaintModelConditioning\", \"inputs\": {\"mask\": [\"11026\", 2], \"negative\": [\"11024\", 0], \"noise_mask\": true, \"pixels\": [\"11026\", 1], \"positive\": [\"11022\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11028\": {\"class_type\": \"DifferentialDiffusion\", \"inputs\": {\"model\": [\"11018\", 0]}, \"_properties\": null}, \"11029\": {\"class_type\": \"KSampler\", \"inputs\": {\"cfg\": 4.0, \"control_after_generate\": \"fixed\", \"denoise\": 0.4, \"ensd\": 31337, \"latent_image\": [\"11027\", 2], \"model\": [\"11028\", 0], \"negative\": [\"11027\", 1], \"positive\": [\"11027\", 0], \"sampler_name\": \"euler_ancestral\", \"scheduler\": \"normal\", \"seed\": 397968492, \"seed_mode\": \"A1111\", \"steps\": 25}, \"_properties\": null}, \"11030\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11029\", 0], \"vae\": [\"10011\", 0]}, \"_properties\": null}, \"11031\": {\"class_type\": \"InpaintStitchOneImage_ad\", \"inputs\": {\"inpainted_images\": [\"11030\", 0], \"rescale_algorithm\": \"bicubic\", \"stitchs\": [\"11026\", 0]}, \"_properties\": null}, \"12004\": {\"class_type\": \"SaveImage\", \"inputs\": {\"filename_prefix\": \"804517850797648454\", \"images\": [\"11031\", 0]}, \"_properties\": null}}, \"workflow\": undefined}",
-        "steps": 25,
-        "width": 768,
-        "height": 1152,
-        "models": [],
-        "prompt": "1girl, nico robin, one piece, black fur, cat ears, cat pose, soft smile, blush, large breasts, thick thighs, ((cat paws)), catgirl costume, midriff, leaning forward, beautiful skin, beautiful eyes, natural beauty, extraordinary beautiful woman, attractive woman, super sexy woman, lustful body, sexy woman with seductive obscene body, sensual body, voluptuous body, sexy beauty, no piercings, )), black cat lingerie, cat cutout, cat ear panties, black bandeau, black side-tie panties, cleavage cutout, jingle bell, paw pose, black thighhighs, black tail, squatting, simple background, from above, mittens, bare shoulders, collarbone, open legs, modeus, masterpiece, best quality, good quality, newest, very aesthetic, absurdres",
-        "denoise": 1,
-        "sampler": "Euler a",
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 455077189,
+        "draft": false,
+        "extra": {
+          "remixOfId": 49723426
+        },
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9,score_8_up,score_7_up,score_6_up,score_5_up, masterpiece, best_quality, ultra-detailed, masterpiece,    1girl, nude, solo, ass, feet, soles, brown hair, barefoot, toes, completely nude, window, from behind, indoors, facing away, detailed vagina cum dripping, long hair, back, head and shoulders stuck in washing machine, kneeling. full body, legs, foot focus, home laundry, frontload washing machine",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 4,
-        "modelIds": [],
-        "scheduler": "normal",
-        "upscalers": [
-          "RealESRGAN_x4plus_anime_6B.pth"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "(low quality, worst quality), displeasing, ugly, poorly drawn, displeasing, very displeasing, worst quality, bad quality, oldest, deformed limbs, bad anatomy, comic, frames",
-        "additionalResources": []
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-01-05T1548:52.7082808Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
       },
-      "username": "Twisowk",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "username": "Eyecandy69",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1032|1736092159323",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1032%7C1736092159323"
+    "nextCursor": "1033|1757446440000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1033%7C1757446440000"
   }
 }
