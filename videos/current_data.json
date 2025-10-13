@@ -1,103 +1,155 @@
 {
   "items": [
     {
-      "id": 38764140,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a91ebf06-089d-45da-bcba-c8a53245ae19/original=true/a91ebf06-089d-45da-bcba-c8a53245ae19.jpeg",
-      "hash": "UHD*^d_N^+-pWFEMM{In0L4.IUNGxCe-W;X9",
-      "width": 832,
-      "height": 1216,
+      "id": 58287139,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/40c72195-f19f-4520-8529-d2e0d92a0331/original=true/40c72195-f19f-4520-8529-d2e0d92a0331.jpeg",
+      "hash": "UHHw=Pt7Shf+k??GR-Ip4.~W?HIoj]o#%MM|",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-11-07T02:16:23.432Z",
-      "postId": 8847683,
+      "createdAt": "2025-02-17T01:45:00.000Z",
+      "postId": 13043722,
       "stats": {
-        "cryCount": 114,
-        "laughCount": 188,
-        "likeCount": 1667,
+        "cryCount": 117,
+        "laughCount": 211,
+        "likeCount": 1677,
         "dislikeCount": 0,
-        "heartCount": 932,
-        "commentCount": 1
+        "heartCount": 892,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3562792184,
-        "steps": 29,
-        "prompt": "score_9, score_8_up, score_7_up, 1girl, solo, Rei ayanami (evangelion), dynamic angle, sexy, steam, ahegao, blush, hearts, pose blowjob, grabbing head, thighhighs, garter belt, sexy, blush, sweat, living room, sexy, pose, steam, face focus, closeup, dynamic angle, hearts, lingerie, hands on man thighs",
+        "nsfw": true,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:439889@1199750",
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/JE1EGQPJ9TSTJSJKW6QP4KKY90",
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:439889@1199750"
+        ],
+        "prompt": "safe_pos, safe_pos, score_9, score_8_up, score_7_up, source_anime, rating_explicit, masterpiece, absurdres, (high quality), detailed skin, detailed iris, (detailed character design), (ultra-high resolution), perfectly composed, clear, breathtaking attention to detail, high-resolution, ultra detail, uncensored, narrow waist, ((detailed face, detailed skin), masterpiece, ultra details, ultra detailed, ultra quality, best quality) black eyeshadow, (pale skin) lux, 1girl, blonde long hair, blue eyes,\nBREAK \n(WEARING: torn white fishnet stockings, garter belt, torn tight and transparent wedding dress), straight hair, long hair, sexy body, perfect ass, (round ass), trained thighs, thick thighs, round breast, shiny skin, blush, blushed, slutty, horny, slut, black eye lashes, athletic body, hard nipples, 1man \nBREAK\nperfect face, huge hips, slim hourglass figure, (legs together), very big ass, (TONGUE OUT, EYES ROLLING, AHEGAO FACE), narrowed eyes, parted lips, oiled skin, looking at viewer, perfect breasts, ((on all fours)), ((cameltoe)), (((ass grab by man hands, head lying on the floor, ass up, reverse cowgirl))) ass close-up, crowded\nBREAK\n(Looking at viewer, shadows, sharp contours, blurred background, bright colors, background castle, rear view.)\n<lora:Expressive_H:1> easynegative",
+        "denoise": 0.4,
         "sampler": "Euler a",
         "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-11-07T0207:04.2352049Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, greyscale",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-facefix",
+        "baseModel": "Pony",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "safe_neg, civit_nsfw, safe_neg, score_4, score_5, score_6, fcNeg, FastNegativeV2, ng_deepnegative_v1_75t, bad hands, bad feet, worst quality, censored, lowres, low detail, blurry, watercolor, bad anatomy, weird fingers, bad proportions, deformed, deformed anatomy, deformed fingers, cum, cum on breasts, teeth, artist tag, artist name, patreon name, patreon tag, Body Out of frame, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Deformed, Out of frame, Poorly drawn.",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
             "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 1199750
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1199750
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 135867
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9536
+          },
+          {
+            "weight": 0.4999999999999999,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 584522
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1199750
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 1,
+            "modelVersionId": 382152
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 1,
+            "modelVersionId": 135867
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.4999999999999999,
+            "modelVersionId": 436219
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 1,
+            "modelVersionId": 584522
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "name": "urn:air:sdxl:lora:civitai:122359@135867",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.4999999999999999,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "name": "urn:air:sdxl:lora:civitai:526075@584522",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Bancin",
+      "username": "Abbyss",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
+        9536,
+        135867,
         382152,
-        398847,
-        436219
+        436219,
+        584522,
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1000|1739756700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1000%7C1739756700000"
+    "nextCursor": "1001|1757810700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1001%7C1757810700000"
   }
 }
