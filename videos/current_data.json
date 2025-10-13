@@ -1,69 +1,62 @@
 {
   "items": [
     {
-      "id": 9149023,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a14573e-2002-4b0d-a1fd-b81bd48f2511/original=true/8a14573e-2002-4b0d-a1fd-b81bd48f2511.jpeg",
-      "hash": "UEDlA,~qK6IVTegio}nikq%2RkM{9uoJ$%o0",
-      "width": 832,
-      "height": 1216,
+      "id": 92354983,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c459b390-0eb1-4d79-8fdf-b2e983067fba/original=true/c459b390-0eb1-4d79-8fdf-b2e983067fba.jpeg",
+      "hash": "UCIE6H004o=f17#QRnI.00s+.79t~pR5s;%2",
+      "width": 1024,
+      "height": 1024,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-04-04T13:59:52.226Z",
-      "postId": 1975512,
+      "createdAt": "2025-08-04T23:19:18.495Z",
+      "postId": 20487291,
       "stats": {
-        "cryCount": 59,
-        "laughCount": 187,
-        "likeCount": 1550,
+        "cryCount": 187,
+        "laughCount": 222,
+        "likeCount": 1734,
         "dislikeCount": 0,
-        "heartCount": 1092,
-        "commentCount": 1
+        "heartCount": 744,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1106899347,
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_7_up,  2girls, 1girl (Snow White) and 1girl (Elsa), lesbian, ((anilingus)), rimming, rimjob, ass licking, jack-o-pose, side view, library, getting caught, expressive, (full bodies in view)",
+        "Size": "1024x1024",
+        "seed": 1430008244,
+        "draft": false,
+        "steps": 14,
+        "width": 1024,
+        "height": 1024,
+        "prompt": "shiikosugai, sugai shiiko \\(gundam\\), short hair, multicolored eyes, blue eyes, black hair, bob cut, bangs, blush stickers,  turtleneck sweater, , brown coat, brown jacket, 1girl, solo, alone, nipples, bare breasts, masterpiece, cum, cum on breasts, huge breasts, cum on face, ((((blowjob)))), fellatio, ((paizuri_handjob:1.4)), ((double handjob:1.3)), ((((cumshot_tentacles:1.2)))), (surrounded by multiple tentacles:1.2), (projectile cum:1.4), tentacle paizuri, ((((tentacles wrapped around breasts:1.5)))),((multiple tentacles in pussy:1.2)), ((((tentacle_breastgrab)))), (restrained by tentacles:1.2), torn clothes, (exploding clothes:1.5), ((((vaginal penetration1.1)))), hands chained, chains, hands up, score_9, hands behind head, restrained, double paizuri, multiple paizuri, symmetrical docking, ass",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 3.5,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "negativePrompt": "score_6, score_5, score_4, (bad anatomy), hairbun, pony, gaping, muscular, censored, furry, child, kid, chibi, 3d, ((futa)), (monochrome:1.4)",
+        "disablePoi": true,
+        "aspectRatio": "1:1",
+        "Created Date": "2025-08-04T1756:27.8146910Z",
+        "experimental": false,
+        "negativePrompt": "no watermark, no website, bad quality, censored, bad anatomy, bad faces, bad hands, missing fingers, fewer digits, duplicate women, more fingers, bad lips, bad mouths, low quality, blurry, lowres, english text, japanese text, monochrome, greyscale, low resolution, signature, username, fat, deformed, small breasts, tiny breasts, flat chest, medium breasts, green tentacles, extra hands, multiple hands, extra arms, glasses, 2girls, 2women, closed eyes,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 330475
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 378684
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
           }
         ]
       },
-      "username": "perchancekage0000",
-      "baseModel": "Pony",
+      "username": "red5cheat",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        330475,
-        378684,
-        382152
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1009|1754349558495",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1009%7C1754349558495"
+    "nextCursor": "1010|1757637701000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1010%7C1757637701000"
   }
 }
