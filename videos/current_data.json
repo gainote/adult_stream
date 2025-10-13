@@ -1,91 +1,108 @@
 {
   "items": [
     {
-      "id": 95962231,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0be5fefc-8407-48f4-8df3-19c7ad7e7d94/original=true/0be5fefc-8407-48f4-8df3-19c7ad7e7d94.jpeg",
-      "hash": "UHN]2@0g%%0PIynM=~=|9jNxRrIp^%MxM{NN",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 84944367,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a6803982-96a0-4bb6-89a1-b039e00198a6/original=true/a6803982-96a0-4bb6-89a1-b039e00198a6.jpeg",
+      "hash": "UJEecX~CS6XR$jozK4Rk4.IVRjIoKNxHwcso",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-24T02:42:00.000Z",
-      "postId": 21284692,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-28T01:15:00.000Z",
+      "postId": 18856472,
       "stats": {
-        "cryCount": 121,
-        "laughCount": 183,
-        "likeCount": 1768,
+        "cryCount": 129,
+        "laughCount": 225,
+        "likeCount": 1680,
         "dislikeCount": 0,
-        "heartCount": 775,
+        "heartCount": 812,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1464982041,
+        "seed": 2179049953,
+        "vaes": [],
         "draft": false,
-        "steps": 29,
+        "extra": {},
+        "steps": 40,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, stunning, best quality, very aesthetic, absurdres, detailed face, Ultra_HD, 8k, dinamic angle, solo, shiny skin, face focus, face closeup, from above, clear image, foreshortening, bokeh, full body, dappled sunlight, shadow, BREAK, 1girl, Veilchen, Bob cut, Purple eyes, Short girl, Shy, Cute, small breast, Anime girl, Beautiful girl, perfect body, wide hips, narrow waist, banana boat, inflatable toy, water, wet, straddling, riding, water drop, splashing, sunglasses on head, perfect hands, outstretched arm,   outstretched arm, hand to the sky, hand up, open hand, fingers spread, hand closeup, shielding with hand, shield the sun's rays, sun's rays, lying on back, lying on banana boat, face up, half closed eyes, asymmetrical eyes, perfect eyes, looking at viewer, intense look, posing, sexy pose, very flexible, sweat, spread legs, feet in water, cross bikini, o-ring, black bikini, ass ripple, skindentation, thighs ripple, \nBREAK,\nDetailed background, swimming pool, exotic background, sunlight, sunny day, vivid color, volumetric lighting, perfect water reflection, bokeh,",
-        "sampler": "Euler a",
-        "cfgScale": 5.5,
+        "models": [],
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, moe, (taragao:1.4),,erokawa, fully nude, shaved vagina, erokawa girl, tight, large breasts, half sideways, kawaii girl, solo, cleavage, sexy, sweaty skin, breasts freakles, detailed, high res, cheek mole, blush, embarrassment, look away, slightly smile, visible nipples, shiny glossy breasts, twin tails haircut, godrays, bite lip, young, bedroom, late night, sexy, lustful",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5,
         "clipSkip": 2,
+        "modelIds": [],
         "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
         "disablePoi": true,
+        "versionIds": [],
         "aspectRatio": "13:19",
-        "Created Date": "2025-08-16T0852:00.7418932Z",
+        "controlNets": [],
         "experimental": false,
-        "negativePrompt": "bad quality, worst quality, worst detail, watermark, futanari, bad anatomy, bad proportions, bad hands, extra digits, blurry, bad reflection, bad lightining,",
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), bad hands, missing fingers, ",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 2010753
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 2064204
-          },
-          {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 2109644
+            "modelVersionId": 290640
           },
           {
-            "type": "lora",
+            "weight": 4.5,
+            "modelVersionId": 1726904
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1029540
+          },
+          {
             "weight": 1,
-            "modelVersionId": 2014002
+            "modelVersionId": 239420
           },
           {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 2019319
+            "weight": 0.65,
+            "modelVersionId": 436219
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1144547
+            "weight": 2.75,
+            "modelVersionId": 1926995
+          },
+          {
+            "weight": 3,
+            "modelVersionId": 1854599
+          },
+          {
+            "weight": 1.5,
+            "modelVersionId": 1506035
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "Mephistophele",
-      "baseModel": "Illustrious",
+      "username": "Suby432",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1144547,
-        2010753,
-        2014002,
-        2019319,
-        2064204,
-        2109644
+        164821,
+        239420,
+        290640,
+        436219,
+        1029540,
+        1506035,
+        1726904,
+        1854599,
+        1926995
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1036|1751073300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1036%7C1751073300000"
+    "nextCursor": "1037|1742133600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1037%7C1742133600000"
   }
 }
