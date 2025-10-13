@@ -1,112 +1,97 @@
 {
   "items": [
     {
-      "id": 87197654,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e363d9b4-69d4-461d-a99e-3364aca39061/original=true/e363d9b4-69d4-461d-a99e-3364aca39061.jpeg",
-      "hash": "U9Kcto_2L14U?[.lAc-U02-q=x?a9d-W#-S~",
+      "id": 35684134,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bfaa43b0-7b6c-49d9-b0e5-6435597b780e/original=true/bfaa43b0-7b6c-49d9-b0e5-6435597b780e.jpeg",
+      "hash": "UqJRm$M{_NxvOtofR*R+tRR*WBoeWWofV@WB",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-09T10:22:00.000Z",
-      "postId": 19345205,
+      "browsingLevel": 4,
+      "createdAt": "2024-10-21T00:30:05.520Z",
+      "postId": 8154380,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 193,
-        "likeCount": 1734,
+        "cryCount": 103,
+        "laughCount": 228,
+        "likeCount": 1700,
         "dislikeCount": 0,
-        "heartCount": 860,
-        "commentCount": 0
+        "heartCount": 858,
+        "commentCount": 6
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1307857@1723898",
-        "extra": {},
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1307857@1723898"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\n\n blonde braid,\n(smooth skin:0.8),\n\n(hard nipples:1.1),\nshanding,\nsee through,\nwindow,\nplants,\nsitting white sofa,\nparted lips,\n(slip pussy:0.7),\nfreckles,\nmessy hairs,\n(perky breasts:1.2),",
-        "denoise": 0.01,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
+        "Size": "832x1216",
+        "seed": 2122604016,
+        "steps": 30,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, (score_9, score_8_up:1.1),((( long straight hair,1,5))), (dark blue hair:1.5), blunt bangs, (green eyes), voluptuous, pale skin, , goth attire, punk attire, ripped cropped t-shirt, leather pants, pierced navel, belly tattoo, , spiky armbands, chocker,, cowboy shot, nipple peek, <lora:tongue-piercing-ponyxl-lora-nochekaiser:1>, tongue piercing, tongue, tongue out, open mouth,",
+        "sampler": "Euler a",
+        "cfgScale": 10,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
-        "baseModel": "Illustrious",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/317787917982149040207115399364393068849.jpg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed), bestiality",
-        "civitaiResources": [
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1723898
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 1976924
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1082928
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1723898
-          },
-          {
+            "name": "tongue-piercing-ponyxl-lora-nochekaiser",
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1976924
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1082928
+            "weight": 1
           }
         ],
-        "additionalResources": [
+        "Created Date": "2024-10-21T0001:09.6196941Z",
+        "negativePrompt": "score_6, score_5, score_4, source_pony, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, 3d art, nipple ring,  extra hands, extra fingers,  tan lines,",
+        "civitaiResources": [
           {
-            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
+            "type": "checkpoint",
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:966483@1082928",
             "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "weight": 1,
+            "modelVersionId": 705995,
+            "modelVersionName": "booru"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 128461,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 705845,
+            "modelVersionName": "Incase"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "vovkkabanko",
-      "baseModel": "Illustrious",
+      "username": null,
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1082928,
-        1723898,
-        1976924
+        128461,
+        382152,
+        705845,
+        705995,
+        817261
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1005|1729470605520",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1005%7C1729470605520"
+    "nextCursor": "1006|1719927214551",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1006%7C1719927214551"
   }
 }
