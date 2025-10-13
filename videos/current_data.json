@@ -1,33 +1,90 @@
 {
   "items": [
     {
-      "id": 99356619,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/831c6e90-d5cc-49ca-8e72-7af8c5b3ab7f/original=true/831c6e90-d5cc-49ca-8e72-7af8c5b3ab7f.jpeg",
-      "hash": "U8BVFOI;0#$i}?smIqR-1Jsm],EhEONH=_sl",
-      "width": 1024,
-      "height": 1536,
-      "nsfwLevel": "Mature",
+      "id": 59436166,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bdbe233b-5c7d-4315-a8c4-47133f55fc4a/original=true/bdbe233b-5c7d-4315-a8c4-47133f55fc4a.jpeg",
+      "hash": "U59%VaW?00xGLyW;4:f54VsT}kWX00of}8R*",
+      "width": 1344,
+      "height": 2240,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-09T19:34:00.000Z",
-      "postId": 22046136,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-23T20:30:00.000Z",
+      "postId": 13295668,
       "stats": {
-        "cryCount": 132,
-        "laughCount": 447,
-        "likeCount": 1729,
+        "cryCount": 128,
+        "laughCount": 197,
+        "likeCount": 1752,
         "dislikeCount": 0,
-        "heartCount": 541,
-        "commentCount": 1
+        "heartCount": 772,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "UnstableGen",
-      "baseModel": "OpenAI",
-      "modelVersionIds": []
+      "meta": {
+        "Size": "768x1280",
+        "seed": 474728017377622,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), (ahegao:0.9), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), sitting, wide spread legs, under tree, (tentacle sex:1.1), bound, bound arms, bound legs, outdoors, (void portal \\(object\\) below:1.2), (glowing summoning circle:1.2), (summoning tentacles:1.1), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 4.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, suction cups, symmetry, fire"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1345990,
+        1284348,
+        567119,
+        1050644,
+        1410435
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1034|1740342600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1034%7C1740342600000"
+    "nextCursor": "1035|1756003320000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1035%7C1756003320000"
   }
 }
