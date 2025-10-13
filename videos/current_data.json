@@ -1,92 +1,90 @@
 {
   "items": [
     {
-      "id": 37525044,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/572bce94-41f6-4a8c-91eb-15ca6f902a10/original=true/572bce94-41f6-4a8c-91eb-15ca6f902a10.jpeg",
-      "hash": "U2Db7,00,?[U00yrBB~ByE+G?G0#-;IUr?xC",
-      "width": 832,
-      "height": 1216,
+      "id": 61291620,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dc775447-4e60-404c-86f6-340f2e6c267b/original=true/dc775447-4e60-404c-86f6-340f2e6c267b.jpeg",
+      "hash": "UDGtTv9u0Lt70#IoInt600-U~Bad~V$*%1WB",
+      "width": 1344,
+      "height": 2240,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-31T07:12:13.803Z",
-      "postId": 8571913,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-05T20:03:00.000Z",
+      "postId": 13704601,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 246,
-        "likeCount": 1665,
+        "cryCount": 100,
+        "laughCount": 177,
+        "likeCount": 1698,
         "dislikeCount": 0,
-        "heartCount": 856,
-        "commentCount": 12
+        "heartCount": 907,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 4076963368,
-        "extra": {
-          "remixOfId": 35050023
+        "Size": "768x1280",
+        "seed": 168499145479269,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//www.deviantart.com/marlandco",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
         },
-        "steps": 38,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up) 1boy, 1girl, Miranda Lawson, original face, bodysuit, fit body, big breasts, perfect ass, sweet ass, fit ass, arching ass, indoor, gym, sexy, hot, on knees, on all fours, bent over, behind anal sex, large cock, anal stretching, ass grab, brutal anal penetration (motion lines), surprise expression face, looking at viewer,",
-        "sampler": "Euler a",
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, lisa \\(genshin impact\\), erect nipples, nude, sitting on chair, legs spread, latex panties, stretching panties, hat, seductive smile, playful expression, looking at viewer,\nindoors, (grand library:1.2), wooden bookshelves, scattered open books, dim candlelight, warm ambiance, luxurious furniture, tentacles in background, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
         "cfgScale": 5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-30T1020:25.6274419Z",
-        "negativePrompt": "score_4, score_5, score_6, (muscular female), greyscale",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 333587,
-            "modelVersionName": "Smooth 2"
+            "weight": 2
           },
           {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 1
           },
           {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 548385,
-            "modelVersionName": "AsuraV2"
+            "weight": 0.6
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry, huge breasts,"
       },
-      "username": "Sharlorde",
-      "baseModel": "Pony",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        333587,
-        436219,
-        548385
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1013|1741204980000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1013%7C1741204980000"
+    "nextCursor": "1014|1752622200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1014%7C1752622200000"
   }
 }
