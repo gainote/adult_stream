@@ -1,38 +1,112 @@
 {
   "items": [
     {
-      "id": 47651721,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9065ad4a-364c-4bff-abd5-11b4e0c68e44/original=true/9065ad4a-364c-4bff-abd5-11b4e0c68e44.jpeg",
-      "hash": "UEFE4M02BV=w~V4:tkjF10r?^iI:9]ofsmxZ",
+      "id": 87197654,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e363d9b4-69d4-461d-a99e-3364aca39061/original=true/e363d9b4-69d4-461d-a99e-3364aca39061.jpeg",
+      "hash": "U9Kcto_2L14U?[.lAc-U02-q=x?a9d-W#-S~",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-26T03:30:04.711Z",
-      "postId": 10756453,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-09T10:22:00.000Z",
+      "postId": 19345205,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 204,
-        "likeCount": 1662,
+        "cryCount": 104,
+        "laughCount": 193,
+        "likeCount": 1734,
         "dislikeCount": 0,
-        "heartCount": 896,
-        "commentCount": 4
+        "heartCount": 860,
+        "commentCount": 0
       },
       "meta": {
-        "steps": 20,
-        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis and Buzz everyone.",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1307857@1723898",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1307857@1723898"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, uncensored,\n\n\n blonde braid,\n(smooth skin:0.8),\n\n(hard nipples:1.1),\nshanding,\nsee through,\nwindow,\nplants,\nsitting white sofa,\nparted lips,\n(slip pussy:0.7),\nfreckles,\nmessy hairs,\n(perky breasts:1.2),",
+        "denoise": 0.01,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "upscalers": [],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/317787917982149040207115399364393068849.jpg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "\nbad quality, worst quality, worst detail, sketch, censor, censored, text, monochrome, watermark, artist name, ugly, ugly face, mutated hands, low res, bad anatomy, bad eyes, blurry face, unfinished, sketch, greyscale, (deformed), bestiality",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1723898
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1976924
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1082928
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1723898
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1976924
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1082928
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1730868@1976924",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:966483@1082928",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "Rodzilla2025X",
-      "baseModel": "Pony",
-      "modelVersionIds": []
+      "username": "vovkkabanko",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1082928,
+        1723898,
+        1976924
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1004|1752056520000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1004%7C1752056520000"
+    "nextCursor": "1005|1729470605520",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1005%7C1729470605520"
   }
 }
