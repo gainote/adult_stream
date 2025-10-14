@@ -1,102 +1,108 @@
 {
   "items": [
     {
-      "id": 14825208,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a11aa328-4503-4971-b4c1-097eb7e404bd/original=true/a11aa328-4503-4971-b4c1-097eb7e404bd.jpeg",
-      "hash": "UDE-w2=_57Iq~T%LX8RQ%e-nxGaM-T%1oeI;",
-      "width": 832,
-      "height": 1216,
+      "id": 102383678,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/40ed7fe2-807e-4283-acf4-f934a084be5c/original=true/40ed7fe2-807e-4283-acf4-f934a084be5c.jpeg",
+      "hash": "U7A^2rJB57%NY7ROVXt7T}wvI9%M.9tlROo~",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-06-06T13:33:16.511Z",
-      "postId": 3289332,
+      "createdAt": "2025-09-26T01:56:23.940Z",
+      "postId": 22715016,
       "stats": {
-        "cryCount": 87,
-        "laughCount": 207,
-        "likeCount": 1471,
+        "cryCount": 126,
+        "laughCount": 198,
+        "likeCount": 1736,
         "dislikeCount": 0,
-        "heartCount": 1063,
-        "commentCount": 1
+        "heartCount": 768,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 561117352,
-        "steps": 24,
-        "prompt": "ASCII score_9, score_8_up, score_7_up, 1girl, embarrassed, shy, slutty, hogtied, happy, masterpiece, several boys, 20yo girl fucked, perky tits, baggy sweatshirt with hood, foot job, knee high socks, thong around ankles, exposed breasts,  TV, lying on couch, messy apartment, boys watching, girl with head in boys lap, volumetric lighting, cinematic lighting, no panties, cum, drunk, wild party, exposed tits, sunset, face down ass up",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "seed": 620640218,
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
+        ],
+        "prompt": "18yo, HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic,\nrealistic, sinozick style, flat color, dark theme, \n1girl, perfect breasts,nipples,random hair, sex with 1boy, vaginal penetration, legup_missionary, 1girl, lying, on back, missionary sex, folded,<lora:legsup_missionary:0.8>,bottom up, cum in pussy,\nlooking at viewer, random pose, seductive face,\nin nordic forest, cold, pine trees, forest, nude,\ndepth of field, volumetric lighting, cinematic lighting, cinematic atmosphere, deep photo, foreshortening, cum on face, cum on breasts, cum, cum on body, pillars, fantasy ruins, nordic ruins",
+        "denoise": 0.4,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-06-06T1332:36.5828904Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/X24ZQDK0MJ01C3YKVGXYTH8AN0.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuTCMfClPRDrWTJemPyOix_aoNC9SN5s3w42hx1EXWGVJG266ClXhxXoqYEtusbImwEQhf2sd0a7MorRT_ZRv4Zc4Kqm2dWbVTwgf0VIrlGMPNEE464osxYgmMSFNJZBbxCIyCLtWJ2uS2GTcfG16e00QT_FMpT4NPYyJEEeqEsIosTQfJ_8OwImgb-eHIkaJhzFqxQJPKIijos8cxknb0ott8JaVx21PiTBuRskWgaF6udJvu8OOJh3p-IkYNJo24njKAcBDkU1mdKMd1Vvc88L&exp=2026-09-25T16:04:24.8750984Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor, solo",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1240288
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 0.9,
+            "modelVersionId": 1247042
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 481798
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "modelVersionId": 1209350
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight"
+            "weight": 1,
+            "modelVersionId": 1380520
           },
           {
             "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 354128,
-            "modelVersionName": "v1.0"
+            "weight": 1,
+            "modelVersionId": 2236265
           },
           {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 553129,
-            "modelVersionName": "Shiren"
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ]
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "solumbragt355",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        244808,
-        290640,
-        330475,
-        354128,
-        382152,
-        398847,
-        553129
+        164821,
+        481798,
+        1209350,
+        1240288,
+        1247042,
+        1380520,
+        2236265
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1051|1758851783940",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1051%7C1758851783940"
+    "nextCursor": "1052|1730863156732",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1052%7C1730863156732"
   }
 }
