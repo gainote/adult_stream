@@ -1,73 +1,65 @@
 {
   "items": [
     {
-      "id": 33653492,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6d129eb-e441-4ad7-9d2c-d34bb66990d6/original=true/b6d129eb-e441-4ad7-9d2c-d34bb66990d6.jpeg",
-      "hash": "UNCsXNbuE1%29aMwROx^NdWBVraz?wt7W;%M",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 102446302,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/727c9e9b-c103-4703-97fe-a3b12ee2cfab/original=true/727c9e9b-c103-4703-97fe-a3b12ee2cfab.jpeg",
+      "hash": "UdKJ_M~Vx]E1yDX9ofNGt7IoM{jFRiRjIUs:",
+      "width": 896,
+      "height": 1152,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-09T11:58:19.538Z",
-      "postId": 7695973,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-26T01:49:48.587Z",
+      "postId": 22728895,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 227,
-        "likeCount": 1602,
+        "cryCount": 102,
+        "laughCount": 155,
+        "likeCount": 1871,
         "dislikeCount": 0,
-        "heartCount": 891,
-        "commentCount": 6
+        "heartCount": 687,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1774958065,
-        "extra": {
-          "remixOfId": 33061150
+        "Size": "896x1152",
+        "seed": 2674427287,
+        "Model": "realrealismxl_v20",
+        "steps": 19,
+        "hashes": {
+          "model": "c24a6cea52",
+          "lora:Kristal_NSFW_Modeling_Test_8_-_Amateur_Erotic_Photography_-_Part_2_-_Type_4": "d40dfb3c93b8"
         },
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, gthan, 1girl, 20 years old, solo, long black hair, bangs, ponytail, dark grey eyes, looking up, light blush, light makeup, medium perky breasts, moon earrings, white business shirt, tie, choker, black tights, exhausted, looking up, eyes up, cock slumped over girl face, cock worship, penis on face, holding cock, medium size cock, detailed background, night, moonlight, inside, office, volumetric lighting, vivid colours, from above, full body shot, gothic, detailed drawing, glshs, partially illuminated",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-09T1116:47.4246333Z",
-        "negativePrompt": "score_4, score_5, score_6, fat, ugly,",
-        "civitaiResources": [
+        "prompt": "<lora:Kristal_NSFW_Modeling_Test_8_-_Amateur_Erotic_Photography_-_Part_2_-_Type_4:0.91>\nA strikingly realistic black and white portrait of a woman lying on a plush, dark grey velvet bed. She is nude, with dense, swirling floral and geometric tattoos covering her entire body, particularly prominent on her arms and chest. Her long, dark hair cascades around her face. The lighting is soft and diffused, emanating from a window partially visible in the background, creating gentle shadows. The room has a luxurious, slightly aged feel. The woman has a melancholic expression, her gaze directed slightly to the left. Hyperrealism, 8k, volumetric lighting, subsurface scattering, cinematic composition, octane render, by Artgerm and Greg Rutkowski.",
+        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
+        "sampler": "DPM++ 3M SDE",
+        "cfgScale": 3.5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
+            "hash": "d40dfb3c93b8",
+            "name": "Kristal_NSFW_Modeling_Test_8_-_Amateur_Erotic_Photography_-_Part_2_-_Type_4",
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 937383,
-            "modelVersionName": "DTLDR v2.0"
+            "weight": 0.91
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "c24a6cea52",
+            "name": "realrealismxl_v20",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "c24a6cea52",
+        "Schedule type": "Exponential",
+        "negativePrompt": "Blur, low quality, watermark, text, jpeg artifacts, distorted, bad anatomy, disfigured, extra limbs, mutated hands, ugly, gross, messy, oversaturated, pixelated, abstract, cartoon, anime, painting, illustration, sketch, poorly drawn tattoos."
       },
-      "username": "blacksnowskill",
-      "baseModel": "Pony",
+      "username": "bedri",
+      "baseModel": "SDXL 1.0",
       "modelVersionIds": [
-        290640,
-        937383
+        2193028,
+        2230805
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1062|1758851388587",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1062%7C1758851388587"
+    "nextCursor": "1063|1754780602379",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1063%7C1754780602379"
   }
 }
