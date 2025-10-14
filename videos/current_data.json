@@ -1,41 +1,71 @@
 {
   "items": [
     {
-      "id": 48448193,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c7644a1-d8b1-49d5-842d-a9e4669e6604/original=true/3c7644a1-d8b1-49d5-842d-a9e4669e6604.jpeg",
-      "hash": "UIEoiMNHt5%h%iR%kYxZTLWAxvW?.TjIs+X9",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 78067696,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2722e0c3-f094-45ae-8ee4-bb8fb19eb055/original=true/2722e0c3-f094-45ae-8ee4-bb8fb19eb055.jpeg",
+      "hash": "UFJRzFt60eTf_Na#9ZX70hs,n3R-0fxu8^IU",
+      "width": 1664,
+      "height": 2432,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-30T13:54:10.398Z",
-      "postId": 10921667,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-23T18:36:04.799Z",
+      "postId": 17342688,
       "stats": {
-        "cryCount": 78,
-        "laughCount": 202,
-        "likeCount": 1649,
+        "cryCount": 92,
+        "laughCount": 178,
+        "likeCount": 1766,
         "dislikeCount": 0,
-        "heartCount": 870,
+        "heartCount": 761,
         "commentCount": 0
       },
-      "meta": null,
-      "username": null,
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 2275125298,
+        "Model": "JANKU v4.0 - Based Noob EPS v1.1 NSFW By JANXD",
+        "steps": 30,
+        "prompt": "lazympos, masterpiece,best quality,amazing quality, blue hair, ice throne, sitting, head rest, fur trim, revealing clothes, sideboob, center opening, parted hair, short hair, expressionless, serious, gray eyes, ice tiara, , blue gemstone,  head tilt, beckoning, pointing at viewer,diadem, crossed legs, from below,blue snowflake print thighhighs",
+        "Version": "ComfyUI",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "negativePrompt": "lazyneg",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1772645
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 1809575
+          },
+          {
+            "type": "embedding",
+            "weight": 1,
+            "modelVersionId": 1558647
+          },
+          {
+            "type": "embedding",
+            "weight": 1,
+            "modelVersionId": 1591915
+          }
+        ]
+      },
+      "username": "janxd",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        164821,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
+        1558647,
+        1591915,
+        1772645,
+        1809575
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1080|1748025364799",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1080%7C1748025364799"
+    "nextCursor": "1081|1734844895855",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1081%7C1734844895855"
   }
 }
