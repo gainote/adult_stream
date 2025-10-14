@@ -1,105 +1,81 @@
 {
   "items": [
     {
-      "id": 74914157,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7cf12415-ff17-4cf1-8d90-a0b1d2e812f9/original=true/7cf12415-ff17-4cf1-8d90-a0b1d2e812f9.jpeg",
-      "hash": "UAHeOL-QpwH?E1x?t800.7IW00x]H=IW_2_N",
+      "id": 101586310,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9db16b1a-95aa-42ab-9ea1-56a4e1a375c3/original=true/9db16b1a-95aa-42ab-9ea1-56a4e1a375c3.jpeg",
+      "hash": "UVN9zm9FyrbI_NRP-;-p9ut7s8S5?boztQt7",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-05-08T03:33:04.417Z",
-      "postId": 16633166,
+      "createdAt": "2025-09-23T15:07:00.000Z",
+      "postId": 22536337,
       "stats": {
-        "cryCount": 75,
-        "laughCount": 157,
-        "likeCount": 1677,
+        "cryCount": 123,
+        "laughCount": 171,
+        "likeCount": 1718,
         "dislikeCount": 0,
-        "heartCount": 893,
-        "commentCount": 0
+        "heartCount": 790,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1715272759,
-        "draft": false,
-        "extra": {
-          "remixOfId": 70513195
-        },
-        "steps": 40,
+        "Model": "urn:air:sdxl:checkpoint:civitai:1307857@2177507",
+        "extra": {},
+        "steps": 29,
         "width": 832,
         "height": 1216,
-        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece, standing, American, german, pointy nose, perfect lips, blonde hair, realistic hair, long slim legs, upper body shot, breasts focus, breasts close-up, dutch angle, cowboy shot, large breasts, large ass, thick thighs, wide hips, hourglass figure, pawg, plump, lusty, sweat drops, sweat, steamy, cleavage, gorgeous face, narrow waist, thighs, sexy pose, skindentation, choker, (black bra, black panties, long black socks), \ninside, luxury bathroom, bathroom counter, leaning against countertop, bathroom vanity, neutral expression, dynamic angle,",
-        "sampler": "Euler a",
-        "cfgScale": 5,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1307857@2177507"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality,\n\n(cell shading:0.9),\nsimple background,\n\ncheerleader,\nknees,\n(big natural breasts:1.2),\n(skirt:0.9),\nposing,\nhorny,\ntopless,\nparted lips,\n\n",
+        "denoise": 0.7,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "priority": "low",
         "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-05-07T0208:30.7635311Z",
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, asian, face defects), milf, elderly, shower,",
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/228913831635822066666965214182179124910.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuSq8GjZrDtOgCdOoxsHD8MEKfqIMeQgJHD7zRECbvdqyaHq5RGp86EnFwQJHfv65Y7bE09U7L8s-u-CcIdXPqDqpVeazfK6chQoeCPTZNWY-NC9xxKYZN1whnXzvivg_OYJ4gDJLcRvYq7x9q88tko-GaTy84yPxxU8T_07uQ88MQFI4rtZfuvNlFXu6Sgt1U8LvkDb--F10t_BWq0wvTyjj2Gb2QzrfTn6cHDhhtYQTnTSU6u9iuKQ3x9mOgoiAkGH-KTbPnk36tX7CLD4gX1B1zCqdAhMj_K7KH3QPPgfDQ&exp=2026-09-21T09:45:43.0017226Z",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "censor, censored, monochrome, watermark, artist name, bestiality,\n",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1346181,
-            "modelVersionName": "v8"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 534756,
-            "modelVersionName": "Rough (V1)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 556208,
-            "modelVersionName": "Insta Baddie[PONY]"
+            "modelVersionId": 2177507
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 596040,
-            "modelVersionName": "V1"
+            "modelVersionId": 1976924
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1184250,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 2.1,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
+            "weight": 0.8,
+            "modelVersionId": 2234776
           }
         ]
       },
-      "username": "Wadufuk1",
-      "baseModel": "Pony",
+      "username": "vovkkabanko",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        382152,
-        534756,
-        556208,
-        596040,
-        1184250,
-        1242203,
-        1346181
+        1976924,
+        2177507,
+        2234776
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1076|1758640020000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1076%7C1758640020000"
+    "nextCursor": "1077|1744649138749",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1077%7C1744649138749"
   }
 }
