@@ -1,98 +1,72 @@
 {
   "items": [
     {
-      "id": 103747004,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f4ac83af-fd10-409a-90e1-9492ad65b76e/original=true/f4ac83af-fd10-409a-90e1-9492ad65b76e.jpeg",
-      "hash": "UAL:Gn}?00D*00$2ENIpBX-;8{IUU[S~t8IV",
-      "width": 1280,
-      "height": 1856,
+      "id": 53075578,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8fb35a6d-6c89-4a03-8440-d0737628b58b/original=true/8fb35a6d-6c89-4a03-8440-d0737628b58b.jpeg",
+      "hash": "ULGHh#s:D%s:}pj[smae5SWUxaof4;a}OYWV",
+      "width": 1224,
+      "height": 2056,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-10-09T21:29:51.461Z",
-      "postId": 23017370,
+      "createdAt": "2025-01-26T01:01:00.000Z",
+      "postId": 11921495,
       "stats": {
-        "cryCount": 134,
-        "laughCount": 207,
-        "likeCount": 1865,
+        "cryCount": 73,
+        "laughCount": 168,
+        "likeCount": 1791,
         "dislikeCount": 0,
-        "heartCount": 630,
-        "commentCount": 0
+        "heartCount": 802,
+        "commentCount": 1
       },
       "meta": {
-        "seed": 2125377809,
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@2167369",
-        "extra": {
-          "remixOfId": 103461807
+        "Size": "512x512",
+        "seed": 306435022125453,
+        "Model": "waiNSFWIllustrious_v90.safetensors",
+        "steps": 30,
+        "hashes": {
+          "model": "178fc987b2",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
         },
-        "steps": 24,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@2167369"
-        ],
-        "prompt": "masterpiece, best quality, 1 girl, solo, usnr, sfw,\n\n2aatcst, blonde hair, green eyes, twintails, long hair, \n\nMaid costume, cafe, night, leaning forward, looking at viewer, bokeh, blush,\n\n\nModel pose, cowboy shot, posing, need_buzz, holding sign",
-        "denoise": 0.4,
-        "process": "txt2img",
-        "sampler": "Euler a",
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, blonde hair, medium hair, hair ribbon, detailed eyes, multicolored eyes, green eyes, eyebrows, eyelashes, reverse bunnysuit, cross pasties, indoors, casino interior, gambling tables, dim lighting, crowd of people, cards, bar in the background, (blurry background, depth of field, bokeh:0.9) <lora:klskx_wai:0.7000000000000001> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0>",
+        "sampler": "res_multistep_kl_optimal",
         "cfgScale": 5.5,
         "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/DWF5R8CJ3AM2PCHGVPPBDNWB70.jpeg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuROWtKNX6NFxoQPUb7jpGoh23XR71gIYaZtuc_vSsLTH3kbd2SA8Jg6UylR4rytyOfhGVW7u20MAa7Jo21I5z2xm5xBu6f1AC-9dnT1MIrsIqfzMCujMkdTwScurXBtR968B2dpdLy7XJfVUkAnlunsDh1Cs1fuN8dWiK_St04DKcthZ-eTCbF9J5S7KgO1ancWS5jSOBr2L5mzX0Gp4N7vsHQjtS_2zSZ1EAKPdE7u0C5gek0AuBFETYomrgWJ8PuILVYKZKAvhblrLeE_LFYJ&exp=2026-10-02T16:25:28.6189842Z",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "bad quality,worst quality,worst detail,",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 2167369
-          },
-          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2266676
+            "weight": 0.7000000000000001
           },
           {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1552087
+            "weight": 2
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1214240
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "178fc987b2",
+            "name": "waiNSFWIllustrious_v90.safetensors",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "178fc987b2",
+        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, (watermark:1.0), signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, sparks, glares, lens flare"
       },
-      "username": "HideNnSeek",
+      "username": "Marland_C",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1214240,
-        1552087,
-        2167369,
-        2266676
+        1283437,
+        1284348,
+        567119
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1047|1737853260000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1047%7C1737853260000"
+    "nextCursor": "1048|1742672137573",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1048%7C1742672137573"
   }
 }
