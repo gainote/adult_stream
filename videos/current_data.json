@@ -1,61 +1,73 @@
 {
   "items": [
     {
-      "id": 35702745,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/61418338-683a-4235-9124-b16b34ed85d9/original=true/61418338-683a-4235-9124-b16b34ed85d9.jpeg",
-      "hash": "UBF}yU0055?HXAp09t9Z0L~WjERP_4E1sT-V",
-      "width": 1024,
-      "height": 1280,
+      "id": 33653492,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6d129eb-e441-4ad7-9d2c-d34bb66990d6/original=true/b6d129eb-e441-4ad7-9d2c-d34bb66990d6.jpeg",
+      "hash": "UNCsXNbuE1%29aMwROx^NdWBVraz?wt7W;%M",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-19T07:34:26.260Z",
-      "postId": 8158485,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-09T11:58:19.538Z",
+      "postId": 7695973,
       "stats": {
-        "cryCount": 104,
-        "laughCount": 245,
-        "likeCount": 1687,
+        "cryCount": 101,
+        "laughCount": 227,
+        "likeCount": 1602,
         "dislikeCount": 0,
-        "heartCount": 783,
-        "commentCount": 2
+        "heartCount": 891,
+        "commentCount": 6
       },
       "meta": {
-        "Size": "1024x1280",
-        "seed": 2878045326,
-        "Model": "acornIsSpinningFLUX_v11Hpyer8step_Q4_K_M",
-        "steps": 8,
-        "hashes": {
-          "model": "8176ef9694"
+        "Size": "832x1216",
+        "seed": 1774958065,
+        "extra": {
+          "remixOfId": 33061150
         },
-        "prompt": "candid photo of two skinny horny 18 year old rave girls kissing, (breast grab:1.6), ((topless)), perky huge breasts, plump lips, young, youthful, petite, playful, horny, big eyes, wide eyes, (pale skin, blushing, sweaty skin, flushed cheeks, realistic skin, detailed skin, skin pores, skin blemishes), (long hair, damp hair), (colorful eye makeup, detailed makeup, rave makeup, festival makeup), in a dense crowd, at a rave, indoors, dark lighting, low light, poorly lit, real skin, intricately detailed eyes, detailed lips, 16K, (subsurface scattering:0.9)",
-        "Version": "f2.0.1v1.10.1-previous-563-g862c7a58",
-        "sampler": "DPM2",
-        "Module 1": "ViT-L-14-TEXT-detail-improved-hiT-GmP-TE-only-HF",
-        "Module 2": "t5xxl_fp8_e4m3fn",
-        "Module 3": "ae",
-        "cfgScale": 1,
-        "resources": [
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, gthan, 1girl, 20 years old, solo, long black hair, bangs, ponytail, dark grey eyes, looking up, light blush, light makeup, medium perky breasts, moon earrings, white business shirt, tie, choker, black tights, exhausted, looking up, eyes up, cock slumped over girl face, cock worship, penis on face, holding cock, medium size cock, detailed background, night, moonlight, inside, office, volumetric lighting, vivid colours, from above, full body shot, gothic, detailed drawing, glshs, partially illuminated",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-10-09T1116:47.4246333Z",
+        "negativePrompt": "score_4, score_5, score_6, fat, ugly,",
+        "civitaiResources": [
           {
-            "hash": "8176ef9694",
-            "name": "acornIsSpinningFLUX_v11Hpyer8step_Q4_K_M",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 937383,
+            "modelVersionName": "DTLDR v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "8176ef9694",
-        "Schedule type": "Beta",
-        "Beta schedule beta": "0.6",
-        "Denoising strength": "0.55",
-        "Beta schedule alpha": "0.6",
-        "Distilled CFG Scale": "0"
+        ]
       },
-      "username": "Seeker70",
-      "baseModel": "Flux.1 D",
-      "modelVersionIds": []
+      "username": "blacksnowskill",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        290640,
+        937383
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1061|1728475099538",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1061%7C1728475099538"
+    "nextCursor": "1062|1758851388587",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1062%7C1758851388587"
   }
 }
