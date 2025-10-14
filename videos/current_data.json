@@ -1,36 +1,36 @@
 {
   "items": [
     {
-      "id": 91262028,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05d1bd1a-2971-404a-b69a-d1ee541c100e/original=true/05d1bd1a-2971-404a-b69a-d1ee541c100e.jpeg",
-      "hash": "UBF5gc={5S9YPDxa4.X30LEM#i%M~WtS?GR-",
+      "id": 91615252,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2d2f371-5843-4261-8cf9-9fd9e8835370/original=true/b2d2f371-5843-4261-8cf9-9fd9e8835370.jpeg",
+      "hash": "UDD]3i,-00?^K69H4oOrwJX7xt=xX--U$zo#",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-03T15:00:00.000Z",
-      "postId": 20243274,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-31T18:55:41.902Z",
+      "postId": 20325417,
       "stats": {
-        "cryCount": 157,
-        "laughCount": 223,
-        "likeCount": 1778,
+        "cryCount": 131,
+        "laughCount": 211,
+        "likeCount": 1775,
         "dislikeCount": 0,
-        "heartCount": 652,
+        "heartCount": 689,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1710935455,
+        "seed": 785796838,
         "draft": false,
-        "steps": 29,
+        "steps": 32,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, solo,  pbLieri, purple hair, fully nude, large breasts, big nipple piercing, lactating, pregnant, hairy pussy, ((curvaceous, voluptuous)), (dramatic lighting), looking at viewer, cowboy shot, sitting, legs apart, posing, (spread pussy), size difference, dark spaceship, low angle,",
+        "prompt": "score_9, score_8_up, score_7_up, rating_explicit, realistic, cinematic lighting, 8k, high res, \nBREAK\nmasterpiece, best quality, very aesthetic,w3stc0m1cs, highly detailed, newest, lgn, view from behind, looking back at viewer, ((indoors:1.5)), ((barn:1.5)), ((hay:1.5)), sunrise, casual, \n1girl, light eyes, solo, adult, ((shirt, crop top, skirt, ((fingerless gloves:1.5)), big breasts, ghosted nipples, nipples, freckled skin, freckles on ass, freckles on breasts, seductive, smirk, at morning, skinny, sexy body, thigh butt, pussy, sexy, wide hips, perfect body, flowing hair, ((arched back)), full lips, ((dynamic angle)), incredibly detailed, peachipuss, detailed pussy, sticky pussy, wild hair, blushing, off shoulder, cleavage, ((hand in hair)), blue top, bare shoulders, sleeveless, tight shorts, micro shorts, jungle, looking at viewer, green necklace, a beautiful English female Hair Dark brown, typically styled in a long braid or ponytail, brown eyes, Turquoise tank top, khaki skirt, ((blue eyes:1.5)), ((black choker:1.5))",
         "process": "txt2img",
-        "sampler": "Euler a",
-        "cfgScale": 6,
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5,
         "clipSkip": 2,
         "quantity": 1,
         "workflow": "txt2img",
@@ -38,47 +38,82 @@
         "resources": [],
         "disablePoi": true,
         "aspectRatio": "13:19",
-        "Created Date": "2025-07-29T1852:59.9611265Z",
+        "Created Date": "2025-07-31T1852:08.2016096Z",
         "experimental": false,
-        "negativePrompt": "score_5, score_4, score_3, score_2, score_1, simple background, blur, low quality, censored, bucktooth, cartoon, anime, ghostly, deformed, dismembered, disembodied, detached, polydactyl, amputated, contorted, semi-realistic, 3d render, watermark, logo, extra hands, extra dicks, tanlines, extra fingers , deformed fingers, bad hands,",
+        "negativePrompt": "panties, score_4, score_5, ugly face, low quality, extra fingers, missing fingers, mutation, deformed iris, deformed pupils, deformed limbs, missing limbs, amputee, amputated limbs, watermark, shiny, waxy, unrealistic, chinese, asian, skinny, big eyes, ((extra limbs:2.5))",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1199750,
-            "modelVersionName": "v5.0"
+            "modelVersionId": 1376263,
+            "modelVersionName": "SDXL Pony 15"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1262828,
+            "modelVersionName": "SupergirlDCAU"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 452553,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0,
+            "modelVersionId": 298625,
+            "modelVersionName": "v1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 379995,
+            "modelVersionName": "XL-Pony"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 541621,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.8,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1359711,
+            "modelVersionName": "CC & Grain (V3)"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 534756,
-            "modelVersionName": "Rough (V1)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 529050,
-            "modelVersionName": "v1 (Pony Diffusion XL)"
+            "modelVersionId": 1375141,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "YourFantasy",
+      "username": "2138m",
       "baseModel": "Pony",
       "modelVersionIds": [
-        382152,
-        529050,
-        534756,
-        1199750
+        298625,
+        379995,
+        452553,
+        541621,
+        1242203,
+        1262828,
+        1359711,
+        1375141,
+        1376263
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1072|1753988141902",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1072%7C1753988141902"
+    "nextCursor": "1073|1753638715933",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1073%7C1753638715933"
   }
 }
