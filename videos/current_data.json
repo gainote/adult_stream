@@ -1,78 +1,120 @@
 {
   "items": [
     {
-      "id": 23256430,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90dca9ca-523e-482a-9be9-5af68482519e/original=true/90dca9ca-523e-482a-9be9-5af68482519e.jpeg",
-      "hash": "USMGL_~pOYoME+IV-:R*58Io-;o#^+ITR5RO",
-      "width": 1152,
-      "height": 1536,
-      "nsfwLevel": "X",
+      "id": 69992631,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a73d6617-02cc-4f21-b7e2-b42a1a10f5b9/original=true/a73d6617-02cc-4f21-b7e2-b42a1a10f5b9.jpeg",
+      "hash": "UEEBQk0h~7RkWFIp9wWEOWRkxFxY~AM|-To1",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-23T03:35:27.937Z",
-      "postId": 5182222,
+      "browsingLevel": 4,
+      "createdAt": "2025-04-14T16:35:00.000Z",
+      "postId": 15548365,
       "stats": {
-        "cryCount": 102,
-        "laughCount": 226,
-        "likeCount": 1760,
+        "cryCount": 118,
+        "laughCount": 187,
+        "likeCount": 1771,
         "dislikeCount": 0,
-        "heartCount": 757,
-        "commentCount": 0
+        "heartCount": 768,
+        "commentCount": 1
       },
       "meta": {
-        "": {},
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "1152x1536",
-        "seed": 578290768,
-        "Model": "boleromix_Pony_V1.4",
-        "steps": 15,
-        "hashes": {
-          "vae": "735e4c3a44",
-          "model": "989a88b3c5",
-          "lora:grabbing breasts_pony_V1.0": "be9b873c633e"
-        },
-        "prompt": "score_9, score_8_up, score_7_up,source_anime, high res image,masterpiece,best quality,girl,cute face,clear skin,shiny hair,ultra detailed eyes,simple background, <lora:grabbing breasts_pony_V1.0:0.8> grabbing breasts,from behind",
-        "Version": "v1.7.0",
-        "sampler": "DPM++ 2M Karras",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
+        "nsfw": true,
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:296576@333245"
+        ],
+        "extra": {},
+        "steps": 25,
+        "width": 1280,
+        "height": 1856,
+        "models": [],
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, g0th1c, zPDXL3, masterpiece, human female, middle-aged, mature, madam, tall, beautiful face, aesthetic face, seductive, thick curves, big breasts, dark brown skin, dark skin, wide hips, wide shoulders, black hair with gray strands, chignon, hair tied up, dark brown eyes, small eyes, piercing eyes, small lips, small nose, pointy nose, small chin, small face, big breasts, black nails, lots of golden jewelry, multiple golden bracelets, thick golden necklace, large gold earrings, black eyeliner, revealing black dress, silk dress, black arm sleeves, respectable, majestic, commanding look, dominant, luxurious brothel room, detailed background, low-key lighting, lying in gold coins, gold coins in background, gold coins everywhere, piles of gold coins, from above, close-up",
+        "sampler": "Euler a",
+        "cfgScale": 6,
         "clipSkip": 2,
-        "resources": [
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-upscale",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/X4Z88WW6CNEDFE6ZEAX7MVWG10",
+          "width": 1280,
+          "height": 1856,
+          "upscaleWidth": 2688,
+          "upscaleHeight": 3840
+        },
+        "experimental": false,
+        "upscaleWidth": 2688,
+        "upscaleHeight": 3840,
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, monochrome, greyscale, sepia, flat color, deformed, bad hand, blurry, (watermark), extra hands, jacket, long ears, multiple people, crown, tiara, easynegative, ugly, deformed joints, deformed hands, silver jewelry, big lips, big mouth, white skin, empty background, let down hair, bright room, wide face, big nose, long hair, red dress white dress, slendeer legs, penetration, penis, light skin tone, high-key lighting, multiple whips, whip in both hands",
+        "civitaiResources": [
           {
-            "hash": "be9b873c633e",
-            "name": "grabbing breasts_pony_V1.0",
-            "type": "lora"
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "989a88b3c5",
-            "name": "boleromix_Pony_V1.4",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 704723
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1029540
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 720175
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1356581
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 333245
           }
         ],
-        "Model hash": "989a88b3c5",
-        "Tile Overlap": "48",
-        "Upscale factor": "1.5",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, pony, furry, censored,realistic",
-        "Keep input size": "true}",
-        "Tile batch size": "4",
-        "Tile tile width": "96",
-        "Tiled Diffusion": {},
-        "Tile tile height": "96",
-        "Denoising strength": "0.4",
-        "Tiled Diffusion upscaler": "R-ESRGAN 4x+ Anime6B",
-        "Tiled Diffusion scale factor": "1.5"
+        "additionalResources": []
       },
-      "username": "bolero537",
+      "username": "Seismoh",
       "baseModel": "Pony",
       "modelVersionIds": [
-        513252
+        164821,
+        290640,
+        333245,
+        382152,
+        704723,
+        720175,
+        1029540,
+        1356581
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1039|1744648500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1039%7C1744648500000"
+    "nextCursor": "1040|1757903451159",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1040%7C1757903451159"
   }
 }
