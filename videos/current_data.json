@@ -1,65 +1,77 @@
 {
   "items": [
     {
-      "id": 102446302,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/727c9e9b-c103-4703-97fe-a3b12ee2cfab/original=true/727c9e9b-c103-4703-97fe-a3b12ee2cfab.jpeg",
-      "hash": "UdKJ_M~Vx]E1yDX9ofNGt7IoM{jFRiRjIUs:",
-      "width": 896,
-      "height": 1152,
+      "id": 93301702,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b77bfe6-e846-42c6-a90b-2b149de60e6c/original=true/8b77bfe6-e846-42c6-a90b-2b149de60e6c.jpeg",
+      "hash": "UFJj*wD*01^*_NxuN0xYEMIo-qxatSxZD%jZ",
+      "width": 1664,
+      "height": 2432,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-09-26T01:49:48.587Z",
-      "postId": 22728895,
+      "createdAt": "2025-08-09T23:03:22.379Z",
+      "postId": 20701165,
       "stats": {
-        "cryCount": 102,
-        "laughCount": 155,
-        "likeCount": 1871,
+        "cryCount": 100,
+        "laughCount": 182,
+        "likeCount": 1695,
         "dislikeCount": 0,
-        "heartCount": 687,
+        "heartCount": 837,
         "commentCount": 1
       },
       "meta": {
-        "Size": "896x1152",
-        "seed": 2674427287,
-        "Model": "realrealismxl_v20",
-        "steps": 19,
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 221893346,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
         "hashes": {
-          "model": "c24a6cea52",
-          "lora:Kristal_NSFW_Modeling_Test_8_-_Amateur_Erotic_Photography_-_Part_2_-_Type_4": "d40dfb3c93b8"
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:fishnet_bra_ilxl_goofy": "e03e6e4a87bb"
         },
-        "prompt": "<lora:Kristal_NSFW_Modeling_Test_8_-_Amateur_Erotic_Photography_-_Part_2_-_Type_4:0.91>\nA strikingly realistic black and white portrait of a woman lying on a plush, dark grey velvet bed. She is nude, with dense, swirling floral and geometric tattoos covering her entire body, particularly prominent on her arms and chest. Her long, dark hair cascades around her face. The lighting is soft and diffused, emanating from a window partially visible in the background, creating gentle shadows. The room has a luxurious, slightly aged feel. The woman has a melancholic expression, her gaze directed slightly to the left. Hyperrealism, 8k, volumetric lighting, subsurface scattering, cinematic composition, octane render, by Artgerm and Greg Rutkowski.",
-        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
-        "sampler": "DPM++ 3M SDE",
-        "cfgScale": 3.5,
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:fishnet_bra_ilxl_goofy:1>fishnet bra, nipples,fishnets,  miyashita ai, 1girl, bikini, blonde hair, breasts, brown eyes, city, cleavage, crowd, halterneck, light blush, medium breasts, navel, open mouth, outdoors, side-tie bikini bottom, side ponytail, smile, v",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
         "resources": [
           {
-            "hash": "d40dfb3c93b8",
-            "name": "Kristal_NSFW_Modeling_Test_8_-_Amateur_Erotic_Photography_-_Part_2_-_Type_4",
+            "hash": "e03e6e4a87bb",
+            "name": "fishnet_bra_ilxl_goofy",
             "type": "lora",
-            "weight": 0.91
+            "weight": 1
           },
           {
-            "hash": "c24a6cea52",
-            "name": "realrealismxl_v20",
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
             "type": "model"
           }
         ],
-        "Model hash": "c24a6cea52",
-        "Schedule type": "Exponential",
-        "negativePrompt": "Blur, low quality, watermark, text, jpeg artifacts, distorted, bad anatomy, disfigured, extra limbs, mutated hands, ugly, gross, messy, oversaturated, pixelated, abstract, cartoon, anime, painting, illustration, sketch, poorly drawn tattoos."
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "128",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-AnimeSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "bedri",
-      "baseModel": "SDXL 1.0",
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        2193028,
-        2230805
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1063|1754780602379",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1063%7C1754780602379"
+    "nextCursor": "1064|1753313400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1064%7C1753313400000"
   }
 }
