@@ -1,42 +1,94 @@
 {
   "items": [
     {
-      "id": 49638655,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/49a6d374-5d2e-4448-b75e-638694679d22/original=true/49a6d374-5d2e-4448-b75e-638694679d22.jpeg",
-      "hash": "U6A]810f0gt6EL%1WVNa01}@}sIq^P9]s:WU",
-      "width": 1280,
-      "height": 1856,
+      "id": 36993422,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5b2a9de5-4553-4727-a66a-d09c9a9bf51d/original=true/5b2a9de5-4553-4727-a66a-d09c9a9bf51d.jpeg",
+      "hash": "UYH_=GIU.T%g_3RjR*tRb_aKV?bcNGkCs:Rj",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-01-08T16:57:31.913Z",
-      "postId": 11181550,
+      "createdAt": "2024-12-25T23:00:00.000Z",
+      "postId": 8447813,
       "stats": {
-        "cryCount": 98,
-        "laughCount": 173,
-        "likeCount": 1684,
+        "cryCount": 95,
+        "laughCount": 175,
+        "likeCount": 1667,
         "dislikeCount": 0,
-        "heartCount": 856,
-        "commentCount": 1
+        "heartCount": 874,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": null,
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3679486034,
+        "extra": {
+          "remixOfId": 35231190
+        },
+        "steps": 35,
+        "prompt": "Expressiveh, melkor_style, score_9, score_8_up, score_7_up, score_6_up, godrays, 1girl, Pharah from Overwatch, blue room, lingerie, thick thighs, narrow waist, big hips, pose, closeup, dynamic angle, closeup, from below, hearts, oiled, looking back, bent over, leaning forward, from behind, big ass, ass, ass focus, pussy focus, wet pussy, sexy, garter belt,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-10-28T0757:52.5448016Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, eyes closed, food, extra legs, extra hands, mutated legs, muscular girl. mutated hands, bad eyes, ugly face, low res, worst quality, low quality, more than 4 legs stuffed animals, more than 4 legs plushies, normal quality, text, watermark, armpit hair, deformed hands, deformed legs, deformed feet, extra digits, beginner, error, glitch, water, flooding, extra limbs, futa, futanari, girldick, shemale, lesbian, fisting, make faces, deformed teeth, (black man), dark-skinned man, dark-skinned-penis, extra toes, deformed feet, tattoos, arm tattoos, thick lips, 2girls, legs in bed",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 411622,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "MrSodacan",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        164821,
-        244808,
         290640,
         382152,
         398847,
-        436219,
-        1168744
+        411622,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1068|1735167600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1068%7C1735167600000"
+    "nextCursor": "1069|1753357500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1069%7C1753357500000"
   }
 }
