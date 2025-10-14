@@ -1,85 +1,84 @@
 {
   "items": [
     {
-      "id": 30112701,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82a7150b-6e3e-4e77-a34b-81620cc54b70/original=true/82a7150b-6e3e-4e77-a34b-81620cc54b70.jpeg",
-      "hash": "UAEVTp-n4.O[yZM{-o%gGaOtv#nO}n^*ELI9",
+      "id": 94054365,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d8bd09f4-a1ce-4f16-84ea-df499230e153/original=true/d8bd09f4-a1ce-4f16-84ea-df499230e153.jpeg",
+      "hash": "UHG*vh%10KNcYRozMxn$5SS2M{oL?HWBD%NH",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-09-18T18:32:35.012Z",
-      "postId": 6737550,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-17T04:42:00.000Z",
+      "postId": 20865329,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 194,
-        "likeCount": 1582,
+        "cryCount": 111,
+        "laughCount": 231,
+        "likeCount": 1675,
         "dislikeCount": 0,
-        "heartCount": 950,
+        "heartCount": 805,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2893151605,
-        "extra": {
-          "remixOfId": 28560703
-        },
-        "steps": 23,
-        "prompt": "(score_9, score_8_up:1.1), score_7_up,  1girl, gorgeous girl , kawai girl , cute face , black hair, bangs, naked , large saggy breast, wet body, sexy thighs, sexy ass, bubble ass, lift ass, ass focus, spread ass, cute ass, pussy, (slim fit), leaning foward, pose , closeup , look at viewers, in hotspring, steam , rock , grass , high resolution water , submerged in water, boys horny , boner , hard erect penis",
+        "seed": 179350675,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, highly detailed, very aesthetic, absurdres, 1=2, newest, Ultra_HD, 8k, face focus, face closeup, detailed face, dynamic angle, anime style, 2d, threesome,\nBREAK,\nZ03yKP0P, short hair, black hair, hair bun, double bun, bangs, brown eyes, short, 1girl, solo, rolling eyes, mouth wide open, big mouth, exaggerated, ohogao, smiling, silly smile, slutty expression, sucking cock, horny, crazy in pleasure, cum in nose, nose cum bubble, eating cock, double fellatio, two cocks in mouth, cheecks bulge, wide nostrils, puffy lips, saliva dripping, excessive saliva, cock worship, penis awe, tongue out, double v, posing, cum in mouth, lot of cum, bukkake, cum covered, ass up, head down,\nBREAK,\n2boys, male out of frame, dark skinned male massive cock, huge penis, absurdly large cock, thick penis, veiny penis, precum,\nBREAK,\ndetailed background, blurry background, outdoor, concert, on stage, crowded place,",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 5,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-09-18T1633:15.0596455Z",
-        "negativePrompt": "score_6, score_5, score_4, fcNeg, simple background, blur, low quality, muscular woman, deformed body , deformed limbs , incomplete",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-09T0505:09.4791589Z",
+        "experimental": false,
+        "negativePrompt": "3d, patreon logo, text, bad quality, worst quality, worst detail, sketch, censor, bad hands, extra digits, futa, watermark, static image, logo, patreon, censored, male, serious, sad",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1410435,
+            "modelVersionName": "v11.0"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "modelVersionId": 1192192,
+            "modelVersionName": "illustrious v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 571832,
+            "modelVersionName": "Pony"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1929026,
+            "modelVersionName": "V1"
           }
         ]
       },
-      "username": "dororooo",
-      "baseModel": "Pony",
+      "username": "Mephistophele",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        244808,
-        290640,
-        436219
+        571832,
+        1192192,
+        1410435,
+        1929026
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1057|1755405720000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1057%7C1755405720000"
+    "nextCursor": "1058|1755137160000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1058%7C1755137160000"
   }
 }
