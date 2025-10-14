@@ -1,42 +1,77 @@
 {
   "items": [
     {
-      "id": 36809856,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/deed249b-ce08-4b6c-bce5-25816703007d/original=true/deed249b-ce08-4b6c-bce5-25816703007d.jpeg",
-      "hash": "UGF}~DIq4.%M_3-qD%V@I;~XnND%_3bHWXIU",
-      "width": 1280,
-      "height": 1856,
+      "id": 26819860,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ac801fa-93dc-4e2e-967b-864605e8655a/original=true/8ac801fa-93dc-4e2e-967b-864605e8655a.jpeg",
+      "hash": "UBKS^erM-:~A0K$*9[?G01Rh-VD*0M~Uj?IW",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-10-27T08:25:08.190Z",
-      "postId": 8407217,
+      "createdAt": "2025-02-08T11:41:57.050Z",
+      "postId": 5997233,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 188,
-        "likeCount": 1635,
+        "cryCount": 113,
+        "laughCount": 227,
+        "likeCount": 1652,
         "dislikeCount": 0,
-        "heartCount": 880,
-        "commentCount": 9
+        "heartCount": 804,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "paulmuc",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 2425529364,
+        "Model": "autismmixSDXL_autismmixConfetti",
+        "steps": 30,
+        "hashes": {
+          "model": "ac006fdd7e",
+          "lora:Ball sucking-000009": "68304416ff6d"
+        },
+        "prompt": "score_9, score_7_up, ball suck,  1girl, 1boy,  penis, cynthia \\(pokemon\\),  <lora:Ball sucking-000009:1>",
+        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
+        "sampler": "Euler A Comfy",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "68304416ff6d",
+            "name": "Ball sucking-000009",
+            "type": "lora"
+          },
+          {
+            "hash": "ac006fdd7e",
+            "name": "autismmixSDXL_autismmixConfetti",
+            "type": "model"
+          }
+        ],
+        "Model hash": "ac006fdd7e",
+        "Schedule type": "Align Your Steps",
+        "negativePrompt": "simple background,",
+        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
+        "ADetailer version": "24.8.0",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "automatic_cfg_preset_enabled": "False",
+        "automatic_cfg_simple_enabled": "False",
+        "ADetailer inpaint only masked": "True",
+        "automatic_cfg_dynamic_enabled": "False",
+        "automatic_cfg_warp_drive_enabled": "False",
+        "automatic_cfg_post_cfg_rescale_enabled": "False"
+      },
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        517898,
-        539784
+        324524
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1084|1739014917050",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1084%7C1739014917050"
+    "nextCursor": "1085|1738132989885",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1085%7C1738132989885"
   }
 }
