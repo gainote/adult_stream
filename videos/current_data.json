@@ -1,39 +1,124 @@
 {
   "items": [
     {
-      "id": 59238183,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/96d20e3c-dc7c-4f38-b26a-bf7654edc128/original=true/96d20e3c-dc7c-4f38-b26a-bf7654edc128.jpeg",
-      "hash": "UALy$H%K0_%1?G~U-:o|0002,u-:8|02=}9H",
-      "width": 1920,
-      "height": 2816,
+      "id": 34717386,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/93161d2d-18f0-4430-b86a-b7fd34f949a1/original=true/93161d2d-18f0-4430-b86a-b7fd34f949a1.jpeg",
+      "hash": "U8FEJz001g~A}@Myo|WB01?a-9579a-oixad",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-04-14T16:45:38.749Z",
-      "postId": 13251314,
+      "createdAt": "2024-10-15T15:32:00.000Z",
+      "postId": 7933018,
       "stats": {
-        "cryCount": 464,
-        "laughCount": 544,
-        "likeCount": 1043,
+        "cryCount": 90,
+        "laughCount": 185,
+        "likeCount": 1563,
         "dislikeCount": 0,
-        "heartCount": 750,
-        "commentCount": 0
+        "heartCount": 963,
+        "commentCount": 44
       },
-      "meta": null,
-      "username": "qazsedcAI",
+      "meta": {
+        "TI": {},
+        "Size": "832x1216",
+        "seed": 3187378776,
+        "Model": "ponyDiffusionV6XL",
+        "steps": 25,
+        "hashes": {
+          "model": "67ab2fd8ec",
+          "lora:add-detail-xl": "9c783c8ce46c",
+          "lora:ncpy13 style_a": "2ce0aee14b11",
+          "lora:incase-ilff-v3-4": "d9e83908a1c7",
+          "lora:S1_Dramatic_Lighting_v2": "4f7d72b3d94a",
+          "lora:Watercolor Anime Style LoRA_Pony XL v6": "d466f107a54d"
+        },
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,\ntesticles, hetero, penis, oral, 1girl, 1boy, breasts, nipples, fellatio, blonde hair, thighhighs, female masturbation, small breasts, ass, bracelet, uncensored, underwear, garter belt, shirt lift, kneeling, freckles, necklace, deepthroat, clothes lift,, s1_dram, ncpy13 style, <lora:add-detail-xl:0.7>  <lora:incase-ilff-v3-4:0.25>  <lora:Watercolor Anime Style LoRA_Pony XL v6:0.6> \r\n <lora:S1_Dramatic_Lighting_v2:0.5>  <lora:ncpy13 style_a:0.6>",
+        "Version": "f2.0.1v1.10.1-previous-553-g4f7f815b",
+        "sampler": "Euler a",
+        "cfgScale": 6.5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "9c783c8ce46c",
+            "name": "add-detail-xl",
+            "type": "lora",
+            "weight": 0.7
+          },
+          {
+            "hash": "d9e83908a1c7",
+            "name": "incase-ilff-v3-4",
+            "type": "lora",
+            "weight": 0.25
+          },
+          {
+            "hash": "4f7d72b3d94a",
+            "name": "S1_Dramatic_Lighting_v2",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "d466f107a54d",
+            "name": "Watercolor Anime Style LoRA_Pony XL v6",
+            "type": "lora"
+          },
+          {
+            "hash": "2ce0aee14b11",
+            "name": "ncpy13 style_a",
+            "type": "lora"
+          },
+          {
+            "hash": "67ab2fd8ec",
+            "name": "ponyDiffusionV6XL",
+            "type": "model"
+          }
+        ],
+        "Model hash": "67ab2fd8ec",
+        "Hires steps": "16",
+        "ControlNet 0": {
+          "Model": "diffusion_pytorch_model [15e6ad5d]",
+          "Module": "depth_anything",
+          "Weight": "0.35",
+          "Hr Option": "Both",
+          "Resize Mode": "Crop and Resize",
+          "Threshold A": "0.5",
+          "Threshold B": "0.5",
+          "Control Mode": "Balanced",
+          "Guidance End": "0.32",
+          "Pixel Perfect": "True",
+          "Processor Res": "832",
+          "Guidance Start": "0.0"
+        },
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "unaestheticXL_bp5, Score_6, score_5, score_4, 3d, bad quality, bad anatomy, worst quality, low quality, low resolution, extra fingers, blur, blurry, ugly, wrong proportions, watermark, image artifacts, lowres, ugly, jpeg artifacts, deformed, noisy image, deformation, duplicate horns, watermark",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "6.5",
+        "ADetailer version": "24.8.0",
+        "Denoising strength": "0.38",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.72",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "2b_Stealthy",
       "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        324619,
-        382152,
-        575618,
-        600326
+        135867,
+        290640,
+        436219,
+        725772,
+        761452,
+        763937
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1078|1729006320000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1078%7C1729006320000"
+    "nextCursor": "1079|1735566850398",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1079%7C1735566850398"
   }
 }
