@@ -1,95 +1,109 @@
 {
   "items": [
     {
-      "id": 16308495,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48ef534f-30f1-4601-8cba-83b9b0004a27/original=true/48ef534f-30f1-4601-8cba-83b9b0004a27.jpeg",
-      "hash": "UIJQp400%~9F%g9F?bMx0fE1~B-oxuWBIUNH",
+      "id": 69080887,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26f99c2a-de1c-434e-a0ab-5f1c3c5d20a5/original=true/26f99c2a-de1c-434e-a0ab-5f1c3c5d20a5.jpeg",
+      "hash": "UAKwC1xZ~p0LEIyC8^^+o|IVn-^jXOxZxD4o",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-03-22T19:35:37.573Z",
-      "postId": 3651684,
+      "createdAt": "2025-04-10T06:00:00.000Z",
+      "postId": 15348755,
       "stats": {
-        "cryCount": 96,
-        "laughCount": 165,
-        "likeCount": 1692,
+        "cryCount": 110,
+        "laughCount": 210,
+        "likeCount": 1730,
         "dislikeCount": 0,
-        "heartCount": 879,
-        "commentCount": 0
+        "heartCount": 781,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 553876957,
-        "steps": 19,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, 1girl, beautiful, sexy, cute, highres image, masterpiece, light-skinned female, young, from above\nleyleyxl, 1girl, solo, (black hair), ponytail, (white pupils, pink eyes:.6), messy hair, short ponytail, (upper body:.6), slutty, sexy, seductive, midrif, cleavage, large breasts, black sweater, black choker, panties, grin, smug, at home inner house, looking at viewer, dutch angle, cowboy shot,",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "nsfw": true,
+        "seed": 968671138,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3), <lora:AdmiralNakhimovILSTCAMEq1v1 AL:1>, orange eyes, green hair, short hair mechanical cat ears, mechanical tail, round firm breasts, makeup, smokyeyes, lash, black mascara, puffy lips, glossy pink lipstick, A cute anime-style drawing of a young woman with long, cat-like features, standing in the middle of the image. she is wearing a white, high-cut leotard that accentuates her slender physique. her long, hair is adorned with black bows, and she is looking directly at the viewer. her facial expression is a shy, blushing expression, and her hand is resting on her chin, as if she is deep in thought. her slender body is accentuated by her breasts and bare shoulders. the background is a soft, pastel color palette with a floral design and hearts, adding to the whimsical and dreamy atmosphere of the drawing. the woman is wearing fishnet stockings that add a touch of elegance to her overall look. stretches lasciviously on the bed, lasciviously pose,  (((revealing outfit))), ((nsfw)), creating a vibrant and energetic atmosphere., dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, dynamic dutch angle, from below, cowboy shot, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
+        "cfgScale": 3.5,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-06-19T0259:55.7352263Z",
-        "negativePrompt": "monochrome, greyscale, portrait, 3d, censored, fewer digits, extra digits, source_furry, source_pony, source_cartoon, score_6, score_5, score_4, zPDXL-neg, pubic hair, pubes, (worst quality:2),(low quality:2),(blurry:2),bad_prompt,text, (bad and mutated hands:1.3),(bad hands),badhandv4,mutated hands, bad anatomy, missing fingers,extra fingers,fused fingers,too many fingers,(interlocked fingers:1.2), extra limbs,malformed limbs,multiple limbs, extra arms, extra legs, long neck, cross-eyed, negative_hand, negative_hand-neg, pubic hair, hair on shaft, slim torso, slim waist, slim neck, sucking cheeks",
+        "Created Date": "2025-04-09T1458:40.2254147Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1535857,
+            "modelVersionName": "v1.0"
           },
           {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
           },
           {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 333607,
-            "modelVersionName": "Smooth Anime 2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 441582,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 458555,
-            "modelVersionName": "egirlthot"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 437309,
-            "modelVersionName": "XL v1.0"
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1155673,
+            "modelVersionName": "[ILST] v1.0 (1 Outfit)"
           }
         ]
       },
-      "username": "kversanti636",
-      "baseModel": "Pony",
+      "username": "Chimi83",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        244808,
-        290640,
-        333607,
-        382152,
-        437309,
-        441582,
-        458555
+        6056,
+        25820,
+        135867,
+        1056404,
+        1135769,
+        1155673,
+        1373674,
+        1535857
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1049|1744264800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1049%7C1744264800000"
+    "nextCursor": "1050|1717680796511",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1050%7C1717680796511"
   }
 }
