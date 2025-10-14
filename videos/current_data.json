@@ -1,96 +1,105 @@
 {
   "items": [
     {
-      "id": 86226761,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/31601547-84d0-44d7-b84d-679ceb4a478d/original=true/31601547-84d0-44d7-b84d-679ceb4a478d.jpeg",
-      "hash": "UCGb0L01025S9[~BIB5SQ-bvt8V?D*OE-9xF",
+      "id": 74914157,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7cf12415-ff17-4cf1-8d90-a0b1d2e812f9/original=true/7cf12415-ff17-4cf1-8d90-a0b1d2e812f9.jpeg",
+      "hash": "UAHeOL-QpwH?E1x?t800.7IW00x]H=IW_2_N",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-07-04T12:59:00.000Z",
-      "postId": 19134583,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-08T03:33:04.417Z",
+      "postId": 16633166,
       "stats": {
-        "cryCount": 83,
-        "laughCount": 152,
-        "likeCount": 1689,
+        "cryCount": 75,
+        "laughCount": 157,
+        "likeCount": 1677,
         "dislikeCount": 0,
-        "heartCount": 880,
-        "commentCount": 1
+        "heartCount": 893,
+        "commentCount": 0
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "steps": 29,
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 1715272759,
+        "draft": false,
+        "extra": {
+          "remixOfId": 70513195
+        },
+        "steps": 40,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 1girl, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit,\n\nsex,\n(black leggings:1.3),\nhuge blonde braid,\n(window:0.7),\n(maid:1.3),\nleggins close up,\nman out of frame,\n(grab ass:1.3),\nblazer,\narmchair,\nhigh angle,\nhead close up,\narched,\nbig penis,",
-        "denoise": 0.05,
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
+        "prompt": "(score_9, score_8_up, score_7_up, score_6_up,\nsource_anime, masterpiece, standing, American, german, pointy nose, perfect lips, blonde hair, realistic hair, long slim legs, upper body shot, breasts focus, breasts close-up, dutch angle, cowboy shot, large breasts, large ass, thick thighs, wide hips, hourglass figure, pawg, plump, lusty, sweat drops, sweat, steamy, cleavage, gorgeous face, narrow waist, thighs, sexy pose, skindentation, choker, (black bra, black panties, long black socks), \ninside, luxury bathroom, bathroom counter, leaning against countertop, bathroom vanity, neutral expression, dynamic angle,",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img",
+        "quantity": 2,
+        "workflow": "txt2img",
         "baseModel": "Pony",
-        "upscalers": [],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/35817318906561855846255646897728725696.jpg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ribs, jewelry, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, more than five fingers, crosseyed, easynegative, bestiality",
+        "resources": [],
+        "Created Date": "2025-05-07T0208:30.7635311Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, asian, face defects), milf, elderly, shower,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 1959359
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 1346181,
+            "modelVersionName": "v8"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
             "weight": 0.3,
-            "modelVersionId": 1959359
-          }
-        ],
-        "additionalResources": [
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
+          },
           {
-            "name": "urn:air:sdxl:lora:civitai:1730868@1959359",
             "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
+            "weight": 1,
+            "modelVersionId": 556208,
+            "modelVersionName": "Insta Baddie[PONY]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1184250,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 2.1,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "vovkkabanko",
+      "username": "Wadufuk1",
       "baseModel": "Pony",
       "modelVersionIds": [
-        290640,
-        1959359
+        382152,
+        534756,
+        556208,
+        596040,
+        1184250,
+        1242203,
+        1346181
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1075|1746675184417",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1075%7C1746675184417"
+    "nextCursor": "1076|1758640020000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1076%7C1758640020000"
   }
 }
