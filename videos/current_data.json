@@ -1,77 +1,162 @@
 {
   "items": [
     {
-      "id": 26819860,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ac801fa-93dc-4e2e-967b-864605e8655a/original=true/8ac801fa-93dc-4e2e-967b-864605e8655a.jpeg",
-      "hash": "UBKS^erM-:~A0K$*9[?G01Rh-VD*0M~Uj?IW",
-      "width": 832,
-      "height": 1216,
+      "id": 54542567,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9257954a-d82d-42b7-8f5b-68cfd16bdc1c/original=true/9257954a-d82d-42b7-8f5b-68cfd16bdc1c.jpeg",
+      "hash": "U5Fz{8031j8{%g9t.RDk01EL^iR%01J7}rxt",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-02-08T11:41:57.050Z",
-      "postId": 5997233,
+      "createdAt": "2025-01-29T06:43:09.885Z",
+      "postId": 12229928,
       "stats": {
-        "cryCount": 113,
-        "laughCount": 227,
-        "likeCount": 1652,
+        "cryCount": 72,
+        "laughCount": 145,
+        "likeCount": 1633,
         "dislikeCount": 0,
-        "heartCount": 804,
-        "commentCount": 0
+        "heartCount": 945,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 2425529364,
-        "Model": "autismmixSDXL_autismmixConfetti",
-        "steps": 30,
-        "hashes": {
-          "model": "ac006fdd7e",
-          "lora:Ball sucking-000009": "68304416ff6d"
-        },
-        "prompt": "score_9, score_7_up, ball suck,  1girl, 1boy,  penis, cynthia \\(pokemon\\),  <lora:Ball sucking-000009:1>",
-        "Version": "f1.0.1dev-v1.10.1RC-latest-941-gf4fa7f9e",
-        "sampler": "Euler A Comfy",
-        "cfgScale": 6,
+        "nsfw": true,
+        "seed": 1763066462,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "image": "https://orchestration.civitai.com/v2/consumer/blobs/8TABAKPAC78N28RP7GJM7CCXY0.jpeg",
+        "steps": 50,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, 1girl, blonde hair, cat ears, cute, slim, medium breasts, fishnet stockings, leaning over, hands on legs, stretching, fucked from behind, moaning, fucked silly, sweaty, squishy thighs, long legs, sexy, ass squishy, BREAK, 1boy, male out of frame, BREAK, blurry background, s1_dram",
+        "denoise": 0.5,
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "modelIds": [],
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "safe_neg, easynegative, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, muscular female,",
+        "civitaiResources": [
           {
-            "hash": "68304416ff6d",
-            "name": "Ball sucking-000009",
-            "type": "lora"
+            "weight": 1,
+            "modelVersionId": 290640
           },
           {
-            "hash": "ac006fdd7e",
-            "name": "autismmixSDXL_autismmixConfetti",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.15,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 1280045
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1280045
           }
         ],
-        "Model hash": "ac006fdd7e",
-        "Schedule type": "Align Your Steps",
-        "negativePrompt": "simple background,",
-        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
-        "ADetailer version": "24.8.0",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "automatic_cfg_preset_enabled": "False",
-        "automatic_cfg_simple_enabled": "False",
-        "ADetailer inpaint only masked": "True",
-        "automatic_cfg_dynamic_enabled": "False",
-        "automatic_cfg_warp_drive_enabled": "False",
-        "automatic_cfg_post_cfg_rescale_enabled": "False"
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.75,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.15,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
+            "type": "lora",
+            "strength": 0.9,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": null,
+      "username": "DrPeeHands",
       "baseModel": "Pony",
       "modelVersionIds": [
-        324524
+        9208,
+        164821,
+        244808,
+        290640,
+        382152,
+        436219,
+        1280045
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1085|1738132989885",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1085%7C1738132989885"
+    "nextCursor": "1086|1737723333805",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1086%7C1737723333805"
   }
 }
