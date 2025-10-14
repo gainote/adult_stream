@@ -1,94 +1,109 @@
 {
   "items": [
     {
-      "id": 36993422,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5b2a9de5-4553-4727-a66a-d09c9a9bf51d/original=true/5b2a9de5-4553-4727-a66a-d09c9a9bf51d.jpeg",
-      "hash": "UYH_=GIU.T%g_3RjR*tRb_aKV?bcNGkCs:Rj",
-      "width": 832,
-      "height": 1216,
+      "id": 90173537,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/73f33df5-92cd-4c58-bceb-43b96f04eae1/original=true/73f33df5-92cd-4c58-bceb-43b96f04eae1.jpeg",
+      "hash": "UBF#XR%gTe}@0KsTD$9Z03E1tRR,emxZaKkX",
+      "width": 3840,
+      "height": 2688,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-25T23:00:00.000Z",
-      "postId": 8447813,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-24T11:45:00.000Z",
+      "postId": 19998706,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 175,
-        "likeCount": 1667,
+        "cryCount": 119,
+        "laughCount": 204,
+        "likeCount": 1649,
         "dislikeCount": 0,
-        "heartCount": 874,
-        "commentCount": 0
+        "heartCount": 839,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3679486034,
-        "extra": {
-          "remixOfId": 35231190
-        },
-        "steps": 35,
-        "prompt": "Expressiveh, melkor_style, score_9, score_8_up, score_7_up, score_6_up, godrays, 1girl, Pharah from Overwatch, blue room, lingerie, thick thighs, narrow waist, big hips, pose, closeup, dynamic angle, closeup, from below, hearts, oiled, looking back, bent over, leaning forward, from behind, big ass, ass, ass focus, pussy focus, wet pussy, sexy, garter belt,",
+        "seed": 924165893,
+        "vaes": [],
+        "extra": {},
+        "steps": 25,
+        "width": 1216,
+        "height": 832,
+        "models": [],
+        "prompt": "score_9,score_8_up,score_7_up, 1 tanned curvy italian girl, hot girl, round face, thin nose, long hair, hair in pigtails , blonde hair, (oversized huge breasts), sexy face, narrow face, makeup, view back, ass focus, pussy, anus, extremely detailed skin, natural skin texture, cropped top, midriff, top pulled over midriff , lifting skirt, pierced belly button , close up view, on knees, knees spread wide, all fours, ass up, round ass, creampie, In bedroom, frat house BREAK on bed, By night, frilled skirt, panties down, anus, pussy, (puffy labia:1.4), beautiful woman, intimate photo, realistic image, dim light, cozy atmosphere, perfect lighting, perfect shadows, shiny skin, perfect reflections, lots of shadows, hairy pussy, unshaved ass, unshaved vagina, hairy vagina, colorful makeup, blushing,, blonde hair, garter belt on, black high socks, dripping pussy, 2girls,",
+        "denoise": 0.4,
+        "process": "img2img",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-28T0757:52.5448016Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, eyes closed, food, extra legs, extra hands, mutated legs, muscular girl. mutated hands, bad eyes, ugly face, low res, worst quality, low quality, more than 4 legs stuffed animals, more than 4 legs plushies, normal quality, text, watermark, armpit hair, deformed hands, deformed legs, deformed feet, extra digits, beginner, error, glitch, water, flooding, extra limbs, futa, futanari, girldick, shemale, lesbian, fisting, make faces, deformed teeth, (black man), dark-skinned man, dark-skinned-penis, extra toes, deformed feet, tattoos, arm tattoos, thick lips, 2girls, legs in bed",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 6,
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "19:13",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/2ZP14J65TVT6S7H29NYR2M5W80.jpeg",
+          "width": 1216,
+          "height": 832
+        },
+        "experimental": false,
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, bad-contrast, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, exaggerated anatomy, long neck, SimpleNegativeV3, zPDXLxxx, \n   score_6, score_5, score_4, worst quality, low quality, deformed body, child, young, big ass, wide hips, twins",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "modelVersionId": 1971591
           },
           {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 1.05,
+            "modelVersionId": 1242203
           },
           {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 411622,
-            "modelVersionName": "v1.0"
+            "weight": 1.25,
+            "modelVersionId": 1420899
           },
           {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 1.8,
+            "modelVersionId": 1926656
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "weight": 3.1,
+            "modelVersionId": 1681921
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": -1.2,
+            "modelVersionId": 1386847
+          },
+          {
+            "weight": 1.35,
+            "modelVersionId": 1851961
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "MrSodacan",
+      "username": "klaabu",
       "baseModel": "Pony",
       "modelVersionIds": [
-        290640,
-        382152,
-        398847,
-        411622,
-        436219
+        164821,
+        1242203,
+        1386847,
+        1420899,
+        1681921,
+        1851961,
+        1926656,
+        1971591
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1069|1753357500000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1069%7C1753357500000"
+    "nextCursor": "1070|1754266980000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1070%7C1754266980000"
   }
 }
