@@ -1,71 +1,119 @@
 {
   "items": [
     {
-      "id": 78067696,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2722e0c3-f094-45ae-8ee4-bb8fb19eb055/original=true/2722e0c3-f094-45ae-8ee4-bb8fb19eb055.jpeg",
-      "hash": "UFJRzFt60eTf_Na#9ZX70hs,n3R-0fxu8^IU",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "Mature",
+      "id": 46909305,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/002cdee3-3c29-4c1b-aed6-4a9171e273f3/original=true/002cdee3-3c29-4c1b-aed6-4a9171e273f3.jpeg",
+      "hash": "UjLDV_NG.Txu%2jEM{bcS$WBt7t8XmjFozof",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-23T18:36:04.799Z",
-      "postId": 17342688,
+      "browsingLevel": 8,
+      "createdAt": "2024-12-22T05:21:35.855Z",
+      "postId": 10603791,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 178,
-        "likeCount": 1766,
+        "cryCount": 69,
+        "laughCount": 148,
+        "likeCount": 1699,
         "dislikeCount": 0,
-        "heartCount": 761,
-        "commentCount": 0
+        "heartCount": 882,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2275125298,
-        "Model": "JANKU v4.0 - Based Noob EPS v1.1 NSFW By JANXD",
-        "steps": 30,
-        "prompt": "lazympos, masterpiece,best quality,amazing quality, blue hair, ice throne, sitting, head rest, fur trim, revealing clothes, sideboob, center opening, parted hair, short hair, expressionless, serious, gray eyes, ice tiara, , blue gemstone,  head tilt, beckoning, pointing at viewer,diadem, crossed legs, from below,blue snowflake print thighhighs",
-        "Version": "ComfyUI",
+        "nsfw": true,
+        "seed": 1718340772,
+        "draft": false,
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, ",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "negativePrompt": "lazyneg",
+        "Created Date": "2024-12-22T0445:15.2674736Z",
+        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1772645
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 1809575
+            "weight": 0.15,
+            "modelVersionId": 983142,
+            "modelVersionName": "v1.4-pony"
           },
           {
-            "type": "embedding",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 1558647
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
-            "type": "embedding",
+            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1591915
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 98441,
+            "modelVersionName": "V2"
+          },
+          {
+            "type": "lora",
+            "weight": 1.1,
+            "modelVersionId": 128461,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.05,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 298238,
+            "modelVersionName": "Smooth Anime"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "janxd",
-      "baseModel": "Illustrious",
+      "username": "vovkkabanko",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1558647,
-        1591915,
-        1772645,
-        1809575
+        9208,
+        98441,
+        128461,
+        135867,
+        290640,
+        298238,
+        382152,
+        983142
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1081|1734844895855",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1081%7C1734844895855"
+    "nextCursor": "1082|1747615260000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1082%7C1747615260000"
   }
 }
