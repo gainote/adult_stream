@@ -1,72 +1,95 @@
 {
   "items": [
     {
-      "id": 53075578,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8fb35a6d-6c89-4a03-8440-d0737628b58b/original=true/8fb35a6d-6c89-4a03-8440-d0737628b58b.jpeg",
-      "hash": "ULGHh#s:D%s:}pj[smae5SWUxaof4;a}OYWV",
-      "width": 1224,
-      "height": 2056,
+      "id": 16308495,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48ef534f-30f1-4601-8cba-83b9b0004a27/original=true/48ef534f-30f1-4601-8cba-83b9b0004a27.jpeg",
+      "hash": "UIJQp400%~9F%g9F?bMx0fE1~B-oxuWBIUNH",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-01-26T01:01:00.000Z",
-      "postId": 11921495,
+      "createdAt": "2025-03-22T19:35:37.573Z",
+      "postId": 3651684,
       "stats": {
-        "cryCount": 73,
-        "laughCount": 168,
-        "likeCount": 1791,
+        "cryCount": 96,
+        "laughCount": 165,
+        "likeCount": 1692,
         "dislikeCount": 0,
-        "heartCount": 802,
-        "commentCount": 1
+        "heartCount": 879,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "512x512",
-        "seed": 306435022125453,
-        "Model": "waiNSFWIllustrious_v90.safetensors",
-        "steps": 30,
-        "hashes": {
-          "model": "178fc987b2",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, blonde hair, medium hair, hair ribbon, detailed eyes, multicolored eyes, green eyes, eyebrows, eyelashes, reverse bunnysuit, cross pasties, indoors, casino interior, gambling tables, dim lighting, crowd of people, cards, bar in the background, (blurry background, depth of field, bokeh:0.9) <lora:klskx_wai:0.7000000000000001> <lora:spo_sdxl_10ep_4k-data_lora_webui:2.0>",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5.5,
+        "Size": "832x1216",
+        "seed": 553876957,
+        "steps": 19,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Expressiveh, 1girl, beautiful, sexy, cute, highres image, masterpiece, light-skinned female, young, from above\nleyleyxl, 1girl, solo, (black hair), ponytail, (white pupils, pink eyes:.6), messy hair, short ponytail, (upper body:.6), slutty, sexy, seductive, midrif, cleavage, large breasts, black sweater, black choker, panties, grin, smug, at home inner house, looking at viewer, dutch angle, cowboy shot,",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-06-19T0259:55.7352263Z",
+        "negativePrompt": "monochrome, greyscale, portrait, 3d, censored, fewer digits, extra digits, source_furry, source_pony, source_cartoon, score_6, score_5, score_4, zPDXL-neg, pubic hair, pubes, (worst quality:2),(low quality:2),(blurry:2),bad_prompt,text, (bad and mutated hands:1.3),(bad hands),badhandv4,mutated hands, bad anatomy, missing fingers,extra fingers,fused fingers,too many fingers,(interlocked fingers:1.2), extra limbs,malformed limbs,multiple limbs, extra arms, extra legs, long neck, cross-eyed, negative_hand, negative_hand-neg, pubic hair, hair on shaft, slim torso, slim waist, slim neck, sucking cheeks",
+        "civitaiResources": [
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
-            "weight": 2
+            "weight": 0.2,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
-            "hash": "178fc987b2",
-            "name": "waiNSFWIllustrious_v90.safetensors",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 333607,
+            "modelVersionName": "Smooth Anime 2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 441582,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 458555,
+            "modelVersionName": "egirlthot"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 437309,
+            "modelVersionName": "XL v1.0"
           }
-        ],
-        "Model hash": "178fc987b2",
-        "negativePrompt": "child, loli, patreon logo, bad quality, worst quality, worst detail, sketch, censor, censored, (watermark:1.0), signature, blurry, plain simple background, blank eyes, messy hair, hydrokinesis, sparks, glares, lens flare"
+        ]
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "kversanti636",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1283437,
-        1284348,
-        567119
+        244808,
+        290640,
+        333607,
+        382152,
+        437309,
+        441582,
+        458555
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1048|1742672137573",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1048%7C1742672137573"
+    "nextCursor": "1049|1744264800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1049%7C1744264800000"
   }
 }
