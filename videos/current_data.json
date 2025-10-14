@@ -1,93 +1,91 @@
 {
   "items": [
     {
-      "id": 54373375,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/893a0c2f-aa5f-4b5f-a0de-84c529299be9/original=true/893a0c2f-aa5f-4b5f-a0de-84c529299be9.jpeg",
-      "hash": "UDJZ*r00~psT.S01AG%Lv~^*IBt79aENS4%1",
+      "id": 37000200,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99739913-c2f6-40a3-9bdc-960fdc519edd/original=true/99739913-c2f6-40a3-9bdc-960fdc519edd.jpeg",
+      "hash": "URJ78rS$FLv}*0ogNHVstmWBw{slW=V@xZW;",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-28T15:55:00.000Z",
-      "postId": 12195499,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-28T09:00:27.748Z",
+      "postId": 8449377,
       "stats": {
-        "cryCount": 76,
-        "laughCount": 177,
-        "likeCount": 1710,
+        "cryCount": 100,
+        "laughCount": 238,
+        "likeCount": 1628,
         "dislikeCount": 0,
-        "heartCount": 850,
-        "commentCount": 1
+        "heartCount": 847,
+        "commentCount": 10
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1329820802,
-        "draft": false,
-        "steps": 17,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon,\n BREAK\n1girl, hacker avatar, (large breasts), virtual realm, no_bra, no_panties,\nBREAK\nkneeling before firewall, code tattoos, encryption keys on thighs, viruses swarming\n BREAK\ndynamic light, warm_light, vibrant colors warm_colors, soft focus, high contrast, textured surfaces, depth of field, golden hour lighting, dramatic shadows, rich details, nature-inspired color palette, playful composition.\n,dynamic angle,dynamic light,background,",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7,
+        "seed": 3299943407,
+        "steps": 35,
+        "prompt": "score_9, score_8, score_7, score_6, rating_explicit, source_anime, high definition, detailed, face focus, retroscifi, 1women, dyed blonde hair, long hair, clear eyes, freckles:0.5, large breasts, very cute, cute:1.2, woman kneeling, penis in vagina, cowgirl sex position, wearing white lacy panties, puffy nipples, indoors, in front of window, ponytail, glasses, day, looking at viewer, bracelet, posing for photo, sky, at night, smile, teeth, happy smile, posing, open mouthm, finger_number",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-01-28T1139:00.0980737Z",
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, orgasm, milf, big lips, big nose,(((face)))",
+        "Created Date": "2024-10-25T1158:14.5474722Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 817261,
-            "modelVersionName": "v6.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 0.25,
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 514793,
-            "modelVersionName": "comicbookpage xl v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 501154,
-            "modelVersionName": "Gothic Retro Anime v1.0"
+            "weight": 1,
+            "modelVersionId": 421744,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "embed",
-            "weight": 1,
             "modelVersionId": 250708,
             "modelVersionName": "safe_pos"
           },
           {
             "type": "embed",
-            "weight": 1,
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Buzz_lover",
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
+        244808,
+        290640,
         382152,
-        501154,
-        514793,
-        817261
+        421744
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1066|1730106027748",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1066%7C1730106027748"
+    "nextCursor": "1067|1736355451913",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1067%7C1736355451913"
   }
 }
