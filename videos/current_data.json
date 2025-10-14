@@ -1,77 +1,85 @@
 {
   "items": [
     {
-      "id": 103608372,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e1cd0186-4b64-42cb-be3e-2c109da6f5c0/original=true/e1cd0186-4b64-42cb-be3e-2c109da6f5c0.jpeg",
-      "hash": "UFLWqu169_eo~pNI4.Mc0eRj%hocH=Vs-=%2",
-      "width": 1248,
-      "height": 1824,
+      "id": 30112701,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82a7150b-6e3e-4e77-a34b-81620cc54b70/original=true/82a7150b-6e3e-4e77-a34b-81620cc54b70.jpeg",
+      "hash": "UAEVTp-n4.O[yZM{-o%gGaOtv#nO}n^*ELI9",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-10-01T23:34:17.164Z",
-      "postId": 22986468,
+      "createdAt": "2024-09-18T18:32:35.012Z",
+      "postId": 6737550,
       "stats": {
-        "cryCount": 127,
-        "laughCount": 262,
-        "likeCount": 1653,
+        "cryCount": 97,
+        "laughCount": 194,
+        "likeCount": 1582,
         "dislikeCount": 0,
-        "heartCount": 782,
+        "heartCount": 950,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 2699193826,
-        "Model": "prefect_illustrious_XL_2.fp16",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "9d73bac23a",
-          "lora:breasts_on_head_ilxl_goofy": "de8a25afccad"
+        "seed": 2893151605,
+        "extra": {
+          "remixOfId": 28560703
         },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres,<lora:breasts_on_head_ilxl_goofy:1>  breasts on head, darkness \\(konosuba\\), satou kazuma, 1boy, 1girl, blonde hair, blue eyes, border, breast rest, breasts, breasts on head, brown hair, closed mouth, clothed male nude female, empty eyes, expressionless, hetero, high ponytail, large breasts,  nipples, nude, open mouth, ponytail, white border",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
+        "steps": 23,
+        "prompt": "(score_9, score_8_up:1.1), score_7_up,  1girl, gorgeous girl , kawai girl , cute face , black hair, bangs, naked , large saggy breast, wet body, sexy thighs, sexy ass, bubble ass, lift ass, ass focus, spread ass, cute ass, pussy, (slim fit), leaning foward, pose , closeup , look at viewers, in hotspring, steam , rock , grass , high resolution water , submerged in water, boys horny , boner , hard erect penis",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-18T1633:15.0596455Z",
+        "negativePrompt": "score_6, score_5, score_4, fcNeg, simple background, blur, low quality, muscular woman, deformed body , deformed limbs , incomplete",
+        "civitaiResources": [
           {
-            "hash": "de8a25afccad",
-            "name": "breasts_on_head_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "9d73bac23a",
-            "name": "prefect_illustrious_XL_2.fp16",
-            "type": "model"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "9d73bac23a",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.19",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "dororooo",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1873831
+        244808,
+        290640,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1056|1726684355012",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1056%7C1726684355012"
+    "nextCursor": "1057|1755405720000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1057%7C1755405720000"
   }
 }
