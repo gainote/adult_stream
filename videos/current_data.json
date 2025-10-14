@@ -1,90 +1,93 @@
 {
   "items": [
     {
-      "id": 89964344,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/add5f45e-7b3f-4b70-8a7c-0c32d2430a56/original=true/add5f45e-7b3f-4b70-8a7c-0c32d2430a56.jpeg",
-      "hash": "U6JG[:rV01?H0JI:4TT015Dj-pkq~p={00E1",
-      "width": 1536,
-      "height": 2304,
+      "id": 54373375,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/893a0c2f-aa5f-4b5f-a0de-84c529299be9/original=true/893a0c2f-aa5f-4b5f-a0de-84c529299be9.jpeg",
+      "hash": "UDJZ*r00~psT.S01AG%Lv~^*IBt79aENS4%1",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-07-23T23:30:00.000Z",
-      "postId": 19953447,
+      "createdAt": "2025-01-28T15:55:00.000Z",
+      "postId": 12195499,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 170,
-        "likeCount": 1668,
+        "cryCount": 76,
+        "laughCount": 177,
+        "likeCount": 1710,
         "dislikeCount": 0,
-        "heartCount": 878,
-        "commentCount": 2
+        "heartCount": 850,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "768x1152",
-        "seed": 2873414290,
-        "Model": "rimixO65.fp16",
-        "steps": 30,
-        "hashes": {
-          "model": "1f449e2ccf",
-          "adetailer:Eyeful_v2-Paired.pt": "3c3c79d3bc",
-          "adetailer:Anzhc Face seg 640 v2 y8n.pt": "5db77283c3"
-        },
-        "prompt": "haruno sakura, tsunade \\(naruto\\), long hair, breasts, looking at viewer, blush, short hair, large breasts, blonde hair, multiple girls, closed mouth, 2girls, brown eyes, nipples, green eyes, collarbone, upper body, pink hair, outdoors, nude, small breasts, hairband, nail polish, water, yuri, huge breasts, parted bangs, completely nude, tree, makeup, embarrassed, facial mark, lipstick, breast press, red nails, partially submerged, age difference, mature female, rock, short eyebrows, forehead mark, red lips, onsen, bathing, asymmetrical docking, breast envy, arm around waist, looking at breasts, masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up\u00e2\u0080\u008b\u00e2\u0080\u008b\u00e2\u0080\u008b",
-        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "resources": [
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1329820802,
+        "draft": false,
+        "steps": 17,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon,\n BREAK\n1girl, hacker avatar, (large breasts), virtual realm, no_bra, no_panties,\nBREAK\nkneeling before firewall, code tattoos, encryption keys on thighs, viruses swarming\n BREAK\ndynamic light, warm_light, vibrant colors warm_colors, soft focus, high contrast, textured surfaces, depth of field, golden hour lighting, dramatic shadows, rich details, nature-inspired color palette, playful composition.\n,dynamic angle,dynamic light,background,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-01-28T1139:00.0980737Z",
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, orgasm, milf, big lips, big nose,(((face)))",
+        "civitaiResources": [
           {
-            "hash": "1f449e2ccf",
-            "name": "rimixO65.fp16",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 514793,
+            "modelVersionName": "comicbookpage xl v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 501154,
+            "modelVersionName": "Gothic Retro Anime v1.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "1f449e2ccf",
-        "Hires steps": "20",
-        "Hires upscale": "2",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits, censored, patreon username, loli\u00e2\u0080\u008b\u00e2\u0080\u008b\u00e2\u0080\u008b",
-        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
-        "ADetailer steps": "15",
-        "Hires CFG Scale": "6",
-        "ADetailer sampler": "DPM++ 2M",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.1",
-        "ADetailer mask blur": "5",
-        "ADetailer model 2nd": "Eyeful_v2-Paired.pt",
-        "ADetailer scheduler": "Karras",
-        "ADetailer steps 2nd": "15",
-        "ADetailer confidence": "0.5",
-        "ADetailer sampler 2nd": "DPM++ 2M",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "5",
-        "ADetailer scheduler 2nd": "Karras",
-        "ADetailer checkpoint 2nd": "aMixIllustrious_aMix [992570e0eb]",
-        "ADetailer confidence 2nd": "0.5",
-        "ADetailer inpaint padding": "20",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer denoising strength": "0.3",
-        "ADetailer use separate steps": "True",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "15",
-        "ADetailer use separate sampler": "True",
-        "ADetailer denoising strength 2nd": "0.35",
-        "ADetailer use separate steps 2nd": "True",
-        "ADetailer inpaint only masked 2nd": "True",
-        "ADetailer use separate sampler 2nd": "True",
-        "ADetailer use separate checkpoint 2nd": "True"
+        ]
       },
-      "username": "phinjo",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "username": "Buzz_lover",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        382152,
+        501154,
+        514793,
+        817261
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1065|1738079700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1065%7C1738079700000"
+    "nextCursor": "1066|1730106027748",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1066%7C1730106027748"
   }
 }
