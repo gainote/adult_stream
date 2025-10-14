@@ -1,119 +1,70 @@
 {
   "items": [
     {
-      "id": 91615252,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2d2f371-5843-4261-8cf9-9fd9e8835370/original=true/b2d2f371-5843-4261-8cf9-9fd9e8835370.jpeg",
-      "hash": "UDD]3i,-00?^K69H4oOrwJX7xt=xX--U$zo#",
+      "id": 90818418,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74e5df87-3a9b-454c-8c54-080410ea54ec/original=true/74e5df87-3a9b-454c-8c54-080410ea54ec.jpeg",
+      "hash": "UDG+UKDN0#9ZI-M{%2x]00tm$f%1_NRjE1Mx",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-07-31T18:55:41.902Z",
-      "postId": 20325417,
+      "createdAt": "2025-07-27T17:51:55.933Z",
+      "postId": 20140110,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 211,
-        "likeCount": 1775,
+        "cryCount": 178,
+        "laughCount": 287,
+        "likeCount": 1645,
         "dislikeCount": 0,
-        "heartCount": 689,
-        "commentCount": 0
+        "heartCount": 696,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 785796838,
+        "seed": 836211769,
         "draft": false,
-        "steps": 32,
+        "steps": 60,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, rating_explicit, realistic, cinematic lighting, 8k, high res, \nBREAK\nmasterpiece, best quality, very aesthetic,w3stc0m1cs, highly detailed, newest, lgn, view from behind, looking back at viewer, ((indoors:1.5)), ((barn:1.5)), ((hay:1.5)), sunrise, casual, \n1girl, light eyes, solo, adult, ((shirt, crop top, skirt, ((fingerless gloves:1.5)), big breasts, ghosted nipples, nipples, freckled skin, freckles on ass, freckles on breasts, seductive, smirk, at morning, skinny, sexy body, thigh butt, pussy, sexy, wide hips, perfect body, flowing hair, ((arched back)), full lips, ((dynamic angle)), incredibly detailed, peachipuss, detailed pussy, sticky pussy, wild hair, blushing, off shoulder, cleavage, ((hand in hair)), blue top, bare shoulders, sleeveless, tight shorts, micro shorts, jungle, looking at viewer, green necklace, a beautiful English female Hair Dark brown, typically styled in a long braid or ponytail, brown eyes, Turquoise tank top, khaki skirt, ((blue eyes:1.5)), ((black choker:1.5))",
+        "prompt": "score_9, score_8_up, score_7_up, USA, 35mm disposable camera scan, in kitchen at noon, rays of light, sitting on chair at kitchen counter looking back, buttocks, female nudity, fully nude, stoned, eating lunch, lunch time, diet soda, margherita pizza, eating pizza, burgers and hot dogs, BREAK 1girl, an 21 year old American stoner chick, pale skin, fit, large soft breasts, from behind, short wavy black and red hair with bangs, messy hair,",
         "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 1,
+        "quantity": 7,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "SDXL",
         "resources": [],
         "disablePoi": true,
         "aspectRatio": "13:19",
-        "Created Date": "2025-07-31T1852:08.2016096Z",
+        "Created Date": "2025-07-27T1746:09.0075019Z",
         "experimental": false,
-        "negativePrompt": "panties, score_4, score_5, ugly face, low quality, extra fingers, missing fingers, mutation, deformed iris, deformed pupils, deformed limbs, missing limbs, amputee, amputated limbs, watermark, shiny, waxy, unrealistic, chinese, asian, skinny, big eyes, ((extra limbs:2.5))",
+        "negativePrompt": "Selfie, makeup, weird hands, too many fingers, too few fingers, deformity",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1376263,
-            "modelVersionName": "SDXL Pony 15"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1262828,
-            "modelVersionName": "SupergirlDCAU"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 452553,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0,
-            "modelVersionId": 298625,
-            "modelVersionName": "v1"
+            "modelVersionId": 1920523,
+            "modelVersionName": "VXVII - CrystalClear (Realism)"
           },
           {
             "type": "lora",
             "weight": 0.2,
-            "modelVersionId": 379995,
-            "modelVersionName": "XL-Pony"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 541621,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.8,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1359711,
-            "modelVersionName": "CC & Grain (V3)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1375141,
+            "modelVersionId": 243570,
             "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "2138m",
-      "baseModel": "Pony",
+      "username": "mikeh2102reading382",
+      "baseModel": "SDXL 1.0",
       "modelVersionIds": [
-        298625,
-        379995,
-        452553,
-        541621,
-        1242203,
-        1262828,
-        1359711,
-        1375141,
-        1376263
+        243570,
+        1920523
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1073|1753638715933",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1073%7C1753638715933"
+    "nextCursor": "1074|1751633940000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1074%7C1751633940000"
   }
 }
