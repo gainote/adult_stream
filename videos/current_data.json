@@ -1,41 +1,175 @@
 {
   "items": [
     {
-      "id": 71837017,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/feb9caec-49c0-448d-ba60-880301100d66/original=true/feb9caec-49c0-448d-ba60-880301100d66.jpeg",
-      "hash": "UJIXHi%L0K~V-;-oIVIoSu?HtRE1s;NHIpS5",
+      "id": 60686938,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/164fd919-a908-4748-acaf-6c83cdf7473d/original=true/164fd919-a908-4748-acaf-6c83cdf7473d.jpeg",
+      "hash": "UCI|m|00PosqIpoe^PIV00~VDiNG_3R+nP-o",
       "width": 1280,
       "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-04-25T05:56:50.395Z",
-      "postId": 15957500,
+      "createdAt": "2025-03-01T00:41:00.000Z",
+      "postId": 13575449,
       "stats": {
-        "cryCount": 115,
-        "laughCount": 194,
-        "likeCount": 1666,
+        "cryCount": 83,
+        "laughCount": 187,
+        "likeCount": 1736,
         "dislikeCount": 0,
-        "heartCount": 816,
-        "commentCount": 1
+        "heartCount": 783,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "Kalrdr",
-      "baseModel": "Illustrious",
+      "meta": {
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {
+          "remixOfId": 56118366
+        },
+        "steps": 32,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_8, 1girl, solo, perfect face, light blue eyes, nude, small breasts, long black hair, red highlights, elegant ponytail, parted bangs, red lipstick, standing, restrained, bdsm, x-cross, refined, volumetric lighting, cinematic lighting, bedroom, blurry background, close up",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, hands on own face, chibi, child, border, signature",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 60938
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 179964
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 298238
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 378950
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 421754
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1099493
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 298238
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 378950
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 421754
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1099493
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:264290@298238",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:211726@378950",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:377690@421754",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:981613@1099493",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
+      },
+      "username": "ElvishDreams",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        111363,
+        60938,
         164821,
-        372639,
-        1412563,
-        1425924,
-        1490781
+        179964,
+        244808,
+        290640,
+        298238,
+        378950,
+        421754,
+        1099493
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1090|1740789660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1090%7C1740789660000"
+    "nextCursor": "1091|1730407158796",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1091%7C1730407158796"
   }
 }
