@@ -1,103 +1,42 @@
 {
   "items": [
     {
-      "id": 77061850,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47ebc408-0f73-4f73-9a8c-de877f440351/original=true/47ebc408-0f73-4f73-9a8c-de877f440351.jpeg",
-      "hash": "UEC6+AW;At%2xHbHITsTyFWBS2oz*0ofi_R*",
+      "id": 36809856,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/deed249b-ce08-4b6c-bce5-25816703007d/original=true/deed249b-ce08-4b6c-bce5-25816703007d.jpeg",
+      "hash": "UGF}~DIq4.%M_3-qD%V@I;~XnND%_3bHWXIU",
       "width": 1280,
       "height": 1856,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-19T00:41:00.000Z",
-      "postId": 17115524,
+      "browsingLevel": 16,
+      "createdAt": "2024-10-27T08:25:08.190Z",
+      "postId": 8407217,
       "stats": {
-        "cryCount": 153,
-        "laughCount": 226,
-        "likeCount": 1731,
+        "cryCount": 93,
+        "laughCount": 188,
+        "likeCount": 1635,
         "dislikeCount": 0,
-        "heartCount": 686,
-        "commentCount": 0
+        "heartCount": 880,
+        "commentCount": 9
       },
-      "meta": {
-        "seed": 834688238,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
-        "extra": {
-          "remixOfId": 72102992
-        },
-        "steps": 19,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
-        ],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, solo, (depth of field), medieval setting, outdoors, lake, day time\n\nelf, pink hair, green eyes, cute face, slender, small breasts, long hair swept to one side, short elf ears, short ears,\n\nsimple tunic,\n\ndynamic pose, taking off clothes, stripping,",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "modelIds": [],
-        "workflow": "img2img-facefix",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, shiny pants",
-        "civitaiResources": [
-          {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1490781
-          },
-          {
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1416874
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1490781
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
-            "type": "lora",
-            "strength": 0.85,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
-            "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
-          }
-        ]
-      },
-      "username": "ElvishDreams",
-      "baseModel": "Illustrious",
+      "meta": null,
+      "username": "paulmuc",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1189052,
-        1416874,
-        1490781
+        164821,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219,
+        517898,
+        539784
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1083|1730017508190",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1083%7C1730017508190"
+    "nextCursor": "1084|1739014917050",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1084%7C1739014917050"
   }
 }
