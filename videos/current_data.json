@@ -1,33 +1,90 @@
 {
   "items": [
     {
-      "id": 94122424,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ece0051b-8079-4120-943e-c6c60f87a8f4/original=true/ece0051b-8079-4120-943e-c6c60f87a8f4.jpeg",
-      "hash": "UAG@[WK%0L~AG]5X^R^j0htAScELJB^+$,EM",
-      "width": 2688,
-      "height": 3840,
+      "id": 61291148,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d42f1ea-a15e-4f9c-9cfb-6be83f514545/original=true/6d42f1ea-a15e-4f9c-9cfb-6be83f514545.jpeg",
+      "hash": "UEHm[d}=0L5T?GIp02xa0KI[9br=?E%Mx]V?",
+      "width": 1344,
+      "height": 2240,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-14T02:06:00.000Z",
-      "postId": 20880525,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-04T01:05:00.000Z",
+      "postId": 13704541,
       "stats": {
-        "cryCount": 191,
-        "laughCount": 264,
-        "likeCount": 1601,
+        "cryCount": 98,
+        "laughCount": 210,
+        "likeCount": 1708,
         "dislikeCount": 0,
-        "heartCount": 766,
-        "commentCount": 9
+        "heartCount": 806,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "Rodzilla2025X",
+      "meta": {
+        "Size": "768x1280",
+        "seed": 195134732703134,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//www.deviantart.com/marlandco",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, 1girl, (ganyu \\(genshin impact\\), small breasts, completely nude, lying on floor, resting arm behind head, thumbs up, looking at viewer, soft expression,\nindoors, (ancient library:1.2), scattered scrolls, wooden bookshelves, golden sunset, dust particles in air,\n(dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry,"
+      },
+      "username": "Marland_C",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        567119,
+        1050644,
+        1284348,
+        1345990,
+        1410435
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1059|1741050300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1059%7C1741050300000"
+    "nextCursor": "1060|1739950466260",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1060%7C1739950466260"
   }
 }
