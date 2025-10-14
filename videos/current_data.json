@@ -1,98 +1,84 @@
 {
   "items": [
     {
-      "id": 38596661,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00d3f644-f217-4b3a-8528-179b8ca5109d/original=true/00d3f644-f217-4b3a-8528-179b8ca5109d.jpeg",
-      "hash": "UAHK98^kUHTJt7tRNHNG01M|m,nh?bV?bcXS",
+      "id": 76802606,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7130d668-23ec-4100-b894-7a9ea42ba39b/original=true/7130d668-23ec-4100-b894-7a9ea42ba39b.jpeg",
+      "hash": "UKKKf:9t0JtR~npdEha0x@Ri9a-obbjFIAIT",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-06T03:19:16.732Z",
-      "postId": 8810434,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-17T12:40:48.887Z",
+      "postId": 17057997,
       "stats": {
-        "cryCount": 91,
-        "laughCount": 169,
-        "likeCount": 1633,
+        "cryCount": 104,
+        "laughCount": 188,
+        "likeCount": 1756,
         "dislikeCount": 0,
-        "heartCount": 934,
-        "commentCount": 1
+        "heartCount": 778,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 647216173,
-        "steps": 35,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_anime, BREAK, 1girl, samus aran, perfect body,, blush, pose, moaning, (wet body, sweat, wet, perfect ratio proportioned face, hourglass body, perfect waist to hip ratio, perfect female body, glossy skin, glossy body, oiled body, oiled skin, wet body, deep skin, sweat), BREAK pose, choker, , oiled, laying on side, , sexy, pose, saliva, hearts , 1 boy, missionary sex, male pov, looking a viewer",
-        "sampler": "DPM2 a",
+        "nsfw": false,
+        "seed": 791746921,
+        "draft": false,
+        "extra": {
+          "remixOfId": 74257009
+        },
+        "steps": 24,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality,horizon, looking at viewer, outdoors, mesugaki,Asanagi\n1femboy,solo,otoko no ko,crossdressing,trap,yaoi,ikr,High ponytail, (blonde hair),tongkkangi,small breasts,flat breasts,blue eyes,cleavage,hair between eyes,Black stockings,Silver breastplate,white dress,black One-piece suit under dress,Short boots,white Long gloves,Silver hand guard,\nstand,aura, foreshortening, fighting stance, battle, motion lines, motion blur, sword, holding sword, Silver sword, sketch, lineart, reaching towards viewer, from front,forest,wielding sword, great sword,Hold the sword in front of the chest",
+        "sampler": "DPM++ 2M Karras",
         "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-11-06T0233:13.8680831Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "Created Date": "2025-05-17T1123:51.9842478Z",
+        "negativePrompt": "(low quality, worst quality:1.3), blurry, ugly, disfigured, morbid, bad anatomy, (deformed, malformed hands, bad feet, extra digits:1.3), poorly drawn face, poorly drawn eyes:1.2), duplicate limbs, disconnected limbs, mutation, extra face, jpeg artifacts, watermark, signature, text, censored, chromatic aberration, monochrome,(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored,Blood",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "modelVersionId": 1697082,
+            "modelVersionName": "v2.2"
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "modelVersionId": 1249749,
+            "modelVersionName": "V1 - Illustrious"
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 0.7,
+            "modelVersionId": 1707780,
+            "modelVersionName": "Illustrious v2.1"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1084815,
+            "modelVersionName": "Illustrious"
           }
         ]
       },
-      "username": "fixerskorch877",
-      "baseModel": "Pony",
+      "username": "Leica_Estina",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
+        1084815,
+        1249749,
+        1697082,
+        1707780
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1053|1747485648887",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1053%7C1747485648887"
+    "nextCursor": "1054|1743869690728",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1054%7C1743869690728"
   }
 }
