@@ -1,77 +1,84 @@
 {
   "items": [
     {
-      "id": 89821024,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0c92aec6-4d4d-4abe-a197-2322a67ba6af/original=true/0c92aec6-4d4d-4abe-a197-2322a67ba6af.jpeg",
-      "hash": "U8GkIGO?.l^+0e-?01VW1P%##k9G*0%g}@Vr",
+      "id": 91262028,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05d1bd1a-2971-404a-b69a-d1ee541c100e/original=true/05d1bd1a-2971-404a-b69a-d1ee541c100e.jpeg",
+      "hash": "UBF5gc={5S9YPDxa4.X30LEM#i%M~WtS?GR-",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-04T00:23:00.000Z",
-      "postId": 19923235,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-03T15:00:00.000Z",
+      "postId": 20243274,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 214,
-        "likeCount": 1750,
+        "cryCount": 157,
+        "laughCount": 223,
+        "likeCount": 1778,
         "dislikeCount": 0,
-        "heartCount": 705,
+        "heartCount": 652,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1451077215,
+        "seed": 1710935455,
         "draft": false,
-        "steps": 19,
+        "steps": 29,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, very lewd look, caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, smaller natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, solo,  pbLieri, purple hair, fully nude, large breasts, big nipple piercing, lactating, pregnant, hairy pussy, ((curvaceous, voluptuous)), (dramatic lighting), looking at viewer, cowboy shot, sitting, legs apart, posing, (spread pussy), size difference, dark spaceship, low angle,",
         "process": "txt2img",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 4,
+        "sampler": "Euler a",
+        "cfgScale": 6,
         "clipSkip": 2,
         "quantity": 1,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
         "disablePoi": true,
         "aspectRatio": "13:19",
-        "Created Date": "2025-07-22T1615:06.9829104Z",
+        "Created Date": "2025-07-29T1852:59.9611265Z",
         "experimental": false,
-        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), huge breasts, muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
+        "negativePrompt": "score_5, score_4, score_3, score_2, score_1, simple background, blur, low quality, censored, bucktooth, cartoon, anime, ghostly, deformed, dismembered, disembodied, detached, polydactyl, amputated, contorted, semi-realistic, 3d render, watermark, logo, extra hands, extra dicks, tanlines, extra fingers , deformed fingers, bad hands,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1490781,
-            "modelVersionName": "v12.0"
+            "modelVersionId": 1199750,
+            "modelVersionName": "v5.0"
           },
           {
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1189052,
-            "modelVersionName": "Illustrious"
+            "weight": 1,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1416874,
-            "modelVersionName": "[illustrious]"
+            "weight": 0.6,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 529050,
+            "modelVersionName": "v1 (Pony Diffusion XL)"
           }
         ]
       },
-      "username": "bm609",
-      "baseModel": "Illustrious",
+      "username": "YourFantasy",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1189052,
-        1416874,
-        1490781
+        382152,
+        529050,
+        534756,
+        1199750
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1071|1754233200000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1071%7C1754233200000"
+    "nextCursor": "1072|1753988141902",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1072%7C1753988141902"
   }
 }
