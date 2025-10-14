@@ -1,36 +1,43 @@
 {
   "items": [
     {
-      "id": 37621283,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3aa49f1b-e327-431b-8ef8-5b2aefbffafb/original=true/3aa49f1b-e327-431b-8ef8-5b2aefbffafb.jpeg",
-      "hash": "UGB{r:~W-;x]IoRPRjNGozRkIoV@tSXSt7xa",
+      "id": 51589723,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/94d1d864-180f-4963-bfb2-5be6755fa309/original=true/94d1d864-180f-4963-bfb2-5be6755fa309.jpeg",
+      "hash": "UEFX-b~BF3%M~UNGNH%KwZEMM|%0={NK9afl",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-10-31T20:39:18.796Z",
-      "postId": 8593718,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-14T14:55:37.808Z",
+      "postId": 11601582,
       "stats": {
-        "cryCount": 111,
-        "laughCount": 208,
-        "likeCount": 1578,
+        "cryCount": 99,
+        "laughCount": 148,
+        "likeCount": 1657,
         "dislikeCount": 0,
-        "heartCount": 892,
-        "commentCount": 8
+        "heartCount": 883,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 2914043751,
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy latina girl, 1girl, 25 years old, dark skin, (dark curly hair:1.2), on bed, shot from above, looking down, closed eyes, sitting on knees, rough sex, hard sex, drooling, 1man, (cock deep in throat), girl sucking cock, head grab, ass up, sweaty skin, arching back, perfect ass, fit body, white flowers, indoor plants, cinematic lightings,",
+        "nsfw": true,
+        "seed": 819648841,
+        "draft": false,
+        "steps": 33,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, close up, (focus on huge penis:1.3), table, , photo card of cute girl, stapple, (text:1.2) , man out of frame, veins, messy room, view from above, (cute flying heart:0.6)",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-10-30T1933:38.2979566Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face, 2boys",
+        "Created Date": "2025-01-14T0416:03.6800334Z",
+        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -39,27 +46,57 @@
           },
           {
             "type": "lora",
-            "weight": 1.1,
+            "weight": 0.05,
+            "modelVersionId": 705856,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 983142,
+            "modelVersionName": "v1.4-pony"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 98441,
+            "modelVersionName": "V2"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 128461,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1.2,
             "modelVersionId": 135867,
             "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 342682,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.6,
+            "modelVersionId": 298238,
+            "modelVersionName": "Smooth Anime"
           },
           {
             "type": "embed",
@@ -70,27 +107,27 @@
             "type": "embed",
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "k4idzu470",
+      "username": "vovkkabanko",
       "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
+        98441,
+        128461,
         135867,
         290640,
-        330475,
-        342682,
-        382152
+        298238,
+        382152,
+        436219,
+        705856,
+        983142
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1092|1736866537808",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1092%7C1736866537808"
+    "nextCursor": "1093|1718562927715",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1093%7C1718562927715"
   }
 }
