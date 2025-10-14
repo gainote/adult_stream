@@ -1,43 +1,36 @@
 {
   "items": [
     {
-      "id": 51589723,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/94d1d864-180f-4963-bfb2-5be6755fa309/original=true/94d1d864-180f-4963-bfb2-5be6755fa309.jpeg",
-      "hash": "UEFX-b~BF3%M~UNGNH%KwZEMM|%0={NK9afl",
+      "id": 16034988,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/88f91151-1fa3-435e-9a51-fb3788bf81e8/original=true/88f91151-1fa3-435e-9a51-fb3788bf81e8.jpeg",
+      "hash": "U7E_dhI901$c00-.}[RiPqE2rVEgvL-pI;xb",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-01-14T14:55:37.808Z",
-      "postId": 11601582,
+      "browsingLevel": 16,
+      "createdAt": "2024-06-16T18:35:27.715Z",
+      "postId": 3582220,
       "stats": {
-        "cryCount": 99,
-        "laughCount": 148,
-        "likeCount": 1657,
+        "cryCount": 91,
+        "laughCount": 183,
+        "likeCount": 1489,
         "dislikeCount": 0,
-        "heartCount": 883,
-        "commentCount": 2
+        "heartCount": 1024,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 819648841,
-        "draft": false,
-        "steps": 33,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, close up, (focus on huge penis:1.3), table, , photo card of cute girl, stapple, (text:1.2) , man out of frame, veins, messy room, view from above, (cute flying heart:0.6)",
+        "seed": 1940202254,
+        "steps": 50,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, sexy girl, 1 girl, Lara Croft, 20 years old, face close up, half body portrait, (brunette:1.2), big brown eyes, winks, modest look, screaming, girl in pain, seducing viewer, hearts, posing, sexy pose, all fours, pink evening dress with sequins, pink strapless dress, pink dress, natural breasts, large saggy breasts, shaped nipples, off shoulder, sweaty breasts, anal sex on the sofa, doggy style, head on desk, breasts exposed, looking at viewer, pain orgasm, fucked hard, semi realistic, no panties, prone bone, hair grab, hands behind back, pulling arms, prone bone sex, man face out of frame, 1boy, muscular man, disco, night club, (dark strip club neon lights), strip club, neon light, cinematic lightings",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-01-14T0416:03.6800334Z",
-        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
+        "Created Date": "2024-06-16T1346:27.2934282Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, wool",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -46,88 +39,43 @@
           },
           {
             "type": "lora",
-            "weight": 0.05,
-            "modelVersionId": 705856,
-            "modelVersionName": "V1"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 983142,
-            "modelVersionName": "v1.4-pony"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 98441,
-            "modelVersionName": "V2"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.2,
+            "weight": 1.1,
             "modelVersionId": 135867,
             "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
+            "weight": 0.8,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 342682,
+            "modelVersionName": "v1.0"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           }
         ]
       },
-      "username": "vovkkabanko",
+      "username": "k4idzu470",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        98441,
-        128461,
         135867,
         290640,
-        298238,
-        382152,
-        436219,
-        705856,
-        983142
+        330475,
+        342682,
+        382152
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1093|1718562927715",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1093%7C1718562927715"
+    "nextCursor": "1094|1744366298614",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1094%7C1744366298614"
   }
 }
