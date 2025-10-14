@@ -1,43 +1,77 @@
 {
   "items": [
     {
-      "id": 68135503,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/acc8d22c-44e8-4bba-bb88-33f7fd956b02/original=true/acc8d22c-44e8-4bba-bb88-33f7fd956b02.jpeg",
-      "hash": "U6GQ@75@3sXVC8?IW@tS03xw+v^+yFyE-qFg",
-      "width": 1280,
-      "height": 1856,
+      "id": 103608372,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e1cd0186-4b64-42cb-be3e-2c109da6f5c0/original=true/e1cd0186-4b64-42cb-be3e-2c109da6f5c0.jpeg",
+      "hash": "UFLWqu169_eo~pNI4.Mc0eRj%hocH=Vs-=%2",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-04-05T16:14:50.728Z",
-      "postId": 15143953,
+      "browsingLevel": 8,
+      "createdAt": "2025-10-01T23:34:17.164Z",
+      "postId": 22986468,
       "stats": {
-        "cryCount": 129,
-        "laughCount": 190,
-        "likeCount": 1642,
+        "cryCount": 127,
+        "laughCount": 262,
+        "likeCount": 1653,
         "dislikeCount": 0,
-        "heartCount": 863,
+        "heartCount": 782,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "sabbufik419",
-      "baseModel": "Pony",
+      "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 2699193826,
+        "Model": "prefect_illustrious_XL_2.fp16",
+        "steps": 30,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "9d73bac23a",
+          "lora:breasts_on_head_ilxl_goofy": "de8a25afccad"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, absurdres,<lora:breasts_on_head_ilxl_goofy:1>  breasts on head, darkness \\(konosuba\\), satou kazuma, 1boy, 1girl, blonde hair, blue eyes, border, breast rest, breasts, breasts on head, brown hair, closed mouth, clothed male nude female, empty eyes, expressionless, hetero, high ponytail, large breasts,  nipples, nude, open mouth, ponytail, white border",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
+          {
+            "hash": "de8a25afccad",
+            "name": "breasts_on_head_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "9d73bac23a",
+            "name": "prefect_illustrious_XL_2.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "9d73bac23a",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.19",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        60938,
-        164821,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        720175
+        1873831
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1055|1759361657164",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1055%7C1759361657164"
+    "nextCursor": "1056|1726684355012",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1056%7C1726684355012"
   }
 }
