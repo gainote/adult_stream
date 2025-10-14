@@ -1,119 +1,103 @@
 {
   "items": [
     {
-      "id": 46909305,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/002cdee3-3c29-4c1b-aed6-4a9171e273f3/original=true/002cdee3-3c29-4c1b-aed6-4a9171e273f3.jpeg",
-      "hash": "UjLDV_NG.Txu%2jEM{bcS$WBt7t8XmjFozof",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 77061850,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/47ebc408-0f73-4f73-9a8c-de877f440351/original=true/47ebc408-0f73-4f73-9a8c-de877f440351.jpeg",
+      "hash": "UEC6+AW;At%2xHbHITsTyFWBS2oz*0ofi_R*",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-22T05:21:35.855Z",
-      "postId": 10603791,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-19T00:41:00.000Z",
+      "postId": 17115524,
       "stats": {
-        "cryCount": 69,
-        "laughCount": 148,
-        "likeCount": 1699,
+        "cryCount": 153,
+        "laughCount": 226,
+        "likeCount": 1731,
         "dislikeCount": 0,
-        "heartCount": 882,
-        "commentCount": 1
+        "heartCount": 686,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1718340772,
-        "draft": false,
-        "steps": 32,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, ",
+        "seed": 834688238,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1490781",
+        "extra": {
+          "remixOfId": 72102992
+        },
+        "steps": 19,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1490781"
+        ],
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, solo, (depth of field), medieval setting, outdoors, lake, day time\n\nelf, pink hair, green eyes, cute face, slender, small breasts, long hair swept to one side, short elf ears, short ears,\n\nsimple tunic,\n\ndynamic pose, taking off clothes, stripping,",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-12-22T0445:15.2674736Z",
-        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
+        "cfgScale": 3.5,
+        "modelIds": [],
+        "workflow": "img2img-facefix",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty, shiny pants",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1416874
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1490781
           },
           {
             "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 983142,
-            "modelVersionName": "v1.4-pony"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 98441,
-            "modelVersionName": "V2"
-          },
-          {
-            "type": "lora",
-            "weight": 1.1,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.05,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 0.85,
+            "modelVersionId": 1189052
           },
           {
             "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
+            "modelVersionId": 1416874
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "vovkkabanko",
-      "baseModel": "Pony",
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        98441,
-        128461,
-        135867,
-        290640,
-        298238,
-        382152,
-        983142
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1082|1747615260000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1082%7C1747615260000"
+    "nextCursor": "1083|1730017508190",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1083%7C1730017508190"
   }
 }
