@@ -1,33 +1,123 @@
 {
   "items": [
     {
-      "id": 99557317,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71ff14f2-f9ff-43c6-be56-4d3495c27833/original=true/71ff14f2-f9ff-43c6-be56-4d3495c27833.jpeg",
-      "hash": "UIFiV@00%h%g.T4nROM{o}S$RPxuS4nNRPx]",
-      "width": 3840,
-      "height": 3840,
-      "nsfwLevel": "Mature",
+      "id": 43200033,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f81cdbe7-1a20-4e9b-8439-0a10a6ba0d2f/original=true/f81cdbe7-1a20-4e9b-8439-0a10a6ba0d2f.jpeg",
+      "hash": "U3D9I^1R00n40gQ-rW0}00^*_N%14TIp~Ws8",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-11T17:57:44.735Z",
-      "postId": 22090065,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-19T04:02:20.163Z",
+      "postId": 9825457,
       "stats": {
-        "cryCount": 153,
-        "laughCount": 244,
-        "likeCount": 1781,
+        "cryCount": 136,
+        "laughCount": 239,
+        "likeCount": 1630,
         "dislikeCount": 0,
-        "heartCount": 606,
-        "commentCount": 2
+        "heartCount": 779,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "Rodzilla2025X",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 107838957,
+        "draft": false,
+        "extra": {
+          "remixOfId": 42042131
+        },
+        "steps": 26,
+        "width": 832,
+        "height": 1216,
+        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, score_9, score_8_up, (((Super high quality, ultra hd, masterpiece))), perfect face, perfect body,1 girl, drawn style, colorful slime, slime girl, ((((see through body)))), long hair, (transparent), transparent body,(cum), big breasts, nude, (sex), ((( penis visible))), outdoors, overcast weather, moonlight, cute, 1boy, human male, ((deepthroat)), adult, (1 penis), masterpiece, moon rays, cinematic, ((transparent girl)), beautiful, sexy, (penis between breasts:1.7), ejaculation",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-12-01T1733:32.7058815Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:99890@106916, embedding:urn:air:sd1:embedding:civitai:222256@250712, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, extra dicks, fat, chuby, extra dicks, ((opaque girl))",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 390898,
+            "modelVersionName": "v1.0 [Pony]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 501402,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.05,
+            "modelVersionId": 792953,
+            "modelVersionName": "slime ver2"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "solumbragt355",
       "baseModel": "Pony",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        239420,
+        290640,
+        382152,
+        390898,
+        398847,
+        436219,
+        501402,
+        792953
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1096|1758254540163",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1096%7C1758254540163"
+    "nextCursor": "1097|1736468700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1097%7C1736468700000"
   }
 }
