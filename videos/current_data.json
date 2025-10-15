@@ -1,95 +1,72 @@
 {
   "items": [
     {
-      "id": 94282675,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3bd2df93-9199-49bf-8c48-e5938b12dad1/original=true/3bd2df93-9199-49bf-8c48-e5938b12dad1.jpeg",
-      "hash": "U5D+PT0000Ff56^kEMI:00^j}?E2.8Z~NHt7",
-      "width": 832,
-      "height": 1216,
+      "id": 98602444,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e24c5f15-3402-4790-a438-4058d6de6def/original=true/e24c5f15-3402-4790-a438-4058d6de6def.jpeg",
+      "hash": "UBD9VTtm1h_NOXAEo}-p4oad#QM{4TR5vzZ$",
+      "width": 1264,
+      "height": 1848,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-08-15T00:35:00.000Z",
-      "postId": 20918105,
+      "createdAt": "2025-09-05T23:38:07.051Z",
+      "postId": 21878213,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 192,
-        "likeCount": 1654,
+        "cryCount": 97,
+        "laughCount": 132,
+        "likeCount": 1662,
         "dislikeCount": 0,
-        "heartCount": 739,
-        "commentCount": 2
+        "heartCount": 836,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 194081407,
-        "draft": false,
-        "extra": {
-          "remixOfId": 92645187
+        "seed": 3889380621,
+        "Model": "Illustrij18",
+        "steps": 30,
+        "hashes": {
+          "model": "b64f34c6fd"
         },
-        "steps": 48,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, (realistic:1.4), (photorealistic:1.4), (full body shot:1.3)\nBREAK\n(from side:0.5), (from above:0.3). 1girl, brunette, (freckles:0.6), 1girl, 18yo, gorgeous girl, cute face, cute girl, short fluffy black hair, hair covering one eye, medium breasts, cleavage, erect nipples, sexy pose , breast focus. dappled light, good lighting, well lit room, blue background",
-        "process": "txt2img",
-        "sampler": "Euler",
-        "cfgScale": 6.5,
+        "prompt": "masterpiece, best quality, nails, face, retro,\nmature woman, solo,\nblue hair, pink hair, black hairline, messy hair, high ponytail, fox ears, thin hair, medium hair,  \nbrown eyes, \nskin pressed,\nruffled leg wear, dress, oversized top, headset, one side off the shoulder, thigh ribbon, \ncasual, arm on leg, half standing, half kneeling, leg bent, bent over, side boob, areola flasher, lace bra, thong,\nfeet focus, face focus,\ngentle, serene, blush,\nblack background, tilted background, neon colors, blue light,\ndim, rim-light,\nclose up, low angle, dynamic perspective, forced angle, gaming setup, wall,",
+        "Version": "f2.0.1v1.10.1-previous-626-ga332f7cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-07T1259:32.4480035Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, frown",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1988773
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 460176
-          },
-          {
-            "type": "lora",
-            "weight": 2.5,
-            "modelVersionId": 1253021
-          },
-          {
-            "type": "lora",
-            "weight": -1,
-            "modelVersionId": 1260971
-          },
-          {
-            "type": "lora",
-            "weight": 3.3,
-            "modelVersionId": 1374748
-          },
-          {
-            "type": "lora",
-            "weight": 2.1,
-            "modelVersionId": 1726904
+            "hash": "b64f34c6fd",
+            "name": "Illustrij18",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "b64f34c6fd",
+        "Hires steps": "30",
+        "Hires upscale": "1.526",
+        "Original Size": "832x1216",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_foolhardy_Remacri",
+        "negativePrompt": "worst quality, bad quality, young,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "7",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "ADetailer mask blur": "4",
+        "Hires schedule type": "Karras",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "0dang",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        460176,
-        1253021,
-        1260971,
-        1374748,
-        1726904,
-        1988773
-      ]
+      "username": "reijlita",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1151|1757115487051",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1151%7C1757115487051"
+    "nextCursor": "1152|1744691400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1152%7C1744691400000"
   }
 }
