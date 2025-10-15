@@ -1,125 +1,42 @@
 {
   "items": [
     {
-      "id": 27014076,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/12178d36-56b6-4cba-be67-e2a177f9b9b2/original=true/12178d36-56b6-4cba-be67-e2a177f9b9b2.jpeg",
-      "hash": "U7I4O=007zK700?biw4.3?9Z^kxC00pw_2#7",
-      "width": 832,
-      "height": 1216,
+      "id": 88255517,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/15c50b13-0e61-47a7-b537-dcfc37375f84/original=true/15c50b13-0e61-47a7-b537-dcfc37375f84.jpeg",
+      "hash": "U8EeS@0064-;{zEy0K%2Q.x]g3^k9FE2-:#m",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-08-31T07:54:41.579Z",
-      "postId": 6042637,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-15T00:37:00.000Z",
+      "postId": 19576863,
       "stats": {
-        "cryCount": 106,
-        "laughCount": 185,
-        "likeCount": 1520,
+        "cryCount": 87,
+        "laughCount": 199,
+        "likeCount": 1720,
         "dislikeCount": 0,
-        "heartCount": 960,
-        "commentCount": 0
+        "heartCount": 764,
+        "commentCount": 2
       },
-      "meta": {
-        "Size": "832x1216",
-        "seed": 2061266836,
-        "steps": 50,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, 2d, 1girl Anna with long ginger hair in braids, (extra huge big round boobs:1.5), (big round butt:1.5), very skinny waist and belly, multiple boys, female, short, (boy:1.6), (huge dark black skin boy with large penis:1.3), dark-skinned muscular male fucking girl hardcore, cheating, anal sex, sex from behind, top down bottom up, (large penis:1.4), (ntr), ntred, walk-in, (shiny skin), caught, (cross-eyed:1.5), (eyes bulging:1.4), (drooling:1.4), (cum dripping from mouth:1.3), <lora:NTR:1>, (ahegao face:1.3),\n(Boob squeeze:1.4), (ass ripples:1.4), white shirt ripped open, pulled down jeans, pulled down red thong, lifted pink hoodie, (hair pulled back:1.4),",
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "name": "NTR",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2024-08-30T0901:50.5857112Z",
-        "negativePrompt": "source_furry, source_pony, monochrome,3d,(mole), aidxlv05_neg, (censored), looking at viewer, (straight shota), shota, size difference, starfish",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 324619,
-            "modelVersionName": "AutismMix_pony"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 504032,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 449028,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 426797,
-            "modelVersionName": "Dramatic lighting v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 583431,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 471570,
-            "modelVersionName": "ahegao XL-v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 403986,
-            "modelVersionName": "Pony XL"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
-      },
-      "username": "SlapperMePlease",
-      "baseModel": "Pony",
+      "meta": null,
+      "username": "Kalrdr",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        244808,
-        324619,
-        382152,
-        403986,
-        426797,
-        449028,
-        471570,
-        504032,
-        583431
+        9208,
+        111363,
+        164821,
+        333245,
+        372639,
+        1412563,
+        1490781,
+        1686786
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1107|1752539820000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1107%7C1752539820000"
+    "nextCursor": "1108|1740991500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1108%7C1740991500000"
   }
 }
