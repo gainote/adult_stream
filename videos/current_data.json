@@ -1,109 +1,106 @@
 {
   "items": [
     {
-      "id": 68262728,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b38aee6-7e65-455a-97ae-852b9b761fba/original=true/4b38aee6-7e65-455a-97ae-852b9b761fba.jpeg",
-      "hash": "ULNvPf~pEO?H%~-oS%%2JBt7Wqof%MogRQkW",
+      "id": 43088319,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90bc3669-0510-4580-9295-282f7a5c366a/original=true/90bc3669-0510-4580-9295-282f7a5c366a.jpeg",
+      "hash": "UKF#zN%M9Z%g~VsSInozk@o#nhX9OuW=xCay",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-04-06T06:15:00.000Z",
-      "postId": 15171023,
+      "createdAt": "2024-12-01T11:28:21.659Z",
+      "postId": 9801304,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 222,
-        "likeCount": 1536,
+        "cryCount": 84,
+        "laughCount": 166,
+        "likeCount": 1620,
         "dislikeCount": 0,
-        "heartCount": 880,
+        "heartCount": 860,
         "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
         "nsfw": true,
-        "seed": 1216909743,
+        "seed": 249255803,
         "draft": false,
-        "steps": 30,
+        "steps": 35,
         "width": 832,
         "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3), <segment:yolo-Anzhc Face seg 640 v3 y11n.pt,0.4,1//cid=11>, n3arldef, horse tail, blonde hair, hair between eyes, sidelocks, ponytail, animal ears, animal ear fluff, yellow eyes, white pupils, round firm large breasts, makeup, smokyeyes, lash, white mascara, puffy lips, glossy silver lipstick 1 girl, naked, breast press, penis, kissing penis shaft, saliva on penis, twitching penis, pre cum, testicles, upper body, girlish room, e-girl room, selfie, recording, looking at viewer, from side, (large Breasts:1.2), soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, dynamic dutch angle, bright colors, stunningly artwork,",
-        "sampler": "DDIM",
-        "cfgScale": 3.5,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, 25 years old, perfect face, cute, petite, blue eyes, long hair, blonde hair, sidelocks, drill ponytail, gold crown, gold jewelry, earrings, red gem, wedding dress, lace, bridal gauntlets, wedding, park, green garden, seductive smile, come hither, naughty face, looking back at viewer, dynamic angle, from behind, on her knees, pulling own clothes, hand on own ass, grabbing own ass, panty pull, white panties, bent over, taught gap, (pussy juice), (pussy dripping), red roses,",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-04-06T0549:04.7774413Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing",
+        "Created Date": "2024-11-30T0724:42.7037608Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1612720,
-            "modelVersionName": "v13.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1605121,
-            "modelVersionName": "Default"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        6056,
-        25820,
-        135867,
-        1056404,
-        1135769,
-        1373674,
-        1605121,
-        1612720
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1148|1733052501659",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1148%7C1733052501659"
+    "nextCursor": "1149|1726038588893",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1149%7C1726038588893"
   }
 }
