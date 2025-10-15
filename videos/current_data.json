@@ -1,34 +1,34 @@
 {
   "items": [
     {
-      "id": 69342469,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4d43f61-f5a3-427a-b6f5-55841b1d822a/original=true/a4d43f61-f5a3-427a-b6f5-55841b1d822a.jpeg",
-      "hash": "UGF#]*?FPA+sUHIUx^I9pwoI%2M_RkwHENNH",
+      "id": 48276582,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b5de6fd-5adb-40f1-9c10-aa8344031e64/original=true/3b5de6fd-5adb-40f1-9c10-aa8344031e64.jpeg",
+      "hash": "UAH^@b00y?H?GH00K6EM$*?G9aSdE1-:-7kC",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-04-11T09:44:45.059Z",
-      "postId": 15405984,
+      "browsingLevel": 8,
+      "createdAt": "2024-12-29T08:06:54.200Z",
+      "postId": 10884937,
       "stats": {
-        "cryCount": 110,
-        "laughCount": 191,
-        "likeCount": 1585,
+        "cryCount": 78,
+        "laughCount": 146,
+        "likeCount": 1732,
         "dislikeCount": 0,
-        "heartCount": 859,
-        "commentCount": 1
+        "heartCount": 789,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1425972716,
+        "nsfw": true,
+        "seed": 571182321,
         "draft": false,
-        "steps": 40,
+        "steps": 32,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9,score_8_up,score_8,score_9, pastel colors, high contrast ,expressiveh, epiCPhoto,\nBREAK,\n1girl, solo,asian, blue eyes, black hair, long hair, freckles, pale skin, small chest, thighs, petite, thigh socks, black bra, blue tipped hair,\nBREAK,\nall fours, looking at viewer, POV, deepthroat, threesome,large penis,penis on ass, cumshot, 2boys, spitroast, \nBREAK,",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, ",
         "sampler": "Euler a",
         "cfgScale": 7,
         "clipSkip": 2,
@@ -36,67 +36,91 @@
         "workflow": "txt2img",
         "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2025-04-05T1521:37.8151547Z",
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects)",
+        "Created Date": "2024-12-29T0644:37.1547746Z",
+        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1346181,
-            "modelVersionName": "v8"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
-            "weight": 0.45,
+            "weight": 0.35,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 983142,
+            "modelVersionName": "v1.4-pony"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 534756,
-            "modelVersionName": "Rough (V1)"
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 98441,
+            "modelVersionName": "V2"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 556208,
-            "modelVersionName": "Insta Baddie[PONY]"
+            "modelVersionId": 128461,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 596040,
-            "modelVersionName": "V1"
+            "weight": 1.15,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 1184250,
-            "modelVersionName": "RSGRL - V2"
+            "modelVersionId": 298238,
+            "modelVersionName": "Smooth Anime"
           },
           {
-            "type": "lora",
-            "weight": 2.1,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Akdhdkeoueh",
+      "username": "vovkkabanko",
       "baseModel": "Pony",
       "modelVersionIds": [
+        9208,
+        98441,
+        128461,
+        135867,
+        290640,
+        298238,
         382152,
-        534756,
-        556208,
-        596040,
-        1184250,
-        1242203,
-        1346181
+        436219,
+        983142
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1132|1735459614200",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1132%7C1735459614200"
+    "nextCursor": "1133|1757903053054",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1133%7C1757903053054"
   }
 }
