@@ -1,87 +1,95 @@
 {
   "items": [
     {
-      "id": 25631614,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1f28fb4-5f1d-4213-a7ce-36b5ce4f0c1f/original=true/c1f28fb4-5f1d-4213-a7ce-36b5ce4f0c1f.jpeg",
-      "hash": "UIKKWl?Y3s,.19xH?dkV0iOZyEXn^PozDjEL",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 16282302,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7264d1a-a822-4954-ac9c-caf42b8dcd36/original=true/c7264d1a-a822-4954-ac9c-caf42b8dcd36.jpeg",
+      "hash": "U7Fpyv~pu3x]0OAc=zNy1K=x$*-U^i}q5kX5",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-08-22T19:32:43.068Z",
-      "postId": 5730107,
+      "browsingLevel": 16,
+      "createdAt": "2024-06-18T22:24:09.563Z",
+      "postId": 3644808,
       "stats": {
-        "cryCount": 78,
-        "laughCount": 181,
-        "likeCount": 1614,
+        "cryCount": 65,
+        "laughCount": 148,
+        "likeCount": 1492,
         "dislikeCount": 0,
-        "heartCount": 885,
-        "commentCount": 2
+        "heartCount": 1053,
+        "commentCount": 0
       },
       "meta": {
-        "": {},
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "1248x1824",
-        "seed": 2729343287,
-        "Model": "sym-pony_world.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "39590fcd2d",
-          "lora:one_breast_out_pdxl_goofy": "c9efe7c679ab"
-        },
-        "prompt": "score_9,score_8_up,core_7_up, <lora:one_breast_out_pdxl_goofy:1>oozora subaru, 1girl, aqua eyes, bikini, bikini top pull, black hair, blue sky, blush, breasts, cloud, collarbone, day, halterneck, large breasts, looking at viewer, nipples, ocean, official alternate costume, one breast out, open mouth, outdoors, short hair, sky, solo, striped bikini, striped clothes, swept bangs, swimsuit, upper body, virtual youtuber, wet, wet hair, yellow bikini",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ 2M",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
-        "resources": [
+        "Size": "832x1216",
+        "seed": 756782053,
+        "steps": 40,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 2girls, princess Anna and Elsa frozen, cunnilingus, Anna lying on back, Elsa eating Anna\u2019s pussy, extra fine realistic hair, light tan, medium breasts, in bed, close up, jewelry, earrings, small pale pink nipples, legs spread, royal bedchambers, arendelle castle, fireplace in background, legs, feet, soft texture, rating_explicit, moaning, half dressed, topless, bare tits, teardrop breasts, wet pussy, full body shot, semi-realistic, source_pixar animation, young:1.2",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-06-18T1654:40.9096280Z",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, shiny, blurry face, black and white, muscular female, flat chested, pale skin,",
+        "civitaiResources": [
           {
-            "hash": "c9efe7c679ab",
-            "name": "one_breast_out_pdxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "39590fcd2d",
-            "name": "sym-pony_world.fp16",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 354128,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 2,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 491364,
+            "modelVersionName": "Darcom v1.0"
           }
-        ],
-        "Model hash": "39590fcd2d",
-        "Tile Overlap": "48",
-        "Schedule type": "Karras",
-        "Upscale factor": "1.5",
-        "negativePrompt": "3d,realistic,monochrome,greyscale, artist name, signature, watermark,",
-        "ADetailer model": "mediapipe_face_full",
-        "Keep input size": "true}",
-        "Tile batch size": "6",
-        "Tile tile width": "160",
-        "Tiled Diffusion": {},
-        "Tile tile height": "160",
-        "ADetailer version": "24.6.0",
-        "Denoising strength": "0.13",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Tiled Diffusion upscaler": "4x-UltraSharp",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "Tiled Diffusion scale factor": "1.5",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
+      "username": "screwball808",
       "baseModel": "Pony",
       "modelVersionIds": [
-        630522
+        135867,
+        244808,
+        290640,
+        354128,
+        382152,
+        398847,
+        491364
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1119|1718749449563",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1119%7C1718749449563"
+    "nextCursor": "1120|1733052307916",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1120%7C1733052307916"
   }
 }
