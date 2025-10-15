@@ -1,101 +1,95 @@
 {
   "items": [
     {
-      "id": 28840633,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/19b395ca-61df-4818-9962-4bb9cd83c15f/original=true/19b395ca-61df-4818-9962-4bb9cd83c15f.jpeg",
-      "hash": "U8KU7gpecr00yC~qjERN00%L4po$8^00%M-=",
+      "id": 94282675,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3bd2df93-9199-49bf-8c48-e5938b12dad1/original=true/3bd2df93-9199-49bf-8c48-e5938b12dad1.jpeg",
+      "hash": "U5D+PT0000Ff56^kEMI:00^j}?E2.8Z~NHt7",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-09-11T07:09:48.893Z",
-      "postId": 6451831,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-15T00:35:00.000Z",
+      "postId": 20918105,
       "stats": {
-        "cryCount": 68,
-        "laughCount": 153,
-        "likeCount": 1636,
+        "cryCount": 143,
+        "laughCount": 192,
+        "likeCount": 1654,
         "dislikeCount": 0,
-        "heartCount": 873,
-        "commentCount": 1
+        "heartCount": 739,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1369460184,
+        "seed": 194081407,
+        "draft": false,
         "extra": {
-          "remixOfId": 28826873
+          "remixOfId": 92645187
         },
-        "steps": 24,
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, expressive, 1girl, toned body, fit, pale skin, long blonde hair, medium breasts, green eyes, (long black eyelashes:1.5), (dark eyeliner:1.5), glossy pink lips, big bimbo lips, (freckles:1.2), small necklace, \nmessy bedroom, posters on the wall, lava lamp,\nsmiling, navel piercing, loose crop top,  ((under boobs)), (perfect foot), exposed pussy, black choker, (puffy pussy:1.7), (small waist:1.7), (((bondage, suspended in the air by the feet))),\ndappled lighting, god rays, volumetric lighting,",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "steps": 48,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, (realistic:1.4), (photorealistic:1.4), (full body shot:1.3)\nBREAK\n(from side:0.5), (from above:0.3). 1girl, brunette, (freckles:0.6), 1girl, 18yo, gorgeous girl, cute face, cute girl, short fluffy black hair, hair covering one eye, medium breasts, cleavage, erect nipples, sexy pose , breast focus. dappled light, good lighting, well lit room, blue background",
+        "process": "txt2img",
+        "sampler": "Euler",
+        "cfgScale": 6.5,
         "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-09-11T0651:55.6795447Z",
-        "negativePrompt": "tan lines, easynegative, ponytail, updo, hair up, blurry, bokeh, depth of field, easynegative, writing, score_6, score_5, score_4, source_furry, 3d, futa, ahegao, pubic hair, pubes, body hair, bad text, x-ray, signature, wavy hair, curly hair, curls,",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-07T1259:32.4480035Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, deformed body, deformed fingers, frown",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 695106,
-            "modelVersionName": "Pony-Real_v1.1-Fix"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 1988773
           },
           {
             "type": "lora",
-            "weight": 2,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 0.65,
+            "modelVersionId": 460176
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 520909,
-            "modelVersionName": "v1.0"
+            "weight": 2.5,
+            "modelVersionId": 1253021
           },
           {
             "type": "lora",
-            "weight": -0.4,
-            "modelVersionId": 534952,
-            "modelVersionName": "v1.0"
+            "weight": -1,
+            "modelVersionId": 1260971
           },
           {
             "type": "lora",
-            "weight": -2,
-            "modelVersionId": 539244,
-            "modelVersionName": "v1.0"
+            "weight": 3.3,
+            "modelVersionId": 1374748
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 2.1,
+            "modelVersionId": 1726904
           }
         ]
       },
-      "username": "klum",
+      "username": "0dang",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        135867,
-        520909,
-        534952,
-        539244,
-        695106
+        460176,
+        1253021,
+        1260971,
+        1374748,
+        1726904,
+        1988773
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1150|1755218100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1150%7C1755218100000"
+    "nextCursor": "1151|1757115487051",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1151%7C1757115487051"
   }
 }
