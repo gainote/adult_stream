@@ -1,150 +1,109 @@
 {
   "items": [
     {
-      "id": 102247719,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5eefc7f1-3e7c-4126-ae3b-345811cb2b51/original=true/5eefc7f1-3e7c-4126-ae3b-345811cb2b51.jpeg",
-      "hash": "UJG*Hz=}009Y0Jjc?Hs;0dIn$,xu~CNFELxb",
-      "width": 1344,
-      "height": 2264,
+      "id": 68262728,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b38aee6-7e65-455a-97ae-852b9b761fba/original=true/4b38aee6-7e65-455a-97ae-852b9b761fba.jpeg",
+      "hash": "ULNvPf~pEO?H%~-oS%%2JBt7Wqof%MogRQkW",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-09-28T01:15:00.000Z",
-      "postId": 22685035,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-06T06:15:00.000Z",
+      "postId": 15171023,
       "stats": {
-        "cryCount": 96,
-        "laughCount": 176,
-        "likeCount": 1666,
+        "cryCount": 92,
+        "laughCount": 222,
+        "likeCount": 1536,
         "dislikeCount": 0,
-        "heartCount": 794,
-        "commentCount": 0
+        "heartCount": 880,
+        "commentCount": 1
       },
       "meta": {
-        "TI": {},
-        "Size": "896x1512",
-        "seed": 1297995294,
-        "Model": "waiNSFWIllustrious_v150",
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 1216909743,
+        "draft": false,
         "steps": 30,
-        "hashes": {
-          "model": "befc694a29",
-          "lora:XXX477": "080d12c718b3",
-          "lora:96YOTTEA-WAI": "7a6cdc714921",
-          "lora:veluflora-wai": "fbcbfb1106da",
-          "lora:a31_style_koni": "668963c77d2a",
-          "lora:mon_monmon2133": "9dcf6d165d08",
-          "lora:ag31_style_ba_v1": "77af56ed043a",
-          "lora:checkpoint-e18_s306": "491af043b410",
-          "lora:round_breasts-IL-1.0": "39368615C0F8",
-          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
-          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
-          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
-        },
-        "prompt": "1girl, solo, long hair, looking at viewer, purple eyes, black hair, upper body, nude purple hair, blunt bangs, water, purple makeup, expressionless, wavy hair, leaf, plant, purple lipstick, partially submerged, purple theme, Flatline, Flat vector illustration, ((adult, mature)), large breasts, forest, mushrooms, from fornt, round breasts, perfect breasts, dynamic angle, arm under breasts, lifting breasts, underboob, purple fingernails, slim, athletic, nipples, sideboob,\ndetailed eyes, light particles, slutty,\nvery awa, masterpiece, highres, absurdres, flat color, in the style of cksc, illustration, masterpiece, (extremely detailed CG 8k), (very fine 8K CG), (ultra detailed perfect piece:1.2), no lineart,(no lineart, flat art style), sinozick style,\n<lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>,<lora:mon_monmon2133:0.3>, <lora:XXX477:0.5>, <lora:96YOTTEA-WAI:0.3>, <lora:a31_style_koni:0.5>, <lora:ag31_style_ba_v1:0.8>, <lora:checkpoint-e18_s306:0.6>, <lora:veluflora-wai:0.5>,  <lora:round_breasts-IL-1.0:0.35>",
-        "Version": "f2.0.1v1.10.1-previous-665-gae278f79",
-        "sampler": "DPM++ 2M SDE",
-        "cfgScale": 6,
-        "resources": [
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), ((nsfw)), (finely detailed face), (petite body:1.3), <segment:yolo-Anzhc Face seg 640 v3 y11n.pt,0.4,1//cid=11>, n3arldef, horse tail, blonde hair, hair between eyes, sidelocks, ponytail, animal ears, animal ear fluff, yellow eyes, white pupils, round firm large breasts, makeup, smokyeyes, lash, white mascara, puffy lips, glossy silver lipstick 1 girl, naked, breast press, penis, kissing penis shaft, saliva on penis, twitching penis, pre cum, testicles, upper body, girlish room, e-girl room, selfie, recording, looking at viewer, from side, (large Breasts:1.2), soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, dynamic dutch angle, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-04-06T0549:04.7774413Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing",
+        "civitaiResources": [
           {
-            "hash": "DA259DF60E36",
-            "name": "NOOB_vp1_detailer_by_volnovik_v1",
-            "type": "lora",
-            "weight": 0.3
+            "type": "checkpoint",
+            "modelVersionId": 1612720,
+            "modelVersionName": "v13.0"
           },
           {
-            "hash": "33d8271217ed",
-            "name": "noobai_ep11_stabilizer_v0.138_fp16",
             "type": "lora",
-            "weight": 0.3
+            "weight": 1,
+            "modelVersionId": 1605121,
+            "modelVersionName": "Default"
           },
           {
-            "hash": "72ea46a2b089",
-            "name": "ponyv6_noobV1_2_adamW",
-            "type": "lora",
-            "weight": 0.3
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
           },
           {
-            "hash": "9dcf6d165d08",
-            "name": "mon_monmon2133",
-            "type": "lora",
-            "weight": 0.3
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
           },
           {
-            "hash": "080d12c718b3",
-            "name": "XXX477",
             "type": "lora",
-            "weight": 0.5
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "7a6cdc714921",
-            "name": "96YOTTEA-WAI",
             "type": "lora",
-            "weight": 0.3
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "668963c77d2a",
-            "name": "a31_style_koni",
             "type": "lora",
-            "weight": 0.5
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
           },
           {
-            "hash": "77af56ed043a",
-            "name": "ag31_style_ba_v1",
             "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "491af043b410",
-            "name": "checkpoint-e18_s306",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "fbcbfb1106da",
-            "name": "veluflora-wai",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "39368615C0F8",
-            "name": "round_breasts-IL-1.0",
-            "type": "lora",
-            "weight": 0.35
-          },
-          {
-            "hash": "befc694a29",
-            "name": "waiNSFWIllustrious_v150",
-            "type": "model"
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
           }
-        ],
-        "Model hash": "befc694a29",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x-UltraSharpV2",
-        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts",
-        "Hires CFG Scale": "5",
-        "Denoising strength": "0.35"
+        ]
       },
-      "username": "BallsyBalls",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        400010,
-        438698,
-        1082928,
-        1145311,
-        1150423,
-        1209350,
-        1247042,
-        1308598,
-        1311785,
-        1356500,
-        2167369
+        6056,
+        25820,
+        135867,
+        1056404,
+        1135769,
+        1373674,
+        1605121,
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1147|1743920100000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1147%7C1743920100000"
+    "nextCursor": "1148|1733052501659",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1148%7C1733052501659"
   }
 }
