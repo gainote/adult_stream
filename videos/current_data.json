@@ -1,55 +1,44 @@
 {
   "items": [
     {
-      "id": 43088319,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90bc3669-0510-4580-9295-282f7a5c366a/original=true/90bc3669-0510-4580-9295-282f7a5c366a.jpeg",
-      "hash": "UKF#zN%M9Z%g~VsSInozk@o#nhX9OuW=xCay",
+      "id": 28840633,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/19b395ca-61df-4818-9962-4bb9cd83c15f/original=true/19b395ca-61df-4818-9962-4bb9cd83c15f.jpeg",
+      "hash": "U8KU7gpecr00yC~qjERN00%L4po$8^00%M-=",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-01T11:28:21.659Z",
-      "postId": 9801304,
+      "browsingLevel": 8,
+      "createdAt": "2024-09-11T07:09:48.893Z",
+      "postId": 6451831,
       "stats": {
-        "cryCount": 84,
-        "laughCount": 166,
-        "likeCount": 1620,
+        "cryCount": 68,
+        "laughCount": 153,
+        "likeCount": 1636,
         "dislikeCount": 0,
-        "heartCount": 860,
+        "heartCount": 873,
         "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 249255803,
-        "draft": false,
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, 25 years old, perfect face, cute, petite, blue eyes, long hair, blonde hair, sidelocks, drill ponytail, gold crown, gold jewelry, earrings, red gem, wedding dress, lace, bridal gauntlets, wedding, park, green garden, seductive smile, come hither, naughty face, looking back at viewer, dynamic angle, from behind, on her knees, pulling own clothes, hand on own ass, grabbing own ass, panty pull, white panties, bent over, taught gap, (pussy juice), (pussy dripping), red roses,",
-        "sampler": "DPM2 a",
-        "cfgScale": 4,
+        "seed": 1369460184,
+        "extra": {
+          "remixOfId": 28826873
+        },
+        "steps": 24,
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, expressive, 1girl, toned body, fit, pale skin, long blonde hair, medium breasts, green eyes, (long black eyelashes:1.5), (dark eyeliner:1.5), glossy pink lips, big bimbo lips, (freckles:1.2), small necklace, \nmessy bedroom, posters on the wall, lava lamp,\nsmiling, navel piercing, loose crop top,  ((under boobs)), (perfect foot), exposed pussy, black choker, (puffy pussy:1.7), (small waist:1.7), (((bondage, suspended in the air by the feet))),\ndappled lighting, god rays, volumetric lighting,",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-11-30T0724:42.7037608Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "Created Date": "2024-09-11T0651:55.6795447Z",
+        "negativePrompt": "tan lines, easynegative, ponytail, updo, hair up, blurry, bokeh, depth of field, easynegative, writing, score_6, score_5, score_4, source_furry, 3d, futa, ahegao, pubic hair, pubes, body hair, bad text, x-ray, signature, wavy hair, curly hair, curls,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "modelVersionId": 695106,
+            "modelVersionName": "Pony-Real_v1.1-Fix"
           },
           {
             "type": "embed",
@@ -59,21 +48,27 @@
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 2,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.3,
+            "modelVersionId": 520909,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": -0.4,
+            "modelVersionId": 534952,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": -2,
+            "modelVersionId": 539244,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "embed",
@@ -87,20 +82,20 @@
           }
         ]
       },
-      "username": "fixerskorch877",
+      "username": "klum",
       "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
+        135867,
+        520909,
+        534952,
+        539244,
+        695106
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1149|1726038588893",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1149%7C1726038588893"
+    "nextCursor": "1150|1755218100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1150%7C1755218100000"
   }
 }
