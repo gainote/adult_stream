@@ -1,106 +1,94 @@
 {
   "items": [
     {
-      "id": 42876667,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c72662cd-7d43-4b24-8d77-099131d24218/original=true/c72662cd-7d43-4b24-8d77-099131d24218.jpeg",
-      "hash": "UAL_w*IT7O$%cuWU5TX99ubdD~og4=WCEKjX",
+      "id": 98948079,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d015c600-9b09-4352-a0f8-19f1e82d631c/original=true/d015c600-9b09-4352-a0f8-19f1e82d631c.jpeg",
+      "hash": "U7AcA4Gd1R-rvWXWTLXBE8S7s=r^x]OZ%2R*",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-11-30T07:27:10.952Z",
-      "postId": 9756839,
+      "browsingLevel": 4,
+      "createdAt": "2025-09-07T16:39:23.452Z",
+      "postId": 21954999,
       "stats": {
-        "cryCount": 61,
-        "laughCount": 137,
-        "likeCount": 1623,
+        "cryCount": 112,
+        "laughCount": 232,
+        "likeCount": 1707,
         "dislikeCount": 0,
-        "heartCount": 932,
-        "commentCount": 2
+        "heartCount": 700,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 818609643,
+        "seed": 1051118143,
         "draft": false,
-        "steps": 35,
+        "extra": {
+          "remixOfId": 97588325
+        },
+        "steps": 27,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_anime, BREAK, gwen stacy, SpiderG, short blonde hair with pink highlights, blue eyes, feet, perfect feet, cute feet, perfect soles, pink soles, five toes, NegfeetV2, 1girl, blonde_hair, bedroom, laying legs up, feet, up, ass, pink garter panties, garter belt, white thigh highs, pose, garter top, sexy, face focus, closeup, posing, wet hair, dynamic angle, thick thighs, big ass, nail polish, 1man, blowjob, grabbing head, hearts, looking up,",
-        "sampler": "DPM2 a",
-        "cfgScale": 4,
+        "prompt": "masterpiece, best quality, very aesthetic, (realistic:0.4), 7481llu, 69yottea_style_illu, dilanshengxue, anee23k,(photorealistic:0.7), (flat color:0.2), lineart, (incase:0.5), (dandon fuga:0.8), (laserflip:0.6), (happoubi jin:0.4), (pepe \\(jonasan\\):0.3), \n1girl, solo, kteto, girl, short hair, drill hair, wink, (blush:0.8), (toned female:0.7),  off-shoulder dress, shoulder cutout, black ribbon, wide sleeves, one breast out, dress pull, strapless bra, aqua bra, lace bra, large breasts, sagging breasts, nipples, steaming body, looking at viewer, shushing, finger to mouth, shrugging, head tilt,\nportrait, from above, three quarter view, dutch angle, perspective, foreshortening,\nindoors, night, night sky, night city, (dark:1.2), window shadow, depth of field, blurry background, (sidelighting, vignetting), dark theme",
+        "sampler": "Euler",
+        "cfgScale": 5,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 1,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-11-27T1335:17.9455684Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-07T1633:58.1023428Z",
+        "experimental": false,
+        "negativePrompt": "makeup, shiny skin, worst quality, low quality, displeasing, pale color, muted color, text, artist name, no lineart",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1761560
           },
           {
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "weight": 0.25,
+            "modelVersionId": 1951123
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.95,
+            "modelVersionId": 2007092
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1375651
           },
           {
             "type": "lora",
             "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "modelVersionId": 1967210
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 0.8,
+            "modelVersionId": 1384343
           }
         ]
       },
-      "username": "fixerskorch877",
-      "baseModel": "Pony",
+      "username": "Medyx",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
+        1375651,
+        1384343,
+        1761560,
+        1951123,
+        1967210,
+        2007092
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1127|1757263163452",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1127%7C1757263163452"
+    "nextCursor": "1128|1747888200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1128%7C1747888200000"
   }
 }
