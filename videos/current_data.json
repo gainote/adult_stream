@@ -1,64 +1,41 @@
 {
   "items": [
     {
-      "id": 83053356,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cb127355-9510-40ee-9cf4-4860a72b98ad/original=true/cb127355-9510-40ee-9cf4-4860a72b98ad.jpeg",
-      "hash": "UFH27n4n*0Shk?nh.8RjK69FRPRO8_-pRP9F",
-      "width": 1536,
-      "height": 2304,
-      "nsfwLevel": "Mature",
+      "id": 84073997,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d479d509-93ef-428a-adec-afb885e58051/original=true/d479d509-93ef-428a-adec-afb885e58051.jpeg",
+      "hash": "UGEU#?=w-:S~~AxZ%L%2E2bwIpxZof%LNHIp",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-18T23:30:00.000Z",
-      "postId": 18445351,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-23T17:24:04.249Z",
+      "postId": 18666463,
       "stats": {
-        "cryCount": 87,
-        "laughCount": 169,
-        "likeCount": 1701,
+        "cryCount": 85,
+        "laughCount": 186,
+        "likeCount": 1612,
         "dislikeCount": 0,
-        "heartCount": 797,
+        "heartCount": 870,
         "commentCount": 0
       },
-      "meta": {
-        "Size": "768x1152",
-        "seed": 2121494210,
-        "Model": "0.75(newmix.fp16) + 0.25(dmixfouth)",
-        "steps": 20,
-        "Script": "X/Y/Z plot",
-        "X Type": "Checkpoint name",
-        "hashes": {
-          "model": "ff9b5e63a4"
-        },
-        "prompt": "1girl, breasts, swimsuit, solo, barefoot, long hair, navel, closed eyes, large breasts, feet, slingshot swimsuit, toes, tree, outdoors blonde hair, sitting, jewelry, day, dappled sunlight, toenails, palm tree, thighs, legs, , sunlight, collarbone, black one-piece swimsuit, earrings, bare shoulders, full body, stomach, brown hair, spread legs, , chair, knee up, masterpiece, best quality, dynamic lighting, masterwork, masterpiece, best quality,  detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult,  aged up",
-        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
-        "sampler": "Euler a",
-        "X Values": "0.75(newmix.fp16) + 0.25(dmixfouth).safetensors [ff9b5e63a4]",
-        "cfgScale": 6,
-        "resources": [
-          {
-            "hash": "ff9b5e63a4",
-            "name": "0.75(newmix.fp16) + 0.25(dmixfouth)",
-            "type": "model"
-          }
-        ],
-        "Model hash": "ff9b5e63a4",
-        "Hires steps": "10",
-        "Hires upscale": "2",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "None",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli",
-        "Hires CFG Scale": "6",
-        "Denoising strength": "0.1"
-      },
-      "username": "phinjo",
+      "meta": null,
+      "username": "sabbufik419",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        164821,
+        333245,
+        1141520,
+        1157361,
+        1375651,
+        1379960,
+        1582690
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1124|1750699444249",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1124%7C1750699444249"
+    "nextCursor": "1125|1743381660000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1125%7C1743381660000"
   }
 }
