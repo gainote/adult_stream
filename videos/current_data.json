@@ -1,81 +1,197 @@
 {
   "items": [
     {
-      "id": 102111865,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b6a0ee1-9d1b-45cc-b2ad-171ff85b4b75/original=true/3b6a0ee1-9d1b-45cc-b2ad-171ff85b4b75.jpeg",
-      "hash": "UpP6gVV@?w.8%gM{V@x]kWoej]WB%MofWBWB",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 85979675,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/65d03bf4-2641-44fe-bb80-f9541ef57917/original=true/65d03bf4-2641-44fe-bb80-f9541ef57917.jpeg",
+      "hash": "U3C=#m0100V?00t7_3-q_4E1$*wI00-p-8tR",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-24T15:07:00.000Z",
-      "postId": 22653449,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-03T06:40:00.000Z",
+      "postId": 19080558,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 166,
-        "likeCount": 1683,
+        "cryCount": 101,
+        "laughCount": 187,
+        "likeCount": 1620,
         "dislikeCount": 0,
-        "heartCount": 789,
+        "heartCount": 826,
         "commentCount": 1
       },
       "meta": {
-        "Model": "urn:air:sdxl:checkpoint:civitai:1025051@2186168",
-        "extra": {},
-        "steps": 25,
+        "seed": 483270256,
+        "vaes": [
+          "urn:air:sdxl:vae:civitai:296576@333245"
+        ],
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {
+          "remixOfId": 84393390
+        },
+        "steps": 24,
         "width": 832,
         "height": 1216,
         "models": [
-          "urn:air:sdxl:checkpoint:civitai:1025051@2186168"
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
         ],
-        "prompt": "masterpiece, best quality, amazing quality,\n\n\nsexy hot,\n(expressive:0.7),\n\n(ass folds:1.2),\nblonde,\nthong,\ncameltoe,\nsmooth skin,",
-        "denoise": 0.05,
+        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism , high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality,realistic, masterpiece, best quality, 8k,( light particles:1.1), glow, nsfw,  see-through silhouette\n\n1girl, 18 years old, petite, narrow waist, small hips, gorgeous girl ,kawai girl , glitter makeup, oiled body, sweaty, black hair, white highlights, short hair, ponytail, red scrunchie cute face, cute girl, looking at penis, (penis awe:1.5), all fours,  (pink see-through revealing her belly button and abdomen curtain style dress), exposed breasts, exposed pussy, huge natural breasts, (slim fit), candid , bedroom, black walls, blurry background, ethereal, rating_explicit, dynamic angle, dark background, kneeling, doggy, doggystyle, penis, a massive penis, motion lines, motion blur",
+        "denoise": 0.25,
         "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
+        "sampler": "Euler a",
+        "cfgScale": 3,
         "clipSkip": 2,
+        "modelIds": [],
         "priority": "low",
         "quantity": 1,
-        "workflow": "img2img",
+        "workflow": "img2img-hires",
         "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
         "disablePoi": true,
+        "versionIds": [],
         "aspectRatio": "13:19",
+        "controlNets": [],
         "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/105378914631608096541536359821853831243.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuQlt9OefbNeTAYeT0PJo47aaTpc3UVoIxYf96vFhEEBujpy5t6CxrwVSfZTIiN872-lE0-Wjg4uDBIKp7NfgzyCHUVz_C_OQby7g4LlOgSZBK3EIss8yZzq-5RRWDHCGI09irR2KulcmBPq2ZzA58t7eA6wI4JyAk-odJujIdJilSSLE-CGWsJJkILBiNz8wjiPf-OA8vsBTRlY9es7vybAu29XCl4doQEDLKooLQ9plcdr_iS2gzJLhLQBuTwHje16247xTmt39kICe1EqdpO4aL28ZoJN1_y-ogaM6aiUoA&exp=2026-09-24T04:26:33.4073935Z",
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/8V4AFN9GWJCR14GRP1MMJ9WQF0.jpeg",
           "width": 832,
           "height": 1216
         },
         "experimental": false,
-        "negativePrompt": "censor, censored, watermark, artist name, bestiality,\n",
+        "negativePrompt": "worst quality, low quality, displeasing, text, watermark, bad anatomy, text, artist name, signature, deformed hands, missing finger, shiny skin,child,children",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 1240288
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1280045
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 1726985
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1864838
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 333245
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 2186168
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "vae",
+            "modelVersionId": 333245
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 2234776
+            "modelVersionId": 145907
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1976924
+            "weight": 0.85,
+            "modelVersionId": 1189052
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1280045
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1416874
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 1726985
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1864838
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:120723@145907",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.85,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:661736@1280045",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1256683@1416874",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1526286@1726985",
+            "type": "lora",
+            "strength": 0.75,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1647387@1864838",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "vovkkabanko",
+      "username": "DrPeeHands",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1976924,
-        2186168,
-        2234776
+        145907,
+        164821,
+        333245,
+        1189052,
+        1240288,
+        1280045,
+        1416874,
+        1726985,
+        1864838
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1140|1751524800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1140%7C1751524800000"
+    "nextCursor": "1141|1743865200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1141%7C1743865200000"
   }
 }
