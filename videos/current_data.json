@@ -1,70 +1,102 @@
 {
   "items": [
     {
-      "id": 23817737,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/983d8d65-2624-41cc-88d3-1149ca4e8f06/original=true/983d8d65-2624-41cc-88d3-1149ca4e8f06.jpeg",
-      "hash": "UJN]@Gxayrxu?^xt%0Rj0Ka}-VM{-pt7RlWB",
-      "width": 832,
-      "height": 1216,
+      "id": 100452220,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08fe95a1-b35e-4ae8-8497-fb484de60167/original=true/08fe95a1-b35e-4ae8-8497-fb484de60167.jpeg",
+      "hash": "UEC$lz?H0f^+~Vof9u%200NG-:IV01%1?HD*",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-10-06T17:24:37.744Z",
-      "postId": 5312670,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-15T10:23:22.443Z",
+      "postId": 22285623,
       "stats": {
-        "cryCount": 85,
-        "laughCount": 194,
-        "likeCount": 1662,
+        "cryCount": 100,
+        "laughCount": 204,
+        "likeCount": 1647,
         "dislikeCount": 0,
-        "heartCount": 837,
+        "heartCount": 825,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae.safetensors",
-        "Size": "832x1216",
-        "seed": 1520351526,
-        "Model": "Jibble Magic Sauce v1.0",
-        "steps": 25,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "95ae7886df"
-        },
-        "prompt": "score_8_up, ((adult)), woman, small breasts, high rise panties, thigh highs, long sleeve crop top, lifted shirt, exposed breasts, round glasses, slight smile, short teal hair bun",
-        "Version": "f0.0.17v1.8.0rc-latest-276-g29be1da7",
-        "sampler": "Euler a",
-        "cfgScale": 7,
-        "Mask blur": "16",
-        "resources": [
-          {
-            "hash": "95ae7886df",
-            "name": "Jibble Magic Sauce v1.0",
-            "type": "model"
-          }
+        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
+        "extra": {},
+        "steps": 40,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
         ],
-        "Model hash": "95ae7886df",
-        "Inpaint area": "Only masked",
-        "negativePrompt": "(loli:0.1), child, kid, teen, underage, monochrome, greyscale, shiny skin, (pleated skirt)",
-        "ADetailer model": "face_yolov8n.pt",
-        "ADetailer version": "24.3.1",
-        "Denoising strength": "0.35",
-        "ADetailer mask blur": "16",
-        "Masked area padding": "32",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.35",
-        "ADetailer inpaint only masked": "True"
+        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, amazing composition, blonde hair,large breasts, facial, hetero, 1girl, grabbing, grabbing another's breast, nipples, 1boy,head_out of frame, parted_lips, simple nun habit,slight blur,",
+        "denoise": 0.4,
+        "process": "img2img",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "txt2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "experimental": false,
+        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1240288
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 145907
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 959419
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1036362
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.5,
+            "modelVersionId": 1219983
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 2209882
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          }
+        ]
       },
-      "username": "jibble_jobble",
-      "baseModel": "Pony",
+      "username": "Twisted314b",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        714359
+        145907,
+        164821,
+        959419,
+        1036362,
+        1219983,
+        1240288,
+        2209882
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1102|1757931802443",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1102%7C1757931802443"
+    "nextCursor": "1103|1748509197574",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1103%7C1748509197574"
   }
 }
