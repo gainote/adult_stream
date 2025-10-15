@@ -1,65 +1,90 @@
 {
   "items": [
     {
-      "id": 103216820,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27f4931d-fc19-43fe-9418-636fc5678713/original=true/27f4931d-fc19-43fe-9418-636fc5678713.jpeg",
-      "hash": "UcLz:Q-p_Nx^t7kWxuIAbbIoaeV@x]j[WAR+",
-      "width": 2048,
-      "height": 3072,
-      "nsfwLevel": "X",
+      "id": 59436168,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c1a3a54-a494-4b9e-a811-62ab42de9ba1/original=true/2c1a3a54-a494-4b9e-a811-62ab42de9ba1.jpeg",
+      "hash": "U35F8-Ql1$t-c[wIE*S$IBSh-UxCDNo~-TRO",
+      "width": 1344,
+      "height": 2240,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-09-30T01:15:00.000Z",
-      "postId": 22899510,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-23T20:30:00.000Z",
+      "postId": 13295668,
       "stats": {
-        "cryCount": 88,
-        "laughCount": 172,
-        "likeCount": 1738,
+        "cryCount": 111,
+        "laughCount": 194,
+        "likeCount": 1743,
         "dislikeCount": 0,
-        "heartCount": 770,
+        "heartCount": 719,
         "commentCount": 0
       },
       "meta": {
-        "Size": "1024x1536",
-        "seed": 659667204683849,
-        "Model": "ramthrustsNSFWPINK_alchemyMix169",
-        "steps": 35,
-        "prompt": ",1girl, amazing quality, colored lineart, catgirlstyle, solo, dynamic pose, dynamic angle, cat ears, cinematic position, nipples, shirt, long hair, underwear, large breasts, panties, jewelry, open clothes, black hair, open shirt, navel, earrings, red eyes, black panties, low-tied long hair, white shirt, open mouth, white background, simple background, arms up, no bra, collared shirt, see-through, wet, from side, stomach, wet clothes, cowboy shot, very long hair, blush\nbokeh, cinematic composition, volumetric lighting, long sleeves, animal ear fluff, shiny skin, thighs, animal ears, breast, collarbone, see-through shirt, looking at viewer, open hand, wet shirt, slit pupil, smile, breasts apart, no pants, ponytail, fang, masterpiece, best quality",
-        "Version": "ComfyUI",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "Size": "768x1280",
+        "seed": 203955460514502,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, black latex bodysuit, arms up, bound wrists, under tree, bound, bound arms, bound legs, bound torso, bondage, womb tattoo, shibari over clothes, outdoors, (void portal below:1.2), slime pool, (summoning circle:1.2), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "(bad quality:1.1),(worst quality:1.1),bad details, (bad hands:1.2)",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1892573
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
           },
           {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2255398
+            "weight": 1
           },
           {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1570070
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, symmetry, floating particles, sunlight"
       },
-      "username": "IRLCatGirl",
+      "username": "Marland_C",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1570070,
-        1892573,
-        2255398
+        1345990,
+        1284348,
+        567119,
+        1050644,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1110|1740342600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1110%7C1740342600000"
+    "nextCursor": "1111|1757810460000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1111%7C1757810460000"
   }
 }
