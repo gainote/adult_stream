@@ -1,113 +1,80 @@
 {
   "items": [
     {
-      "id": 35620548,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f35b8f7e-52d5-46e3-8b8f-eae4e39cbb7b/original=true/f35b8f7e-52d5-46e3-8b8f-eae4e39cbb7b.jpeg",
-      "hash": "UAD*hQ}@Boo}n49]IpsA0exC=cjYtm$%?GS#",
-      "width": 832,
-      "height": 1216,
+      "id": 86398580,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0930893-302c-4f9d-9983-5545baadf706/original=true/a0930893-302c-4f9d-9983-5545baadf706.jpeg",
+      "hash": "UNL:l*NdRj-oL3s:oJRkFzt6j[WB~VjFazoz",
+      "width": 1216,
+      "height": 832,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-03-23T17:54:59.651Z",
-      "postId": 8138631,
+      "createdAt": "2025-07-06T11:00:00.000Z",
+      "postId": 19171399,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 170,
-        "likeCount": 1641,
+        "cryCount": 158,
+        "laughCount": 243,
+        "likeCount": 1580,
         "dislikeCount": 0,
-        "heartCount": 859,
-        "commentCount": 0
+        "heartCount": 781,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3474642071,
+        "Size": "1216x832",
+        "seed": 1673994294,
+        "draft": false,
         "extra": {
-          "remixOfId": 35238700
+          "remixOfId": 18246985
         },
-        "steps": 43,
-        "prompt": "(score_9, score_8_up, score_7_up), 1girl, , lingerie, stockings, perfect eyes, cute girl,\n1boy, ((selfie)), girl, sexy body, penis, vaginal, thick thighs, missionary, hands on another's thighs, blue hoodie, upside down,\nselfie view\nin bed\n(((((vaginal sex, orgasm, big natural boobs opened)))))",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "steps": 30,
+        "width": 1216,
+        "height": 832,
+        "prompt": "(breast expansion:1.3), (motion lines:1.2),  multiple views,  long_hair, 1girl, 1 man, man pov, black_hair, brown_eyes, bangs, smile,  medium chest/hyper breasts, bimbo transformation,bikini, score_9, score_8_up, score_7_up, , BREAK, bed, viewer is the man in pov lying on bed looking at girl, ((((paizuri)))), (penis between breast), bakunyuu, real,",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-10-20T1515:42.8947040Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, elaborate clothing",
+        "disablePoi": true,
+        "aspectRatio": "19:13",
+        "Created Date": "2025-07-04T0932:37.5604339Z",
+        "experimental": false,
+        "negativePrompt": "3d, source_cartoon, paint, sketch,score_6_up, score_5_up, score_4_up",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 324619,
+            "modelVersionName": "AutismMix_pony"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 461354,
+            "modelVersionName": "Pony B.E"
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "weight": -3,
+            "modelVersionId": 517898,
+            "modelVersionName": "Pony"
           }
         ]
       },
-      "username": "MUTAN1",
+      "username": "MrChap",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        135867,
-        239420,
-        290640,
-        382152,
-        398847,
-        436219
+        324619,
+        461354,
+        517898
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1115|1751799600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1115%7C1751799600000"
+    "nextCursor": "1116|1733908195144",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1116%7C1733908195144"
   }
 }
