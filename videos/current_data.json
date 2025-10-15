@@ -1,86 +1,87 @@
 {
   "items": [
     {
-      "id": 101730907,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ace974c6-14e9-4558-9bbc-886204bff7ff/original=true/ace974c6-14e9-4558-9bbc-886204bff7ff.jpeg",
-      "hash": "UNJrT.I@Ivxs{SxYw|jH;MWCnhafRkoJobWC",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 25631614,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1f28fb4-5f1d-4213-a7ce-36b5ce4f0c1f/original=true/c1f28fb4-5f1d-4213-a7ce-36b5ce4f0c1f.jpeg",
+      "hash": "UIKKWl?Y3s,.19xH?dkV0iOZyEXn^PozDjEL",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-22T06:11:23.854Z",
-      "postId": 22567970,
+      "browsingLevel": 4,
+      "createdAt": "2024-08-22T19:32:43.068Z",
+      "postId": 5730107,
       "stats": {
-        "cryCount": 119,
-        "laughCount": 237,
-        "likeCount": 1737,
+        "cryCount": 78,
+        "laughCount": 181,
+        "likeCount": 1614,
         "dislikeCount": 0,
-        "heartCount": 665,
-        "commentCount": 1
+        "heartCount": 885,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1606653153,
-        "draft": false,
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "prompt": "18yo, hand drawing, 1girl, cute, random hair, blush, wink, ;3, holding a penis, sex, (body covered in gold leaf:1.8), hand-drawn style, (side_view:0.5), cleavage, perfect breasts, nude, gold leaf breasts, cum on breasts, vaginal penetration, cum in pussy,\nsinozick style, flat color, flat lighting, in the style of cksc, illustration,( mountainous valley in background:1.4), (volcano eruption:1.5), masterpiece, (extremely detailed CG 8k), (very fine 8K CG), (ultra detailed perfect piece:1.2), no lineart,,(no lineart, flat art style:1.0), NO_LINE_ART, comical, simple, cum, cum drip,( exposed breasts:1.1),( nipples:1.1),",
-        "process": "img2img",
+        "": {},
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "1248x1824",
+        "seed": 2729343287,
+        "Model": "sym-pony_world.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "39590fcd2d",
+          "lora:one_breast_out_pdxl_goofy": "c9efe7c679ab"
+        },
+        "prompt": "score_9,score_8_up,core_7_up, <lora:one_breast_out_pdxl_goofy:1>oozora subaru, 1girl, aqua eyes, bikini, bikini top pull, black hair, blue sky, blush, breasts, cloud, collarbone, day, halterneck, large breasts, looking at viewer, nipples, ocean, official alternate costume, one breast out, open mouth, outdoors, short hair, sky, solo, striped bikini, striped clothes, swept bangs, swimsuit, upper body, virtual youtuber, wet, wet hair, yellow bikini",
+        "Version": "v1.10.1",
         "sampler": "DPM++ 2M",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-09-21T1521:44.9837111Z",
-        "experimental": false,
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
-        "civitaiResources": [
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
+            "hash": "c9efe7c679ab",
+            "name": "one_breast_out_pdxl_goofy",
+            "type": "lora",
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1247042
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 481798
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1209350
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1380520
+            "hash": "39590fcd2d",
+            "name": "sym-pony_world.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "39590fcd2d",
+        "Tile Overlap": "48",
+        "Schedule type": "Karras",
+        "Upscale factor": "1.5",
+        "negativePrompt": "3d,realistic,monochrome,greyscale, artist name, signature, watermark,",
+        "ADetailer model": "mediapipe_face_full",
+        "Keep input size": "true}",
+        "Tile batch size": "6",
+        "Tile tile width": "160",
+        "Tiled Diffusion": {},
+        "Tile tile height": "160",
+        "ADetailer version": "24.6.0",
+        "Denoising strength": "0.13",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "Tiled Diffusion upscaler": "4x-UltraSharp",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "Tiled Diffusion scale factor": "1.5",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "solumbragt355",
-      "baseModel": "Illustrious",
+      "username": "Goofy_Ai",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        481798,
-        1209350,
-        1240288,
-        1247042,
-        1380520
+        630522
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1118|1724355163068",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1118%7C1724355163068"
+    "nextCursor": "1119|1718749449563",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1119%7C1718749449563"
   }
 }
