@@ -1,77 +1,108 @@
 {
   "items": [
     {
-      "id": 100357683,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b166d78b-920e-41c8-b85c-de711dea8229/original=true/b166d78b-920e-41c8-b85c-de711dea8229.jpeg",
-      "hash": "URMN{7Mx|6^S+fpGR%Vt=MNGOWxaIprtxtsp",
-      "width": 1664,
-      "height": 2432,
-      "nsfwLevel": "Mature",
+      "id": 96812455,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3aece194-def5-4be7-9169-c1f026a36889/original=true/3aece194-def5-4be7-9169-c1f026a36889.jpeg",
+      "hash": "U6CY:bbD-T^j%M010L-:_M~BIox]5mRQ9FNH",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-14T23:49:56.433Z",
-      "postId": 22265554,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-19T03:53:31.185Z",
+      "postId": 21473811,
       "stats": {
-        "cryCount": 94,
-        "laughCount": 161,
-        "likeCount": 1741,
+        "cryCount": 135,
+        "laughCount": 207,
+        "likeCount": 1663,
         "dislikeCount": 0,
-        "heartCount": 782,
-        "commentCount": 0
+        "heartCount": 773,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 2806130503,
-        "Model": "waiNSFWIllustrious_v150",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "befc694a29",
-          "lora:stuffy_ai_style_ilxl_v2_goofy": "e587791cf4c1"
-        },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:stuffy_ai_style_ilxl_v2_goofy:0.8>  erza scarlet, 1boy, bikini, black bikini, black skirt, breasts, brown eyes, cleavage, closed mouth, collarbone, floral print, floral print bikini, from below, hair over one eye, holding, holding sword, holding weapon, large breasts, long hair, looking at viewer, navel, pink background, print bikini, red hair, simple background, skirt, solo, standing, swimsuit, sword, weapon",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
+        "seed": 2101272376,
+        "draft": false,
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, very aesthetic, (from above:1.8), (library:1.8), (drunk:1.5), (asleep:1.6), (passed out:1.4), (library aisle:1.6), (between bookshelves:1.8), clean, (traditional:1.5),\na woman, cute perfect face, (asian:1.6), (on knees giving blowjob to viewer:1.8), French braid, very pretty, (long plaid skirt), (collared white shirt:1.2), white socks, black shoes, (blazer:1.4), (deep_skin:1.5), (pov blowjob:1.7), (round face:1.2), pretty, ((exposed breast, nipples, areola)) thick lips, cum on face, cum in hair, cum on ass, cum on body, cum in mouth, cum on clothes, (head grab), (running makeup),\n<lora:skin3_na_alpha2.5_rank2_noxattn_600steps:5.0>   <lora:natural_breasts_v1:3> <lora:body_weight_slider_v1:-1.2> <lora:amateur_style_v1_pony:1> <lora:Dramatic Lighting Slider:1.4>",
+        "process": "txt2img",
+        "sampler": "DPM++ SDE",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [
           {
-            "hash": "e587791cf4c1",
-            "name": "stuffy_ai_style_ilxl_v2_goofy",
+            "name": "skin3_na_alpha2.5_rank2_noxattn_600steps",
             "type": "lora",
-            "weight": 0.8
+            "weight": 5
           },
           {
-            "hash": "befc694a29",
-            "name": "waiNSFWIllustrious_v150",
-            "type": "model"
+            "name": "natural_breasts_v1",
+            "type": "lora",
+            "weight": 3
+          },
+          {
+            "name": "amateur_style_v1_pony",
+            "type": "lora",
+            "weight": 1
           }
         ],
-        "Model hash": "befc694a29",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "128",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-27T1032:14.1800988Z",
+        "experimental": false,
+        "negativePrompt": "low quality, worst quality, blurry, (deformed:1.3), extra fingers, cartoon, 3d, anime, bad anatomy, plaid shirt, (freckles:1.5), (moles:1.5), extra hand, extra limb, leather, pleather",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1643845
+          },
+          {
+            "type": "lora",
+            "weight": 1.85,
+            "modelVersionId": 1242203
+          },
+          {
+            "type": "lora",
+            "weight": 2.75,
+            "modelVersionId": 1594293
+          },
+          {
+            "type": "lora",
+            "weight": -1.45,
+            "modelVersionId": 1726985
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1374748
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 2007290
+          }
+        ]
       },
-      "username": "Goofy_Ai",
+      "username": "solumbragt355",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        2167369
+        1242203,
+        1374748,
+        1594293,
+        1643845,
+        1726985,
+        2007290
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1099|1758254011185",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1099%7C1758254011185"
+    "nextCursor": "1100|1733576545778",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1100%7C1733576545778"
   }
 }
