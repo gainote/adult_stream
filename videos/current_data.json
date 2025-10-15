@@ -1,114 +1,86 @@
 {
   "items": [
     {
-      "id": 44898542,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/224024a8-a26a-4890-a20c-ac1f8f3c62d9/original=true/224024a8-a26a-4890-a20c-ac1f8f3c62d9.jpeg",
-      "hash": "U8HL3%031iK+PX#PMclU01?DicENIBelw[wJ",
-      "width": 1280,
-      "height": 1856,
+      "id": 101730907,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ace974c6-14e9-4558-9bbc-886204bff7ff/original=true/ace974c6-14e9-4558-9bbc-886204bff7ff.jpeg",
+      "hash": "UNJrT.I@Ivxs{SxYw|jH;MWCnhafRkoJobWC",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-11T09:09:55.144Z",
-      "postId": 10175304,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-22T06:11:23.854Z",
+      "postId": 22567970,
       "stats": {
-        "cryCount": 77,
-        "laughCount": 144,
-        "likeCount": 1760,
+        "cryCount": 119,
+        "laughCount": 237,
+        "likeCount": 1737,
         "dislikeCount": 0,
-        "heartCount": 781,
-        "commentCount": 2
+        "heartCount": 665,
+        "commentCount": 1
       },
       "meta": {
-        "nsfw": true,
-        "seed": 1127387831,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:663229@742228",
-        "extra": {
-          "remixOfId": 44897285
-        },
-        "image": "https://orchestration.civitai.com/v2/consumer/blobs/RYEPFWWSB4AFJF7C68EKXNQP00",
-        "steps": 26,
+        "Size": "832x1216",
+        "seed": 1606653153,
+        "draft": false,
+        "steps": 40,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:663229@742228"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime, source_explicit,,best quality anime, intricate details,\ngirl, voluptuous body, dark eyes, black hair hair buns with bangs,\nwearing lavender bikini, tied-bikini-bottom,\nin water, sky background, \nside angle view, professional lighting, smiling, masturbating, hand over crotch, hand grabbing breast, \nSeraphine (KDA)",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "prompt": "18yo, hand drawing, 1girl, cute, random hair, blush, wink, ;3, holding a penis, sex, (body covered in gold leaf:1.8), hand-drawn style, (side_view:0.5), cleavage, perfect breasts, nude, gold leaf breasts, cum on breasts, vaginal penetration, cum in pussy,\nsinozick style, flat color, flat lighting, in the style of cksc, illustration,( mountainous valley in background:1.4), (volcano eruption:1.5), masterpiece, (extremely detailed CG 8k), (very fine 8K CG), (ultra detailed perfect piece:1.2), no lineart,,(no lineart, flat art style:1.0), NO_LINE_ART, comical, simple, cum, cum drip,( exposed breasts:1.1),( nipples:1.1),",
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "modelIds": [],
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-09-21T1521:44.9837111Z",
         "experimental": false,
-        "negativePrompt": "safe_neg, score_4, score_5, score_6, muscular, fury, child, kid, easynegative, extra fingers, monochrome, censored, logo, poorly drawn, blurry, realistic, muscular, aliasing, blur, worst-quality, bad, distorted fingers, low-quality, 3D, downsampling, bad, watermark,",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 742228
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 742228
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 453234
-          },
-          {
-            "modelVersionId": 250708
-          },
-          {
-            "modelVersionId": 250712
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 742228
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 1240288
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 453234
-          }
-        ],
-        "additionalResources": [
+            "weight": 0.9,
+            "modelVersionId": 1247042
+          },
           {
-            "name": "urn:air:sdxl:lora:civitai:406545@453234",
             "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
+            "weight": 0.35,
+            "modelVersionId": 481798
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1209350
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1380520
           }
         ]
       },
-      "username": "MatureOnly",
-      "baseModel": "Pony",
+      "username": "solumbragt355",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        164821,
-        453234,
-        742228
+        481798,
+        1209350,
+        1240288,
+        1247042,
+        1380520
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1117|1745596853125",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1117%7C1745596853125"
+    "nextCursor": "1118|1724355163068",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1118%7C1724355163068"
   }
 }
