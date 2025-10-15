@@ -1,119 +1,105 @@
 {
   "items": [
     {
-      "id": 18361403,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae9a716a-5865-4733-8ae1-94c4f2cac708/original=true/ae9a716a-5865-4733-8ae1-94c4f2cac708.jpeg",
-      "hash": "UCHAnqtS159Z0Pt8R6Mw$TR-~C%1KlIUtmxu",
+      "id": 91632872,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ca16e7b-aa4b-4edf-b26b-b33c3f3e3121/original=true/9ca16e7b-aa4b-4edf-b26b-b33c3f3e3121.jpeg",
+      "hash": "ULLqLjf,?wxaIpWBIot6KPV@DiRj8_of-;s:",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-07-04T04:13:26.430Z",
-      "postId": 4102156,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-02T04:00:00.000Z",
+      "postId": 20329395,
       "stats": {
-        "cryCount": 74,
-        "laughCount": 181,
-        "likeCount": 1520,
+        "cryCount": 143,
+        "laughCount": 207,
+        "likeCount": 1741,
         "dislikeCount": 0,
-        "heartCount": 959,
+        "heartCount": 641,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1965032659,
-        "steps": 29,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_cartoon, \nBREAK,  1girl, dynamic angle, kim possible, microbikini, pool, sitting on man, cock between thighs, sweat, thighjob, smirk, ponytail, legs pressed on cock",
+        "seed": 1883648295,
+        "draft": false,
+        "steps": 31,
+        "width": 832,
+        "height": 1216,
+        "prompt": "IllusP0s, realistic, detailed face, detailed eyes,[perfect anatomy], (full body), sitting, legs together, legs left, from below, shoes focus, smile BREAK 1girl, 24yo yuong female,hot, waifu,blue eyes, red lipstick, full lips, (big breasts:1.2), long hair, white hair BREAK red clothes, (t-shirt:1.3), [very detailed high heels],",
+        "process": "txt2img",
         "sampler": "Euler a",
         "cfgScale": 5,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-07-04T0408:18.1167242Z",
-        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-25T1001:16.7114955Z",
+        "experimental": false,
+        "negativePrompt": "IllusN3g,lazynsfw,((loli, short, childlike, teen), cum, thicc, chubby, fat), table, tables, extra_fingers, malformed_hands,text, logo, muscles, abs, breasts out, ears:1.4,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 2001227,
+            "modelVersionName": "PerfectDeliberate XL"
           },
           {
             "type": "embed",
             "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 1192359,
+            "modelVersionName": "IllusN3g"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 333587,
-            "modelVersionName": "Smooth 2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 438417,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 435140,
-            "modelVersionName": "Kim Possible (Pony)"
+            "weight": 4,
+            "modelVersionId": 1506032,
+            "modelVersionName": "Illustrious"
           },
           {
             "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "weight": 1,
+            "modelVersionId": 1860747,
+            "modelVersionName": "lazyneg v3"
           },
           {
             "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 1,
+            "modelVersionId": 1192334,
+            "modelVersionName": "IllusP0s"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 1601074,
+            "modelVersionName": "lazynsfw"
+          },
+          {
+            "type": "lora",
+            "weight": 3,
+            "modelVersionId": 1122976,
+            "modelVersionName": "v1.0 - Initial Release"
           }
         ]
       },
-      "username": "Bancin",
-      "baseModel": "Pony",
+      "username": "rekvuem_viktor",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        333587,
-        382152,
-        398847,
-        435140,
-        436219,
-        438417
+        1122976,
+        1192334,
+        1192359,
+        1506032,
+        1601074,
+        1860747,
+        2001227
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1144|1751070000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1144%7C1751070000000"
+    "nextCursor": "1145|1743786969925",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1145%7C1743786969925"
   }
 }
