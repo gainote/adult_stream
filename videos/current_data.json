@@ -1,72 +1,108 @@
 {
   "items": [
     {
-      "id": 98602444,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e24c5f15-3402-4790-a438-4058d6de6def/original=true/e24c5f15-3402-4790-a438-4058d6de6def.jpeg",
-      "hash": "UBD9VTtm1h_NOXAEo}-p4oad#QM{4TR5vzZ$",
-      "width": 1264,
-      "height": 1848,
-      "nsfwLevel": "Mature",
+      "id": 70108123,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/730ccfdc-21c6-4d8f-a76c-f1a39db63658/original=true/730ccfdc-21c6-4d8f-a76c-f1a39db63658.jpeg",
+      "hash": "U8Mg}301L#HV+0ZztS7z0M9a0}={L00~t7-U",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-09-05T23:38:07.051Z",
-      "postId": 21878213,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-15T04:30:00.000Z",
+      "postId": 15576434,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 132,
-        "likeCount": 1662,
+        "cryCount": 81,
+        "laughCount": 218,
+        "likeCount": 1678,
         "dislikeCount": 0,
-        "heartCount": 836,
-        "commentCount": 0
+        "heartCount": 750,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3889380621,
-        "Model": "Illustrij18",
+        "nsfw": true,
+        "seed": 2080838832,
+        "draft": false,
         "steps": 30,
-        "hashes": {
-          "model": "b64f34c6fd"
-        },
-        "prompt": "masterpiece, best quality, nails, face, retro,\nmature woman, solo,\nblue hair, pink hair, black hairline, messy hair, high ponytail, fox ears, thin hair, medium hair,  \nbrown eyes, \nskin pressed,\nruffled leg wear, dress, oversized top, headset, one side off the shoulder, thigh ribbon, \ncasual, arm on leg, half standing, half kneeling, leg bent, bent over, side boob, areola flasher, lace bra, thong,\nfeet focus, face focus,\ngentle, serene, blush,\nblack background, tilted background, neon colors, blue light,\ndim, rim-light,\nclose up, low angle, dynamic perspective, forced angle, gaming setup, wall,",
-        "Version": "f2.0.1v1.10.1-previous-626-ga332f7cc",
-        "sampler": "DPM++ 2M",
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:drake-nikke-richy-v1_ixl:1>,drakrnd, red eyes, short hair, white hair, single earring, hair ornament, medium breasts, grey mascara, puffy lips, glossy pink lipstick, 1girl, A digital illustration shoot from below (cowboy shot) about a young woman in a blue lace lingerie set, standing on a balcony with a sunset, fire red sky and palm trees in the background, on the middle of the image, a 1woman, is standing with her full body visible, looking directly at the viewer with a smug expression and an seductive smile, her slender physique and large breasts are accentuated by the pink lace bra and matching thong, which are low-waisted and see-through (visible labia) , she is wearing a pink choker necklace and has earrings hanging from her ears, her body is slim, and she has bare shoulders. the image has a bright and vibrant color palette, with a focus on the woman's figure. dynamic dutch angle, full body, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), blurry background, bright colors, stunningly artwork,",
+        "sampler": "DDIM",
         "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [
           {
-            "hash": "b64f34c6fd",
-            "name": "Illustrij18",
-            "type": "model"
+            "name": "drake-nikke-richy-v1_ixl",
+            "type": "lora",
+            "weight": 1
           }
         ],
-        "Model hash": "b64f34c6fd",
-        "Hires steps": "30",
-        "Hires upscale": "1.526",
-        "Original Size": "832x1216",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x_foolhardy_Remacri",
-        "negativePrompt": "worst quality, bad quality, young,",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "7",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "ADetailer mask blur": "4",
-        "Hires schedule type": "Karras",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "Created Date": "2025-04-14T1520:56.9548148Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1612720,
+            "modelVersionName": "v13.0"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1655107,
+            "modelVersionName": "drake-nikke-richy-v1_ixl"
+          }
+        ]
       },
-      "username": "reijlita",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        6056,
+        25820,
+        1056404,
+        1135769,
+        1373674,
+        1612720,
+        1655107
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1152|1744691400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1152%7C1744691400000"
+    "nextCursor": "1153|1754059813438",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1153%7C1754059813438"
   }
 }
