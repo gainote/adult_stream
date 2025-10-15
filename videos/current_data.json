@@ -1,115 +1,113 @@
 {
   "items": [
     {
-      "id": 71755786,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83231e8e-21b4-47c4-8889-188e7c67982f/original=true/83231e8e-21b4-47c4-8889-188e7c67982f.jpeg",
-      "hash": "UPN+*C~qCONHT0n6AW%Mn$%MtmS$t*WVX3X8",
+      "id": 35620548,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f35b8f7e-52d5-46e3-8b8f-eae4e39cbb7b/original=true/f35b8f7e-52d5-46e3-8b8f-eae4e39cbb7b.jpeg",
+      "hash": "UAD*hQ}@Boo}n49]IpsA0exC=cjYtm$%?GS#",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-23T06:30:00.000Z",
-      "postId": 15939177,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-23T17:54:59.651Z",
+      "postId": 8138631,
       "stats": {
-        "cryCount": 82,
-        "laughCount": 194,
-        "likeCount": 1693,
+        "cryCount": 93,
+        "laughCount": 170,
+        "likeCount": 1641,
         "dislikeCount": 0,
-        "heartCount": 796,
+        "heartCount": 859,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 231612201,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), Sylvia, large breasts, long hair, drill hair, pink hair, hair over one eye, blue eyes, large breasts, makeup, smokyeyes, lash, pink mascara, puffy lips, glossy pink lipstick, 1girl, 1 woman, solo, round breasts, outdoors, park, cowboy shot below, standing, looking at viewer, leaning forward, shiny skin, sweaty skin, tight white shirt, wet shirt, see through, no bra, short sleeves, extreme tight gym uniform, tight dolphin shorts, <lora:Upshorts-000011:1>, ((upshorts, pink thong, pink v-string under shorts, pink thong peek, pink thong shot, lace pink thong, see-through lace thong, underwear,((labia)) cameltoe, no bra, erected, buruma, close-up, pushing breasts together, naughty pose, smug smile, :3, with vibrant colors and detailed shading, giving the image a sense of depth and dimensionality, soft ambient glow, dramatic scenery, (blurry background, depth of field:1.1), erotic and aesthetic, the picture has an sexuel, alluring and erotic vibe, lascivious pose, foreshortening, dynamic dutch angle, shot from below, bright colors, stunningly artwork,",
-        "sampler": "DDIM",
-        "cfgScale": 7,
+        "seed": 3474642071,
+        "extra": {
+          "remixOfId": 35238700
+        },
+        "steps": 43,
+        "prompt": "(score_9, score_8_up, score_7_up), 1girl, , lingerie, stockings, perfect eyes, cute girl,\n1boy, ((selfie)), girl, sexy body, penis, vaginal, thick thighs, missionary, hands on another's thighs, blue hoodie, upside down,\nselfie view\nin bed\n(((((vaginal sex, orgasm, big natural boobs opened)))))",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "Upshorts-000011",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-04-22T1735:11.4748778Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "resources": [],
+        "Created Date": "2024-10-20T1515:42.8947040Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, elaborate clothing",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1617798,
-            "modelVersionName": "v2.1fix"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "embed",
             "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
             "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 106916,
             "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 439343,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1111018,
-            "modelVersionName": "Illustrious_v1.0"
           }
         ]
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "MUTAN1",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        6056,
-        25820,
-        439343,
-        1056404,
-        1111018,
-        1135769,
-        1373674,
-        1617798
+        9208,
+        135867,
+        239420,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1114|1742752499651",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1114%7C1742752499651"
+    "nextCursor": "1115|1751799600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1115%7C1751799600000"
   }
 }
