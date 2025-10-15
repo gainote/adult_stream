@@ -1,35 +1,204 @@
 {
   "items": [
     {
-      "id": 91615263,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/61915cdd-31fa-43a1-8c7f-af9881db044a/original=true/61915cdd-31fa-43a1-8c7f-af9881db044a.jpeg",
-      "hash": "UEF58J0MI;9toL%2IoNGV@E1~BWBNaRj-pae",
-      "width": 1664,
-      "height": 2496,
+      "id": 86163012,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/195945bd-88e9-44b3-900b-bc948566ad39/original=true/195945bd-88e9-44b3-900b-bc948566ad39.jpeg",
+      "hash": "UFIgD%0M~V$kEkNea$OFwHE2$%s;-;aeNGR+",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-08-01T14:50:13.438Z",
-      "postId": 20325409,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-04T05:30:00.000Z",
+      "postId": 19120436,
       "stats": {
-        "cryCount": 134,
-        "laughCount": 194,
-        "likeCount": 1652,
+        "cryCount": 105,
+        "laughCount": 178,
+        "likeCount": 1725,
         "dislikeCount": 0,
-        "heartCount": 746,
-        "commentCount": 1
+        "heartCount": 713,
+        "commentCount": 2
       },
       "meta": {
-        "prompt": "Masterpiece, (ultra-realistic), best quality, highly detailed, score_9, score_8_up, score_7_up, vivid colors, source_realistic:1.6, high contrast, dynamic light, warm glow, sharp outlines, rich details, Smooth Quality BREAK, 1girl, Tifa, "
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:827184@1761560",
+        "extra": {},
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:827184@1761560"
+        ],
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), ((petite body:1.6)), <lora:Roxana-Black List(cf)-Illus:1.8> Roxana-Black List, medium hair, black hair, jewelry, earrings, side swept bangs, purple eyes, medium breats, pink smokyeyes, lash, mascara, glossy pink lips, parted lips, firm petite shape, pink lips, \nA digital illustration shoot from a front camera angle about a young woman in a revealing outfit at sunset, standing in the middle of the image. the image also shows a serene and playful atmosphere, with a bright and colorful sky and ocean waves in the background. on the middle, a 20-year-old woman, wearing a tiny, white, see-through bikini ((coveres nipples)), ((covered labia,))  with ruffled edges, and a large white hat with a heart-shaped design. she has purple eyes and is looking directly at the viewer with a playful expression. her body is slim, and she is standing with one hand on her head and the other on her hip. she appears to be a young adult, and her facing direction is the viewer with seductive glint in her eyes. everything a little raunchy, with vibrant colors and detailed shading, giving the image a sense of depth and dimensionality, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, wide dutch angle, shot from above,",
+        "denoise": 0.5,
+        "process": "img2img",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-hires",
+        "baseModel": "Illustrious",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/3E2TE25XVFJYWH0ZPXHEKJCP80.jpeg",
+          "width": 832,
+          "height": 1216
+        },
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, ",
+        "civitaiResources": [
+          {
+            "weight": 1,
+            "modelVersionId": 1761560
+          },
+          {
+            "weight": 0.55,
+            "modelVersionId": 1598431
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 1193082
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1027964
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 211788
+          },
+          {
+            "weight": 0.45,
+            "modelVersionId": 135867
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1965282
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1598431
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1193082
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1027964
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 244808
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 211788
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 135867
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1965282
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:1414247@1598431",
+            "type": "lora",
+            "strength": 0.55,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:536084@1193082",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:918427@1027964",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:188573@211788",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:122359@135867",
+            "type": "lora",
+            "strength": 0.45,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1736508@1965282",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
+          }
+        ]
       },
-      "username": "kagemage",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        9208,
+        135867,
+        164821,
+        211788,
+        244808,
+        1027964,
+        1193082,
+        1598431,
+        1761560,
+        1965282
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1154|1751607000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1154%7C1751607000000"
+    "nextCursor": "1155|1747557807260",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1155%7C1747557807260"
   }
 }
