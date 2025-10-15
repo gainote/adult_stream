@@ -1,79 +1,170 @@
 {
   "items": [
     {
-      "id": 89046922,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8fb5a7e3-5e61-458e-90e5-9d1d2c59c155/original=true/8fb5a7e3-5e61-458e-90e5-9d1d2c59c155.jpeg",
-      "hash": "U4DuPOLD0g?EQ1-nIDSe039v[vRkvT]oEft5",
-      "width": 2688,
-      "height": 3840,
+      "id": 94544973,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cccd27c0-8abe-4e98-bc60-9a8d3702c4b8/original=true/cccd27c0-8abe-4e98-bc60-9a8d3702c4b8.jpeg",
+      "hash": "UaO:35jZ_MxuR;ozt3aeENRQ%Kxt%2WBRjs.",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-07-19T00:41:00.000Z",
-      "postId": 19754665,
+      "createdAt": "2025-08-16T05:10:10.952Z",
+      "postId": 20975863,
       "stats": {
-        "cryCount": 91,
-        "laughCount": 161,
-        "likeCount": 1689,
+        "cryCount": 106,
+        "laughCount": 191,
+        "likeCount": 1624,
         "dislikeCount": 0,
-        "heartCount": 797,
+        "heartCount": 814,
         "commentCount": 0
       },
       "meta": {
-        "seed": 2106385773,
-        "vaes": [],
-        "extra": {},
-        "steps": 26,
-        "models": [],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, (depth of field), outdoors, forest, tall grass,\n\n1girl, solo, beautiful, zerilol, green hair, amber/orange eyes, parted bangs, short hair, twintails, bandaid on cheek, topless, brown pants, belt, midriff, surprised, lying on ground, lying in grass, sweaty, pants down,\n\ncowboy shot, looking at viewer, view from above, faceless male, male pov, blowjob, hand on head, forced,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
-        "cfgScale": 3.5,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty",
-        "civitaiResources": [
+        "Size": "832x1216",
+        "seed": 2233495882,
+        "draft": false,
+        "extra": {
+          "remixOfId": 91980588
+        },
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "solo, 1girl, looking at viewer, bangs, purple hair, long hair, braids, hair between eyes, simple background, blue eyes, thick eyelashes, soft gaze, parted lips, pink lips, jewelry, earrings, necklace, arm tattoo, neck tattoo, hand tattoo, flower tattoo, spot color, hand up, pink nails, finger on chin, neutral color palette, semi-huge breasts, very large breasts, from front, (adult, mature:1.4), perfectly round breasts, nipples, underboob, slim, athletic, perfect body, flat stomach, narrow waist, naked stomach, sexy look, aroused, innie pussy, pubic tattoo, ((leaning in, leaning forward, bending over towards viewer)), standing, breast focus, breast grab, breast squeeze, expressive, sound effects, (fisheye effect, wide lens, wide angle), (complete psycho),\nvery awa, masterpiece, highres, absurdres, Flatline, Flat vector illustration, flat colors,\n<lora:veluflora-wai:0.7> vfaix, <lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>, <lora:a31_style_koni:0.6>, <lora:ag31_style_ba_v1:0.8>, <lora:96YOTTEA-WAI:0.55>, <lora:checkpoint-e18_s306:0.3>, <lora:XXX477:0.5>, <lora:round_breasts-IL-1.0:0.35>",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1490781
+            "name": "veluflora-wai",
+            "type": "lora",
+            "weight": 0.7
           },
           {
-            "weight": 0.8,
-            "modelVersionId": 1189052
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
+            "type": "lora",
+            "weight": 0.3
           },
           {
-            "weight": 0.5,
-            "modelVersionId": 1416874
+            "name": "noobai_ep11_stabilizer_v0.138_fp16",
+            "type": "lora",
+            "weight": 0.3
           },
           {
-            "weight": 0.9,
-            "modelVersionId": 1221880
+            "name": "ponyv6_noobV1_2_adamW",
+            "type": "lora",
+            "weight": 0.3
           },
           {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "name": "a31_style_koni",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "name": "ag31_style_ba_v1",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "name": "96YOTTEA-WAI",
+            "type": "lora",
+            "weight": 0.55
+          },
+          {
+            "name": "checkpoint-e18_s306",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "name": "XXX477",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "name": "round_breasts-IL-1.0",
+            "type": "lora",
+            "weight": 0.35
           }
         ],
-        "additionalResources": []
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-11T0125:31.9575088Z",
+        "experimental": false,
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.8,
+            "modelVersionId": 400010
+          },
+          {
+            "type": "lycoris",
+            "weight": 0.6,
+            "modelVersionId": 438698
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1082928
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 1145311
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1209350
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1247042
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 1308598
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1311785
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1356500
+          }
+        ]
       },
-      "username": "ElvishDreams",
+      "username": "swjun79666",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1189052,
-        1221880,
-        1416874,
-        1490781
+        400010,
+        438698,
+        1082928,
+        1145311,
+        1209350,
+        1247042,
+        1308598,
+        1311785,
+        1356500,
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1137|1755321010952",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1137%7C1755321010952"
+    "nextCursor": "1138|1744649136246",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1138%7C1744649136246"
   }
 }
