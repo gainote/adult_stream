@@ -1,105 +1,137 @@
 {
   "items": [
     {
-      "id": 91632872,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ca16e7b-aa4b-4edf-b26b-b33c3f3e3121/original=true/9ca16e7b-aa4b-4edf-b26b-b33c3f3e3121.jpeg",
-      "hash": "ULLqLjf,?wxaIpWBIot6KPV@DiRj8_of-;s:",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 67931478,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba397e93-6e0b-4766-aabe-ce90489650a4/original=true/ba397e93-6e0b-4766-aabe-ce90489650a4.jpeg",
+      "hash": "UIN9%yD%_N_2EzpIvfofS#Md+bofTKxukDa}",
+      "width": 1920,
+      "height": 2880,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-02T04:00:00.000Z",
-      "postId": 20329395,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-04T17:16:09.925Z",
+      "postId": 15100667,
       "stats": {
-        "cryCount": 143,
-        "laughCount": 207,
-        "likeCount": 1741,
+        "cryCount": 107,
+        "laughCount": 189,
+        "likeCount": 1626,
         "dislikeCount": 0,
-        "heartCount": 641,
+        "heartCount": 810,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1883648295,
-        "draft": false,
-        "steps": 31,
-        "width": 832,
-        "height": 1216,
-        "prompt": "IllusP0s, realistic, detailed face, detailed eyes,[perfect anatomy], (full body), sitting, legs together, legs left, from below, shoes focus, smile BREAK 1girl, 24yo yuong female,hot, waifu,blue eyes, red lipstick, full lips, (big breasts:1.2), long hair, white hair BREAK red clothes, (t-shirt:1.3), [very detailed high heels],",
-        "process": "txt2img",
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 296272984,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 85,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
+          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
+        },
+        "prompt": "score_9, score_8_up, score_7_up,\n (groin gap:1.5), 1girl, solo,aqua hair, brown eyes, (bangs:1.5), straight hair, very long hair,  close up, hoop earrings, young girl,\ntopless, nipples,  black thong, highleg, lace-trimmed thong, bare stomach,  looking at viewer, groin, thin thong, from below, arms up, \n(large breasts:1.5), (head tilt), (twisted torso), \ncowboy shot,\nlight smile, parted lips,\nurushihara satoshi style, JabarandP, dim lighting, backlighting,\nabstract background, white curtains, blurry background, pale skin,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>,  <lora:bra_embellishments_enhancer_XL_v01a:0.8>,   <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-25T1001:16.7114955Z",
-        "experimental": false,
-        "negativePrompt": "IllusN3g,lazynsfw,((loli, short, childlike, teen), cum, thicc, chubby, fat), table, tables, extra_fingers, malformed_hands,text, logo, muscles, abs, breasts out, ears:1.4,",
-        "civitaiResources": [
+        "TI hashes": {
+          "unaestheticXL_Alb2": "6c1c4cfa35e9"
+        },
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 2001227,
-            "modelVersionName": "PerfectDeliberate XL"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1192359,
-            "modelVersionName": "IllusN3g"
-          },
-          {
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
             "type": "lora",
-            "weight": 4,
-            "modelVersionId": 1506032,
-            "modelVersionName": "Illustrious"
+            "weight": 0.35
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1860747,
-            "modelVersionName": "lazyneg v3"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1192334,
-            "modelVersionName": "IllusP0s"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 1601074,
-            "modelVersionName": "lazynsfw"
-          },
-          {
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
             "type": "lora",
-            "weight": 3,
-            "modelVersionId": 1122976,
-            "modelVersionName": "v1.0 - Initial Release"
+            "weight": 0.15
+          },
+          {
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
+            "type": "lora",
+            "weight": 0.2
+          },
+          {
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "9d22b7ef3974",
+            "name": "bra_embellishments_enhancer_XL_v01a",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "25",
+        "Hires upscale": "2",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "shirt, undressing,  multiple thong straps,  bed,  (forehead:1.5),  beard, (plant:1.5), leaf:1.5, 6fingers, (lace straps:1.5),  visible veins, visible thread veins, suit, blue bra, two-tone bra, 2navel, realistic,  interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, hairpin, bag, pencil, sunglasses,",
+        "Denoising strength": "0.02"
       },
-      "username": "rekvuem_viktor",
-      "baseModel": "Illustrious",
+      "username": "ceii0502382",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1122976,
-        1192334,
-        1192359,
-        1506032,
-        1601074,
-        1860747,
-        2001227
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1145|1743786969925",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1145%7C1743786969925"
+    "nextCursor": "1146|1759022100000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1146%7C1759022100000"
   }
 }
