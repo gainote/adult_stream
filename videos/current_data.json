@@ -1,108 +1,35 @@
 {
   "items": [
     {
-      "id": 70108123,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/730ccfdc-21c6-4d8f-a76c-f1a39db63658/original=true/730ccfdc-21c6-4d8f-a76c-f1a39db63658.jpeg",
-      "hash": "U8Mg}301L#HV+0ZztS7z0M9a0}={L00~t7-U",
-      "width": 832,
-      "height": 1216,
+      "id": 91615263,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/61915cdd-31fa-43a1-8c7f-af9881db044a/original=true/61915cdd-31fa-43a1-8c7f-af9881db044a.jpeg",
+      "hash": "UEF58J0MI;9toL%2IoNGV@E1~BWBNaRj-pae",
+      "width": 1664,
+      "height": 2496,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-15T04:30:00.000Z",
-      "postId": 15576434,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-01T14:50:13.438Z",
+      "postId": 20325409,
       "stats": {
-        "cryCount": 81,
-        "laughCount": 218,
-        "likeCount": 1678,
+        "cryCount": 134,
+        "laughCount": 194,
+        "likeCount": 1652,
         "dislikeCount": 0,
-        "heartCount": 750,
+        "heartCount": 746,
         "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 2080838832,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:drake-nikke-richy-v1_ixl:1>,drakrnd, red eyes, short hair, white hair, single earring, hair ornament, medium breasts, grey mascara, puffy lips, glossy pink lipstick, 1girl, A digital illustration shoot from below (cowboy shot) about a young woman in a blue lace lingerie set, standing on a balcony with a sunset, fire red sky and palm trees in the background, on the middle of the image, a 1woman, is standing with her full body visible, looking directly at the viewer with a smug expression and an seductive smile, her slender physique and large breasts are accentuated by the pink lace bra and matching thong, which are low-waisted and see-through (visible labia) , she is wearing a pink choker necklace and has earrings hanging from her ears, her body is slim, and she has bare shoulders. the image has a bright and vibrant color palette, with a focus on the woman's figure. dynamic dutch angle, full body, soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), blurry background, bright colors, stunningly artwork,",
-        "sampler": "DDIM",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "drake-nikke-richy-v1_ixl",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-04-14T1520:56.9548148Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1612720,
-            "modelVersionName": "v13.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1655107,
-            "modelVersionName": "drake-nikke-richy-v1_ixl"
-          }
-        ]
+        "prompt": "Masterpiece, (ultra-realistic), best quality, highly detailed, score_9, score_8_up, score_7_up, vivid colors, source_realistic:1.6, high contrast, dynamic light, warm glow, sharp outlines, rich details, Smooth Quality BREAK, 1girl, Tifa, "
       },
-      "username": "Chimi83",
+      "username": "kagemage",
       "baseModel": "Illustrious",
-      "modelVersionIds": [
-        6056,
-        25820,
-        1056404,
-        1135769,
-        1373674,
-        1612720,
-        1655107
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1153|1754059813438",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1153%7C1754059813438"
+    "nextCursor": "1154|1751607000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1154%7C1751607000000"
   }
 }
