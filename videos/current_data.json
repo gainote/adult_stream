@@ -1,79 +1,79 @@
 {
   "items": [
     {
-      "id": 80740124,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a7cdb1e9-b01d-48cf-a2fb-125f603486c4/original=true/a7cdb1e9-b01d-48cf-a2fb-125f603486c4.jpeg",
-      "hash": "UCMiyYv}02~Vx9M}01?H0eso?coIkq9Z4o.7",
-      "width": 1248,
-      "height": 1824,
+      "id": 89046922,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8fb5a7e3-5e61-458e-90e5-9d1d2c59c155/original=true/8fb5a7e3-5e61-458e-90e5-9d1d2c59c155.jpeg",
+      "hash": "U4DuPOLD0g?EQ1-nIDSe039v[vRkvT]oEft5",
+      "width": 2688,
+      "height": 3840,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-06-06T12:56:05.887Z",
-      "postId": 17933296,
+      "createdAt": "2025-07-19T00:41:00.000Z",
+      "postId": 19754665,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 196,
-        "likeCount": 1579,
+        "cryCount": 91,
+        "laughCount": 161,
+        "likeCount": 1689,
         "dislikeCount": 0,
-        "heartCount": 867,
-        "commentCount": 2
+        "heartCount": 797,
+        "commentCount": 0
       },
       "meta": {
-        "": {},
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "1248x1824",
-        "seed": 2189649943,
-        "Model": "prefect_illustrious_XL_2.1.fp16",
-        "steps": 30,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "9d73bac23a"
-        },
-        "prompt": "masterpiece,best quality,amazing quality,absurdres, BREAK\ndarkness \\(konosuba\\), 1boy, 1girl, abs, ahegao, arm held back, blonde hair, blush, breasts, completely nude, doggystyle, fucked silly, hetero, large breasts, long hair, naughty face, nipples, nude, open mouth, rolling eyes, sex, sex from behind, smile, tears, vaginal, wet",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "{Method": {},
-        "Emphasis": "No norm",
-        "Upscaler": {},
-        "cfgScale": 5,
-        "resources": [
+        "seed": 2106385773,
+        "vaes": [],
+        "extra": {},
+        "steps": 26,
+        "models": [],
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, DISNEY_ANIMATION, incoth, (incase:0.6), female, (depth of field), outdoors, forest, tall grass,\n\n1girl, solo, beautiful, zerilol, green hair, amber/orange eyes, parted bangs, short hair, twintails, bandaid on cheek, topless, brown pants, belt, midriff, surprised, lying on ground, lying in grass, sweaty, pants down,\n\ncowboy shot, looking at viewer, view from above, faceless male, male pov, blowjob, hand on head, forced,",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 3.5,
+        "modelIds": [],
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "bad quality, worst quality, worst detail, sketch, signature, watermark, username, patreon, child, busty",
+        "civitaiResources": [
           {
-            "hash": "9d73bac23a",
-            "name": "prefect_illustrious_XL_2.1.fp16",
-            "type": "model"
+            "weight": 1,
+            "modelVersionId": 1490781
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1416874
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 1221880
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ],
-        "Model hash": "9d73bac23a",
-        "Tile Overlap": "48",
-        "Schedule type": "Karras",
-        "Upscale factor": "1.5",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,artist name,signature, watermark, patreon username,",
-        "ADetailer model": "yolov11m-face.pt",
-        "Keep input size": "true}",
-        "Tile batch size": "7",
-        "Tile tile width": "192",
-        "Tiled Diffusion": {},
-        "Tile tile height": "192",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Tiled Diffusion upscaler": "4x-UltraSharp",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "Tiled Diffusion scale factor": "1.5",
-        "ADetailer inpaint only masked": "True"
+        "additionalResources": []
       },
-      "username": "Goofy_Ai",
+      "username": "ElvishDreams",
       "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        164821,
+        1189052,
+        1221880,
+        1416874,
+        1490781
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1136|1752885660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1136%7C1752885660000"
+    "nextCursor": "1137|1755321010952",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1137%7C1755321010952"
   }
 }
