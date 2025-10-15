@@ -1,130 +1,107 @@
 {
   "items": [
     {
-      "id": 100108631,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b75eeeb4-83a9-4b06-98eb-9af39e9cb3bc/original=true/b75eeeb4-83a9-4b06-98eb-9af39e9cb3bc.jpeg",
-      "hash": "UGK]+a9^0$~B0000IUxB00?I?H-Uo#-pxZxv",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
+      "id": 59767255,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb4af144-4594-4a11-b288-140123ab9f2b/original=true/eb4af144-4594-4a11-b288-140123ab9f2b.jpeg",
+      "hash": "UENb+QQ-_4Z%?IbDW-r@01ELVsM{Dhx]M{M{",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-14T00:41:00.000Z",
-      "postId": 22208068,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-24T06:30:00.000Z",
+      "postId": 13365485,
       "stats": {
-        "cryCount": 126,
-        "laughCount": 207,
-        "likeCount": 1607,
+        "cryCount": 80,
+        "laughCount": 177,
+        "likeCount": 1766,
         "dislikeCount": 0,
-        "heartCount": 826,
-        "commentCount": 0
+        "heartCount": 743,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1976952498,
-        "Model": "JANKUV5NSFWTrainedNoobaiEPS_v50",
+        "nsfw": true,
+        "seed": 1273381334,
+        "draft": false,
         "steps": 30,
-        "prompt": "1girl,beautiful face, perfect eyes, detailed eyes,(mature female:1.4),\nkitagawa marin,\ndutch angle, overhead view,\nlarge breasts,\nchoker,naked,breast press,\nblush, looking at viewer,happy, open mouth, closed eyes, hand on own cheek, \nafter sex, after vaginal, spread legs, spread pussy, \n,indicate details,(foreshortening:1.4),dark background, dark hotel room,\nmasterpiece,best quality,amazing quality,newest,absurdres,highres, newest,very awa,\n<lora:lighting_v2>\n<lora:114558v4df2fsdf5:0.4> 15546+456868, <lora:fashiongirl-v1-ILXL:1> <lora:CunnyfunkyV7.0:0.5>,    <lora:0__11Xx:0.55> 0__11Xx_illu",
-        "Version": "f2.0.1v1.10.1-1.10.1",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "resources": [
-          {
-            "name": "114558v4df2fsdf5",
-            "type": "lora",
-            "weight": 0.4
-          },
-          {
-            "name": "fashiongirl-v1-ILXL",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "name": "CunnyfunkyV7.0",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "name": "0__11Xx",
-            "type": "lora",
-            "weight": 0.55
-          }
-        ],
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Karras",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x_IllustrationJaNai_V1_DAT2_190k",
-        "negativePrompt": "(worst quality, bad quality:1.2),low quality,simple background,transparent,logo,text,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,bad hands,bad fingers,child, loli, symbol-shaped pupils,lips,pov",
-        "ADetailer model": "face_yolov8s.pt",
-        "Hires CFG Scale": "5",
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, ((ecchi)), (finely detailed face), (petite body:1.3), 1girl, solo, purple eyes, bangs, short ponytail, large breasts, fake animal ears, fake cat ears, fake tail, 1girl, garter straps, underwear, ass, cat girl, all fours, thighhighs, panties, white legwear, animal, animal ear fluff, puffy sleeves, frills, white panties, breasts, white hair, solo, looking at viewer, open mouth, puffy lips, glossy lips, garter belt, puffy short sleeves, white strapy stiletto heels, pink theme, pink decorated room, looking back, aroused expression, nose bluse, holding her on a leash, Viewer Holding Leash, SILK LEASH, pet play, all fours, pet play, paw pose, no shoes, thighhighs, underwear, white panties, white legwear, panties, legs, garter belt, garter straps, view from side, ecchi,, blurry soft ambient glow, dramatic scenery, intricate details, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, aroused, dynamic dutch angle, from above, blurry background, bright colors, stunningly artwork,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-02-23T0905:14.5513737Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1896532
+            "modelVersionId": 1379960,
+            "modelVersionName": "v1.0"
           },
           {
-            "type": "lora",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 1967210
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
           },
           {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1195582
-          },
-          {
-            "type": "lycoris",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 1420683
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1920055
+            "weight": 0.45,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1348455
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.5",
-        "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "hand_yolov8s.pt",
-        "ADetailer steps 2nd": "30",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer confidence 2nd": "0.15",
-        "ADetailer inpaint padding": "32",
-        "ADetailer dilate erode 2nd": "4",
-        "ADetailer inpaint width 2nd": "1024",
-        "ADetailer denoising strength": "0.3",
-        "ADetailer inpaint height 2nd": "1024",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer denoising strength 2nd": "0.3",
-        "ADetailer use separate steps 2nd": "True",
-        "ADetailer inpaint only masked 2nd": "True",
-        "ADetailer use inpaint width height 2nd": "True"
+        ]
       },
-      "username": "Bunnykiin",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1195582,
-        1348455,
-        1420683,
-        1896532,
-        1920055,
-        1967210
+        6056,
+        25820,
+        1056404,
+        1135769,
+        1373674,
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1112|1740378600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1112%7C1740378600000"
+    "nextCursor": "1113|1745389800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1113%7C1745389800000"
   }
 }
