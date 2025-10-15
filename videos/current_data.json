@@ -1,134 +1,125 @@
 {
   "items": [
     {
-      "id": 65105515,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b704baab-e138-4129-a0f8-1031d0031e82/original=true/b704baab-e138-4129-a0f8-1031d0031e82.jpeg",
-      "hash": "UFMZH@.8PB-poH4.MdxZ00?v_2xa~q-;_3i_",
-      "width": 1872,
-      "height": 2808,
+      "id": 27014076,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/12178d36-56b6-4cba-be67-e2a177f9b9b2/original=true/12178d36-56b6-4cba-be67-e2a177f9b9b2.jpeg",
+      "hash": "U7I4O=007zK700?biw4.3?9Z^kxC00pw_2#7",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-03-22T13:08:00.229Z",
-      "postId": 14502546,
+      "browsingLevel": 16,
+      "createdAt": "2024-08-31T07:54:41.579Z",
+      "postId": 6042637,
       "stats": {
-        "cryCount": 83,
-        "laughCount": 173,
-        "likeCount": 1640,
+        "cryCount": 106,
+        "laughCount": 185,
+        "likeCount": 1520,
         "dislikeCount": 0,
-        "heartCount": 876,
+        "heartCount": 960,
         "commentCount": 0
       },
       "meta": {
-        "ENSD": "31337",
-        "Size": "960x1440",
-        "seed": 2404139377,
-        "Model": "ceiiMixPDXL_v12",
-        "steps": 76,
-        "hashes": {
-          "model": "ce1fb6ae27",
-          "lora:Implants2": "1b5cfb81f113",
-          "lora:JabarandP": "bbf700d6fb1f",
-          "lora:flyx3_XL_PONY": "73d3eeff35f0",
-          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
-          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
-          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
-          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
-          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
-          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
-          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
-        },
-        "prompt": "score_9, score_8_up, score_7_up,\n1girl, solo, black hair, brown eyes, straight hair,  long hair, bangs, lace-trimmed thighhighs, white thighhighs, head out of frame, close up, close up ass,\ncompletely nude, nipples,\nlarge breasts,\nlight smile, parted lips,  twisted torso, head tilt, pussy, from below, on floor, wooden floor, lying, on back,\nblurry background, abstract background, backlighting, dim lighting,   white wall, arms up, \nurushihara satoshi style, JabarandP,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>, <lora:bra_embellishments_enhancer_XL_v01a:0.8>, <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
-        "Version": "v1.6.0",
+        "Size": "832x1216",
+        "seed": 2061266836,
+        "steps": 50,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, 2d, 1girl Anna with long ginger hair in braids, (extra huge big round boobs:1.5), (big round butt:1.5), very skinny waist and belly, multiple boys, female, short, (boy:1.6), (huge dark black skin boy with large penis:1.3), dark-skinned muscular male fucking girl hardcore, cheating, anal sex, sex from behind, top down bottom up, (large penis:1.4), (ntr), ntred, walk-in, (shiny skin), caught, (cross-eyed:1.5), (eyes bulging:1.4), (drooling:1.4), (cum dripping from mouth:1.3), <lora:NTR:1>, (ahegao face:1.3),\n(Boob squeeze:1.4), (ass ripples:1.4), white shirt ripped open, pulled down jeans, pulled down red thong, lifted pink hoodie, (hair pulled back:1.4),",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 3.5,
         "clipSkip": 2,
         "resources": [
           {
-            "hash": "7ad45cc8bb23",
-            "name": "woman_consistency_v2-loha",
+            "name": "NTR",
             "type": "lora",
-            "weight": 0.35
-          },
-          {
-            "hash": "1f179d534e0a",
-            "name": "HerrscherAGGA2024_SJ_Style_V1",
-            "type": "lora",
-            "weight": 0.15
-          },
-          {
-            "hash": "bbf700d6fb1f",
-            "name": "JabarandP",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "hash": "fe4dcbd1435d",
-            "name": "Sinozick_Style_XL_Pony",
-            "type": "lora",
-            "weight": 0.2
-          },
-          {
-            "hash": "73d3eeff35f0",
-            "name": "flyx3_XL_PONY",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "02e51928d5e9",
-            "name": "Pivix_PLayboy_Style",
-            "type": "lora",
-            "weight": 0.1
-          },
-          {
-            "hash": "9d22b7ef3974",
-            "name": "bra_embellishments_enhancer_XL_v01a",
-            "type": "lora",
-            "weight": 0.8
-          },
-          {
-            "hash": "1b5cfb81f113",
-            "name": "Implants2",
-            "type": "lora",
-            "weight": 0.5
-          },
-          {
-            "hash": "1fa409cfa4bd",
-            "name": "super lora_flyx3_XL_PONY",
-            "type": "lora"
-          },
-          {
-            "hash": "ce1fb6ae27",
-            "name": "ceiiMixPDXL_v12",
-            "type": "model"
+            "weight": 1
           }
         ],
-        "Model hash": "ce1fb6ae27",
-        "Hires steps": "31",
-        "Hires upscale": "1.95",
-        "Hires upscaler": "4x-UltraSharp",
-        "negativePrompt": "(hand on floor:1.5), door, bed:1.5, 6fingers, furniture, sitting, nipples, forehead, 2navel,  two-tone bra, hair ornament, amputated penis, realistic,  abs, interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, (hairpin), pubic hair, plant:1.5,",
-        "Denoising strength": "0.02"
+        "Created Date": "2024-08-30T0901:50.5857112Z",
+        "negativePrompt": "source_furry, source_pony, monochrome,3d,(mole), aidxlv05_neg, (censored), looking at viewer, (straight shota), shota, size difference, starfish",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 324619,
+            "modelVersionName": "AutismMix_pony"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 504032,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 449028,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 426797,
+            "modelVersionName": "Dramatic lighting v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 583431,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 471570,
+            "modelVersionName": "ahegao XL-v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 403986,
+            "modelVersionName": "Pony XL"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
       },
-      "username": "ceii0502382",
+      "username": "SlapperMePlease",
       "baseModel": "Pony",
       "modelVersionIds": [
-        327968,
-        363593,
-        479455,
-        481798,
-        533690,
-        552788,
-        556026,
-        564399,
-        596072,
-        728486
+        244808,
+        324619,
+        382152,
+        403986,
+        426797,
+        449028,
+        471570,
+        504032,
+        583431
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1106|1725090881579",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1106%7C1725090881579"
+    "nextCursor": "1107|1752539820000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1107%7C1752539820000"
   }
 }
