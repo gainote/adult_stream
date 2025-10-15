@@ -1,85 +1,119 @@
 {
   "items": [
     {
-      "id": 59359060,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/665cb1bd-e245-4b6e-aae2-e2b5d9835a98/original=true/665cb1bd-e245-4b6e-aae2-e2b5d9835a98.jpeg",
-      "hash": "UGK,H6wz9a~TNE9|?G$~4:-:IqIo5U9u9aNI",
+      "id": 18361403,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae9a716a-5865-4733-8ae1-94c4f2cac708/original=true/ae9a716a-5865-4733-8ae1-94c4f2cac708.jpeg",
+      "hash": "UCHAnqtS159Z0Pt8R6Mw$TR-~C%1KlIUtmxu",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-22T08:11:00.000Z",
-      "postId": 13278420,
+      "browsingLevel": 8,
+      "createdAt": "2024-07-04T04:13:26.430Z",
+      "postId": 4102156,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 193,
-        "likeCount": 1654,
+        "cryCount": 74,
+        "laughCount": 181,
+        "likeCount": 1520,
         "dislikeCount": 0,
-        "heartCount": 795,
+        "heartCount": 959,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1397814252,
-        "steps": 30,
-        "prompt": "masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject, artist:moriimee, BREAK masterpiece, best quality, good quality, very aesthetic, absurdres, newest, 8K, depth of field, focused subject, in the style of cknc, artist:moriimee, in the style of cksc, BREAK woman in library, bangs, long hair, woollen of-the-shoulder sweater, standing sex against bokshelves, 1man 1woman, vaginal suspended congress sex, tights pulled down, skirtlift, naked ass, viewed from side, female orgasm, eye closed, dynamic, ejaculation, hrtdrp, Hearts Drips,, directional lighting, silhouetted, chiascuro",
+        "seed": 1965032659,
+        "steps": 29,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up,source_cartoon, \nBREAK,  1girl, dynamic angle, kim possible, microbikini, pool, sitting on man, cock between thighs, sweat, thighjob, smirk, ponytail, legs pressed on cock",
         "sampler": "Euler a",
         "cfgScale": 5,
         "clipSkip": 2,
         "resources": [],
-        "Created Date": "2025-02-21T1021:54.1622189Z",
-        "negativePrompt": "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry, patreon, text, artist name, artist signature",
+        "Created Date": "2024-07-04T0408:18.1167242Z",
+        "negativePrompt": "score_4, score_5, score_6, (lesbians),futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, easynegative,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, messy, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1240288,
-            "modelVersionName": "v1.3 - Style A"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1374798,
-            "modelVersionName": "Dripheartcherij \ud83d\udc9e"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "embed",
             "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 333587,
+            "modelVersionName": "Smooth 2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 438417,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 435140,
+            "modelVersionName": "Kim Possible (Pony)"
+          },
+          {
+            "type": "embed",
             "modelVersionId": 250708,
             "modelVersionName": "safe_pos"
           },
           {
             "type": "embed",
-            "weight": 1,
             "modelVersionId": 250712,
             "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "Stu43",
-      "baseModel": "Illustrious",
+      "username": "Bancin",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1240288,
-        1244133,
-        1374798
+        9208,
+        244808,
+        290640,
+        333587,
+        382152,
+        398847,
+        435140,
+        436219,
+        438417
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1143|1720066406430",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1143%7C1720066406430"
+    "nextCursor": "1144|1751070000000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1144%7C1751070000000"
   }
 }
