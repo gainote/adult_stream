@@ -1,77 +1,105 @@
 {
   "items": [
     {
-      "id": 79156373,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc20bec0-1359-4cc0-939c-e8e43c4df83e/original=true/cc20bec0-1359-4cc0-939c-e8e43c4df83e.jpeg",
-      "hash": "URO3RqWB%#s8%$_Ns8IU%Mx]IAM_-;xuofS4",
-      "width": 1248,
-      "height": 1824,
+      "id": 65323466,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/753a4400-2cd6-4612-99f7-eb81dfa9b3fb/original=true/753a4400-2cd6-4612-99f7-eb81dfa9b3fb.jpeg",
+      "hash": "UHH1e[xu?^?GKi#k%1RjD$,:ibadR5%MRiSi",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-05-29T08:59:57.574Z",
-      "postId": 17585252,
+      "browsingLevel": 16,
+      "createdAt": "2025-03-23T12:09:58.415Z",
+      "postId": 14547823,
       "stats": {
-        "cryCount": 98,
-        "laughCount": 175,
-        "likeCount": 1622,
+        "cryCount": 93,
+        "laughCount": 179,
+        "likeCount": 1634,
         "dislikeCount": 0,
-        "heartCount": 879,
+        "heartCount": 866,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 819576072,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:micro_panties_ilxl_goofy": "e4826680f903"
+        "nsfw": false,
+        "seed": 112912004,
+        "draft": false,
+        "extra": {
+          "remixOfId": 61200526
         },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:micro_panties_ilxl_goofy:1>micro panties, 1girl, breasts, solo, jewelry, short hair, earrings, sweat, brown eyes, brown hair, panties, white background, simple background, underwear, navel, blush, open mouth, looking at viewer, huge breasts, female pubic hair, covered nipples, thighs",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
+        "steps": 34,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up,1girl,Chel,eldorado,hourglass body,thin waist,wide hips,perky breasts,light makeup\nBREAK\nNude\nBREAK\ng0thicPXL,s1_dram\nBREAK \non a bed,Aztec royal bedroom in the jungle,background view on the jungle during a sunset\nBREAK\ndeepthroat,lips on cock,kneeling,pov,facefuck,motion lines,motion blue,sound effects,lots of saliva,thick saliva,saliva on cock,head grab, big lips, parted lips, little face, long lips, young face, young",
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-03-23T1203:45.9504239Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects)",
+        "civitaiResources": [
           {
-            "hash": "e4826680f903",
-            "name": "micro_panties_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1346181,
+            "modelVersionName": "v8"
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 556208,
+            "modelVersionName": "Insta Baddie[PONY]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 596040,
+            "modelVersionName": "V1"
+          },
+          {
+            "type": "lora",
+            "weight": 2.1,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1184250,
+            "modelVersionName": "RSGRL - V2"
           }
-        ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "yolov11m-face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "Akdhdkeoueh",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1379960
+        382152,
+        534756,
+        556208,
+        596040,
+        1184250,
+        1242203,
+        1346181
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1104|1742731798415",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1104%7C1742731798415"
+    "nextCursor": "1105|1742648880229",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1105%7C1742648880229"
   }
 }
