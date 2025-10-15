@@ -1,106 +1,76 @@
 {
   "items": [
     {
-      "id": 43087978,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de3a3239-4054-4787-a7ca-a64bab9698fc/original=true/de3a3239-4054-4787-a7ca-a64bab9698fc.jpeg",
-      "hash": "U4DR4:NG1I}@Or^5R*xa0z-URjjZtQsAIpof",
-      "width": 832,
-      "height": 1216,
+      "id": 98132380,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/18e65af1-ab1f-4e89-bf8b-61b0e5d5822c/original=true/18e65af1-ab1f-4e89-bf8b-61b0e5d5822c.jpeg",
+      "hash": "UEI|?+EKs,=|GGE1o~-;NEm,_ND*O?M{SOM{",
+      "width": 1600,
+      "height": 2400,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-01T11:25:07.916Z",
-      "postId": 9801232,
+      "browsingLevel": 8,
+      "createdAt": "2025-09-04T09:46:53.996Z",
+      "postId": 21772724,
       "stats": {
-        "cryCount": 68,
-        "laughCount": 156,
-        "likeCount": 1612,
+        "cryCount": 96,
+        "laughCount": 193,
+        "likeCount": 1736,
         "dislikeCount": 0,
-        "heartCount": 920,
-        "commentCount": 2
+        "heartCount": 731,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 833211304,
-        "draft": false,
-        "steps": 35,
-        "width": 832,
-        "height": 1216,
-        "prompt": "Ultra-detailed, 32k, 4k, (score_9, score_8_up, score_7_up, very tiny woman, 19yo, pale skin girl, long blonde hair, pale skin girl, short, petite, 3girls, 2 different girls, 1girl waiting her turn, black hair, brown hair, brown eyes, ((oiled skin)), green eyes, medium large teardrop breasts, (1man), looking up, petite, flat stomach, gigantic penis, deepthroat fellatio, size difference, pink bedroom, girly decorations, penis stretching out cheek in mouth, bright lighting, sunny day, vaginal sex, pleasure face, rough sex, pussy, blue eyes, cute, pussy juice, cum drip, saliva, groping breast,",
-        "sampler": "DPM2 a",
+        "TI": {},
+        "Size": "832x1248",
+        "seed": 48377887,
+        "Model": "CyberRealisticPony_V13.0_FP32",
+        "steps": 30,
+        "prompt": "SDXL_olivrodcs, high quality, ultra-detailed, realistic, photorealism, realistic textures, cinematic composition, young woman, lying casually on couch, colourful pillows, cozy living room, plants, relaxed pose, oversized white sweater, pink cotton panties, soft skin, listening to music, large headphones, calm immersed expression, cozy intimate atmosphere, warm lighting, dreamy mood, natural sensuality, peaceful music vibe, lifestyle-inspired portrait",
+        "Version": "f2.0.1v1.10.1-previous-669-gdfdcbab6",
+        "sampler": "DPM++ 2M SDE",
         "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-11-28T1828:06.0116771Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          }
-        ]
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_NickelbackFS_72000_G",
+        "Skip Early CFG": "0.25",
+        "negativePrompt": "(worst quality:1.2), (low quality:1.2), lowres, bad anatomy, bad hands, watermark",
+        "ADetailer model": "face_yolov9c.pt",
+        "ADetailer steps": "40",
+        "Hires CFG Scale": "4",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.35",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "hand_yolov8n.pt",
+        "ADetailer steps 2nd": "40",
+        "ADetailer confidence": "0.3",
+        "ADetailer prompt 2nd": "perfect hand",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.3",
+        "ADetailer inpaint padding": "32",
+        "ADetailer mask only top k": "1",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer denoising strength": "0.5",
+        "ADetailer use separate steps": "True",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer mask only top k 2nd": "2",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer use separate steps 2nd": "True",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer method to decide top k masks": "Area",
+        "ADetailer method to decide top k masks 2nd": "Area"
       },
-      "username": "fixerskorch877",
+      "username": "Cyberdelia",
       "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        398847,
-        436219
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1121|1756979213996",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1121%7C1756979213996"
+    "nextCursor": "1122|1759809728048",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1122%7C1759809728048"
   }
 }
