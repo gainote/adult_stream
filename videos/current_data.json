@@ -1,102 +1,77 @@
 {
   "items": [
     {
-      "id": 100452220,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08fe95a1-b35e-4ae8-8497-fb484de60167/original=true/08fe95a1-b35e-4ae8-8497-fb484de60167.jpeg",
-      "hash": "UEC$lz?H0f^+~Vof9u%200NG-:IV01%1?HD*",
-      "width": 1280,
-      "height": 1856,
+      "id": 79156373,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc20bec0-1359-4cc0-939c-e8e43c4df83e/original=true/cc20bec0-1359-4cc0-939c-e8e43c4df83e.jpeg",
+      "hash": "URO3RqWB%#s8%$_Ns8IU%Mx]IAM_-;xuofS4",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-15T10:23:22.443Z",
-      "postId": 22285623,
+      "browsingLevel": 8,
+      "createdAt": "2025-05-29T08:59:57.574Z",
+      "postId": 17585252,
       "stats": {
-        "cryCount": 100,
-        "laughCount": 204,
-        "likeCount": 1647,
+        "cryCount": 98,
+        "laughCount": 175,
+        "likeCount": 1622,
         "dislikeCount": 0,
-        "heartCount": 825,
+        "heartCount": 879,
         "commentCount": 0
       },
       "meta": {
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {},
-        "steps": 40,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, amazing composition, blonde hair,large breasts, facial, hetero, 1girl, grabbing, grabbing another's breast, nipples, 1boy,head_out of frame, parted_lips, simple nun habit,slight blur,",
-        "denoise": 0.4,
-        "process": "img2img",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "txt2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,",
-        "civitaiResources": [
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 819576072,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:micro_panties_ilxl_goofy": "e4826680f903"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:micro_panties_ilxl_goofy:1>micro panties, 1girl, breasts, solo, jewelry, short hair, earrings, sweat, brown eyes, brown hair, panties, white background, simple background, underwear, navel, blush, open mouth, looking at viewer, huge breasts, female pubic hair, covered nipples, thighs",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
+            "hash": "e4826680f903",
+            "name": "micro_panties_ilxl_goofy",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 145907
+            "weight": 1
           },
           {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 959419
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 1036362
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.5,
-            "modelVersionId": 1219983
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 2209882
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "yolov11m-face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Twisted314b",
+      "username": "Goofy_Ai",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        164821,
-        959419,
-        1036362,
-        1219983,
-        1240288,
-        2209882
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1103|1748509197574",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1103%7C1748509197574"
+    "nextCursor": "1104|1742731798415",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1104%7C1742731798415"
   }
 }
