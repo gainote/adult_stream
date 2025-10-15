@@ -1,105 +1,134 @@
 {
   "items": [
     {
-      "id": 65323466,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/753a4400-2cd6-4612-99f7-eb81dfa9b3fb/original=true/753a4400-2cd6-4612-99f7-eb81dfa9b3fb.jpeg",
-      "hash": "UHH1e[xu?^?GKi#k%1RjD$,:ibadR5%MRiSi",
-      "width": 832,
-      "height": 1216,
+      "id": 65105515,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b704baab-e138-4129-a0f8-1031d0031e82/original=true/b704baab-e138-4129-a0f8-1031d0031e82.jpeg",
+      "hash": "UFMZH@.8PB-poH4.MdxZ00?v_2xa~q-;_3i_",
+      "width": 1872,
+      "height": 2808,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-23T12:09:58.415Z",
-      "postId": 14547823,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-22T13:08:00.229Z",
+      "postId": 14502546,
       "stats": {
-        "cryCount": 93,
-        "laughCount": 179,
-        "likeCount": 1634,
+        "cryCount": 83,
+        "laughCount": 173,
+        "likeCount": 1640,
         "dislikeCount": 0,
-        "heartCount": 866,
+        "heartCount": 876,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 112912004,
-        "draft": false,
-        "extra": {
-          "remixOfId": 61200526
+        "ENSD": "31337",
+        "Size": "960x1440",
+        "seed": 2404139377,
+        "Model": "ceiiMixPDXL_v12",
+        "steps": 76,
+        "hashes": {
+          "model": "ce1fb6ae27",
+          "lora:Implants2": "1b5cfb81f113",
+          "lora:JabarandP": "bbf700d6fb1f",
+          "lora:flyx3_XL_PONY": "73d3eeff35f0",
+          "embed:unaestheticXL_Alb2": "6c1c4cfa35",
+          "lora:Pivix_PLayboy_Style": "02e51928d5e9",
+          "lora:Sinozick_Style_XL_Pony": "fe4dcbd1435d",
+          "lora:super lora_flyx3_XL_PONY": "1fa409cfa4bd",
+          "lora:woman_consistency_v2-loha": "7ad45cc8bb23",
+          "lora:HerrscherAGGA2024_SJ_Style_V1": "1f179d534e0a",
+          "lora:bra_embellishments_enhancer_XL_v01a": "9d22b7ef3974"
         },
-        "steps": 34,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up,1girl,Chel,eldorado,hourglass body,thin waist,wide hips,perky breasts,light makeup\nBREAK\nNude\nBREAK\ng0thicPXL,s1_dram\nBREAK \non a bed,Aztec royal bedroom in the jungle,background view on the jungle during a sunset\nBREAK\ndeepthroat,lips on cock,kneeling,pov,facefuck,motion lines,motion blue,sound effects,lots of saliva,thick saliva,saliva on cock,head grab, big lips, parted lips, little face, long lips, young face, young",
+        "prompt": "score_9, score_8_up, score_7_up,\n1girl, solo, black hair, brown eyes, straight hair,  long hair, bangs, lace-trimmed thighhighs, white thighhighs, head out of frame, close up, close up ass,\ncompletely nude, nipples,\nlarge breasts,\nlight smile, parted lips,  twisted torso, head tilt, pussy, from below, on floor, wooden floor, lying, on back,\nblurry background, abstract background, backlighting, dim lighting,   white wall, arms up, \nurushihara satoshi style, JabarandP,\n<lora:woman_consistency_v2-loha:0.35>, <lora:super lora_flyx3_XL_PONY:0.35>, <lora:HerrscherAGGA2024_SJ_Style_V1:0.15>, <lora:JabarandP:0.2>, <lora:Sinozick_Style_XL_Pony:0.2>, <lora:flyx3_XL_PONY:0.1>, <lora:Pivix_PLayboy_Style:0.1>, <lora:bra_embellishments_enhancer_XL_v01a:0.8>, <lora:Implants2:0.5> breast implants, fake tits, unaligned breasts, perfectly round breasts",
+        "Version": "v1.6.0",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-03-23T1203:45.9504239Z",
-        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects)",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1346181,
-            "modelVersionName": "v8"
+            "hash": "7ad45cc8bb23",
+            "name": "woman_consistency_v2-loha",
+            "type": "lora",
+            "weight": 0.35
           },
           {
+            "hash": "1f179d534e0a",
+            "name": "HerrscherAGGA2024_SJ_Style_V1",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.15
           },
           {
+            "hash": "bbf700d6fb1f",
+            "name": "JabarandP",
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 534756,
-            "modelVersionName": "Rough (V1)"
+            "weight": 0.2
           },
           {
+            "hash": "fe4dcbd1435d",
+            "name": "Sinozick_Style_XL_Pony",
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 556208,
-            "modelVersionName": "Insta Baddie[PONY]"
+            "weight": 0.2
           },
           {
+            "hash": "73d3eeff35f0",
+            "name": "flyx3_XL_PONY",
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 596040,
-            "modelVersionName": "V1"
+            "weight": 0.1
           },
           {
+            "hash": "02e51928d5e9",
+            "name": "Pivix_PLayboy_Style",
             "type": "lora",
-            "weight": 2.1,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
+            "weight": 0.1
           },
           {
+            "hash": "9d22b7ef3974",
+            "name": "bra_embellishments_enhancer_XL_v01a",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1184250,
-            "modelVersionName": "RSGRL - V2"
+            "weight": 0.8
+          },
+          {
+            "hash": "1b5cfb81f113",
+            "name": "Implants2",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "1fa409cfa4bd",
+            "name": "super lora_flyx3_XL_PONY",
+            "type": "lora"
+          },
+          {
+            "hash": "ce1fb6ae27",
+            "name": "ceiiMixPDXL_v12",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "ce1fb6ae27",
+        "Hires steps": "31",
+        "Hires upscale": "1.95",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "(hand on floor:1.5), door, bed:1.5, 6fingers, furniture, sitting, nipples, forehead, 2navel,  two-tone bra, hair ornament, amputated penis, realistic,  abs, interlocked fingers, monochrome,  unaestheticXL_Alb2, greyscale, source_pony, worst quality, low quality, normal quality, lowres, bad anatomy, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, painting by bad-artist, earrings, (hairpin), pubic hair, plant:1.5,",
+        "Denoising strength": "0.02"
       },
-      "username": "Akdhdkeoueh",
+      "username": "ceii0502382",
       "baseModel": "Pony",
       "modelVersionIds": [
-        382152,
-        534756,
-        556208,
-        596040,
-        1184250,
-        1242203,
-        1346181
+        327968,
+        363593,
+        479455,
+        481798,
+        533690,
+        552788,
+        556026,
+        564399,
+        596072,
+        728486
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1105|1742648880229",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1105%7C1742648880229"
+    "nextCursor": "1106|1725090881579",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1106%7C1725090881579"
   }
 }
