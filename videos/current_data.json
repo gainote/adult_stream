@@ -1,123 +1,74 @@
 {
   "items": [
     {
-      "id": 43200033,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f81cdbe7-1a20-4e9b-8439-0a10a6ba0d2f/original=true/f81cdbe7-1a20-4e9b-8439-0a10a6ba0d2f.jpeg",
-      "hash": "U3D9I^1R00n40gQ-rW0}00^*_N%14TIp~Ws8",
-      "width": 832,
-      "height": 1216,
+      "id": 48532299,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8985f81d-26f6-4fb3-a44e-eea451507a09/original=true/8985f81d-26f6-4fb3-a44e-eea451507a09.jpeg",
+      "hash": "UAH^CZ,:000$0i#m^iEg01s:~VaKD%WVJA-o",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-09-19T04:02:20.163Z",
-      "postId": 9825457,
+      "createdAt": "2025-01-10T00:25:00.000Z",
+      "postId": 10940325,
       "stats": {
-        "cryCount": 136,
-        "laughCount": 239,
-        "likeCount": 1630,
+        "cryCount": 93,
+        "laughCount": 162,
+        "likeCount": 1681,
         "dislikeCount": 0,
-        "heartCount": 779,
-        "commentCount": 0
+        "heartCount": 843,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 107838957,
-        "draft": false,
-        "extra": {
-          "remixOfId": 42042131
+        "Size": "512x768",
+        "seed": 2068936576,
+        "Model": "re-mixmain.fp16",
+        "steps": 30,
+        "hashes": {
+          "model": "25657b43ea"
         },
-        "steps": 26,
-        "width": 832,
-        "height": 1216,
-        "prompt": "embedding:urn:air:sd1:embedding:civitai:222256@250708, score_9, score_8_up, (((Super high quality, ultra hd, masterpiece))), perfect face, perfect body,1 girl, drawn style, colorful slime, slime girl, ((((see through body)))), long hair, (transparent), transparent body,(cum), big breasts, nude, (sex), ((( penis visible))), outdoors, overcast weather, moonlight, cute, 1boy, human male, ((deepthroat)), adult, (1 penis), masterpiece, moon rays, cinematic, ((transparent girl)), beautiful, sexy, (penis between breasts:1.7), ejaculation",
+        "prompt": "1girl, breasts, glasses, tongue, hetero, 1boy, pov, ass, tongue out, fingering, red-framed eyewear, id card, cleavage, large breasts, anal fingering, sex, looking at viewer, open mouth, black hair, solo focus, anal, cum, long hair, indoors, sweat, saliva, keyboard \\(computer\\), from above, bottomless, lanyard, shirt, bra, desk, blush, pussy juice, zPDXL3, detailxl,  Score_PnyReal, (lineless:1.5)",
+        "Version": "f0.0.17v1.8.0rc-latest-277-g0af28699",
         "sampler": "Euler a",
-        "cfgScale": 4,
+        "cfgScale": 7,
         "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2024-12-01T1733:32.7058815Z",
-        "fluxUltraRaw": false,
-        "negativePrompt": "embedding:urn:air:sd1:embedding:civitai:99890@106916, embedding:urn:air:sd1:embedding:civitai:222256@250712, score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, extra dicks, fat, chuby, extra dicks, ((opaque girl))",
-        "civitaiResources": [
+        "TI hashes": {
+          "zPDXL3": "1727c6cddf61",
+          "detailxl": "cad765d41c8a",
+          "Score_PnyReal": "63e618ba9fc7"
+        },
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 390898,
-            "modelVersionName": "v1.0 [Pony]"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 501402,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.05,
-            "modelVersionId": 792953,
-            "modelVersionName": "slime ver2"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "25657b43ea",
+            "name": "re-mixmain.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "25657b43ea",
+        "Hires prompt": {},
+        "Hires upscale": "2",
+        "Hires upscaler": "None",
+        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,  half-closed eyes,  facial marks,",
+        "ADetailer model": "face_yolov8n.pt",
+        "ADetailer version": "24.5.1",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "8",
+        "ADetailer denoising strength": "0.25",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "solumbragt355",
+      "username": "phinjo",
       "baseModel": "Pony",
       "modelVersionIds": [
-        239420,
-        290640,
-        382152,
-        390898,
-        398847,
-        436219,
-        501402,
-        792953
+        1116628
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1097|1736468700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1097%7C1736468700000"
+    "nextCursor": "1098|1757893796433",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1098%7C1757893796433"
   }
 }
