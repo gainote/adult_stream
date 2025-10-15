@@ -1,126 +1,80 @@
 {
   "items": [
     {
-      "id": 48276582,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b5de6fd-5adb-40f1-9c10-aa8344031e64/original=true/3b5de6fd-5adb-40f1-9c10-aa8344031e64.jpeg",
-      "hash": "UAH^@b00y?H?GH00K6EM$*?G9aSdE1-:-7kC",
+      "id": 97015750,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05781f6b-5451-4d28-ade1-f034d0501977/original=true/05781f6b-5451-4d28-ade1-f034d0501977.jpeg",
+      "hash": "UGKJuv|=5r]#pv[.^P,.0$s;%Lwv-;xaIVxZ",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-29T08:06:54.200Z",
-      "postId": 10884937,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-15T02:24:13.054Z",
+      "postId": 21520484,
       "stats": {
-        "cryCount": 78,
-        "laughCount": 146,
-        "likeCount": 1732,
+        "cryCount": 130,
+        "laughCount": 207,
+        "likeCount": 1687,
         "dislikeCount": 0,
-        "heartCount": 789,
+        "heartCount": 720,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 571182321,
+        "seed": 1618898372,
         "draft": false,
-        "steps": 32,
+        "steps": 19,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, solo, extreme detail, Masterpiece, Best Quality, beautiful, high res image, rating_explicit, ",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, masterpiece, best quality, amazing quality, 1girl, cum in hair, cum on face, cum on body, cum in pussy, vaginal penetration, creative scene, detailed scene, narrative storytelling, Hawaiian, Tropical, (on a surfboard:1.6), (in water:1.4), surf trip, (group), stereotype",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 3.5,
         "clipSkip": 2,
-        "quantity": 2,
+        "quantity": 4,
         "workflow": "txt2img",
         "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-12-29T0644:37.1547746Z",
-        "negativePrompt": "source_pony, source_furry, source_cartoon, score_3, score_2, score_1, bad hands, worst quality, low quality, bad anatomy, bad proportions, censored, bar censor, mosaic censoring, extra legs, deformed anatomy, messy color, 3d, deformed fingers, distracted, jpeg artifacts, ugly, 6 fingers, extra limb, missing limb, floating limbs, watermark, patreon, patreon logo, patreon username, extra hands, bad fingers, wrong fingers, cross eyed, easynegative,",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-22T0119:01.4630463Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, futanari, (large breasts:0.3),  ugly face, mutated hands, low res, blurry face, watermark, title, signature, hairy pussy, NegativeDynamics, negative_hand, monochrome, chibi, hair in a bun, black and white",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 983142,
-            "modelVersionName": "v1.4-pony"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 98441,
-            "modelVersionName": "V2"
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 128461,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1.15,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 298238
           },
           {
             "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 298238,
-            "modelVersionName": "Smooth Anime"
+            "modelVersionId": 378950
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 421754
           }
         ]
       },
-      "username": "vovkkabanko",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        98441,
-        128461,
-        135867,
         290640,
         298238,
-        382152,
-        436219,
-        983142
+        378950,
+        421754
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1133|1757903053054",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1133%7C1757903053054"
+    "nextCursor": "1134|1719485031669",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1134%7C1719485031669"
   }
 }
