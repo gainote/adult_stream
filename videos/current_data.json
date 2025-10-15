@@ -1,80 +1,77 @@
 {
   "items": [
     {
-      "id": 97015750,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05781f6b-5451-4d28-ade1-f034d0501977/original=true/05781f6b-5451-4d28-ade1-f034d0501977.jpeg",
-      "hash": "UGKJuv|=5r]#pv[.^P,.0$s;%Lwv-;xaIVxZ",
+      "id": 17410596,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e37ca33-45ad-4c2d-b4d7-a4add76756a8/original=true/6e37ca33-45ad-4c2d-b4d7-a4add76756a8.jpeg",
+      "hash": "U9H-AMwI0000.7wI_24n0L0f_2R*~WNb9G-V",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-09-15T02:24:13.054Z",
-      "postId": 21520484,
+      "createdAt": "2024-06-27T10:43:51.669Z",
+      "postId": 3900323,
       "stats": {
-        "cryCount": 130,
-        "laughCount": 207,
-        "likeCount": 1687,
+        "cryCount": 86,
+        "laughCount": 217,
+        "likeCount": 1504,
         "dislikeCount": 0,
-        "heartCount": 720,
-        "commentCount": 0
+        "heartCount": 938,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1618898372,
-        "draft": false,
-        "steps": 19,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, masterpiece, best quality, amazing quality, 1girl, cum in hair, cum on face, cum on body, cum in pussy, vaginal penetration, creative scene, detailed scene, narrative storytelling, Hawaiian, Tropical, (on a surfboard:1.6), (in water:1.4), surf trip, (group), stereotype",
-        "process": "txt2img",
+        "seed": 1587365569,
+        "steps": 50,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, kawai girl , cute face, shy, nose blush, mouth taped, (((mouth covered))), (((mouth taped)))), big breast ,  nipples , topless , hands raised , seat belt bondage , sitting in car seat, arm raised, boob focus , car , side portrait , boob focus , pov , breast grab , breast fondle , inside car",
         "sampler": "Euler a",
-        "cfgScale": 3.5,
+        "cfgScale": 3,
         "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
         "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-22T0119:01.4630463Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, futanari, (large breasts:0.3),  ugly face, mutated hands, low res, blurry face, watermark, title, signature, hairy pussy, NegativeDynamics, negative_hand, monochrome, chibi, hair in a bun, black and white",
+        "Created Date": "2024-06-27T1041:28.6371817Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face,((tattoos))",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640
+            "modelVersionId": 534642,
+            "modelVersionName": "v2.1 Main + VAE"
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 298238
+            "modelVersionId": 466475,
+            "modelVersionName": "For Pony v0.2"
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 378950
+            "weight": 0.8,
+            "modelVersionId": 522995,
+            "modelVersionName": "Pony"
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 421754
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "solumbragt355",
+      "username": "Ninjada",
       "baseModel": "Pony",
       "modelVersionIds": [
-        290640,
-        298238,
-        378950,
-        421754
+        466475,
+        522995,
+        534642
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1134|1719485031669",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1134%7C1719485031669"
+    "nextCursor": "1135|1749214565887",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1135%7C1749214565887"
   }
 }
