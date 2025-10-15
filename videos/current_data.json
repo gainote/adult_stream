@@ -1,36 +1,44 @@
 {
   "items": [
     {
-      "id": 16282302,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7264d1a-a822-4954-ac9c-caf42b8dcd36/original=true/c7264d1a-a822-4954-ac9c-caf42b8dcd36.jpeg",
-      "hash": "U7Fpyv~pu3x]0OAc=zNy1K=x$*-U^i}q5kX5",
+      "id": 43087978,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de3a3239-4054-4787-a7ca-a64bab9698fc/original=true/de3a3239-4054-4787-a7ca-a64bab9698fc.jpeg",
+      "hash": "U4DR4:NG1I}@Or^5R*xa0z-URjjZtQsAIpof",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-06-18T22:24:09.563Z",
-      "postId": 3644808,
+      "createdAt": "2024-12-01T11:25:07.916Z",
+      "postId": 9801232,
       "stats": {
-        "cryCount": 65,
-        "laughCount": 148,
-        "likeCount": 1492,
+        "cryCount": 68,
+        "laughCount": 156,
+        "likeCount": 1612,
         "dislikeCount": 0,
-        "heartCount": 1053,
-        "commentCount": 0
+        "heartCount": 920,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 756782053,
-        "steps": 40,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, 2girls, princess Anna and Elsa frozen, cunnilingus, Anna lying on back, Elsa eating Anna\u2019s pussy, extra fine realistic hair, light tan, medium breasts, in bed, close up, jewelry, earrings, small pale pink nipples, legs spread, royal bedchambers, arendelle castle, fireplace in background, legs, feet, soft texture, rating_explicit, moaning, half dressed, topless, bare tits, teardrop breasts, wet pussy, full body shot, semi-realistic, source_pixar animation, young:1.2",
-        "sampler": "Euler a",
+        "nsfw": true,
+        "seed": 833211304,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "Ultra-detailed, 32k, 4k, (score_9, score_8_up, score_7_up, very tiny woman, 19yo, pale skin girl, long blonde hair, pale skin girl, short, petite, 3girls, 2 different girls, 1girl waiting her turn, black hair, brown hair, brown eyes, ((oiled skin)), green eyes, medium large teardrop breasts, (1man), looking up, petite, flat stomach, gigantic penis, deepthroat fellatio, size difference, pink bedroom, girly decorations, penis stretching out cheek in mouth, bright lighting, sunny day, vaginal sex, pleasure face, rough sex, pussy, blue eyes, cute, pussy juice, cum drip, saliva, groping breast,",
+        "sampler": "DPM2 a",
         "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-06-18T1654:40.9096280Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, shiny, blurry face, black and white, muscular female, flat chested, pale skin,",
+        "Created Date": "2024-11-28T1828:06.0116771Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
@@ -39,57 +47,60 @@
           },
           {
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 354128,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 2,
+            "weight": 0.45,
             "modelVersionId": 382152,
             "modelVersionName": "ExpressiveH"
           },
           {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
             "type": "lora",
-            "weight": 0.3,
+            "weight": 0.35,
             "modelVersionId": 398847,
             "modelVersionName": "gothic neon v1.0"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 491364,
-            "modelVersionName": "Darcom v1.0"
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "screwball808",
+      "username": "fixerskorch877",
       "baseModel": "Pony",
       "modelVersionIds": [
-        135867,
+        9208,
         244808,
         290640,
-        354128,
         382152,
         398847,
-        491364
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1120|1733052307916",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1120%7C1733052307916"
+    "nextCursor": "1121|1756979213996",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1121%7C1756979213996"
   }
 }
