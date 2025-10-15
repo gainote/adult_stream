@@ -1,166 +1,102 @@
 {
   "items": [
     {
-      "id": 77694725,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2482202b-ce8e-42d0-b150-c02749eb18cc/original=true/2482202b-ce8e-42d0-b150-c02749eb18cc.jpeg",
-      "hash": "UDDlG^~VS3?GNH-o%L-:E1oe^%o#~V?HkCR*",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 69342469,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a4d43f61-f5a3-427a-b6f5-55841b1d822a/original=true/a4d43f61-f5a3-427a-b6f5-55841b1d822a.jpeg",
+      "hash": "UGF#]*?FPA+sUHIUx^I9pwoI%2M_RkwHENNH",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-22T00:40:00.000Z",
-      "postId": 17257954,
+      "browsingLevel": 16,
+      "createdAt": "2025-04-11T09:44:45.059Z",
+      "postId": 15405984,
       "stats": {
-        "cryCount": 74,
-        "laughCount": 154,
-        "likeCount": 1596,
+        "cryCount": 110,
+        "laughCount": 191,
+        "likeCount": 1585,
         "dislikeCount": 0,
-        "heartCount": 922,
-        "commentCount": 2
+        "heartCount": 859,
+        "commentCount": 1
       },
       "meta": {
+        "Size": "832x1216",
         "nsfw": false,
-        "seed": 1967229469,
-        "vaes": [
-          "urn:air:sdxl:vae:civitai:296576@333245"
-        ],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1412827@1643845",
-        "extra": {},
-        "steps": 25,
+        "seed": 1425972716,
+        "draft": false,
+        "steps": 40,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1412827@1643845"
-        ],
-        "prompt": "(from side:0.4), (from above:0.2) 1girl, Mid twenties, fit and tanned, strong shoulders, perfect posture, long ginger hair, medium saggy breasts, (arm under breasts), sauna, sweat, laying , translucent hair, nude, wet hair. looking at viewer, [seductive smile, closed mouth, dimples]. reddit, low quality, traditional media, amateur, real life photo, raw, film grain, dappled light",
-        "denoise": 0.4,
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3.5,
+        "prompt": "score_9,score_8_up,score_8,score_9, pastel colors, high contrast ,expressiveh, epiCPhoto,\nBREAK,\n1girl, solo,asian, blue eyes, black hair, long hair, freckles, pale skin, small chest, thighs, petite, thigh socks, black bra, blue tipped hair,\nBREAK,\nall fours, looking at viewer, POV, deepthroat, threesome,large penis,penis on ass, cumshot, 2boys, spitroast, \nBREAK,",
+        "sampler": "Euler a",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-hires",
-        "baseModel": "Illustrious",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/4ZZ0R4TQ5AKNPBF29A3ZR23420.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "(Loli, underage, child, kid, moe, small breasts, flat chest, medium-breasts, sagging-breasts, fat, obese, tan-lines:1.5), asymmetrical-eyes, mismatched eyes, deformed eyes, (turkey-neck:1.2)",
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-04-05T1521:37.8151547Z",
+        "negativePrompt": "(3d, render, cgi, doll, painting, fake, 3d modeling:1.4), (worst quality, low quality:1.4), old, deformed, malformed, bad hands, bad fingers, bad eyes, bad teeth, long body, blurry, duplicated, cloned, duplicate body parts, disfigured, extra limbs, fused fingers, extra fingers, twisted, distorted, malformed hands, malformed fingers, mutated hands and fingers, conjoined, missing limbs, bad anatomy, bad proportions, logo, watermark, text, lowres, mutated, mutilated, blend, artifacts, gross, ugly, depth of field, asian, face defects)",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1643845
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1643845
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 1594293
-          },
-          {
-            "weight": 2.9,
-            "modelVersionId": 1681921
-          },
-          {
-            "weight": 2.05,
-            "modelVersionId": 1726904
-          },
-          {
-            "weight": 1.35,
-            "modelVersionId": 1242203
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1643845
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "vae",
-            "modelVersionId": 333245
+            "modelVersionId": 1346181,
+            "modelVersionName": "v8"
           },
           {
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1594293
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
             "type": "lora",
-            "weight": 2.9,
-            "modelVersionId": 1681921
+            "weight": 0.3,
+            "modelVersionId": 534756,
+            "modelVersionName": "Rough (V1)"
           },
           {
             "type": "lora",
-            "weight": 2.05,
-            "modelVersionId": 1726904
+            "weight": 1,
+            "modelVersionId": 556208,
+            "modelVersionName": "Insta Baddie[PONY]"
           },
           {
             "type": "lora",
-            "weight": 1.35,
-            "modelVersionId": 1242203
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1410317@1594293",
-            "type": "lora",
-            "strength": 0.9,
-            "strengthClip": 1
+            "weight": 0.6,
+            "modelVersionId": 596040,
+            "modelVersionName": "V1"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1486921@1681921",
             "type": "lora",
-            "strength": 2.9,
-            "strengthClip": 1
+            "weight": 0.5,
+            "modelVersionId": 1184250,
+            "modelVersionName": "RSGRL - V2"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:1526286@1726904",
             "type": "lora",
-            "strength": 2.05,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1105685@1242203",
-            "type": "lora",
-            "strength": 1.35,
-            "strengthClip": 1
+            "weight": 2.1,
+            "modelVersionId": 1242203,
+            "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "0dang",
-      "baseModel": "Illustrious",
+      "username": "Akdhdkeoueh",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        164821,
-        333245,
+        382152,
+        534756,
+        556208,
+        596040,
+        1184250,
         1242203,
-        1594293,
-        1643845,
-        1681921,
-        1726904
+        1346181
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1131|1744364685059",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1131%7C1744364685059"
+    "nextCursor": "1132|1735459614200",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1132%7C1735459614200"
   }
 }
