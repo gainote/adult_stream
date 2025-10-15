@@ -1,90 +1,130 @@
 {
   "items": [
     {
-      "id": 59436168,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c1a3a54-a494-4b9e-a811-62ab42de9ba1/original=true/2c1a3a54-a494-4b9e-a811-62ab42de9ba1.jpeg",
-      "hash": "U35F8-Ql1$t-c[wIE*S$IBSh-UxCDNo~-TRO",
-      "width": 1344,
-      "height": 2240,
-      "nsfwLevel": "Mature",
+      "id": 100108631,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b75eeeb4-83a9-4b06-98eb-9af39e9cb3bc/original=true/b75eeeb4-83a9-4b06-98eb-9af39e9cb3bc.jpeg",
+      "hash": "UGK]+a9^0$~B0000IUxB00?I?H-Uo#-pxZxv",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-23T20:30:00.000Z",
-      "postId": 13295668,
+      "browsingLevel": 16,
+      "createdAt": "2025-09-14T00:41:00.000Z",
+      "postId": 22208068,
       "stats": {
-        "cryCount": 111,
-        "laughCount": 194,
-        "likeCount": 1743,
+        "cryCount": 126,
+        "laughCount": 207,
+        "likeCount": 1607,
         "dislikeCount": 0,
-        "heartCount": 719,
+        "heartCount": 826,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 203955460514502,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
+        "Size": "832x1216",
+        "seed": 1976952498,
+        "Model": "JANKUV5NSFWTrainedNoobaiEPS_v50",
         "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, black latex bodysuit, arms up, bound wrists, under tree, bound, bound arms, bound legs, bound torso, bondage, womb tattoo, shibari over clothes, outdoors, (void portal below:1.2), slime pool, (summoning circle:1.2), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
+        "prompt": "1girl,beautiful face, perfect eyes, detailed eyes,(mature female:1.4),\nkitagawa marin,\ndutch angle, overhead view,\nlarge breasts,\nchoker,naked,breast press,\nblush, looking at viewer,happy, open mouth, closed eyes, hand on own cheek, \nafter sex, after vaginal, spread legs, spread pussy, \n,indicate details,(foreshortening:1.4),dark background, dark hotel room,\nmasterpiece,best quality,amazing quality,newest,absurdres,highres, newest,very awa,\n<lora:lighting_v2>\n<lora:114558v4df2fsdf5:0.4> 15546+456868, <lora:fashiongirl-v1-ILXL:1> <lora:CunnyfunkyV7.0:0.5>,    <lora:0__11Xx:0.55> 0__11Xx_illu",
+        "Version": "f2.0.1v1.10.1-1.10.1",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "resources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "name": "114558v4df2fsdf5",
+            "type": "lora",
+            "weight": 0.4
+          },
+          {
+            "name": "fashiongirl-v1-ILXL",
             "type": "lora",
             "weight": 1
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
+            "name": "CunnyfunkyV7.0",
             "type": "lora",
-            "weight": 1
+            "weight": 0.5
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "name": "0__11Xx",
             "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
-          },
-          {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
+            "weight": 0.55
           }
         ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, symmetry, floating particles, sunlight"
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_IllustrationJaNai_V1_DAT2_190k",
+        "negativePrompt": "(worst quality, bad quality:1.2),low quality,simple background,transparent,logo,text,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,bad hands,bad fingers,child, loli, symbol-shaped pupils,lips,pov",
+        "ADetailer model": "face_yolov8s.pt",
+        "Hires CFG Scale": "5",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1896532
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1967210
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1195582
+          },
+          {
+            "type": "lycoris",
+            "weight": 1,
+            "modelVersionId": 1420683
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1920055
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1348455
+          }
+        ],
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.5",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "hand_yolov8s.pt",
+        "ADetailer steps 2nd": "30",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.15",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer inpaint width 2nd": "1024",
+        "ADetailer denoising strength": "0.3",
+        "ADetailer inpaint height 2nd": "1024",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer denoising strength 2nd": "0.3",
+        "ADetailer use separate steps 2nd": "True",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer use inpaint width height 2nd": "True"
       },
-      "username": "Marland_C",
+      "username": "Bunnykiin",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1345990,
-        1284348,
-        567119,
-        1050644,
-        1410435
+        1195582,
+        1348455,
+        1420683,
+        1896532,
+        1920055,
+        1967210
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1111|1757810460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1111%7C1757810460000"
+    "nextCursor": "1112|1740378600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1112%7C1740378600000"
   }
 }
