@@ -1,101 +1,90 @@
 {
   "items": [
     {
-      "id": 31600670,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d470bfee-f384-49ef-a5a8-8aa1ea09c653/original=true/d470bfee-f384-49ef-a5a8-8aa1ea09c653.jpeg",
-      "hash": "UTK,,CTe_N-A^+x[fkoL~qj@tlRP?vadW;RP",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 60280094,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa980881-a5a7-4f1f-8540-eb946b9e9ab5/original=true/aa980881-a5a7-4f1f-8540-eb946b9e9ab5.jpeg",
+      "hash": "UZELa4t6IpoL~Ct6Rkj[xtoLjZfkWXR*s:j[",
+      "width": 1344,
+      "height": 2240,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-09-27T15:23:01.983Z",
-      "postId": 7115466,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-02T19:30:00.000Z",
+      "postId": 13482112,
       "stats": {
         "cryCount": 81,
-        "laughCount": 208,
-        "likeCount": 1604,
+        "laughCount": 164,
+        "likeCount": 1656,
         "dislikeCount": 0,
-        "heartCount": 807,
-        "commentCount": 3
+        "heartCount": 794,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3598463447,
-        "extra": {
-          "remixOfId": 30161823
+        "Size": "768x1280",
+        "seed": 554260106275416,
+        "Model": "waiNSFWIllustrious_v90.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "178fc987b2",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
         },
-        "steps": 29,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, \n2girls, \nstanding, \nlooking at viewer, smiling, in love, puffy pouty lips, flirty, half-closed eyes, \nwhite background, simple background,\n<lora:Neromashin Style_FinalVersion:0.3>\n,  1girl, petite elf, curves, red curly hair, ginger, freckles, long hair, cleavage, round glasses, blue eyes, lingerie, hileg thong, small breasts, thick thighs,\nBREAK score_9, score_8_up, score_7_up, score_6_up, \n2girls, \nstanding, \nlooking at viewer, smiling, in love, puffy pouty lips, flirty, half-closed eyes, \nwhite background, simple background,\n<lora:Neromashin Style_FinalVersion:0.3>\n,  1girl, petite elf, small breasts, (((grey skin))), long white hair, long hair, purple eyes, messy feathered bangs, thick eyeliner, lingerie, thong, thick thighs, lilandavastyle, Expressiveh, g0thicPXL, glowing, neon,, possmach",
-        "sampler": "Euler a",
-        "cfgScale": 5.5,
+        "prompt": "masterpiece, best quality, amazing quality, klskx, 1girl, (fischl \\(genshin impact\\):1.1), nude, full body, outdoors, balcony, medieval castle, direct sun, horizon, vivid colors, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 3,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-27T0011:40.8178488Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, low res, blurry face, black and white, easynegative, worst quality, low quality, simple background, watermark, text, large breasts",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 373439,
-            "modelVersionName": "Lil Andava style PDXL V1"
+            "weight": 1
           },
           {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 1
           },
           {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.6
           },
           {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
             "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.7000000000000001
           },
           {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 548491,
-            "modelVersionName": "Pony v2.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "178fc987b2",
+            "name": "waiNSFWIllustrious_v90.safetensors",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "178fc987b2",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry,"
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        290640,
-        373439,
-        382152,
-        398847,
-        436219,
-        548491
+        1283437,
+        1345990,
+        1284348,
+        567119,
+        1050644
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1182|1740943800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1182%7C1740943800000"
+    "nextCursor": "1183|1730851560000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1183%7C1730851560000"
   }
 }
