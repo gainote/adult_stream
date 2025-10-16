@@ -1,76 +1,38 @@
 {
   "items": [
     {
-      "id": 67204283,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d5b6970e-256a-4134-9223-4452af88cf7e/original=true/d5b6970e-256a-4134-9223-4452af88cf7e.jpeg",
-      "hash": "UDLD4C0056t6CmNF8_tR*0E1R4adS1x[Int7",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 47749238,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f3bf5bc5-b455-415c-a8f5-db71cefec288/original=true/f3bf5bc5-b455-415c-a8f5-db71cefec288.jpeg",
+      "hash": "UHCi]tkDNbRP~VWBE1WBnNj?IobI.8ayMxj[",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-04-02T07:00:00.000Z",
-      "postId": 14946058,
+      "browsingLevel": 4,
+      "createdAt": "2024-12-26T16:38:55.337Z",
+      "postId": 10776092,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 228,
-        "likeCount": 1548,
+        "cryCount": 79,
+        "laughCount": 143,
+        "likeCount": 1741,
         "dislikeCount": 0,
-        "heartCount": 831,
-        "commentCount": 0
+        "heartCount": 745,
+        "commentCount": 1
       },
-      "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 874685243,
-        "draft": false,
-        "extra": {
-          "remixOfId": 65397481
-        },
-        "steps": 20,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece,best quality,amazing quality,  <lora:bleached_ilxl_goofy:1>bleached, 1girl,frieren, sousou no frieren,1girl, green eyes, long hair, white hair, grey hair, twintails, parted bangs, earrings, elf, penis awe, hetero, symbol-shaped pupils,  veins, 1boy, hair between eyes, blush, indoors, blurry background, veiny penis, open mouth, looking at penis, testicles, completely nude, bangs, solo focus, sweat, cleavage, heart-shaped pupils, smile, upper body",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "bleached_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-03-31T0813:38.6552176Z",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1180973,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1571714,
-            "modelVersionName": "v1.0 illustrious"
-          }
-        ]
-      },
-      "username": "Silvershrouding",
-      "baseModel": "Illustrious",
+      "meta": null,
+      "username": "paulmuc",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1180973,
-        1571714
+        135867,
+        164821,
+        382152,
+        1177183
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1172|1735231135337",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1172%7C1735231135337"
+    "nextCursor": "1173|1716257058144",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1173%7C1716257058144"
   }
 }
