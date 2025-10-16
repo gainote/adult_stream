@@ -1,38 +1,75 @@
 {
   "items": [
     {
-      "id": 54515255,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4c66f820-3311-4e5c-8a43-16aa27894017/original=true/4c66f820-3311-4e5c-8a43-16aa27894017.jpeg",
-      "hash": "UZGaH~~9-nbaRkWBj[bHE3IpM}azt6baafe:",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 88085962,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a4f58b8-a1a0-48e9-99d3-4c0e55d1abe9/original=true/0a4f58b8-a1a0-48e9-99d3-4c0e55d1abe9.jpeg",
+      "hash": "UAHUFD^*00~VL#IU6k-p00Ir_MM|.8%14.IB",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-29T03:40:45.969Z",
-      "postId": 12224041,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-15T02:00:00.000Z",
+      "postId": 19540563,
       "stats": {
-        "cryCount": 118,
-        "laughCount": 217,
-        "likeCount": 1602,
+        "cryCount": 115,
+        "laughCount": 222,
+        "likeCount": 1704,
         "dislikeCount": 0,
-        "heartCount": 780,
-        "commentCount": 3
+        "heartCount": 675,
+        "commentCount": 1
       },
       "meta": {
-        "steps": 20,
-        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis or reactions and Buzz everyone.",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5
+        "Size": "832x1216",
+        "seed": 546501463,
+        "draft": false,
+        "steps": 32,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, amazing quality, high quality, anime screenshot, cleave gagged, 1girl, solo,  <lora:M4lty:1> m4lty, red hair, ponytail, green eyes, gagged, armored dress, cape, breastplate, faulds, detached sleeves, vambraces, looking at viewer, cleave gag, closed mouth, improvised gag, lipstick, arms behind back, hands bound, purple earrings, jewelry, red gemstone,upper body,",
+        "sampler": "Euler a",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
+          {
+            "name": "M4lty",
+            "type": "lora",
+            "weight": 1
+          }
+        ],
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-13T1837:24.5378016Z",
+        "experimental": false,
+        "negativePrompt": "bad quality, worst quality, normal quality, worst detail, lowres, low details, manga, sketch, cleavage,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1761560,
+            "modelVersionName": "v14.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1405651,
+            "modelVersionName": "v1.0"
+          }
+        ]
       },
-      "username": "Rodzilla2025X",
-      "baseModel": "Pony",
-      "modelVersionIds": []
+      "username": "asyouwerealways77906",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1405651,
+        1761560
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1162|1752544800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1162%7C1752544800000"
+    "nextCursor": "1163|1740413460000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1163%7C1740413460000"
   }
 }
