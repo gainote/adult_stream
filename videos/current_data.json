@@ -1,161 +1,103 @@
 {
   "items": [
     {
-      "id": 90157704,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/51fe8815-b0b1-4ffc-919d-c1f4fadf5ae5/original=true/51fe8815-b0b1-4ffc-919d-c1f4fadf5ae5.jpeg",
-      "hash": "UNH_Mf%$JP%2.Tks%MR.5RX9%MWB%N-pRjNF",
-      "width": 3840,
-      "height": 2688,
+      "id": 88556737,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d7f97bc0-8f5d-4984-aacb-0ee6a59331d9/original=true/d7f97bc0-8f5d-4984-aacb-0ee6a59331d9.jpeg",
+      "hash": "UEL3fk?au4RP~DtQ9[oK00IUIpxu=}M|-pNG",
+      "width": 2496,
+      "height": 3648,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-24T07:39:14.289Z",
-      "postId": 19995113,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-16T07:33:00.000Z",
+      "postId": 19643169,
       "stats": {
-        "cryCount": 96,
-        "laughCount": 196,
-        "likeCount": 1662,
+        "cryCount": 101,
+        "laughCount": 188,
+        "likeCount": 1646,
         "dislikeCount": 0,
-        "heartCount": 759,
-        "commentCount": 0
+        "heartCount": 778,
+        "commentCount": 1
       },
       "meta": {
+        "seed": 83481101,
         "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:140272@1240288",
-        "extra": {
-          "remixOfId": 84600768
-        },
-        "steps": 40,
-        "width": 3840,
-        "height": 2688,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:140272@1240288"
-        ],
-        "prompt": "1girl, nude, naked, videl, black hair, blue eyes, medium black hair, double braided ponytails, bangs, blunt bangs, makeup, lipstick, perfect breasts, nipples, light smile, (((large erect nipples, tan skin))), (labia, clitoris), ((pussy, large eyes, full lips, makeup, puffy areola, perfect body)), large saggy breasts, hanging breasts, blushing, small head, pretty girl, sexy, masterpiece, ultra-HD, cinematic lighting, painterly, impressionism, high detail, depth of field, (blurred background, dramatic lighting), best quality, very aesthetic, 8k, realistic, screencap, breast focus, capsule corps, (((rose petals in the wind))), daylight, outdoors, light particles, Dynamic pose, Dutch angle, head tilt, laying on back, holding legs, legs up, feet, ankles, bent knees, thighs, open legs, perfect hands, wrists, elbows, full body, seductive pose, looking up at viewer, from above, bokeh background, blurred painted green grass, tall city buildings in the background, realistic, photorealistic, inner city park",
-        "process": "img2img",
+        "extra": {},
+        "steps": 34,
+        "models": [],
+        "prompt": "pillowdear1st, boobs, yandere,\n\npussy, pubes,\npussy_gape,\n\nimminent vaginal,\n(interracial, dark-skinned_male, large testicles:1.2),\nremoving condom,condom on penis,\nhuge black penis, pussy juices, sloppy penis,\ncum_on_penis,\n\nfront view, lapsitting pose,\nbottom view, low angle,\n\nlooking down at viewer,\nsadistic expression, sadistic smirk,\ndetailed eyes,anime eyes,high detail eyes,multicolored iris,detailed iris,anime style,\n\nblurred_background, on bed,\n\nvery awa, absurdres, highres, masterpiece,\nKenorland, 748cmstyle,\nFlatline, Flat vector illustration,\nlazypos,",
         "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "clipSkip": 2,
+        "cfgScale": 3.5,
         "modelIds": [],
-        "priority": "low",
-        "quantity": 2,
-        "workflow": "img2img-facefix",
-        "baseModel": "Illustrious",
-        "upscalers": [],
-        "disablePoi": true,
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
         "versionIds": [],
-        "aspectRatio": "19:13",
         "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/45816CEM56KT4MFGZAYFAH1BQ0",
-          "width": 3840,
-          "height": 2688
-        },
-        "experimental": false,
-        "negativePrompt": "worst quality, low quality, displeasing, bad anatomy, shiny skin, lowres, worst quality, bad quality, bad anatomy, sketch, jpeg artifacts, text, signature, artist name, watermark, (text:1.2), censored, bystander, logo, pubic hair, clothing, dick, penis, cock, man, men, old, cum, grool, squirt, uneven tan",
+        "negativePrompt": "bad quality,worst quality,worst detail, censor, bad anatomy, patreon, name, lazy eye, bad eyes, skull, merged_hands, odd_hands, too many digits, 6 digits, 4 digits, merged_fingers,\nlazyneg",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 1240288
+            "modelVersionId": 1410435
           },
           {
-            "weight": 0.3,
-            "modelVersionId": 145907
+            "weight": 0.5,
+            "modelVersionId": 1056404
           },
           {
-            "weight": 0.3,
-            "modelVersionId": 1140800
-          },
-          {
-            "weight": 0.25,
-            "modelVersionId": 1191626
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 1219983
+            "weight": 0.75,
+            "modelVersionId": 1747661
           },
           {
             "weight": 1,
-            "modelVersionId": 1835014
+            "modelVersionId": 1805073
           },
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 145907
-          },
-          {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 1140800
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1191626
-          },
-          {
-            "type": "lycoris",
-            "weight": 0.65,
-            "modelVersionId": 1219983
-          },
-          {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1835014
+            "modelVersionId": 1833157
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1860747
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1959770
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1983525
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 1355477
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:120723@145907",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:714944@1140800",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1061826@1191626",
-            "type": "lora",
-            "strength": 0.25,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lycoris:civitai:846953@1219983",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1655248@1835014",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          }
-        ]
+        "additionalResources": []
       },
-      "username": "naraphim",
+      "username": "Silvana_",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        145907,
-        1140800,
-        1191626,
-        1219983,
-        1240288,
-        1835014
+        164821,
+        1056404,
+        1355477,
+        1410435,
+        1747661,
+        1805073,
+        1833157,
+        1860747,
+        1959770,
+        1983525
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1166|1752651180000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1166%7C1752651180000"
+    "nextCursor": "1167|1753357500000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1167%7C1753357500000"
   }
 }
