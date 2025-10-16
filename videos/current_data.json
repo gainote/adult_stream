@@ -1,76 +1,74 @@
 {
   "items": [
     {
-      "id": 47244012,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/31fb8447-b494-4881-8716-e4aa69004eaa/original=true/31fb8447-b494-4881-8716-e4aa69004eaa.jpeg",
-      "hash": "UAG@JXkW02Ip00ni%zozy?s:=FWVvLR*IUWB",
-      "width": 1024,
-      "height": 1536,
+      "id": 3893278,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa683ded-74e2-47c5-9732-c6e54d768a14/original=true/aa683ded-74e2-47c5-9732-c6e54d768a14.jpeg",
+      "hash": "U9K0Z?}@00%g7~RP01I;019t}?kC^jIoJ7_3",
+      "width": 1664,
+      "height": 2560,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-12-25T04:25:00.000Z",
-      "postId": 10673193,
+      "createdAt": "2023-11-24T18:56:01.833Z",
+      "postId": 875790,
       "stats": {
         "cryCount": 74,
-        "laughCount": 143,
-        "likeCount": 1586,
+        "laughCount": 202,
+        "likeCount": 1306,
         "dislikeCount": 0,
-        "heartCount": 885,
-        "commentCount": 0
+        "heartCount": 1106,
+        "commentCount": 8
       },
       "meta": {
-        "Size": "512x768",
-        "seed": 452159946,
-        "Model": "re-mixmain.fp16",
-        "steps": 30,
+        "VAE": "YOZORA.vae.pt",
+        "Size": "832x1280",
+        "seed": 2067578697,
+        "Model": "Ally - HalfGen + HelloYoung",
+        "steps": 44,
         "hashes": {
-          "model": "25657b43ea"
+          "vae": "df3c506e51",
+          "model": "daddd381d9",
+          "lora:povAssGrab_": "f1d42a5253",
+          "embed:easynegative": "c74b4e810b"
         },
-        "prompt": "1girl, breasts, ass, solo, looking at viewer, nude, innie pussy, nipples, lying, looking back, completely nude, barefoot, soles, feet, smile, pillow, toes, on bed, from behind, on stomach, thighs, closed mouth, bed sheet, eyelashes, , 1girl, , large penis, , , , , , , , green eyes, red hair, , dark skin, , large breasts, , (nipple piercing:0.75),  , , , , , barbell piercing, earrings, , shiny skin, ear piercing, sidelocks dark-skinned female, sweat, , , , choker, , collar, glowing eyes, , Starfire, black background, zPDXL3, detailxl,  Score_PnyReal, (lineless:1.5)",
-        "Version": "f0.0.17v1.8.0rc-latest-277-g0af28699",
-        "sampler": "Euler a",
-        "cfgScale": 7,
+        "prompt": "(povag:1.3), ass grab, hands spreading ass, thicc girl, (shock:1.3), (scream:1.3), lace, bow, ribbon, hair bow, ((single braid)), high heels, Church, masterpiece, best_quality, ultra-detailed, illustration, art nouveau, rain, wariza, nsfw, thigh highs, pink, cute,  glittering gold, <lora:povAssGrab_:0.9> , shallow depth of field, lifting skirt, wedding dress, bride, bouquet",
+        "Version": "v1.6.0-2-g4afaaf8a",
+        "sampler": "UniPC",
+        "VAE hash": "c6a580b13a",
+        "cfgScale": 8.5,
         "clipSkip": 2,
-        "TI hashes": {
-          "zPDXL3": "1727c6cddf61",
-          "detailxl": "cad765d41c8a",
-          "Score_PnyReal": "63e618ba9fc7"
-        },
+        "Pad conds": "True",
         "resources": [
           {
-            "hash": "25657b43ea",
-            "name": "re-mixmain.fp16",
+            "name": "povAssGrab_",
+            "type": "lora",
+            "weight": 0.9
+          },
+          {
+            "hash": "daddd381d9",
+            "name": "Ally - HalfGen + HelloYoung",
             "type": "model"
           }
         ],
-        "Model hash": "25657b43ea",
-        "Hires prompt": {
-          "(nipple piercing": "0.75)"
-        },
-        "Hires upscale": "2",
-        "Hires upscaler": "None",
-        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,  half-closed eyes,",
-        "ADetailer model": "face_yolov8s.pt",
-        "ADetailer version": "24.5.1",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "4",
-        "ADetailer denoising strength": "0.2",
-        "ADetailer inpaint only masked": "True"
+        "Model hash": "daddd381d9",
+        "\"povAssGrab_": "085a030f886c\"",
+        "\"easynegative": "c74b4e810b03\"",
+        "negativePrompt": "panties, underwear, asian, ground, EasyNegative, (artist name, signature, watermark:1.4), (ugly:1.2), (worst quality, poor details:1.4), blurry, large breasts, garters, garter belt, umbrella",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "96",
+        "SD upscale upscaler": "SwinIR_4x"
       },
-      "username": "phinjo",
-      "baseModel": "Pony",
+      "username": "Furricane",
+      "baseModel": null,
       "modelVersionIds": [
-        1116628
+        9208,
+        22912
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1199|1700852161833",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1199%7C1700852161833"
+    "nextCursor": "1200|1730798160269",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1200%7C1730798160269"
   }
 }
