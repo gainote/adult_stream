@@ -1,76 +1,66 @@
 {
   "items": [
     {
-      "id": 64468653,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1e853bf-6b24-4d5b-87e2-98f64b5e9c72/original=true/c1e853bf-6b24-4d5b-87e2-98f64b5e9c72.jpeg",
-      "hash": "UkJ8bIxtR+W=?woMozayaORkt7t7InWAt6t7",
+      "id": 61287636,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b1056d4-7674-46a4-95b1-fc3ce8dee484/original=true/9b1056d4-7674-46a4-95b1-fc3ce8dee484.jpeg",
+      "hash": "UFEx:$~9044?P2XNVuRUxt-Ut6EMP1NtD-WE",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-03-19T16:42:20.024Z",
-      "postId": 14370966,
+      "createdAt": "2025-03-03T19:31:00.000Z",
+      "postId": 13703802,
       "stats": {
-        "cryCount": 137,
-        "laughCount": 543,
-        "likeCount": 1474,
+        "cryCount": 105,
+        "laughCount": 201,
+        "likeCount": 1693,
         "dislikeCount": 0,
-        "heartCount": 551,
-        "commentCount": 4
+        "heartCount": 705,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3878829032,
-        "Model": "flux1-dev-bnb-nf4-v2",
-        "steps": 30,
-        "hashes": {
-          "model": "fef37763b8",
-          "lora:Butts_on_Things_Brian_Cook_FLUX-000012": "4d177f2a2024",
-          "lora:Roadside_Attraction_Assembler_FLUX_r1-000007": "49f2d203a3b3"
-        },
-        "prompt": "<lora:Roadside_Attraction_Assembler_FLUX_r1-000007:0.85>     <lora:Butts_on_Things_Brian_Cook_FLUX-000012:0.8>\nPhoto depicting a surreal scene at a \"world's largest butt\" roadside attraction, along with people taking photos of it and cars parked near it.",
-        "Version": "f2.0.1v1.10.1-previous-659-gc055f2d4",
-        "sampler": "DEIS",
-        "Module 1": "t5xxl_fp8_e4m3fn",
-        "Module 2": "clip_l",
-        "cfgScale": 1,
-        "resources": [
+        "seed": 1146151629,
+        "steps": 34,
+        "prompt": "a femme fatale Japanese woman, neon flourescent green shaggy bobbed hair, bangs, earrings, dark eyeshadow, bright crimson lips, choker, seductive, lustful, sultry, large breasts, cleavage, choker, silhouetted, sitting, wearing neon yellow lingerie, professional photography, dark background, directional lighting",
+        "sampler": "Undefined",
+        "cfgScale": 3.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2025-03-03T1011:08.3830216Z",
+        "civitaiResources": [
           {
-            "hash": "49f2d203a3b3",
-            "name": "Roadside_Attraction_Assembler_FLUX_r1-000007",
-            "type": "lora",
-            "weight": 0.85
+            "type": "checkpoint",
+            "modelVersionId": 691639,
+            "modelVersionName": "Dev"
           },
           {
-            "hash": "4d177f2a2024",
-            "name": "Butts_on_Things_Brian_Cook_FLUX-000012",
             "type": "lora",
-            "weight": 0.8
+            "weight": 0.4,
+            "modelVersionId": 806265,
+            "modelVersionName": "v1.0"
           },
           {
-            "hash": "fef37763b8",
-            "name": "flux1-dev-bnb-nf4-v2",
-            "type": "model"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 914935,
+            "modelVersionName": "ink-dynamic"
           }
-        ],
-        "Model hash": "fef37763b8",
-        "Schedule type": "Beta",
-        "Beta schedule beta": "0.6",
-        "Beta schedule alpha": "0.6",
-        "Distilled CFG Scale": "3.5",
-        "Diffusion in Low Bits": "bnb-nf4 (fp16 LoRA)"
+        ]
       },
-      "username": "kftiger",
+      "username": "Carp37",
       "baseModel": "Flux.1 D",
       "modelVersionIds": [
-        721627
+        691639,
+        806265,
+        914935
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1176|1741030260000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1176%7C1741030260000"
+    "nextCursor": "1177|1746974277307",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1177%7C1746974277307"
   }
 }
