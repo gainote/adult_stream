@@ -1,71 +1,66 @@
 {
   "items": [
     {
-      "id": 35188710,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f2ed430-2732-4883-8573-0fbbfc6eff56/original=true/0f2ed430-2732-4883-8573-0fbbfc6eff56.jpeg",
-      "hash": "ULE_{sNGIp%20L%2-:%2~WWBM|Rj4.RjxakC",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 58845572,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2894a02-e635-4e7f-a4f8-1c84f88df92c/original=true/b2894a02-e635-4e7f-a4f8-1c84f88df92c.jpeg",
+      "hash": "UOMZj#V@8^t80ebH9aR+9EM|Ovs-_Nt7E5t4",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-10-18T06:00:00.000Z",
-      "postId": 8042495,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-25T12:11:00.000Z",
+      "postId": 13165811,
       "stats": {
-        "cryCount": 131,
-        "laughCount": 246,
-        "likeCount": 1597,
+        "cryCount": 98,
+        "laughCount": 207,
+        "likeCount": 1664,
         "dislikeCount": 0,
-        "heartCount": 747,
-        "commentCount": 43
+        "heartCount": 751,
+        "commentCount": 1
       },
       "meta": {
+        "VAE": "ae",
         "Size": "832x1216",
-        "seed": 2429241736,
-        "extra": {
-          "remixOfId": 34256363
+        "seed": 1422162049,
+        "Model": "hosekiLustrousmix_illustriousV1",
+        "steps": 24,
+        "hashes": {
+          "vae": "afc8e28272",
+          "model": "35c7d75822",
+          "lora:SerasVictoriaNoobXL_byKonan": "5a99d95157"
         },
-        "steps": 22,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up,\n1 jackal girl, long black jackal ears, big hazel eyes, long black hair, shiny pale skin, intricate makeup, black lipstick,\ngigantic massive soft breasts, puffy pink nipples, narrow waist, fit hips,",
-        "sampler": "Euler a",
+        "prompt": "masterpiece, best quality, 1girl, solo, seras victoria, blonde hair, cheerleader, crop top, midriff, clothes writing, gym, indoors, ass, ass focus, facing back, sweat, top-down bottom-up, blue eyes, pom pom \\(cheerleading\\), pleated skirt, wooden floor, microskirt, upskirt, looking at viewer, panties, pantyshot, partially visible vulva, embarrassed, full-face blush, open mouth, wavy mouth",
+        "Version": "ComfyUI",
+        "sampler": "euler_ancestral_karras",
         "cfgScale": 6,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-10-18T0403:18.7814557Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, interlocked fingers, anatomically incorrect hands, bad anatomy, censored, human ears,",
-        "civitaiResources": [
+        "TI hashes": {},
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 630522,
-            "modelVersionName": "v1.0"
+            "hash": "5a99d95157",
+            "name": "SerasVictoriaNoobXL_byKonan",
+            "type": "lora"
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "hash": "35c7d75822",
+            "name": "hosekiLustrousmix_illustriousV1",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "35c7d75822",
+        "negativePrompt": "(lowres:1.2), (worst quality:1.4), (low quality:1.4), (bad anatomy:1.4), bad hands, multiple views, comic, jpeg artifacts, patreon logo, patreon username, web address, signature, watermark, text, logo, artist name, censored, ball, handprint,"
       },
-      "username": "sisifosanto2506",
-      "baseModel": "Pony",
+      "username": "Deto15",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        630522
+        1053830,
+        1382025
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1158|1740485460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1158%7C1740485460000"
+    "nextCursor": "1159|1728885245295",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1159%7C1728885245295"
   }
 }
