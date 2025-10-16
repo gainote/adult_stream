@@ -1,75 +1,116 @@
 {
   "items": [
     {
-      "id": 88085962,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a4f58b8-a1a0-48e9-99d3-4c0e55d1abe9/original=true/0a4f58b8-a1a0-48e9-99d3-4c0e55d1abe9.jpeg",
-      "hash": "UAHUFD^*00~VL#IU6k-p00Ir_MM|.8%14.IB",
+      "id": 59246319,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f15279f8-ce2a-4510-95af-ebc17d429586/original=true/f15279f8-ce2a-4510-95af-ebc17d429586.jpeg",
+      "hash": "UCEeGP~U0hRlx]-o?GtRX9E2jE-oIBIUj@%L",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-15T02:00:00.000Z",
-      "postId": 19540563,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-24T16:11:00.000Z",
+      "postId": 13253264,
       "stats": {
-        "cryCount": 115,
-        "laughCount": 222,
-        "likeCount": 1704,
+        "cryCount": 94,
+        "laughCount": 170,
+        "likeCount": 1639,
         "dislikeCount": 0,
-        "heartCount": 675,
-        "commentCount": 1
+        "heartCount": 813,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 546501463,
+        "nsfw": false,
+        "seed": 1955705708,
         "draft": false,
-        "steps": 32,
+        "extra": {
+          "remixOfId": 54542589
+        },
+        "steps": 50,
         "width": 832,
         "height": 1216,
-        "prompt": "masterpiece, best quality, amazing quality, high quality, anime screenshot, cleave gagged, 1girl, solo,  <lora:M4lty:1> m4lty, red hair, ponytail, green eyes, gagged, armored dress, cape, breastplate, faulds, detached sleeves, vambraces, looking at viewer, cleave gag, closed mouth, improvised gag, lipstick, arms behind back, hands bound, purple earrings, jewelry, red gemstone,upper body,",
+        "prompt": "score_9, score_8_up, score_7_up, 1girl, Aerith, blonde hair, cat ears, cute, slim, medium breasts, fishnet stockings, leaning over, head down, grabbing legs, legs straight, standing, hands on knees,  fucked from behind, moaning, fucked silly, sweaty, squishy thighs, long legs, sexy, ass squishy, BREAK, 1boy, male out of frame, BREAK, blurry background, s1_dram",
         "sampler": "Euler a",
-        "cfgScale": 6,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 2,
+        "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "M4lty",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-13T1837:24.5378016Z",
-        "experimental": false,
-        "negativePrompt": "bad quality, worst quality, normal quality, worst detail, lowres, low details, manga, sketch, cleavage,",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-02-04T1539:41.9031886Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, knees bent, legs apart,,low quality, text, censored, deformed, bad hand, blurry, (watermark), 3d",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1761560,
-            "modelVersionName": "v14.0"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
             "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.15,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1280045,
+            "modelVersionName": "Pony v3"
+          },
+          {
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 1405651,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 106916,
             "modelVersionName": "v1.0"
           }
         ]
       },
-      "username": "asyouwerealways77906",
-      "baseModel": "Illustrious",
+      "username": "Iorvo",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1405651,
-        1761560
+        9208,
+        244808,
+        290640,
+        382152,
+        436219,
+        1280045
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1163|1740413460000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1163%7C1740413460000"
+    "nextCursor": "1164|1756822980000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1164%7C1756822980000"
   }
 }
