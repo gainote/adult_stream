@@ -1,71 +1,106 @@
 {
   "items": [
     {
-      "id": 103520837,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e00ac1cf-012c-4a1e-973b-5c90e526ba2c/original=true/e00ac1cf-012c-4a1e-973b-5c90e526ba2c.jpeg",
-      "hash": "U4By1{0g0g~A-UNH0zWq00^jOE0g$*^O={58",
-      "width": 1264,
-      "height": 1848,
-      "nsfwLevel": "Mature",
+      "id": 41599146,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/69ad73a0-56de-4c9a-9d64-b19176dc0051/original=true/69ad73a0-56de-4c9a-9d64-b19176dc0051.jpeg",
+      "hash": "UBDtw=Mx5lkW02}skCEz-:9]ofWC5lF1r?=d",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-10-01T13:51:11.009Z",
-      "postId": 22935725,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-23T05:10:57.372Z",
+      "postId": 9472031,
       "stats": {
-        "cryCount": 105,
-        "laughCount": 175,
-        "likeCount": 1661,
+        "cryCount": 84,
+        "laughCount": 126,
+        "likeCount": 1583,
         "dislikeCount": 0,
-        "heartCount": 737,
-        "commentCount": 0
+        "heartCount": 885,
+        "commentCount": 1
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 3032678800,
-        "Model": "Illustrij-GEN",
-        "steps": 30,
-        "hashes": {
-          "model": "8d33b2bd3e"
-        },
-        "prompt": "masterpiece, high_quality, highres, realistic,\nwoman, flirty, head_tilt, mature body, slim, tall, solo, tan skin,\nclose up, \nsoft_colors, \nbikini, skin pressed, cameltoe, lace,\nlying, confident,\nfront view, \nbrown hair, freckles, brown eyes, roseginger hair, long hair,\ndark, shadows",
-        "Version": "f2.0.1v1.10.1-previous-626-ga332f7cc",
-        "sampler": "Euler a",
-        "cfgScale": 5,
+        "nsfw": true,
+        "seed": 807594946,
+        "draft": false,
+        "steps": 35,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, 25 years old, perfect face, cute, petite, dark green eyes, freckles, ginger hair, folded braid, green sweater, green thighhighs, fireplace, candles, rose petals, indoors, shaggy white carpet, clothes in mouth, sweater lift, exposed breasts, black panties around one leg, legs together, pervert, seductive smile, come hither, looking at viewer, blush, lying on ground, pussy, on back, feet, legs, toes, anus, bottomless, legs up, folded, pussy focus, wet pussy, pussy juice, pussy dripping, side view,",
+        "sampler": "DPM2 a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-11-21T1632:17.6248840Z",
+        "fluxUltraRaw": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
+        "civitaiResources": [
           {
-            "hash": "8d33b2bd3e",
-            "name": "Illustrij-GEN",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.45,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "8d33b2bd3e",
-        "Hires steps": "30",
-        "Hires upscale": "1.526",
-        "Original Size": "832x1216",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "4x_foolhardy_Remacri",
-        "negativePrompt": "worst_quality, bad_quality, poorly_detailed, shirt print",
-        "ADetailer model": "face_yolov8n.pt",
-        "Hires CFG Scale": "7",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.2",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "reijlita",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1206|1732338657372",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1206%7C1732338657372"
+    "nextCursor": "1207|1746064381883",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1207%7C1746064381883"
   }
 }
