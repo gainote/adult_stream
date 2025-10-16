@@ -1,80 +1,79 @@
 {
   "items": [
     {
-      "id": 85319853,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89c8171a-3496-4ffd-85b8-117e86f93188/original=true/89c8171a-3496-4ffd-85b8-117e86f93188.jpeg",
-      "hash": "U6B2.Sb^014:=|I.xING0eM_~Bt6^jbtMxR%",
-      "width": 1642,
-      "height": 2400,
-      "nsfwLevel": "Mature",
+      "id": 55395341,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec617051-2583-487c-a993-6b94618f6857/original=true/ec617051-2583-487c-a993-6b94618f6857.jpeg",
+      "hash": "UAIp[90c00$n014-Jh^,0LskxC~Dx]E0=|4:",
+      "width": 912,
+      "height": 1336,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-06-29T21:48:06.404Z",
-      "postId": 18937107,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-02T16:45:37.555Z",
+      "postId": 12413788,
       "stats": {
-        "cryCount": 76,
-        "laughCount": 160,
-        "likeCount": 1619,
+        "cryCount": 97,
+        "laughCount": 178,
+        "likeCount": 1617,
         "dislikeCount": 0,
-        "heartCount": 830,
-        "commentCount": 0
+        "heartCount": 791,
+        "commentCount": 2
       },
       "meta": {
-        "RNG": "CPU",
+        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
         "Size": "832x1216",
-        "seed": 736385777,
-        "steps": 25,
-        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, 8k, 1girl, solo, mature woman, adult, skinny, fit, seductive goth girl, black latex BDSM outfit, thong, choker, shiny skin, oily skin, bronze tan, blushing, thick eyebrows, big blue eyes, long black hair with bangs, cute face, full lips, small breasts, round perky breasts, thick thighs, bubble butt, squatting pose, full view of ass, from behind, emphasis on ass, excited, in love, seductive expression, moody lighting, vibrant colors, dramatic lighting, strip club stage, neon lights, pole in background, red velvet, mirrored walls, glossy floor, smoke machine, sweat, erotic mood, nightclub interior, cinematic glamour",
-        "Version": "classic",
-        "sampler": "DPM++ 2M SDE",
-        "Emphasis": "Original",
+        "seed": 3263292500,
+        "Model": "ntrMIXIllustriousXL_v40",
+        "steps": 36,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3bc9e8fbe6",
+          "lora:NTR_il_v1": "6f084187ab47"
+        },
+        "prompt": "1girl,dynamic pose,,ntr,gangbang,lying,drunk,dirty,used condom,cum on body,dildo,suction cup dildo,tile floor,female pubic hair,<lora:NTR_il_v1:1>, quality,amazing quality,very aesthetic,absurdres,newest,scenery,masterpiece,best quality,amazing quality,very aesthetic,absurdres,newest,scenery,volumetric lighting,",
+        "Version": "v1.10.0",
+        "sampler": "DPM++ 2M",
         "cfgScale": 4,
-        "SkipEarly": "0.25",
-        "resources": [],
-        "Hires upscale": "1.5",
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "6f084187ab47",
+            "name": "NTR_il_v1",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "3bc9e8fbe6",
+            "name": "ntrMIXIllustriousXL_v40",
+            "type": "model"
+          }
+        ],
+        "Model hash": "3bc9e8fbe6",
+        "Hires steps": "20",
+        "Hires upscale": "1.1",
         "Schedule type": "Karras",
-        "Hires upscaler": "4x_NickelbackFS_72000_G",
-        "negativePrompt": "score 6, score 5, score 4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs",
+        "Hires upscaler": "R-ESRGAN 4x+",
+        "negativePrompt": "lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, old, oldest, censored, bar_censor, (pregnant), chibi, loli, simple background, conjoined",
         "ADetailer model": "face_yolov9c.pt",
-        "ADetailer steps": "45",
-        "ADetailer sampler": "DPM++ 2M",
-        "ADetailer version": "25.3.0",
-        "Denoising strength": "0.35",
+        "ADetailer version": "24.9.0",
+        "Denoising strength": "0.5",
         "ADetailer mask blur": "4",
-        "ADetailer model 2nd": "hand_yolov8n.pt",
-        "ADetailer scheduler": "Karras",
-        "ADetailer steps 2nd": "45",
-        "ADetailer confidence": "0.3",
-        "ADetailer prompt 2nd": "perfect hand",
-        "ADetailer sampler 2nd": "DPM++ 2M",
+        "ADetailer confidence": "0.8",
         "ADetailer dilate erode": "4",
-        "ADetailer mask blur 2nd": "4",
-        "ADetailer scheduler 2nd": "Karras",
-        "ADetailer confidence 2nd": "0.3",
         "ADetailer inpaint padding": "32",
-        "ADetailer mask only top k": "1",
-        "ADetailer dilate erode 2nd": "4",
         "ADetailer denoising strength": "0.4",
-        "ADetailer use separate steps": "True",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer inpaint padding 2nd": "32",
-        "ADetailer mask only top k 2nd": "2",
-        "ADetailer use separate sampler": "True",
-        "ADetailer denoising strength 2nd": "0.4",
-        "ADetailer use separate steps 2nd": "True",
-        "ADetailer inpaint only masked 2nd": "True",
-        "ADetailer use separate sampler 2nd": "True",
-        "ADetailer method to decide top k masks": "Area",
-        "ADetailer method to decide top k masks 2nd": "Area"
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Cyberdelia",
-      "baseModel": "Pony",
-      "modelVersionIds": []
+      "username": "ruanyi",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1061268
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1204|1738514737555",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1204%7C1738514737555"
+    "nextCursor": "1205|1759326671009",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1205%7C1759326671009"
   }
 }
