@@ -1,94 +1,85 @@
 {
   "items": [
     {
-      "id": 50943293,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e487d362-f433-412b-baec-d1e3415f666b/original=true/e487d362-f433-412b-baec-d1e3415f666b.jpeg",
-      "hash": "UIGtsS9|5Rxt0i~BE3NGbZS5~BxFS5kC%1%1",
-      "width": 832,
-      "height": 1216,
+      "id": 49196913,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b71b0dc-3cde-4ef0-b5fb-2bea115e07f6/original=true/3b71b0dc-3cde-4ef0-b5fb-2bea115e07f6.jpeg",
+      "hash": "UEFhIu9G02_24:%L?GIB0f%2%1IV~VIU9ax]",
+      "width": 1040,
+      "height": 1520,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-01-11T13:39:31.385Z",
-      "postId": 11459639,
+      "createdAt": "2025-01-03T00:55:00.000Z",
+      "postId": 11085803,
       "stats": {
-        "cryCount": 113,
-        "laughCount": 171,
-        "likeCount": 1692,
+        "cryCount": 66,
+        "laughCount": 158,
+        "likeCount": 1653,
         "dislikeCount": 0,
-        "heartCount": 713,
+        "heartCount": 813,
         "commentCount": 0
       },
       "meta": {
+        "TI": {},
         "Size": "832x1216",
-        "nsfw": true,
-        "seed": 852712392,
-        "draft": false,
-        "extra": {
-          "remixOfId": 39918680
+        "seed": 1772443019,
+        "Model": "re-mixmain.fp16",
+        "steps": 30,
+        "hashes": {
+          "model": "8658ad9009"
         },
-        "steps": 17,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon,\n BREAK\n BREAK\n1girl, solo, medieval square, daytime, natural lighting, girl standing, facing camera, long dark hair, disheveled, chains on wrists and ankles, torn dress, partially exposing breasts, nipples visible, panic-stricken expression, wide eyes, flushed skin, sweat on forehead, crowd in background, detailed textures, raw emotion, explicit focus, no eye contact, erotic tension, historical setting.\n BREAK\ndynamic light, warm_light, vibrant colors warm_colors, soft focus, high contrast, textured surfaces, depth of field, golden hour lighting, dramatic shadows, rich details, nature-inspired color palette, playful composition.\n,dynamic angle,dynamic light,background,",
-        "sampler": "DPM++ 2M Karras",
+        "prompt": "1girl, ass, solo, breasts, hat, baseball cap, , pants, ponytail, pink hair, nipples, nude, long hair, clothes pull, from behind, medium breasts, pants pull, indoors, standing, black headwear, undressing, , clothes hanger, back, shirt, holding, denim, poster \\(object\\), low ponytail, jeans, zPDXL3, detailxl,  Score_PnyReal, (lineless:1.5)",
+        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
+        "sampler": "Euler a",
         "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-01-11T1338:38.5099906Z",
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, orgasm, milf, big lips, big nose,(((face)))",
-        "civitaiResources": [
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 817261,
-            "modelVersionName": "v6.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 514793,
-            "modelVersionName": "comicbookpage xl v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 501154,
-            "modelVersionName": "Gothic Retro Anime v1.0"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "8658ad9009",
+            "name": "re-mixmain.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "8658ad9009",
+        "ControlNet 0": {
+          "Model": "diffusion_pytorch_model [15e6ad5d]",
+          "Module": "normalbae",
+          "Weight": "0.35",
+          "Hr Option": "Both",
+          "Resize Mode": "Crop and Resize",
+          "Threshold A": "0.5",
+          "Threshold B": "0.5",
+          "Control Mode": "Balanced",
+          "Guidance End": "1.0",
+          "Pixel Perfect": "False",
+          "Processor Res": "512",
+          "Guidance Start": "0.0"
+        },
+        "Hires upscale": "1.25",
+        "Schedule type": "Automatic",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "None",
+        "negativePrompt": "negativeXL_D, zPDXL-neg, PDXLneg-NoAniPny_-neg, unaestheticXL_bp5, , mole, deformed fingers, long fingers, extra fingers, fused fingers, too many fingers, grainy,  half-closed eyes,  facial marks, thick lips, lips, parted lips,",
+        "ADetailer model": "full_eyes_detect_v1.pt",
+        "ADetailer steps": "20",
+        "Hires CFG Scale": "7",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "16",
+        "ADetailer denoising strength": "0.25",
+        "ADetailer use separate steps": "True",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "Buzz_lover",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        382152,
-        501154,
-        514793,
-        817261
-      ]
+      "username": "phinjo",
+      "baseModel": "",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1197|1735865700000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1197%7C1735865700000"
+    "nextCursor": "1198|1756900939339",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1198%7C1756900939339"
   }
 }
