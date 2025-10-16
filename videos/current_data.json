@@ -1,116 +1,166 @@
 {
   "items": [
     {
-      "id": 59246319,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f15279f8-ce2a-4510-95af-ebc17d429586/original=true/f15279f8-ce2a-4510-95af-ebc17d429586.jpeg",
-      "hash": "UCEeGP~U0hRlx]-o?GtRX9E2jE-oIBIUj@%L",
-      "width": 832,
-      "height": 1216,
+      "id": 97639812,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/31954cb5-cc4b-40bf-b315-997ab8e3d5bf/original=true/31954cb5-cc4b-40bf-b315-997ab8e3d5bf.jpeg",
+      "hash": "UUL41:~BL3%hb_rVI;NG0~V?WDI=={%1nibw",
+      "width": 1344,
+      "height": 2264,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-02-24T16:11:00.000Z",
-      "postId": 13253264,
+      "createdAt": "2025-09-02T14:23:00.000Z",
+      "postId": 21663224,
       "stats": {
-        "cryCount": 94,
-        "laughCount": 170,
-        "likeCount": 1639,
+        "cryCount": 80,
+        "laughCount": 133,
+        "likeCount": 1606,
         "dislikeCount": 0,
-        "heartCount": 813,
-        "commentCount": 0
+        "heartCount": 895,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1955705708,
-        "draft": false,
-        "extra": {
-          "remixOfId": 54542589
+        "TI": {},
+        "Size": "896x1512",
+        "seed": 3382713639,
+        "Model": "waiNSFWIllustrious_v150",
+        "steps": 30,
+        "hashes": {
+          "model": "befc694a29",
+          "lora:ANI": "b5f2db1877d5",
+          "lora:XXX477": "080d12c718b3",
+          "lora:96YOTTEA-WAI": "7a6cdc714921",
+          "lora:veluflora-wai": "fbcbfb1106da",
+          "lora:a31_style_koni": "668963c77d2a",
+          "lora:mon_monmon2133": "9dcf6d165d08",
+          "lora:ag31_style_ba_v1": "77af56ed043a",
+          "lora:checkpoint-e18_s306": "491af043b410",
+          "lora:round_breasts-IL-1.0": "39368615C0F8",
+          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
+          "lora:Perfect_Ass_-_Illustrious_V2": "1a0a6cae4235",
+          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
+          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
         },
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, 1girl, Aerith, blonde hair, cat ears, cute, slim, medium breasts, fishnet stockings, leaning over, head down, grabbing legs, legs straight, standing, hands on knees,  fucked from behind, moaning, fucked silly, sweaty, squishy thighs, long legs, sexy, ass squishy, BREAK, 1boy, male out of frame, BREAK, blurry background, s1_dram",
-        "sampler": "Euler a",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-02-04T1539:41.9031886Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, knees bent, legs apart,,low quality, text, censored, deformed, bad hand, blurry, (watermark), 3d",
-        "civitaiResources": [
+        "prompt": "1girl, adult, black choker, bottomless, from behind, low angle, from side, ass, pussy, innie pussy, detailed background, indoors, day, vibrant lighting, dynamic, angle, sense of depth, lush colors, slim, perfect ass, round ass, fishnet thighhighs, blonde hair, bow, long hair, twintails, black gloves, bra, (adult, mature), wide hips, very awa, masterpiece, highres, absurdres, Flatline, Flat vector illustration, flat colors, <lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>,<lora:mon_monmon2133:0.3>, <lora:XXX477:0.5>, <lora:96YOTTEA-WAI:0.3>, <lora:a31_style_koni:0.5>, <lora:ag31_style_ba_v1:0.8>, <lora:checkpoint-e18_s306:0.6>, <lora:veluflora-wai:0.5>, <lora:round_breasts-IL-1.0:0.35>, <lora:Perfect_Ass_-_Illustrious_V2:0.3>, <lora:ANI:0.75>",
+        "Version": "f2.0.1v1.10.1-previous-665-gae278f79",
+        "sampler": "DPM++ 2M SDE",
+        "cfgScale": 6,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
-          },
-          {
+            "hash": "DA259DF60E36",
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "weight": 0.3
           },
           {
+            "hash": "33d8271217ed",
+            "name": "noobai_ep11_stabilizer_v0.138_fp16",
             "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.3
           },
           {
+            "hash": "72ea46a2b089",
+            "name": "ponyv6_noobV1_2_adamW",
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.3
           },
           {
+            "hash": "9dcf6d165d08",
+            "name": "mon_monmon2133",
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1280045,
-            "modelVersionName": "Pony v3"
+            "weight": 0.3
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "hash": "080d12c718b3",
+            "name": "XXX477",
+            "type": "lora",
+            "weight": 0.5
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "hash": "7a6cdc714921",
+            "name": "96YOTTEA-WAI",
+            "type": "lora",
+            "weight": 0.3
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "hash": "668963c77d2a",
+            "name": "a31_style_koni",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "77af56ed043a",
+            "name": "ag31_style_ba_v1",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "491af043b410",
+            "name": "checkpoint-e18_s306",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "fbcbfb1106da",
+            "name": "veluflora-wai",
+            "type": "lora",
+            "weight": 0.5
+          },
+          {
+            "hash": "39368615C0F8",
+            "name": "round_breasts-IL-1.0",
+            "type": "lora",
+            "weight": 0.35
+          },
+          {
+            "hash": "1a0a6cae4235",
+            "name": "Perfect_Ass_-_Illustrious_V2",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "b5f2db1877d5",
+            "name": "ANI",
+            "type": "lora",
+            "weight": 0.75
+          },
+          {
+            "hash": "befc694a29",
+            "name": "waiNSFWIllustrious_v150",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "befc694a29",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharpV2",
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, child, loli, (watermark), censored, sagging breasts",
+        "Hires CFG Scale": "5",
+        "Denoising strength": "0.35"
       },
-      "username": "Iorvo",
-      "baseModel": "Pony",
+      "username": "BallsyBalls",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        244808,
-        290640,
-        382152,
-        436219,
-        1280045
+        400010,
+        438698,
+        1082928,
+        1145311,
+        1150423,
+        1209350,
+        1247042,
+        1308598,
+        1311785,
+        1356500,
+        1785002,
+        2011735,
+        2167369
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1164|1756822980000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1164%7C1756822980000"
+    "nextCursor": "1165|1753342754289",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1165%7C1753342754289"
   }
 }
