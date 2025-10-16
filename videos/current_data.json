@@ -1,38 +1,111 @@
 {
   "items": [
     {
-      "id": 44110144,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c953c5ec-e2b1-48fc-9908-b25e7d6b1f8f/original=true/c953c5ec-e2b1-48fc-9908-b25e7d6b1f8f.jpeg",
-      "hash": "UCHUUs00?^L}_L4.O@Q,0f9Yt,nOv|xu-px]",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "X",
+      "id": 79356493,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/792e052e-154d-4fab-b18c-7b14ad7e8e42/original=true/792e052e-154d-4fab-b18c-7b14ad7e8e42.jpeg",
+      "hash": "UBFElv5TD~^+?u~AS1%L00-n-pE1z.9vO@D*",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-12-07T04:08:13.536Z",
-      "postId": 10012911,
+      "browsingLevel": 4,
+      "createdAt": "2025-05-30T08:59:04.135Z",
+      "postId": 17630293,
       "stats": {
-        "cryCount": 116,
-        "laughCount": 249,
-        "likeCount": 1561,
+        "cryCount": 109,
+        "laughCount": 230,
+        "likeCount": 1629,
         "dislikeCount": 0,
-        "heartCount": 777,
-        "commentCount": 10
+        "heartCount": 734,
+        "commentCount": 0
       },
       "meta": {
-        "steps": 20,
-        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis and Buzz everyone.",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5
+        "Size": "832x1216",
+        "nsfw": false,
+        "seed": 323763448,
+        "draft": false,
+        "extra": {
+          "remixOfId": 64055003
+        },
+        "steps": 17,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_10, score_9, score_8, masterpiece, best quality, kawaii girl,1girl, solo , rating_safe, source_cartoon, semirealistic , Expressiveh, (1girl), (solo), 18 year old girl, very attractive face, seductive smile, innocent girl, petite, bold black eyeliner, full pouty lips, flawless shiny skin, (full pouty lips), (wavy hair:1.5), (dark brown hair), (hair behind ear), (head tilted), (slim fit), white fingernails, slender body, (small breast), perfect thighs, thigh gap, narrow waist, BREAK.(  long sleeve t-shirt:1.4),( abs:1.3), ((low waist leather pants)),( g-string:1.4), black ankle boots, night, noir, indoors, gray, flat colors, cowboy shot, breast focus, standing , front view, dynamic angle",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 3,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-05-26T1917:34.7334069Z",
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, hyper, glitch, overexposed, high-contrast, bad-contrast, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, zPDXLxxx, earrings, maid, muscular, jacket, panties, 6fingers, group sex, 2guys, naked, nude, shorts, necklace,( torn clothes:1.5), cleavage,( nipples:1.5),( topless:1.5),",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1.25,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 1029540,
+            "modelVersionName": "Gothic Neon v2"
+          },
+          {
+            "type": "lora",
+            "weight": 1.3,
+            "modelVersionId": 534952,
+            "modelVersionName": "Pony"
+          },
+          {
+            "type": "vae",
+            "weight": 1,
+            "modelVersionId": 648388,
+            "modelVersionName": "Luna"
+          }
+        ]
       },
-      "username": "Rodzilla2025X",
+      "username": "Ctiliate",
       "baseModel": "Pony",
-      "modelVersionIds": []
+      "modelVersionIds": [
+        9208,
+        135867,
+        290640,
+        382152,
+        436219,
+        534952,
+        1029540
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1179|1748595544135",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1179%7C1748595544135"
+    "nextCursor": "1180|1740357060000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1180%7C1740357060000"
   }
 }
