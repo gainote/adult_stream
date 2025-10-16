@@ -1,79 +1,71 @@
 {
   "items": [
     {
-      "id": 55395341,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec617051-2583-487c-a993-6b94618f6857/original=true/ec617051-2583-487c-a993-6b94618f6857.jpeg",
-      "hash": "UAIp[90c00$n014-Jh^,0LskxC~Dx]E0=|4:",
-      "width": 912,
-      "height": 1336,
-      "nsfwLevel": "X",
+      "id": 103520837,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e00ac1cf-012c-4a1e-973b-5c90e526ba2c/original=true/e00ac1cf-012c-4a1e-973b-5c90e526ba2c.jpeg",
+      "hash": "U4By1{0g0g~A-UNH0zWq00^jOE0g$*^O={58",
+      "width": 1264,
+      "height": 1848,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-02T16:45:37.555Z",
-      "postId": 12413788,
+      "browsingLevel": 4,
+      "createdAt": "2025-10-01T13:51:11.009Z",
+      "postId": 22935725,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 178,
-        "likeCount": 1617,
+        "cryCount": 105,
+        "laughCount": 175,
+        "likeCount": 1661,
         "dislikeCount": 0,
-        "heartCount": 791,
-        "commentCount": 2
+        "heartCount": 737,
+        "commentCount": 0
       },
       "meta": {
-        "VAE": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
         "Size": "832x1216",
-        "seed": 3263292500,
-        "Model": "ntrMIXIllustriousXL_v40",
-        "steps": 36,
+        "seed": 3032678800,
+        "Model": "Illustrij-GEN",
+        "steps": 30,
         "hashes": {
-          "vae": "235745af8d",
-          "model": "3bc9e8fbe6",
-          "lora:NTR_il_v1": "6f084187ab47"
+          "model": "8d33b2bd3e"
         },
-        "prompt": "1girl,dynamic pose,,ntr,gangbang,lying,drunk,dirty,used condom,cum on body,dildo,suction cup dildo,tile floor,female pubic hair,<lora:NTR_il_v1:1>, quality,amazing quality,very aesthetic,absurdres,newest,scenery,masterpiece,best quality,amazing quality,very aesthetic,absurdres,newest,scenery,volumetric lighting,",
-        "Version": "v1.10.0",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 4,
+        "prompt": "masterpiece, high_quality, highres, realistic,\nwoman, flirty, head_tilt, mature body, slim, tall, solo, tan skin,\nclose up, \nsoft_colors, \nbikini, skin pressed, cameltoe, lace,\nlying, confident,\nfront view, \nbrown hair, freckles, brown eyes, roseginger hair, long hair,\ndark, shadows",
+        "Version": "f2.0.1v1.10.1-previous-626-ga332f7cc",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "clipSkip": 2,
         "resources": [
           {
-            "hash": "6f084187ab47",
-            "name": "NTR_il_v1",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "3bc9e8fbe6",
-            "name": "ntrMIXIllustriousXL_v40",
+            "hash": "8d33b2bd3e",
+            "name": "Illustrij-GEN",
             "type": "model"
           }
         ],
-        "Model hash": "3bc9e8fbe6",
-        "Hires steps": "20",
-        "Hires upscale": "1.1",
-        "Schedule type": "Karras",
-        "Hires upscaler": "R-ESRGAN 4x+",
-        "negativePrompt": "lowres, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, old, oldest, censored, bar_censor, (pregnant), chibi, loli, simple background, conjoined",
-        "ADetailer model": "face_yolov9c.pt",
-        "ADetailer version": "24.9.0",
-        "Denoising strength": "0.5",
+        "Model hash": "8d33b2bd3e",
+        "Hires steps": "30",
+        "Hires upscale": "1.526",
+        "Original Size": "832x1216",
+        "Schedule type": "Automatic",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x_foolhardy_Remacri",
+        "negativePrompt": "worst_quality, bad_quality, poorly_detailed, shirt print",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "7",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
         "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.8",
+        "ADetailer confidence": "0.3",
         "ADetailer dilate erode": "4",
         "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
+        "ADetailer denoising strength": "0.2",
         "ADetailer inpaint only masked": "True"
       },
-      "username": "ruanyi",
+      "username": "reijlita",
       "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1061268
-      ]
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1205|1759326671009",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1205%7C1759326671009"
+    "nextCursor": "1206|1732338657372",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1206%7C1732338657372"
   }
 }
