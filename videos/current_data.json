@@ -1,66 +1,95 @@
 {
   "items": [
     {
-      "id": 61287636,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b1056d4-7674-46a4-95b1-fc3ce8dee484/original=true/9b1056d4-7674-46a4-95b1-fc3ce8dee484.jpeg",
-      "hash": "UFEx:$~9044?P2XNVuRUxt-Ut6EMP1NtD-WE",
+      "id": 75630813,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad505239-ffd1-4c2b-94c6-186402445f8d/original=true/ad505239-ffd1-4c2b-94c6-186402445f8d.jpeg",
+      "hash": "U9Ex^t%%00+t00D$xv%h0Ken-UE1tn_4^+E0",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-03-03T19:31:00.000Z",
-      "postId": 13703802,
+      "createdAt": "2025-05-11T14:37:57.307Z",
+      "postId": 16794767,
       "stats": {
-        "cryCount": 105,
-        "laughCount": 201,
-        "likeCount": 1693,
+        "cryCount": 112,
+        "laughCount": 196,
+        "likeCount": 1671,
         "dislikeCount": 0,
-        "heartCount": 705,
+        "heartCount": 724,
         "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1146151629,
-        "steps": 34,
-        "prompt": "a femme fatale Japanese woman, neon flourescent green shaggy bobbed hair, bangs, earrings, dark eyeshadow, bright crimson lips, choker, seductive, lustful, sultry, large breasts, cleavage, choker, silhouetted, sitting, wearing neon yellow lingerie, professional photography, dark background, directional lighting",
-        "sampler": "Undefined",
-        "cfgScale": 3.5,
+        "seed": 1646415601,
+        "extra": {
+          "remixOfId": 75216279
+        },
+        "steps": 50,
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, newest, mole near mouth\n1girl, solo, nyotengu \\(doa\\), cleavage, plump lips, straight hair, side locks, hime cut, makeup, purple eyes, bewitching, seductive, \n<lora:ppw_v7_animv4_1_r2:0.6>  <lora:illustrious_all_rated_v1:0.6>\nBREAK\n((slim body)),, Dynamic angle, Dynamic pose, ear piercings, Nswf,, ,, nsfw ((masterpiece)), ((masterpiece_portrait)),, (((white_collared_shirt))), ((grey_tight_line_miniskirt)), pantyhose, blush, (open shirt:1.1), big forhead, (heart-shaped pupils:1.1), flower, (detailed cute anime face:1.34), (watercolor_(medium):1.28),",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2025-03-03T1011:08.3830216Z",
+        "resources": [
+          {
+            "name": "ppw_v7_animv4_1_r2",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "name": "illustrious_all_rated_v1",
+            "type": "lora",
+            "weight": 0.6
+          }
+        ],
+        "Created Date": "2025-05-09T1958:07.3786763Z",
+        "negativePrompt": "bad quality, worst quality, worst detail, censor, bad anatomy,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 691639,
-            "modelVersionName": "Dev"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 806265,
+            "modelVersionId": 1379960,
             "modelVersionName": "v1.0"
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 914935,
-            "modelVersionName": "ink-dynamic"
+            "weight": 0.6,
+            "modelVersionId": 1141520,
+            "modelVersionName": "v1.0 [Illustrious]"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1157361,
+            "modelVersionName": "96yottea"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1375651,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1582690,
+            "modelVersionName": "v7_Animv4"
           }
         ]
       },
-      "username": "Carp37",
-      "baseModel": "Flux.1 D",
+      "username": "Misuk",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        691639,
-        806265,
-        914935
+        1141520,
+        1157361,
+        1375651,
+        1379960,
+        1582690
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1177|1746974277307",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1177%7C1746974277307"
+    "nextCursor": "1178|1733544493536",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1178%7C1733544493536"
   }
 }
