@@ -1,94 +1,70 @@
 {
   "items": [
     {
-      "id": 96156898,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9fe44159-134f-42fb-aa49-5cfc420321c4/original=true/9fe44159-134f-42fb-aa49-5cfc420321c4.jpeg",
-      "hash": "UFHBe=_3o}D%8^jDo}IV.mkqMdagH?oeM|xZ",
-      "width": 1280,
-      "height": 1856,
+      "id": 73480499,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb1670ea-0e96-4be1-8c59-3bfe40477ee7/original=true/eb1670ea-0e96-4be1-8c59-3bfe40477ee7.jpeg",
+      "hash": "UdK1amD$OFjG~pWBIps:%MtRt8jYIoWXxaWA",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-08-25T16:48:49.441Z",
-      "postId": 21327898,
+      "createdAt": "2025-05-01T11:43:14.040Z",
+      "postId": 16320313,
       "stats": {
-        "cryCount": 123,
-        "laughCount": 181,
-        "likeCount": 1662,
+        "cryCount": 121,
+        "laughCount": 173,
+        "likeCount": 1609,
         "dislikeCount": 0,
-        "heartCount": 719,
-        "commentCount": 2
+        "heartCount": 781,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 1134427003,
-        "Model": "urn:air:sdxl:checkpoint:civitai:372465@1920896",
-        "extra": {},
-        "steps": 35,
-        "width": 1280,
-        "height": 1856,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:372465@1920896"
-        ],
-        "prompt": "low angle view from below, score_9, score_8_up, score_8, score_7, through glass floor, sexy nymph nerd girl, beautiful face, cute ((hair pull)), gorgeous, eyes, tongue out, salvia, moaning, arousal, (beautiful hair with highlights), (thigh high socks:1.5), pink nipples, small breasts, vaginal penetration, prone position, ass slightly in the air, 1boy, 19 years-old, doggystyle ass up, cum in ass, cum on face, cum on body, cum on breasts, cum in hair",
-        "denoise": 0.4,
-        "process": "txt2img",
-        "sampler": "dpmpp_2_ancestral",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-facefix",
-        "baseModel": "Pony",
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/45WJV0WNEKTMFBBXPQF3FHANC0",
-          "width": 1280,
-          "height": 1856
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 1739050750,
+        "Model": "prefect_illustrious_xl_1.5.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "2bb6bbee58"
         },
-        "experimental": false,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
-        "civitaiResources": [
+        "prompt": "masterpiece,best quality,amazing quality,absurdres, BREAK \n1girl, ass, ass focus, bare shoulders, black bra, black panties, black pantyhose, black skirt, blonde hair, blurry, blurry background, blush, bra, braid, breasts, brown pantyhose, elf, from behind, green eyes, hair ornament, hairclip, high heels, indoors, large breasts, long hair, long sleeves, looking at viewer, looking back, mole, mole under eye, off shoulder, office lady, open mouth, panties, panties under pantyhose, pantyhose, pencil skirt, pointy ears, pussy juice, shirt, skirt, solo, squatting, sweat, underwear, white shirt",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 5,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1920896
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 398847
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219
-          },
-          {
-            "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 244808
+            "hash": "2bb6bbee58",
+            "name": "prefect_illustrious_xl_1.5.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "2bb6bbee58",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,",
+        "ADetailer model": "Anzhc_Face.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.6",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "solumbragt355",
-      "baseModel": "Pony",
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        244808,
-        382152,
-        398847,
-        436219,
-        1920896
+        1731647
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1202|1746099794040",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1202%7C1746099794040"
+    "nextCursor": "1203|1751233686404",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1203%7C1751233686404"
   }
 }
