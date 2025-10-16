@@ -1,94 +1,94 @@
 {
   "items": [
     {
-      "id": 38458239,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f390c38-1bc5-4057-b77b-f721c5333353/original=true/6f390c38-1bc5-4057-b77b-f721c5333353.jpeg",
-      "hash": "U9C#;;%e0zIp-nocSeWB57NZ%LR+~A^jxtsC",
-      "width": 832,
-      "height": 1216,
+      "id": 96156898,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9fe44159-134f-42fb-aa49-5cfc420321c4/original=true/9fe44159-134f-42fb-aa49-5cfc420321c4.jpeg",
+      "hash": "UFHBe=_3o}D%8^jDo}IV.mkqMdagH?oeM|xZ",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-11-05T09:16:00.269Z",
-      "postId": 8778852,
+      "createdAt": "2025-08-25T16:48:49.441Z",
+      "postId": 21327898,
       "stats": {
-        "cryCount": 113,
-        "laughCount": 193,
-        "likeCount": 1591,
+        "cryCount": 123,
+        "laughCount": 181,
+        "likeCount": 1662,
         "dislikeCount": 0,
-        "heartCount": 792,
-        "commentCount": 1
+        "heartCount": 719,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1177459350,
-        "extra": {
-          "remixOfId": 38278555
-        },
-        "steps": 38,
-        "prompt": "(score_9, score_8_up:1.1), score_7_up, 1girl, 1boy, gorgeous girl laying on back, hanging over arm of sofa, boy out of frame, deepthroat blowjob, sexy, girl's head hanging upside down unfocused gaze, legs spread, long hair, blonde hair, ,lying on sofa, boy standing next to sofa, massive cock in girl's mouth, sexy, t-shirt pulled up,exposed erect nipples, tiny breasts, hand in her lace panties, masturbating, sweaty skin, top view",
-        "sampler": "Euler a",
+        "seed": 1134427003,
+        "Model": "urn:air:sdxl:checkpoint:civitai:372465@1920896",
+        "extra": {},
+        "steps": 35,
+        "width": 1280,
+        "height": 1856,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:372465@1920896"
+        ],
+        "prompt": "low angle view from below, score_9, score_8_up, score_8, score_7, through glass floor, sexy nymph nerd girl, beautiful face, cute ((hair pull)), gorgeous, eyes, tongue out, salvia, moaning, arousal, (beautiful hair with highlights), (thigh high socks:1.5), pink nipples, small breasts, vaginal penetration, prone position, ass slightly in the air, 1boy, 19 years-old, doggystyle ass up, cum in ass, cum on face, cum on body, cum on breasts, cum in hair",
+        "denoise": 0.4,
+        "process": "txt2img",
+        "sampler": "dpmpp_2_ancestral",
         "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-11-05T0912:30.9986199Z",
-        "negativePrompt": "watermark, signature, artist name, 3d, muscular, futanari, ugly face, mutated hands, low res, blurry face, watermark, title, signature,  NegativeDynamics, negative_hand, monochrome, chibi, black and white, piercing, braids, furry, extra fingers, extra arms, extra legs, small pupils, small eyes",
+        "priority": "low",
+        "quantity": 1,
+        "workflow": "img2img-facefix",
+        "baseModel": "Pony",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "sourceImage": {
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/45WJV0WNEKTMFBBXPQF3FHANC0",
+          "width": 1280,
+          "height": 1856
+        },
+        "experimental": false,
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1920896
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "weight": 0.45,
+            "modelVersionId": 382152
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 0.35,
+            "modelVersionId": 398847
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
+            "weight": 0.6,
+            "modelVersionId": 436219
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808
           }
         ]
       },
-      "username": "Good999",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        239420,
-        290640,
+        244808,
+        382152,
         398847,
-        436219
+        436219,
+        1920896
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1201|1756140529441",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1201%7C1756140529441"
+    "nextCursor": "1202|1746099794040",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1202%7C1746099794040"
   }
 }
