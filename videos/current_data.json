@@ -1,152 +1,101 @@
 {
   "items": [
     {
-      "id": 59682928,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cfa124ae-fea7-4a42-ac83-660272d83632/original=true/cfa124ae-fea7-4a42-ac83-660272d83632.jpeg",
-      "hash": "UDHxQl002u;{7%I9NJibtms8^%IqAv#+MdTK",
+      "id": 31600670,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d470bfee-f384-49ef-a5a8-8aa1ea09c653/original=true/d470bfee-f384-49ef-a5a8-8aa1ea09c653.jpeg",
+      "hash": "UTK,,CTe_N-A^+x[fkoL~qj@tlRP?vadW;RP",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-02-24T00:31:00.000Z",
-      "postId": 13347484,
+      "browsingLevel": 4,
+      "createdAt": "2024-09-27T15:23:01.983Z",
+      "postId": 7115466,
       "stats": {
-        "cryCount": 103,
-        "laughCount": 158,
-        "likeCount": 1695,
+        "cryCount": 81,
+        "laughCount": 208,
+        "likeCount": 1604,
         "dislikeCount": 0,
-        "heartCount": 745,
-        "commentCount": 0
+        "heartCount": 807,
+        "commentCount": 3
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "Size": "832x1216",
+        "seed": 3598463447,
         "extra": {
-          "remixOfId": 51665909
+          "remixOfId": 30161823
         },
-        "steps": 31,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "safe_pos, score_9, score_8_up, score_8, 1girl , solo sexy elf woman, green eyes, long pink hair, thick eyeliner, perfect face, slim, small breasts, nude, pale skin,((colorful tribal bodypaint)), pussy, dynamic pose, volumetric lighting, cinematic lighting, outdoors, beach, blurry background",
+        "steps": 29,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, \n2girls, \nstanding, \nlooking at viewer, smiling, in love, puffy pouty lips, flirty, half-closed eyes, \nwhite background, simple background,\n<lora:Neromashin Style_FinalVersion:0.3>\n,  1girl, petite elf, curves, red curly hair, ginger, freckles, long hair, cleavage, round glasses, blue eyes, lingerie, hileg thong, small breasts, thick thighs,\nBREAK score_9, score_8_up, score_7_up, score_6_up, \n2girls, \nstanding, \nlooking at viewer, smiling, in love, puffy pouty lips, flirty, half-closed eyes, \nwhite background, simple background,\n<lora:Neromashin Style_FinalVersion:0.3>\n,  1girl, petite elf, small breasts, (((grey skin))), long white hair, long hair, purple eyes, messy feathered bangs, thick eyeliner, lingerie, thong, thick thighs, lilandavastyle, Expressiveh, g0thicPXL, glowing, neon,, possmach",
         "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "modelIds": [],
-        "workflow": "img2img-facefix",
-        "upscalers": [],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "safe_neg, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, hands on own face, chibi, child, border, signature",
+        "cfgScale": 5.5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-27T0011:40.8178488Z",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, mutated hands, low res, blurry face, black and white, easynegative, worst quality, low quality, simple background, watermark, text, large breasts",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 60938
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 179964
-          },
-          {
-            "weight": 0.7,
-            "modelVersionId": 298238
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 378950
-          },
-          {
-            "weight": 0.65,
-            "modelVersionId": 421754
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 244808
-          },
-          {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 298238
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 378950
+            "modelVersionId": 373439,
+            "modelVersionName": "Lil Andava style PDXL V1"
           },
           {
             "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 421754
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:212532@244808",
-            "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
+            "weight": 0.85,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:264290@298238",
             "type": "lora",
-            "strength": 0.7,
-            "strengthClip": 1
+            "weight": 0.45,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:211726@378950",
             "type": "lora",
-            "strength": 0.5,
-            "strengthClip": 1
+            "weight": 0.45,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
           },
           {
-            "name": "urn:air:sdxl:lora:civitai:377690@421754",
             "type": "lora",
-            "strength": 0.65,
-            "strengthClip": 1
+            "weight": 0.6,
+            "modelVersionId": 548491,
+            "modelVersionName": "Pony v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "ElvishDreams",
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
-        60938,
-        179964,
-        244808,
         290640,
-        298238,
-        378950,
-        421754
+        373439,
+        382152,
+        398847,
+        436219,
+        548491
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1181|1727450581983",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1181%7C1727450581983"
+    "nextCursor": "1182|1740943800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1182%7C1740943800000"
   }
 }
