@@ -1,119 +1,88 @@
 {
   "items": [
     {
-      "id": 13106758,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4fce020-64d6-4cf3-9bfb-6a5b84fc772e/original=true/b4fce020-64d6-4cf3-9bfb-6a5b84fc772e.jpeg",
-      "hash": "UJHU95Se9v%1~qX7M|s9yXWX={of9~bIWAIp",
+      "id": 77765775,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b8be48c-2289-45ac-bf65-c30b6d05692e/original=true/0b8be48c-2289-45ac-bf65-c30b6d05692e.jpeg",
+      "hash": "UGN8]U001iofuPvfkXE15W=t9|E2FzMcT0oz",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-05-21T02:04:18.144Z",
-      "postId": 2897789,
+      "createdAt": "2025-05-22T06:45:00.000Z",
+      "postId": 17274136,
       "stats": {
-        "cryCount": 83,
-        "laughCount": 181,
-        "likeCount": 1400,
+        "cryCount": 68,
+        "laughCount": 161,
+        "likeCount": 1554,
         "dislikeCount": 0,
-        "heartCount": 1042,
-        "commentCount": 0
+        "heartCount": 922,
+        "commentCount": 4
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 1695057041,
-        "steps": 19,
-        "prompt": "score_9, score_8_up, score_7_up, (beautiful scenery:1.5), reference sheet, (full body, from side, front:1.1), upper body, cartoon, 1woman, 1man, vaginal sex, outie pussy, rough sex, Expressiveh, a sexy girl in among beautiful scenery, exposed breasts, multicoloured hair, colour theory, deep penetration, balls deep, naughty, slobber, spit bubbles, horny,  looking at viewer, close on face, twintail hair, artistic fashion, showing ass, large breasts, breasts exposed, perfect face, thin waist, long legs, vagina exposed, horny look on face, semi realistic, floating neon hearts, consensual sex, super happy, huge smile, fantastical, from above, looking up, beautiful eyes, \nscore_9,score_8_up,score_7_up,very aesthetic ,(masterpiece:1.4), (best quality), (colorful), (detailed) dramatic angle, unique perspective, unique angle, comic book angle and perspective, wide angle,",
-        "sampler": "Euler a",
-        "cfgScale": 3,
+        "nsfw": false,
+        "seed": 2036301852,
+        "draft": false,
+        "steps": 29,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece, best quality, very aesthetic, absurdres, (anime coloring:1.2), ambient light, soft light, Yakan2g0u_illu, Rapscallionstyle, artist:moriimee, usnr,\n ultra-detailed, 8K, illustration,CG, 1girl, solo, beautiful, head out of frame, long dark hair, sexy, tan skin, topless, perfect body, large perky breasts, underboob, smooth skin, laying on ground, hands covering nipples, skindentation, soft breast, deformed breast, tanline, wet skin, front view, close up, centered view, view from the belly, low angle, view from below, breast focus, blurry blue sky background, \nhigh detail, sharp shading, centered composition, soft shadows",
+        "sampler": "Euler",
+        "cfgScale": 4,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2024-05-19T1227:25.9972727Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female , futa, futanari, trans, anthro,",
+        "Created Date": "2025-05-22T0618:59.4909206Z",
+        "negativePrompt": "bad quality, worst quality, worst detail, censor, missing fingers, extra fingers, blurry eyes, poorly drawn eyes, skewed eyes, bad anatomy, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, signature, watermark, censored, logo, waterprints, title",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
+            "modelVersionId": 1763717,
+            "modelVersionName": "Illustrious2 + NoobAI"
           },
           {
             "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 3,
+            "modelVersionId": 1122976,
+            "modelVersionName": "v1.0 - Initial Release"
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 309802,
-            "modelVersionName": "v1.0"
+            "weight": 0.35,
+            "modelVersionId": 1169143,
+            "modelVersionName": "Rapscallion Illustrious"
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight"
-          },
-          {
-            "type": "lora",
-            "weight": 0.2,
-            "modelVersionId": 354128,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 390297,
-            "modelVersionName": "Rapunzel - XL - PONY"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 416030,
-            "modelVersionName": "-PONY XL-"
+            "weight": 0.85,
+            "modelVersionId": 1244133,
+            "modelVersionName": "V1 Ilustrious"
           },
           {
             "type": "lora",
             "weight": 0.5,
-            "modelVersionId": 505533,
-            "modelVersionName": "scenery"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "modelVersionId": 1552087,
+            "modelVersionName": "USNR_STYLE_ILL_V1.0"
           }
         ]
       },
-      "username": "solumbragt355",
-      "baseModel": "Pony",
+      "username": "Futurabbit",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        290640,
-        309802,
-        330475,
-        354128,
-        382152,
-        390297,
-        416030,
-        505533
+        1122976,
+        1169143,
+        1244133,
+        1552087,
+        1763717
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1174|1747896300000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1174%7C1747896300000"
+    "nextCursor": "1175|1742402540024",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1175%7C1742402540024"
   }
 }
