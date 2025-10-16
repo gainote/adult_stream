@@ -1,135 +1,60 @@
 {
   "items": [
     {
-      "id": 89273887,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/881fb78f-cdc3-4cc2-9363-eba845236bf2/original=true/881fb78f-cdc3-4cc2-9363-eba845236bf2.jpeg",
-      "hash": "UCD[^J}?0Koz4.t6-;NI9|oL$MxajGRjWBRj",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 63740180,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30e2da20-3060-4161-97ea-ab9d2f2d36e9/original=true/30e2da20-3060-4161-97ea-ab9d2f2d36e9.jpeg",
+      "hash": "U9G@[R0YGw%2E102-UVX0f+Y;KOtI9~Vxux]",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-20T02:25:00.000Z",
-      "postId": 19805340,
+      "browsingLevel": 8,
+      "createdAt": "2025-04-22T02:20:00.000Z",
+      "postId": 14217184,
       "stats": {
-        "cryCount": 108,
-        "laughCount": 192,
-        "likeCount": 1667,
+        "cryCount": 106,
+        "laughCount": 223,
+        "likeCount": 1595,
         "dislikeCount": 0,
-        "heartCount": 706,
-        "commentCount": 1
+        "heartCount": 750,
+        "commentCount": 0
       },
       "meta": {
-        "seed": 402691757,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:1559047@1971591",
-        "extra": {},
-        "steps": 25,
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 534551239,
+        "draft": false,
+        "steps": 30,
         "width": 832,
         "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:1559047@1971591"
-        ],
-        "prompt": "score_9, score_8_up, score_8_up, 28yo girl, very thin, flat body, medium sized breasts, expressive face, bob, blonde hair combed behind ear, portrait photo, blurred background, neon lighting, sheer tank top with straps, tan, mouth open, view from the street, rain outside, standing on the balcony, side view, cityscape, highrise",
-        "process": "img2img",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 3.5,
+        "prompt": "1girl, toned body, perky breasts, abs, breasts pressed together, cleavage, resting head on hand, Short hair long bangs, arm tattoo, dark skinned female, stomach scar, naked, large breasts, dark areolas, depth of field, blurry background, bedroom, lying on side, in bed, pulling covers up in invitation, one leg bent, pubic hair, on side, come hither, bed invitation, under covers, invitation, looking at viewer, glossy sweat drenched body, steamy, blushing, night, focus on female ,masterpiece, best quality, amazing quality, mouth open speaking to viewer",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
         "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 6,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/AMZ1GMJ3RVE86VVRKBECCJCPQ0.jpeg",
-          "width": 832,
-          "height": 1216
-        },
-        "experimental": false,
-        "negativePrompt": "score_5, score_4, score_3, watermark, fat, strabismus, artist name. clothes, underwear, swimsuit, \ntop, bra, panties, \nshorts, skirt, dress, T-shirt, child, young,",
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "Created Date": "2025-03-15T2242:16.0131301Z",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1971591
-          },
-          {
-            "weight": 1.05,
-            "modelVersionId": 1242203
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1420899
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1926656
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1971591
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
-            "type": "lora",
-            "weight": 1.05,
-            "modelVersionId": 1242203
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1420899
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 1926656
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:1105685@1242203",
-            "type": "lora",
-            "strength": 1.05,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1260140@1420899",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1702438@1926656",
-            "type": "lora",
-            "strength": 1,
-            "strengthClip": 1
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
           }
         ]
       },
-      "username": "klaabu",
-      "baseModel": "Pony",
+      "username": "Vlando",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        1242203,
-        1420899,
-        1926656,
-        1971591
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1211|1745288400000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1211%7C1745288400000"
+    "nextCursor": "1212|1748306220000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1212%7C1748306220000"
   }
 }
