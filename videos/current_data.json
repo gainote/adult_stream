@@ -1,58 +1,86 @@
 {
   "items": [
     {
-      "id": 38553366,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ae2b79c-a434-4644-93b6-bab351f1ce9e/original=true/2ae2b79c-a434-4644-93b6-bab351f1ce9e.jpeg",
-      "hash": "U58pM]}r201#GcS#$*$*0,Ip#R#,MyRPRPNG",
-      "width": 896,
-      "height": 1152,
+      "id": 76042460,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cbbcf477-631e-40e7-bfc0-e320c6d600d8/original=true/cbbcf477-631e-40e7-bfc0-e320c6d600d8.jpeg",
+      "hash": "U6NJd+00}[00.m01%2~p004TPADi^k%M?wIo",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-11-17T13:48:09.351Z",
-      "postId": 8799847,
+      "browsingLevel": 16,
+      "createdAt": "2025-05-13T15:10:00.000Z",
+      "postId": 16883694,
       "stats": {
-        "cryCount": 82,
-        "laughCount": 180,
-        "likeCount": 1685,
+        "cryCount": 87,
+        "laughCount": 205,
+        "likeCount": 1543,
         "dislikeCount": 0,
-        "heartCount": 747,
+        "heartCount": 857,
         "commentCount": 0
       },
       "meta": {
-        "Size": "896x1152",
-        "seed": 1357494166,
-        "Model": "iNiverseMix_F1D_fp8_real_NSFW_V21",
-        "steps": 31,
+        "Size": "832x1216",
+        "seed": 513965710,
+        "Model": "novaAnimeXL_ilV70",
+        "steps": 30,
         "hashes": {
-          "model": "15ab0381d1"
+          "model": "8ffaf9c1f3",
+          "lora:sexphone": "448476f5bcfa"
         },
-        "prompt": "A captivating woman,age 20,with platinum blonde hair,fully naked. She stands on a balcony overlooking the city at night,the soft glow of the streetlights illuminating her figure.,Photorealistic,Hyperrealistic,Hyperdetailed,analog style,soft lighting,subsurface scattering,realistic,heavy shadow,masterpiece,best quality,ultra realistic,8k,golden ratio,Intricate,High Detail,film photography,soft focus,",
-        "Version": "f2.0.1v1.10.1-previous-581-ge4ad1140",
-        "sampler": "Euler",
-        "Module 1": "ae",
-        "Module 2": "clip_l",
-        "Module 3": "t5xxl_fp8_e4m3fn",
-        "cfgScale": 1,
+        "prompt": "masterpiece,best quality,amazing quality,newest,absurdres,highres, newest,very awa, scenery,  anime,flat color,\ndutch angle,from above,\n1girl, beautiful face, perfect eyes, detailed eyes,mature female,milf,\nbrown hair,long hair, low ponytail, hair in front,\nhead tilt,looking at viewer,\nblush, heavy breathing, torogao,:o,\nhuge breasts,large areolas,thick thighs,wide hips, pubic hair,\nwhite shirt, shirt lift,skirt lift,green apron between breasts,panties aside,bra lift,lace-trimmed bra,  black lace-trimmed panties,\npussy,sex, gigantic penis, leaning on table,on table, spread legs,legs up, skindentation,\nbreast grab,pussy juice, gaping, clothed male,thigh grab,\nkitchen,smartphone,holding phone,sexphone, talking on phone, hearts, motion lines, trembling,\ndepth of field,volumetric light,(blurry background:1.2),photo background,  ,shadow, chromatic aberration, blurry foreground,sunlight, light rays, lens flare, bokeh,\n <lora:sexphone:1>",
+        "Version": "f2.0.1v1.10.1-1.10.1",
+        "sampler": "Euler a",
+        "cfgScale": 5,
         "resources": [
           {
-            "hash": "15ab0381d1",
-            "name": "iNiverseMix_F1D_fp8_real_NSFW_V21",
+            "hash": "448476f5bcfa",
+            "name": "sexphone",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "8ffaf9c1f3",
+            "name": "novaAnimeXL_ilV70",
             "type": "model"
           }
         ],
-        "Model hash": "15ab0381d1",
-        "Schedule type": "Simple",
-        "Distilled CFG Scale": "3.5"
+        "Model hash": "8ffaf9c1f3",
+        "Hires steps": "30",
+        "Hires upscale": "1.5",
+        "Schedule type": "Exponential",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-AnimeSharp",
+        "negativePrompt": "low quality,worst quality,normal quality,signature,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,bad anatomy, bad hands, bad fingers,extra fingers,body horror,censor,mosaic censoring,  child, loli, symbol-shaped pupils, multiple colors hair,lips,(ear tucking hair:1.4),shiny skin,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Hires CFG Scale": "5",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.5",
+        "ADetailer mask blur": "4",
+        "ADetailer model 2nd": "hand_yolov8n.pt",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer confidence 2nd": "0.3",
+        "ADetailer inpaint padding": "32",
+        "ADetailer dilate erode 2nd": "4",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer inpaint only masked 2nd": "True"
       },
-      "username": "JinnGames",
-      "baseModel": "Flux.1 D",
-      "modelVersionIds": []
+      "username": "Bunnykiin",
+      "baseModel": "Illustrious",
+      "modelVersionIds": [
+        1413720,
+        1738204
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1188|1747149000000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1188%7C1747149000000"
+    "nextCursor": "1189|1736699747067",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1189%7C1736699747067"
   }
 }
