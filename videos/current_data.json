@@ -1,86 +1,118 @@
 {
   "items": [
     {
-      "id": 61483405,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d5c91da6-b765-434e-afc2-10b5a3e1e5a9/original=true/d5c91da6-b765-434e-afc2-10b5a3e1e5a9.jpeg",
-      "hash": "UZL{|~~Vtk-oxtxuRjj?%gNHoLofoeWBjFs:",
-      "width": 832,
-      "height": 1216,
+      "id": 42922340,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce4e936b-5eca-4ff6-8bef-5c9a242f8e68/original=true/ce4e936b-5eca-4ff6-8bef-5c9a242f8e68.jpeg",
+      "hash": "U8G*EL=|01ofFmt600R%9Zxb=fR*^-s;tSR*",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-03-04T19:24:00.000Z",
-      "postId": 13743995,
+      "createdAt": "2024-11-30T14:22:44.510Z",
+      "postId": 9766845,
       "stats": {
-        "cryCount": 114,
-        "laughCount": 197,
-        "likeCount": 1589,
+        "cryCount": 111,
+        "laughCount": 181,
+        "likeCount": 1575,
         "dislikeCount": 0,
-        "heartCount": 774,
-        "commentCount": 0
+        "heartCount": 807,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": true,
-        "seed": 1757090987,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_9, score_8_up, 2girls (Elsa, Anna, shower, nude, water droplets, aroused, masturbating, fingering pussy), wet, steamy shower, Arendelle, godrays, dappled sunlight, warm light, depth of field, bokeh",
+        "seed": 1871427985,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:594253@918032",
+        "extra": {},
+        "steps": 32,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:594253@918032"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_7_up, source_anime,anime style, highly detailed, colorful,\ngorgeous woman,  sad deep blue eyes looking at viewer, long eyelashes, blonde hair, long hair, parting hair , medium puffy breasts,\n\nshiny pink latex, pink bikini top, thighhighs and elbow gloves,  pink latex bunny-ears-hairband, pink slave collar,\non stage, neons, glowing, dark room blue curtains background, \n\n(side low view, straddling sex, screaming :1.5), \n\nblushing, \n\nMiyajima Tsubaki, ",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-02-17T1538:23.3491313Z",
-        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet, back tattoo, neck tattoo, stomach tattoo, pelvis tattoo, chest tattoo,",
+        "cfgScale": 5,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_5, score_4, score_3, muscular, fury, child, kid, easynegative, extra fingers, bad, distorted hands, censored, blurry, text, muscular, downsampling, watermark, twisted, logo, monochrome, signature, poorly drawn, artifacts, low-quality,",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 918032
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 918032
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 703107
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 679616
+          },
+          {
+            "modelVersionId": 250708
+          },
+          {
+            "modelVersionId": 250712
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 1199750,
-            "modelVersionName": "v5.0"
+            "modelVersionId": 918032
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
             "weight": 1,
-            "modelVersionId": 371412,
-            "modelVersionName": "Jab Style PNY V1.5"
+            "modelVersionId": 703107
           },
           {
             "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 315777,
-            "modelVersionName": "Low-key xl v1.0"
+            "weight": 0.8,
+            "modelVersionId": 679616
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:73756@703107",
+            "type": "lora",
+            "strength": 1,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "name": "urn:air:sdxl:lora:civitai:607974@679616",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "perchancekage0000",
-      "baseModel": "Pony",
+      "username": "MatureOnly",
+      "baseModel": "PonyPonyPony",
       "modelVersionIds": [
-        315777,
-        371412,
-        1199750
+        164821,
+        679616,
+        679616,
+        703107,
+        703107,
+        918032,
+        918032,
+        918032
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1209|1732976564510",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1209%7C1732976564510"
+    "nextCursor": "1210|1752978300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1210%7C1752978300000"
   }
 }
