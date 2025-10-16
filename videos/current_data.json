@@ -1,111 +1,152 @@
 {
   "items": [
     {
-      "id": 79356493,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/792e052e-154d-4fab-b18c-7b14ad7e8e42/original=true/792e052e-154d-4fab-b18c-7b14ad7e8e42.jpeg",
-      "hash": "UBFElv5TD~^+?u~AS1%L00-n-pE1z.9vO@D*",
+      "id": 59682928,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cfa124ae-fea7-4a42-ac83-660272d83632/original=true/cfa124ae-fea7-4a42-ac83-660272d83632.jpeg",
+      "hash": "UDHxQl002u;{7%I9NJibtms8^%IqAv#+MdTK",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-30T08:59:04.135Z",
-      "postId": 17630293,
+      "browsingLevel": 8,
+      "createdAt": "2025-02-24T00:31:00.000Z",
+      "postId": 13347484,
       "stats": {
-        "cryCount": 109,
-        "laughCount": 230,
-        "likeCount": 1629,
+        "cryCount": 103,
+        "laughCount": 158,
+        "likeCount": 1695,
         "dislikeCount": 0,
-        "heartCount": 734,
+        "heartCount": 745,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 323763448,
-        "draft": false,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
         "extra": {
-          "remixOfId": 64055003
+          "remixOfId": 51665909
         },
-        "steps": 17,
-        "width": 832,
-        "height": 1216,
-        "prompt": "score_10, score_9, score_8, masterpiece, best quality, kawaii girl,1girl, solo , rating_safe, source_cartoon, semirealistic , Expressiveh, (1girl), (solo), 18 year old girl, very attractive face, seductive smile, innocent girl, petite, bold black eyeliner, full pouty lips, flawless shiny skin, (full pouty lips), (wavy hair:1.5), (dark brown hair), (hair behind ear), (head tilted), (slim fit), white fingernails, slender body, (small breast), perfect thighs, thigh gap, narrow waist, BREAK.(  long sleeve t-shirt:1.4),( abs:1.3), ((low waist leather pants)),( g-string:1.4), black ankle boots, night, noir, indoors, gray, flat colors, cowboy shot, breast focus, standing , front view, dynamic angle",
+        "steps": 31,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "safe_pos, score_9, score_8_up, score_8, 1girl , solo sexy elf woman, green eyes, long pink hair, thick eyeliner, perfect face, slim, small breasts, nude, pale skin,((colorful tribal bodypaint)), pussy, dynamic pose, volumetric lighting, cinematic lighting, outdoors, beach, blurry background",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "quantity": 3,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "Created Date": "2025-05-26T1917:34.7334069Z",
-        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature, lineless, watermark,signature, logo,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, hyper, glitch, overexposed, high-contrast, bad-contrast, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, long neck, SimpleNegativeV3, (large areola), pubes, zPDXLxxx, earrings, maid, muscular, jacket, panties, 6fingers, group sex, 2guys, naked, nude, shorts, necklace,( torn clothes:1.5), cleavage,( nipples:1.5),( topless:1.5),",
+        "cfgScale": 4.5,
+        "modelIds": [],
+        "workflow": "img2img-facefix",
+        "upscalers": [],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "safe_neg, score_6, score_5, score_4, busty, ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, hands on own face, chibi, child, border, signature",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 60938
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 179964
+          },
+          {
+            "weight": 0.7,
+            "modelVersionId": 298238
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 378950
+          },
+          {
+            "weight": 0.65,
+            "modelVersionId": 421754
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250708
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 250712
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
-            "weight": 1.25,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.65,
+            "modelVersionId": 244808
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
+            "weight": 0.7,
+            "modelVersionId": 298238
           },
           {
             "type": "lora",
-            "weight": 0.75,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
+            "weight": 0.5,
+            "modelVersionId": 378950
           },
           {
             "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 1029540,
-            "modelVersionName": "Gothic Neon v2"
-          },
+            "weight": 0.65,
+            "modelVersionId": 421754
+          }
+        ],
+        "additionalResources": [
           {
+            "name": "urn:air:sdxl:lora:civitai:212532@244808",
             "type": "lora",
-            "weight": 1.3,
-            "modelVersionId": 534952,
-            "modelVersionName": "Pony"
+            "strength": 0.65,
+            "strengthClip": 1
           },
           {
-            "type": "vae",
-            "weight": 1,
-            "modelVersionId": 648388,
-            "modelVersionName": "Luna"
+            "name": "urn:air:sdxl:lora:civitai:264290@298238",
+            "type": "lora",
+            "strength": 0.7,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:211726@378950",
+            "type": "lora",
+            "strength": 0.5,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:377690@421754",
+            "type": "lora",
+            "strength": 0.65,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "Ctiliate",
+      "username": "ElvishDreams",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        135867,
+        60938,
+        179964,
+        244808,
         290640,
-        382152,
-        436219,
-        534952,
-        1029540
+        298238,
+        378950,
+        421754
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1180|1740357060000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1180%7C1740357060000"
+    "nextCursor": "1181|1727450581983",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1181%7C1727450581983"
   }
 }
