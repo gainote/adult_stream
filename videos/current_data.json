@@ -1,38 +1,119 @@
 {
   "items": [
     {
-      "id": 47749238,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f3bf5bc5-b455-415c-a8f5-db71cefec288/original=true/f3bf5bc5-b455-415c-a8f5-db71cefec288.jpeg",
-      "hash": "UHCi]tkDNbRP~VWBE1WBnNj?IobI.8ayMxj[",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 13106758,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4fce020-64d6-4cf3-9bfb-6a5b84fc772e/original=true/b4fce020-64d6-4cf3-9bfb-6a5b84fc772e.jpeg",
+      "hash": "UJHU95Se9v%1~qX7M|s9yXWX={of9~bIWAIp",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-12-26T16:38:55.337Z",
-      "postId": 10776092,
+      "browsingLevel": 8,
+      "createdAt": "2024-05-21T02:04:18.144Z",
+      "postId": 2897789,
       "stats": {
-        "cryCount": 79,
-        "laughCount": 143,
-        "likeCount": 1741,
+        "cryCount": 83,
+        "laughCount": 181,
+        "likeCount": 1400,
         "dislikeCount": 0,
-        "heartCount": 745,
-        "commentCount": 1
+        "heartCount": 1042,
+        "commentCount": 0
       },
-      "meta": null,
-      "username": "paulmuc",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 1695057041,
+        "steps": 19,
+        "prompt": "score_9, score_8_up, score_7_up, (beautiful scenery:1.5), reference sheet, (full body, from side, front:1.1), upper body, cartoon, 1woman, 1man, vaginal sex, outie pussy, rough sex, Expressiveh, a sexy girl in among beautiful scenery, exposed breasts, multicoloured hair, colour theory, deep penetration, balls deep, naughty, slobber, spit bubbles, horny,  looking at viewer, close on face, twintail hair, artistic fashion, showing ass, large breasts, breasts exposed, perfect face, thin waist, long legs, vagina exposed, horny look on face, semi realistic, floating neon hearts, consensual sex, super happy, huge smile, fantastical, from above, looking up, beautiful eyes, \nscore_9,score_8_up,score_7_up,very aesthetic ,(masterpiece:1.4), (best quality), (colorful), (detailed) dramatic angle, unique perspective, unique angle, comic book angle and perspective, wide angle,",
+        "sampler": "Euler a",
+        "cfgScale": 3,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-05-19T1227:25.9972727Z",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female , futa, futanari, trans, anthro,",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 309802,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
+          },
+          {
+            "type": "lora",
+            "weight": 0.2,
+            "modelVersionId": 354128,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 390297,
+            "modelVersionName": "Rapunzel - XL - PONY"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 416030,
+            "modelVersionName": "-PONY XL-"
+          },
+          {
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 505533,
+            "modelVersionName": "scenery"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
         135867,
-        164821,
+        290640,
+        309802,
+        330475,
+        354128,
         382152,
-        1177183
+        390297,
+        416030,
+        505533
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1173|1716257058144",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1173%7C1716257058144"
+    "nextCursor": "1174|1747896300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1174%7C1747896300000"
   }
 }
