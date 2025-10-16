@@ -1,95 +1,38 @@
 {
   "items": [
     {
-      "id": 99027838,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5380a39-4a38-467a-83f7-dccf42d96740/original=true/c5380a39-4a38-467a-83f7-dccf42d96740.jpeg",
-      "hash": "UFJ@LJ~X4--:00jGITRj0gIo-59t-6IU$$$#",
-      "width": 832,
-      "height": 1216,
+      "id": 54515255,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4c66f820-3311-4e5c-8a43-16aa27894017/original=true/4c66f820-3311-4e5c-8a43-16aa27894017.jpeg",
+      "hash": "UZGaH~~9-nbaRkWBj[bHE3IpM}azt6baafe:",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-09-08T01:39:55.744Z",
-      "postId": 21972333,
+      "createdAt": "2025-01-29T03:40:45.969Z",
+      "postId": 12224041,
       "stats": {
-        "cryCount": 106,
-        "laughCount": 172,
-        "likeCount": 1597,
+        "cryCount": 118,
+        "laughCount": 217,
+        "likeCount": 1602,
         "dislikeCount": 0,
-        "heartCount": 843,
-        "commentCount": 0
+        "heartCount": 780,
+        "commentCount": 3
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1636649555,
-        "draft": false,
-        "extra": {
-          "remixOfId": 96602349
-        },
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, \n(realistic:1), (flat color:1.75), (haiz_ai:1), (lineart:1.5), (no outline:1), (Flat vector:1.1),\n1girl, 2b_(nier_automata), hime cut hair, (blue hair), slim build, (medium perky breasts), erect nipples, big nipples, breasts exposed, fishnet stockings, full body, wide eyes, pink lips, seductive, blush cheeks, dynamic pose, lying on table, spread legs, arm support, back arched, female orgasm, rough, deep vaginal, pussy juice, above angle, dutch angle, closeup, girl face focus, bedroom, looking at viewer, Butt spread, laying on side, on bed, naked ass, naked vagina, pussy visible, vibrant colors, warm tones, subtle light, artistic composition, intricate fabric texture, high detail, cover page, masterwork, masterpiece, best quality, very aesthetic, absurdres, newest, huge filesize, highres, detailed, detailed fingers, raytracing, volumetric lighting, ambient occlusion, perfect anatomy, S4bit4mago_illu, anime style, artist:moriimee,",
-        "process": "txt2img",
-        "sampler": "Euler",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-08-30T0353:39.2219497Z",
-        "experimental": false,
-        "negativePrompt": "aBase:bad quality,worst quality,worst detail,sketch,censor,\nworst quality, low quality, displeasing, text, watermark, \nbad anatomy, artist name, signature,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1761560
-          },
-          {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 2034730
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1736373
-          },
-          {
-            "type": "lora",
-            "weight": 2.2,
-            "modelVersionId": 1242203
-          },
-          {
-            "type": "lora",
-            "weight": 0.15,
-            "modelVersionId": 1530645
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1380520
-          }
-        ]
+        "steps": 20,
+        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis or reactions and Buzz everyone.",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 5
       },
-      "username": "azureblade",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1242203,
-        1380520,
-        1530645,
-        1736373,
-        1761560,
-        2034730
-      ]
+      "username": "Rodzilla2025X",
+      "baseModel": "Pony",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1161|1738122045969",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1161%7C1738122045969"
+    "nextCursor": "1162|1752544800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1162%7C1752544800000"
   }
 }
