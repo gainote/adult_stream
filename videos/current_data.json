@@ -1,53 +1,133 @@
 {
   "items": [
     {
-      "id": 104817148,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/41863588-70e8-4cbe-b2bf-1d1d0d6b8ad5/original=true/41863588-70e8-4cbe-b2bf-1d1d0d6b8ad5.jpeg",
-      "hash": "UAMPj{J6585S000d}S5RCT9Fu5R5~BIn4o-;",
-      "width": 2496,
-      "height": 3648,
+      "id": 60537878,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/81b0b3b2-4b2e-40d4-834c-965fd424a11c/original=true/81b0b3b2-4b2e-40d4-834c-965fd424a11c.jpeg",
+      "hash": "UHMr}d5+0}~V0OX3?bba|qtl=^10#8kVSOJ.",
+      "width": 1344,
+      "height": 1728,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-10-08T04:33:21.609Z",
-      "postId": 23255414,
+      "createdAt": "2025-03-03T15:21:00.000Z",
+      "postId": 13543120,
       "stats": {
-        "cryCount": 82,
-        "laughCount": 169,
-        "likeCount": 1685,
+        "cryCount": 68,
+        "laughCount": 168,
+        "likeCount": 1660,
         "dislikeCount": 0,
-        "heartCount": 775,
-        "commentCount": 0
+        "heartCount": 813,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 933768319881270,
-        "Model": "pdav2_1",
+        "TI": {},
+        "Size": "896x1152",
+        "seed": 2660119748,
+        "Model": "waiNSFWIllustrious_v110",
         "steps": 30,
-        "prompt": "(masterpiece, best quality, ultra-detailed, anime style, 8k), 1girl, poolside chair, leaning back, presenting feet, soles, toes, white skirt, no panties, red nails, perfect feet,tan, vagina, looking at viewer, grin, sharp teeth",
-        "Version": "ComfyUI",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 5,
-        "clipSkip": 2,
-        "resources": [],
-        "negativePrompt": "lowres, worst quality, bad quality:1.3, modern, recent, oldest, signature, username, logo, watermark, jpeg artifacts, bad hands, cropped, missing fingers,extra fingers,bad hands, extra digits, fewer digits, error, bad anatomy, ugly, disfigured, young, text, extra toes, missing toes",
-        "civitaiResources": [
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:96YOTTEA-WAI": "7a6cdc714921",
+          "lora:veluflora-wai": "fbcbfb1106da",
+          "lora:a31_style_koni": "668963c77d2a",
+          "lora:ag31_style_ba_v1": "77af56ed043a",
+          "lora:InniePussy1 Pony v2": "a12d32670361",
+          "lora:checkpoint-e18_s306": "491af043b410",
+          "lora:ponyv6_noobV1_2_adamW": "72ea46a2b089",
+          "lora:NOOB_vp1_detailer_by_volnovik_v1": "DA259DF60E36",
+          "lora:noobai_ep11_stabilizer_v0.138_fp16": "33d8271217ed"
+        },
+        "prompt": "narrow waist, large breasts, perfect body, perfectly shaped round breasts, (slim:1.2, athletic), naked girl, nipples, innie pussy, hime cut, adult, mature, underboob, black hair, head slightly back,tilt head, posing, makeup, eyeshadow, multi-colored hair, streaked hair,\njapanese magazine cover, model, idol, pastell colors,colorful, japanese writing,\nvery awa, masterpiece, highres, absurdres, Flatline, Flat vector illustration, vfaix,retro_artstyle,\n<lora:veluflora-wai:0.7> vfaix, <lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3>, <lora:a31_style_koni:0.6>, <lora:ag31_style_ba_v1:0.8>, (jyt:0.75), <lora:96YOTTEA-WAI:0.45>, <lora:checkpoint-e18_s306:1>, <lora:InniePussy1 Pony v2:1>,",
+        "Version": "f2.0.1v1.10.1-previous-633-ge073e4ec",
+        "sampler": "DPM++ 2M SDE",
+        "cfgScale": 6,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 2283658
+            "hash": "fbcbfb1106da",
+            "name": "veluflora-wai",
+            "type": "lora",
+            "weight": 0.7
+          },
+          {
+            "hash": "DA259DF60E36",
+            "name": "NOOB_vp1_detailer_by_volnovik_v1",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "33d8271217ed",
+            "name": "noobai_ep11_stabilizer_v0.138_fp16",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "72ea46a2b089",
+            "name": "ponyv6_noobV1_2_adamW",
+            "type": "lora",
+            "weight": 0.3
+          },
+          {
+            "hash": "668963c77d2a",
+            "name": "a31_style_koni",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "77af56ed043a",
+            "name": "ag31_style_ba_v1",
+            "type": "lora",
+            "weight": 0.8
+          },
+          {
+            "hash": "7a6cdc714921",
+            "name": "96YOTTEA-WAI",
+            "type": "lora",
+            "weight": 0.45
+          },
+          {
+            "hash": "491af043b410",
+            "name": "checkpoint-e18_s306",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "a12d32670361",
+            "name": "InniePussy1 Pony v2",
+            "type": "lora"
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "c3688ee04c",
+        "Hires upscale": "1.5",
+        "Schedule type": "Karras",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "4x-UltraSharp",
+        "negativePrompt": "negativeXL_D, (worst quality, low quality, extra digits:1.4),(extra fingers), (bad hands), missing fingers, unaestheticXL2v10, 2 girls, child, loli, (watermark), censored, sagging breasts",
+        "Hires CFG Scale": "5",
+        "Denoising strength": "0.35"
       },
-      "username": "kyomei",
+      "username": "BallsyBalls",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        2283658
+        400010,
+        438698,
+        630159,
+        1082928,
+        1209350,
+        1247042,
+        1308598,
+        1311785,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1170|1741015260000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1170%7C1741015260000"
+    "nextCursor": "1171|1743577200000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1171%7C1743577200000"
   }
 }
