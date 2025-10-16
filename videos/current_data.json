@@ -1,74 +1,94 @@
 {
   "items": [
     {
-      "id": 3893278,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa683ded-74e2-47c5-9732-c6e54d768a14/original=true/aa683ded-74e2-47c5-9732-c6e54d768a14.jpeg",
-      "hash": "U9K0Z?}@00%g7~RP01I;019t}?kC^jIoJ7_3",
-      "width": 1664,
-      "height": 2560,
+      "id": 38458239,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f390c38-1bc5-4057-b77b-f721c5333353/original=true/6f390c38-1bc5-4057-b77b-f721c5333353.jpeg",
+      "hash": "U9C#;;%e0zIp-nocSeWB57NZ%LR+~A^jxtsC",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2023-11-24T18:56:01.833Z",
-      "postId": 875790,
+      "browsingLevel": 16,
+      "createdAt": "2024-11-05T09:16:00.269Z",
+      "postId": 8778852,
       "stats": {
-        "cryCount": 74,
-        "laughCount": 202,
-        "likeCount": 1306,
+        "cryCount": 113,
+        "laughCount": 193,
+        "likeCount": 1591,
         "dislikeCount": 0,
-        "heartCount": 1106,
-        "commentCount": 8
+        "heartCount": 792,
+        "commentCount": 1
       },
       "meta": {
-        "VAE": "YOZORA.vae.pt",
-        "Size": "832x1280",
-        "seed": 2067578697,
-        "Model": "Ally - HalfGen + HelloYoung",
-        "steps": 44,
-        "hashes": {
-          "vae": "df3c506e51",
-          "model": "daddd381d9",
-          "lora:povAssGrab_": "f1d42a5253",
-          "embed:easynegative": "c74b4e810b"
+        "Size": "832x1216",
+        "seed": 1177459350,
+        "extra": {
+          "remixOfId": 38278555
         },
-        "prompt": "(povag:1.3), ass grab, hands spreading ass, thicc girl, (shock:1.3), (scream:1.3), lace, bow, ribbon, hair bow, ((single braid)), high heels, Church, masterpiece, best_quality, ultra-detailed, illustration, art nouveau, rain, wariza, nsfw, thigh highs, pink, cute,  glittering gold, <lora:povAssGrab_:0.9> , shallow depth of field, lifting skirt, wedding dress, bride, bouquet",
-        "Version": "v1.6.0-2-g4afaaf8a",
-        "sampler": "UniPC",
-        "VAE hash": "c6a580b13a",
-        "cfgScale": 8.5,
+        "steps": 38,
+        "prompt": "(score_9, score_8_up:1.1), score_7_up, 1girl, 1boy, gorgeous girl laying on back, hanging over arm of sofa, boy out of frame, deepthroat blowjob, sexy, girl's head hanging upside down unfocused gaze, legs spread, long hair, blonde hair, ,lying on sofa, boy standing next to sofa, massive cock in girl's mouth, sexy, t-shirt pulled up,exposed erect nipples, tiny breasts, hand in her lace panties, masturbating, sweaty skin, top view",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "Pad conds": "True",
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-11-05T0912:30.9986199Z",
+        "negativePrompt": "watermark, signature, artist name, 3d, muscular, futanari, ugly face, mutated hands, low res, blurry face, watermark, title, signature,  NegativeDynamics, negative_hand, monochrome, chibi, black and white, piercing, braids, furry, extra fingers, extra arms, extra legs, small pupils, small eyes",
+        "civitaiResources": [
           {
-            "name": "povAssGrab_",
-            "type": "lora",
-            "weight": 0.9
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "daddd381d9",
-            "name": "Ally - HalfGen + HelloYoung",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.65,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 239420,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "daddd381d9",
-        "\"povAssGrab_": "085a030f886c\"",
-        "\"easynegative": "c74b4e810b03\"",
-        "negativePrompt": "panties, underwear, asian, ground, EasyNegative, (artist name, signature, watermark:1.4), (ugly:1.2), (worst quality, poor details:1.4), blurry, large breasts, garters, garter belt, umbrella",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "96",
-        "SD upscale upscaler": "SwinIR_4x"
+        ]
       },
-      "username": "Furricane",
-      "baseModel": null,
+      "username": "Good999",
+      "baseModel": "Pony",
       "modelVersionIds": [
         9208,
-        22912
+        239420,
+        290640,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1200|1730798160269",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1200%7C1730798160269"
+    "nextCursor": "1201|1756140529441",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1201%7C1756140529441"
   }
 }
