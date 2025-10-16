@@ -1,44 +1,94 @@
 {
   "items": [
     {
-      "id": 26368024,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ed0e4ebd-a86a-4e27-9c0e-5509e00ca012/original=true/ed0e4ebd-a86a-4e27-9c0e-5509e00ca012.jpeg",
-      "hash": "U6Js%w^jYk=w00~UxD-U01Av=xo}00IV9aX9",
+      "id": 50943293,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e487d362-f433-412b-baec-d1e3415f666b/original=true/e487d362-f433-412b-baec-d1e3415f666b.jpeg",
+      "hash": "UIGtsS9|5Rxt0i~BE3NGbZS5~BxFS5kC%1%1",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-08-27T07:20:46.060Z",
-      "postId": 5893285,
+      "browsingLevel": 8,
+      "createdAt": "2025-01-11T13:39:31.385Z",
+      "postId": 11459639,
       "stats": {
-        "cryCount": 71,
-        "laughCount": 132,
-        "likeCount": 1518,
+        "cryCount": 113,
+        "laughCount": 171,
+        "likeCount": 1692,
         "dislikeCount": 0,
-        "heartCount": 969,
+        "heartCount": 713,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "tooketsu",
+      "meta": {
+        "Size": "832x1216",
+        "nsfw": true,
+        "seed": 852712392,
+        "draft": false,
+        "extra": {
+          "remixOfId": 39918680
+        },
+        "steps": 17,
+        "width": 832,
+        "height": 1216,
+        "prompt": "masterpiece,best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, source_cartoon,\n BREAK\n BREAK\n1girl, solo, medieval square, daytime, natural lighting, girl standing, facing camera, long dark hair, disheveled, chains on wrists and ankles, torn dress, partially exposing breasts, nipples visible, panic-stricken expression, wide eyes, flushed skin, sweat on forehead, crowd in background, detailed textures, raw emotion, explicit focus, no eye contact, erotic tension, historical setting.\n BREAK\ndynamic light, warm_light, vibrant colors warm_colors, soft focus, high contrast, textured surfaces, depth of field, golden hour lighting, dramatic shadows, rich details, nature-inspired color palette, playful composition.\n,dynamic angle,dynamic light,background,",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-01-11T1338:38.5099906Z",
+        "negativePrompt": "score_4, score_5, score_6, futanari,extra fingers,distorted hands,distorted fingers, muscular,low quality, lowres, bad anatomy,worst quality, simple background, censored,text,signature,  lineless,watermark,signature, logo, source_anime, FastNegativeEmbedding,  low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, mixed characters, grainy, symmetrical, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, Draft, Grainy, Kitsch, Low-res, old, sketch, black and white, doujinshi, exaggerated anatomy, orgasm, milf, big lips, big nose,(((face)))",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 817261,
+            "modelVersionName": "v6.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 514793,
+            "modelVersionName": "comicbookpage xl v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 501154,
+            "modelVersionName": "Gothic Retro Anime v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "Buzz_lover",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        60095,
-        159401,
-        164821,
-        290640,
-        381063,
         382152,
-        398847,
-        436219,
-        739267
+        501154,
+        514793,
+        817261
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1196|1736602771385",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1196%7C1736602771385"
+    "nextCursor": "1197|1735865700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1197%7C1735865700000"
   }
 }
