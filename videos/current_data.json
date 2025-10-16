@@ -1,95 +1,38 @@
 {
   "items": [
     {
-      "id": 75630813,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad505239-ffd1-4c2b-94c6-186402445f8d/original=true/ad505239-ffd1-4c2b-94c6-186402445f8d.jpeg",
-      "hash": "U9Ex^t%%00+t00D$xv%h0Ken-UE1tn_4^+E0",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 44110144,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c953c5ec-e2b1-48fc-9908-b25e7d6b1f8f/original=true/c953c5ec-e2b1-48fc-9908-b25e7d6b1f8f.jpeg",
+      "hash": "UCHUUs00?^L}_L4.O@Q,0f9Yt,nOv|xu-px]",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-11T14:37:57.307Z",
-      "postId": 16794767,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-07T04:08:13.536Z",
+      "postId": 10012911,
       "stats": {
-        "cryCount": 112,
-        "laughCount": 196,
-        "likeCount": 1671,
+        "cryCount": 116,
+        "laughCount": 249,
+        "likeCount": 1561,
         "dislikeCount": 0,
-        "heartCount": 724,
-        "commentCount": 0
+        "heartCount": 777,
+        "commentCount": 10
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1646415601,
-        "extra": {
-          "remixOfId": 75216279
-        },
-        "steps": 50,
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, newest, mole near mouth\n1girl, solo, nyotengu \\(doa\\), cleavage, plump lips, straight hair, side locks, hime cut, makeup, purple eyes, bewitching, seductive, \n<lora:ppw_v7_animv4_1_r2:0.6>  <lora:illustrious_all_rated_v1:0.6>\nBREAK\n((slim body)),, Dynamic angle, Dynamic pose, ear piercings, Nswf,, ,, nsfw ((masterpiece)), ((masterpiece_portrait)),, (((white_collared_shirt))), ((grey_tight_line_miniskirt)), pantyhose, blush, (open shirt:1.1), big forhead, (heart-shaped pupils:1.1), flower, (detailed cute anime face:1.34), (watercolor_(medium):1.28),",
+        "steps": 20,
+        "prompt": "If you would like the prompt codes and Loras, please send me a private message, and I will be happy to provide them to you. To read the full story, you can click the View button on the top left of the picture and scroll way down. To read what is going on in the picture, read the comment sections on each of my pictures. Thanks so much for the emojis and Buzz everyone.",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6,
-        "clipSkip": 2,
-        "resources": [
-          {
-            "name": "ppw_v7_animv4_1_r2",
-            "type": "lora",
-            "weight": 0.6
-          },
-          {
-            "name": "illustrious_all_rated_v1",
-            "type": "lora",
-            "weight": 0.6
-          }
-        ],
-        "Created Date": "2025-05-09T1958:07.3786763Z",
-        "negativePrompt": "bad quality, worst quality, worst detail, censor, bad anatomy,",
-        "civitaiResources": [
-          {
-            "type": "checkpoint",
-            "modelVersionId": 1379960,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1141520,
-            "modelVersionName": "v1.0 [Illustrious]"
-          },
-          {
-            "type": "lora",
-            "weight": 0.4,
-            "modelVersionId": 1157361,
-            "modelVersionName": "96yottea"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1375651,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1582690,
-            "modelVersionName": "v7_Animv4"
-          }
-        ]
+        "cfgScale": 5
       },
-      "username": "Misuk",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1141520,
-        1157361,
-        1375651,
-        1379960,
-        1582690
-      ]
+      "username": "Rodzilla2025X",
+      "baseModel": "Pony",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1178|1733544493536",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1178%7C1733544493536"
+    "nextCursor": "1179|1748595544135",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1179%7C1748595544135"
   }
 }
