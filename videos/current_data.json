@@ -1,90 +1,84 @@
 {
   "items": [
     {
-      "id": 60280094,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa980881-a5a7-4f1f-8540-eb946b9e9ab5/original=true/aa980881-a5a7-4f1f-8540-eb946b9e9ab5.jpeg",
-      "hash": "UZELa4t6IpoL~Ct6Rkj[xtoLjZfkWXR*s:j[",
-      "width": 1344,
-      "height": 2240,
+      "id": 38563080,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e1ecc9ec-194c-4ff0-90fe-6485e6eaf684/original=true/e1ecc9ec-194c-4ff0-90fe-6485e6eaf684.jpeg",
+      "hash": "UDJ7m?bC02Md.9EL55w00ytl-:xG~C-pj?Mx",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-03-02T19:30:00.000Z",
-      "postId": 13482112,
+      "createdAt": "2024-11-06T00:06:00.000Z",
+      "postId": 8802954,
       "stats": {
-        "cryCount": 81,
-        "laughCount": 164,
-        "likeCount": 1656,
+        "cryCount": 101,
+        "laughCount": 191,
+        "likeCount": 1627,
         "dislikeCount": 0,
-        "heartCount": 794,
+        "heartCount": 776,
         "commentCount": 0
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 554260106275416,
-        "Model": "waiNSFWIllustrious_v90.safetensors",
-        "https": "//civitai.com/user/Marland_C",
+        "Size": "832x1216",
+        "seed": 735988046,
         "steps": 30,
-        "hashes": {
-          "model": "178fc987b2",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, 1girl, (fischl \\(genshin impact\\):1.1), nude, full body, outdoors, balcony, medieval castle, direct sun, horizon, vivid colors, (dark shadows:0.9), (high contrast:0.9), volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 3,
+        "prompt": "score_9, score_8_up, score_8, close up, hizake, 1girl, solo, sexy elf woman, slim, perfect face, thick eyeliner, small breasts, long straight pink hair, green eyes, nude, nsfw, bathing, cowboy shot, spreading ass, pussy, anus, dynamic pose, dynamic angle, volumetric lighting, cinematic lighting, outdoors, forest, waterfall",
+        "sampler": "Euler a",
+        "cfgScale": 4,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-11-04T2248:08.4532752Z",
+        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, camera, censored",
+        "civitaiResources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 828380,
+            "modelVersionName": "v3"
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
-            "type": "lora",
-            "weight": 1
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.6
+            "weight": 1,
+            "modelVersionId": 789379,
+            "modelVersionName": "Pony"
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
-            "type": "lora",
-            "weight": 0.7000000000000001
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 179964,
+            "modelVersionName": "NegativeDynamics v1.0"
           },
           {
-            "hash": "178fc987b2",
-            "name": "waiNSFWIllustrious_v90.safetensors",
-            "type": "model"
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "178fc987b2",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, symmetry,"
+        ]
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "ElvishDreams",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1283437,
-        1345990,
-        1284348,
-        567119,
-        1050644
+        60938,
+        179964,
+        789379,
+        828380
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1183|1730851560000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1183%7C1730851560000"
+    "nextCursor": "1184|1752237900000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1184%7C1752237900000"
   }
 }
