@@ -1,70 +1,80 @@
 {
   "items": [
     {
-      "id": 73480499,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb1670ea-0e96-4be1-8c59-3bfe40477ee7/original=true/eb1670ea-0e96-4be1-8c59-3bfe40477ee7.jpeg",
-      "hash": "UdK1amD$OFjG~pWBIps:%MtRt8jYIoWXxaWA",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
+      "id": 85319853,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89c8171a-3496-4ffd-85b8-117e86f93188/original=true/89c8171a-3496-4ffd-85b8-117e86f93188.jpeg",
+      "hash": "U6B2.Sb^014:=|I.xING0eM_~Bt6^jbtMxR%",
+      "width": 1642,
+      "height": 2400,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-05-01T11:43:14.040Z",
-      "postId": 16320313,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-29T21:48:06.404Z",
+      "postId": 18937107,
       "stats": {
-        "cryCount": 121,
-        "laughCount": 173,
-        "likeCount": 1609,
+        "cryCount": 76,
+        "laughCount": 160,
+        "likeCount": 1619,
         "dislikeCount": 0,
-        "heartCount": 781,
+        "heartCount": 830,
         "commentCount": 0
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
+        "RNG": "CPU",
         "Size": "832x1216",
-        "seed": 1739050750,
-        "Model": "prefect_illustrious_xl_1.5.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "2bb6bbee58"
-        },
-        "prompt": "masterpiece,best quality,amazing quality,absurdres, BREAK \n1girl, ass, ass focus, bare shoulders, black bra, black panties, black pantyhose, black skirt, blonde hair, blurry, blurry background, blush, bra, braid, breasts, brown pantyhose, elf, from behind, green eyes, hair ornament, hairclip, high heels, indoors, large breasts, long hair, long sleeves, looking at viewer, looking back, mole, mole under eye, off shoulder, office lady, open mouth, panties, panties under pantyhose, pantyhose, pencil skirt, pointy ears, pussy juice, shirt, skirt, solo, squatting, sweat, underwear, white shirt",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 5,
-        "resources": [
-          {
-            "hash": "2bb6bbee58",
-            "name": "prefect_illustrious_xl_1.5.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "2bb6bbee58",
+        "seed": 736385777,
+        "steps": 25,
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, 8k, 1girl, solo, mature woman, adult, skinny, fit, seductive goth girl, black latex BDSM outfit, thong, choker, shiny skin, oily skin, bronze tan, blushing, thick eyebrows, big blue eyes, long black hair with bangs, cute face, full lips, small breasts, round perky breasts, thick thighs, bubble butt, squatting pose, full view of ass, from behind, emphasis on ass, excited, in love, seductive expression, moody lighting, vibrant colors, dramatic lighting, strip club stage, neon lights, pole in background, red velvet, mirrored walls, glossy floor, smoke machine, sweat, erotic mood, nightclub interior, cinematic glamour",
+        "Version": "classic",
+        "sampler": "DPM++ 2M SDE",
+        "Emphasis": "Original",
+        "cfgScale": 4,
+        "SkipEarly": "0.25",
+        "resources": [],
+        "Hires upscale": "1.5",
         "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,",
-        "ADetailer model": "Anzhc_Face.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
+        "Hires upscaler": "4x_NickelbackFS_72000_G",
+        "negativePrompt": "score 6, score 5, score 4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs",
+        "ADetailer model": "face_yolov9c.pt",
+        "ADetailer steps": "45",
+        "ADetailer sampler": "DPM++ 2M",
+        "ADetailer version": "25.3.0",
+        "Denoising strength": "0.35",
         "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.6",
+        "ADetailer model 2nd": "hand_yolov8n.pt",
+        "ADetailer scheduler": "Karras",
+        "ADetailer steps 2nd": "45",
+        "ADetailer confidence": "0.3",
+        "ADetailer prompt 2nd": "perfect hand",
+        "ADetailer sampler 2nd": "DPM++ 2M",
         "ADetailer dilate erode": "4",
+        "ADetailer mask blur 2nd": "4",
+        "ADetailer scheduler 2nd": "Karras",
+        "ADetailer confidence 2nd": "0.3",
         "ADetailer inpaint padding": "32",
+        "ADetailer mask only top k": "1",
+        "ADetailer dilate erode 2nd": "4",
         "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        "ADetailer use separate steps": "True",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer inpaint padding 2nd": "32",
+        "ADetailer mask only top k 2nd": "2",
+        "ADetailer use separate sampler": "True",
+        "ADetailer denoising strength 2nd": "0.4",
+        "ADetailer use separate steps 2nd": "True",
+        "ADetailer inpaint only masked 2nd": "True",
+        "ADetailer use separate sampler 2nd": "True",
+        "ADetailer method to decide top k masks": "Area",
+        "ADetailer method to decide top k masks 2nd": "Area"
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
-      "modelVersionIds": [
-        1731647
-      ]
+      "username": "Cyberdelia",
+      "baseModel": "Pony",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1203|1751233686404",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1203%7C1751233686404"
+    "nextCursor": "1204|1738514737555",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1204%7C1738514737555"
   }
 }
