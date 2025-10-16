@@ -1,88 +1,76 @@
 {
   "items": [
     {
-      "id": 77765775,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b8be48c-2289-45ac-bf65-c30b6d05692e/original=true/0b8be48c-2289-45ac-bf65-c30b6d05692e.jpeg",
-      "hash": "UGN8]U001iofuPvfkXE15W=t9|E2FzMcT0oz",
+      "id": 64468653,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1e853bf-6b24-4d5b-87e2-98f64b5e9c72/original=true/c1e853bf-6b24-4d5b-87e2-98f64b5e9c72.jpeg",
+      "hash": "UkJ8bIxtR+W=?woMozayaORkt7t7InWAt6t7",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-05-22T06:45:00.000Z",
-      "postId": 17274136,
+      "browsingLevel": 4,
+      "createdAt": "2025-03-19T16:42:20.024Z",
+      "postId": 14370966,
       "stats": {
-        "cryCount": 68,
-        "laughCount": 161,
-        "likeCount": 1554,
+        "cryCount": 137,
+        "laughCount": 543,
+        "likeCount": 1474,
         "dislikeCount": 0,
-        "heartCount": 922,
+        "heartCount": 551,
         "commentCount": 4
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 2036301852,
-        "draft": false,
-        "steps": 29,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, best quality, very aesthetic, absurdres, (anime coloring:1.2), ambient light, soft light, Yakan2g0u_illu, Rapscallionstyle, artist:moriimee, usnr,\n ultra-detailed, 8K, illustration,CG, 1girl, solo, beautiful, head out of frame, long dark hair, sexy, tan skin, topless, perfect body, large perky breasts, underboob, smooth skin, laying on ground, hands covering nipples, skindentation, soft breast, deformed breast, tanline, wet skin, front view, close up, centered view, view from the belly, low angle, view from below, breast focus, blurry blue sky background, \nhigh detail, sharp shading, centered composition, soft shadows",
-        "sampler": "Euler",
-        "cfgScale": 4,
-        "clipSkip": 2,
-        "quantity": 1,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-05-22T0618:59.4909206Z",
-        "negativePrompt": "bad quality, worst quality, worst detail, censor, missing fingers, extra fingers, blurry eyes, poorly drawn eyes, skewed eyes, bad anatomy, lowres, jpeg artifacts, bad anatomy, bad hands, multiple views, signature, watermark, censored, logo, waterprints, title",
-        "civitaiResources": [
+        "seed": 3878829032,
+        "Model": "flux1-dev-bnb-nf4-v2",
+        "steps": 30,
+        "hashes": {
+          "model": "fef37763b8",
+          "lora:Butts_on_Things_Brian_Cook_FLUX-000012": "4d177f2a2024",
+          "lora:Roadside_Attraction_Assembler_FLUX_r1-000007": "49f2d203a3b3"
+        },
+        "prompt": "<lora:Roadside_Attraction_Assembler_FLUX_r1-000007:0.85>     <lora:Butts_on_Things_Brian_Cook_FLUX-000012:0.8>\nPhoto depicting a surreal scene at a \"world's largest butt\" roadside attraction, along with people taking photos of it and cars parked near it.",
+        "Version": "f2.0.1v1.10.1-previous-659-gc055f2d4",
+        "sampler": "DEIS",
+        "Module 1": "t5xxl_fp8_e4m3fn",
+        "Module 2": "clip_l",
+        "cfgScale": 1,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1763717,
-            "modelVersionName": "Illustrious2 + NoobAI"
+            "hash": "49f2d203a3b3",
+            "name": "Roadside_Attraction_Assembler_FLUX_r1-000007",
+            "type": "lora",
+            "weight": 0.85
           },
           {
+            "hash": "4d177f2a2024",
+            "name": "Butts_on_Things_Brian_Cook_FLUX-000012",
             "type": "lora",
-            "weight": 3,
-            "modelVersionId": 1122976,
-            "modelVersionName": "v1.0 - Initial Release"
+            "weight": 0.8
           },
           {
-            "type": "lora",
-            "weight": 0.35,
-            "modelVersionId": 1169143,
-            "modelVersionName": "Rapscallion Illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.85,
-            "modelVersionId": 1244133,
-            "modelVersionName": "V1 Ilustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.5,
-            "modelVersionId": 1552087,
-            "modelVersionName": "USNR_STYLE_ILL_V1.0"
+            "hash": "fef37763b8",
+            "name": "flux1-dev-bnb-nf4-v2",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "fef37763b8",
+        "Schedule type": "Beta",
+        "Beta schedule beta": "0.6",
+        "Beta schedule alpha": "0.6",
+        "Distilled CFG Scale": "3.5",
+        "Diffusion in Low Bits": "bnb-nf4 (fp16 LoRA)"
       },
-      "username": "Futurabbit",
-      "baseModel": "Illustrious",
+      "username": "kftiger",
+      "baseModel": "Flux.1 D",
       "modelVersionIds": [
-        1122976,
-        1169143,
-        1244133,
-        1552087,
-        1763717
+        721627
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1175|1742402540024",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1175%7C1742402540024"
+    "nextCursor": "1176|1741030260000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1176%7C1741030260000"
   }
 }
