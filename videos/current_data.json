@@ -1,84 +1,103 @@
 {
   "items": [
     {
-      "id": 38563080,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e1ecc9ec-194c-4ff0-90fe-6485e6eaf684/original=true/e1ecc9ec-194c-4ff0-90fe-6485e6eaf684.jpeg",
-      "hash": "UDJ7m?bC02Md.9EL55w00ytl-:xG~C-pj?Mx",
-      "width": 832,
-      "height": 1216,
+      "id": 87606128,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46f1c06a-b43e-4cc3-b179-91aef1d909bf/original=true/46f1c06a-b43e-4cc3-b179-91aef1d909bf.jpeg",
+      "hash": "U5B:Tv0000S$00?bEhxW-n$%n~ENAvMx~VMx",
+      "width": 2688,
+      "height": 3840,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2024-11-06T00:06:00.000Z",
-      "postId": 8802954,
+      "createdAt": "2025-07-11T12:45:00.000Z",
+      "postId": 19433989,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 191,
-        "likeCount": 1627,
+        "cryCount": 115,
+        "laughCount": 172,
+        "likeCount": 1628,
         "dislikeCount": 0,
-        "heartCount": 776,
-        "commentCount": 0
+        "heartCount": 779,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 735988046,
-        "steps": 30,
-        "prompt": "score_9, score_8_up, score_8, close up, hizake, 1girl, solo, sexy elf woman, slim, perfect face, thick eyeliner, small breasts, long straight pink hair, green eyes, nude, nsfw, bathing, cowboy shot, spreading ass, pussy, anus, dynamic pose, dynamic angle, volumetric lighting, cinematic lighting, outdoors, forest, waterfall",
-        "sampler": "Euler a",
-        "cfgScale": 4,
+        "seed": 1485060955,
+        "vaes": [],
+        "draft": false,
+        "extra": {},
+        "steps": 23,
+        "width": 832,
+        "height": 1216,
+        "models": [],
+        "prompt": "Score_9_up, Score_8_up, Score_7_up, ((Masterpiece, Best_Quality, Highest_Resolution, Extremely_Detailed, Detailed_eyes, Depth_of_field)), Asian, (korean woman:1.5), attractive, girl next door, Hair gently covers one eyes, soft lush lips, (Dark green eyes), Shoulders, ((large saggy breasts)), loose shirt, Cleavage, casual one-tone, jacket fell down arms, Natural light on her skin, Looking at the viewer, Sexy face, dynamic pose, covered nipples, covered breasts,interesting angle, (Long straight black hair),asian_korean",
+        "process": "txt2img",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 2.5,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-11-04T2248:08.4532752Z",
-        "negativePrompt": "score_6, score_5, score_4, busty, (large breasts:0.3), ugly face, mutated hands, low res, blurry face, pumped body, athletic body, black and white, sepia, camera, censored",
+        "modelIds": [],
+        "quantity": 12,
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "score_4, score_5, score_6, exaggerated anatomy, loli, child, tan lines, freckles, indoors, fat, chubby, plump,",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 828380,
-            "modelVersionName": "v3"
-          },
-          {
-            "type": "embed",
             "weight": 1,
-            "modelVersionId": 60938,
-            "modelVersionName": "negative_hand"
+            "modelVersionId": 1971591
           },
           {
-            "type": "lora",
-            "weight": 1,
-            "modelVersionId": 789379,
-            "modelVersionName": "Pony"
+            "weight": 1.75,
+            "modelVersionId": 1594293
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 179964,
-            "modelVersionName": "NegativeDynamics v1.0"
+            "weight": 3.2,
+            "modelVersionId": 1926656
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "weight": 0.8,
+            "modelVersionId": 1854599
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "weight": 1.15,
+            "modelVersionId": 1726904
+          },
+          {
+            "weight": 1.65,
+            "modelVersionId": 1681921
+          },
+          {
+            "weight": -2.05,
+            "modelVersionId": 1277544
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "ElvishDreams",
+      "username": "klaabu",
       "baseModel": "Pony",
       "modelVersionIds": [
-        60938,
-        179964,
-        789379,
-        828380
+        164821,
+        1277544,
+        1594293,
+        1681921,
+        1726904,
+        1854599,
+        1926656,
+        1971591
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1184|1752237900000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1184%7C1752237900000"
+    "nextCursor": "1185|1731859312914",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1185%7C1731859312914"
   }
 }
