@@ -1,84 +1,114 @@
 {
   "items": [
     {
-      "id": 85898665,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e07e9cad-7d9c-42c6-a282-20e63bfbec62/original=true/e07e9cad-7d9c-42c6-a282-20e63bfbec62.jpeg",
-      "hash": "UAE_XQI:00E+0$M{^j%201$*~BIoNG%1aeRj",
-      "width": 2688,
-      "height": 3840,
-      "nsfwLevel": "X",
+      "id": 79894695,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e79d9dd9-2eb7-4f07-b5d6-d610a9e085bd/original=true/e79d9dd9-2eb7-4f07-b5d6-d610a9e085bd.jpeg",
+      "hash": "UBHns[_4q?Ip00RODznNu4-;^N=wIB=_n3S3",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-07-03T00:41:00.000Z",
-      "postId": 19063421,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-02T04:00:00.000Z",
+      "postId": 17747224,
       "stats": {
-        "cryCount": 85,
-        "laughCount": 175,
-        "likeCount": 1670,
+        "cryCount": 95,
+        "laughCount": 186,
+        "likeCount": 1623,
         "dislikeCount": 0,
-        "heartCount": 730,
+        "heartCount": 756,
         "commentCount": 1
       },
       "meta": {
-        "seed": 134966742,
-        "vaes": [],
-        "extra": {},
-        "steps": 29,
-        "models": [],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, solo, 1girl, female focus, lineless, incoth, (incase:0.6), indoors, palace, sofa, elf slave, dark blue hair, red eyes, cute face, slim, small breasts, double buns, blunt bangs, beautiful, kawaii, (short ears), nude, gold collar, gold armlets, gold thigh bands, gold bracelets, detailed pussy, anus, lying on stomach, lying on sofa, butt, view from above, looking at viewer, presenting ass, dark pillow,",
-        "denoise": 0.4,
-        "sampler": "Euler a",
+        "Size": "832x1216",
+        "seed": 927224492,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:Hoseki_WutheringWaves_Lorelei_IllustriousXL_v1:1>, lrl, monster girl, purple halo, black sclera, blue eyes, blue skin, cracked skin, blue hair, hair over one eye, medium hair, sensual eyes, glossy lipstick, firm petite shape, round firm breasts, makeup, smokyeyes, lash, mascara, puffy glossy lips, fingernails, nail polish, red long nails, A digital illustration shoot from the front about a young woman ear piercing, ring, ((pearl thong:1.5)), ((see-through:1.4)), large breasts, deep neckline, ((no bra:1.5)), hard nipple, floral pattern white stockings, white laced trimmed thighhighs, nose blush, bare shoulders, white wet Neglig\u00e9, white thin lace nightgown, ((see-through nightgown:1.5)), cameltoe, cleavage, indoors, pov, doorway, apartment, the woman is looking directly at the viewer with a slutry and smug expression. her body is slim and her behavior is inviting. the lighting is soft and warm, creating a cozy atmosphere. relaxed but provocative, dramatic scenery, intricate details, (blurry background, depth of field:1.1), the picture has an sexuel, alluring and erotic vibe, lascivious pose, front cowboy shot from below, blurry background, bright colors, stunningly artwork",
+        "sampler": "DDIM",
         "cfgScale": 4,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
-        "civitaiResources": [
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1612720
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1545543
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1589514
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "name": "Hoseki_WutheringWaves_Lorelei_IllustriousXL_v1",
+            "type": "lora",
+            "weight": 1
           }
         ],
-        "additionalResources": []
+        "Created Date": "2025-06-01T0739:15.2999497Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, (watermark:1.5), ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari, no man, no other persons",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1697082,
+            "modelVersionName": "v2.2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 1492934,
+            "modelVersionName": "illustrious V2"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 6056,
+            "modelVersionName": "Bad artist "
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 25820,
+            "modelVersionName": "veryBadImageNegative_v1.3"
+          },
+          {
+            "type": "lora",
+            "weight": 0.55,
+            "modelVersionId": 1056404,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 1135769,
+            "modelVersionName": "ILXL"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 1828979,
+            "modelVersionName": "leviathan-artist-v1_ixl"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 1843015,
+            "modelVersionName": "v1.0"
+          }
+        ]
       },
-      "username": "ElvishDreams",
+      "username": "Chimi83",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        244808,
-        1189052,
-        1545543,
-        1589514,
-        1612720
+        6056,
+        25820,
+        1056404,
+        1135769,
+        1492934,
+        1697082,
+        1828979,
+        1843015
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1224|1748836800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1224%7C1748836800000"
+    "nextCursor": "1225|1744867800000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1225%7C1744867800000"
   }
 }
