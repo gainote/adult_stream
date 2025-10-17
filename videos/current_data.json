@@ -1,77 +1,88 @@
 {
   "items": [
     {
-      "id": 102060816,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7dced39f-e46f-485f-97b5-db83c130648f/original=true/7dced39f-e46f-485f-97b5-db83c130648f.jpeg",
-      "hash": "UPK18xS1%fxa~pV?%fIU0LNH^+E2W=^*xtxu",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "X",
+      "id": 55256435,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7a880ca-94ad-48ee-a4b3-a39825e38c12/original=true/c7a880ca-94ad-48ee-a4b3-a39825e38c12.jpeg",
+      "hash": "UNIO62^*?w4:_3WXkCxupIS5-p=|^+M{t7M{",
+      "width": 832,
+      "height": 1216,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-09-24T01:27:58.815Z",
-      "postId": 22642423,
+      "browsingLevel": 4,
+      "createdAt": "2025-02-02T00:40:23.427Z",
+      "postId": 12384059,
       "stats": {
-        "cryCount": 118,
-        "laughCount": 221,
-        "likeCount": 1593,
+        "cryCount": 87,
+        "laughCount": 206,
+        "likeCount": 1589,
         "dislikeCount": 0,
-        "heartCount": 729,
-        "commentCount": 0
+        "heartCount": 780,
+        "commentCount": 2
       },
       "meta": {
-        "VAE": "sdxl_vae_fixed.safetensors",
         "Size": "832x1216",
-        "seed": 485733784,
-        "Model": "prefect_illustrious_xl.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "3a2df45ef8",
-          "lora:nipple_guessing_ilxl_goofy": "7c0f92d12b3e"
+        "nsfw": false,
+        "seed": 396750882,
+        "draft": false,
+        "extra": {
+          "remixOfId": 54315060
         },
-        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:nipple_guessing_ilxl_goofy:1> nipple guessing, breast poke,  shaded face, cleavage, closed mouth, looking down, upper body, glaring,  1boy,  hetero, looking at viewer, mature female, komi shuuko, t-shirt, pants, upper body,tadano hitohito, from side",
-        "Version": "v1.10.1-84-g374bb6cc",
-        "sampler": "DPM++ 2M",
-        "cfgScale": 7,
-        "resources": [
+        "steps": 25,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, source_anime,rating_explicit BREAK Odo Ninja Lily Evendale,(1girl,mascara,eyeliner,dark grey eyes,black hair,messy long hair with bangs),(black leather armor,cleavage cutout,black gloves,black cape, black chaps,black thighhigh boots,black headwear),(black microbikini,areola slip,areolas visible,nipple bulge, black thong),cameltoe, (massive breasts, huge butt) BREAK (couple, hetero, 1girl, 1boy, kiss, masterpiece, best quality, mistletoe overhead, cozy bedroom background, muscular male)",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 6,
+        "clipSkip": 2,
+        "quantity": 4,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2025-02-02T0025:10.5903379Z",
+        "negativePrompt": "score_6_up,score_5_up,score_4_up,(zPDXL-neg),deformed hands,monochrome,grayscale,signature,patreon,censored,text,(watermark),low-quality,moir pattern,downsampling,aliasing,distorted,blurry,glossy,blur,jpeg artifacts,compression artifacts,poorly drawn,low-resolution,bad,distortion,twisted,excessive,exaggerated pose,exaggerated limbs,grainy,symmetrical,duplicate,error,pattern,beginner,pixelated,fake,hyper,glitch,overexposed,high-contrast,bad-contrast,see-through,wet,impossible clothes,pointy ears,realistic",
+        "civitaiResources": [
           {
-            "hash": "7c0f92d12b3e",
-            "name": "nipple_guessing_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 1295881,
+            "modelVersionName": "v13.0"
           },
           {
-            "hash": "3a2df45ef8",
-            "name": "prefect_illustrious_xl.fp16",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1340083,
+            "modelVersionName": "Odo Ninja"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 106916,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "3a2df45ef8",
-        "Schedule type": "Karras",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
-        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.2",
-        "SD upscale overlap": "64",
-        "ADetailer mask blur": "4",
-        "SD upscale upscaler": "4x-UltraSharp",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "ADetailer inpaint only masked": "True"
+        ]
       },
-      "username": "Goofy_Ai",
-      "baseModel": "Illustrious",
+      "username": "SerasRP",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1379960
+        1295881,
+        1340083
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1221|1738456823427",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1221%7C1738456823427"
+    "nextCursor": "1222|1754266980000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1222%7C1754266980000"
   }
 }
