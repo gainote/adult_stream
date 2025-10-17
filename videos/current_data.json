@@ -1,88 +1,77 @@
 {
   "items": [
     {
-      "id": 55256435,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7a880ca-94ad-48ee-a4b3-a39825e38c12/original=true/c7a880ca-94ad-48ee-a4b3-a39825e38c12.jpeg",
-      "hash": "UNIO62^*?w4:_3WXkCxupIS5-p=|^+M{t7M{",
+      "id": 89821027,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d646ae47-0ce7-42ef-8230-a175a8e84d64/original=true/d646ae47-0ce7-42ef-8230-a175a8e84d64.jpeg",
+      "hash": "U9HT~*SK.l-=0Kt.00#61$b_wIIAct?H^jM{",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-02-02T00:40:23.427Z",
-      "postId": 12384059,
+      "browsingLevel": 16,
+      "createdAt": "2025-08-04T00:23:00.000Z",
+      "postId": 19923235,
       "stats": {
-        "cryCount": 87,
-        "laughCount": 206,
-        "likeCount": 1589,
+        "cryCount": 140,
+        "laughCount": 191,
+        "likeCount": 1649,
         "dislikeCount": 0,
-        "heartCount": 780,
-        "commentCount": 2
+        "heartCount": 680,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "nsfw": false,
-        "seed": 396750882,
+        "seed": 1451077215,
         "draft": false,
-        "extra": {
-          "remixOfId": 54315060
-        },
-        "steps": 25,
+        "steps": 19,
         "width": 832,
         "height": 1216,
-        "prompt": "score_9, score_8_up, score_7_up, source_anime,rating_explicit BREAK Odo Ninja Lily Evendale,(1girl,mascara,eyeliner,dark grey eyes,black hair,messy long hair with bangs),(black leather armor,cleavage cutout,black gloves,black cape, black chaps,black thighhigh boots,black headwear),(black microbikini,areola slip,areolas visible,nipple bulge, black thong),cameltoe, (massive breasts, huge butt) BREAK (couple, hetero, 1girl, 1boy, kiss, masterpiece, best quality, mistletoe overhead, cozy bedroom background, muscular male)",
+        "prompt": "masterpiece, best quality, amazing quality, DISNEY_ANIMATION, incoth, (incase:0.6), (2females:2), (duo), score_7_up, BREAK, first_female, (voluptuous /mature_mommy/, fair skin), natural breasts, large breasts, erect nipples, wide hips, belly, (very lewd look:2), caramel hair, updo hair, pubic hair, loose oversized dress, colorful dress, baggy dress, plunging neckline, breasts out, on the ground, relaxed pose, BREAK, second_female, (slender /tomboy/, brown skin), female chest, smaller natural chest, long hair, short skimpy shorts, sleeveless crop top, looking at partner's breasts, shocked by partner's breasts, (blush, assisting flash, flashing partner's body, removing partner's clothes, focused on breasts), BREAK, detailed faces, side by side, outdoors public, better lighting, depth of field, Dutch angle, wide angle",
+        "process": "txt2img",
         "sampler": "DPM++ 2M Karras",
-        "cfgScale": 6,
+        "cfgScale": 4,
         "clipSkip": 2,
-        "quantity": 4,
+        "quantity": 1,
         "workflow": "txt2img",
-        "baseModel": "Pony",
+        "baseModel": "Illustrious",
         "resources": [],
-        "Created Date": "2025-02-02T0025:10.5903379Z",
-        "negativePrompt": "score_6_up,score_5_up,score_4_up,(zPDXL-neg),deformed hands,monochrome,grayscale,signature,patreon,censored,text,(watermark),low-quality,moir pattern,downsampling,aliasing,distorted,blurry,glossy,blur,jpeg artifacts,compression artifacts,poorly drawn,low-resolution,bad,distortion,twisted,excessive,exaggerated pose,exaggerated limbs,grainy,symmetrical,duplicate,error,pattern,beginner,pixelated,fake,hyper,glitch,overexposed,high-contrast,bad-contrast,see-through,wet,impossible clothes,pointy ears,realistic",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-07-22T1610:41.4885099Z",
+        "experimental": false,
+        "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, mutilated, out of frame, (single subject), extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, (wide waist), (narrow hips), muscular, masculine, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, bangs_hair, horns, penis, ((man)), men, (child), baby, bra, closeup, closed eyes, closed legs, legs together, crown, makeup, pov, first-person pov, hand on breasts, hands on breasts, groping breasts",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1295881,
-            "modelVersionName": "v13.0"
+            "modelVersionId": 1490781,
+            "modelVersionName": "v12.0"
           },
           {
             "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1340083,
-            "modelVersionName": "Odo Ninja"
+            "weight": 0.85,
+            "modelVersionId": 1189052,
+            "modelVersionName": "Illustrious"
           },
           {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "type": "lora",
+            "weight": 0.5,
+            "modelVersionId": 1416874,
+            "modelVersionName": "[illustrious]"
           }
         ]
       },
-      "username": "SerasRP",
-      "baseModel": "Pony",
+      "username": "bm609",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        1295881,
-        1340083
+        1189052,
+        1416874,
+        1490781
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1222|1754266980000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1222%7C1754266980000"
+    "nextCursor": "1223|1751503260000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1223%7C1751503260000"
   }
 }
