@@ -1,41 +1,77 @@
 {
   "items": [
     {
-      "id": 49558809,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/430a08ff-0086-4ef5-88ff-4c765a07e8e5/original=true/430a08ff-0086-4ef5-88ff-4c765a07e8e5.jpeg",
-      "hash": "U4HALk013p}r2ut7kq-900%L-UIpMe~BnONb",
-      "width": 1280,
-      "height": 1856,
+      "id": 102060816,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7dced39f-e46f-485f-97b5-db83c130648f/original=true/7dced39f-e46f-485f-97b5-db83c130648f.jpeg",
+      "hash": "UPK18xS1%fxa~pV?%fIU0LNH^+E2W=^*xtxu",
+      "width": 1248,
+      "height": 1824,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2025-01-04T20:15:51.234Z",
-      "postId": 11165126,
+      "createdAt": "2025-09-24T01:27:58.815Z",
+      "postId": 22642423,
       "stats": {
-        "cryCount": 80,
-        "laughCount": 136,
-        "likeCount": 1578,
+        "cryCount": 118,
+        "laughCount": 221,
+        "likeCount": 1593,
         "dislikeCount": 0,
-        "heartCount": 868,
+        "heartCount": 729,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "sabbufik419",
-      "baseModel": "Pony",
+      "meta": {
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "832x1216",
+        "seed": 485733784,
+        "Model": "prefect_illustrious_xl.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "3a2df45ef8",
+          "lora:nipple_guessing_ilxl_goofy": "7c0f92d12b3e"
+        },
+        "prompt": "masterpiece,best quality,amazing quality, absurdres, <lora:nipple_guessing_ilxl_goofy:1> nipple guessing, breast poke,  shaded face, cleavage, closed mouth, looking down, upper body, glaring,  1boy,  hetero, looking at viewer, mature female, komi shuuko, t-shirt, pants, upper body,tadano hitohito, from side",
+        "Version": "v1.10.1-84-g374bb6cc",
+        "sampler": "DPM++ 2M",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "7c0f92d12b3e",
+            "name": "nipple_guessing_ilxl_goofy",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "3a2df45ef8",
+            "name": "prefect_illustrious_xl.fp16",
+            "type": "model"
+          }
+        ],
+        "Model hash": "3a2df45ef8",
+        "Schedule type": "Karras",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censored, artist name, signature, watermark,patreon username, patreon logo,",
+        "ADetailer model": "anzhc_Face_seg_640_v3_y11n.pt",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.2",
+        "SD upscale overlap": "64",
+        "ADetailer mask blur": "4",
+        "SD upscale upscaler": "4x-UltraSharp",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "ADetailer inpaint only masked": "True"
+      },
+      "username": "Goofy_Ai",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
-        164821,
-        239420,
-        290640,
-        382152,
-        398847,
-        436219
+        1379960
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1220|1758677278815",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1220%7C1758677278815"
+    "nextCursor": "1221|1738456823427",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1221%7C1738456823427"
   }
 }
