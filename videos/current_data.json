@@ -1,96 +1,74 @@
 {
   "items": [
     {
-      "id": 23967058,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99c6927d-9f0a-4eda-86e6-10cbb22dd860/original=true/99c6927d-9f0a-4eda-86e6-10cbb22dd860.jpeg",
-      "hash": "U6I|Bv0M3r,:00^*#lIUl.K5-:M{r?9uEMwI",
+      "id": 99704251,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e5f4074b-c7b8-41e6-9196-09ab0032a42e/original=true/e5f4074b-c7b8-41e6-9196-09ab0032a42e.jpeg",
+      "hash": "UOI;n^~VE0xYo}WCM{R-abaKR5kCsjn$RPRj",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 16,
-      "createdAt": "2024-08-12T15:52:06.099Z",
-      "postId": 5347217,
+      "createdAt": "2025-09-11T14:33:25.733Z",
+      "postId": 22122139,
       "stats": {
-        "cryCount": 49,
-        "laughCount": 131,
-        "likeCount": 1536,
+        "cryCount": 136,
+        "laughCount": 228,
+        "likeCount": 1577,
         "dislikeCount": 0,
-        "heartCount": 952,
-        "commentCount": 1
+        "heartCount": 725,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 626973636,
-        "steps": 28,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, gorgeous girl , wet kawai girl , cute face, cute girl, 25 years old, long red hair, bangs, black , naked, large saggy breast, cleavage, large loose white baggy t shirt , puffy nipples, ((slim fit)), wide hips, sexy thighs , hugging legs, (((large ass))), pussy from behind, feet, pose , laying on bed, laying face up, horny girl , face focus , (((from front))), ((selfie)), on bed , (((lewd pose))) , lewd selfie",
+        "seed": 1379580014,
+        "draft": false,
+        "steps": 30,
+        "width": 832,
+        "height": 1216,
+        "prompt": "score_9, score_8_up, score_7_up, 1girl, beautiful white angel girl, white skin, petite golden halo, white wings, petite body, small breasts, white hair, blush, perfect eyes, skimpy white angel outfit, exposed breasts. Ahegao, drooling, tongue out, looking up at viewer, cum on face, close up on face, heaven, on clouds, waterfall, cloud oasis, roman pillar",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 4.5,
+        "cfgScale": 7,
         "clipSkip": 2,
+        "quantity": 1,
+        "workflow": "txt2img",
+        "baseModel": "Pony",
         "resources": [],
-        "Created Date": "2024-08-10T1431:21.7765020Z",
-        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, extra dicks, transgender, pants, (side part), (black man) , extra fingers , deformed fingers",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
+        "Created Date": "2025-08-30T1233:19.7887305Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, simple background,",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 9208,
-            "modelVersionName": "EasyNegative"
+            "modelVersionId": 290640
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 239420,
-            "modelVersionName": "v1.0"
+            "weight": 0.7,
+            "modelVersionId": 244808
           },
           {
             "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 398847,
-            "modelVersionName": "gothic neon v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.65,
-            "modelVersionId": 436219,
-            "modelVersionName": "v3.0 (PonyXL Edition)"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
-          },
-          {
-            "type": "embed",
-            "modelVersionId": 106916,
-            "modelVersionName": "v1.0"
+            "weight": 0.5,
+            "modelVersionId": 342682
           }
         ]
       },
-      "username": "dororooo",
+      "username": "solumbragt355",
       "baseModel": "Pony",
       "modelVersionIds": [
-        9208,
-        239420,
+        244808,
         290640,
-        398847,
-        436219
+        342682
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1215|1757601205733",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1215%7C1757601205733"
+    "nextCursor": "1216|1734158023474",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1216%7C1734158023474"
   }
 }
