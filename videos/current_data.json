@@ -1,42 +1,65 @@
 {
   "items": [
     {
-      "id": 49530737,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f04f082d-7b51-4040-b556-263f983e043f/original=true/f04f082d-7b51-4040-b556-263f983e043f.jpeg",
-      "hash": "UEEolb.8K6R4?dkX%1Z~6.M{%2s.%hRPR*xu",
-      "width": 1280,
-      "height": 1856,
+      "id": 954196,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af5d02ab-0a6a-4e14-a199-f37bd7b766d5/original=true/af5d02ab-0a6a-4e14-a199-f37bd7b766d5.jpeg",
+      "hash": "UGJjuR.800?a-:IV4;-V01-p~WjuozIqogof",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-01-04T16:39:33.167Z",
-      "postId": 11085380,
+      "browsingLevel": 8,
+      "createdAt": "2025-03-23T14:44:31.346Z",
+      "postId": 252136,
       "stats": {
-        "cryCount": 83,
-        "laughCount": 150,
-        "likeCount": 1659,
+        "cryCount": 97,
+        "laughCount": 197,
+        "likeCount": 1606,
         "dislikeCount": 0,
-        "heartCount": 758,
-        "commentCount": 0
+        "heartCount": 750,
+        "commentCount": 1
       },
-      "meta": null,
-      "username": null,
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "512x768",
+        "seed": 1887839687,
+        "Model": "anything-v4.5-pruned",
+        "steps": 25,
+        "hashes": {
+          "model": "6e430eb514"
+        },
+        "prompt": "1girl,solo,long hair,glasses ,blonde hair,(gigantic breasts:1.3),(tank top,short shorts),twin tails,(thighhighs:1.2),heavy blush,(thick thighs:1.3),heavy blush,wide hips,choker,heavy blush,(happy:1.3),simple background,shiny skin,wet skin,indoors,looking at viewer\n<lora:konoshige:1>",
+        "sampler": "DPM++ 2M Karras",
+        "cfgScale": 7.5,
+        "Clip skip": "2",
+        "resources": [
+          {
+            "name": "konoshige",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "6e430eb514",
+            "name": "anything-v4.5-pruned",
+            "type": "model"
+          }
+        ],
+        "Model hash": "6e430eb514",
+        "Hires steps": "25",
+        "Hires upscale": "2",
+        "Hires upscaler": "R-ESRGAN 4x+",
+        "negativePrompt": "(worst quality, low quality:1.4),EasyNegative , bad-hands-5,((((blurry background)))),multiple views,comic,(signature:1.3),(,panels:1.4),(signature,watermark,:1.3),forehead mark, (greyscale,monochrome:1.3),(watermark:1.4),(signature:1.3),",
+        "Denoising strength": "0.41"
+      },
+      "username": "mnemosynekotorin",
+      "baseModel": "SD 1.5",
       "modelVersionIds": [
-        9208,
-        164821,
-        290640,
-        358694,
-        382152,
-        398847,
-        436219,
-        533716
+        5581
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1235|1742741071346",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1235%7C1742741071346"
+    "nextCursor": "1236|1718842746929",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1236%7C1718842746929"
   }
 }
