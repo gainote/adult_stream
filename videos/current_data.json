@@ -1,39 +1,101 @@
 {
   "items": [
     {
-      "id": 47057572,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1078cc89-7c79-40a5-b42d-182330f6fd5e/original=true/1078cc89-7c79-40a5-b42d-182330f6fd5e.jpeg",
-      "hash": "U9ELvjJP00-A%z%LxtE2.8kq=|Wp~pNGIVxu",
-      "width": 1280,
-      "height": 1856,
+      "id": 28841965,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b46465d0-0d78-4354-bdcf-8cc01ea38cc4/original=true/b46465d0-0d78-4354-bdcf-8cc01ea38cc4.jpeg",
+      "hash": "U0CGoQ}xfQ}x_2j[afj[fQfQfQfQ_2j[afj[",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-12-23T00:07:27.693Z",
-      "postId": 10635028,
+      "browsingLevel": 16,
+      "createdAt": "2024-09-11T09:24:26.809Z",
+      "postId": 6452120,
       "stats": {
-        "cryCount": 78,
-        "laughCount": 119,
-        "likeCount": 1661,
+        "cryCount": 77,
+        "laughCount": 187,
+        "likeCount": 1508,
         "dislikeCount": 0,
-        "heartCount": 790,
+        "heartCount": 876,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "paulmuc",
+      "meta": {
+        "Size": "832x1216",
+        "seed": 3353023735,
+        "extra": {
+          "remixOfId": 27737611
+        },
+        "steps": 29,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_9, score_8_up, score_8, semi realistic, rapunzel, long blonde hair, sexy, (very big tits, mature face), intricate details, moody lighting, volumetric lighting, cinematic lighting, depth of field, bokeh, masterpiece, (best quality:1.1), (masterpiece:1.2), beautiful detailed, kneeling in forest, short, petite, kneeling, blowjob, fellatio, 1man, looking up, gagging, exposed tits, topless, fake cat ears, pink garter stockings, high heels",
+        "sampler": "Euler a",
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-09-11T0723:14.2384535Z",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, watermark, blurry face, black and white, muscular female, sagging tits, hanging tits, saggy tits",
+        "civitaiResources": [
+          {
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
+          },
+          {
+            "type": "lora",
+            "weight": 2,
+            "modelVersionId": 296634,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
+          }
+        ]
+      },
+      "username": "SamsoNitez",
       "baseModel": "Pony",
       "modelVersionIds": [
         135867,
-        164821,
-        382152,
-        720175,
-        953264
+        244808,
+        290640,
+        296634,
+        330475,
+        382152
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1241|1726046666809",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1241%7C1726046666809"
+    "nextCursor": "1242|1749322020000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1242%7C1749322020000"
   }
 }
