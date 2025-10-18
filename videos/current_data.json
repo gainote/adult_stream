@@ -1,43 +1,71 @@
 {
   "items": [
     {
-      "id": 70462377,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/39583488-4b46-40f4-bfea-824ee592c9c7/original=true/39583488-4b46-40f4-bfea-824ee592c9c7.jpeg",
-      "hash": "UCIyXs+IOZRQ[B]k0MNb#,}@RQkq^%D*-BE2",
-      "width": 832,
-      "height": 1216,
+      "id": 1230942,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/98163e11-ba1a-4842-892c-56238df03465/original=true/98163e11-ba1a-4842-892c-56238df03465.jpeg",
+      "hash": "UBFE[p-o9tn$ENM|?G%29aV?n$a#~W-oRjs:",
+      "width": 1024,
+      "height": 1536,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-04-22T04:15:00.000Z",
-      "postId": 15653189,
+      "createdAt": "2024-02-10T09:01:53.141Z",
+      "postId": 320490,
       "stats": {
-        "cryCount": 84,
-        "laughCount": 205,
-        "likeCount": 1596,
+        "cryCount": 44,
+        "laughCount": 160,
+        "likeCount": 1245,
         "dislikeCount": 0,
-        "heartCount": 752,
-        "commentCount": 0
+        "heartCount": 1188,
+        "commentCount": 5
       },
-      "meta": null,
-      "username": "unholyreaper",
-      "baseModel": "Pony",
+      "meta": {
+        "ENSD": "31337",
+        "Size": "1024x1536",
+        "seed": 97117974,
+        "Model": "majicmixRealistic_v6",
+        "steps": 35,
+        "hashes": {
+          "model": "e4a30e4607",
+          "embed:badhandv4": "5e40d722fc",
+          "lora:add_detail": "47aaaf0d29",
+          "embed:EasyNegative": "c74b4e810b"
+        },
+        "prompt": "1girl,, pubic hair, (looking at viewer, light smile, ), brown hair, brown eyes,  long hair, hair_flying, Fluttering hair, flying_hair, ((Transparent glasses, glasses, glasses_on_nose)), wind coat, black_coat,\n((nfsw, expose,  nude, breasts out, nipple, small breasts, )), sexy, charming, stunning,  enhance, delicate, (pale skin, real_skin), sunlight, \nautumn, wind, tree, fallen leaves, outdoor,\nbest quality, high quality, highres, 8k, photo realistic, raw photo, cannon, nikon,\n<lora:add_detail:0.1>",
+        "Version": "v1.2.1",
+        "sampler": "Euler",
+        "cfgScale": 10.5,
+        "Clip skip": "2",
+        "Mask blur": "4",
+        "resources": [
+          {
+            "name": "add_detail",
+            "type": "lora",
+            "weight": 0.1
+          },
+          {
+            "hash": "e4a30e4607",
+            "name": "majicmixRealistic_v6",
+            "type": "model"
+          }
+        ],
+        "Model hash": "e4a30e4607",
+        "negativePrompt": "badhandv4, EasyNegative, watermark, low quality, bad hand, normal quality, sunglasses,",
+        "Denoising strength": "0.45"
+      },
+      "username": "Bei3",
+      "baseModel": "SD 1.5",
       "modelVersionIds": [
-        128461,
-        135867,
-        290640,
-        298238,
-        379995,
-        382152,
-        461295,
-        471794,
-        519489
+        9208,
+        20068,
+        62833,
+        94640
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1254|1707555713141",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1254%7C1707555713141"
+    "nextCursor": "1255|1718914715178",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1255%7C1718914715178"
   }
 }
