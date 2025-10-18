@@ -1,112 +1,84 @@
 {
   "items": [
     {
-      "id": 88771289,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fb2a5c49-749e-4abf-93e0-7290ff7b1550/original=true/fb2a5c49-749e-4abf-93e0-7290ff7b1550.jpeg",
-      "hash": "UHFr*88_yD%2~V8_?vM{Nd8{ROo#tlbcNG-;",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "Mature",
+      "id": 88644625,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/33a0abe6-8dbd-4060-9a79-9fae405d507b/original=true/33a0abe6-8dbd-4060-9a79-9fae405d507b.jpeg",
+      "hash": "U7NIQyoa00~CZ:fhtet7Rlf8t6axpGaLr?o|",
+      "width": 2688,
+      "height": 3840,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-07-17T11:45:00.000Z",
-      "postId": 19691915,
+      "browsingLevel": 8,
+      "createdAt": "2025-07-17T00:41:00.000Z",
+      "postId": 19664006,
       "stats": {
-        "cryCount": 92,
-        "laughCount": 171,
-        "likeCount": 1660,
+        "cryCount": 88,
+        "laughCount": 177,
+        "likeCount": 1673,
         "dislikeCount": 0,
-        "heartCount": 730,
-        "commentCount": 1
+        "heartCount": 715,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 1206176479,
-        "draft": false,
-        "steps": 30,
-        "width": 832,
-        "height": 1216,
-        "prompt": "solo, score_9, score_8_up, score_7_up, score_6_up BREAK 1girl, ((platinum blonde hair)), ponytail , big tits, very-large-breasts, naked), gluteal fold, thick thighs, big ass, wide hips, narrow waist, realistic skin:1.3)\u2219(detailed skin:1.3)\u2219(skin texture:1.3)\u2219(perfect skin:1.3). \n ((standing)), pants pull, grey sweatpants, gluteal fold, skindentation, looking over shoulder, ((ass focus)), ((over the shoulder selfie:1.3)). (raytracing:1.3), (ambient occlusion), (cinematic lighting:1.3), (chromatic aberration), (4K image quality:1.3), (sharp detail:1.3), (highly realistic:1.3), (dim warm cinematic lighting:1.3)\nreddit, low quality, traditional media, amateur, real life photo, raw, film grain, dappled light",
-        "process": "txt2img",
-        "sampler": "DPM2 a",
-        "cfgScale": 5.5,
-        "clipSkip": 2,
-        "quantity": 2,
-        "workflow": "txt2img",
-        "baseModel": "Pony",
-        "resources": [],
-        "disablePoi": true,
-        "aspectRatio": "13:19",
-        "Created Date": "2025-07-17T0919:32.8730980Z",
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, 3d, simple background, extra fingers, watermark, cross eyed, gloves,  gauntlets, skinny, small breasts, glasses",
+        "seed": 77235159,
+        "vaes": [],
+        "extra": {},
+        "steps": 29,
+        "models": [],
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, 1girl, sexy, pose, elf mage, green eyes, long hair, pink hair, swept hair, long hair, small breasts, nude, detailed face, lineless, incoth, (incase:0.6), sassy smile, simple background. dynamic background, dynamic pose,",
+        "denoise": 0.4,
+        "sampler": "Euler a",
+        "cfgScale": 4,
+        "modelIds": [],
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan, long elf ears,",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1971591,
-            "modelVersionName": "b 2.0"
-          },
-          {
-            "type": "lora",
-            "weight": -0.65,
-            "modelVersionId": 1260971,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 2,
-            "modelVersionId": 1594293,
-            "modelVersionName": "Pony V.1"
-          },
-          {
-            "type": "lora",
-            "weight": 2.75,
-            "modelVersionId": 1681903,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
-            "weight": 0.55,
-            "modelVersionId": 1242203,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 1681921,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1612720
           },
           {
-            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 244808
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 1189052
+          },
+          {
             "weight": 0.75,
-            "modelVersionId": 1726904,
-            "modelVersionName": "Pony"
+            "modelVersionId": 1545543
           },
           {
-            "type": "lora",
-            "weight": 1.6,
-            "modelVersionId": 1926995,
-            "modelVersionName": "PONY v1.0"
+            "weight": 0.5,
+            "modelVersionId": 1589514
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           }
-        ]
+        ],
+        "additionalResources": []
       },
-      "username": "0dang",
-      "baseModel": "Pony",
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        1242203,
-        1260971,
-        1594293,
-        1681903,
-        1681921,
-        1726904,
-        1926995,
-        1971591
+        164821,
+        244808,
+        1189052,
+        1545543,
+        1589514,
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1228|1752712860000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1228%7C1752712860000"
+    "nextCursor": "1229|1736139569591",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1229%7C1736139569591"
   }
 }
