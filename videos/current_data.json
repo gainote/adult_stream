@@ -1,78 +1,39 @@
 {
   "items": [
     {
-      "id": 83176325,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38c73412-5b03-461a-961f-deb579c7a1a3/original=true/38c73412-5b03-461a-961f-deb579c7a1a3.jpeg",
-      "hash": "U8G*Zt00?^xY?vX8k==_57o}=|IU;{E1kWRk",
-      "width": 1536,
-      "height": 2304,
+      "id": 47057572,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1078cc89-7c79-40a5-b42d-182330f6fd5e/original=true/1078cc89-7c79-40a5-b42d-182330f6fd5e.jpeg",
+      "hash": "U9ELvjJP00-A%z%LxtE2.8kq=|Wp~pNGIVxu",
+      "width": 1280,
+      "height": 1856,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-06-19T03:58:04.957Z",
-      "postId": 18472324,
+      "browsingLevel": 8,
+      "createdAt": "2024-12-23T00:07:27.693Z",
+      "postId": 10635028,
       "stats": {
-        "cryCount": 105,
-        "laughCount": 168,
-        "likeCount": 1580,
+        "cryCount": 78,
+        "laughCount": 119,
+        "likeCount": 1661,
         "dislikeCount": 0,
-        "heartCount": 795,
+        "heartCount": 790,
         "commentCount": 0
       },
-      "meta": {
-        "Size": "768x1152",
-        "seed": 2828909592,
-        "Model": "aMixIllustrious_aMix",
-        "steps": 30,
-        "hashes": {
-          "model": "992570e0eb",
-          "lora:rimixO": "4cf2b76fbf7c"
-        },
-        "prompt": "1girl, breasts, thighhighs, navel, pasties, armpits, solo, long hair, brown hair, harness, head out of frame, bondage outfit, medium breasts, arm up, underwear, star pasties, thighs, panties, sitting, o-ring, large breasts, cross pasties, indoors, covered nipples, arm support, black panties, revealing clothes, stomach, dutch angle, bdsm, tape, selfie, table .\n<lora:rimixO:0.65>, masterwork, masterpiece, best quality,  detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult,  aged up",
-        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
-        "sampler": "Euler a",
-        "cfgScale": 6,
-        "resources": [
-          {
-            "hash": "4cf2b76fbf7c",
-            "name": "rimixO",
-            "type": "lora",
-            "weight": 0.65
-          },
-          {
-            "hash": "992570e0eb",
-            "name": "aMixIllustrious_aMix",
-            "type": "model"
-          }
-        ],
-        "Model hash": "992570e0eb",
-        "Hires steps": "10",
-        "Hires upscale": "2",
-        "Schedule type": "Automatic",
-        "Hires Module 1": "Use same choices",
-        "Hires upscaler": "None",
-        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli",
-        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
-        "Hires CFG Scale": "6",
-        "ADetailer sampler": "DPM++ 2M",
-        "ADetailer version": "24.11.1",
-        "Denoising strength": "0.1",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.3",
-        "ADetailer inpaint only masked": "True",
-        "ADetailer use separate sampler": "True"
-      },
-      "username": "phinjo",
-      "baseModel": "Illustrious",
-      "modelVersionIds": []
+      "meta": null,
+      "username": "paulmuc",
+      "baseModel": "Pony",
+      "modelVersionIds": [
+        135867,
+        164821,
+        382152,
+        720175,
+        953264
+      ]
     }
   ],
   "metadata": {
-    "nextCursor": "1240|1734912447693",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1240%7C1734912447693"
+    "nextCursor": "1241|1726046666809",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1241%7C1726046666809"
   }
 }
