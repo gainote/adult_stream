@@ -1,66 +1,84 @@
 {
   "items": [
     {
-      "id": 74972556,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/395b6de0-8abf-4e71-9ff0-25f932aa47f9/original=true/395b6de0-8abf-4e71-9ff0-25f932aa47f9.jpeg",
-      "hash": "UCJRwAyZYk9F-ND%4.wGpx%1=rE1-OIByEE2",
-      "width": 1536,
-      "height": 2040,
-      "nsfwLevel": "Mature",
+      "id": 89726093,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30642a34-86f3-4faf-96ea-28bda963a9f2/original=true/30642a34-86f3-4faf-96ea-28bda963a9f2.jpeg",
+      "hash": "UCJa1O0LM^#R-h59=_?H0e9G~WIoxv%MkX-:",
+      "width": 1216,
+      "height": 832,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-05-08T11:01:30.512Z",
-      "postId": 16646466,
+      "browsingLevel": 16,
+      "createdAt": "2025-07-22T04:06:43.658Z",
+      "postId": 19902660,
       "stats": {
-        "cryCount": 138,
-        "laughCount": 150,
-        "likeCount": 1558,
+        "cryCount": 124,
+        "laughCount": 224,
+        "likeCount": 1521,
         "dislikeCount": 0,
-        "heartCount": 793,
-        "commentCount": 0
+        "heartCount": 768,
+        "commentCount": 2
       },
       "meta": {
-        "Eta": "0.67",
-        "RNG": "NV",
-        "ENSD": "31337",
-        "Size": "1024x1360",
-        "seed": 195138301,
-        "Model": "WAI-Nsfw-Illustrious-14",
-        "steps": 30,
-        "hashes": {
-          "model": "bdb59bac77"
-        },
-        "prompt": "1girl, dark skin, blush, solo, extended leg, squatting, dynamic pose, snow,ing, huge weapon, kirin (armor), sword, stomach, fake horns, silver hair, pelvic curtain, fur trim, dark-skinned female, underwear, boots, horns, thighhighs, detached sleeves, tube top, gloves, vambraces, loincloth, elbow gloves, weapon, thigh boots, strapless, hairband, belt, navel, single horn, grabbing sword, crop top\n,masterpiece,best quality,amazing quality,",
-        "Version": "v1.10.1-89-g2174ce5af",
+        "Size": "1216x832",
+        "seed": 2085405334,
+        "draft": false,
+        "steps": 34,
+        "width": 1216,
+        "height": 832,
+        "prompt": "masterpiece, best quality , BREAK cute ,\n(amelia watson /(hololive/), blonde hair, medium hair, blue eyes, beige coat, white collared shirt, red necktie, plaid skirt, brown skirt, high waist skirt, black thighhighs, thigh strap) , indoors, detective's office, brown theme:1.6, looking up, hearts, heart shaped pupils, blush, kneeling, papers, BREAK large breasts, round breasts, bursting breasts, cleavage, open shirt, thick thighs, wide hips, thin waist, solo, nahcbb, depth of field, 1boy, faceless male, very dark skinned male, short penis:1.6, girthy wide cock:1.8, foreskin:2, uncut penis:1.7, penis on face, excessive precum, handjob, drool, parted lips, stunned, cock shock, penis worship",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 7,
+        "cfgScale": 6.5,
         "clipSkip": 2,
-        "resources": [
+        "quantity": 2,
+        "workflow": "txt2img",
+        "baseModel": "Illustrious",
+        "resources": [],
+        "disablePoi": true,
+        "aspectRatio": "19:13",
+        "Created Date": "2025-07-13T2317:14.3169159Z",
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, worst quality, low quality, text, censored, deformed, mutated hands, bad hand, blurry, watermark, ugly face, mutated hands, low res, blurry face, athletic body, extra hands, easynegative, bad hands, loli, bodysuit, big hair, bald, sharp teeth, monochrome, hat",
+        "civitaiResources": [
           {
-            "hash": "bdb59bac77",
-            "name": "WAI-Nsfw-Illustrious-14",
-            "type": "model"
+            "type": "checkpoint",
+            "modelVersionId": 1697082,
+            "modelVersionName": "v2.2"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
+          },
+          {
+            "type": "lora",
+            "weight": 1.3,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lycoris",
+            "weight": 1,
+            "modelVersionId": 1078869,
+            "modelVersionName": "v1.0"
           }
-        ],
-        "Model hash": "bdb59bac77",
-        "Hires steps": "20",
-        "Hires upscale": "1.5",
-        "Schedule type": "Automatic",
-        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
-        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
-        "Denoising strength": "0.5",
-        "Discard penultimate sigma": "True"
+        ]
       },
-      "username": "WAI0731",
+      "username": "DekaiKusa",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        1761560
+        9208,
+        135867,
+        1078869,
+        1697082
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1252|1753157203658",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1252%7C1753157203658"
+    "nextCursor": "1253|1745295300000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1253%7C1745295300000"
   }
 }
