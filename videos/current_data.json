@@ -1,67 +1,166 @@
 {
   "items": [
     {
-      "id": 16413176,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e091ed3a-7123-4753-9ac5-ccdc424db7f4/original=true/e091ed3a-7123-4753-9ac5-ccdc424db7f4.jpeg",
-      "hash": "UCMGP74T3ZpJFzkrIoRP00t,w[Qlysiwx^RP",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 93301733,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba34d08e-89cb-4b0b-b7e0-9ebe3b7d3c21/original=true/ba34d08e-89cb-4b0b-b7e0-9ebe3b7d3c21.jpeg",
+      "hash": "U7G7_KEN0f}u0_I[yDt00$?GMyD%03#T-:bx",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2024-06-20T00:19:06.929Z",
-      "postId": 3678398,
+      "browsingLevel": 4,
+      "createdAt": "2025-08-10T04:20:00.000Z",
+      "postId": 20701199,
       "stats": {
-        "cryCount": 68,
-        "laughCount": 185,
-        "likeCount": 1460,
+        "cryCount": 116,
+        "laughCount": 168,
+        "likeCount": 1604,
         "dislikeCount": 0,
-        "heartCount": 936,
+        "heartCount": 762,
         "commentCount": 0
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 123499718,
-        "steps": 35,
-        "prompt": "score_9,score_8_up,score_7_up,score_6_up, 1girl, sleeping on her side, on bed, medium breasts, Anna frozen, twin braids, redhead, tiny waist, exposed breasts, close up, head on pillow, pov, pussy, wet spot, dark green panties, grool, (pov hands removing panties, /male hands removing panties/), petite,",
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
+        "extra": {},
+        "steps": 38,
+        "width": 832,
+        "height": 1216,
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:257749@290640"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up,juri han (street fighter),mature,milf, jurims , sfvialt , multicolored hair, hair horns, hoodie, open hoodie, pajama, navel, black lingerie, bangs,curvascious body, sexy body,hotel bedroom,at night,city lights view from windows,seductive pose,Expressiveh,at night,dim light,city lights through windows,sexy selfie,lewd selfie,Asselfie, lying, thong, cellphone,sexy pose,dim light\n\n\n\n\n\n\n\n\n\n",
+        "process": "txt2img",
         "sampler": "Euler a",
-        "cfgScale": 5,
+        "cfgScale": 6,
         "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-06-20T0013:08.5835596Z",
-        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face, ((nipples)),",
+        "modelIds": [],
+        "priority": "low",
+        "quantity": 2,
+        "workflow": "txt2img-hires",
+        "baseModel": "Pony",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "disablePoi": true,
+        "versionIds": [],
+        "aspectRatio": "13:19",
+        "controlNets": [],
+        "experimental": false,
+        "negativePrompt": "score_6, score_5, score_4, pony,poor quality,low quality,low resolution, censored, 3d, kid, child, loli, polydactyl, deformed, ugly, contorted, misshapen, injured, derpibooru_p_low, deformed, ugly, bad anatomy, bad proportions, bad eyes, deformed eyes, fused breasts, fusion, fused arms, fused legs, extra leg, missing limb, missing arm, extra colour swap, wrong colour, wings, black and white images, greyscale images, unaestheticXL2v10, 3d render, deformed feet, extra toes, deformed toes, deformed belly button, watermark, logo, signature, easynegative, nude",
         "civitaiResources": [
           {
+            "weight": 1,
+            "modelVersionId": 290640
+          },
+          {
+            "weight": 0.6,
+            "modelVersionId": 382152
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 9208
+          },
+          {
+            "weight": 0.3,
+            "modelVersionId": 436219
+          },
+          {
+            "weight": 0.8,
+            "modelVersionId": 397665
+          },
+          {
+            "weight": 0.9,
+            "modelVersionId": 590304
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 1122823
+          },
+          {
             "type": "checkpoint",
-            "modelVersionId": 534642,
-            "modelVersionName": "v2.1 Main + VAE"
+            "modelVersionId": 290640
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 1,
-            "modelVersionId": 466475,
-            "modelVersionName": "For Pony v0.2"
+            "weight": 0.6,
+            "modelVersionId": 382152
+          },
+          {
+            "type": "lora",
+            "weight": 0.3,
+            "modelVersionId": 436219
           },
           {
             "type": "lora",
             "weight": 0.8,
-            "modelVersionId": 522995,
-            "modelVersionName": "Pony"
+            "modelVersionId": 397665
+          },
+          {
+            "type": "lora",
+            "weight": 0.9,
+            "modelVersionId": 590304
+          },
+          {
+            "type": "lora",
+            "weight": 0.25,
+            "modelVersionId": 1122823
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:341353@382152",
+            "type": "lora",
+            "strength": 0.6,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:300005@436219",
+            "type": "lora",
+            "strength": 0.3,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:355685@397665",
+            "type": "lora",
+            "strength": 0.8,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:531195@590304",
+            "type": "lora",
+            "strength": 0.9,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:915918@1122823",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "screwball808",
+      "username": "Roaume",
       "baseModel": "Pony",
       "modelVersionIds": [
-        466475,
-        522995,
-        534642
+        9208,
+        164821,
+        290640,
+        382152,
+        397665,
+        436219,
+        590304,
+        1122823
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1237|1754799600000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1237%7C1754799600000"
+    "nextCursor": "1238|1750305484957",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1238%7C1750305484957"
   }
 }
