@@ -1,84 +1,88 @@
 {
   "items": [
     {
-      "id": 78466425,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ada94e4-d166-475a-ba45-236d6dac1253/original=true/8ada94e4-d166-475a-ba45-236d6dac1253.jpeg",
-      "hash": "UGByQ]ayJ8ni}[s:I:WBi_wINvof,CaeS$t7",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 35497947,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/186e2195-fd5d-47e3-887c-551e143ed311/original=true/186e2195-fd5d-47e3-887c-551e143ed311.jpeg",
+      "hash": "U8Lycl0L0V~W=;aKkExt0LD%F3-;~Bay9w9u",
+      "width": 1248,
+      "height": 1824,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-05-25T20:33:14.021Z",
-      "postId": 17429690,
+      "browsingLevel": 4,
+      "createdAt": "2024-10-19T23:12:23.133Z",
+      "postId": 8111758,
       "stats": {
-        "cryCount": 157,
-        "laughCount": 209,
-        "likeCount": 1498,
+        "cryCount": 77,
+        "laughCount": 184,
+        "likeCount": 1561,
         "dislikeCount": 0,
-        "heartCount": 787,
-        "commentCount": 2
+        "heartCount": 829,
+        "commentCount": 31
       },
       "meta": {
-        "Size": "832x1216",
-        "nsfw": false,
-        "seed": 1870725566,
-        "draft": false,
-        "extra": {
-          "remixOfId": 71912623
+        "": {},
+        "VAE": "sdxl_vae_fixed.safetensors",
+        "Size": "1248x1824",
+        "seed": 425529268,
+        "Model": "prefect_pony_xl_v3.fp16",
+        "steps": 20,
+        "hashes": {
+          "vae": "235745af8d",
+          "model": "e31a2563f0",
+          "lora:mamimi_mamamimi_style_pdxl_goofy": "34736f707755"
         },
-        "steps": 31,
-        "width": 832,
-        "height": 1216,
-        "prompt": "masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic,8k,masterpiece, best quality, amazing quality, 1girl, 1 tentacles monster, at her home,shower room,small tits,innie pussy,sensual,seductive,looking at the viewer,atmospheric,night,soft lights,,red lights,,exposed tits,detailed nipples,,untucked shirt,beautiful,very sexy pose,focus on girl,super detailed face,(fan in the background,wind),(realism,contrast,realistic skin),looking sensually,(sex,penetrated,lying,half in a slime, glow-neon nuclear slime,open legs,sex,moan,orgasm,rolled eyes,from above),realistic, moaning, happy, excited.\nBreak,\neels (a gigantic spikey bumpy ribbed nasty warty smelly girthy unclean monsterous flesh-colored eel is deep inside her), huge transparent eels, fantastical, size difference, eel in pussy, girl having vaginal sex with a eels, eels fuck, long thick eels, glow saliva, licking pussy, eel in pussy, vaginal long eel insertion, wide deep vaginal penetration, very detailed narrow vagina, vaginal fluid, lots of glow neon vaginal fluid cascading from her count, threads of  glow neon vaginal fluids, arousal fluid, threads of glow vaginal fluids cascade from her pussy down to her hips, legs, etc.\nBREAK, fertilization, ovum, impregnation, sperm cell, cross-section, cum in pussy, internal cumshot, uterus, cum, sex, vaginal, ovaries, ejaculation",
-        "sampler": "DPM2 a",
-        "cfgScale": 3.5,
-        "clipSkip": 2,
-        "quantity": 4,
-        "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [],
-        "Created Date": "2025-05-25T1855:21.7213751Z",
-        "negativePrompt": "worst quality, low quality, displeasing, text, , watermark, bad anatomy, text, artist name, signature, hearts, deformed hands, missing finger, shiny skin,child,children",
-        "civitaiResources": [
+        "prompt": "score_9,score_8_up,score_7_up, <lora:mamimi_mamamimi_style_pdxl_goofy:1>1girl, kitagawa marin, barbell piercing, bikini, bikini under clothes, black bikini, black choker, blonde hair, blush, breasts, choker, cleavage, colored tips, ear piercing, earrings, fake nails, floral print, gradient hair, grin, gyaru, industrial piercing, jewelry, large breasts, long hair, looking at viewer, multi-strapped bikini bottom, multicolored hair, navel, navel piercing, nipple slip, nipples, open clothes, open shirt, piercing, pink nails, print bikini, red eyes, red hair, shirt, side-tie bikini bottom, smile, solo, standing, stray pubic hair, swept bangs, swimsuit, teeth, v, white shirt",
+        "Version": "v1.10.1",
+        "sampler": "DPM++ 2M",
+        "{Method": {},
+        "Upscaler": {},
+        "cfgScale": 7,
+        "resources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 1240288,
-            "modelVersionName": "v1.3 - Style A"
-          },
-          {
+            "hash": "34736f707755",
+            "name": "mamimi_mamamimi_style_pdxl_goofy",
             "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1036362,
-            "modelVersionName": "v4_noobEv1.0"
+            "weight": 1
           },
           {
-            "type": "lycoris",
-            "weight": 0.5,
-            "modelVersionId": 1219983,
-            "modelVersionName": "v0.4"
-          },
-          {
-            "type": "lora",
-            "weight": 0.45,
-            "modelVersionId": 959419,
-            "modelVersionName": "SDXL_Illustrious-XL"
+            "hash": "e31a2563f0",
+            "name": "prefect_pony_xl_v3.fp16",
+            "type": "model"
           }
-        ]
+        ],
+        "Model hash": "e31a2563f0",
+        "Tile Overlap": "48",
+        "Schedule type": "Karras",
+        "Upscale factor": "1.5",
+        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
+        "ADetailer model": "face_yolov8n.pt",
+        "Keep input size": "true}",
+        "Tile batch size": "6",
+        "Tile tile width": "160",
+        "Tiled Diffusion": {},
+        "Tile tile height": "160",
+        "ADetailer version": "24.8.0",
+        "Denoising strength": "0.3",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "Tiled Diffusion upscaler": "4x-UltraSharp",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.4",
+        "Tiled Diffusion scale factor": "1.5",
+        "ADetailer inpaint only masked": "True"
       },
-      "username": "fechner",
-      "baseModel": "Illustrious",
+      "username": "Goofy_Ai",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        959419,
-        1036362,
-        1219983,
-        1240288
+        828380,
+        974276
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1233|1729379543133",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1233%7C1729379543133"
+    "nextCursor": "1234|1736008773167",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1234%7C1736008773167"
   }
 }
