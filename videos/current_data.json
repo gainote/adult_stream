@@ -1,84 +1,66 @@
 {
   "items": [
     {
-      "id": 87084708,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbde125d-a3a9-47eb-81fe-d1e64a3777b6/original=true/dbde125d-a3a9-47eb-81fe-d1e64a3777b6.jpeg",
-      "hash": "U8Hci:}?00#TnT^6$yRj0gEMt5xG5kELt7%M",
-      "width": 2688,
-      "height": 3840,
+      "id": 74972556,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/395b6de0-8abf-4e71-9ff0-25f932aa47f9/original=true/395b6de0-8abf-4e71-9ff0-25f932aa47f9.jpeg",
+      "hash": "UCJRwAyZYk9F-ND%4.wGpx%1=rE1-OIByEE2",
+      "width": 1536,
+      "height": 2040,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-07-09T00:41:00.000Z",
-      "postId": 19320547,
+      "createdAt": "2025-05-08T11:01:30.512Z",
+      "postId": 16646466,
       "stats": {
-        "cryCount": 103,
-        "laughCount": 171,
-        "likeCount": 1687,
+        "cryCount": 138,
+        "laughCount": 150,
+        "likeCount": 1558,
         "dislikeCount": 0,
-        "heartCount": 678,
+        "heartCount": 793,
         "commentCount": 0
       },
       "meta": {
-        "seed": 2024871393,
-        "vaes": [],
-        "extra": {},
-        "steps": 29,
-        "models": [],
-        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, medieval setting, tavern, bar, solo, 1girl, elf dancer, female focus, lineless, incoth, (incase:0.6), indoors, green eyes, slave bikini, pelvic curtain, no panties, slave collar, cowboy shot, small breasts, long pink hair, swept hair, refined, beautiful, kawaii, dynamic pose, close up, standing on stage, seductive dancing,",
-        "denoise": 0.4,
+        "Eta": "0.67",
+        "RNG": "NV",
+        "ENSD": "31337",
+        "Size": "1024x1360",
+        "seed": 195138301,
+        "Model": "WAI-Nsfw-Illustrious-14",
+        "steps": 30,
+        "hashes": {
+          "model": "bdb59bac77"
+        },
+        "prompt": "1girl, dark skin, blush, solo, extended leg, squatting, dynamic pose, snow,ing, huge weapon, kirin (armor), sword, stomach, fake horns, silver hair, pelvic curtain, fur trim, dark-skinned female, underwear, boots, horns, thighhighs, detached sleeves, tube top, gloves, vambraces, loincloth, elbow gloves, weapon, thigh boots, strapless, hairband, belt, navel, single horn, grabbing sword, crop top\n,masterpiece,best quality,amazing quality,",
+        "Version": "v1.10.1-89-g2174ce5af",
         "sampler": "Euler a",
-        "cfgScale": 4,
-        "modelIds": [],
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
-        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
-        "civitaiResources": [
+        "cfgScale": 7,
+        "clipSkip": 2,
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 1612720
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 1189052
-          },
-          {
-            "weight": 0.75,
-            "modelVersionId": 1545543
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 1589514
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "hash": "bdb59bac77",
+            "name": "WAI-Nsfw-Illustrious-14",
+            "type": "model"
           }
         ],
-        "additionalResources": []
+        "Model hash": "bdb59bac77",
+        "Hires steps": "20",
+        "Hires upscale": "1.5",
+        "Schedule type": "Automatic",
+        "Hires upscaler": "R-ESRGAN 4x+ Anime6B",
+        "negativePrompt": "bad quality,worst quality,worst detail,sketch,censor,",
+        "Denoising strength": "0.5",
+        "Discard penultimate sigma": "True"
       },
-      "username": "ElvishDreams",
+      "username": "WAI0731",
       "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        244808,
-        1189052,
-        1545543,
-        1589514,
-        1612720
+        1761560
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1251|1746702090512",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1251%7C1746702090512"
+    "nextCursor": "1252|1753157203658",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1252%7C1753157203658"
   }
 }
