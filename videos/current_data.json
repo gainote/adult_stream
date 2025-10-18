@@ -1,33 +1,34 @@
 {
   "items": [
     {
-      "id": 79894695,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e79d9dd9-2eb7-4f07-b5d6-d610a9e085bd/original=true/e79d9dd9-2eb7-4f07-b5d6-d610a9e085bd.jpeg",
-      "hash": "UBHns[_4q?Ip00RODznNu4-;^N=wIB=_n3S3",
+      "id": 70539944,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9e4f9052-5aff-4c06-b731-f7cdfe1b6857/original=true/9e4f9052-5aff-4c06-b731-f7cdfe1b6857.jpeg",
+      "hash": "UUQbR;?u.8RV~qpJS|xCeTJ*V[nO-;xYRONd",
       "width": 832,
       "height": 1216,
       "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 4,
-      "createdAt": "2025-06-02T04:00:00.000Z",
-      "postId": 17747224,
+      "createdAt": "2025-04-17T05:30:00.000Z",
+      "postId": 15668922,
       "stats": {
-        "cryCount": 95,
-        "laughCount": 186,
-        "likeCount": 1623,
+        "cryCount": 101,
+        "laughCount": 204,
+        "likeCount": 1610,
         "dislikeCount": 0,
-        "heartCount": 756,
-        "commentCount": 1
+        "heartCount": 745,
+        "commentCount": 0
       },
       "meta": {
         "Size": "832x1216",
-        "seed": 927224492,
+        "nsfw": true,
+        "seed": 1982925485,
         "draft": false,
         "steps": 30,
         "width": 832,
         "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, absurdres, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:Hoseki_WutheringWaves_Lorelei_IllustriousXL_v1:1>, lrl, monster girl, purple halo, black sclera, blue eyes, blue skin, cracked skin, blue hair, hair over one eye, medium hair, sensual eyes, glossy lipstick, firm petite shape, round firm breasts, makeup, smokyeyes, lash, mascara, puffy glossy lips, fingernails, nail polish, red long nails, A digital illustration shoot from the front about a young woman ear piercing, ring, ((pearl thong:1.5)), ((see-through:1.4)), large breasts, deep neckline, ((no bra:1.5)), hard nipple, floral pattern white stockings, white laced trimmed thighhighs, nose blush, bare shoulders, white wet Neglig\u00e9, white thin lace nightgown, ((see-through nightgown:1.5)), cameltoe, cleavage, indoors, pov, doorway, apartment, the woman is looking directly at the viewer with a slutry and smug expression. her body is slim and her behavior is inviting. the lighting is soft and warm, creating a cozy atmosphere. relaxed but provocative, dramatic scenery, intricate details, (blurry background, depth of field:1.1), the picture has an sexuel, alluring and erotic vibe, lascivious pose, front cowboy shot from below, blurry background, bright colors, stunningly artwork",
+        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:omi-san_fgo_ilxl_goofy:1> omi-san, long hair, yellow eyes, slit pupils, hair over one eye, one eye covered, large breasts, pink mascara, puffy lips, smug smile, parted lips, bright pink lipstick, A digital illustration shoot from behind about a character in a suggestive pose, leaning against a wall with a surprised expression. the image also shows japanese text on the top left corner. on the middle of the image, a 1girl who appears to be a young adult, with a slim body and large breasts, wearing a white t-shirt and a blue skirt pulled up to reveal her white g-string. she is leaning against the wall (((presenting her round firm ass))) with her head turned to the side, looking over her shoulder with a playful expression. her body is slim and she is wearing no pants or shoes. the background is a simple gradient of light pink and white. with vibrant colors and detailed shading, giving the image a sense of depth and dimensionality, soft ambient glow, dramatic scenery, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, dynamic dutch angle, from above, bright colors, stunningly artwork,",
         "sampler": "DDIM",
         "cfgScale": 4,
         "clipSkip": 2,
@@ -36,24 +37,18 @@
         "baseModel": "Illustrious",
         "resources": [
           {
-            "name": "Hoseki_WutheringWaves_Lorelei_IllustriousXL_v1",
+            "name": "omi-san_fgo_ilxl_goofy",
             "type": "lora",
             "weight": 1
           }
         ],
-        "Created Date": "2025-06-01T0739:15.2999497Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, (watermark:1.5), ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari, no man, no other persons",
+        "Created Date": "2025-04-16T1937:12.6901007Z",
+        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1697082,
-            "modelVersionName": "v2.2"
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 1492934,
-            "modelVersionName": "illustrious V2"
+            "modelVersionId": 1612720,
+            "modelVersionName": "v13.0"
           },
           {
             "type": "embed",
@@ -69,9 +64,15 @@
           },
           {
             "type": "lora",
-            "weight": 0.55,
+            "weight": 0.45,
             "modelVersionId": 1056404,
             "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 1373674,
+            "modelVersionName": "illustrious"
           },
           {
             "type": "lora",
@@ -81,15 +82,15 @@
           },
           {
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 1828979,
-            "modelVersionName": "leviathan-artist-v1_ixl"
+            "weight": 1,
+            "modelVersionId": 1313805,
+            "modelVersionName": "v1.0 illustrious"
           },
           {
-            "type": "lora",
+            "type": "vae",
             "weight": 1,
-            "modelVersionId": 1843015,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 1472075,
+            "modelVersionName": "dmin-vae"
           }
         ]
       },
@@ -100,15 +101,14 @@
         25820,
         1056404,
         1135769,
-        1492934,
-        1697082,
-        1828979,
-        1843015
+        1313805,
+        1373674,
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1225|1744867800000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1225%7C1744867800000"
+    "nextCursor": "1226|1734031371807",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1226%7C1734031371807"
   }
 }
