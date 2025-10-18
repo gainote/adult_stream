@@ -1,88 +1,42 @@
 {
   "items": [
     {
-      "id": 35497947,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/186e2195-fd5d-47e3-887c-551e143ed311/original=true/186e2195-fd5d-47e3-887c-551e143ed311.jpeg",
-      "hash": "U8Lycl0L0V~W=;aKkExt0LD%F3-;~Bay9w9u",
-      "width": 1248,
-      "height": 1824,
-      "nsfwLevel": "Mature",
+      "id": 49530737,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f04f082d-7b51-4040-b556-263f983e043f/original=true/f04f082d-7b51-4040-b556-263f983e043f.jpeg",
+      "hash": "UEEolb.8K6R4?dkX%1Z~6.M{%2s.%hRPR*xu",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2024-10-19T23:12:23.133Z",
-      "postId": 8111758,
+      "browsingLevel": 16,
+      "createdAt": "2025-01-04T16:39:33.167Z",
+      "postId": 11085380,
       "stats": {
-        "cryCount": 77,
-        "laughCount": 184,
-        "likeCount": 1561,
+        "cryCount": 83,
+        "laughCount": 150,
+        "likeCount": 1659,
         "dislikeCount": 0,
-        "heartCount": 829,
-        "commentCount": 31
+        "heartCount": 758,
+        "commentCount": 0
       },
-      "meta": {
-        "": {},
-        "VAE": "sdxl_vae_fixed.safetensors",
-        "Size": "1248x1824",
-        "seed": 425529268,
-        "Model": "prefect_pony_xl_v3.fp16",
-        "steps": 20,
-        "hashes": {
-          "vae": "235745af8d",
-          "model": "e31a2563f0",
-          "lora:mamimi_mamamimi_style_pdxl_goofy": "34736f707755"
-        },
-        "prompt": "score_9,score_8_up,score_7_up, <lora:mamimi_mamamimi_style_pdxl_goofy:1>1girl, kitagawa marin, barbell piercing, bikini, bikini under clothes, black bikini, black choker, blonde hair, blush, breasts, choker, cleavage, colored tips, ear piercing, earrings, fake nails, floral print, gradient hair, grin, gyaru, industrial piercing, jewelry, large breasts, long hair, looking at viewer, multi-strapped bikini bottom, multicolored hair, navel, navel piercing, nipple slip, nipples, open clothes, open shirt, piercing, pink nails, print bikini, red eyes, red hair, shirt, side-tie bikini bottom, smile, solo, standing, stray pubic hair, swept bangs, swimsuit, teeth, v, white shirt",
-        "Version": "v1.10.1",
-        "sampler": "DPM++ 2M",
-        "{Method": {},
-        "Upscaler": {},
-        "cfgScale": 7,
-        "resources": [
-          {
-            "hash": "34736f707755",
-            "name": "mamimi_mamamimi_style_pdxl_goofy",
-            "type": "lora",
-            "weight": 1
-          },
-          {
-            "hash": "e31a2563f0",
-            "name": "prefect_pony_xl_v3.fp16",
-            "type": "model"
-          }
-        ],
-        "Model hash": "e31a2563f0",
-        "Tile Overlap": "48",
-        "Schedule type": "Karras",
-        "Upscale factor": "1.5",
-        "negativePrompt": "realistic,monochrome,greyscale, artist name, signature, watermark,",
-        "ADetailer model": "face_yolov8n.pt",
-        "Keep input size": "true}",
-        "Tile batch size": "6",
-        "Tile tile width": "160",
-        "Tiled Diffusion": {},
-        "Tile tile height": "160",
-        "ADetailer version": "24.8.0",
-        "Denoising strength": "0.3",
-        "ADetailer mask blur": "4",
-        "ADetailer confidence": "0.3",
-        "ADetailer dilate erode": "4",
-        "Tiled Diffusion upscaler": "4x-UltraSharp",
-        "ADetailer inpaint padding": "32",
-        "ADetailer denoising strength": "0.4",
-        "Tiled Diffusion scale factor": "1.5",
-        "ADetailer inpaint only masked": "True"
-      },
-      "username": "Goofy_Ai",
+      "meta": null,
+      "username": null,
       "baseModel": "Pony",
       "modelVersionIds": [
-        828380,
-        974276
+        9208,
+        164821,
+        290640,
+        358694,
+        382152,
+        398847,
+        436219,
+        533716
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1234|1736008773167",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1234%7C1736008773167"
+    "nextCursor": "1235|1742741071346",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1235%7C1742741071346"
   }
 }
