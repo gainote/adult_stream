@@ -1,65 +1,67 @@
 {
   "items": [
     {
-      "id": 954196,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af5d02ab-0a6a-4e14-a199-f37bd7b766d5/original=true/af5d02ab-0a6a-4e14-a199-f37bd7b766d5.jpeg",
-      "hash": "UGJjuR.800?a-:IV4;-V01-p~WjuozIqogof",
-      "width": 1024,
-      "height": 1536,
+      "id": 16413176,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e091ed3a-7123-4753-9ac5-ccdc424db7f4/original=true/e091ed3a-7123-4753-9ac5-ccdc424db7f4.jpeg",
+      "hash": "UCMGP74T3ZpJFzkrIoRP00t,w[Qlysiwx^RP",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-03-23T14:44:31.346Z",
-      "postId": 252136,
+      "createdAt": "2024-06-20T00:19:06.929Z",
+      "postId": 3678398,
       "stats": {
-        "cryCount": 97,
-        "laughCount": 197,
-        "likeCount": 1606,
+        "cryCount": 68,
+        "laughCount": 185,
+        "likeCount": 1460,
         "dislikeCount": 0,
-        "heartCount": 750,
-        "commentCount": 1
+        "heartCount": 936,
+        "commentCount": 0
       },
       "meta": {
-        "Size": "512x768",
-        "seed": 1887839687,
-        "Model": "anything-v4.5-pruned",
-        "steps": 25,
-        "hashes": {
-          "model": "6e430eb514"
-        },
-        "prompt": "1girl,solo,long hair,glasses ,blonde hair,(gigantic breasts:1.3),(tank top,short shorts),twin tails,(thighhighs:1.2),heavy blush,(thick thighs:1.3),heavy blush,wide hips,choker,heavy blush,(happy:1.3),simple background,shiny skin,wet skin,indoors,looking at viewer\n<lora:konoshige:1>",
-        "sampler": "DPM++ 2M Karras",
-        "cfgScale": 7.5,
-        "Clip skip": "2",
-        "resources": [
+        "Size": "832x1216",
+        "seed": 123499718,
+        "steps": 35,
+        "prompt": "score_9,score_8_up,score_7_up,score_6_up, 1girl, sleeping on her side, on bed, medium breasts, Anna frozen, twin braids, redhead, tiny waist, exposed breasts, close up, head on pillow, pov, pussy, wet spot, dark green panties, grool, (pov hands removing panties, /male hands removing panties/), petite,",
+        "sampler": "Euler a",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [],
+        "Created Date": "2024-06-20T0013:08.5835596Z",
+        "negativePrompt": "score_6, score_5, score_4, pony, gaping, censored, furry, child, kid, chibi, 3d, photo, monochrome, elven ears, anime, multiple cocks, extra legs, extra hands, mutated legs, mutated hands, open mouth, closed eyes, big man, high man, muscular man, muscular hands, face, ((nipples)),",
+        "civitaiResources": [
           {
-            "name": "konoshige",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 534642,
+            "modelVersionName": "v2.1 Main + VAE"
           },
           {
-            "hash": "6e430eb514",
-            "name": "anything-v4.5-pruned",
-            "type": "model"
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 466475,
+            "modelVersionName": "For Pony v0.2"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 522995,
+            "modelVersionName": "Pony"
           }
-        ],
-        "Model hash": "6e430eb514",
-        "Hires steps": "25",
-        "Hires upscale": "2",
-        "Hires upscaler": "R-ESRGAN 4x+",
-        "negativePrompt": "(worst quality, low quality:1.4),EasyNegative , bad-hands-5,((((blurry background)))),multiple views,comic,(signature:1.3),(,panels:1.4),(signature,watermark,:1.3),forehead mark, (greyscale,monochrome:1.3),(watermark:1.4),(signature:1.3),",
-        "Denoising strength": "0.41"
+        ]
       },
-      "username": "mnemosynekotorin",
-      "baseModel": "SD 1.5",
+      "username": "screwball808",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        5581
+        466475,
+        522995,
+        534642
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1236|1718842746929",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1236%7C1718842746929"
+    "nextCursor": "1237|1754799600000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1237%7C1754799600000"
   }
 }
