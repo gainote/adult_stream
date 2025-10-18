@@ -1,101 +1,140 @@
 {
   "items": [
     {
-      "id": 28841965,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b46465d0-0d78-4354-bdcf-8cc01ea38cc4/original=true/b46465d0-0d78-4354-bdcf-8cc01ea38cc4.jpeg",
-      "hash": "U0CGoQ}xfQ}x_2j[afj[fQfQfQfQ_2j[afj[",
-      "width": 832,
-      "height": 1216,
-      "nsfwLevel": "X",
+      "id": 80962499,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/535d2eb7-df1e-4a26-a34d-07ec483af69d/original=true/535d2eb7-df1e-4a26-a34d-07ec483af69d.jpeg",
+      "hash": "U6A0|9D%00oJ9Zx^wIM{4T%Nt8NG?wi^t7D$",
+      "width": 1280,
+      "height": 1856,
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2024-09-11T09:24:26.809Z",
-      "postId": 6452120,
+      "browsingLevel": 4,
+      "createdAt": "2025-06-07T18:47:00.000Z",
+      "postId": 17982930,
       "stats": {
-        "cryCount": 77,
-        "laughCount": 187,
-        "likeCount": 1508,
+        "cryCount": 102,
+        "laughCount": 196,
+        "likeCount": 1646,
         "dislikeCount": 0,
-        "heartCount": 876,
-        "commentCount": 0
+        "heartCount": 702,
+        "commentCount": 1
       },
       "meta": {
-        "Size": "832x1216",
-        "seed": 3353023735,
-        "extra": {
-          "remixOfId": 27737611
-        },
+        "seed": 1016333383,
+        "vaes": [],
+        "Model": "urn:air:sdxl:checkpoint:civitai:1325426@1496755",
+        "extra": {},
         "steps": 29,
-        "prompt": "score_9, score_8_up, score_7_up, score_6_up, score_9, score_8_up, score_8, semi realistic, rapunzel, long blonde hair, sexy, (very big tits, mature face), intricate details, moody lighting, volumetric lighting, cinematic lighting, depth of field, bokeh, masterpiece, (best quality:1.1), (masterpiece:1.2), beautiful detailed, kneeling in forest, short, petite, kneeling, blowjob, fellatio, 1man, looking up, gagging, exposed tits, topless, fake cat ears, pink garter stockings, high heels",
+        "models": [
+          "urn:air:sdxl:checkpoint:civitai:1325426@1496755"
+        ],
+        "prompt": "score_9, score_8_up, score_7_up, masterpiece, best quality, very aesthetic, incoth, (incase:0.6), (dynamic:1.1), (mature, adult:0.8),  fuyumur4s4ki_illu, 1woman, solo, police car, leaning against police car, leaning against car, (in handcuffs, cuffed:1.1), cool, (annoyed:0.8), confident, mage, robes, witch hat, brim hat, (staff:1), dark, night, platinum blonde hair, long hair, golden eyes, white pupils, close up, wet, rainy, (city, police siren illumination:0.9), badass, pose, (leaning against:1.04), (bound wrist:0.9), relaxed, (angled leg:0.8),",
         "sampler": "Euler a",
-        "cfgScale": 7,
-        "clipSkip": 2,
-        "resources": [],
-        "Created Date": "2024-09-11T0723:14.2384535Z",
-        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, watermark, blurry face, black and white, muscular female, sagging tits, hanging tits, saggy tits",
+        "cfgScale": 4,
+        "modelIds": [],
+        "workflow": "img2img-hires",
+        "upscalers": [
+          "urn:air:other:upscaler:civitai:147759@164821"
+        ],
+        "versionIds": [],
+        "controlNets": [],
+        "negativePrompt": "score_5, score_4, score_3, ugly, bad hands, wide shoulders, (text, logo, signed, signiture:1), forehead, (blurry, 3d render, render:1.2), (kid, loli, child:1), badge, ",
         "civitaiResources": [
           {
-            "type": "checkpoint",
-            "modelVersionId": 290640,
-            "modelVersionName": "V6 (start with this one)"
-          },
-          {
-            "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 135867,
-            "modelVersionName": "v1.0"
-          },
-          {
-            "type": "lora",
             "weight": 1,
-            "modelVersionId": 244808,
-            "modelVersionName": "v2.0"
+            "modelVersionId": 1496755
+          },
+          {
+            "weight": 1,
+            "modelVersionId": 1496755
+          },
+          {
+            "weight": 0.35,
+            "modelVersionId": 1169143
+          },
+          {
+            "weight": 0.25,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.4,
+            "modelVersionId": 1380520
+          },
+          {
+            "weight": 0.4,
+            "modelVersionId": 1352742
+          },
+          {
+            "type": "checkpoint",
+            "modelVersionId": 1496755
+          },
+          {
+            "type": "upscaler",
+            "modelVersionId": 164821
           },
           {
             "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 330475,
-            "modelVersionName": "Concept Art Twilight"
+            "weight": 0.35,
+            "modelVersionId": 1169143
           },
           {
             "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 382152,
-            "modelVersionName": "ExpressiveH"
+            "weight": 0.25,
+            "modelVersionId": 1189052
           },
           {
             "type": "lora",
-            "weight": 2,
-            "modelVersionId": 296634,
-            "modelVersionName": "v1.0"
+            "weight": 0.4,
+            "modelVersionId": 1380520
           },
           {
-            "type": "embed",
-            "modelVersionId": 250708,
-            "modelVersionName": "safe_pos"
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 1352742
+          }
+        ],
+        "additionalResources": [
+          {
+            "name": "urn:air:sdxl:lora:civitai:389869@1169143",
+            "type": "lora",
+            "strength": 0.35,
+            "strengthClip": 1
           },
           {
-            "type": "embed",
-            "modelVersionId": 250712,
-            "modelVersionName": "safe_neg"
+            "name": "urn:air:sdxl:lora:civitai:1059581@1189052",
+            "type": "lora",
+            "strength": 0.25,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:938811@1380520",
+            "type": "lora",
+            "strength": 0.4,
+            "strengthClip": 1
+          },
+          {
+            "name": "urn:air:sdxl:lora:civitai:1201355@1352742",
+            "type": "lora",
+            "strength": 0.4,
+            "strengthClip": 1
           }
         ]
       },
-      "username": "SamsoNitez",
-      "baseModel": "Pony",
+      "username": "Plantra",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        135867,
-        244808,
-        290640,
-        296634,
-        330475,
-        382152
+        164821,
+        1169143,
+        1189052,
+        1352742,
+        1380520,
+        1496755
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1242|1749322020000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1242%7C1749322020000"
+    "nextCursor": "1243|1741037400000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1243%7C1741037400000"
   }
 }
