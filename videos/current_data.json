@@ -1,90 +1,126 @@
 {
   "items": [
     {
-      "id": 59429792,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56a5baea-080b-4dfb-8ebf-5243b648d024/original=true/56a5baea-080b-4dfb-8ebf-5243b648d024.jpeg",
-      "hash": "U59suGIo01-VYQNa9u-U01t6~BR*Mwr=^jNG",
-      "width": 1336,
-      "height": 2224,
+      "id": 23691107,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/193c6ef9-6cc1-4fbf-8cd7-164d46069f62/original=true/193c6ef9-6cc1-4fbf-8cd7-164d46069f62.jpeg",
+      "hash": "UJFhFy^*Ri$*~WX8IUIpEgNGnONGE1WBxZjF",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-02-23T13:02:00.000Z",
-      "postId": 13294122,
+      "browsingLevel": 8,
+      "createdAt": "2024-08-10T22:42:55.488Z",
+      "postId": 5284557,
       "stats": {
-        "cryCount": 73,
-        "laughCount": 203,
-        "likeCount": 1681,
+        "cryCount": 72,
+        "laughCount": 152,
+        "likeCount": 1599,
         "dislikeCount": 0,
-        "heartCount": 685,
-        "commentCount": 0
+        "heartCount": 819,
+        "commentCount": 2
       },
       "meta": {
-        "Size": "768x1280",
-        "seed": 79964078845984,
-        "Model": "waiNSFWIllustrious_v110.safetensors",
-        "https": "//civitai.com/user/Marland_C",
+        "Size": "832x1216",
+        "seed": 3349905854,
         "steps": 30,
-        "hashes": {
-          "model": "c3688ee04c",
-          "lora:klskx_wai": "a50376f7d2",
-          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
-          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
-          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
-        },
-        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), (ahegao:0.9), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), kneeling, under tree, tentacle sex, bound,\noutdoors, portal, (glowing summoning circle:1.1), (summoning tentacles:1.1), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
-        "Creator": "Marland_C",
-        "sampler": "res_multistep_kl_optimal",
-        "cfgScale": 5,
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, rating_questionable, 1 girl , score_8_up, score_9, highest quality, extremely detailed, 4k, 8k, amazing quality, masterpiece,\n1girl, aqua hair, high ponytail, cute, cute face, sexy figure, medium breasts, amazing butt, shapely butt, surprised expression, startled, caught by surprise, ((looking at viewer)), kandid photo, changing room, undressing, ((panties pulled down to knees)), ((skirt pulled down to anckles)), thigh highs, viewed from below, topless, holding a skirt, pink vagina visible, tight anus, tight butt, voyeur photo, exclamation marks, \ng0thicPXL, concept art, realistic, SeraphineKDAAOXL,",
+        "sampler": "Euler a",
+        "cfgScale": 5.5,
         "clipSkip": 2,
-        "resources": [
+        "resources": [],
+        "Created Date": "2024-08-10T1328:18.0904809Z",
+        "negativePrompt": "score_6, score_5, score_4, ugly face, low res, blurry face, black and white, muscular female , low quality, watermark, signature, loli, child, hands, fingers,",
+        "civitaiResources": [
           {
-            "hash": "b6c2c16f3e",
-            "name": "spo_sdxl_10ep_4k-data_lora_webui",
-            "type": "lora",
-            "weight": 1
+            "type": "checkpoint",
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
-            "hash": "a2efee207a",
-            "name": "illustriousXL_stabilizer_v1.23",
             "type": "lora",
-            "weight": 1
+            "weight": 0.4,
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "hash": "c1144df40a",
-            "name": "illustrious_quality_modifiers_masterpieces_v1",
             "type": "lora",
-            "weight": 0.6
+            "weight": 1,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
           },
           {
-            "hash": "a50376f7d2",
-            "name": "klskx_wai",
             "type": "lora",
-            "weight": 0.7000000000000001
+            "weight": 0.3,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
           },
           {
-            "hash": "c3688ee04c",
-            "name": "waiNSFWIllustrious_v110.safetensors",
-            "type": "model"
+            "type": "lora",
+            "weight": 0.4,
+            "modelVersionId": 135867,
+            "modelVersionName": "v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.8,
+            "modelVersionId": 330475,
+            "modelVersionName": "Concept Art Twilight"
+          },
+          {
+            "type": "lora",
+            "weight": 0.7,
+            "modelVersionId": 388595,
+            "modelVersionName": "Alice - XL PONY V."
+          },
+          {
+            "type": "lora",
+            "weight": 1,
+            "modelVersionId": 250592,
+            "modelVersionName": "v1.0 'Skynet'"
+          },
+          {
+            "type": "embed",
+            "weight": 1,
+            "modelVersionId": 60938,
+            "modelVersionName": "negative_hand"
+          },
+          {
+            "type": "lora",
+            "weight": 0.85,
+            "modelVersionId": 674801,
+            "modelVersionName": "vPonyXL"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
-        ],
-        "Model hash": "c3688ee04c",
-        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, (apples on ground:1.1)"
+        ]
       },
-      "username": "Marland_C",
-      "baseModel": "Illustrious",
+      "username": "Chimi_chan",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        1345990,
-        1284348,
-        567119,
-        1050644,
-        1410435
+        60938,
+        135867,
+        244808,
+        250592,
+        290640,
+        330475,
+        382152,
+        388595,
+        398847,
+        674801
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1247|1723329775488",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1247%7C1723329775488"
+    "nextCursor": "1248|1745678726819",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1248%7C1745678726819"
   }
 }
