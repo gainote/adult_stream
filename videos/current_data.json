@@ -1,114 +1,105 @@
 {
   "items": [
     {
-      "id": 70539944,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9e4f9052-5aff-4c06-b731-f7cdfe1b6857/original=true/9e4f9052-5aff-4c06-b731-f7cdfe1b6857.jpeg",
-      "hash": "UUQbR;?u.8RV~qpJS|xCeTJ*V[nO-;xYRONd",
+      "id": 45155520,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/480ecedb-0c0b-40a1-a114-09b13c4db24d/original=true/480ecedb-0c0b-40a1-a114-09b13c4db24d.jpeg",
+      "hash": "UHEV7{oJPB%g.TRPkX%MX.Rj-UtQx]ShtRRk",
       "width": 832,
       "height": 1216,
-      "nsfwLevel": "Mature",
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-04-17T05:30:00.000Z",
-      "postId": 15668922,
+      "browsingLevel": 16,
+      "createdAt": "2024-12-12T19:22:51.807Z",
+      "postId": 10232342,
       "stats": {
-        "cryCount": 101,
-        "laughCount": 204,
-        "likeCount": 1610,
+        "cryCount": 61,
+        "laughCount": 126,
+        "likeCount": 1590,
         "dislikeCount": 0,
-        "heartCount": 745,
-        "commentCount": 0
+        "heartCount": 883,
+        "commentCount": 2
       },
       "meta": {
         "Size": "832x1216",
         "nsfw": true,
-        "seed": 1982925485,
+        "seed": 19217335,
         "draft": false,
-        "steps": 30,
+        "steps": 35,
         "width": 832,
         "height": 1216,
-        "prompt": "ultra realistic, masterpiece, high detailed skin, best quality, high res, very aesthetic, anime style, studio anime, source_ecchi, anime, (finely detailed face), (petite body:1.3), <lora:omi-san_fgo_ilxl_goofy:1> omi-san, long hair, yellow eyes, slit pupils, hair over one eye, one eye covered, large breasts, pink mascara, puffy lips, smug smile, parted lips, bright pink lipstick, A digital illustration shoot from behind about a character in a suggestive pose, leaning against a wall with a surprised expression. the image also shows japanese text on the top left corner. on the middle of the image, a 1girl who appears to be a young adult, with a slim body and large breasts, wearing a white t-shirt and a blue skirt pulled up to reveal her white g-string. she is leaning against the wall (((presenting her round firm ass))) with her head turned to the side, looking over her shoulder with a playful expression. her body is slim and she is wearing no pants or shoes. the background is a simple gradient of light pink and white. with vibrant colors and detailed shading, giving the image a sense of depth and dimensionality, soft ambient glow, dramatic scenery, (blurry background, depth of field:1.1), erotic and aesthetic, lascivious pose, dynamic dutch angle, from above, bright colors, stunningly artwork,",
-        "sampler": "DDIM",
+        "prompt": "score_9, score_8_up, score_7_up, score_6_up, 1girl, 25 years old, perfect face, (adult), sexy, looking at viewer, green eyes, buns, redhead, black choker, soaking wet, wet skin, dripping, wet hair, moist, topless, breasts, bathing, onsen, outdoors, mountains, winter, (steam), partially submerged, spread legs, pussy, 1boy, bathing together, pov, sitting on lap, from behind, looking back at viewer, penis, spread anus, seductive smile, come hilter, presenting",
+        "sampler": "DPM2 a",
         "cfgScale": 4,
         "clipSkip": 2,
         "quantity": 4,
         "workflow": "txt2img",
-        "baseModel": "Illustrious",
-        "resources": [
-          {
-            "name": "omi-san_fgo_ilxl_goofy",
-            "type": "lora",
-            "weight": 1
-          }
-        ],
-        "Created Date": "2025-04-16T1937:12.6901007Z",
-        "negativePrompt": "score_6, score_5, score_4, embedding:negativeXL_D, skinny, anorexic, furry, halo, (worst quality, low quality, sketch:1.1), error, bad anatomy, bad hands, watermark, ugly, distorted, censored, lowres, abstract, signature, standing, futa, dick, cock, Futanari",
+        "baseModel": "Pony",
+        "resources": [],
+        "Created Date": "2024-12-11T1808:48.9174989Z",
+        "negativePrompt": "core_6, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), multiple phones, weights, bunny ears, extra hands, feet",
         "civitaiResources": [
           {
             "type": "checkpoint",
-            "modelVersionId": 1612720,
-            "modelVersionName": "v13.0"
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 6056,
-            "modelVersionName": "Bad artist "
-          },
-          {
-            "type": "embed",
-            "weight": 1,
-            "modelVersionId": 25820,
-            "modelVersionName": "veryBadImageNegative_v1.3"
+            "modelVersionId": 290640,
+            "modelVersionName": "V6 (start with this one)"
           },
           {
             "type": "lora",
             "weight": 0.45,
-            "modelVersionId": 1056404,
-            "modelVersionName": "v1.0"
+            "modelVersionId": 382152,
+            "modelVersionName": "ExpressiveH"
           },
           {
-            "type": "lora",
-            "weight": 0.7,
-            "modelVersionId": 1373674,
-            "modelVersionName": "illustrious"
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 1135769,
-            "modelVersionName": "ILXL"
-          },
-          {
-            "type": "lora",
+            "type": "embed",
             "weight": 1,
-            "modelVersionId": 1313805,
-            "modelVersionName": "v1.0 illustrious"
+            "modelVersionId": 9208,
+            "modelVersionName": "EasyNegative"
           },
           {
-            "type": "vae",
-            "weight": 1,
-            "modelVersionId": 1472075,
-            "modelVersionName": "dmin-vae"
+            "type": "lora",
+            "weight": 0.35,
+            "modelVersionId": 398847,
+            "modelVersionName": "gothic neon v1.0"
+          },
+          {
+            "type": "lora",
+            "weight": 0.6,
+            "modelVersionId": 436219,
+            "modelVersionName": "v3.0 (PonyXL Edition)"
+          },
+          {
+            "type": "lora",
+            "weight": 0.75,
+            "modelVersionId": 244808,
+            "modelVersionName": "v2.0"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250708,
+            "modelVersionName": "safe_pos"
+          },
+          {
+            "type": "embed",
+            "modelVersionId": 250712,
+            "modelVersionName": "safe_neg"
           }
         ]
       },
-      "username": "Chimi83",
-      "baseModel": "Illustrious",
+      "username": "fixerskorch877",
+      "baseModel": "Pony",
       "modelVersionIds": [
-        6056,
-        25820,
-        1056404,
-        1135769,
-        1313805,
-        1373674,
-        1612720
+        9208,
+        244808,
+        290640,
+        382152,
+        398847,
+        436219
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1226|1734031371807",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1226%7C1734031371807"
+    "nextCursor": "1227|1752752700000",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1227%7C1752752700000"
   }
 }
