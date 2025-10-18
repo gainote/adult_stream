@@ -1,166 +1,78 @@
 {
   "items": [
     {
-      "id": 93301733,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba34d08e-89cb-4b0b-b7e0-9ebe3b7d3c21/original=true/ba34d08e-89cb-4b0b-b7e0-9ebe3b7d3c21.jpeg",
-      "hash": "U7G7_KEN0f}u0_I[yDt00$?GMyD%03#T-:bx",
-      "width": 1280,
-      "height": 1856,
-      "nsfwLevel": "Mature",
+      "id": 83176325,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38c73412-5b03-461a-961f-deb579c7a1a3/original=true/38c73412-5b03-461a-961f-deb579c7a1a3.jpeg",
+      "hash": "U8G*Zt00?^xY?vX8k==_57o}=|IU;{E1kWRk",
+      "width": 1536,
+      "height": 2304,
+      "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 4,
-      "createdAt": "2025-08-10T04:20:00.000Z",
-      "postId": 20701199,
+      "browsingLevel": 16,
+      "createdAt": "2025-06-19T03:58:04.957Z",
+      "postId": 18472324,
       "stats": {
-        "cryCount": 116,
+        "cryCount": 105,
         "laughCount": 168,
-        "likeCount": 1604,
+        "likeCount": 1580,
         "dislikeCount": 0,
-        "heartCount": 762,
+        "heartCount": 795,
         "commentCount": 0
       },
       "meta": {
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:257749@290640",
-        "extra": {},
-        "steps": 38,
-        "width": 832,
-        "height": 1216,
-        "models": [
-          "urn:air:sdxl:checkpoint:civitai:257749@290640"
-        ],
-        "prompt": "score_9, score_8_up, score_7_up,juri han (street fighter),mature,milf, jurims , sfvialt , multicolored hair, hair horns, hoodie, open hoodie, pajama, navel, black lingerie, bangs,curvascious body, sexy body,hotel bedroom,at night,city lights view from windows,seductive pose,Expressiveh,at night,dim light,city lights through windows,sexy selfie,lewd selfie,Asselfie, lying, thong, cellphone,sexy pose,dim light\n\n\n\n\n\n\n\n\n\n",
-        "process": "txt2img",
+        "Size": "768x1152",
+        "seed": 2828909592,
+        "Model": "aMixIllustrious_aMix",
+        "steps": 30,
+        "hashes": {
+          "model": "992570e0eb",
+          "lora:rimixO": "4cf2b76fbf7c"
+        },
+        "prompt": "1girl, breasts, thighhighs, navel, pasties, armpits, solo, long hair, brown hair, harness, head out of frame, bondage outfit, medium breasts, arm up, underwear, star pasties, thighs, panties, sitting, o-ring, large breasts, cross pasties, indoors, covered nipples, arm support, black panties, revealing clothes, stomach, dutch angle, bdsm, tape, selfie, table .\n<lora:rimixO:0.65>, masterwork, masterpiece, best quality,  detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult,  aged up",
+        "Version": "f2.0.1v1.10.1-previous-635-gf5330788",
         "sampler": "Euler a",
         "cfgScale": 6,
-        "clipSkip": 2,
-        "modelIds": [],
-        "priority": "low",
-        "quantity": 2,
-        "workflow": "txt2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "disablePoi": true,
-        "versionIds": [],
-        "aspectRatio": "13:19",
-        "controlNets": [],
-        "experimental": false,
-        "negativePrompt": "score_6, score_5, score_4, pony,poor quality,low quality,low resolution, censored, 3d, kid, child, loli, polydactyl, deformed, ugly, contorted, misshapen, injured, derpibooru_p_low, deformed, ugly, bad anatomy, bad proportions, bad eyes, deformed eyes, fused breasts, fusion, fused arms, fused legs, extra leg, missing limb, missing arm, extra colour swap, wrong colour, wings, black and white images, greyscale images, unaestheticXL2v10, 3d render, deformed feet, extra toes, deformed toes, deformed belly button, watermark, logo, signature, easynegative, nude",
-        "civitaiResources": [
+        "resources": [
           {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 0.6,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.3,
-            "modelVersionId": 436219
-          },
-          {
-            "weight": 0.8,
-            "modelVersionId": 397665
-          },
-          {
-            "weight": 0.9,
-            "modelVersionId": 590304
-          },
-          {
-            "weight": 0.25,
-            "modelVersionId": 1122823
-          },
-          {
-            "type": "checkpoint",
-            "modelVersionId": 290640
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
-          },
-          {
+            "hash": "4cf2b76fbf7c",
+            "name": "rimixO",
             "type": "lora",
-            "weight": 0.6,
-            "modelVersionId": 382152
+            "weight": 0.65
           },
           {
-            "type": "lora",
-            "weight": 0.3,
-            "modelVersionId": 436219
-          },
-          {
-            "type": "lora",
-            "weight": 0.8,
-            "modelVersionId": 397665
-          },
-          {
-            "type": "lora",
-            "weight": 0.9,
-            "modelVersionId": 590304
-          },
-          {
-            "type": "lora",
-            "weight": 0.25,
-            "modelVersionId": 1122823
+            "hash": "992570e0eb",
+            "name": "aMixIllustrious_aMix",
+            "type": "model"
           }
         ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:341353@382152",
-            "type": "lora",
-            "strength": 0.6,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:300005@436219",
-            "type": "lora",
-            "strength": 0.3,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:355685@397665",
-            "type": "lora",
-            "strength": 0.8,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:531195@590304",
-            "type": "lora",
-            "strength": 0.9,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:915918@1122823",
-            "type": "lora",
-            "strength": 0.25,
-            "strengthClip": 1
-          }
-        ]
+        "Model hash": "992570e0eb",
+        "Hires steps": "10",
+        "Hires upscale": "2",
+        "Schedule type": "Automatic",
+        "Hires Module 1": "Use same choices",
+        "Hires upscaler": "None",
+        "negativePrompt": "lowres, worst quality, low quality, bad anatomy, bad hands, jpeg artifacts, signature, watermark, text, logo, artist name, extra digits,  censored, patreon username, loli",
+        "ADetailer model": "Anzhc Face seg 640 v2 y8n.pt",
+        "Hires CFG Scale": "6",
+        "ADetailer sampler": "DPM++ 2M",
+        "ADetailer version": "24.11.1",
+        "Denoising strength": "0.1",
+        "ADetailer mask blur": "4",
+        "ADetailer confidence": "0.3",
+        "ADetailer dilate erode": "4",
+        "ADetailer inpaint padding": "32",
+        "ADetailer denoising strength": "0.3",
+        "ADetailer inpaint only masked": "True",
+        "ADetailer use separate sampler": "True"
       },
-      "username": "Roaume",
-      "baseModel": "Pony",
-      "modelVersionIds": [
-        9208,
-        164821,
-        290640,
-        382152,
-        397665,
-        436219,
-        590304,
-        1122823
-      ]
+      "username": "phinjo",
+      "baseModel": "Illustrious",
+      "modelVersionIds": []
     }
   ],
   "metadata": {
-    "nextCursor": "1238|1750305484957",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1238%7C1750305484957"
+    "nextCursor": "1239|1745863604575",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1239%7C1745863604575"
   }
 }
