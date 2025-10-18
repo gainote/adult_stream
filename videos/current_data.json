@@ -1,41 +1,90 @@
 {
   "items": [
     {
-      "id": 95417145,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4d7b8949-debf-4341-b3bf-20576021922a/original=true/4d7b8949-debf-4341-b3bf-20576021922a.jpeg",
-      "hash": "UFFFvK~n2.9u*xr=]-%2y-tj%es:-$$zI:M}",
-      "width": 2688,
-      "height": 3840,
+      "id": 59429792,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56a5baea-080b-4dfb-8ebf-5243b648d024/original=true/56a5baea-080b-4dfb-8ebf-5243b648d024.jpeg",
+      "hash": "U59suGIo01-VYQNa9u-U01t6~BR*Mwr=^jNG",
+      "width": 1336,
+      "height": 2224,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 8,
-      "createdAt": "2025-08-20T12:15:22.741Z",
-      "postId": 21164067,
+      "browsingLevel": 16,
+      "createdAt": "2025-02-23T13:02:00.000Z",
+      "postId": 13294122,
       "stats": {
-        "cryCount": 323,
-        "laughCount": 417,
-        "likeCount": 1278,
+        "cryCount": 73,
+        "laughCount": 203,
+        "likeCount": 1681,
         "dislikeCount": 0,
-        "heartCount": 624,
+        "heartCount": 685,
         "commentCount": 0
       },
-      "meta": null,
-      "username": "qazsedcAI",
-      "baseModel": "Pony",
+      "meta": {
+        "Size": "768x1280",
+        "seed": 79964078845984,
+        "Model": "waiNSFWIllustrious_v110.safetensors",
+        "https": "//civitai.com/user/Marland_C",
+        "steps": 30,
+        "hashes": {
+          "model": "c3688ee04c",
+          "lora:klskx_wai": "a50376f7d2",
+          "lora:illustriousXL_stabilizer_v1.23": "a2efee207a",
+          "lora:spo_sdxl_10ep_4k-data_lora_webui": "b6c2c16f3e",
+          "lora:illustrious_quality_modifiers_masterpieces_v1": "c1144df40a"
+        },
+        "prompt": "masterpiece, best quality, amazing quality, klskx, nsfw, explicit, Irisviel von Einzbern, 1girl, lush hair, platinum hair, long hair, red eyes, eyebrows, thick eyelashes, (orgasm:1.1), (ahegao:0.9), black latex bodysuit, arms up, bound wrists, (unzipped:1.2), navel, nude, nipples, (pussy:0.8), kneeling, under tree, tentacle sex, bound,\noutdoors, portal, (glowing summoning circle:1.1), (summoning tentacles:1.1), orchad, garden, scenery, trees, night, orchard background, underlighting, (dark shadows:0.9), (high contrast:0.9), looking at viewer, volumetric lighting, intricate details, blurry background, depth of field <lora:spo_sdxl_10ep_4k-data_lora_webui:1.0> <lora:illustriousXL_stabilizer_v1.23:1.0> <lora:illustrious_quality_modifiers_masterpieces_v1:0.6> <lora:klskx_wai:0.7000000000000001>",
+        "Creator": "Marland_C",
+        "sampler": "res_multistep_kl_optimal",
+        "cfgScale": 5,
+        "clipSkip": 2,
+        "resources": [
+          {
+            "hash": "b6c2c16f3e",
+            "name": "spo_sdxl_10ep_4k-data_lora_webui",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "a2efee207a",
+            "name": "illustriousXL_stabilizer_v1.23",
+            "type": "lora",
+            "weight": 1
+          },
+          {
+            "hash": "c1144df40a",
+            "name": "illustrious_quality_modifiers_masterpieces_v1",
+            "type": "lora",
+            "weight": 0.6
+          },
+          {
+            "hash": "a50376f7d2",
+            "name": "klskx_wai",
+            "type": "lora",
+            "weight": 0.7000000000000001
+          },
+          {
+            "hash": "c3688ee04c",
+            "name": "waiNSFWIllustrious_v110.safetensors",
+            "type": "model"
+          }
+        ],
+        "Model hash": "c3688ee04c",
+        "negativePrompt": "loli, bad quality, worst quality, sketch, censored, watermark, signature, blurry, plain simple background, blank eyes, hydrokinesis, large breasts, (apples on ground:1.1)"
+      },
+      "username": "Marland_C",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        290640,
-        382152,
-        575618,
-        600326,
-        1196553,
-        1196555
+        1345990,
+        1284348,
+        567119,
+        1050644,
+        1410435
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1246|1740315720000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1246%7C1740315720000"
+    "nextCursor": "1247|1723329775488",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1247%7C1723329775488"
   }
 }
