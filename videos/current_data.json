@@ -1,182 +1,81 @@
 {
   "items": [
     {
-      "id": 61306070,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f95550b-de52-48a5-b7bc-9eddcb6ebe92/original=true/4f95550b-de52-48a5-b7bc-9eddcb6ebe92.jpeg",
-      "hash": "UCGbn:~WBU4.4.DiobWVMdbvyE-qM_M{V[oL",
-      "width": 1280,
-      "height": 1856,
+      "id": 102555299,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/23230686-f6d5-4892-93e9-e9cf69bfbd6b/original=true/23230686-f6d5-4892-93e9-e9cf69bfbd6b.jpeg",
+      "hash": "UpOD5+%2_NR*j[WBoft7o#RjjFxaoeV@oLt7",
+      "width": 832,
+      "height": 1216,
       "nsfwLevel": "X",
       "type": "image",
       "nsfw": true,
       "browsingLevel": 8,
-      "createdAt": "2025-03-03T21:30:00.000Z",
-      "postId": 13707571,
+      "createdAt": "2025-09-30T15:07:00.000Z",
+      "postId": 22754094,
       "stats": {
-        "cryCount": 88,
-        "laughCount": 179,
-        "likeCount": 1609,
+        "cryCount": 96,
+        "laughCount": 165,
+        "likeCount": 1649,
         "dislikeCount": 0,
-        "heartCount": 767,
-        "commentCount": 1
+        "heartCount": 732,
+        "commentCount": 0
       },
       "meta": {
-        "nsfw": false,
-        "vaes": [],
-        "Model": "urn:air:sdxl:checkpoint:civitai:443821@1346181",
-        "extra": {
-          "remixOfId": 59381729
-        },
-        "steps": 38,
+        "Model": "urn:air:sdxl:checkpoint:civitai:1025051@2186168",
+        "extra": {},
+        "steps": 30,
         "width": 832,
         "height": 1216,
         "models": [
-          "urn:air:sdxl:checkpoint:civitai:443821@1346181"
+          "urn:air:sdxl:checkpoint:civitai:1025051@2186168"
         ],
-        "prompt": "safe_pos, safe_pos, safe_pos, Stable_Yogis_PDXL_Positives, fluxenh4nce\n score_9, score_8_up, score_7_up, score_6_up BREAK\n1girl, late twenties, petite, (((fit, toned body, muscular))),  pale skin, ((strong shoulders, strong arms)), perfect posture, ginger hair, single braid, ((freckles)), small perky breasts, trimmed pubic hair,\n(skindentation), high leg panties, legs, thigh gap\nseductive, horny, desperate, sexy smirk,\n supermodel, gorgeous, looking at viewer,  \n[wrinkles, dimples, laugh-lines].\n(raytracing:1.3), (ambient occlusion), (cinematic lighting:1.3),  (chromatic aberration), (4K image quality:1.3), (sharp detail:1.3), (highly realistic:1.3), (dim warm cinematic lighting:1.3)",
-        "denoise": 0.4,
+        "prompt": "masterpiece, best quality, amazing quality,\n\n\n(expressive:0.9),\nsexy hot,\nposing,\n\n\nnude,\n",
+        "denoise": 0.01,
+        "process": "img2img",
         "sampler": "DPM++ 2M",
         "cfgScale": 7,
         "clipSkip": 2,
-        "modelIds": [],
         "priority": "low",
-        "quantity": 2,
-        "workflow": "img2img-hires",
-        "baseModel": "Pony",
-        "upscalers": [
-          "urn:air:other:upscaler:civitai:147759@164821"
-        ],
-        "versionIds": [],
-        "controlNets": [],
+        "quantity": 1,
+        "workflow": "img2img",
+        "baseModel": "Illustrious",
+        "disablePoi": true,
+        "aspectRatio": "13:19",
         "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/VKVA4N9C2ZYBXVRMSEK7GSV860.jpeg",
+          "url": "https://orchestration.civitai.com/v2/consumer/blobs/19771247060817639019167175092263349630.jpg?sig=CfDJ8J868rbHQQlNuTOL2qbAsuRg6jiWIi0kXra4dflZbh9O03_-v4E3dkiNIR1OFEvb949ETh9S3ImX_Bt1uAGnzziBy58rhf2aGUm4dUn88eW43E6IA6QnnUTAlenMefEexCjUB_XzG5WXtF7Ju2Haujug-fGKo4wUjQjOsE3gRcJXZwzCqkx5jbDVcL7wPoXRMHmzsoEk-vsJKAN6vmeWMCkSBfYd2k2_e8RamspN7oENpgJJrXsmwrP3wHNVMacwOAxQs7rROIJuNbW4Oxipt7zmEANczX3b7TADVCeXsqds1DeCYZga2iI5Qh3FJMFBJg&exp=2026-09-26T13:48:57.6386864Z",
           "width": 832,
           "height": 1216
         },
         "experimental": false,
-        "negativePrompt": "civit_nsfw, safe_neg, safe_neg, civit_nsfw, safe_neg, Stable_Yogis_PDXL_Negatives, distorted face, blurred face, fat, ugly,, lip distortion, lip errors, face errors, distorted hands, too many fingers, crossed arms,  tanned, tanlines, bra",
+        "negativePrompt": "censor, censored, watermark, artist name, bestiality,\n",
         "civitaiResources": [
           {
-            "weight": 1,
-            "modelVersionId": 1346181
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 1346181
-          },
-          {
-            "weight": 1.2,
-            "modelVersionId": 678485
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 772342
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 775151
-          },
-          {
-            "weight": 1.5,
-            "modelVersionId": 1374404
-          },
-          {
-            "weight": -2,
-            "modelVersionId": 1386847
-          },
-          {
-            "weight": 2,
-            "modelVersionId": 1430143
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 333245
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250708
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 250712
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 106916
-          },
-          {
             "type": "checkpoint",
-            "modelVersionId": 1346181
-          },
-          {
-            "type": "upscaler",
-            "modelVersionId": 164821
+            "modelVersionId": 2186168
           },
           {
             "type": "lora",
-            "weight": 1.2,
-            "modelVersionId": 678485
+            "weight": 0.85,
+            "modelVersionId": 2234776
           },
           {
             "type": "lora",
-            "weight": 1.5,
-            "modelVersionId": 1374404
-          },
-          {
-            "type": "lora",
-            "weight": -2,
-            "modelVersionId": 1386847
-          },
-          {
-            "type": "lora",
-            "weight": 2,
-            "modelVersionId": 1430143
-          }
-        ],
-        "additionalResources": [
-          {
-            "name": "urn:air:sdxl:lora:civitai:251417@678485",
-            "type": "lora",
-            "strength": 1.2,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1220004@1374404",
-            "type": "lora",
-            "strength": 1.5,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1230780@1386847",
-            "type": "lora",
-            "strength": -2,
-            "strengthClip": 1
-          },
-          {
-            "name": "urn:air:sdxl:lora:civitai:1267943@1430143",
-            "type": "lora",
-            "strength": 2,
-            "strengthClip": 1
+            "weight": 0.2,
+            "modelVersionId": 1976924
           }
         ]
       },
-      "username": null,
-      "baseModel": "Pony",
+      "username": "vovkkabanko",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        164821,
-        333245,
-        678485,
-        772342,
-        775151,
-        1346181,
-        1374404,
-        1386847,
-        1430143
+        1976924,
+        2186168,
+        2234776
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1244|1759244820000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1244%7C1759244820000"
+    "nextCursor": "1245|1755692122741",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1245%7C1755692122741"
   }
 }
