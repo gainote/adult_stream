@@ -1,90 +1,62 @@
 {
   "items": [
     {
-      "id": 63631608,
-      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cafd35d9-0843-482b-86c6-e9cb1ee3d450/original=true/cafd35d9-0843-482b-86c6-e9cb1ee3d450.jpeg",
-      "hash": "U7FqXl0fAEo217xG~CR*~q$*5RkVGuNH56R+",
+      "id": 87084708,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbde125d-a3a9-47eb-81fe-d1e64a3777b6/original=true/dbde125d-a3a9-47eb-81fe-d1e64a3777b6.jpeg",
+      "hash": "U8Hci:}?00#TnT^6$yRj0gEMt5xG5kELt7%M",
       "width": 2688,
       "height": 3840,
-      "nsfwLevel": "X",
+      "nsfwLevel": "Mature",
       "type": "image",
       "nsfw": true,
-      "browsingLevel": 16,
-      "createdAt": "2025-03-15T10:05:22.532Z",
-      "postId": 14194089,
+      "browsingLevel": 4,
+      "createdAt": "2025-07-09T00:41:00.000Z",
+      "postId": 19320547,
       "stats": {
-        "cryCount": 91,
-        "laughCount": 178,
-        "likeCount": 1509,
+        "cryCount": 103,
+        "laughCount": 171,
+        "likeCount": 1687,
         "dislikeCount": 0,
-        "heartCount": 862,
+        "heartCount": 678,
         "commentCount": 0
       },
       "meta": {
-        "nsfw": false,
-        "seed": 698000275,
+        "seed": 2024871393,
         "vaes": [],
         "extra": {},
-        "steps": 50,
-        "width": 832,
-        "height": 1216,
+        "steps": 29,
         "models": [],
-        "prompt": "masterpiece, ultra-realistic, 32k, best quality, highly detailed, score_9, score_8_up, score_7_up, score_6_up, BREAK, ((4girls)), green eyes, brown eyes, blue eyes, blonde, (younger faces), (breast focus), 4different faces, brunette, black hair, redhead, bangs, long hair, braids, twintails, perfect body, blush, medium to large perky breasts, pose, caucasian, flirty smiles, (wet body, sweat, wet, perfect ratio proportioned face, petite body, perfect waist to hip ratio, flat stomach, perfect female body, wet body, deep skin), BREAK pose, wet, 1 boy, 1large thick dick, male pov, ((girls looking down at man's cock)), titty fuck, ((cock touching nipples)), grab breast, (((cock worship))), fancy walk-in shower background, sex in the large shower, ((blue tile in large shower)), well lit, perfect hands, (((cock worship))), (ahegao), breast press, hand job, (((1girl pushing tip of dick into her nipple))), dynamic angles, licking cock shaft, sucking on scrotum, ((2girls waiting their turn in background)), ",
+        "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, 5p4rr0w, artist style, medieval setting, tavern, bar, solo, 1girl, elf dancer, female focus, lineless, incoth, (incase:0.6), indoors, green eyes, slave bikini, pelvic curtain, no panties, slave collar, cowboy shot, small breasts, long pink hair, swept hair, refined, beautiful, kawaii, dynamic pose, close up, standing on stage, seductive dancing,",
+        "denoise": 0.4,
         "sampler": "Euler a",
-        "cfgScale": 4.5,
-        "clipSkip": 2,
+        "cfgScale": 4,
         "modelIds": [],
-        "priority": "low",
-        "quantity": 1,
-        "workflow": "img2img-upscale",
-        "baseModel": "Pony",
         "upscalers": [
           "urn:air:other:upscaler:civitai:147759@164821"
         ],
         "versionIds": [],
         "controlNets": [],
-        "sourceImage": {
-          "url": "https://orchestration.civitai.com/v2/consumer/blobs/YG2X9Z7MT5HND048YJPV6YYMY0.jpeg",
-          "width": 832,
-          "height": 1216,
-          "upscaleWidth": 2688,
-          "upscaleHeight": 3840
-        },
-        "upscaleWidth": 2688,
-        "upscaleHeight": 3840,
-        "negativePrompt": "core_6, score_5, score_4, worst quality, nipple piercing, extra nipple, weirdly placed nipple, multi colored hair, more than one man, navel piercing, african americans, ((extra penis)), extra penis tip, anime style, twins, triplets, low quality, extra navel, too many fingers on hand, not enough fingers on hand, text, censored, extra hands, deformed, bad hand, blurry, (watermark), extra hands, feet, abnormal scrotum,",
+        "negativePrompt": "worst quality, bad quality, low quality, lowres, displeasing, very displeasing, bad anatomy, bad hands, (deformed, distorted, disfigured:1.5), (mutated hands and fingers:1.5), monochrome background, score_5, score_4, worst quality, low quality, text, censored, deformed, bad hand, blurry, (watermark), extra hands, greyscale, black and white, uneven tan,",
         "civitaiResources": [
           {
             "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 290640
-          },
-          {
-            "weight": 1,
-            "modelVersionId": 9208
-          },
-          {
-            "weight": 0.5,
-            "modelVersionId": 244808
-          },
-          {
-            "weight": 0.45,
-            "modelVersionId": 382152
-          },
-          {
-            "weight": 0.25,
-            "modelVersionId": 398847
+            "modelVersionId": 1612720
           },
           {
             "weight": 0.6,
-            "modelVersionId": 436219
+            "modelVersionId": 244808
           },
           {
-            "weight": 3,
-            "modelVersionId": 712947
+            "weight": 0.6,
+            "modelVersionId": 1189052
+          },
+          {
+            "weight": 0.75,
+            "modelVersionId": 1545543
+          },
+          {
+            "weight": 0.5,
+            "modelVersionId": 1589514
           },
           {
             "type": "upscaler",
@@ -93,22 +65,20 @@
         ],
         "additionalResources": []
       },
-      "username": "holybratwurst",
-      "baseModel": "Pony",
+      "username": "ElvishDreams",
+      "baseModel": "Illustrious",
       "modelVersionIds": [
-        9208,
         164821,
         244808,
-        290640,
-        382152,
-        398847,
-        436219,
-        712947
+        1189052,
+        1545543,
+        1589514,
+        1612720
       ]
     }
   ],
   "metadata": {
-    "nextCursor": "1250|1752021660000",
-    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1250%7C1752021660000"
+    "nextCursor": "1251|1746702090512",
+    "nextPage": "https://civitai.com/api/v1/images?limit=1&nsfw=true&cursor=1251%7C1746702090512"
   }
 }
